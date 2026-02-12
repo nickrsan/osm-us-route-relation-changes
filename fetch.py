@@ -93,7 +93,7 @@ def check_data_freshness(data, endpoint, max_lag_hours):
         return True, 0, timestamp_str
 
 
-def fetch_overpass(query):
+def fetch_overpass(query, out_format="json"):
     """Send query to Overpass API endpoints with fallback.
 
     Tries each endpoint in order. Handles rate limiting (HTTP 429),
@@ -134,13 +134,16 @@ def fetch_overpass(query):
             continue
 
         # Parse JSON
-        try:
-            data = json.loads(body)
-        except json.JSONDecodeError as e:
-            print(f"  Invalid JSON response: {e}", file=sys.stderr)
-            print("  (Does your query include [out:json]?)", file=sys.stderr)
-            last_error = e
-            continue
+        if out_format == "json":
+            try:
+                data = json.loads(body)
+            except json.JSONDecodeError as e:
+                print(f"  Invalid JSON response: {e}", file=sys.stderr)
+                print("  (Does your query include [out:json]?)", file=sys.stderr)
+                last_error = e
+                continue
+        elif out_format == "csv":
+            data = body
 
         # Check for Overpass remark (error/warning in a 200 response)
         remark = data.get("remark")
@@ -163,7 +166,12 @@ def fetch_overpass(query):
         if remark:
             print(f"  Overpass remark (non-fatal): {remark}")
 
-        element_count = len(data.get("elements", []))
+        if out_format == "json":
+            element_count = len(data.get("elements", []))
+
+        elif out_format == "csv":
+            element_count = len(data.split("\n")) 
+
         print(f"  Success: {element_count} elements, data timestamp: {ts}")
         return data
 
@@ -568,7 +576,7 @@ def run_single_export_for_config(cfg, id, name):
     output_path = f"{cfg['output_folder']}/{cfg['filename_prefix']}{name}.{cfg['extension']}"
     query = f"{cfg['query_pre']}{id}{cfg['query_post']}"
     print(f"Query is '{query}'")
-    data = fetch_overpass(query)
+    data = fetch_overpass(query, "csv")
     print(f"Writing output for {name}")
     with open(output_path, 'w') as output:
         output.write(data)
