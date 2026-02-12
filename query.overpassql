@@ -1,5 +1,5 @@
 // Output format: CSV with 60 second timeout
-[out:csv(::id, name][timeout:60];
+[out:csv(::id, name)][timeout:60];
 
 // Define search area using an OSM relation ID
 // Find relation IDs at https://nominatim.openstreetmap.org
