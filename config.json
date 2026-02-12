@@ -1,0 +1,13 @@
+[{
+  "output_folder": "tsv",
+  "filename_prefix": "routes_",
+  "extension": "tsv",
+  "query_pre": "[out:csv(::id, name)][timeout:60];relation(",
+  "query_post": "(relation[\"type\"=\"route\"](area.searchArea););out body;",
+  "ids": [
+    {
+      "name": "US-CA",
+      "id": 165475
+    }
+  ]
+}]
