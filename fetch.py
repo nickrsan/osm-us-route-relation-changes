@@ -9,7 +9,6 @@ Zero external dependencies — stdlib only.
 """
 
 import json
-import time
 import os
 import sys
 import time
@@ -19,6 +18,11 @@ import urllib.request
 from datetime import datetime, timezone
 
 OVERPASS_ENDPOINTS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass-api.de/api/interpreter",
     "https://overpass-api.de/api/interpreter",
  #   "https://overpass.kumi.systems/api/interpreter",
  #   "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
@@ -122,19 +126,21 @@ def fetch_overpass(query, out_format="json"):
             print(f"  HTTP {e.code}: {e.reason}", file=sys.stderr)
             last_error = e
             if e.code == 429:
-                print("  Rate limited, waiting 5s before next server...", file=sys.stderr)
-                time.sleep(5)
+                print("  Rate limited, waiting 10s before next server...", file=sys.stderr)
+                time.sleep(10)
             continue
         except urllib.error.URLError as e:
             print(f"  Network error: {e.reason}", file=sys.stderr)
             last_error = e
+            time.sleep(60)
             continue
         except Exception as e:
             print(f"  Unexpected error: {e}", file=sys.stderr)
             last_error = e
+            time.sleep(60)  # since we're using the same API endpoint, rather than a fallback endpoint, we're going to wait 60 seconds on any network error to give the server time to be in a different state
             continue
 
-        # Parse JSON
+        # Parse JSON or CSV
         if out_format == "json":
             try:
                 data = json.loads(body)
@@ -156,7 +162,7 @@ def fetch_overpass(query, out_format="json"):
             last_error = Exception(remark)
             continue
 
-        # Check data freshness
+        # Check data freshness for JSON data
         is_fresh, lag_hours, ts = check_data_freshness(data, endpoint, max_lag_hours)
         if not is_fresh:
             print(
