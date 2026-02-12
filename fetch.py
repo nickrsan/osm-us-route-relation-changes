@@ -577,7 +577,7 @@ def run_single_export_for_config(cfg, id, name):
 # ---------------------------------------------------------------------------
 
 def main():
-    config = read_onfig(CONFIG_FILE)
+    config = read_config(CONFIG_FILE)
 
     for cfg in config: # there could be more than one
         for item in ids:
