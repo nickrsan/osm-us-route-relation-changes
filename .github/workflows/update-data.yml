@@ -1,4 +1,4 @@
-name: Update GeoJSON Data
+name: Update State Data
 
 on:
   schedule:
