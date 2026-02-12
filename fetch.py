@@ -19,9 +19,9 @@ from datetime import datetime, timezone
 
 OVERPASS_ENDPOINTS = [
     "https://overpass-api.de/api/interpreter",
-    "https://overpass.kumi.systems/api/interpreter",
-    "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
-    "https://overpass.private.coffee/api/interpreter",
+ #   "https://overpass.kumi.systems/api/interpreter",
+ #   "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ #   "https://overpass.private.coffee/api/interpreter",
 ]
 
 # QUERY_FILE = "query.overpassql"
@@ -113,7 +113,7 @@ def fetch_overpass(query, out_format="json"):
             req = urllib.request.Request(
                 endpoint,
                 data=encoded,
-                headers={"User-Agent": "tap-in-osm/1.0"},
+                headers={"User-Agent": "microcosm-us-route-relations/1.0"},
             )
             with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
                 body = resp.read().decode("utf-8")
@@ -181,7 +181,7 @@ def fetch_overpass(query, out_format="json"):
     print("Error: All Overpass endpoints failed.", file=sys.stderr)
     if last_error:
         print(f"  Last error: {last_error}", file=sys.stderr)
-    sys.exit(1)
+    raise RuntimeError()
 
 
 # ---------------------------------------------------------------------------
@@ -579,10 +579,14 @@ def run_single_export_for_config(cfg, id, name):
     output_path = f"{cfg['output_folder']}/{cfg['filename_prefix']}{name}.{cfg['extension']}"
     query = f"{cfg['query_pre']}{id}{cfg['query_post']}"
     print(f"Query is '{query}'")
-    data = fetch_overpass(query, "csv")
-    print(f"Writing output for {name}")
-    with open(output_path, 'w') as output:
-        output.write(data)
+    try:
+        data = fetch_overpass(query, "csv")
+        print(f"Writing output for {name}")
+        with open(output_path, 'w') as output:
+            output.write(data)
+    except RuntimeError:
+        print(f"Couldn't retrieve data for {name} - this is likely a temporary Overpass API issue") 
+    return data
 
 # ---------------------------------------------------------------------------
 # Main
