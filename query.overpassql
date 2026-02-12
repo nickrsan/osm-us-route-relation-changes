@@ -1,16 +1,20 @@
-// Output format: JSON with 30 second timeout
-[out:json][timeout:30];
+// Output format: CSV with 60 second timeout
+[out:csv(::id, name][timeout:60];
 
 // Define search area using an OSM relation ID
 // Find relation IDs at https://nominatim.openstreetmap.org
-// ex, Portland, OR: https://www.openstreetmap.org/relation/186579
-rel(186579);
+// California: https://www.openstreetmap.org/relation/165475
+rel(165475);
 map_to_area->.searchArea;
 
-// Query: all drinking water fountains in the search area
+// Query: all route relations in California - these appear to
+// come back sorted by ID, which means Git diffs should work
+// decently well. New items should be at the end (except when
+// an existing relation is extended to include items in the
+// state, and deleted ones will be removed in the middle relatively cleanly.
 (
-  nwr["amenity"="drinking_water"](area.searchArea);
+  relation["type"="route"](area.searchArea);
 );
 
-// Output full geometry (use "out center body;" for centroids only)
-out body geom;
+// Output just the CSV - skip coords, members, etc.
+out body;
