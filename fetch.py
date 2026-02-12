@@ -24,8 +24,9 @@ OVERPASS_ENDPOINTS = [
     "https://overpass.private.coffee/api/interpreter",
 ]
 
-QUERY_FILE = "query.overpassql"
-OUTPUT_FILE = "data.geojson"
+# QUERY_FILE = "query.overpassql"
+# OUTPUT_FILE = "data.geojson"
+CONFIG_FILE = "config.json"
 DEFAULT_DROP_THRESHOLD = 50  # percent
 DEFAULT_MAX_DATA_LAG_HOURS = 48
 REQUEST_TIMEOUT = 180  # seconds
@@ -557,29 +558,29 @@ def write_geojson(features, path):
         f.write("\n")
 
 
+def read_config(config_file=CONFIG_FILE):
+    with open(config_file, 'r') as c:
+        config = json.load(c)
+    return config
+
+
+def run single_export_for_config(cfg, id, name):
+    output_path = f"{cfg['output_folder']}/{cfg['filename_prefix']}{name}.{cfg['extension'}"
+    query = f"{cfg['query_pre'}{id}{cfg['query_post']}"
+    data = fetch_overpass(query)
+    with open(output_path, 'w') as output:
+        output.write(data)
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 def main():
-    query = read_query(QUERY_FILE)
-    data = fetch_overpass(query)
+    config = read_onfig(CONFIG_FILE)
 
-    elements = data.get("elements", [])
-    features = elements_to_features(elements)
-
-    if not features:
-        print("Error: Query returned zero usable features.", file=sys.stderr)
-        sys.exit(1)
-
-    print(f"Converted {len(features)} features to GeoJSON.")
-
-    threshold = int(os.environ.get("TAP_IN_OSM_DROP_THRESHOLD", DEFAULT_DROP_THRESHOLD))
-    check_feature_drop(len(features), OUTPUT_FILE, threshold)
-
-    write_geojson(features, OUTPUT_FILE)
-    print(f"Wrote {len(features)} features to {OUTPUT_FILE}.")
-
+    for cfg in config: # there could be more than one
+        for item in ids:
+            data = run_single_export_for_config(cfg, item['id'], item['name'])
 
 if __name__ == "__main__":
     main()
