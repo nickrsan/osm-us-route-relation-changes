@@ -2,12 +2,28 @@
   "output_folder": "tsv",
   "filename_prefix": "routes_",
   "extension": "tsv",
-  "query_pre": "[out:csv(::id, name)][timeout:60];relation(",
+  "query_pre": "[out:csv(::id, name, route, network)][timeout:60];relation(",
   "query_post": ");map_to_area->.searchArea;(relation[\"type\"=\"route\"](area.searchArea););out body;",
   "ids": [
     {
+      "name": "US-AL",
+      "id": 161950
+    },
+    {
+      "name": "US-AK",
+      "id": 1116270
+    },
+    {
+      "name": "US-AZ",
+      "id": 162018
+    },
+    {
+      "name": "US-AR",
+      "id": 161646
+    },
+    {
       "name": "US-CA",
       "id": 165475
-    }
+    },
   ]
 }]
