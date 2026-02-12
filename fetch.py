@@ -9,6 +9,7 @@ Zero external dependencies — stdlib only.
 """
 
 import json
+import time
 import os
 import sys
 import time
@@ -601,6 +602,7 @@ def main():
     for cfg in config: # there could be more than one
         for item in cfg['ids']:
             data = run_single_export_for_config(cfg, item['id'], item['name'])
+            time.sleep(10)
 
 if __name__ == "__main__":
     main()
