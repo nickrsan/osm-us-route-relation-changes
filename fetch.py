@@ -591,6 +591,9 @@ def run_single_export_for_config(cfg, id, name):
 def main():
     config = read_config(CONFIG_FILE)
 
+    run_dir = os.path.dirname(os.path.abspath(__file__))
+    os.makedirs(os.path.join(run_dir, "tsv"), exist_ok=True)
+
     for cfg in config: # there could be more than one
         for item in cfg['ids']:
             data = run_single_export_for_config(cfg, item['id'], item['name'])
