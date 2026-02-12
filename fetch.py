@@ -144,6 +144,9 @@ def fetch_overpass(query, out_format="json"):
                 continue
         elif out_format == "csv":
             data = body
+            element_count = len(data.split("\n"))
+            print(f"  Success: {element_count} elements")
+            return data
 
         # Check for Overpass remark (error/warning in a 200 response)
         remark = data.get("remark")
