@@ -565,9 +565,10 @@ def read_config(config_file=CONFIG_FILE):
 
 
 def run_single_export_for_config(cfg, id, name):
-    output_path = f"{cfg['output_folder']}/{cfg['filename_prefix']}{name}.{cfg['extension'}"
-    query = f"{cfg['query_pre'}{id}{cfg['query_post']}"
+    output_path = f"{cfg['output_folder']}/{cfg['filename_prefix']}{name}.{cfg['extension']}"
+    query = f"{cfg['query_pre']}{id}{cfg['query_post']}"
     data = fetch_overpass(query)
+    print(f"Writing output for {name}")
     with open(output_path, 'w') as output:
         output.write(data)
 
