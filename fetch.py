@@ -580,7 +580,7 @@ def main():
     config = read_config(CONFIG_FILE)
 
     for cfg in config: # there could be more than one
-        for item in ids:
+        for item in cfg['ids']:
             data = run_single_export_for_config(cfg, item['id'], item['name'])
 
 if __name__ == "__main__":
