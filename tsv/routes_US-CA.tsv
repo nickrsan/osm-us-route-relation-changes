@@ -1965,8 +1965,8 @@
 6192543	Pasadena Transit 52 (northbound)	bus	Pasadena Transit
 6195057	Summit National Recreation Trail	hiking	lwn
 6196233	Ventura Subdivision	railway	
-6198455	11 (westbound)	road	US:CA
-6198456	11 (eastbound)	road	US:CA
+6198455		road	US:CA
+6198456		road	US:CA
 6200734	Altamont Line	railway	
 6205179	Chynoweth - Santa Teresa	railway	
 6205377	Alum Rock - Baypointe	railway	
@@ -7426,7 +7426,6 @@
 20107253	Sonoma County Transit 28: Guerneville => Occidental via Senior Center	bus	Sonoma County Transit
 20107254	Sonoma County Transit 28: Occidental => Guerneville via Duncans Mills	bus	Sonoma County Transit
 20113011	Fleish Diversion Dam Portage	portage	
-20121738	CA 91 Hist	road	US:CA
 20125432		road	US:I:Old
 20125433		road	US:I:Alternate
 20125434		road	US:I:Truck
