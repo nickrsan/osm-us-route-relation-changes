@@ -1,0 +1,865 @@
+@id	network	ref	direction	name	route
+52281	US:US	302			road
+104926	lcn			Back Cove Trail	bicycle
+104927	lcn			Eastern Prom Multi-Use Trail	bicycle
+104929	lcn			Washington Avenue bike route	bicycle
+104931	lcn			Veranda St. / Falmouth Bike Route	bicycle
+104935	lcn			Route 88 Bike Route	bicycle
+104939	lcn			Danforth Street Bike Route	bicycle
+104940	lcn			Commercial Street Bike Route	
+104945	lcn			Baxter Boulevard Bike Route	bicycle
+104947					bicycle
+104952	lcn			Westbrook-Windham Bike Route	bicycle
+106482	lcn			Park Avenue Bike Route	bicycle
+106489	lcn			Eastern Prom Bike Route	bicycle
+106513	lcn			Greenbelt Walkway	bicycle
+106516	lcn			Fort Williams Bike Route	bicycle
+106518	lcn			Ocean St Bike Route	bicycle
+106520	lcn			Scarborough Beaches Bike Route	bicycle
+106522	lcn			Oak Hill Bike Route	bicycle
+106526	rcn	ET		Eastern Trail Sections 5-7	bicycle
+107071	lcn			Highland Avenue Bike Route	bicycle
+112310	US:US:Bypass	1			road
+307755	US:ME	222			road
+307785	US:ME	221			road
+307788	US:ME	11A			road
+307821	US:I	395	east		road
+307822	US:I	395	west		road
+307920	US:I	195	east		road
+307921	US:I	195	west		road
+308413	US:ME	193			road
+331171	US:ME	182			road
+331181	US:ME	185			road
+331182	US:ME	183			road
+331191	US:ME	186			road
+331192	US:ME	195			road
+331197	US:ME	200			road
+450790	US:US	201			road
+1135636	lcn			Bayside Trail	foot
+1322982	US:NHS High Priority Corridors			NHS High Priority Corridor 50	road
+1369614	US:NH	4			road
+1369619	US:NH	9			road
+1376602	US:NH	11			road
+1711805	lwn			Traverler Mountain Trail	hiking
+1770787	ncn	1		1 (Maine)	bicycle
+1770834	ncn	1A			bicycle
+1770874	ncn	ECG		East Coast Greenway (ME)	bicycle
+1878190	lwn	Maine.gov		Whistle Stop Trail	hiking
+1906031	lwn			East Coast Greenway	hiking
+1936016	US:US:Business	1			road
+1936017	US:US	1A			road
+1936018	US:US	1A			road
+1936019	US:US	1A			road
+1936020	US:US	1A			road
+1936021	US:US	1A			road
+1936022	US:US	1A			road
+1936023	US:US	1A			road
+1936024	US:US	201A			road
+1936025	US:US	2A			road
+1936026	US:US	2A			road
+2007932	nwn	AT	both	Appalachian Trail	hiking
+2097825				Lynx Trail	hiking
+2182761	lwn			Foss and Knowlton Trail	hiking
+2182768	lwn			Wadleigh Brook Trail	hiking
+2297232	US:US	1			road
+2307083	US:US	2			road
+2307086	US:US	2			road
+2307093	US:US	202			road
+2307094	US:US	202			road
+2402617	US:ME	3			road
+2403899	US:ME	4			road
+2403946	US:ME	5			road
+2403979	US:ME	6			road
+2404005	US:ME	7			road
+2404103	US:ME	8			road
+2404148	US:ME	4A			road
+2404149	US:ME	4A			road
+2404220	US:ME	9			road
+2404222	US:ME	10			road
+2404267	US:ME	11		Aroostock Scenic Highway	road
+2404268	US:ME	9A			road
+2404269	US:ME	9B			road
+2404290	US:ME	11A			road
+2406000	US:ME	15			road
+2406007	US:ME	16			road
+2406088	US:ME	17			road
+2406092	US:ME	22			road
+2406102	US:ME	23			road
+2406106	US:ME	24			road
+2406109	US:ME	25			road
+2406125	US:ME	26			road
+3022887	ncn	1			bicycle
+3066618	Concord Trailways			Concord Coach Maine Coastal Route	bus
+3066622	Maine Coastal Route			Concord Coach Lines	bus
+3234364	US:ME	27			road
+3234368	US:ME	32			road
+3234377	US:ME	35			road
+3234383	US:ME	37			road
+3248114	US:ME	43			road
+3248117	US:ME	46			road
+3248126	US:ME	52			road
+3248128	US:ME	69			road
+3248135	US:ME	73			road
+3248145	US:ME	77			road
+3248147	US:ME	85			road
+3248148	US:ME	86			road
+3248149	US:ME	88			road
+3248150	US:ME	89			road
+3248153	US:ME	90			road
+3248160	US:ME	91			road
+3248164	US:ME	92			road
+3248165	US:ME	93			road
+3248166	US:ME	94			road
+3248168	US:ME	96			road
+3248169	US:ME	97			road
+3248172	US:ME	98			road
+3248176	US:ME	99			road
+3248210	US:ME	100			road
+3248214	US:ME	100A			road
+3248216	US:ME	101			road
+3248217	US:ME	102			road
+3248218	US:ME	102A			road
+3248221	US:ME	103			road
+3248225	US:ME	104			road
+3249435	US:ME	105			road
+3249443	US:ME	106			road
+3249460	US:ME	107			road
+3249504	US:ME	108			road
+3249534	US:ME	109			road
+3249536	US:ME	110			road
+3249560	US:ME	111			road
+3249604	US:ME	112			road
+3250165	US:ME	113			road
+3250208	US:ME	114			road
+3250248	US:ME	115			road
+3262845	US:ME	116			road
+3262873	US:ME	117			road
+3262891	US:ME	118			road
+3262897	US:ME	119			road
+3262904	US:ME	120			road
+3262912	US:ME	121			road
+3262918	US:ME	122			road
+3262932	US:ME	123			road
+3262940	US:ME	124			road
+3262948	US:ME	125			road
+3262992	US:ME	126			road
+3263163	US:ME	127			road
+3263197	US:ME	128			road
+3263251	US:ME	129			road
+3263292	US:ME	130			road
+3263344	US:ME	131			road
+3263375	US:ME	132			road
+3263393	US:ME	133			road
+3263401	US:ME	134			road
+3263404	US:ME	135			road
+3263428	US:ME	136			road
+3263448	US:ME	137			road
+3263452	US:ME:Business	137		ME 137 Business	road
+3263464	US:ME	138			road
+3263468	US:ME	139			road
+3263474	US:ME	140			road
+3263475	US:ME	141			road
+3263478	US:ME	142			road
+3263480	US:ME	143			road
+3263482	US:ME	144			road
+3263484	US:ME	145			road
+3263486	US:ME	146			road
+3263487	US:ME	148			road
+3263489	US:ME	149			road
+3264376	US:ME	150			road
+3264383	US:ME	151			road
+3264396	US:ME	152			road
+3264404	US:ME	153			road
+3264489	US:ME	154			road
+3265031	US:ME	155			road
+3265852	US:ME	156			road
+3265856	US:ME	157			road
+3265859	US:ME	158			road
+3265864	US:ME	159			road
+3265870	US:ME	160			road
+3265932	US:ME	161			road
+3265941	US:ME	162			road
+3265959	US:ME	163			road
+3382718	US:I	295	north		road
+3382719	US:I	295	south		road
+3385052	US:I		east		road
+3385053	US:I		west		road
+3394085	US:ME	41			road
+3636847				Maine Eastern Railroad	railway
+3959626	US:ME	233			road
+4004247	lwn			Cathedral Trail	hiking
+4004248	lwn			North Peaks Trail	hiking
+4004249	lwn			Helon Taylor Trail	hiking
+4004250	lwn			Knife Edge Trail	hiking
+4004251	lwn			Abol Slide Trail	hiking
+4004252	lwn			Chimney Pond Trail	hiking
+4004253	lwn			Baxter Peak Cutoff Trail	hiking
+4004254	lwn			Sandy Stream Pond Trail	hiking
+4004255	lwn			Saddle Trail	hiking
+4004256	lwn			Northwest Basin Trail	hiking
+4004257	lwn			Russell Pond Trail	hiking
+4004258	lwn			Cathedral-Cutoff Trail	hiking
+4004260	lwn			Roaring Brook Nature Trail	hiking
+4004261	lwn			Roaring Brook Campground	hiking
+4004262	lwn			Kettle Pond Trail	hiking
+4004263	lwn			Cranberry Pond Trail	hiking
+4004264	lwn			Rum Pond Trail	hiking
+4004272	lwn			Dudley Trail	hiking
+4004273	lwn			Hamlin Peak Cut-Off	hiking
+4004274	lwn			North Basin Trail	hiking
+4004275	lwn			Katahdin Lake Trail	hiking
+4004276	lwn			North Katahdin Lake Trail	hiking
+4004277	lwn			Hamlin Ridge Trail	hiking
+4004278	lwn			North Basin Cut-Off	hiking
+4004279	lwn			South Turner Mountain Trail	hiking
+4004280	lwn			Martin Ponds Trail	hiking
+4004296	lwn			Wassataquoik Stream Trail	hiking
+4004297	lwn			Grand Falls Trail	hiking
+4004304	lwn			Pogy Notch Trail	hiking
+4004306	lwn			Wassataquoik Lake Trail	hiking
+4004307	lwn			South Branch Mountain Trail	hiking
+4541250				Bait Hole Loop	piste
+4541251				North Twin Dam Loop	piste
+4562128	CA:QC:R	173		R 173	road
+4743492	Amtrak	Downeaster		Amtrak Downeaster: Boston => Brunswick	train
+5473454	US:ME:Business	15		ME 15 Business	road
+5476549	US:ME	196			road
+5518625	US:ME	236			road
+5518696	US:ME:Business	25		ME 25 Business	road
+5611135				Eagle Lake and West Branch Railroad	railway
+5806729				Short Loop	hiking
+5972358	US:ME	164			road
+5972359	US:ME	166			road
+5972360	US:ME	166A			road
+5972361	US:ME	167			road
+5972362	US:ME	168			road
+5972363	US:ME	169			road
+5972364	US:ME	170			road
+5972365	US:ME	171			road
+5972562	US:ME	172			road
+5972563	US:ME	173			road
+5972564	US:ME	174			road
+5972565	US:ME	175			road
+5972566	US:ME	176			road
+5972567	US:ME	177			road
+5972568	US:ME	178			road
+5972569	US:ME	179			road
+5972570	US:ME	180			road
+5972571	US:ME	181			road
+5972784	US:ME	184			road
+5972785	US:ME	187			road
+5972786	US:ME	188			road
+5972787	US:ME	189			road
+5972788	US:ME	190			road
+5972789	US:ME	191			road
+5972790	US:ME	192			road
+5972791	US:ME	194			road
+5972806	US:ME	197			road
+5972807	US:ME	198			road
+5972808	US:ME	199			road
+5972809	US:ME	203			road
+5972810	US:ME	204			road
+5972811	US:ME	205			road
+5972886	US:ME	206			road
+5972887	US:ME	207			road
+5972888	US:ME	208			road
+5972889	US:ME	209			road
+5972890	US:ME	212			road
+5972891	US:ME	213			road
+5972892	US:ME	214			road
+5972893	US:ME	215			road
+5972894	US:ME	216			road
+5972895	US:ME	218			road
+5974416	US:ME	161B			road
+5974417	US:ME	219			road
+5974418	US:ME	220			road
+5974419	US:ME	223			road
+5974420	US:ME	224			road
+5974421	US:ME	225			road
+5974422	US:ME	226			road
+5974423	US:ME	227			road
+5974424	US:ME:Truck	228		ME 228 Truck	road
+5974425	US:ME	228			road
+5974426	US:ME	229			road
+5974427	US:ME	230			road
+5974428	US:ME	231			road
+5974429	US:ME	232			road
+5974430	US:ME	234			road
+5974431	US:ME	235			road
+5974432	US:ME	237			road
+5974433	US:ME	238			road
+6174016	rwn			Beech Mountain South Trail	hiking
+6174017	rwn			Beech West Ridge Trail	hiking
+6174018	rwn			Bernard Mountain Trail	hiking
+6174019	rwn			Cold Brook Trail	hiking
+6174020	rwn			Long Pond Trail	hiking
+6174021	rwn			Ship Harbor	hiking
+6174022	rwn			Sluceway Trail	hiking
+6174023	rwn			Valley Trail	hiking
+6174024	rwn			Wonderland	hiking
+6174060	rwn			Acadia Mountain Trail	hiking
+6174061	rwn			Saint Sauveur Mountain Trail	hiking
+6176432	rwn			Beech Cliff Trail	hiking
+6176433	rwn			Perpendicular Trail	hiking
+6176488	rwn			Great Notch Trail	hiking
+6176489	rwn			Valley Cove Trail	hiking
+6176494	rwn			Valley Peak Trail	hiking
+6406453	lwn			River Link	hiking
+6406454	lwn				hiking
+6406455	lwn				hiking
+6406456	lwn				hiking
+6406457	lwn				hiking
+6406458	lwn				hiking
+6406459	lwn				hiking
+6406460	lwn				hiking
+6406461	lwn				hiking
+6433758	lwn				hiking
+6433760	lwn			Pond Loop	hiking
+6433811	lwn			Old Speck Trail	hiking
+6544824	nwn	IAT-SIA		International Appalachian Trail New-Brunswick	hiking
+6545856	lwn			Grand Pitch Trail	hiking
+6773690	METRO	BRZ		METRO BREEZ Outbound	bus
+6786093	METRO	BRZ		METRO BREEZ Inbound	bus
+6817156	METRO	8		METRO Route 8 Peninsula Loop	bus
+6822224	METRO	1		METRO Route 1 Outbound	bus
+6822243	METRO	1		METRO Route 1 Inbound	bus
+7378740				Midcoast Maine < > Boston and Logan Airport	bus
+7412334	US:NH	113B			road
+7427713	Shuttlebus-Local			"Biddeford, Old Orchard Beach, Saco Local"	bus
+7427732				SMTT 24A Route Outbound	bus
+7427747					bus
+7427759	Greater-Portland-Me			METRO BREEZ Outbound	bus
+7427840					bus
+7427842				Bus Route SMTT 21 Outbound	bus
+7427856		ZOOM Express STC		ZOOM Express Saco Transportation Center	bus
+7427882	METRO	2		Metro #2 Outbound	bus
+7427883	METRO	2		Metro #2 Inbound	bus
+7637853				WW&F Railway Museum	railway
+8457847	lwn			Canco Woods	hiking
+8477370	lwn			Presumpscot River Trails	hiking
+8477371	rwn			Portland Public Trails	hiking
+8918869				Moosehead Subdivision	railway
+8918976	Central_Maine_and_Quebec_Railway			K.I. Subdivision	
+8919770				Searsport Subdivision	
+8919865				Millinocket Subdivision	railway
+8919898				East Millinocket Subdivision	
+8919911				Madawaska Subdivision	railway
+8921002				Presque Isle Subdivision	railway
+8923915	MDTT			Mountain Division (SoM)	railway
+8924816	state of Maine			Houlton Subdivision	railway
+8925458				Bucksport Branch	railway
+8927473				Rumford Branch	railway
+8927663	METRO	HSK		Metro Route HSK Husky Line INBOUND	bus
+8927664	METRO	HSK		Metro Route HSK Husky Line OUTBOUND	bus
+8968105	CSX Transportation	WV		Waterville Subdivision	railway
+8968575				Freight Main Line - District 2	railway
+9068617		248		Graham - Orrington 115kV transmission line	power
+9068618				Graham - Orrington 115kV transmission line	power
+9068619				Graham - Orrington 115kV transmission line	power
+9068620					power
+9068621					power
+9068654				Graham - Orrington 115kV transmission line	power
+9068655					power
+9068656					power
+9068657					power
+9068727		396		Keswick - Chester - Orrington 345kV transmission line	power
+9068728					power
+9068729		3001		Keswick - Chester 345kV transmission line	power
+9068736					power
+9068737		247		Orrington - Chemical 115kV transmission line	power
+9068760					power
+9068761					power
+9068762					power
+9068944	METRO	3		METRO Route 3 Inbound	bus
+9069026	METRO	3		METRO Route 3 Outbound	bus
+9071514				Eastern Maine Railway	railway
+9071517	METRO	9A		METRO Route 9A North Deering via Stevens Avenue	bus
+9075668	METRO	9B		METRO Route 9B North Deering via Washington Avenue	bus
+9086180				Maritimes and Northeast Pipeline	pipeline
+9103143				"Wiscasset, Waterville & Farmington Railway"	railway
+9128033				Somerset and Kennebec Railroad	railway
+9128306				Bangor and Aroostook Railroad - Old Town to Greenville	railway
+9128702				Bangor and Aroostook Railroad - Searsport to Packard	railway
+9128941				Bangor and Aroostook Railroad - Milo to Van Buren	railway
+9229014				St. Lawrence and Atlantic Railroad	railway
+9246378					navigable_waterway
+9311722	rwn	SF1		Sentier Frontalier 1	hiking
+9314599					
+9314600					
+9365594		1		Main Street (6:00am and 6:30am)	bus
+9365691		4		New Auburn	bus
+9365773		5		Minot Avenue	bus
+9372746		6		College Street	bus
+9372772		8		Mall Shuttle	bus
+9374788		1		"Main Street (7am, 3:15 and 4:15 variation)"	bus
+9374816		1		Main Street	bus
+9391241		2		Sabattus Street	bus
+9710675	lcn	KRRT		Kennebec River Rail Trail	bicycle
+9713142				Mill Brook Preserve Trail	hiking
+9742104				Monson Railroad	railway
+9772843	lwn			Jesup Path	hiking
+9772874	lwn			Cadillac South Ridge Trail	hiking
+9776203	lwn			Cadillac North Ridge Trail	hiking
+9776204	lwn			Dorr Mountain North Ridge Trail	hiking
+9776205	lwn			Dorr Mountain South Ridge Trail	hiking
+9776206	lwn			Kane Path	hiking
+9776207	lwn			Canon Brook Trail	hiking
+9791634	lwn			Homans Path	hiking
+9791635	lwn			Emery Path	hiking
+9791636	lwn			Schiff Path	hiking
+9791637	lwn			Kurt Diederichs Climb	hiking
+9791638	lwn			Ladder Trail	hiking
+9808341	lwn			Kebo Mountain Trail	hiking
+9808342	lwn			Kebo Brook Trail	hiking
+9808343	lwn			Great Meadow Loop	hiking
+9808344	lwn			Stratheden Path	hiking
+9813682	lwn			Hemlock Road	hiking
+9813683	lwn			Hemlock Trail	hiking
+9813684	lwn			Gorge Path	hiking
+9813685	lwn			A Murray Young Path	hiking
+9816830	lwn			Beachcroft Path	hiking
+9816831	lwn			Champlain North Ridge Trail	hiking
+9816832	lwn			Precipice Trail	hiking
+9816833	lwn			Champlain South Ridge Trail	hiking
+9816834	lwn			Murphy Lane	hiking
+9816835	lwn			Bowl Trail	hiking
+9816836	lwn			Beehive Trail	hiking
+9816837	lwn			Schooner Head Path	hiking
+9816838	lwn			Compass Harbor Trail	hiking
+9816839	lwn			Orange & Black Path	hiking
+9816840	lwn			Great Head Trail	hiking
+9816841	lwn			Satterlee Trail	hiking
+9816842	lwn			Ocean Path	hiking
+9816843	lwn			Gorham Mountain Trail	hiking
+9816844	lwn			Cadillac Cliffs Path	hiking
+9816845					hiking
+9841900	lwn			Eagles Crag Trail	hiking
+9845683	lwn			Day Mountain Trail	hiking
+9845684	lwn			Triad Trail	hiking
+9845685	lwn			Pemetic East Cliff Trail	hiking
+9845686	lwn			Pemetic South Ridge Trail	hiking
+9845687	lwn			Pemetic Mountain North Ridge Trail	hiking
+9845688	lwn			Pemetic Mountain Northwest Trail	hiking
+9845689	lwn			Cadillac West Face Trail	hiking
+9845690	lwn			Hunters Brook Trail	hiking
+9845691	lwn			Traid Pass	hiking
+9971549	rcn	XNHAT		Cross New Hampshire Adventure Trail	bicycle
+10179432				Pipeline Montréal-Portland	pipeline
+10215566	ncn	501			bicycle
+10286887	lcn			Bangor & Aroostook Trail	bicycle
+10286888	lcn			Saint John Valley Heritage Trail	bicycle
+10286889	lcn			Bangor & Aroostook Trail Western Branch	bicycle
+10286933	lcn			Aroostook Valley Trail	bicycle
+10286934	lcn			Aroostook Valley Trail Eastern Branch	bicycle
+11048815				North Loop	bus
+11049021	Community Connector			Hammond Street Route	bus
+11049048	Community Connector	Hammond Street		Hammond Street Route	bus
+11049100	Community Connector	Hampden		Hampden Route	bus
+11208709	lcn			Bald Mountain Trail	hiking
+11209676	lcn			Hatchery Book Preserve Loop	hiking
+11209677	lcn			Mingo Springs Trail	hiking
+11210367	US:ME:ITS	84		Snowmobile ITS 84	snowmobile
+11210368	lwn			Bonney Point Trail	hiking
+11224495	US:ME:ITS	108		Snowmobile Connector Route ITS 108	snowmobile
+11225435	lwn			Public Foot Path	hiking
+11226474	US:ME:ITS			Rangeley-Stratton Connector	snowmobile
+11259697	US:ME			Snowmobile Salem Trail	snowmobile
+11287871	US:ME:ITS	86		Snowmobile ITS 86	snowmobile
+11287872	US:ME:Snowmobile			KibbyWind Farm Snowmobile Trail	snowmobile
+11289780	lwn			Around Pond Trail	hiking
+11311495	Sanford Transit			Springvale-Sanford (Southbound)	bus
+11312449				Walmart & Fairfield	bus
+11317059				Western Maine GreenLine	bus
+11579313	US:ME:ITS	81		Snowmobile Route ITS 81	snowmobile
+11579314	US:ME:ITS	105		Snowmobile Route ITS 105	snowmobile
+11579315	US:ME:ITS	83		Snowmobile Route ITS 83	snowmobile
+11653375	lwn			The Mountain Trail	hiking
+11653376	lwn			Mount Phillip Trail	hiking
+11653377	lwn			French's Mountain Trail	hiking
+11653378	rwn			Sanders Hill Trail	hiking
+11653379	rwn			Round Top Trail	hiking
+11664822	lwn			Cobscook Bay Nature Trail Loop	hiking
+11664823	lwn			Reversing Falls Trail	hiking
+11668482				Anthony's Beach Trail	hiking
+11669629	lwn			Fowler's Mill Pond Trail	hiking
+11669630	lwn			Klondike Mountain Trail	hiking
+11670323	lwn			Gulliver's Hole-Artic Bog Trail	hiking
+11670324	lwn			Quoddy Coast Guard Trail	hiking
+11670956	lwn			Shackford Head Trail	hiking
+11673538	lwn			Benny's Mountain Trail	hiking
+11673539	lwn			Hamilton Cove Trail	hiking
+11673776	lwn			Sippy Bay Loop	hiking
+11674312	lwn			Norse Pond Trail	hiking
+11674313	lwn			Boot Head Trail	hiking
+11679359	lwn			Cove Trail	hiking
+11679360	lwn			Huckins Beach Trail	hiking
+11679798	lwn			Mowry Beach Trail	hiking
+11680031	lwn			Cutter Loop Trail	hiking
+11680032	lwn			Blue Trail	hiking
+11720381				Moosehorn Tour Route	road
+11740645	lwn			Edmunds Wilderness Trail	hiking
+11740723	lwn			Barn Meadow Loop	hiking
+11743092	lwn			Mausam River Outlook Access Trail	hiking
+11758495	lwn			Long Creek Trail	foot
+11759251				Fore River Trail	foot
+11779439	lwn			West Shore Loop Trail	hiking
+11779440	lwn			East Loop Loop Trail	hiking
+11779441	lwn			South Loop Trail	hiking
+11786546	US:ME:ITS	82		Snowmobile ITS 82	snowmobile
+11787402				Oxford Cumberland Canal Trail	hiking
+11787417				Forest City Trail	hiking
+11787418				Startbird	hiking
+11787419				Rail Road Loop	hiking
+11787507				Stroudwater Trail	hiking
+11792717	lwn			Devel's Head Trail	hiking
+11792718	lwn			Shoreline Bluffs Trail	hiking
+11797187	lwn			Great Wass Island Loop	hiking
+11797459	lwn			Indian Point Trail	hiking
+11813197	lwn			Heath Round Loop Trail	hiking
+11820043				Mackworth Island Trail	foot
+11831385					railway
+11842207				Pine Grove Trail	foot
+11847151	lwn			Dawn Marie Beach Trail	hiking
+11851443	lwn			Wabassus Mountain Trail	hiking
+11860751	lwn			Little Mayberry Cove Trail	hiking
+11889368	Amtrak	Downeaster		Amtrak Downeaster: Brunswick => Boston	train
+11889370	Amtrak	Downeaster		Amtrak Downeaster: Brunswick => Old Orchard Beach => Boston	train
+11938258				Kennebec Valley Trail	mtb
+12078634	lwn			Marginal Way	foot
+12087468	Cooperative Alliance for Seacoast Transportation	1		COAST Bus 1: Dover / Somersworth / Berwick Northbound	bus
+12091596	Cooperative Alliance for Seacoast Transportation	44		COAST Bus 44: Portsmouth City Hall / Kittery (PNSY Gate 1) Outbound	bus
+12091974	Cooperative Alliance for Seacoast Transportation	100		COAST Bus 100: Somersworth / Berwick / Kittery (PNSY Gate 1) PM	bus
+12264761	rwn			Sebago to the Sea Trail	hiking
+12416354	Community Connector	Black Bear Orono		Black Bear Orono Express Route	bus
+12416846	Community Connector	Brewer		Brewer North & South Routes	bus
+12418589	Community Connector	Capehart		Capehart Route	bus
+12418777	Community Connector	Center Street		Center Street Route	bus
+12418926	Community Connector	Mall Hopper		Mall Hopper Route	bus
+12419350	Community Connector	Mount Hope		Mount Hope Route	bus
+12419415	Community Connector	Old Town		Old Town Route	bus
+12420005	Community Connector	Stillwater Avenue		Stillwater Avenue Route	bus
+12446038				Schoodic Scenic Byway	road
+12453107		Springvale to Sanford		Springvale to Sanford	bus
+12453331				Rangeley Lakes Scenic Byway	road
+12453596				Old Canada Road Scenic Byway	road
+12484353	lwn			Old Millbrook Trail System	hiking
+12486142	lwn			Lucy R Sprague Memorial Trail	foot
+12491346	lwn			Camp Ketcha trails	foot
+12493467		Orange & Black		Orange & Black Line	bus
+12493499		Blue & White		Blue & White Line	bus
+12493689		Green		Green Line	bus
+12493875		Yellow		Yellow Line	bus
+12494744		ZOOM Express Biddeford		ZOOM Express Biddeford	bus
+12507070				West Side Trail	foot
+12528828				Highland Trail	foot
+12550827	US:ME	105E			road
+12587171				Fore River Parkway Trail	foot
+12587172				Tobogan Run	foot
+12587279				Ledgewood Connector	foot
+12587280				Charlotte	foot
+12587281				Virginia Woods	foot
+12591128				Armory Trail	foot
+12601143				Cross Town Trail	foot
+12601599				Hobstone Woods Trail	foot
+12608026				Grafton Loop Trail	hiking
+12668693		1		Congress Street	bus
+12668706		2		Riverton Forest Avenue	bus
+12668720		3		Westbrook Crosstown	bus
+12668745		4		Westbrook Brighton Avenue	bus
+12668775		5		Maine Mall	bus
+12669067	Metro Bus	7		Falmouth	bus
+12669112		8		Peninsula Loop	bus
+12669215		9A		North Deering via Stevens Ave	bus
+12669868		9B		North Deering via Washington Ave	bus
+12670782		BRZ		Metro Breez	bus
+12671004		HSK		Husky Line	bus
+12671151		21		Willard Square	bus
+12671387		24A		Maine Mall via Main Street	bus
+12671476		24B		Maine Mall via Community Center	bus
+12727135		1		MAIN STREET	bus
+12727286		2		SABATTUS STREET	bus
+12727519		3		LISBON STREET	bus
+12727597		4		NEW AUBURN	bus
+12727942		5		MINOT AVENUE	bus
+12728195		6		COLLEGE STREET	bus
+12729706		7		AUBURN MALLS	bus
+12729709		10		PETTENGILL PARK	bus
+12729959		9		DOWNTOWN SHUTTLE	bus
+12729963		8		MALL SHUTTLE	bus
+13107337	rcn	DEST		Down East Sunrise Trail	bicycle
+13218179	local			Cross Falmouth Trail	hiking
+13237882				St. Lawrence and Atlantic Railroad Berlin Subdivision	railway
+13249176	US:NH	25			road
+13375180	Casco Bay Lines			Down Bay Islands	ferry
+13375181	Casco Bay Lines			Inner Bay Islands	ferry
+13433902	ncn	ECG		East Coast Greenway (ME Complementary route)	bicycle
+13534569	US:ME:ITS	89		Snowmobile ITS 89	snowmobile
+13899038		14		Joe Buzzell Lane	piste
+13899314					road
+13905412					road
+13905413					road
+13905414					road
+13905415					road
+13905416					road
+13905417					road
+13997361	US:ME:ITS	85		Snowmobile ITS 85	snowmobile
+14007451		46		Snowmobile Trail 46	snowmobile
+14027282	US:ME:ITS	115		Snowmobile ITS 115 Connector	snowmobile
+14040178	US:ME:ITS	115		Snowmobile ITS 115 Connector	snowmobile
+14040179		30		Snowmobile Trail 30	snowmobile
+14139154	lcn			Newport/Dover-Foxcroft Rail Trail	foot
+14178590	US:I	95	south		road
+14178591	US:I	95	north		road
+14216014				Mary's Mile	bicycle
+14216015				Presque Isle Bike Path	bicycle
+14368957					
+14368961					
+14368965					
+14368968					
+14368974					
+14368989					
+14368994					
+14369139					
+14369148					
+14369150					
+14369157					
+14369161					
+14369168					
+14369649					
+14612152				Success Pond Railroad	railway
+14613733				Wild River Railroad	railway
+14614584				Snowmobile Flagstaff Mountain Trail	snowmobile
+14614585				Snowmobile Broken Bridge Trail	snowmobile
+14614701				Snowmobile Kibby Mountain Trail	snowmobile
+14659432				Cony Cycle and Foot Paths	bicycle
+14659433				Running Track	hiking
+14659539				Cony Street	road
+14734860	US:ME:ITS	115		Snowmobile ITS 115 Connector	snowmobile
+14877316	US:NH	236			road
+14877322	US:NH	153			road
+14939625	lwn			Notch Trail	hiking
+14962226	lwn			Great Marsh Trail	foot
+14965917	US:ME:Turnpike			Maine Turnpike	road
+14995028	lwn			White Trail	hiking
+14995029	lwn			Red Trail	hiking
+15015210	lwn			Great Circle Trail	hiking
+15024920				Acadia Park Loop Road	road
+15060539	lwn			Freezeout Trail	hiking
+15060600	lwn			Frost Pond Trail	hiking
+15061761	lwn			Owl Trail	hiking
+15061762	lwn			Caverly Lookout	hiking
+15061763	lwn			Doubletop Trail	hiking
+15062107	lwn			Lower Fowler Pond Trail	hiking
+15062111	lwn			Dwelley Pond Trail	hiking
+15063141	lwn			Marston Trail	hiking
+15063142	lwn			Mount Coe Trail	hiking
+15063143	lwn			OJI Link	hiking
+15063144	lwn			OJI Trail	hiking
+15063145	lwn			Abol Pond Trail	hiking
+15077556	lwn			Sentinel Mountain Trail	hiking
+15284827				Acadia All-American Road	road
+15328392		Northbound		Lakes Region Explorer	bus
+15328393		Southbound		Lakes Region Explorer	bus
+15330522				Augusta North	bus
+15334853				Kennedy Drive	bus
+15334955				Augusta East	bus
+15353230				Lisbon Connection	bus
+15353772	US:ME:ITS	90		Snowmobile ITS 90	snowmobile
+15353773	US:ME:ITS	85		Snowmobile ITS 85	snowmobile
+15353899	US:ME:ITS	83		Snowmobile ITS 83	snowmobile
+15353900	US:ME:ITS	88		Snowmobile ITS 88	snowmobile
+15355929				Blue Line	bus
+15360215				South Loop	bus
+15360270				Greenline Connector	bus
+15392445				Augusta West	bus
+15397242	US:ME:ITS	120		Snowmobile ITS 120 Connector	snowmobile
+15397298	US:ME:ITS	105		Snowmobile ITS 105 Connector	snowmobile
+15426215	US:ME:ITS	92		Snowmobile ITS 92	snowmobile
+15445543	Cooperative Alliance for Seacoast Transportation	44		COAST Bus 44: Portsmouth City Hall / Kittery (PNSY Gate 1) Inbound	bus
+15551185	Cooperative Alliance for Seacoast Transportation	100		COAST Bus 100: Somersworth / Berwick / Kittery (PNSY Gate 1) AM	bus
+15737571	lwn			Sebois Riverside Trail	hiking
+15948306	lwn			Jordan Cliffs Trail	hiking
+15948308	lwn			Flying Mountain Trail	hiking
+15948309	lwn			Giant Slide Trail	hiking
+16146671	Cooperative Alliance for Seacoast Transportation	1		COAST Bus 1: Dover / Somersworth / Berwick Southbound	bus
+16271633	lcn			Whistle Stop Trail	bicycle
+16289391	ipn	NFCT		Northern Forest Canoe Trail	canoe
+16314907	rpn	PRPT		Penobscot River Paddling Trail	canoe
+16403956	US:I	95			road
+16462678	lpn			Moose River Bow Loop	canoe
+16462863	lpn			North Branch Dead River Trail	canoe
+16463438	rpn	AWW		Allagash Wilderness Waterway	canoe
+16469739	rpn	EMCT		Eastern Maine Canoe Trail	canoe
+16690895	lwn			Boulder Hill Loop	foot
+16690896	lwn			Starflower Loop	foot
+16780735	rpn			Androscoggin River Trail	canoe
+16837176				Foundry Trail	foot
+16847624		lpn		Royal River Water Trail	canoe
+16889350				Mountain Division Rail Trail	bicycle
+16889351				Mountain Division Rail Trail	bicycle
+16908500				Henderson Brook Trail	hiking
+16951340	lcn			Libbytown-Deering Neighborhood Byway	bicycle
+17095732	Trolley Stop			Boothbay Harbor Trolley	trolleybus
+17149225		10		Cold Water Brook	piste
+17149226		7		Bobcat	piste
+17149227		5		Sokokis Woods	piste
+17149228		8		Buck Bramble	piste
+17149229		21		Deer Run	piste
+17189199				Cliff Walk	hiking
+17376467				Fanzanger Falls Carry	portage
+17395521	lwn			Maine Huts Trail	hiking
+17395522				Falls Trail	hiking
+17395687				Demo Road Carry	portage
+17493632	lwn	1		Kennebunkport Cross-town Trail	hiking
+17493633	lwn	1		Plymouth Trail/Future Atlantic Circuit Trail	hiking
+17637722				Loring Air Force Base	railway
+17656468	lwn			Red Oak Trail	foot
+17744191				Green Mountain Cog Railway	train
+17753907	lwn			Red Trail	foot
+17765698	US:ME			Scarborough Connector	road
+17765709	US:ME			Maine Turnpike Approach Road	road
+17804662	lcn	JPL		Jordan Pond Loop	bicycle
+17804663	lcn	DML		Day Mountain Loop	bicycle
+17804664	lcn	AML		Around the Mountain Loop	bicycle
+17804665	lcn	HL		Hadlock Loop	bicycle
+17804666	lcn	AL		Amphitheater Loop	bicycle
+17804667	lcn	TLL		Tri Lakes Loop	bicycle
+17804668	lcn	ELL		Eagle Lake Loop	bicycle
+17804669	lcn	WHPL		Witch Hole Pond Loop	bicycle
+17846424	rcn	ET		Eastern Trail Section 1	bicycle
+17848491	rcn	ET		Eastern Trail Section 2	bicycle
+17848538	rcn	ET		Eastern Trail Section 3	bicycle
+17849579	rcn	ET		Eastern Trail Section 4	bicycle
+17849609	rcn	ET		Eastern Trail	bicycle
+17923496				Searsport–Loring Pipeline	pipeline
+17950771				Round Pond Carry	portage
+17987944				"Portland, Saco and Portsmouth Railroad"	railway
+17988173				Atlantic Shore Line Railway	railway
+17988174				Kennebunk & Kennebunkport Railroad Company	railway
+18049277				Somerset Railroad	railway
+18086992				Star City Connector	bus
+18087053				Ellsworth Shuttle	bus
+18088704				Bar Harbor Shuttle 8:30	bus
+18088705				Bar Harbor Shuttle 9:30;11:15	bus
+18088706				Bar Harbor Shuttle 10:30	bus
+18088707				Bar Harbor Shuttle 12:30	bus
+18088764				Bucksport Shuttle 10:43a	bus
+18088790				Rockland DASH	bus
+18088912				Belfast DASH	bus
+18089747				Kennbunk In Town Transport (KITT) - Southbound	bus
+18089748				Kennebunk In Town Transport (KITT) - Northbound	bus
+18154257				Katahdin Loop Road	road
+18176963				Katahdin Region Multi-Use Trail	atv
+18383668				Pinkham Road	road
+18470776	lcn			Old River Loop Trail	bicycle
+18475149				Grand Lake Matagamon Dam Portage	portage
+18478313	US:ME:ITS	112		Snowmobile ITS 112 Connector	snowmobile
+18478315	US:ME:ITS	83		Snowmobile ITS 83	snowmobile
+18482987				Nature Trail	foot
+18482988				Forest Loop Trail	foot
+18482989				Turner Falls Trail	foot
+18482990				River Trail	foot
+18535911	US:ME:ITS	102		Snowmobile ITS 109 Connector	snowmobile
+18544698				Sandy River & Rangeley Lakes Railroad	railway
+18544846				Bridgton and Saco River Railroad	railway
+18544858				Kennebec Central Railroad	railway
+18546981	Maine Central			Farmington Branch	railway
+18696209				Big Ambejackmockamus Falls Carry	portage
+18696294				Pokey Dam Carry	portage
+18702295					portage
+18719804				Northeast Carry	portage
+18728043				Great Carrying Place Portage	portage
+18746930				The LAP	bus
+18785910				Union Falls Portage	portage
+18888894				Brunswick Dam Portage	portage
+18956137	lpn			Seboeis River Paddling Trail	canoe
+19060169					portage
+19118635				Realty Road	road
+19133852				North Gorham Dam Portage	portage
+19133853				Dundee Dam Portage	portage
+19133854	lpn			Presumpscot Water Trail	canoe
+19143008				Gambo Dam Portage	portage
+19143009				Little Falls Dam Portage	portage
+19143010				Mallison Dam Portage	portage
+19147714				Attean Pond-Holeb Pond Portage	portage
+19150658				Medway Dam Portage	portage
+19174644				Depot Road	road
+19179947				Saccarappa Falls Portage	portage
+19183749				Cumberland Mills Dam Portage	portage
+19189412				Saint Juste Road	road
+19222559				Lower Road Branch	railway
+19231356				Twentymile Brook Road	road
+19238382	lwn			Cadillac-Dorr Connector	hiking
+19276799				Hemlock Trail	hiking
+19276893	lwn			Cutts Island Trail	hiking
+19287305					portage
+19298197	lwn			Hadlock Ponds Trail	hiking
+19299346	lwn			Salamander Trail	hiking
+19314581	US:ME:Business	9		ME 9 Business	road
+19328935	lwn			Pleasant River Trail	hiking
+19328936	lwn			First West Branch Cutoff	hiking
+19331101	lwn			Abol Stream Trail	hiking
+19333008	lwn			Loop Trail	hiking
+19337830	lwn			Near Point Trail	hiking
+19337831	lwn			Bobolink Trail	hiking
+19341319	lwn			Violet Link	hiking
+19346433				Volunteer Way	piste
+19348021				Shawmut Canoe Portage	portage
+19348831				Green Bean Trail	piste
+19348832				:Piste Acadienne	piste
+19352039				Deer Rips Dam Portage	portage
+19352398				Grand Outlook	piste
+19352399				Can-Am Trail	piste
+19352400				Piste du Voyageur	piste
+19352423				Longfalls Dam Carry	portage
+19372828		15		Buzzell Extension	piste
+19373413				Hundred-Mile Wilderness	hiking
+19387161				Johnston Pond Road	road
+19469387				CPKC Bangor Subdivision	railway
+19507883	lwn			Sandbank Flowage Walk	hiking
+19507884	lwn			Orin Falls Trail	hiking
+19507902				Swift Brook Road	road
+19511880				RiverWalk	foot
+19514939				Telos Road	road
+19522024				Portland Natural Gas Transmission System	pipeline
+19559537				Kite Track	historic
+19575619				Jo Mary Road	road
+19575696	US:ME:ITS	109		Snowmobile ITS 109 Connector	snowmobile
+19578908	lwn			Laurie's Ledge Trail	hiking
+19622098	US:ME:ITS	81-A		Trail 81-A	snowmobile
+19681068				Halls Mills Portage Trail	portage
+19681098	lpn			Orange River Water Trail	canoe
+19681514				Lock Dam Portage	portage
+19684794				Shark Fin Portage	portage
+19751122	US:ME:Business	24		ME 24 Business	road
+19757242	lwn			Coastal Trail	hiking
+19757243	lwn			Thompson Trail	hiking
+19860125				Mountain Division (New Hampshire)	railway
+19897541				Williams Dam Portage	portage
+19904456	lwn			Dipper Cove Path	foot
+19904457				Spruce-Fir Forest Trail	foot
+19904458				Pine Needle Path	foot
+19904459		Schiller Coastal Studies Center		Brewer Cove Trail	foot
+19916328				Staceyville Road	road
+19955675	lwn			Cross Town Trail	hiking
+19972996		20		Meadow Run	piste
+19972997				Julie’s Way	piste
+19972998		22		Lower Farm Forest	piste
+19972999		23		Upper Farm Forest	piste
+19973000		24		Gaze Trail	piste
+19973001		25		Express Way	piste
+19973002		6		David's Pasture	piste
+19973003		2		Maternity Loop	piste
+19973004		16		Pond Passage	piste
+19973005		19		Moonlight Madness	piste
+19973006		4		Pole Barn Run	piste
+19973059				Wawenock Ahwangan	canoe
+19973060				Pemaquid Portage	portage
+19994205	lwn			North Loop Trail	hiking
+19994206	lwn			Lake Loop Trail	hiking
+20018061				Logger’s Luck	piste
+20023466				Northwest Carry	portage
+20048394				Songo Lock Carry	portage
+20071782				Rollerski Loops	piste
+20126298				Churchill Dam Portage	portage
+20126299				Chase Rapids Portage	portage

@@ -1,0 +1,1361 @@
+@id	network	ref	direction	name	route
+62935	US:I	670			road
+69695	US:US:Alternate	69			road
+77770	US:MO	150			road
+78990	US:I	70	west		road
+79230	US:I	635			road
+94008	US:KS	7			road
+95079	US:US	166			road
+95080	US:US	400	west		road
+197191	US:KS	10		KS 10	road
+228513	US:I	335			road
+228514	US:I	470			road
+228529	US:I	70	west		road
+228590	US:KS:Turnpike			Kansas Turnpike	road
+229568	US:I	135			road
+229569	US:I	235			road
+276210	US:KS	171		KS 171 (East)	road
+294992	US:MO:Supplemental	CC			road
+331495	US:US	24			road
+374606	US:KS	5			road
+374982	US:US	40			road
+375050	US:US	73			road
+398373	US:US	159			road
+404201	US:KS	15		Eisenhower Memorial Highway	road
+413305	US:KS	99			road
+413444	US:KS	177		KS 177	road
+422570	US:US	40			road
+456622	US:MO	52			road
+557361	lcn			Hudson Trail	bicycle
+557363	lcn			Anneberg Park Trail	bicycle
+557365	lcn			Linear Trail	bicycle
+576384	lcn			Manhattan River Trails	bicycle
+899040	lcn			Arkansas River Bicycle Path	bicycle
+904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+908972	lhn			Konza Prairie Nature Trail	hiking
+1029438	US:KS	113		KS 113	road
+1076513	US:KS	18		KS 114	road
+1115998	US:KS	80		KS 80	road
+1163751	US:KS	16		KS 16	road
+1165214	US:KS	58		KS 58	road
+1165215	US:KS	249		KS 249	road
+1165274	US:KS	92		KS 92	road
+1165303	US:KS	20		KS 20	road
+1319488	US:NHS High Priority Corridors			NHS High Priority Corridor 3	road
+1320630	US:NHS High Priority Corridors			NHS High Priority Corridor 23	road
+1322985	US:NHS High Priority Corridors			NHS High Priority Corridor 48	road
+1323042	US:NHS High Priority Corridors			NHS High Priority Corridor 51	road
+1331055	US:KS	148		KS 148	road
+1331056	US:KS	128		KS 128	road
+1331057	US:KS	28		KS 28	road
+1331059	US:KS	14		KS 14	road
+1333225	US:KS	9		KS 9	road
+1333226	US:KS	22		KS 22	road
+1421728				Limon Subdivision	railway
+1431035				Salina Subdivision	railway
+1431036				Sharon Springs Subdivision	railway
+1431037				Lost Springs Subdivision	railway
+1431038				Arkansas City Industrial Lead	railway
+1431039				Topeka Subdivision	railway
+1431040				Pratt Subdivision	railway
+1431041				Trigo Industrial Lead	railway
+1431042				McPherson Industrial Lead	railway
+1431043				Wichita Industrial Lead	railway
+1431044				Hope Industrial Lead	railway
+1431045				Sid Industrial Lead	railway
+1431046				Herington Subdivision	railway
+1431047				Plainville Industrial Lead	railway
+1431146				Wagoner Subdivision	railway
+1431147				Parsons Subdivision	railway
+1431148				Cherokee Subdivision	railway
+1431149				Coffeyville Subdivision	railway
+1431221				Kansas Subdivision	railway
+1431278				Falls City Subdivision	railway
+1431279				Jeffrey Spur	railway
+1431280				Norkan Industrial Lead	railway
+1431283				Robinson Industrial Lead	railway
+1431288				Hiawatha Subdivision	railway
+1431363				Arkansas City Subdivision	railway
+1431382				BNSF Douglas Subdivision	railway
+1431383				Emporia Subdivision	railway
+1431384				La Junta Subdivision	railway
+1431429				Strong City Subdivision	railway
+1431430				Panhandle Subdivision	railway
+1431437				Topeka Subdivision	railway
+1431546				Marysville Subdivision	railway
+1431644				KC Metro Subdivision	railway
+1433352				Fort Scott Subdivison	railway
+1441042				Indigo Road	road
+1451445				Red Rock Subdivision	railway
+1457803				Heavener Subdivision	railway
+1457810				Pittsburg Subdivision	railway
+1514561	US:KS	141		KS 141	road
+1567525	US:KS	1		KS 1	road
+1575424	US:KS	2		KS 2	road
+1575627	US:KS	3		KS 3	road
+1575841	US:KS	4		KS 4	road
+1578058	US:KS	8S		KS 8 (South)	road
+1578059	US:KS	8N		KS 8 (North)	road
+1578308	US:KS	173		KS 173	road
+1582255	US:KS			KS 171 (West) (Old)	
+1582257	US:KS	13		KS 13	road
+1582267	US:KS	11		KS 11	road
+1583384	US:KS	19		KS 19	road
+1584395	US:KS	120			road
+1584483	US:KS	223		KS 223	road
+1584484	US:KS	123		KS 123	road
+1584485	US:KS	23		KS 23	road
+1586494	US:KS	25		KS 25	road
+1586544	US:KS	26		KS 26	road
+1586820	US:KS	27		KS 27	road
+1586821	US:KS	217		KS 217	road
+1586822	US:KS	30		KS 30	road
+1593690	US:US	36			road
+1609252	US:KS	31		KS 31	road
+1614668	rcn			Prairie Spirit Trail	bicycle
+1627021	US:KS	214		KS 214	road
+1627174	rcn			Flint Hills Nature Trail	bicycle
+1628103	US:KS	96		KS 96	road
+1628104	US:KS	167		KS 167	road
+1628526	US:US	283			road
+1628528	US:US	283			road
+1628541	US:US	183			road
+1628557	US:US	281			road
+1628570	US:US	183			road
+1629634	US:US	81			road
+1629639	US:US	83			road
+1629665	US:US	83			road
+1629666	US:US	54			road
+1629689	US:US	81			road
+1629691	US:US	77	south		road
+1629705	US:US	83			road
+1700905	US:KS	39		KS 39	road
+1711656	US:MO	92			road
+1719062	US:KS	150		KS 150	road
+1719063	US:KS	256		KS 256	road
+1731023	US:KS	156		KS 156	road
+1748266	rcn			Blue River Trail	bicycle
+1759602	US:KS	258		KS 258	road
+1759603	US:KS	84		KS 84	road
+1759604	US:KS	85		KS 85	road
+1759614	US:KS	186		KS 186	road
+1759615	US:KS	188		KS 188	road
+1762425	US:KS	267		KS 267	road
+1778353	US:KS	117		KS 117	road
+1778354	US:KS	161		KS 161	road
+1780217	US:KS	261		KS 261	road
+1780218	US:KS	383		KS 383	road
+1780219	US:KS	67		KS 67	road
+1781621	US:KS	112		KS 112	road
+1781622	US:KS	121		KS 121	road
+1781623	US:KS	182		KS 182	road
+1781624	US:KS	199		KS 199	road
+1781625	US:KS	204		KS 204	road
+1781626	US:KS	266		KS 266	road
+1781627	US:KS	60		KS 60	road
+1781629	US:KS	248		KS 248	road
+1783147	US:KS	139		KS 139	road
+1796821	US:KS	66		KS 66	road
+1796822	US:US:Historic	66		Historic US 66 (KS)	road
+1805307	US:KS	115		KS 115	road
+1807032	US:KS	236		KS 236	road
+1807033	US:KS	71		KS 71	road
+1807038	US:KS	178		KS 178	road
+1807042	US:KS	187		KS 187	road
+1807070	US:KS	62		KS 62	road
+1807089	US:KS	79		KS 79	road
+1807225	US:KS	276		KS 276	road
+1807241	US:KS	105		KS 105	road
+1807322	US:KS	101		KS 101	road
+1807346	US:KS			KS 134 (old)	
+1847152	US:KS	201		KS 201	road
+1903564	US:KS	181		KS 181	road
+1903565	US:KS	191		KS 191	road
+1904083	US:KS	82		KS 82	road
+1939021	US:US:Business	24			road
+1941308	US:US:Business	40			road
+1941309	US:US:Business	40		Wichita Ave	road
+1941310	US:US:Business	40			road
+1941512	US:US:Business	50			road
+1941520	US:US:Business	56			road
+1941945	US:US:Business	69			road
+1941950	US:US:Business	69			road
+1942181	US:US:Business	75			road
+1942296	US:US:Business	81			road
+1942297	US:US:Business	81			road
+1942298	US:US:Business	83			road
+1943866	US:US:Business	166			road
+1943869	US:US:Business	169			road
+1944293	US:US:Bypass	183			road
+1994628				Boeing-Stearman	power
+1994629				El Paso-Stearman	power
+1994630				Rose Hill-Stearman	power
+1995510				59th Street-El Paso	power
+1995511				El Paso-Rose Hill	power
+1995512				El Paso-Farber	power
+1995513				El Paso-Pony Meadows	power
+1995514				Farber-Belle Plaine	power
+1995595					power
+1995636				Interstate-Murray Gill Energy Center	power
+1995638					power
+2000758				Gordon Evans Gen - Lakeridge	power
+2000759					power
+2000760				45th Street - Gordan Evans Gen	power
+2002827				Wichita 138kV - Maize	power
+2002828				Wichita 138kV - Colwich	power
+2002829				Reno County - Wichita 345kV	power
+2027218	US:KS	192		KS 192	road
+2092638	US:KS	268		KS 268	road
+2092639	US:KS	33		KS 33	road
+2092640	US:KS	68		KS 68	road
+2093535	US:KS	152		KS 152	road
+2095372				Benton - Rose Hill	power
+2095373					power
+2095374				Pony Meadows-Weaver	power
+2095375					power
+2095389					power
+2095390				Bel Aire - Benton	power
+2095391				Benton - Chisholm	power
+2095392					power
+2095863					power
+2096411				29th - Benton	power
+2096752					power
+2096753				Andover-Northeast	power
+2096754				Andover-Weaver	power
+2096755				Butler-Weaver	power
+2100346					power
+2100998				Bentley West - Halstead South	power
+2100999				Bentley West - Colwich	power
+2101008				Bentley West - Bentley East	power
+2101080				Halstead South - Moundridge	power
+2103847				Circle - Reno County	power
+2103848				Moundridge - Reno County	power
+2103849				Circle - Reno County	power
+2170785	US:KS	18		KS 18	road
+2214825					railway
+2253879	US:OK	2			road
+2270263	byway:historic			Western Vistas Historic Byway	road
+2273613	US:KS	184		KS 184	road
+2273614	US:KS	198		KS 198	road
+2273615	US:KS	211		KS 211	road
+2273616	US:KS	216		KS 216	road
+2273617	US:KS	253		KS 253	road
+2273618	US:KS	95		KS 95	road
+2281179	US:KS	147		KS 147	road
+2281180	US:KS	219		KS 219	road
+2281181	US:KS	247		KS 247	road
+2281182	US:KS	264		KS 264	road
+2281183	US:KS			KS 274 (old)	
+2304450	US:US	59			road
+2304453	US:US	59			road
+2304861	US:US	169			road
+2304863	US:US	169			road
+2306010	US:US	75			road
+2306312	US:KS	32		KS 32	road
+2308748	US:US	36			road
+2308749	US:US	36			road
+2309417	US:US	56			road
+2309418	US:US	56			road
+2309421	US:US	56			road
+2310321	US:US	160			road
+2310352	US:KS:Douglas	1029		CR 1029 (north)	road
+2310353	US:KS:Douglas	438		CR 438	road
+2310385	US:US	270			road
+2310386	US:US	270			road
+2310538	US:KS	116		KS 116	road
+2311441	US:KS	63		KS 63	road
+2335811	US:I	35	north		road
+2335812	US:I	35	south		road
+2401488					road
+2417933				Veterans of Foreign Wars Memorial Highway	road
+2526409	US:KS	254		KS 254	road
+2526410	US:KS	61		KS 61	road
+2614961				TBW T7 - Soldier Creek Trail	bicycle
+2614966		23		TBW 23 - North Topeka Bikeway	bicycle
+2616781		25		TBW 25 - 46th Street/Hunters Ridge Bikeway	bicycle
+2616828	lcn	T1		Shunga Trail	bicycle
+2616896	rcn	T2		Landon Nature Trail	bicycle
+2616960	lcn	24		TBW 24 - Lyman/Silver Lake Bikeway	bicycle
+2616963	lcn	22		11th Street Bikeway	bicycle
+2617389	lcn	T5		Lake Shawnee Trail	bicycle
+2617504	lcn			Deer Creek Trail / Dornwood Nature Trail Connector	bicycle
+2617546	lcn	1		East-West Bikeway	bicycle
+2617586	lcn	2		Randolph Bikeway	bicycle
+2617627				TBW 10 - Wanamaker Corridor Bikeway	bicycle
+2617628				TBW 11 - Lake to Landon Bikeway	bicycle
+2617629	lcn	12		Edgewater Bikeway	bicycle
+2617630		13		Huntoon Bikeway	bicycle
+2617631				TBW 14 - Golden Bikeway	bicycle
+2617632		15		4th Avenue Bikeway	bicycle
+2617633				TBW 16 - Clarion Woods Bikeway	bicycle
+2617634	lcn	17		33rd Street Bikeway	bicycle
+2617635	lcn			TBW 18 - Hillcrest Bikeway	bicycle
+2617636	lcn	19		Arrowhead Bikeway	bicycle
+2617637				TBW 20 - Sherwood/Elevation Bikeway	bicycle
+2617638		21		College Bikeway	bicycle
+2617639				TBW 3 - 25th Street Bikeway	bicycle
+2617640	lcn	4		Belle Bikeway	bicycle
+2617641				TBW 5 - Oakland-Potwin Bikeway	bicycle
+2617642				TBW 6 - Southwest Loop Bikeway	bicycle
+2617643		7		15th Street Bikeway	bicycle
+2617644	lcn	8		Clay/East 25th Bikeway	bicycle
+2617645	lcn	9		Washburn Bikeway	bicycle
+2665665	Topeka Metro	1		Bus Route 1 - Oakland	bus
+2668090	Topeka Metro	2		Bus Route 2 - North Kansas	bus
+2668602				Bus Route 4 - Green - West	bus
+2724860				Senator Bill Morris Memorial Highway	road
+2799197	rcn			Gary L. Haller Trail	bicycle
+2883454				Lawrence Bicycle Route N 1800 and Lakeview	bicycle
+2890792	US:KS	104		KS 104	road
+2896082				Lawrence Bicycle Shared 33rd Ousdahl	bicycle
+2896087				Lawrence Bicycle North 1800 Road Lakeview Bike Route	bicycle
+2896094				Lawrence Bicycle Lane Bob Billings Parkway	bicycle
+2896107				Lawrence Bicycle Lane N 1750 and Michigan	bicycle
+2896469				Lawrence Bicycle Lane East 15th street	bicycle
+2899422				Lawrence Bicycle Lane George Williams Way	bicycle
+2906714				Lawrence Bicycle Lane Congressional	bicycle
+2906715				Lawrence Bicycle Lane Folks Road (Planned)	bicycle
+2906716				Lawrence Bicycle Lane Princeton Bvld and Lawrence Ave	bicycle
+2906717				Lawrence Bicycle Routes	bicycle
+2906720				Lawrence Bicycle Lane Montery Way	bicycle
+2906721				Lawrence Bicycle Lane West 9th Street	bicycle
+2906723				Lawrence Bicycle Lane Louisiana Street	bicycle
+2906728				Lawrence Bicycle Lane 19th Street	bicycle
+2906740				Lawrence Bicycle Lane O'Connell Road	bicycle
+2906757				Lawrence Bicycle Route Harvard Road	bicycle
+2906758	lcn			Lawrence Bicycle Route North 1500	bicycle
+2906760				"Lawrence Bicycle Route Inverness, Oak, 12th, Stone meadow, wagon wheel"	bicycle
+2906974				Lawrence Bicycle Route Kasold Drive	bicycle
+2906980				Lawrence Bicycle Route	bicycle
+2913195				Lawrence Bicycle Route	bicycle
+2913196				Lawrence Bicycle Route	bicycle
+2913197				Lawrence Bicycle Route	bicycle
+2913200				Lawrence Bicycle Route	bicycle
+2913201				Lawrence Bicycle Route	bicycle
+2913212				Lawrence Bicycle Route	bicycle
+2913232				Lawrence Bicycle Route	bicycle
+2913233				Lawrence Bicycle Route	bicycle
+2913234				Lawrence Bicycle Route	bicycle
+2913235	lcn			Lawrence Bicycle Route	bicycle
+2913240				Lawrence Bicycle Route	bicycle
+2913243				Lawrence Bicycle Route	bicycle
+2913244				Lawrence Bicycle Route	bicycle
+2913245				Lawrence Bicycle Route	bicycle
+2913644				Lawrence Bicycle Route East 28th	bicycle
+2913694				Lawrence Bicycle Route	bicycle
+2913695				Lawrence Bicycle Route	bicycle
+2913697				Lawrence Bicycle Route	bicycle
+2913709				Lawrence Bicycle Route	bicycle
+2913718				Lawrence Bicycle Route segment	bicycle
+2913727				Lawrence Bicycle Route	bicycle
+2913730				Lawrence Bicycle Route	bicycle
+2914797				Lawrence Bicycle Route	bicycle
+2914799				Lawrence Bicycle Route	bicycle
+2914800				Lawrence Bicycle Route	bicycle
+2914805				Lawrence Bicycle Shared	bicycle
+2914806				Lawrence Bicycle Shared	bicycle
+2914807				Lawrence Bicycle Route	bicycle
+2914815				Lawrence Bicycle Shared	bicycle
+2914817				Lawrence Bicycle Shared	bicycle
+2915333				Lawrence Bicycle Shared Irving Hill Connector	bicycle
+2915334				Lawrence Bicycle Shared Kensington and E27	bicycle
+2918410					bicycle
+2918414				Kansas Capitols Trail	bicycle
+2922784	US:KS	234		KS 234	road
+2922785	US:KS	243		KS 243	road
+2923443	US:KS	223		KS 233	road
+2933300	lcn			Wichita Bike Path	bicycle
+3058341	US:KS	119		KS 119	road
+3073789	US:KS	87		KS 87	road
+3073790	US:KS	88		KS 88	road
+3077112	US:KS	51		KS 51	road
+3077118	US:KS	190		KS 190	road
+3078574	US:KS	144		KS 144	road
+3094868	US:KS	98		KS 98	road
+3094896	US:KS	94		KS 94	road
+3123630	US:KS	52		KS 52	road
+3134677	US:KS:Douglas	3		CR 3	road
+3138514	US:KS:Douglas	442		CR 442	road
+3142236	US:KS:Douglas	458		CR 458	road
+3142286	US:KS:Douglas	1029		CR 1029 (south)	road
+3142287	US:KS:Douglas	460		CR 460	road
+3144985	US:KS:Douglas	1		CR 1	road
+3144986	US:KS:Douglas	1-E		CR 1-E	road
+3144987	US:KS:Douglas	1-W		CR 1-W	road
+3144988	US:KS:Douglas	10		CR 10	road
+3144989	US:KS:Douglas	1039		CR 1039	road
+3144990	US:KS:Douglas	1047		CR 1047	road
+3144991	US:KS:Douglas	1055		CR 1055	road
+3144992	US:KS:Douglas	1057		CR 1057	road
+3144993	US:KS:Douglas	1061		CR 1061	road
+3164283	US:KS	137		KS 137	road
+3221768	US:OK	99		Veteran's Memorial Highway	road
+3222041	US:OK	136			road
+3222044	US:OK	23			road
+3259919	rcn			Indian Creek Trail	bicycle
+3274050		27		KU to Haskell Indian Nations University	bus
+3410562	US:KS	149		KS 149	road
+3505222	US:OK	132			road
+3548069				UPRR Coffeyville Subdivision	railway
+3742080	US:US:Historic	66	east		road
+3742081	US:US:Historic	66	west		road
+3812187				TBW 17 - 33rd Street Bikeway Phase 1a Lane	bicycle
+3812188				TBW 17 - 33rd Street Bikeway Phase 1b Sharrows	bicycle
+3838941				"Chicago, Rock Island and Pacific Railroad"	railway
+3869984	US:NE	14		Nebraska Highway 14	road
+3886813	US:KS	185		KS 185	road
+3886814	US:KS	138		KS 138	road
+3905607	US:NE	112		Nebraska Highway 112	road
+4057417				walking route indian hills 23rd street	foot
+4219623					power
+4219624					power
+4219625					power
+4219626					power
+4510855	US:KS	209		KS 209	road
+4673773				Southern Transcon	railway
+4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4775973	US:KS	168		KS 168	road
+4782777	lwn			Western Heritage Trail	hiking
+5259092		1		Downtown to Prairie Park	bus
+5383593	ncn	76		76 (Kansas)	bicycle
+5485322	US:KS	47		KS 47	road
+5500862	rcn			Southwind Rail-Trail	bicycle
+5675890	US:KS	110		KS 110	road
+6151649				Salina District	railway
+6443561	rcn			Lehigh Portland Trails	bicycle
+6528960	RideKC	11		Bus 11: KU Medical Center → Executive Park	bus
+6548999	US:US	54	east		road
+6549000	US:US	54	west		road
+6549195	US:US	75	north		road
+6549197	US:US	75	south		road
+6894881	US:I	70	east		road
+6894923	US:I	70	east		road
+6898835	US:I	435			road
+6898836	US:I	435			road
+6909811	lcn				bicycle
+7191408					road
+7191409					road
+7267990	RideKC	39		39th Street	bus
+7268317	RideKC	51		51 - Ward Parkway	bus
+7268337	KCATA	57		57 Wornall	bus
+7268460	KCATA	75		75th Street	bus
+7268494	RideKC	85		Paseo	bus
+7268671	RideKC	101		State Ave	bus
+7268674	KCATA	102		Central Ave - UGT	bus
+7268808	RideKC	103		3rd - Fairfax	bus
+7268820	KCATA	104		Argentine	bus
+7271954	RideKC	106		106 - Quindaro	bus
+7271984	KCATA	107		107 - 7th Street-Parallel	bus
+7272125	KCATA	113		113 - Leavenworth Road	bus
+7272134	KCATA	115		115 - Kansas Avenue	bus
+7272137	RideKC	116		116 - West Parallel	bus
+7279186		401		401 - Metcalf-Plaza	bus
+7308763	US:KS	126			road
+7321307	RideKC	403		403 - Antioch-Olathe	bus
+7321310		475		475 - Quivira-75th Street	bus
+7335817	Wichita Transit	21		Douglas-Hillside-Wsu-Gr	bus
+7335826	Wichita Transit	27		N Bdwy-E13th-Waterfront	bus
+7335839	Wichita Transit	25		E Central-Wesley-Towne	bus
+7335844	Wichita Transit	28		Ku Med-Ngrove-25thst	bus
+7335865	Wichita Transit	13		N Bdwy-Nomar-37th St	bus
+7335883	Wichita Transit	17		Riverside-Waco-Twin La	bus
+7336070	Wichita Transit	15		Douglas-West-13th-Twnlk	bus
+7336196	Wichita Transit	12		Douglas-Central-Tyler-N	bus
+7336237	Wichita Transit	11		Maple-Ridge-21st-Newmrk	bus
+7336238	Wichita Transit	24		E. Douglas - Va	bus
+7336259	Wichita Transit	14		Douglas-Meridian-Pwnepl	bus
+7336273	Wichita Transit	29		Hydraulic-Elincoln-Town	bus
+7337234	Wichita Transit	22		S Bdwy-E Harry-Ekllg Wa	bus
+7337255	Wichita Transit	201		Rock Road	bus
+7337269	Wichita Transit	23		Pwneplaza-Planeview-Spi	bus
+7337305	Wichita Transit	26		Pwneplaza-S Hydraulic	bus
+7337322	Wichita Transit	16		S Bdwy-Lincoln-Seneca-4	bus
+7471620	US:US	50	west		road
+7471621	US:US	50	east		road
+7473092	US:US	400	east		road
+7476270	US:US	54	west		road
+7476271	US:US	54	east		road
+7480390	US:US	281	north		road
+7480391	US:US	281	south		road
+7489797	US:US	24	west		road
+7489798	US:US	24	east		road
+7495502	US:US	169	south		road
+7495532	US:US	169	north		road
+7499482	US:US	77	south		road
+7499483	US:US	77	north		road
+7524523				Enid Subdivision	railway
+7524690				Wagoner Subdivision	railway
+7524753					railway
+7708778				Enid to Arkansas City	railway
+7708877				Anthony District	railway
+7710684	rcn			Landon Nature Trail	bicycle
+7756846	lcn			Sunflower Santa Fe Trail	bicycle
+7756847	rcn			Meadowlark Trail	bicycle
+7764254				Newton - Elinor	railway
+7834150	US:I:Alternate	70		"I 70 Alternate (Kansas City, KS & MO)"	road
+7893917	RideKC	11		Bus 11: Executive Park → KU Medical Center	bus
+7902615	RideKC	39		Route 39: Westbound	bus
+7917545				Coach Bill Snyder Highway	road
+8033836	US:US	77	north		road
+8145500	US:KS	42		KS 42	road
+8145542	US:KS	360			road
+8162911				East 27th Street North	road
+8162912				North Battin Street	road
+8162913				East Pembrook Street	road
+8162914				East Pembrook Court	road
+8162915				North Oliver Street	road
+8162916				East Pembrook Court	road
+8162917				North Glendale Street	road
+8162991				East Pembrook Court	road
+8162992				East 27th Court North	road
+8162993				North Battin Court	road
+8162994				North Battin Court	road
+8163114				North Glendale Street	road
+8163115				North Glendale Court	road
+8163116				East Pembrook Court	road
+8163142				East Pembrook Court	road
+8163422				North Oliver Street	road
+8163423				Ethel Street	road
+8163424				East 24th Street North	road
+8163425				North Glendale Street	road
+8163426				East 25th Street North	road
+8163456				East Arlene Street	road
+8163457				North Bleckley	road
+8163458				North Bleckley	road
+8163505				East Arlene Street	road
+8163506				North Battin Street	road
+8163586				North Bleckley	road
+8163587				North Oliver Street	road
+8163588				East Looman Street	road
+8163622				Tall Oaks Apartments	road
+8163753				North Old Manor Road	road
+8163755				North Pinecrest Avenue	road
+8163756				North Parkwood Lane	road
+8163757				East Arlene Street	road
+8163838				North Parkwood Lane	road
+8163839				East Mainsgate Road	road
+8163840				North Old Manor Road	road
+8163841				North Old Manor Circle	road
+8163905				East Croyden Street	road
+8163906				North Beacon Hill Street	road
+8163907				North Beacon Hill Street	road
+8164066				East Mainsgate Road	road
+8164067				North Beacon Hill Street	road
+8171794				North Parkwood Court	road
+8171795				North Parkwood Lane	road
+8171796				East Pembrook Circle	road
+8171797				North Parkwood Lane	road
+8171807				East Pembrook Street	road
+8171932				North Beacon Hill Street	road
+8171933				North Beacon Hill Court	road
+8171934					road
+8171935				North Ridgewood Drive	road
+8172218				North Parkwood Lane	road
+8172219				North Parkwood Court	road
+8172220				East 27th Street North	road
+8172221				North Beacon Hill Street	road
+8172450				North Beacon Hill Court	road
+8172493				North Beacon Hill Street	road
+8172494				North Beacon Hill Court	road
+8172495				North Beacon Hill Court	road
+8173001				Shadowridge Court	road
+8173002				East Shadowridge Street	road
+8173003				North Parkwood Court	road
+8173004				North Parkwood Lane	road
+8173005				North Parkwood Lane	road
+8173006				East 28th Street	road
+8173092				North Meadow Oaks Street	road
+8173093				North Meadow Oaks Court	road
+8173094				North Meadow Oaks Court	road
+8173095				North Meadow Oaks Street	road
+8173144				North Meadow Oaks Court	road
+8173145				North Meadow Oaks Court	road
+8173328				Pepperwood Street	road
+8173329				Pepperwood Circle	road
+8173330				North Edgemoor Circle	road
+8173377				North Meadow Oaks Street	road
+8173487				East 29th Street North	road
+8173488				East 29th Street North	road
+8173595				East Pembrook Street	road
+8173596				North Ridgewood Drive	road
+8173597				North Ridgewood Court	road
+8173677				North Ridgewood Drive	road
+8173678				East Mainsgate Road	road
+8173679				North Ridgewood Court	road
+8179658				East Croyden Street	road
+8179659				East Croyden Circle	road
+8179723				North Ridgewood Court	road
+8179892				East 21st Street North	road
+8179893				North Pinecrest Avenue	road
+8179894				East Ironhorse Street	road
+8179952				North Woodlawn Boulevard	road
+8179953				East Ironhorse Street	road
+8179954				East Oxford Street	road
+8179955				East Hillcrest Street	road
+8180125				East Mainsgate Road	road
+8180126				North Woodlawn Boulevard	road
+8180127				North Farmstead Street	road
+8180128				East Croyden Circle	road
+8180129				North Charlotte Street	road
+8180415				Charlotte Court	road
+8180460				North Edgemoor Street	road
+8180461				Ayesbury Circle	road
+8180542				North Edgemoor Street	road
+8180543				East Pembrook Street	road
+8180544				East Pembrook Circle	road
+8180545				North Edgemoor Drive	road
+8180786				North Edgemoor Street	road
+8180787				East Croyden Circle	road
+8180788				Kentford Circle	road
+8180945				Lamson Street	road
+8180946				East 22nd Street North	road
+8181043				East Kane Lane	road
+8181044				Callen Street	road
+8181126				North Farmstead Street	road
+8181127				North Farmstead Street	road
+8181128				North Charlotte Street	road
+8181129				East 23rd Street North	road
+8181130				North Farmstead Street	road
+8186407				North Woodlawn Boulevard	road
+8186408				East 21st Street North	road
+8186431				Pepperwood Street	road
+8186432				North Woodlawn Boulevard	road
+8186433				Pepperwood Street	road
+8186434				Pepperwood Court	road
+8186745				Rushwood Court	road
+8186746				North Rushwood Street	road
+8186747				East 27th Street North	road
+8186748				North Cranberry Street	road
+8187043				East 25th Street North	road
+8187083				North Rushwood Court	road
+8187114				East 25th Street Court North	road
+8187137				Rushwood Court	road
+8194091				East Mainsgate Road	road
+8194092				Mainsgate Court	road
+8194093				North Governeour Street	road
+8194094				North Cameron Street	road
+8194175				North Rushwood Circle	road
+8194176				North Rushwood Circle	road
+8194329				North Welgate Circle	road
+8194330				Banbury Circle	road
+8194331				North Claiborn Circle	road
+8194447				Walden Drive	road
+8194534				North Bramblewood Street	road
+8194535				East Ayesbury Circle	road
+8194536				East Croyden Circle	road
+8194537				East Kentford Circle	road
+8194538				East Newbury Circle	road
+8194978				East Trinity Circle	road
+8194979				Bainbridge Road	road
+8195157				North Cameron Circle	road
+8195158				Bainbridge Road	road
+8195159				East Bromley Circle	road
+8200496				East 21st Street North	road
+8200497				North Woodlawn Boulevard	road
+8200715	lcn			Humboldt Bike Route Network	bicycle
+8200791				East 27th Street North	road
+8200815				East Greenbriar Circle	road
+8201058				East 26th Street North	road
+8201101				North Winstead Circle	road
+8201129				Oxford Road	road
+8201130				Oxford Street	road
+8201131				East Oxford Court	road
+8201442				East 26th Street Court North	road
+8201443				North Longfellow Street	road
+8201537				North Rock Road	road
+8201612				East Greenbriar Circle	road
+8201613				East 24th Street Court North	road
+8201614				East 24th Street North	road
+8203258	lcn			Iola Bike Route Network	bicycle
+8203603	lcn			Missouri Pacific Recreational Trail	bicycle
+8203675	lcn			Välkommen Trail	bicycle
+8203841	lcn			Paola Pathways	bicycle
+8207462				Bromfield Circle	road
+8207463				North Winstead Circle	road
+8207464				Longwood Circle	road
+8207465				Hathway Circle	road
+8207667				North Rock Road	road
+8207668				North Rock Road Court	road
+8207934				North Governeour Court	road
+8207935				North Governeour Street	road
+8207936				Ayesbury Street	road
+8207937				North Rutland	road
+8207970				North Rutland Court	road
+8208003				Ayesbury Circle	road
+8208113				Bainbridge Road	road
+8208114				North Rutland Court	road
+8208115				East 22nd Street North	road
+8214205				Bainbridge Court	road
+8214277				Bainbridge	road
+8214278				North Addison Circle	road
+8214347				North Inwood Circle	road
+8276629	lcn			Savonburg Old Swedish Trail	bicycle
+8305546	US:US	177	north		road
+8305547	US:US	177	south		road
+8411550					power
+8415413				Morgan - Neosho	power
+8415609					power
+8415616				Neosho - Delaware	power
+8415637				La Cygne - Neosho	power
+8415640					power
+8415737					power
+8415738					power
+8415740					power
+8415741				Greenwood-Midland	power
+8415752					power
+8423066					power
+8423067					power
+8423068					power
+8423069					power
+8423070					power
+8423071					power
+8423072					power
+8423073					power
+8423074					power
+8423075					power
+8423076					power
+8423111				La Cygne - Stilwell	power
+8423112					power
+8423113					power
+8423114					power
+8423115					power
+8423116					power
+8423218					power
+8423221					power
+8423270					power
+8423271					power
+8423272					power
+8423273					power
+8423274					power
+8423275					power
+8423426					power
+8423427					power
+8426201					power
+8426202					power
+8426203					power
+8426205					power
+8426206					power
+8428102					power
+8428103					power
+8428136					power
+8428263				Wolf Creek - Rose Hill	power
+8428264					power
+8428265					power
+8428266				Wolf Creek - Benton	power
+8428267				Wichita - Benton	power
+8428270				Rose Hill - Wild Plains	power
+8428271				Belle Plaine-Sumner County	power
+8428272				Oxford - Sumner County	power
+8428273					power
+8428279				Benton - Midian	power
+8430492				Lawrence Bycle Route West 9th climbing lane	bicycle
+8432330				Lawrence Bicycle Lane Venture Park Drive	bicycle
+8432331				Lawrence Bicycle Route West 19th	bicycle
+8432332				Lawrence Bicycle Route Naismith Dr.	bicycle
+8432333				Lawrence Bicycle Route Leanard Avenue	bicycle
+8432334				Lawrence Bicycle Route Crestline Drive	bicycle
+8432360				Lawrence Bicycle Climbing Lane Monterey Way	bicycle
+8432361				Lawrence Bicycle Lane N Iowa St.	bicycle
+8432362				Lawrtence Bicycle Climbing Lane N Michigan St.	bicycle
+8432397				Lawrence Bicycle Lane Wakarusa Drive	bicycle
+8433199				Emporia Energy Center - Swissvale	power
+8433201				Emporia Energy Center - Morris County	power
+8433202				Morris County-West Emporia	power
+8433203				Florence Junction - West Emporia	power
+8433204				Florence Junction - Jade	power
+8433205					power
+8433235					power
+8433282					power
+8434002				Swissvale - Morris County	power
+8434003				Swissvale - Auburn Road	power
+8434048				Jeffrey - Auburn Road	power
+8434052				Jeffrey - East Manhattan	power
+8434053				East Manhattan - McDowell Creek	power
+8434054				Summit - Geary County	power
+8434055				Geary County - Fort Junction	power
+8434056				Summit - Union Ridge	power
+8434057				Morris County-Union Ridge	power
+8434058				Jeffrey - Morris County	power
+8434059				Morris County - McDowell Creek	power
+8434060				McDowell Creek-Stagg Hill	power
+8434073				Concordia - Elm Creek 230kV	power
+8434221				Jeffrey - Hoyt	power
+8439798				Lawrence Bicycle Route Along South Lawrence Trafficway	bicycle
+8439799				Lawrence Bicycle Route Shared Lawrence Loop	bicycle
+8439800				Lawrence Bicycle Route Overland Drive Shared Use Path	bicycle
+8439801				Lawrence Bicycle Route Wakarusa Shared Use Path	bicycle
+8439802				Lawrence Bicycle Route West 6th Street Shared Path	bicycle
+8439803				Lawrence Bicycle Route Shared Path Around Harvard Road	bicycle
+8439804				Lawrence Bicycle Route Queens Road	bicycle
+8439917				Lawrence Bicycle Route W 4t St Climbing Lane	bicycle
+8439918				Lawrence Bicycle Route Wisconsin St Climbing Lane	bicycle
+8439919				Lawrence Bicycle Route Indiana St. Climbing Lane	bicycle
+8439920				Lawrence Bicycle Route Burcham Park Trail	bicycle
+8439921				Lawrence Bicycle Route Delaware St. Shared Path	bicycle
+8439922				Lawrence Bicycle Route Burroughs Creek Trail	bicycle
+8439923				Lawrence Bicycle Route Haskell Rail-Trail	bicycle
+8439924				Lawrence Bicycle Route East 31st St. Shared Path	bicycle
+8439925				Lawrence Bicycle Route South Haskell Avenue Shared Path	bicycle
+8439926				Lawrence Bicycle Route South Lawrence Trafficway Shared Path (South Side)	bicycle
+8439927				Lawrence Bicycle Route Michigan Street Shared Path (south)	bicycle
+8439928				Lawrence Bicycle Route West 31st St Shared Path	bicycle
+8439929				Lawrence Bicycle Route Shared Path Between W23rd and W 31st	bicycle
+8439930				Lawrence Bicycle Route Kasold Drive Shared Path	bicycle
+8439931				Lawrence Bicycle Route Bob Billings Parkway Shared Path	bicycle
+8439957				Lawrence Bicycle Route Rock Chalk Drive Bike Lane	bicycle
+8439958				Lawrence Bicycle Route Rock Chalk Drive Shared Path	bicycle
+8439978				Lawrence Bicycle Route Clinton Parkway Shared Path	bicycle
+8440332				Lawrence Bicycle Route Shared Path off Heatherwood Drive	bicycle
+8440356				Lawrence Bicycle Route Connecticut Street	bicycle
+8440357	lcn	7		Lawrence Bicycle Route 7th Street	bicycle
+8440530				Lawrence Cycle Route East 29th Street	bicycle
+8441984				lawrence Bicycle Route Stoneridge Drive	bicycle
+8448537				Hoyt - Hoyt HTI Switching	power
+8448538				Hoyt - 54th & Meridian	power
+8448539				54th & Meriden-County Line	power
+8449519				East Street-West Emporia	power
+8449520				East Street - Lang	power
+8449521				Lang - Reading Lake	power
+8449551				Osage City Junction-Reading Lake	power
+8449552				Vaughn-West Emporia	power
+8449553				East Eureka-Vaughn	power
+8449562				Osage City Junction-Scranton	power
+8449593				Four Corners-Scranton	power
+8449594				Carbondale-Four Corners	power
+8449636				Shawnee Heights-Tecumseh Hill	power
+8449637				27th & Croco-Tecumseh Hill	power
+8449955				27th & Croco-41st & California	power
+8449958					power
+8450037				Midland Junction-Tonga Tap	power
+8450038				Lawrence Hill-Midland Junction	power
+8450395				Davis - Reno County	power
+8450396				Davis-New Cities Service	power
+8450397				Salt Creek-3rd & Van Buren	power
+8450398					power
+8450540				3rd & Van Buren-Meadowlark	power
+8450541				43rd & Lorraine-Meadowlark	power
+8452433				Salt Creek-New Cities Service	power
+8462487				North Street-Northview	power
+8462488				Salina Main-North Street	power
+8462544				Mentor - Summit	power
+8462545				Southgate - Summit	power
+8462546				Northview - Summit	power
+8462576				Abilene Energy Center - Northview	power
+8462611				Reno County - Summit	power
+8462612				Reno County - West McPherson	power
+8462613				West McPherson - Wheatland	power
+8462614				Mentor - Schilling	power
+8462615				Smoky Hill-Berg	power
+8462618				Smokey Hills - Summit	power
+8479327					power
+8479328					power
+8479329				Clark County - Spearville	power
+8479330				Ironwood - Spearville	power
+8479331				Clark County - Saddle	power
+8479333				Clark County - Thistle #2	power
+8479334				Clark County - Thistle #1	power
+8479335				Bloom Wind - Clark County	power
+8479403				Buffalo Flats - Thistle #2	power
+8479404				Buffalo Flats - Thistle #1	power
+8479407				Cimarron Bend #1 - Clark County	power
+8479408				Cimarron Bend #2 - Cimarron Bend #1	power
+8479483				Post Rock - Spearville	power
+8479484					power
+8479485					power
+8479486					power
+8479511					power
+8479512					power
+8479542					power
+8479543				Spearville - Great Bend	power
+8479544					power
+8479545					power
+8480613				Circle-Great Bend	power
+8480614					power
+8480615					power
+8480616					power
+8480617					power
+8480619					power
+8480620				Post Rock - South Hays	power
+8480621					power
+8480622					power
+8480623					power
+8480624					power
+8480625					power
+8480626					power
+8480659					power
+8480660					power
+8480661					power
+8480698					power
+8480699					power
+8480700					power
+8480701					power
+8480702					power
+8481282					power
+8488039				43rd & Lorraine-Hutchinson Energy Center	power
+8488042				Circle-Hutchinson Energy Center	power
+8488226				Circle-New Rice	power
+8488227				Lyons-New Rice	power
+8488591				Lyons-Wheatland	power
+8491265					power
+8491379					power
+8497379					power
+8497382				Circle-East McPherson	power
+8497383				East McPherson - Summit	power
+8497387				Johns Manville-West McPherson	power
+8497388				East Mcpherson-McPherson Refinery	power
+8497407				Mentor - Coronado	power
+8497499				Crawford-Schilling	power
+8497690				Crawford-Salina Main	power
+8497702				Smoky Hill-Southgate	power
+8497771				East Hall-Ellsworth	power
+8497772					power
+8497773					power
+8498112				Ellsworth Tap-Russell	power
+8498113				Russell-Waldo	power
+8498549	ncn	66		66 (Kansas)	bicycle
+8503346				Covert-Smith Center	power
+8503347				Covert-Waldo	power
+8503365				Ionia-Smith Center	power
+8503366				Ionia-Jewell	power
+8503367				Glen Elder-Smith Center	power
+8503368				Beloit-Glen Elder	power
+8503371				Beloit-Concordia	power
+8503372				Concordia-Jewell	power
+8503388					power
+8503389				Clifton-Concordia	power
+8503390					power
+8503420				Clifton-Greenleaf	power
+8503421				Greenleaf-Knob Hill	power
+8503446				Baileyville-Marshall County	power
+8503447				Knob Hill-Marshall County	power
+8503449				Baileyville-South Seneca	power
+8503450				Kelly-South Seneca	power
+8503451				South Seneca-TC Seneca	power
+8503468				Circleville-Goff	power
+8503469				Goff-Kelly	power
+8503470				Circleville-Hoyt HTI Switching Station	power
+8503471				Hoyt - Northland	power
+8503472				Indianola-Northland	power
+8503476				Indianola-Indian Hills	power
+8503477				Education-Indianola	power
+8511148				Lawrence Bicycle Route Jayhawk Boulevard	bicycle
+8729901					pipeline
+8732523					pipeline
+8732662					pipeline
+8732664					pipeline
+8741882	US:OK:Grant	760			road
+8741883	US:OK:Grant	770			road
+8741884	US:OK:Grant	780			road
+8741887	US:OK:Grant	800			road
+8741888	US:OK:Grant	810			road
+8741889	US:OK:Grant	820			road
+8741890	US:OK:Grant	830			road
+8741891	US:OK:Grant	840			road
+8741892	US:OK:Grant	860			road
+8741893	US:OK:Grant	870			road
+8747946					pipeline
+8768480				Kansas City Terminal RR	railway
+8803640				Afton Subdivision	railway
+8806828					railway
+8806831				Track 74 (High Line)	railway
+8806832					railway
+8806833				Fast Track 2 at Mulvane	railway
+8806834				Fast Track 2 through Intermodal Facility	railway
+8806837					railway
+8806839				KC Metro MT1	railway
+8806840				KCT Argentine	railway
+8819187				Orange Northbound	bus
+8819188				Orange Southbound	bus
+8821879				"Nebraska, Kansas Colorado Railnet"	railway
+8821880					railway
+8821882				Goodland Subdivision	railway
+8821883				Concordia Subdivision	railway
+8821884				Yuma Subdivision	railway
+8821885				Belleville Subdivision	railway
+8821886				Phillipsburg Subdivision	railway
+8889951				Jardine	bus
+8911982				Wymore Subdivision (abandoned)	railway
+8921934	lcn			Talley Trail	bicycle
+9044050	nwn	ADT L3		ADT - Missouri - L - Seg 3	hiking
+9051959	nwn	ADT N1		ADT - Kansas - N - Seg 1	hiking
+9053757	US:KS	34			road
+9058231	nwn	ADT N2		Flint Hills Nature Trail	hiking
+9064165	nwn	ADT N3		ADT - Kansas - N - Seg 3	hiking
+9064884	nwn			ADT - Kansas - N - Seg 4	hiking
+9065125	nwn	ADT N5		ADT - Kansas - N - Seg 5	hiking
+9067903	nwn	ADT N6		ADT - Kansas - N - Seg 6	hiking
+9068132	nwn	ADT N7		ADT - Kansas - N - Seg 7	hiking
+9068281	nwn	ADT N8		ADT - Kansas - N - Seg 8	hiking
+9366174	RideKC	118		118 - 18th Street	bus
+9382365	RideKC	510		Route 510: Westbound	bus
+9382366	RideKC	510		Route 510: Eastbound	bus
+9389777	Wichita Transit	202		Oliver	bus
+9391283					railway
+9391297					railway
+9391302					railway
+9391400					railway
+9444298	Topeka Metro	10		Bus Route 10 - West 10th	bus
+9444323	Topeka Metro	17		Bus Route 17 - West 17th	bus
+9444328	Topeka Metro	29		Bus Route 29 - West 29th	bus
+9445423	Topeka Metro	7		Bus Route 7 - Washburn	bus
+9445449	Topeka Metro	21		Bus Route 21 - West 21st	bus
+9446113	Topeka Metro	12		Bus Route 12 - West 12th	bus
+9446540	Topeka Metro	6		Bus Route 6 - West 6th	bus
+9447888	Topeka Metro	3		Bus Route 3 - East 6th	bus
+9447932	Topeka Metro	4		Bus Route 4 - California	bus
+9448447	Topeka Metro	5		Bus Route 5 - Indiana	bus
+9475404					railway
+9533022				Kingman Subdivision	railway
+9533035					railway
+9539681					railway
+9691279					power
+9691356					power
+9696217	US:US	69	north		road
+9696218	US:US	69	south		road
+9725052	lcn			Mahaffie Creek Trail	bicycle
+9725063	rcn			Tomahawk Creek Trail	bicycle
+9725089	lcn			Prairie Sunset Trail	bicycle
+9725095	lcn			Redbud Trail	bicycle
+9725109	lcn			Lawrence Levee Trail	bicycle
+9759038					power
+9772808	RideKC	23		Bus 23: Blue Valley Park → 31st & Southwest	bus
+9941707	lcn			North Loop	bicycle
+9941719	lcn			North Loop Connector	bicycle
+9955767	lcn			63rd Street	bicycle
+10025628	lwn	Orange		Mischief	hiking
+10025629	lwn	Violet		Mayhem	hiking
+10025630	lwn	Red		Red Valleys	hiking
+10032380	lwn			Gold Standard	hiking
+10073925				White Tail Loop	mtb
+10073926				Mason's First Linear Trail	mtb
+10073927				Boy Scout Loop	mtb
+10073928				357 Loop	mtb
+10073994				Chupacabra	mtb
+10073995				Lakeside	mtb
+10073996				Shouse Pump	mtb
+10073997				Trail 14	mtb
+10319183	lcn			99th	bicycle
+10336592	lcn			Lamar Avenue	bicycle
+10336593	lcn			Lowell Avenue	bicycle
+10336628	lcn			Metcalf Avenue Trail	bicycle
+10336629	lcn			91st Street	bicycle
+10364169	lcn			Foster/Santa Fe/Marty	bicycle
+10364170	lcn			79th Street	bicycle
+10364171	lcn			71st Street	bicycle
+10364183	lcn			Rock Creek Trail	bicycle
+10364184	lcn			Nall Avenue Trail	bicycle
+10364192	lcn			87th Street	bicycle
+10364193	lcn			Santa Fe Drive	bicycle
+10364198	lcn			Grant Street	bicycle
+10364199	lcn			Switzer Road	bicycle
+10378166	lcn			Mission/Somerset	bicycle
+10406926	lcn			Grandview Street	bicycle
+10406930	lcn			Nieman Road	bicycle
+10729864				Frisco RY Parsons Subdivision (abnd)	railway
+10729865					railway
+10975917	lcn			151st St	bicycle
+10975927	lcn			Switzer	bicycle
+10975942	lcn			143rd St	bicycle
+10978190	lcn			Eastbrooke Trail	bicycle
+10978206	lcn			133rd St	bicycle
+10978472	lcn			138th St	bicycle
+10978534	lcn			Heritage Trail	bicycle
+10992727	lcn			30th Ave	bicycle
+10992728	lcn			Graphic Arts Rd	bicycle
+10993010	lcn			Prairie St	bicycle
+10993011	lcn			South Ave	bicycle
+10993012	lcn			Merchant St	bicycle
+11000663	lcn			Black Bob	bicycle
+11157756	lcn			Riverfront Heritage Trail - West	bicycle
+11234428	lcn			18th Avenue	bicycle
+11234429	lcn			Morningside Dr	bicycle
+11234430	lcn			Lincoln St	bicycle
+11234431	lcn			15th Avenue	bicycle
+11234432	lcn			12th Avenue	bicycle
+11234433	lcn			Coronado Ave	bicycle
+11234434	lcn			24th Avenue	bicycle
+11234435	lcn			Jones Park	bicycle
+11234436	lcn			Highland St	bicycle
+11250659	US:OK:Texas	N1060			road
+11378273	US:OK:Alfalfa	N2520			road
+11494318					railway
+11703319	Flint Hills ATA	Route 1		Route 1 a/b	bus
+11974929					railway
+12165046				Swissvale - Lawrence Hill	power
+12165047				Baldwin Creek-Lawrence Hill	power
+12165048				Baldwin Creek-Southwest Lawrence	power
+12165049				Mockingbird Hill-Southwest Lawrence	power
+12165050				Lawrence Hill-Mockingbird Hill	power
+12165051				Lawrence Hill-Wren	power
+12165053				19th Street-KU West Campus	power
+12165208				Lawrence Energy Center-Lawrence Hill (230)	power
+12165209				Lawrence Energy Center-Lawrence Hill (West)	power
+12165210				Lawrence Energy Center-Lawrence Hill (East)	power
+12165211				Lawrence Energy Center-Midland Junction	power
+12165212				Mockingbird Hill-Stull Tap	power
+12165213				Stull-Stull Tap	power
+12165214				Stull Tap-Tecumseh Hill	power
+12284762	US:OK:Woods	N2470			road
+12284764	US:OK:Woods	N2490			road
+12284765	US:OK:Woods	N2500			road
+12303092					bus
+12303093		1		Downtown to East Lawrence	bus
+12303210		3		Downtown to Lakeview Road	bus
+12303277		4		North Lawrence to 9th & Iowa	bus
+12303322		5		Central Station to East Hills via HINU	bus
+12303422		6		Downtown to Rock Chalk Park	bus
+12305078		7		Downtown to South Iowa	bus
+12305230		9		South Iowa to 27th & Wakarusa	bus
+12305306		10		Downtown to 6th & Wakarusa	bus
+12309553		11		Central Station to 31st & Iowa via KU	bus
+12309578		15		Downtown to the Peaslee Center	bus
+12309673		29		27th & Wakarusa to KU	bus
+12309700		30		Bob Billings & Kasold to KU	bus
+12309805		34		KU to 7th Street	bus
+12309858		36		6th via Emery to KU	bus
+12309892		38		31st Street to KU	bus
+12311397		42		Campus Circulator (Blue)	bus
+12311427		43		Campus Circulator (Red)	bus
+12311536		44		Campus Evening Circulator (Gray)	bus
+12520506	RideKC	106		Quindaro-Amazon	bus
+12521112	RideKC	107		7th Street/Parallel	bus
+12521469	RideKC	113		Leavenworth Road	bus
+12521772	RideKC	116		West Parallel	bus
+12525767	RideKC	118		18th Street	bus
+12537898	RideKC	401		Metcalf-Plaza	bus
+12539325	RideKC	402		Johnson-Quivira	bus
+12539660	RideKC	403		Antioch-Olathe	bus
+12540057	RideKC	404		Metcalf-Downtown	bus
+12540295	RideKC	435		JOCO to Downtown Midday	bus
+12540378	RideKC	475		Quivira-75th Street	bus
+12541676	RideKC	495		95th Street	bus
+12541806	RideKC	510		K-10 Connector	bus
+12542001	RideKC	519		Olathe Express	bus
+12543404	RideKC	563		Shawnee Express	bus
+12544231	RideKC	569		South OP Express	bus
+12544404	RideKC	595		Gardner-OP Express	bus
+12555774	RideKC	115		Kansas Avenue	bus
+12694297	Topeka Metro	1		Oakland	bus
+12694466	Topeka Metro	2		North Kansas	bus
+12694542	Topeka Metro	3		East 6th	bus
+12694688	Topeka Metro	4		California	bus
+12694766	Topeka Metro	5		Indiana	bus
+12695420	Topeka Metro	6		West 6th	bus
+12695462	Topeka Metro	7		Washburn	bus
+12695601	Topeka Metro	10		West 10th	bus
+12695646	Topeka Metro	12		Huntoon	bus
+12695680	Topeka Metro	17		West 17th	bus
+12695882	Topeka Metro	21		West 21st	bus
+12695959	Topeka Metro	29		West 29th	bus
+12696008	Topeka Metro	10S		West 10th Special	bus
+13092767	US:OK	18	south		road
+13092768	US:OK	18	north		road
+13121331	US:OK:Texas	E0010			road
+13411998	rcn			Eastern Express Midwest Connector	bicycle
+13413225	US:KS	255			road
+13429993	rcn			Prairie Pathways Fort Scott to Iola Route	bicycle
+13466039				South Parker Street	road
+13772965	US:KS	128		KS 128	road
+13961648	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+14323549	US:KS:Douglas	1023		CR 1023 (north)	road
+14369443	lwn			Columbine Trail	hiking
+14369444	lcn			Columbine Trail	mtb
+14446923	rcn			Prairie Pathways Pittsburg to Iola Route	bicycle
+14450237	rcn			Prairie Pathways Pittsburg to Fort Scott Route	bicycle
+14478449	US:KS	276		KS 278	road
+14580843	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
+14588541		4		RS 4	road
+14604742	US:KS:Cowley	4			road
+14604743	US:KS:Cowley	8			road
+14604744	US:KS:Cowley	1			road
+14604745	US:KS:Cowley	6			road
+14604746	US:KS:Cowley	12			road
+14622349	US:OK:Grant	N3020			road
+14664788	Flint Hills ATA	1B			bus
+14664789	Flint Hills ATA	4			bus
+14676534				Coronado - West McPherson	power
+14676535				Berg - Mentor	power
+14702976				Keystone Pipeline	pipeline
+14709664	US:KS:Truck	99			road
+14720582	lwn			Grand Mere Trail	foot
+14720601	lwn			Carnahan West Trail	hiking
+14720748	lcn			South Loop	bicycle
+14895024	US:KS	143		Kansas Highway 143	road
+14932865		115		RS 115	road
+14955281	lcn			Arkansas City Hike-Bike Trail	bicycle
+15033682	US:KS:Douglas	1023		CR 1023 (south)	road
+15033683	US:KS:Douglas	452		CR 452	road
+15033684	US:KS:Douglas	5		CR 5	road
+15033685	US:KS:Douglas	6		CR 6	road
+15033686	US:KS:Douglas	448		CR 448	road
+15097452	lcn			Nieman Road	bicycle
+15097453	lcn			115th Street	bicycle
+15097454	lcn			Switzer Road/109th Street	bicycle
+15097455	lcn			Nieman Road	bicycle
+15097456	lcn			129th Street	bicycle
+15097457	lcn			Richards Street/125th Street	bicycle
+15097458	lcn			Quivira Road/127th Street	bicycle
+15097473	lcn			116th Street	bicycle
+15097474	lcn			Rosehill Road/125th Street	bicycle
+15097475	lcn			Pflumm Road	bicycle
+15097509	lcn			123rd Street	bicycle
+15097510	lcn			Grant Street/124th Street	bicycle
+15097511	lcn			Indian Creek Parkway	bicycle
+15097512	lcn			Grant Drive	bicycle
+15097513	lcn			115th/Mastin Street	bicycle
+15097514	lcn			108th Terrace/Lowell Avenue	bicycle
+15097515	lcn			Glenwood Street	bicycle
+15097531	lcn			110th Street/Conser Avenue	bicycle
+15097532	lcn			109th Street	bicycle
+15097533	lcn			Indian Creek Parkway/107th Street	bicycle
+15100408	lcn			West 114th Street	bicycle
+15100409	lcn			West 123rd Street	bicycle
+15100410	lcn			Tomahawk Creek Parkway	bicycle
+15100411	lcn			Mission Road	bicycle
+15513292	US:KS:Riley	911		Riley County Route 911	road
+15520702	US:KS:Riley	901S		Riley County Route 901S	road
+15520703	US:KS:Riley	424		Riley County Route 424	road
+15520704	US:KS:Riley	903S		Riley County Route 903S	road
+15520760	US:KS:CR	418		Riley County Route 418	road
+15520826	US:KS:Riley	897S		Riley County Route 897S	road
+15520827	US:KS:Riley	406		Riley County Route 406	road
+15520828	US:KS:Riley	402		Riley County Route 402	road
+15520829	US:KS:Riley	895S		Riley County Route 895S	road
+15520830	US:KS:Riley	396E		Riley County Route 396E	road
+15520831	US:KS:Riley	394		Riley County Route 394	road
+15520832	US:KS:Riley	392		Riley County Route 392	road
+15520833	US:KS:Riley	412		Riley County Route 412	road
+15520834	US:KS:Riley	875S		Riley County Route 875S	road
+15520940	US:KS:Riley	390		Riley County Route 390	road
+15520941	US:KS:Riley	885N		Riley County Route 885N	road
+15520942	US:KS:Riley	388		Riley County Route 388	road
+15520943	US:KS:Riley	384E		Riley County Route 384E	road
+15520944	US:KS:Riley	893		Riley County Route 893	road
+15520945	US:KS:Riley	378		Riley County Route 378	road
+15520946	US:KS:Clay	378		Clay County Route 378	road
+15520947	US:KS:Riley	376		Riley County Route 376	road
+15520948	US:KS:Riley	875N		Riley County Route 875N	road
+15520949	US:KS:Riley	362W		Riley County Route 362W	road
+15520950	US:KS:Riley	865		Riley County Route 865	road
+15520951	US:KS:Clay	362		Clay County Route 362	road
+15520952	US:KS:Clay	376		Clay County Route 376	road
+15520953	US:KS:Clay	859			road
+15520954	US:KS:Riley	362E		Riley County Route 362E	road
+15520955	US:KS:Riley	897N		Riley County Route 897N	road
+15521075	US:KS:Riley	396C		Riley County Route 396C	road
+15795066	lwn			Angel Falls Trail	hiking
+15851301	lwn			Upper Route	hiking
+15851302	lwn			Inner Loop	hiking
+15851303	lwn			Outer Loop	hiking
+15851304	lwn			Lower Loop	foot
+15882116				Permiter Trail	hiking
+15898733	RideKC	104	east	"Bus 104: Douglas Heights => Downtown Kansas City, KS"	bus
+15898734	RideKC	104	west	"Bus 104: Downtown Kansas City, KS => Douglas Heights"	bus
+16071915	lwn			Cesil Best Birding Trail	foot
+16173226	RideKC	101		"Bus 101: Village West => Downtown Kansas City, MO"	bus
+16179244	RideKC	101		"Bus 101: Downtown Kansas City, MO => Village West"	bus
+16246840	lcn			Turkey Creek Trail	bicycle
+16328652	US:KS:Spur	19		KS 19 Spur	road
+16331613	US:KS:Alt	23		KS 23 Alt	road
+16332058	US:KS:Truck	32		KS 32 Truck	road
+16332274	US:KS	41		KS 41	road
+16332408	US:KS	43		KS 43	road
+16332416	US:KS	44		KS 44	road
+16332522	US:KS	49		KS 49	road
+16332691	US:KS	53		KS 53	road
+16332842	US:KS	55		KS 55	road
+16332911	US:KS	57		KS 57	road
+16340388	US:KS	65		KS 65	road
+16341130	US:KS	103		KS 103	road
+16341144	US:KS	106		KS 106	road
+16341151	US:KS	111		KS 111	road
+16341402	US:KS	140		KS 140	road
+16341586	US:KS	146		KS 146	road
+16344873	US:KS	153		KS 153	road
+16344874	US:KS:Spur	153		KS 153 Spur	road
+16345263	US:KS	170		KS 170	road
+16345545	US:KS	179		KS 179	road
+16345936	US:KS	196		KS 196	road
+16346171	US:KS	232		KS 232	road
+16346274	US:KS	239		KS 239	road
+16346366	US:KS:Spur	244			road
+16346367	US:KS	244		KS 244	road
+16346797	US:KS	260		KS 260	road
+16346841	US:KS	284		KS 284	road
+16748218	US:MO:Supplemental	K			road
+16750771				Latham - Rose Hill	power
+16750772				Caney - Latham	power
+16750773				Neosho Ridge - Caney	power
+16750774				Neosho 345kV - Neosho Ridge	power
+17083769	US:KS:Scenic			Glacial Hills Scenic Byway	road
+17346696				Geary County - McDowell Creek	power
+17583878				Cimarron Bend #3 - Cimarron Bend #1	power
+17593500				Saddle - Ironwood	power
+17672555	US:KS:Clay	400			road
+17672556	US:KS:Clay	837			road
+17672557	US:KS:Clay	396			road
+17672558	US:KS:Riley	396W			road
+17672559	US:KS:Clay	82			road
+17672560	US:KS:Clay	404			road
+17672561	US:KS:Clay	827			road
+17672562	US:KS:Clay	422			road
+17672563	US:KS:Clay	398			road
+17672564	US:KS:Clay	835			road
+17672565	US:KS:Clay	376			road
+17672566	US:KS:Clay	819			road
+17672567	US:KS:Clay	366			road
+17672568	US:KS:Clay	832			road
+17706337	US:KS:Linn	536			road
+17706725	US:NHT			Oregon National Historic Trail Auto Tour Route	road
+17717455	US:KS:McPherson	1065			road
+17717456	US:KS:McPherson	450			road
+17717457	US:KS:McPherson	6103			road
+17717458	US:KS:McPherson	1067			road
+17782506	US:NHT			Oregon National Historic Trail Auto Tour Route	road
+17783569	US:NHT			Oregon National Historic Trail Auto Tour Route	road
+17787076	US:NHT			California National Historic Trail Auto Tour Route	road
+17787077	US:NHT			California National Historic Trail Auto Tour Route	road
+17787083	US:NHT			California National Historic Trail Auto Tour Route	road
+17802534	lwn			Elk River Hiking Trail	hiking
+17852624	US:KS:Scenic Byway			Smoky Valley Scenic Byway	road
+17863094				Decker Road	road
+18035405	US:KS:Truck	254			road
+18035406	US:US:Truck	54			road
+18035407	US:US:Truck	77			road
+18177876	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
+18177980	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
+18178442	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
+18178841	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+18336139	ncn	50		50 (Kansas)	bicycle
+18336140	ncn	55			bicycle
+18392571	US:OK:Washington	N3940			road
+18392629	US:KS:Montgomery	1400			road
+18392630	US:KS:Montgomery	1300			road
+18392631	US:KS:Montogmery	1600			road
+18467146				Co Rd 685	road
+18488188	US:US:Alternate	US 166 Alt		US 166 Alternate	road
+18661478	lhn			Blue Camp Trail	horse
+18661479	lwn			Blue Camp Trail	hiking
+18661480	lhn			Blue West Trail	horse
+18661481	lwn			Blue West Trail	hiking
+18661482	lhn			Red Trail	horse
+18661483	lwn			Red Trail	hiking
+18662774	lwn			White Trail	hiking
+18662775	lwn			White Trail	mtb
+18662776	lwn			Blue Trail	hiking
+18662777	lcn			Blue Trail	mtb
+18667217	lwn			Lawrence River Trail	hiking
+18667218	lcn			Lawrence River Trail	mtb
+18880048	US:KS:Leavenworth	22			road
+18962370	US:KS:Cowley	17			road
+19282441	lwn			Maccochaque	hiking
+19282442	lwn			Power Line	hiking
+19282443	lwn			Gnomes' Garden	hiking
+19282444	lwn			Marty's Woods	hiking
+19284691	US:US:Truck	24			road
+19385817	US:KS:Linn	528			road
+19385818	US:KS:Linn	552			road
+19406949		FF		Missouri Route FF (Vernon County)	road
+19682925	US:NHT			Santa Fe National Historic Trail Auto Tour Route	road
+19745908	US:OK:Harper	N1900			road
+20082384	lcn				bicycle

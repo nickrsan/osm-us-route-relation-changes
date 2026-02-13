@@ -1,0 +1,3130 @@
+@id	network	ref	direction	name	route
+61885	US:I:Business:Loop	44			road
+61887	US:MO:Supplemental	FF			road
+62134	US:MO	37			road
+62142	US:MO:Supplemental	U			road
+62143	US:MO:Supplemental	F			road
+62935	US:I	670			road
+63200	US:MO	96			road
+63206	US:MO	171			road
+69247	US:I:Business:Loop	44			road
+69248	US:MO:Supplemental	J			road
+69449	US:MO	174			road
+69451	US:MO	266			road
+69454	US:MO	66			road
+69463	US:MO:Supplemental	V		Missouri Route V (Netwon County)	road
+69696	US:MO:Supplemental	W			road
+69697	US:MO	249			road
+69698	US:I:Business:Loop	49			road
+69944	US:US:Business	60			road
+69949	US:US:Business	60			road
+69950	US:MO	59			road
+70400	US:MO:Supplemental	E			road
+70401	US:MO	43			road
+70405	US:US:Business	60			road
+70408	US:I:Business:Loop	44			road
+70435	US:MO	571			road
+75965	US:MO:Supplemental	H			road
+75968	US:MO	97			road
+75980	US:MO	90			road
+75981	US:MO:Supplemental	AA			road
+75982	US:US:Business	60			road
+76454	US:MO	39			road
+76457	US:MO:Supplemental	RB			road
+76459	US:MO:Business	37			road
+76814	US:MO	76			road
+77098	US:MO	86			road
+77479	US:MO	112			road
+77480	US:MO	248			road
+77483	US:MO	126			road
+77502	US:MO	265			road
+77516	US:MO	173			road
+77520	US:MO	376			road
+77747	US:I:Business:Loop	49		"Interstate 49 Business (Neosho, MO)"	road
+77748	US:MO	175			road
+77770	US:MO	150			road
+77773	US:MO	245			road
+77784	US:MO	215			road
+77861	US:MO	137			road
+77868	US:MO	123			road
+77875	US:MO	32			road
+77886	US:MO	269			road
+78990	US:I	70	west		road
+79230	US:I	635			road
+80144	US:MO	744			road
+80276	US:MO	7			road
+80280	US:MO	12			road
+87281	US:MO	68			road
+87282	US:MO	8			road
+87302	US:MO	72			road
+87305	US:MO	49			road
+87312	US:MO	19			road
+95079	US:US	166			road
+95080	US:US	400	west		road
+97785	US:MO	13			road
+102346	US:I	270			road
+102843	US:MO	33			road
+103653	US:I	229			road
+104066	US:MO	45			road
+104067	US:MO	273			road
+104069	US:MO	48			road
+106219	US:MO	360			road
+117941	US:I	470			road
+118921	US:MO	291			road
+118951	US:MO	152			road
+127266	US:MO	213			road
+127267	US:MO:Business	13			road
+127268	US:MO	20			road
+127276	US:MO	41			road
+127278	US:MO	122			road
+128524	US:MO	98			road
+128560	US:MO	87			road
+128599	US:MO	187			road
+136051	US:MO	30			road
+136075	US:MO	370			road
+136078	US:MO	267			road
+137336	US:MO	231			road
+137419	US:I	255			road
+139083	US:US	61		61	road
+181740	US:MO	366			road
+181749	US:MO	141			road
+184112	US:MO	23			road
+184127	US:MO	127			road
+184150	US:MO	116			road
+184215	US:MO	82			road
+228605	US:I	70	west		road
+270633	US:MO	58			road
+270649	US:MO	131			road
+271308	US:MO	148			road
+271315	US:MO	246			road
+271882	US:MO	46			road
+271884	US:MO	118			road
+271885	US:MO	113			road
+271886	US:MO	120			road
+271887	US:MO	85			road
+271890	US:MO	111			road
+271891	US:MO:Spur	111			road
+273236	US:MO	190			road
+273237	US:MO	146			road
+273238	US:MO	128			road
+273239	US:MO	145			road
+273261	US:MO	6			road
+273277	US:MO	139			road
+273279	US:MO	130			road
+273637	US:MO	752			road
+274015	US:I:Business:Loop	29		"I 29 Business (St. Joseph, MO)"	road
+274042	US:MO	759			road
+274091	US:MO	371			road
+276210	US:KS	171		KS 171 (East)	road
+287603	US:MO:Supplemental	HH			road
+288783	US:MO:Supplemental	AA			road
+288789	US:MO:Supplemental	M			road
+288790	US:MO:Supplemental	N			road
+288792	US:MO:Supplemental	BB			road
+288794	US:MO:Supplemental	T			road
+288807	US:MO:Supplemental	O			road
+288820	US:MO:Supplemental	V			road
+289585	US:MO:Supplemental	D			road
+289605	US:MO:Supplemental	TT			road
+294991	US:MO:Supplemental	KK			road
+294992	US:MO:Supplemental	CC			road
+294993	US:MO:Supplemental	YY			road
+295000	US:MO:Supplemental	P			road
+295919	US:MO:Supplemental	H			road
+295920	US:MO:Supplemental	K			road
+295921	US:MO:Supplemental	A			road
+295925	US:MO:Supplemental	Z			road
+295926	US:MO:Supplemental	B			road
+295929	US:MO:Supplemental	T			road
+295944	US:MO:Supplemental	T			road
+295945	US:MO:Supplemental	HH			road
+295946	US:MO:Supplemental	TT			road
+295947	US:MO:Supplemental	O			road
+295949	US:MO:Supplemental	A			road
+295950	US:MO:Supplemental	W			road
+295953	US:MO:Supplemental	U			road
+295955	US:MO:Supplemental	EE			road
+295958	US:MO:Supplemental	M			road
+295960	US:MO:Supplemental	E			road
+295962	US:MO:Supplemental	JJ			road
+295976	US:MO:Supplemental	B			road
+295977	US:MO:Supplemental	H			road
+295980	US:MO:Supplemental	D			road
+296499	US:MO:Supplemental	CC			road
+296809	US:MO:Supplemental	C			road
+296810	US:MO:Supplemental	B			road
+296811	US:MO:Supplemental	Y			road
+296813	US:MO:Supplemental	DD			road
+296815	US:MO:Supplemental	CC			road
+296819	US:MO:Supplemental	K			road
+296822	US:MO:Supplemental	C			road
+296827	US:MO:Supplemental	BB			road
+296833	US:MO:Supplemental	NN			road
+296834	US:MO:Supplemental	P			road
+296837	US:MO:Supplemental	MM		Missouri Route MM (Newton County)	road
+296848	US:MO:Supplemental	PP			road
+296856	US:MO:Supplemental	W			road
+296857	US:MO:Supplemental	VV			road
+296858	US:MO:Supplemental	P			road
+296859	US:MO:Supplemental	K			road
+296860	US:MO:Supplemental	FF			road
+296862	US:MO:Supplemental	ZZ			road
+298556	US:MO:Supplemental	BB			road
+298558	US:MO:Supplemental	YY			road
+298561	US:MO:Supplemental	B			road
+298565	US:MO:Supplemental	AA			road
+298567	US:MO:Supplemental	C			road
+299930	US:MO:Supplemental	NN			road
+299932	US:MO:Supplemental	UU			road
+299933	US:MO:Supplemental	OO			road
+299935	US:MO:Supplemental	V			road
+300591	US:MO:Supplemental	J			road
+300592	US:MO:Supplemental	Y			road
+300596	US:MO:Supplemental	AA			road
+331495	US:US	24			road
+331513	US:MO:Supplemental	JJ			road
+331528	US:MO:Supplemental	M			road
+371157	US:I	72			road
+375244	US:IA	27		IA 27	road
+398373	US:US	159			road
+422570	US:US	40			road
+443215	US:US	24		US 24 (super)	road
+445482	US:MO	185			road
+445483	US:MO:Spur	185			road
+445488	US:MO	21			road
+445490	US:MO	104			road
+446071	US:MO	143			road
+446072	US:MO	172			road
+446075	US:MO	117			road
+446090	US:MO	34			road
+446101	US:MO	51			road
+446106	US:MO	53			road
+446107	US:MO	158			road
+446108	US:MO	103			road
+446109	US:MO	99			road
+446120	US:MO	101			road
+446130	US:MO	142			road
+446841	US:MO	91			road
+446843	US:MO	80			road
+446850	US:MO	77			road
+446851	US:MO	105			road
+446852	US:MO	102			road
+446853	US:MO	75			road
+446854	US:MO	114			road
+446855	US:MO	153			road
+446856	US:MO	162			road
+446857	US:MO	84			road
+446858	US:MO	164			road
+446860	US:MO	108			road
+446864	US:MO	25			road
+446865	US:MO:Business	25			road
+447596	US:MO	74			road
+447600	US:MO	177			road
+447604	US:MO	5			road
+447606	US:MO:Business	5			road
+448269	US:MO	95			road
+448273	US:MO	181			road
+448274	US:MO	125			road
+448276	US:MO	38			road
+448278	US:MO	3			road
+448804	US:US	61			road
+449240	US:US:Business	60			road
+449241	US:US:Business	60			road
+449242	US:US:Business	60			road
+449243	US:US:Business	60			road
+449244	US:US:Business	60			road
+449245	US:US:Business	63			road
+449246	US:US:Business	60			road
+449247				Old Business State Hwy 60	road
+449248	US:US:Business	60			road
+449249	US:US:Business	67			road
+449250	US:US:Business	60			road
+449251	US:US:Business	60			road
+449297	US:US:Business	63			road
+450199	US:MO	17			road
+450293	US:MO	133			road
+450322	US:MO	42			road
+450345	US:MO	134			road
+450350	US:MO	28			road
+450353	US:MO	119			road
+450357	US:MO	202			road
+450366	US:MO	16			road
+450368	US:MO	81			road
+450379	US:MO	11			road
+450389	US:MO	149			road
+450390	US:MO	156			road
+450402	US:MO	129			road
+450404	US:MO	157			road
+450405	US:MO	107			road
+450412	US:MO	154			road
+450429	US:MO	22			road
+450442	US:MO	151			road
+450444	US:MO	15			road
+450447	US:MO	168			road
+450841	US:MO	161			road
+450879	US:MO	79			road
+452970	US:US	275			road
+456622	US:MO	52			road
+456624	US:MO	18			road
+530310	US:MO	89			road
+530383	US:MO	100			road
+530726	US:MO	340			road
+530727	US:MO	109			road
+530740	US:MO	180			road
+530788	US:MO	115			road
+530810	US:MO	367			road
+531743	US:MO	364			road
+531851	US:MO	47			road
+531896	US:MO	94			road
+531897	US:MO	147			road
+531907	US:MO	2			road
+549983	US:MO:Supplemental	JJ			road
+549987	US:MO:Supplemental	Z			road
+904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+1024803	US:MO	350			road
+1059604	US:MO:Supplemental	V			road
+1059606	US:MO:Supplemental	C			road
+1059607	US:MO:Supplemental	J			road
+1059614	US:MO:Supplemental	Y			road
+1059623	US:MO:Supplemental	D		Missouri Route D (Cass County)	road
+1059630	US:MO:Supplemental	YY			road
+1059631	US:MO:Supplemental	O		Missouri Route O (Cass County)	road
+1060726	US:MO:Supplemental	DD		Missouri Route DD (Cass County)	road
+1060752	US:MO:Supplemental	A		Missouri Route A (Cass County)	road
+1060758	US:MO:Supplemental	W		Missouri Route W (Cass County)	road
+1060778	US:MO:Supplemental	B			road
+1060790	US:MO:Supplemental	T			road
+1060797	US:MO:Supplemental	TT			road
+1060812	US:MO:Supplemental	Z			road
+1060813	US:MO:Supplemental	F			road
+1061188	US:MO:Supplemental	K			road
+1061192	US:MO:Supplemental	P			road
+1061198	US:MO:Supplemental	EE			road
+1061212	US:MO:Supplemental	M			road
+1061213	US:MO:Supplemental	CC			road
+1061228	US:MO:Supplemental	E			road
+1061229	US:MO:Supplemental	VV			road
+1061244	US:MO:Supplemental	KK			road
+1061250	US:MO:Supplemental	ZZ			road
+1061251	US:MO:Supplemental	BB			road
+1061259	US:MO:Supplemental	N			road
+1061281	US:MO:Supplemental	O			road
+1061282	US:MO:Supplemental	M			road
+1061374	US:MO:Supplemental	AA			road
+1061386	US:MO:Supplemental	E			road
+1061390	US:MO:Supplemental	B			road
+1061399	US:MO:Supplemental	K		Missouri Route K (Henry County)	road
+1061407	US:MO:Supplemental	H			road
+1061409	US:MO:Supplemental	HH			road
+1163467	rwn			Katy Trail State Park	hiking
+1229145	US:I	155			road
+1250814	US:I	44	east		road
+1250815	US:I	44	west		road
+1267358	US:I	64	west		road
+1319478	US:NHS High Priority Corridors			NHS High Priority Corridor 2 (Avenue of the Saints)	road
+1319488	US:NHS High Priority Corridors			NHS High Priority Corridor 3	road
+1319490	US:NHS High Priority Corridors			NHS High Priority Corridor 8	road
+1350654	US:MO:Supplemental	A			road
+1350659	US:MO:Supplemental	C			road
+1350667	US:MO:Supplemental	E			road
+1350669	US:MO:Supplemental	DD			road
+1350678	US:MO:Supplemental	F			road
+1350679	US:MO:Supplemental	W			road
+1350680	US:MO:Supplemental	CC			road
+1350681	US:MO:Supplemental	O			road
+1351598	US:MO:Supplemental	J			road
+1351611	US:MO:Supplemental	H			road
+1351613	US:MO:Supplemental	EE			road
+1351624	US:MO:Supplemental	JJ			road
+1351647				Old State Highway 210	road
+1431147				Parsons Subdivision	railway
+1431149				Coffeyville Subdivision	railway
+1431644				KC Metro Subdivision	railway
+1433349				St. Joseph Subdivision	railway
+1433350				River Subdivision	railway
+1433351				Sedalia Subdivision	railway
+1433352				Fort Scott Subdivison	railway
+1433353				Marceline Subdivision	railway
+1457803				Heavener Subdivision	railway
+1457810				Pittsburg Subdivision	railway
+1593687	US:US	50			road
+1593690	US:US	36			road
+1595232	US:US	60			road
+1629640	US:US	69			road
+1629643	US:US	71			road
+1629666	US:US	54			road
+1629678	US:US	54			road
+1629684	US:US	69			road
+1630665	US:US	65			road
+1630666	US:US	65			road
+1656996	US:IL	146		IL 146	road
+1657622	US:IL	150		IL 150	road
+1687182	US:I	170			road
+1710831	US:MO	31			road
+1711302	US:MO	64			road
+1711304	US:MO	64B			road
+1711305	US:MO	73			road
+1711306	US:MO	83			road
+1711524	US:MO	106			road
+1711525	US:MO	110			road
+1711526	US:MO	121			road
+1711527	US:MO	124			road
+1711528	US:MO	135			road
+1711529	US:MO	144			road
+1711530	US:MO	163			road
+1711531	US:MO	165			road
+1711532	US:MO	221			road
+1711533	US:MO	224			road
+1711534	US:MO	240			road
+1711535	US:MO	254			road
+1711536	US:MO	413			road
+1711537	US:MO	740			road
+1711538	US:MO	763			road
+1711652	US:MO	10			road
+1711653	US:MO	176			road
+1711654	US:MO	179			road
+1711655	US:MO	465			road
+1711656	US:MO	92			road
+1711717	US:MO:Spur	15			road
+1711718	US:MO:Alternate	240			road
+1711719	US:MO:Spur	240			road
+1711720	US:MO	27			road
+1711721	US:US:Spur	169			road
+1711722	US:US:Spur	50			road
+1711723	US:US:Spur	69			road
+1713312	US:AR	265			road
+1713313	US:AR	279			road
+1713332	US:AR	143			road
+1713334	US:AR	21			road
+1713336	US:AR	23			road
+1714087	US:AR	395			road
+1714097	US:AR	115			road
+1714112	US:AR	166			road
+1714120	US:AR	90			road
+1714121	US:AR	93			road
+1714145	US:AR	119			road
+1714147	US:AR	139			road
+1714149	US:AR	211			road
+1715100	US:AR	77			road
+1715268	US:AR	137			road
+1715277	US:AR	151			road
+1715280	US:AR	181			road
+1723650				Hamburg Trail	hiking
+1737996	MetroLink	Blue		MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
+1737997	MetroLink	Red		MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
+1782082	ncn	MRT		Mississippi River Trail (Missouri)	bicycle
+1783090	US:GRR			Great River Road (Illinois - National Route)	road
+1783091	US:GRR			Great River Road (Iowa - all routes)	road
+1784815	US:GRR			Great River Road (Missouri - National Route)	road
+1784816	US:GRR				road
+1790470	ncn	76		76 (Missouri)	bicycle
+1796338					
+1796821	US:KS	66		KS 66	road
+1796822	US:US:Historic	66		Historic US 66 (KS)	road
+1932004	US:US:Business	50			road
+1932005	US:US:Business	50			road
+1932006	US:US:Business	54			road
+1932007	US:US:Business	54			road
+1932008	US:US:Business	61			road
+1932009	US:US:Business	65			road
+1932010	US:US:Business	65			road
+1932011	US:US:Business	71			road
+1932037	US:US:Business	36			road
+1932038	US:US:Business	36			road
+1932039	US:US:Business	36			road
+1932040	US:US:Business	36			road
+1932041	US:US:Business	36			road
+1932042	US:US:Business	36			road
+1932043	US:US:Business	36			road
+1932044	US:US:Business	36			road
+1932045	US:US:Business	36			road
+1932047	US:US:Business	50			road
+1932048	US:US:Business	50			road
+1932049	US:US:Business	54			road
+1932050	US:US:Business	54			road
+1932051	US:US:Business	54			road
+1932157	US:US:Business	61			road
+1932158	US:US:Business	61			road
+1932159	US:US:Business	61			road
+1932160	US:US:Business	61			road
+1932161	US:US:Business	61			road
+1932162	US:US:Business	63			road
+1932163	US:US:Business	63			road
+1933222	US:I:Business:Loop	35			road
+1933223	US:I:Business:Spur	44			road
+1933224	US:I:Business:Loop	44			road
+1933225	US:I:Business:Loop	44		"I 44 Business (Pacific, MO)"	road
+1933226	US:I:Business:Loop	44			road
+1933227	US:I:Business:Loop	44			road
+1933228	US:I:Business:Loop	55			road
+1933229	US:I:Business:Loop	55		"I 55 Business (Festus-Crystal City, MO)"	road
+1933230	US:I:Business:Loop	55		"I 55 Business (New Madrid, MO)"	road
+1933231	US:I:Business:Loop	57			road
+1933232	US:I:Business:Loop	70			road
+1933233	US:I:Business:Loop	70			road
+1933234	US:I:Business:Loop	70			road
+1933235	US:US:Business	136			road
+1933236	US:US:Business	136			road
+1933237	US:US:Business	136			road
+1933238	US:US:Business	160			road
+1933239	US:US:Business	65			road
+1933240	US:US:Business	65			road
+1933241	US:US:Business	65			road
+1933242	US:US:Business	65			road
+1933243	US:US:Business	67			road
+1933244	US:US:Business	67			road
+1933245	US:I:Business:Loop	49			road
+1933246	US:US:Business	71			road
+1933247	US:I:Business:Loop	49			road
+1933248	US:US:Business	71		"US 71 Business (Pineville-Anderson, MO)"	road
+1939023	US:US:Business	24			road
+2062865	lwn	Clearwater Lake		Army Corp of Engineers	hiking
+2124738	US:IA	148		IA 148	road
+2179781	rcn	66		Route 66	bicycle
+2180799	ncn	MRT		Mississippi River Trail (Iowa)	bicycle
+2182441	inland waterways			Upper Mississippi River	boat
+2182837	inland waterways	M 55		Lower Mississippi River	waterway
+2210316				Hoxie Subdivision	railway
+2210319				Jonesboro Subdivision	railway
+2210323				New Madrid Subdivision	railway
+2210325				River Subdivision	railway
+2210327				Sikeston Subdivision	railway
+2210330				Thayer South Subdivision	railway
+2214659				Bagnell Industrial Lead	railway
+2214660				Bonne Terre Industrial Lead	railway
+2214661				Broadway Industrial Lead	railway
+2214662				Chester Subdivision	railway
+2214663				Crystal City Industrial Lead	railway
+2214664				UP Desoto Subdivision	railway
+2214665				UP Jefferson City Subdivision	railway
+2214667				Labadie Industrial Lead	railway
+2214668				Lake Industrial Lead	railway
+2214669				Lesperance Industrial Lead	railway
+2214670				Marshall Industrial Lead	railway
+2214671				Mosher Industrial Lead	railway
+2214672				Pea Ridge Subdivision	railway
+2214673				Pixley Industrial Lead	railway
+2214674				Ste. Genevieve Industrial Lead	railway
+2214675				Trenton Subdivision	railway
+2214818				Brookfield Subdivision	railway
+2214819				Cherokee Subdivision	railway
+2214820				Cuba Subdivision	railway
+2214821				Greenfield Lead	railway
+2214822				BNSF Hannibal Subdivision	railway
+2214823				Kissick Branch	railway
+2214824				Lead Line Subdivision	railway
+2214826				Thayer North Subdivision	railway
+2214827				Thomas Hill Subdivision	railway
+2215472				Springfield-Hannibal District	railway
+2215473				NS Kansas City District	railway
+2215474				NS St. Louis District	railway
+2219967	US:MO	242			road
+2220250				Napier Subdivision	railway
+2221542				Merchants Subdivision	railway
+2221759				Springfield District	railway
+2304450	US:US	59			road
+2304452	US:US	59			road
+2304863	US:US	169			road
+2304870	US:US	63			road
+2304874	US:US	63			road
+2304877	US:US	67			road
+2304881	US:US	67			road
+2304921	lwn				hiking
+2308447	US:US	412			road
+2308450	US:US	412			road
+2308735	US:US	136			road
+2308738	US:US	136			road
+2308739	US:US	136			road
+2309418	US:US	56			road
+2310321	US:US	160			road
+2310322	US:US	160			road
+2310342	US:US	62			road
+2310344	US:US	62			road
+2318253	US:MO	110			road
+2319882					road
+2320025					road
+2324102	US:I	57	north		road
+2324104	US:I	57	south		road
+2335811	US:I	35	north		road
+2335812	US:I	35	south		road
+2335821	US:I	35	north		road
+2335822	US:I	35	south		road
+2335959	US:I	35	north		road
+2335960	US:I	35	south		road
+2520838	MetroBus	10	north	10 Gravois-Lindell: Gravois-Hampton Transit Center → Central West End Transit Center	bus
+2795760	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => San Antonio	train
+2917747	ncn	76		76 (Illinois)	bicycle
+3193971	rcn	KT		Katy Trail	bicycle
+3223337				Hooper House Trail	hiking
+3259919	rcn			Indian Creek Trail	bicycle
+3301387	US:IA:Scenic			Loess Hills National Scenic Byway	road
+3582128	US:I	29	south		road
+3647721	US:MO:Supplemental	U			road
+3647722	US:OK	10C			road
+3672357	US:MO:Supplemental	O			road
+3684119	US:MO:Supplemental	B			road
+3684120	US:MO:Supplemental	D			road
+3684121	US:MO:Supplemental	E			road
+3684122	US:MO:Supplemental	K			road
+3684123	US:MO:Supplemental	KK		Missouri Route KK (Vernon County)	road
+3684124	US:MO:Supplemental	KK			road
+3684125	US:MO:Supplemental	KK			road
+3684126	US:MO:Supplemental	T		Missouri Route T (Vernon County)	road
+3684219	US:MO:Supplemental	K			road
+3684220	US:MO:Supplemental	KK			road
+3684221	US:MO:Supplemental	WW			road
+3726448				Bootlegger's Run Trail	mtb
+3734593	US:US:Historic	66			road
+3734770	US:US:Historic	66		Historic US 66 (MO)	road
+3734771					
+4042935	US:IA:CR	S50		Wayne County Road S50	road
+4465990	Tiger Line	402		Trowbridge Loop	bus
+4466004	Tiger Line	401		Hearnes Loop	bus
+4652182	rwn	R2R		River to River Segment 7 - Alto Pass to Devil's Backbone	hiking
+4681285				"Kansas City, Clay County & St Joseph Railroad"	railway
+4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4743862	Amtrak	Missouri River Runner		Amtrak Missouri River Runner: Saint Louis => Kansas City	train
+4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
+5011764				Blue route	bus
+5383593	ncn	76		76 (Kansas)	bicycle
+5816524	US:MO:Supplemental	K			road
+5883849				Zoo Line	train
+6022939					power
+6022940					power
+6022941					power
+6022942					power
+6022943					power
+6022944					power
+6022966					power
+6022967					power
+6022968					power
+6022969					power
+6022971					power
+6022986					power
+6022987					power
+6022988					power
+6022989					power
+6023433					power
+6023434					power
+6023435					power
+6023436					power
+6023437					power
+6023438					power
+6023439					power
+6023440					power
+6023454					power
+6023462					power
+6023507					power
+6023609					power
+6023610					power
+6023611					power
+6023612					power
+6023666					power
+6023779					power
+6023780					power
+6023781					power
+6023782					power
+6023783					power
+6023784					power
+6023785					power
+6023786					power
+6023791					power
+6023792					power
+6023828					power
+6023829					power
+6023830					power
+6024275					power
+6024276					power
+6024277					power
+6024278					power
+6024283					power
+6024384					power
+6024385					power
+6024386					power
+6024396					power
+6024711					power
+6024712					power
+6024713					power
+6024714					power
+6024715					power
+6024716					power
+6024717					power
+6024718					power
+6024719					power
+6024720					power
+6024721					power
+6024722					power
+6024724					power
+6024725					power
+6024996					power
+6025003					power
+6025010					power
+6025060					power
+6025087					power
+6025088					power
+6025089					power
+6025099					power
+6025100					power
+6025101					power
+6084130	lcn	BUS		Busch Greenway	bicycle
+6084131	lwn			Old Hamburg Trail	hiking
+6117058	US:US:Business	63			road
+6517783				Libertyland Flyer RR	train
+6528960	RideKC	11		Bus 11: KU Medical Center → Executive Park	bus
+6528961	RideKC	12		Bus 12: Downtown Kansas City → 31st & Van Brunt	bus
+6528962	RideKC	12		Bus 12: 31st & Van Brunt → Downtown Kansas City	bus
+6650952					power
+6650959					power
+6650976					power
+6650977					power
+6650978					power
+6650979					power
+6683048	US:MO:Spur	92			road
+6691528				Missouri and Northern Arkansas Railroad	railway
+6891068				People's Park Trail	foot
+6894923	US:I	70	east		road
+6894937	US:I	70	east		road
+6898835	US:I	435			road
+6898836	US:I	435			road
+6906685	US:I	29	north		road
+6906692	US:I	29	north		road
+6908170	US:I	55			road
+6908171	US:I	55			road
+6908276	US:I	55	S		road
+6910501	US:I	55	N		road
+6930435	US:I	64	east		road
+6993791					power
+6993792					power
+6993793					power
+7138073				Ozark Valley Railroad	railway
+7138096				Central Belt Sub	railway
+7140943				Columbia Terminal Railroad	railway
+7140983				Central Midland Railway	railway
+7150059				West Belt Subdivision	railway
+7161297					foot
+7170108				Roodhouse Subdivision	
+7176641	rwn			Cedar Creek Trail	hiking
+7178235					power
+7182895	lwn			Moon Loop	hiking
+7190373	rcn			Little Blue Trace Trail	bicycle
+7258425	RideKC	15		Route 15: Eastbound	bus
+7258435	RideKC	23		Bus 23: 31st & Southwest → Blue Valley Park	bus
+7258455	RideKC	24		Bus 24: Downtown Kansas City → Independence Transit Center	bus
+7258774	RideKC	27		27th Street	bus
+7258838	RideKC	31		Bus 31: Penn Valley → Blue Ridge Crossing	bus
+7260763	lcn	BOS		Boschert Greenway	bicycle
+7267937	KCATA	32		32 - Linwood Link	bus
+7267968	RideKC	35		35th Street	bus
+7267990	RideKC	39		39th Street	bus
+7268023	RideKC	40		40 - Crossroads-Plaza	bus
+7268316	RideKC	47		Broadway	bus
+7268317	RideKC	51		51 - Ward Parkway	bus
+7268327	RideKC	55		Bus 55: River Market → Blue Parkway & Kensington	bus
+7268337	KCATA	57		57 Wornall	bus
+7268339	RideKC	63		63rd Street	bus
+7268450	RideKC	71		71 - Prospect	bus
+7268460	KCATA	75		75th Street	bus
+7268494	RideKC	85		Paseo	bus
+7268631	RideKC	MMAX		Main Street MAX: Northbound	bus
+7268639	RideKC	TMAX		Troost MAX	bus
+7268671	RideKC	101		State Ave	bus
+7268808	RideKC	103		3rd - Fairfax	bus
+7271954	RideKC	106		106 - Quindaro	bus
+7272109	RideKC	18		18 - Indiana	bus
+7272150	RideKC	21		Cleveland-Antioch	bus
+7272622		305		305 - IndeBus Orange Route	bus
+7272785	RideKC	28		Blue Ridge	bus
+7279186		401		401 - Metcalf-Plaza	bus
+7279190	RideKC	232		232 - Gracemor	bus
+7279595	RideKC	233		233 - Vivion/Antioch	bus
+7279660	KCATA	234		234 - Boardwalk/Antioch	bus
+7282849	RideKC	201		201 - North Oak	bus
+7300581	lcn	WB		Washington Bikeway	bicycle
+7308763	US:KS	126			road
+7321307	RideKC	403		403 - Antioch-Olathe	bus
+7321310		475		475 - Quivira-75th Street	bus
+7321561	RideKC	238		238 - Meadowbrook	bus
+7329846	lcn	MER		Meremec Greenway	bicycle
+7367156	US:MO	9			road
+7367262	US:MO:Supplemental	AA			road
+7367361	US:MO:Supplemental	K			road
+7373788	US:MO:Supplemental	FF			road
+7382921	US:MO	138			road
+7391645	US:I:Business:Loop	44			road
+7393506	US:MO:Supplemental	CC			road
+7397610	US:MO	765			road
+7398703	US:MO:Supplemental	BB			road
+7400493				CPKC Mexico Subdivision	railway
+7401791	US:MO:Spur	45			road
+7409019	US:MO	210			road
+7419475	US:MO	64A			road
+7419625	US:MO:Supplemental	OO			road
+7432066	lcn	FF		Fee Fee Greenway	bicycle
+7453127	US:MO	1			road
+7453992	US:MO:Spur	45			road
+7453993	US:MO:Spur	9			road
+7456277				Laredo Subdivision	railway
+7456287				Kansas City Subdivision	railway
+7456922	US:MO:Supplemental	AC			road
+7471620	US:US	50	west		road
+7471621	US:US	50	east		road
+7473092	US:US	400	east		road
+7488498	US:MO:Supplemental	KK			road
+7488543	US:MO:Supplemental	UU			road
+7489588	US:MO:Business	13			road
+7492979	US:MO:Supplemental	RA			road
+7496066	US:MO:Spur	10			road
+7512700	rcn			St. Louis Riverfront Trail	bicycle
+7518859	US:US:Spur	71			road
+7529956	US:I	49	south		road
+7529957	US:I	49	north		road
+7580854	US:MO:Business	7			road
+7580966	US:MO:Supplemental	DD			road
+7586591	US:MO:Business	13			road
+7590361	US:MO:Supplemental	C			road
+7594038	lcn	CEN		Centennial Greenway	bicycle
+7598400	US:MO:Supplemental	MM			road
+7600383	US:MO:Supplemental	TT			road
+7601037	US:MO:Supplemental	B			road
+7606628	US:MO:Supplemental	MM			road
+7606677	US:MO:Supplemental:Spur	P			road
+7606703	US:MO:Supplemental:Spur	N			road
+7614523	US:MO:Supplemental	JJ			road
+7614630	US:MO:Supplemental	FF			road
+7616552	US:MO:Business	5			road
+7668923	lcn			Creve Coeur Lake Memorial Park Trails	bicycle
+7678836	US:MO:Business	13			road
+7687871	US:MO:Supplemental	AC			road
+7755652	inland waterways			Middle Mississippi River	boat
+7770009	US:MO:Supplemental	F			road
+7773636	US:US:Connector	63			road
+7785848	US:MO:Business	13			road
+7785857	US:MO:Spur	13			road
+7785931	US:MO:Business	13			road
+7787389	US:MO:Business	10			road
+7824363	rcn	FHT		Frisco Highline Trail	bicycle
+7825325	MetroBus	35		Rock Road	bus
+7825409	RideKC	601		Streetcar : River Market North to UMKC	tram
+7825410	RideKC	601		Streetcar 601: UMKC to River Market North	tram
+7825618	RideKC	9		Bus 9: Truman & Ewing → 12th & Wyoming	bus
+7825619	RideKC	9		Bus 9: 12th & Wyoming → Truman & Ewing	bus
+7834150	US:I:Alternate	70		"I 70 Alternate (Kansas City, KS & MO)"	road
+7845652	US:MO:Supplemental	Y			road
+7845887	US:MO:Supplemental	MM			road
+7848216	US:MO:Supplemental	W			road
+7848843	US:MO:Supplemental	H			road
+7851222	US:MO:Supplemental	P			road
+7858098	US:MO:Supplemental	V			road
+7893917	RideKC	11		Bus 11: Executive Park → KU Medical Center	bus
+7900926	RideKC	27		Bus 27: 31st & Van Brunt → 25th & Summit	bus
+7902615	RideKC	39		Route 39: Westbound	bus
+7903050	RideKC	MMAX		Main Street MAX	bus
+7903482	RideKC	15		Route 15: Westbound	bus
+7908563	US:MO:Supplemental	FF			road
+7914497	US:MO:Supplemental	AW			road
+7917479	US:MO:Business	240			road
+7920015	US:MO:Supplemental	PP			road
+7926951	US:MO:Business	13			road
+7927077	US:MO:Supplemental	F			road
+7928415	US:MO:Supplemental	AA			road
+7928667	US:MO:Supplemental	BB			road
+7929247	US:MO:Supplemental	FF			road
+7939190	US:MO:Supplemental	O			road
+7939204	US:MO:Supplemental	WW			road
+7943638	US:MO:Supplemental	YY			road
+7946093	US:MO:Supplemental	C			road
+8016164	US:MO:Supplemental	W			road
+8116921	US:MO:Supplemental	A			road
+8123646	US:MO:Supplemental	KK			road
+8126466	US:MO:Supplemental	F			road
+8136948				Coronita Drive	road
+8136953				Villa Gran Way	road
+8136954				Villa Gran Way	road
+8137070				Coronita Drive	road
+8137071				Coronita Drive	road
+8137072				Coronita Way	road
+8137073				Coronita Drive	road
+8137074				Coronita Drive	road
+8137111				Coronita Court	road
+8137112				Coronita Court	road
+8137113				Coronita Court	road
+8137114				Coronita Court	road
+8137115				Coronita Drive	road
+8137116				Coronita Drive	road
+8137456				Villa Gran Way	road
+8137457				Villa Gran Way	road
+8137458				Villa Gran Way	road
+8137459				Villa Gran Way	road
+8137460				Villa Gran Way	road
+8137461				Villa Gran Way	road
+8137462				San Martin Drive	road
+8137544				San Martin Drive	road
+8137545				San Martin Drive	road
+8137546				San Martin Drive	road
+8137547				San Martin Drive	road
+8137548				San Martin Drive	road
+8137549				San Martin Drive	road
+8137586				San Martin Drive	road
+8137588				San Martin Drive	road
+8137589				San Martin Drive	road
+8137590				San Martin Drive	road
+8137591				San Martin Drive	road
+8137592				San Martin Drive	road
+8137594				San Martin Drive	road
+8137596				San Martin Drive	road
+8137599				San Martin Drive	road
+8137613				San Martin Drive	road
+8137614				San Martin Drive	road
+8137615				San Martin Drive	road
+8137663				San Sebastian Drive	road
+8137664				Villa Gran Way	road
+8137967				San Sebastian Drive	road
+8137968				San Sebastian Drive	road
+8137969				San Sebastian Drive	road
+8137970				San Sebastian Drive	road
+8137971				San Sebastian Drive	road
+8137972				San Sebastian Drive	road
+8137973				San Sebastian Drive	road
+8137974				San Sebastian Drive	road
+8137975				San Sebastian Drive	road
+8137976				San Sebastian Drive	road
+8137977				San Sebastian Drive	road
+8137978				San Sebastian Drive	road
+8137979				San Sebastian Drive	road
+8137980				San Sebastian Drive	road
+8137981				San Sebastian Drive	road
+8137982				San Sebastian Drive	road
+8138007				San Sebastian Drive	road
+8138008				San Sebastian Drive	road
+8138087				La Palma Drive	road
+8138088				La Palma Drive	road
+8138089				La Palma Drive	road
+8138090				La Palma Drive	road
+8138091				La Palma Drive	road
+8138092				La Palma Drive	road
+8138093				La Palma Drive	road
+8138094				La Palma Drive	road
+8140059				La Palma Drive	road
+8140265				Alvarado Drive	road
+8140476				Colina Tierra Court	road
+8140695				Zapata Court	road
+8140696				Tierra Court	road
+8140738				El Paso Court	road
+8140739				San Simeon Way	road
+8141127				San Sebastian Drive	road
+8141149				Almeda Court	road
+8149228				Swansea Drive	road
+8149229				Somerset Ridge Drive	road
+8149310				Stemwood Way	road
+8149311				Littleton Court	road
+8149411				Somerset Ridge Drive	road
+8149722				Woodway Drive	road
+8149723				Woodway Circle	road
+8149724				Woodway Circle	road
+8149818				Woodway Circle	road
+8150123				Coronita Drive	road
+8156471				New Smizer Mill Road	road
+8157590				Fenton Meadows Court	road
+8157785				Bowles Avenue	road
+8214170	US:MO:Supplemental	T			road
+8214171	US:MO:Supplemental	V			road
+8214188	US:MO:Supplemental	MM			road
+8215934	ncn	66		66 (Missouri)	bicycle
+8312132	US:MO:Supplemental	RA			road
+8415413				Morgan - Neosho	power
+8415609					power
+8419938	US:MO:Supplemental	EE			road
+8426204					power
+8426205					power
+8498549	ncn	66		66 (Kansas)	bicycle
+8621135					power
+8621136					power
+8621137					power
+8621138					power
+8621139					power
+8621140					power
+8621141					power
+8621258					power
+8621259					power
+8621260					power
+8664995	MetroBus	2	north	2 Red: Brentwood I-64 Transit Center → Rock Road Transit Center	bus
+8664996	MetroBus	1	east	1 Gold: Mallinckrodt Center → Central West End Transit Center	bus
+8665138	MetroBus	16		City Limits	bus
+8665140	MetroBus	13	south	13 Union: Union & West Florissant → Central West End Transit Center	bus
+8665141	MetroBus	11	east	11 Chippewa: Shrewsbury-Lansdowne Transit Center → Civic Center Transit Center	bus
+8665142	MetroBus	8	north	8 Shaw-Cherokee: Catalan Loop Transit Center → Central West End Transit Center	bus
+8665143	MetroBus	4	east	4 Natural Bridge: North Hanley Transit Center → Civic Center Transit Center	bus
+8665144	MetroBus	5	clockwise	5 Green: Mallinckrodt Center → Mallinckrodt Center	bus
+8669551	MetroBus	21		Watson Road	bus
+8669553	MetroBus	19	east	19 St. Louis Ave: Rock Road Transit Center → Civic Center Transit Center	bus
+8669554	MetroBus	18	north	18 Taylor: Central West End Transit Center → Pope & West Florissant	bus
+8669555	MetroBus	17		MetroBus 17 Oakville	bus
+8669734	MetroBus	33		Midland	bus
+8669735	MetroBus	32	east	32 Dr. ML King: Rock Road Transit Center → Civic Center Transit Center	bus
+8669736	MetroBus	31	east	31 Chouteau: Brentwood I-64 Transit Center → Civic Center Transit Center	bus
+8669737	MetroBus	30	east	30 Arsenal: Shrewsbury-Lansdowne Transit Center → Civic Center Transit Center	bus
+8671223	MetroBus	39		MetroBus 39 Berkeley-Florissant	bus
+8671225	MetroBus	38		MetroBus 38 Hazelwood	bus
+8671226	MetroBus	37		MetroBus 37 Hanley-Graham	bus
+8671227	MetroBus	34		Earth City	bus
+8671754	MetroBus	49		Lindbergh	bus
+8671755	MetroBus	48		MetroBus 48 South Lindbergh	bus
+8671756	MetroBus	47		Hanley	bus
+8671757	MetroBus	46		Tesson Ferry	bus
+8671758	MetroBus	42	north	42 Sarah: Central West End Transit Center → Pope & West Florissant	bus
+8671759	MetroBus	41	north	41 Lee: Civic Center Transit Center → Riverview Transit Center	bus
+8671761	MetroBus	40	north	40 Broadway-Halls Ferry: Civic Center Transit Center → North County Transit Center	bus
+8671762	US:MO:Supplemental	EE			road
+8671763	US:MO:Supplemental	JJ			road
+8671764	US:MO:Supplemental	P			road
+8671765	US:MO:Supplemental	U			road
+8671766	US:MO:Supplemental	N			road
+8671767	US:MO:Supplemental	AC			road
+8671768	US:MO:Supplemental	H			road
+8671769	US:MO:Supplemental	D			road
+8671864	MetroBus	59	east	59 Oakland: Highland Terrace & Richmond Ctr → Central West End Transit Center	bus
+8671866	MetroBus	58		Chesterfield Valley	bus
+8671867	MetroBus	57		Manchester	bus
+8671868	MetroBus	56		Kirkwood-Webster	bus
+8671901	MetroBus	72		MetroBus 72 Monarch	bus
+8671902	MetroBus	71		Patterson-Redman	bus
+8671903	MetroBus	70		70 Grand	bus
+8671904	MetroBus	68		MetroBus 68 Big Bend	bus
+8671906	MetroBus	64		Lucas-Hunt	bus
+8671907	MetroBus	61		Chambers Road	bus
+8672127	MetroBus	90		Hampton	bus
+8672129	MetroBus	79		Ferguson	bus
+8672130	MetroBus	78		MetroBus 78 Larimore	bus
+8672131	MetroBus	77		Village Square	bus
+8672132	MetroBus	76		MetroBus 76 Waterford	bus
+8672133	MetroBus	74	north	74 Florissant: Civic Center Transit Center → North County Transit Center	bus
+8672134	MetroBus	73	north	73 Carondelet: South County Mall → Civic Center Transit Center	bus
+8674532	MetroBus	95	north	95 Kingshighway: Gravois-Hampton Transit Center → North Broadway Transit Center	bus
+8674533	MetroBus	94		Bus 94: Civic Center Transit Center => Lackland & Altom Court	bus
+8674534	MetroBus	91		Olive	bus
+8682098	MetroBus	65		Outer Forty	bus
+8682099	MetroBus	210		MetroBus 210 Fenton-Gravois Bluffs	bus
+8682103	MetroBus	98		Ballas-North Hanley	bus
+8682104	MetroBus	97	east	97 Delmar: Clayton Transit Center → Civic Center Transit Center	bus
+8729901					pipeline
+8732664					pipeline
+8739324	US:MO:Supplemental	N			road
+8747946					pipeline
+8768480				Kansas City Terminal RR	railway
+8806828					railway
+8806831				Track 74 (High Line)	railway
+8806835					railway
+8806836				KC Metro to Marceline	railway
+8806837					railway
+8806839				KC Metro MT1	railway
+8806840				KCT Argentine	railway
+8888593					power
+8888594					power
+8888595					power
+8888596					power
+8913165	US:MO:Supplemental	M			road
+8920269	US:MO:Supplemental	Z			road
+8942049	US:MO:Supplemental	E			road
+8942181	US:MO:Supplemental	A			road
+8943147	US:MO:Supplemental	AA			road
+8943477	US:MO:Supplemental	P			road
+9037964	nwn	ADT J2		ADT - Illinois (South) - J - Seg 2	hiking
+9038960	US:US	412	east		road
+9038961	US:US	412	west		road
+9043011	nwn	ADT L1		ADT - Missouri - L - Seg 1	hiking
+9044015	nwn	ADT L2		ADT - Missouri - L - Seg 2	hiking
+9044050	nwn	ADT L3		ADT - Missouri - L - Seg 3	hiking
+9051959	nwn	ADT N1		ADT - Kansas - N - Seg 1	hiking
+9072046	US:MO:Spur	138			road
+9079128	US:MO:Supplemental	DD			road
+9079129	US:MO:Business	37			road
+9079297	US:MO:Supplemental	KK			road
+9081795	US:MO:Spur	89			road
+9081833	US:MO:Supplemental	E			road
+9082277	US:MO:Supplemental	F			road
+9123385	US:MO:Supplemental	RB			road
+9129965	US:MO:Taney	165			road
+9133256	US:MO:Supplemental	BB			road
+9172801	US:MO:Supplemental	OO			road
+9192570	US:MO:Supplemental	TT			road
+9194592	US:MO:Supplemental	ZZ			road
+9194611	US:MO:Supplemental	K			road
+9194662	US:MO:Supplemental	J			road
+9194708	US:MO:Supplemental	P			road
+9194719	US:MO:Supplemental	NN			road
+9194746	US:MO:Supplemental	H			road
+9195533	US:MO:Supplemental	AA			road
+9195648	US:MO:Supplemental	AB			road
+9195756	US:MO:Supplemental	T			road
+9195764	US:MO:Supplemental	E			road
+9197877	US:MO:Supplemental	Y			road
+9218902					railway
+9227612	US:MO:Supplemental	AB			road
+9283462				County Road 303	road
+9306391	US:MO:Supplemental	E			road
+9306401	US:MO:Supplemental	NN			road
+9306527	US:MO:Supplemental	D			road
+9308110	US:MO:Supplemental	V			road
+9327627	US:MO:Supplemental	Y			road
+9346807	US:MO:Supplemental	K			road
+9354835	US:MO:Supplemental	Z			road
+9360173	US:MO:Spur	34			road
+9361308	RideKC	18		Route 18: Southeastbound	bus
+9361309	RideKC	18		Indiana	bus
+9363790	RideKC	25		Route 25: Southbound	bus
+9363791	RideKC	25		Troost	bus
+9373575	RideKC	231		231 - Riverside/Antioch	bus
+9400380				Carter Street	road
+9400619	US:MO:Supplemental	HH			road
+9402466	US:MO:Supplemental	V			road
+9405965	US:MO:Supplemental	RA			road
+9469810	US:MO:Supplemental	D			road
+9470220					railway
+9470237	National			Oregon Trail General Route	road
+9475404					railway
+9525001				Tarlton Drive	road
+9525003				Fiji Drive	road
+9525006				Tonga Drive	road
+9525008				Mattis Road	road
+9601270	US:US	65	south		road
+9601271	US:US	65	north		road
+9601869	US:US	50	west		road
+9601870	US:US	50	east		road
+9696217	US:US	69	north		road
+9696218	US:US	69	south		road
+9725143	lcn			Interurban Trail	bicycle
+9725144	lcn			Line Creek Trail	bicycle
+9760408	RideKC	35		Bus 35: 31st and VanBrunt → Country Club Plaza	bus
+9762044	RideKC	31		31st Street	bus
+9763293	lcn			Mississippi Greenway	bicycle
+9763301	lcn			Monarch-Chesterfield Levee Trail	bicycle
+9764465	lcn			MKT Trail	bicycle
+9764482	lcn			Riverfront Heritage Trail	bicycle
+9764486	lcn			Greenway Bike Trail	bicycle
+9764499	lcn			Missouri Riverfront Trail	bicycle
+9764500	lcn			Southern Platte Pass	bicycle
+9764530	lcn			South Creek Greenway Trail	bicycle
+9764536	lcn	GRV		Gravois Greenway	bicycle
+9764545	lcn			Lakeside Trail	bicycle
+9764551	lcn			Trolley Track Trail	bicycle
+9766220	lcn			Spirit Trail	bicycle
+9766222	lcn			Wildwood Greenway	bicycle
+9766231	lcn			Frisco Greenway Trail	bicycle
+9766235	lcn	RDP		River des Peres Greenway	bicycle
+9766236	lcn			Christy Greenway	bicycle
+9766252	lcn	VIN		Saint Vincent Greenway	bicycle
+9766263	lcn			Galloway Creek Greenway	bicycle
+9766265	lcn			Wilson's Creek Greenway Trail	bicycle
+9769465	RideKC	24		Bus 24: Independence Transit Center → Downtown Kansas City	bus
+9772808	RideKC	23		Bus 23: Blue Valley Park → 31st & Southwest	bus
+9776202	RideKC	55		Bus 55: Blue Parkway & Kensington → River Market	bus
+9789064	RideKC	63		Bus 63: 67th & Blue Ridge → Brookside	bus
+9848266					railway
+9908408				Stations of the Cross;Đàng Thánh Giá	worship
+9921313	lcn			Paved Bicycle Trail	bicycle
+9921314	lcn			Weston Bluffs Trail	bicycle
+9921315	lhn			Weston Bluffs Trail	hiking
+9921316	lhn			Paved Bicycle Trail	hiking
+9942077	lcn			5th Street	bicycle
+9942078	lcn			Spirit of KC Byway	bicycle
+9942103	lcn			3rd Street	bicycle
+9942112	lcn			Troost Ave	bicycle
+9942114	lcn			Independence/Cherry	bicycle
+9942167	lcn			Grand Blvd	bicycle
+9942658	lcn			Charlotte St	bicycle
+9942674	lcn			Holmes St	bicycle
+9942716	lcn			11th Street	bicycle
+9942717	lcn			Summit/17th	bicycle
+9942734	lcn			12th Street	bicycle
+9942735	lcn			Winner Rd	bicycle
+9942739	lcn			Lexington/Gladstone	bicycle
+9942740	lcn			Belmont/Independence	bicycle
+9942743	lcn			Woodland/Vine	bicycle
+9942805	lcn			Armour Blvd	bicycle
+9949923	lcn			Plaza-Westport-Penn-Beardsley	bicycle
+9949943	lcn			Memorial	bicycle
+9949948	lcn			Wyandotte St	bicycle
+9952196	lcn			McGee Tfwy	bicycle
+9952197	lcn			29th Street	bicycle
+9952199	lcn			30th Street	bicycle
+9952236	lcn			Benton Boulevard Bikeway	bicycle
+9954614	lcn			Valentine/36th	bicycle
+9954615	lcn			Roanoke Road	bicycle
+9954622	lcn			18th Street	bicycle
+9954962	lcn			Wyoming/Westwood	bicycle
+9954969	lcn			Roanoke/47th	bicycle
+9955756	lcn			Plaza-Brookside-Waldo	bicycle
+9955766	lcn			79th Street	bicycle
+9955767	lcn			63rd Street	bicycle
+9956417	lcn			Midtown-UMKC-Brookside-Waldo	bicycle
+9956533	lcn			Meyer Boulevard Bikeway	bicycle
+9956541	lcn			61st/Citadel	bicycle
+9956544	lcn			The Boulevard/19th	bicycle
+9956547	lcn			The Paseo Bikeway	bicycle
+9956702	lcn			20th Street	bicycle
+9956932	rcn	RIT		Rock Island Trail	bicycle
+9956970	lcn			Downtown-NorthKC-Gladstone	bicycle
+9956975	lcn			Howell/10th	bicycle
+9956976	lcn			Iron/Howell	bicycle
+9956977	lcn			Ozark/Ferguson	bicycle
+9956978	lcn			18th/Diamond	bicycle
+9964037	lcn			Armour Road	bicycle
+9965864	lcn			152 Trail	bicycle
+9982303	lcn			Gregory	bicycle
+9982304	lcn			Zoo-Raytown	bicycle
+10006926	lcn			Gladstone-Platte Woods	bicycle
+10029766				Wudchuk Run	mtb
+10029767				Rancho D-Lux	mtb
+10029906	US:MO:Supplemental	D			road
+10056050				Augie Phase I	mtb
+10056051				Augie Phase II	mtb
+10056052				Augie Phase III	mtb
+10056062				Hoot Owl Trail	mtb
+10056064				Bobcat	mtb
+10056065				Bobcat	mtb
+10056066				Rock Ledges Loop	mtb
+10056067				Upper Rock Ledges	mtb
+10056068				Prickly Pear Loop	mtb
+10058075	lwn			Blue Line	mtb
+10058076	lwn			Yellow Loop	mtb
+10058077	lwn			Green Line	mtb
+10067479				Tasty Goodness	mtb
+10067480				Tasty Worm	mtb
+10067481				Rim Job	mtb
+10067482				Will's Wanderer	mtb
+10067483				Swedish Erotica	mtb
+10067484				Dave's Maze	mtb
+10067485				Boulevard	mtb
+10067486				Turkey Trail	mtb
+10067487				10/11	mtb
+10067488				Scott's Gunbarrel	mtb
+10067489				Family Trail	mtb
+10067490				Adam's Family	mtb
+10067523				ISH	mtb
+10067524				Scout Camp	mtb
+10077526				Twisted Branch Loop	mtb
+10077527				Farmtastic	mtb
+10077528				Legacy Trail	mtb
+10084257				Analog	mtb
+10084258				Hi-Fi	mtb
+10084259				Funpak	mtb
+10084260				Jigsaw	mtb
+10084261				Back Alley	mtb
+10084520				Stonewall	mtb
+10084521				Underworld	mtb
+10084522				Bridger	mtb
+10084523				Badger	mtb
+10084556				River Trail	mtb
+10084557				Wagon	mtb
+10084571				HIghwater	mtb
+10084572				Basement	mtb
+10084605				Bohoca	mtb
+10084606				Highline	mtb
+10084607				Flowride	mtb
+10246075	US:MO:Supplemental	VV			road
+10246076	US:MO:Supplemental:Spur	VV			road
+10246113	US:MO:Supplemental	AA			road
+10593607	rcn			Blue River Greenway Trail	bicycle
+10594087	lcn			Vivion Trail	bicycle
+10596603	lcn			North Troost Trail	bicycle
+10596675	lcn			Lakewood Greenway Trail	bicycle
+10596764	lcn			Chouteau Trafficway Trail	bicycle
+10596800	lcn			Linear Trail	bicycle
+10605235	lcn			Vivian Road Trail	bicycle
+10626960				Hannibal Sub (S)	railway
+10815765				TRRA North Belt Subdivision	railway
+11015324	SCAT	Orange Route			bus
+11016056	SCAT	Blue Route			bus
+11016177	SCAT	Green Route			bus
+11016265	SCAT	Red Route			bus
+11019258	SCAT			SCAT: MetroLink North Hanley Station --> Cave Springs Commuter Lot --> SSM Health St. Joseph Hospital	bus
+11019259	SCAT			SCAT: SSM Health St. Joseph Hospital --> Cave Springs Commuter Lot --> MetroLink North Hanley Station	bus
+11058953	lcn			Blue River Trail	bicycle
+11059057	lcn			Jumping Branch Trail	bicycle
+11059100	rcn			Smithville Lake Trails	bicycle
+11059132				Smithville Lake MTB Trails	mtb
+11135504	lcn			Shoal Creek Trail	bicycle
+11135505	lcn			M-1 Trail	bicycle
+11135506	lcn			Antioch Trail	bicycle
+11157756	lcn			Riverfront Heritage Trail - West	bicycle
+11157757	lcn			RHT Connector	bicycle
+11162190				Kearney Spur	railway
+11175705					
+11250806	lcn			KCI Corridor Trail	bicycle
+11366426	MetroLink	Red		MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
+11366427	MetroLink	Blue		MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
+11494318					railway
+11525813	The Bus	35		Industrial Express - Purple	bus
+11525948	The Bus	14		Atlantic - Brown	bus
+11525949	The Bus	2		Dale - Lime	bus
+11526290	The Bus	3		Division - Orange	bus
+11526364	The Bus	7		Campbell - Red	bus
+11526648	The Bus	5		Glenstone/National - Blue	bus
+11527069	The Bus	6		College - Black	bus
+11527112	The Bus	9		Fort - Yellow	bus
+11527179	The Bus	12		National/Glenstone - Maroon	bus
+11527338	The Bus	31		Southeast Loop - Aqua	bus
+11527377	The Bus	36		Southwest Loop - Pink	bus
+11527714	The Bus	38		North Loop - Green	bus
+11558404				Loop Trolley	tram
+11566374	US:MO:Business	5			road
+11581959	US:MO:Business	13			road
+11582008	US:MO:Business	13			road
+11582378	US:MO:Business	52			road
+11597575	US:MO	14			road
+11600216	US:MO:Supplemental	TT			road
+11600228	US:MO:Supplemental	ZZ			road
+11600247	US:MO:Supplemental	UU			road
+11604870	US:MO:Supplemental	KK			road
+11611052	US:US:Business	61			road
+11611076	US:MO:Supplemental	AB			road
+11634709	US:MO:Supplemental	PP			road
+11634734	US:MO:Supplemental	AA			road
+11634735	US:MO:Supplemental	P			road
+11634780	US:MO:Supplemental	O			road
+11634887	US:MO:Supplemental	C			road
+11634888	US:MO:Supplemental	T			road
+11634889	US:MO:Supplemental	M			road
+11634890	US:MO:Supplemental	FF			road
+11634891	US:MO:Supplemental	H			road
+11637809	US:MO:Supplemental	MM			road
+11637899	US:MO:Supplemental	W			road
+11638912	US:MO:Supplemental	W			road
+11638935	US:MO:Supplemental	O			road
+11638936	US:MO:Supplemental	OO			road
+11638937	US:MO:Supplemental	C			road
+11638938	US:MO:Supplemental	CC			road
+11638939	US:MO:Supplemental	DD			road
+11639062	US:MO:Supplemental	F			road
+11639063	US:MO:Supplemental	JJ			road
+11639064	US:MO:Supplemental	FF			road
+11639065	US:MO:Supplemental	U			road
+11642089	US:MO:Supplemental	D		Missouri Route D (Platte County)	road
+11642090	US:MO:Supplemental	N		Missouri Route N (Platte County)	road
+11643332	US:MO:Business	39			road
+11643334	US:MO:Supplemental	DD			road
+11643335	US:MO:Supplemental	TT			road
+11645120	US:MO:Supplemental	YY			road
+11645137	US:MO:Supplemental	U			road
+11645259	US:MO:Supplemental	K			road
+11645260	US:MO:Supplemental	CC			road
+11645261	US:MO:Supplemental	T			road
+11645262	US:MO:Supplemental	DD			road
+11645263	US:MO:Supplemental	RA			road
+11650296	US:MO:Spur	28			road
+11652007	US:MO:Supplemental	W			road
+11653741	US:MO:Spur	100			road
+11700353	US:MO:Spur	58			road
+11701260	US:MO:Supplemental	B			road
+11701343	US:MO:Supplemental	EE			road
+11704330	US:MO	78			road
+11704443	US:US:Spur	136			road
+11704472	US:US:Spur			"US 136 Spur (Wayland, MO)"	road
+11719560	US:MO:Spur	84			road
+11730492	US:MO:Supplemental:Spur	J			road
+11730493	US:MO:Supplemental	J			road
+11730747	US:MO:Supplemental	PP			road
+11730748	US:MO:Supplemental	MM			road
+11730749	US:MO:Supplemental	TT			road
+11730750	US:MO:Supplemental	DD			road
+11730751	US:MO:Supplemental	EE			road
+11730752	US:MO:Supplemental	H			road
+11731273	US:MO:Supplemental	F			road
+11798431	The Bus	22		Northeast – Lime	bus
+11798911	The Bus	25		Southeast – Blue	bus
+11806856	The Bus	26		Northwest – Black	bus
+11806883	The Bus	27		Southwest – Red	bus
+11893734	Amtrak	Lincoln Service		Amtrak Lincoln Service: Chicago => Saint Louis	train
+11896405	Amtrak	Missouri River Runner		Amtrak Missouri River Runner: Kansas City => Saint Louis	train
+11952170					railway
+11952393	lwn			Shin-Ga-Wa-Sa Nature Trail	hiking
+11955996	lwn			Sandstone Canyon Trail	hiking
+11965331	lwn			Tcha-To-Ga Nature Trail	hiking
+11985857	lwn			Rock Ledges	hiking;mtb
+12015796	lwn;lcn			"Eight Track, Hoot Owl, and Bobcat Loop"	hiking;mtb
+12015797	lwn			Prickly Pear Loop	hiking;mtb
+12097908	lwn			Augie Loop	hiking;mtb
+12104849	lwn			Shoreline Trail Loop	hiking
+12160803	lwn			Pa-Huska Nature Trail	hiking
+12180533	Amtrak	Texas Eagle		Amtrak Texas Eagle: Los Angeles => Chicago	train
+12180534	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => Los Angeles	train
+12180535	Amtrak	Texas Eagle		Amtrak Texas Eagle: San Antonio => Chicago	train
+12184784	lwn			1014 Loop	hiking;mtb;
+12192445	Amtrak	Lincoln Service		Amtrak Lincoln Service: Chicago => Saint Louis	train
+12285911	GOCOMO	1		Black Route	bus
+12285924	GOCOMO	2		Red Route	bus
+12285946	GOCOMO	3		Gold Route	bus
+12286007	GOCOMO	4		Orange Route	bus
+12286027	GOCOMO	5		Blue Route	bus
+12286058	GOCOMO	6		Green Route	bus
+12292796	Tiger Line	405		Campus Loop	bus
+12294090					bus
+12324516		11		Saint Joseph Avenue	bus
+12324597		12		Lovers Lane	bus
+12325159		13		Frederick Avenue	bus
+12325198		14		Faraon/Jules	bus
+12325614		15		Missouri Western	bus
+12325647		16		Industrial Park	bus
+12325700		17		Stockyards	bus
+12325758		18		King Hill	bus
+12325833		19		East (Saturday only)	bus
+12327059		20		North (Saturday only)	bus
+12327065		21		South (Saturday only)	bus
+12327076		"Elwood, KS"		Elwood via #18 King Hill	bus
+12384779		Blue		Blue Route	bus
+12384832		Green		Green Route	bus
+12384916		Red		Red Route	bus
+12398210	JEFFTRAN	Red		Business 50 East	bus
+12399641	JEFFTRAN	Black		Capital Mall	bus
+12399725	JEFFTRAN	Green		High Street East	bus
+12401313	JEFFTRAN	Gold		High Street West	bus
+12401319	JEFFTRAN	Orange		Missouri Blvd	bus
+12401356	JEFFTRAN	Blue		Southwest	bus
+12401427	JEFFTRAN	Southside		Southside/ Tannerbridge Tripper	bus
+12403347	JEFFTRAN	High St. East		High St. East Tripper	bus
+12403412	JEFFTRAN	Hutton Lane		Hutton Lane Tripper	bus
+12438591					railway
+12438592					railway
+12448061	MetroBus	9	north	Oakville	bus
+12456912	MetroBus	60		Shepley-Lilac	bus
+12460168	MetroBus	76		McDonnell-Waterford	bus
+12460406	MetroBus	78		Bellefontaine	bus
+12461626	MetroBus	100		Hazelwood	bus
+12493188				Cole Creek Trail	bicycle
+12508629	RideKC	PMAX		Prospect MAX	bus
+12508682					bus
+12518062	RideKC	77		Casino Cruiser	bus
+12520506	RideKC	106		Quindaro-Amazon	bus
+12525780	RideKC	201		North Oak	bus
+12525821	RideKC	229		Boardwalk/KCI	bus
+12535781	RideKC	238		Meadowbrook	bus
+12535831	RideKC	301		Bus 301 Green Route: Independence Transit Center → Centerpoint Hospital	bus
+12535931	RideKC	302		Blue Route	bus
+12535956	RideKC	303		Bus 303 Purple Route: Independence Transit Center → Hy-Vee on Noland Road	bus
+12537609	RideKC	304		Bus 304 Yellow Route: Independence Transit Center → Jackson Drive at US Highway 24	bus
+12537642	RideKC	305		Orange Route	bus
+12537792	RideKC	306		Red Route	bus
+12537898	RideKC	401		Metcalf-Plaza	bus
+12539660	RideKC	403		Antioch-Olathe	bus
+12540057	RideKC	404		Metcalf-Downtown	bus
+12540295	RideKC	435		JOCO to Downtown Midday	bus
+12540378	RideKC	475		Quivira-75th Street	bus
+12541676	RideKC	495		95th Street	bus
+12542001	RideKC	519		Olathe Express	bus
+12542967	RideKC	550		Lee's Summit Express	bus
+12543404	RideKC	563		Shawnee Express	bus
+12544231	RideKC	569		South OP Express	bus
+12544404	RideKC	595		Gardner-OP Express	bus
+12555642	RideKC	29		Blue Ridge Limited	bus
+12635921		MM		"State Highway MM (Etterville, MO)"	US:MO:Supplemental
+12686710		TRRA			railway
+12703591	lcn			Big Shoal Creek Trail	bicycle
+12804906	Greyhound	US0185		"Greyhound US0185 - Nashville, TN-Evansville, IN, Saint Louis, MO"	bus
+12863261				David Hoekel Parkway	road
+13023464	lcn			Gillham Mobility Lanes	bicycle
+13060755	US:NFSR:Mark_Twain:FR	2351		National Forest Road 2351	road
+13060756	US:NFSR:Mark_Twain:FR	2351A		National Forest Road 2351A	road
+13060757	US:NFSR:Mark_Twain:FR	2530		National Forest Road 2530	road
+13060758	US:NFSR:Mark_Twain:FR	2598		National Forest Road 2598	road
+13060759	US:NFSR:Mark_Twain:FR	2224		National Forest Road 2224	road
+13060760	US:NFSR:Mark_Twain:FR	2666		National Forest Road 2666	road
+13060761	US:NFSR:Mark_Twain:FR	2338		National Forest Road 2338	road
+13060762	US:NFSR:Mark_Twain:FR	2237		National Forest Road 2237	road
+13060763	US:NFSR:Mark_Twain:FR	2620		National Forest Road 2620	road
+13067253	US:NFSR:Mark_Twain:FR	2350		National Forest Road 2350	road
+13067254	US:NFSR:Mark_Twain:FR	2349		National Forest Road 2349	road
+13067255	US:NFSR:Mark_Twain:FR	2349A		National Forest Road 2349A	road
+13096840				Line Creek connector	bicycle
+13237298	US:OK:McDonald	SW4351			road
+13259862				Woodchuck (alt)	mtb
+13259863				Woodchuck (alt)	mtb
+13277960	lcn			Bannister	bicycle
+13279129	lcn			Nashua-Gladstone	bicycle
+13291123	lcn			Gladstone-Claycomo	bicycle
+13302892					train
+13411998	rcn			Eastern Express Midwest Connector	bicycle
+13730712					power
+13782241	US:NFSR:Mark Twain:FR	2383		National Forest Road 2383	
+13782895	US:NFSR:Mark Twain:FR	2383A		National Forest Road 2383A	
+13783200	US:NFSR:Mark Twain:FR	2380		National Forest Road 2380	road
+13783201	US:NFSR:Mark Twain:FR	6426		National Forest Road 6426	road
+13909320	US:MO:Supplemental	K			road
+13961648	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+13997116	lwn			Ballentine and Glades Route	hiking
+14047148	US:MO:Taney:Branson	Yellow Route			road
+14047149	US:MO:Taney:Branson	Blue Route			road
+14047150	US:MO:Taney:Branson	Red Route			road
+14151533				Lakeview Loop Trail	bicycle
+14151534	lcn			Creve Coeur Connector	bicycle
+14151535				Beaver Bayou Trail	hiking
+14151742				Audubon Trace Trail	hiking
+14151743				Skunk Prairie Trail	hiking
+14151744				Meadows Loop Trail	bicycle
+14156920				Mallard Lake Loop Trail	bicycle
+14156921				McKelvey Woods Trail	bicycle
+14156922				Out n Back Trail	mtb
+14175937				JC Loop	bicycle
+14180489				Virginia Day Memorial Nature Trail	hiking
+14180490				Equestrian Trail	horse
+14180492				Paved Bicycle Trail	bicycle
+14183834				Hawk Ridge Trail	bicycle
+14183835				Dogwood Trail	hiking
+14183836				White Oak Trail	hiking
+14183837				Owl Creek Trail	hiking
+14183855				Fox Run Trail	hiking
+14183856				Goose Trail	bicycle
+14183857				Unnamed Trail 3	bicycle
+14183858				Pond Spur Trail	bicycle
+14183859				Winding Hill Trail	bicycle
+14183860				Unnamed Trail 4	bicycle
+14183861				Unnamed Trail 1	hiking
+14183862				Unnamed Trail 2	hiking
+14183901				Governor Bates Trail	hiking
+14228577	lcn			Ruby Jack Trail	bicycle
+14228581	lcn			Fulbright Spring Greenway	bicycle
+14228770				ME7 Extension	bicycle
+14259849	US:MO:Supplemental	C			road
+14259850	US:MO:Supplemental	U			road
+14259851	US:MO:Supplemental	ZZ			road
+14283031	lcn			Missouri Greenway	bicycle
+14287071	lcn	DAR		Dardenne Greenway	bicycle
+14302504	US:MO:Supplemental	CC			road
+14302505	US:MO:Supplemental	E			road
+14302506	US:MO:Chariton	120			road
+14302507	US:MO:Chariton	122			road
+14302508	US:MO:Chariton	115			road
+14302510	US:MO:Chariton	118			road
+14302511	US:MO:Chariton	121			road
+14308910				Bluff Overlook Trail	hiking
+14308911				Goddard River Trail	hiking
+14314740				Wildflower Trail	hiking
+14323564				Shaw Nature Reserve Unnamed Hiking Trails	hiking
+14377448				Stockton State Park Water Trail	canoe
+14441333	lcn			Stinson Creek Trail	bicycle
+14453990	lwn			Park Trail Loop	bicycle;foot
+14459993	US:MO	799			road
+14471457	lcn			Miller Street Bikeway	bicycle
+14477485	lcn			Prospect/Hickman Mills	bicycle
+14477948				Customline	mtb
+14477951				Underworld	mtb
+14477975				Birdbath	mtb
+14477976				Wudchuck Phase 7	mtb
+14477977				Step-up Downhill	mtb
+14477978				Upper Wudchuck	mtb
+14477979				Zoolander Connector	mtb
+14477980				Lower Wudchuck	mtb
+14477981				URT Connector	mtb
+14477982				Rich and Rare Connector	mtb
+14477983				Jetpack - Downhill Only	mtb
+14477984				A2B	mtb
+14477985				A2B - Oldhamn Spur	mtb
+14499525				Frog Hollow Nature Trail	mtb
+14560952	Amtrak	Lincoln Service/Missouri River Runner		Amtrak Lincoln Service/Missouri River Runner: Chicago => Kansas City	train
+14560953	Amtrak	Lincoln Service/Missouri River Runner		Amtrak Lincoln Service/Missouri River Runner: Kansas City => Chicago	train
+14560954	Amtrak	Lincoln Service		Amtrak Lincoln Service: Chicago => Saint Louis	train
+14560955	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
+14560956	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
+14576252	US:MO:Supplemental	CC			road
+14576253	US:MO:Supplemental	NN			road
+14576254	US:MO:Supplemental	E			road
+14576851	US:IA:CR	M48		County Route M48	road
+14576852	US:MO:Supplemental	M			road
+14576855	US:MO:Supplemental	C			road
+14576856	US:MO:Supplemental	O			road
+14576857	US:MO:Supplemental	CC			road
+14576858	US:IA:CR	L68		County Route L68	road
+14577057	US:MO:Supplemental	V			road
+14577119	US:MO:Supplemental	A			road
+14577120	US:MO:Supplemental	D			road
+14577121	US:MO:Supplemental	BB			road
+14577122	US:MO:Supplemental	RA			road
+14577124	US:MO:Supplemental	B			road
+14577125	US:MO:Supplemental	T			road
+14580616	US:MO:Supplemental	P			road
+14580617	US:MO:Supplemental	E			road
+14580618	US:MO:Supplemental	BB			road
+14580619	US:MO:Supplemental	B			road
+14580620	US:MO:Supplemental	D			road
+14584670	US:MO:Supplemental	W			road
+14584671	US:MO:Supplemental	Z			road
+14584672	US:MO:Supplemental	E			road
+14584673	US:MO:Supplemental	U			road
+14584712	US:MO:Supplemental	FF			road
+14593220				Old Track	foot
+14593221				F. Joe Brown Track	bicycle
+14603311	US:MO:Supplemental	OO			road
+14603318	US:MO:Supplemental	K			road
+14603333	US:MO:Supplemental	W			road
+14603351	US:MO:Supplemental	NN			road
+14603691	US:MO:Supplemental	V			road
+14603698	US:MO:Supplemental	E			road
+14603776	US:MO:Supplemental	JJ			road
+14603777	US:MO:Supplemental	U			road
+14603814	US:MO:Spur	76			road
+14607242	US:MO:Supplemental	V			road
+14607244	US:MO:Supplemental	JJ			road
+14655074	US:MO:Supplemental	F			road
+14660364	US:MO:Supplemental	AC			road
+14702976				Keystone Pipeline	pipeline
+14719371	lwn			Spring Creek Gap Conservation Area Trail	hiking
+14869690	US:MO:Supplemental	Z			road
+14869692	US:MO:Supplemental	C			road
+14869719	US:MO:Supplemental	E			road
+14869720	US:MO:Supplemental	D			road
+14869721	US:MO:Supplemental	C			road
+14922183	US:MO:Supplemental	N			road
+14922184	US:MO:Supplemental	OO			road
+14948642	US:MO:Supplemental	CC			road
+14964944	lcn			Levee Trail	bicycle
+15071149	lwn			Riparian Trail	hiking
+15074648	lwn			Central Park Trail	foot
+15421056	RideKC	301		Bus 301 Green Route: Centerpoint Hospital → Independence Transit Center	bus
+15429244	RideKC	303		Bus 303 Purple Route: Hy-Vee on Noland Road → Independence Transit Center	bus
+15429846	RideKC	304		Bus 304 Yellow Route: Jackson Drive at US Highway 24 → Independence Transit Center	bus
+15442957	lwn			Monkey Mountain Nature Reserve NorthEast	hiking
+15442958	lwn			Monkey Mountain Nature Reserve Southwest	hiking
+15467954	lcn			Northeast Coronado Drive	bicycle
+15467955	lcn			Northwest Mock Avenue	bicycle
+15467957	lcn			Northwest R D Mize Road	bicycle
+15467958	lcn			Northeast R D Mize Road	bicycle
+15469927	lcn			MO 7 Highway	bicycle
+15469956	lcn			US 40 Highway	bicycle
+15469998	lcn			Adams Dairy Parkway	bicycle
+15483022	lcn			Duncan Road	bicycle
+15483023	lcn			Northwest Jefferson Road	bicycle
+15483024	lcn			Woods Chapel Road	bicycle
+15483025	lcn			Southwest 19th Street	bicycle
+15483026	lcn			Southwest Mic-O-Say/Opossum Hollow Road	bicycle
+15483027	lcn			Moreland School Road	bicycle
+15513172	US:MO:Supplemental	MM			road
+15513173	US:MO:Supplemental	DD			road
+15513174	US:MO:Supplemental	E			road
+15534212	US:CKC	CKC		Chicago-Kansas City Expressway	road
+15534218	US:AotS	AotS		Avenue of the Saints	road
+15536779	lwn			River Bluff Nature Trail	hiking
+15537172	lwn			Liberty Bend Trail	hiking
+15539714	US:MO:Supplemental	C			road
+15559624	US:MO:Supplemental	KK			road
+15622614					road
+15627788	rcn	WTX		Potential Wabash Trace Nature Trail Extension	bicycle
+15640224	lwn			Kessler Park Trails	hiking; MTB
+15684669	US:MO:Supplemental	HH			road
+15728613	US:MO:Supplemental	JJ			road
+15728623	US:MO:Supplemental	K			road
+15728624	US:MO:Supplemental	J			road
+15740122	US:MO:Supplemental	C			road
+15740123	US:MO:Supplemental	BB			road
+15748943				Civil War Trail	hiking
+15761793	lwn			Mozingo Nature Trails	hiking
+15780579				Dirt 66: Fellows Lake Trails	mtb
+15780599				Sac River Mountain Bike Trails	mtb
+15804332	US:MO:Supplemental	F			road
+15804333	US:MO:Supplemental	AC			road
+15804334	US:MO:Supplemental	FF			road
+15964531	US:MO:Supplemental	P			road
+15964532	US:MO:Supplemental	H			road
+15964533	US:MO:Supplemental	M			road
+15967483	US:MO:Supplemental	H			road
+15967852	US:MO:Supplemental	H			road
+15967855	US:MO:Supplemental	H			road
+15968024	US:MO:Supplemental	HH			road
+15968044	US:MO:Supplemental	FF			road
+15969991	US:MO:Supplemental	M			road
+15970308	US:MO:Supplemental	MM			road
+15973372	US:MO:Supplemental	AA			road
+15973376	US:MO:Supplemental	W			road
+15973396	US:MO:Supplemental	T			road
+15979927	US:MO:Supplemental	BB			road
+15980056	US:MO:Supplemental	O			road
+15982429	US:MO:Supplemental	YY			road
+15982537	US:MO:Supplemental	PP			road
+15984518	US:MO:Supplemental	RA			road
+15984564	US:MO:Supplemental	AA			road
+15984640	US:MO:Supplemental	RD			road
+15985070	US:MO:Supplemental	D			road
+15985071	US:MO:Supplemental	VV			road
+15985181	US:MO:Supplemental	EE			road
+15985227	US:MO:Supplemental	BA			road
+15985245	US:MO:Supplemental	CC			road
+15987204	US:MO:Supplemental	N			road
+15987310	US:MO:Supplemental	AC			road
+15987420	US:MO:Supplemental	T			road
+15987686	US:MO:Supplemental	D			road
+16005437	US:MO:Supplemental	T			road
+16008907	US:MO:Supplemental	W			road
+16050828	US:MO:Supplemental	CC			road
+16068983	US:MO:Spur	106			road
+16096025	US:MO:Supplemental	MM			road
+16096037	US:MO:Supplemental	HH			road
+16096047	US:MO:Supplemental	V			road
+16096057	US:MO:Supplemental	RA			road
+16096110	US:MO:Supplemental	AA			road
+16096226	US:MO:Supplemental	MM			road
+16096230	US:MO:Supplemental	RB			road
+16098533	US:MO:Supplemental	EE			road
+16098898	US:MO:Supplemental	W			road
+16098942	US:MO:Supplemental	Y			road
+16099647	US:MO:Supplemental	H			road
+16099764	US:MO:Supplemental	W			road
+16117544	US:MO:Supplemental	N			road
+16117545	US:MO:Supplemental	T			road
+16117578	US:MO:Supplemental	HH			road
+16117757	US:MO:Supplemental	RA			road
+16117758	US:MO:Supplemental	RA			road
+16119119	US:MO:Supplemental	J			road
+16119172	US:MO:Supplemental	Y			road
+16119199	US:MO:Supplemental	M			road
+16119734	US:MO:Supplemental	W			road
+16122351	US:MO:Supplemental	A		Missouri Route A (Pemiscot County)	road
+16122352	US:MO:Supplemental	OO			road
+16122353	US:MO:Supplemental	B			road
+16122354	US:MO:Supplemental	BB			road
+16122355	US:MO:Supplemental	PP			road
+16122356	US:MO:Supplemental	TT			road
+16122357	US:MO:Supplemental	K			road
+16122471	US:MO:Supplemental	B		Missouri Route B (Pemiscot County)	road
+16122472	US:MO:Supplemental	J		Missouri Route J (Pemiscot County)	road
+16122473	US:MO:Supplemental	BB			road
+16122542	US:MO:Supplemental	E		Missouri Route E (Pemiscot County)	road
+16122612	US:MO:Supplemental	DD		Missouri Route DD (Pemiscot County)	road
+16122623	US:MO:Supplemental	V			road
+16122631	US:MO:Supplemental	Z			road
+16124569	US:MO:Supplemental	VV			road
+16124803	US:MO:Supplemental	P			road
+16128271	US:MO:Supplemental	AC			road
+16128375	US:MO:Supplemental	V			road
+16128432	US:MO:Supplemental	NN		Missouri Route NN (Pemiscot County)	road
+16128986	US:MO:Supplemental	U			road
+16129275	US:MO:Supplemental	V		Missouri Route V (Clark County)	road
+16132422	US:MO:Supplemental	N			road
+16132423	US:MO:Supplemental	J			road
+16134531	US:MO:Supplemental	J			road
+16134639	US:MO:Supplemental	F			road
+16135252	US:MO:Supplemental	KK			road
+16135338	Greyhound	US0185			bus
+16138841	US:MO:Supplemental	D			road
+16138842	US:MO:Supplemental	M			road
+16141445	US:MO:Supplemental	AA			road
+16141449	US:MO:Supplemental	P			road
+16141450	US:MO:Supplemental	A			road
+16141454	US:MO:Supplemental	B			road
+16141488	US:MO:Supplemental	Y	south		road
+16141489	US:MO:Supplemental	Y	north		road
+16141491	US:MO:Supplemental	W			road
+16141649	US:MO:Supplemental	D	west		road
+16141650	US:MO:Supplemental	D	east		road
+16141651	US:MO:Supplemental	A	west		road
+16141652	US:MO:Supplemental	A	east		road
+16141654	US:MO:Supplemental	C			road
+16143540	US:MO:Supplemental	AX			road
+16144016	US:MO:Supplemental	AZ			road
+16144018	US:MO:Supplemental	AY			road
+16165036				Mississippi River Transmission	pipeline
+16173226	RideKC	101		"Bus 101: Village West => Downtown Kansas City, MO"	bus
+16179244	RideKC	101		"Bus 101: Downtown Kansas City, MO => Village West"	bus
+16203494				NuStar Ammonia System	pipeline
+16254905	lcn			Swope Parkway Bikeway	bicycle
+16254906	lcn			Benton Boulevard	bicycle
+16262729				Norfolk - Idalia 161kV	power
+16272592				Norfolk Dam - West Plains 69kV	power
+16346274	US:KS	239		KS 239	road
+16347829	lwn			Butterfly Trail unpaved	hiking
+16347830	lwn			Butterfly Trail paved	hiking
+16347831	lwn			Hollow Stump Trail	hiking
+16347832	lwn			Wapiti Trail	hiking
+16347871	lwn			Pawpaw Trail	hiking
+16388674				Binder Lake MTB Trails	mtb
+16468791	lcn			Cliff Drive	bicycle
+16471266				Gillham-Trolley Trail Connector	bicycle
+16549161				Dog Park Trail	hiking
+16549162				Open Play Trail	hiking
+16549164				Gravel Trail	hiking
+16549165				Mulch Trail	hiking
+16710911				Ozark Trail	hiking
+16747628	US:MO:Supplemental	W			road
+16748134	US:MO:Supplemental	H			road
+16748218	US:MO:Supplemental	K			road
+16748501	US:MO:Supplemental:Spur	V			road
+16750350	US:MO:Supplemental	C			road
+16750351	US:MO:Supplemental	N			road
+16750506	US:MO:Supplemental	T			road
+16750704	US:MO:Supplemental	H			road
+16750775	US:MO:Supplemental	EE			road
+16751486	US:MO:Supplemental	B			road
+16754655	US:MO:Supplemental	BB			road
+16754823	US:MO:Supplemental	AA			road
+16754955	US:MO:Supplemental	W			road
+16758066	US:MO:Supplemental	D			road
+16758278	US:MO:Supplemental	A			road
+16758442	US:MO:Supplemental	NN			road
+16758471	US:MO:Supplemental	FF			road
+16758621	US:MO:Supplemental	W			road
+16758918	US:MO:Supplemental	EE			road
+16758963	US:MO:Supplemental	U			road
+16759015	US:MO:Supplemental	O			road
+16762759	US:MO:Supplemental	EE			road
+16764158	US:MO:Supplemental	RA			road
+16766226	US:MO:Supplemental	M			road
+16766245	US:MO:Supplemental	W		Missouri Route W (Mercer County)	road
+16766424	US:MO:Supplemental	JJ			road
+16770891	US:MO:Supplemental	M			road
+16770972	US:MO:Supplemental	O			road
+16772095	US:MO:Supplemental	YY			road
+16773590	US:MO:Supplemental	F			road
+16773783	US:MO:Supplemental	E			road
+16773891	US:MO:Supplemental	C			road
+16774014	US:MO:Supplemental	M			road
+16774050	US:MO:Supplemental	V			road
+16774120	US:MO:Supplemental	E			road
+16774170	US:MO:Supplemental	H			road
+16777151	lwn			Piney Creek Wilderness Area Loop	hiking
+16778780	US:MO:Supplemental	A			road
+16778806	US:MO:Supplemental	P			road
+16779242	US:MO:Supplemental	O			road
+16779479	US:MO:Supplemental	J			road
+16779616	US:MO:Supplemental	M			road
+16779663	US:MO:Supplemental	CC			road
+16779737	US:MO:Supplemental	RA			road
+16789436	US:MO:Supplemental	TT		Missouri Route TT (Pemiscot County)	road
+16789437	US:MO:Supplemental	KK		Missouri Route KK (New Madrid County)	road
+16793388	US:MO:Supplemental	NN			road
+16793409	US:MO:Supplemental	N			road
+16801458	US:MO:Supplemental	BB			road
+16801488	US:MO:Supplemental	AE			road
+16802073	US:MO:Supplemental	D			road
+16802076	US:MO:Supplemental	M			road
+16802138	US:MO:Supplemental:Spur	AA			road
+16804536	US:MO:Supplemental:Spur	UU			road
+16804537	US:MO:Supplemental	UU			road
+16804977	US:MO:Supplemental	EE			road
+16804978	US:MO:Supplemental:Spur	EE			road
+16805962	US:MO:Supplemental:Spur	HH			road
+16805963	US:MO:Supplemental	HH			road
+16808620	US:MO:Supplemental	A			road
+16808621	US:MO:Supplemental	E			road
+16809387	US:MO:Supplemental:Spur	J			road
+16810704	US:MO:Supplemental:Spur	C			road
+16824435	US:MO:Supplemental	AF			road
+16827424	US:MO:Supplemental	C			road
+16827427	US:MO:Supplemental	B			road
+16827428	US:MO:Supplemental	ZZ			road
+16834622	US:MO:Supplemental	A			road
+16834623	US:MO:Supplemental	Z			road
+16834851	US:MO:Supplemental	H			road
+16861956	US:MO:Supplemental	UU			road
+16870241	US:OK:McDonald	5964			road
+16889449	lwn			Hercules Glade Wilderness Loop	hiking
+16894183	US:MO:Liberty	H			road
+16897866	US:MO:Liberty	B			road
+17148440	US:US:Historic	66		Historic US 66 (MO;1936-1965)	road
+17148724	US:US:Historic	66		Historic US 66 (MO;1936-1965)	road
+17185912	US:MO:Supplemental	T			road
+17185915	US:MO:Supplemental	V			road
+17305963				Rocky Barrens Conservation Area Trails	hiking
+17306031				Little Sac Woods Conservation Area	hiking
+17349682				Dale Sare Conservation Area	hiking
+17359589	US:MO:Supplemental	E			road
+17359590	US:MO:Supplemental	C			road
+17359591	US:MO:Supplemental	A			road
+17359592	US:MO:Supplemental	B			road
+17359593	US:MO:Supplemental	D			road
+17359626	US:MO:Supplemental	V			road
+17359627	US:MO:Supplemental	P			road
+17359628	US:MO:Supplemental	FF			road
+17359629	US:MO:Supplemental	U			road
+17361332	US:MO:Supplemental	K			road
+17361333	US:MO:Supplemental	BB			road
+17361334	US:MO:Supplemental	Y			road
+17361335	US:MO:Supplemental	JJ			road
+17361336	US:MO:Supplemental	J			road
+17361337	US:MO:Supplemental	NN			road
+17361338	US:MO:Supplemental	DD			road
+17361339	US:MO:Supplemental	O			road
+17361340	US:MO:Supplemental	Z			road
+17361470	US:MO:Supplemental	C			road
+17361471	US:MO:Supplemental	B			road
+17361472	US:MO:Supplemental	BB			road
+17361473	US:MO:Supplemental	O			road
+17361474	US:MO:Supplemental	JJ			road
+17361475	US:MO:Supplemental	E			road
+17361476	US:MO:Supplemental	Z			road
+17361675	US:MO:Supplemental	CC			road
+17361676	US:MO:Supplemental	W			road
+17361677	US:MO:Supplemental	WW			road
+17361678	US:MO:Supplemental	P			road
+17361679	US:MO:Supplemental	F			road
+17361680	US:MO:Supplemental	U			road
+17361681	US:MO:Supplemental	T			road
+17361682	US:MO:Supplemental	M			road
+17361683	US:MO:Supplemental	K			road
+17363378	US:MO:Supplemental	HH			road
+17363379	US:MO:Supplemental	NN			road
+17363380	US:MO:Supplemental	U			road
+17363381	US:MO:Supplemental	YY			road
+17363382	US:MO:Supplemental	KK			road
+17363383	US:MO:Supplemental	UU			road
+17363384	US:MO:Supplemental	O			road
+17363385	US:MO:Supplemental	DD			road
+17363386	US:MO:Supplemental	B			road
+17363387	US:MO:Supplemental	Y			road
+17363388	US:MO:Supplemental	OO			road
+17363389	US:MO:Supplemental	W			road
+17363390	US:MO:Supplemental	A			road
+17363391	US:MO:Supplemental	Z			road
+17363392	US:MO:Supplemental	F			road
+17363393	US:MO:Supplemental	EE			road
+17363394	US:MO:Supplemental	FF			road
+17363395	US:MO:Supplemental	J			road
+17363396	US:MO:Supplemental	ZZ			road
+17363397	US:MO:Supplemental	P			road
+17363398	US:MO:Supplemental	BB			road
+17363509	US:MO:Supplemental	AA			road
+17363510	US:MO:Supplemental	H			road
+17363511	US:MO:Supplemental	K			road
+17363512	US:MO:Supplemental	MM			road
+17363625	US:MO:Supplemental	TT			road
+17366365	US:MO:Supplemental	H			road
+17366366	US:MO:Supplemental	D			road
+17366367	US:MO:Supplemental	A			road
+17366368	US:MO:Supplemental	K			road
+17366369	US:MO:Supplemental	E			road
+17366370	US:MO:Supplemental	PP			road
+17366371	US:MO:Supplemental	T			road
+17366372	US:MO:Supplemental	O			road
+17366373	US:MO:Supplemental	Y			road
+17366374	US:MO:Supplemental	C			road
+17366375	US:MO:Supplemental	AA			road
+17366376	US:MO:Supplemental	N			road
+17366377	US:MO:Supplemental	YY			road
+17366378	US:MO:Supplemental	W			road
+17366379	US:MO:Supplemental	U			road
+17366380	US:MO:Supplemental	B			road
+17366381	US:MO:Supplemental	J			road
+17366382	US:MO:Supplemental	Z			road
+17366724	US:MO:Supplemental	UU			road
+17366725	US:MO:Supplemental	YY			road
+17366726	US:MO:Supplemental	D			road
+17366727	US:MO:Supplemental	JJ			road
+17366728	US:MO:Supplemental	FF			road
+17366729	US:MO:Supplemental	AD			road
+17366730	US:MO:Supplemental	B			road
+17366731	US:MO:Supplemental	AC			road
+17366732	US:MO:Supplemental	EE			road
+17366733	US:MO:Supplemental	OO			road
+17366734	US:MO:Supplemental	PP			road
+17366735	US:MO:Supplemental	AB			road
+17366736	US:MO:Supplemental	O			road
+17366737	US:MO:Supplemental	MM			road
+17366738	US:MO:Supplemental	F			road
+17366739	US:MO:Supplemental	N			road
+17366740	US:MO:Supplemental	T			road
+17366741	US:MO:Supplemental	P			road
+17366742	US:MO:Supplemental	AH			road
+17366743	US:MO:Supplemental	M			road
+17366744	US:MO:Supplemental	WW			road
+17366745	US:MO:Supplemental	H			road
+17366746	US:MO:Supplemental	A			road
+17366829	US:MO:Supplemental	DD			road
+17366830	US:MO:Supplemental	V			road
+17366831	US:MO:Supplemental	ZZ			road
+17366832	US:MO:Supplemental	TT			road
+17366833	US:MO:Supplemental	U			road
+17369495	US:MO:Supplemental	J			road
+17369496	US:MO:Supplemental	AE			road
+17369497	US:MO:Supplemental	Y			road
+17369523	US:MO:Supplemental	F			road
+17369524	US:MO:Supplemental	AA			road
+17369525	US:MO:Supplemental	J			road
+17369526	US:MO:Supplemental	KK			road
+17369527	US:MO:Supplemental	TT			road
+17369528	US:MO:Supplemental	MM			road
+17369529	US:MO:Supplemental	EE			road
+17369530	US:MO:Supplemental	HH			road
+17369531	US:MO:Supplemental	OO			road
+17369748	US:MO:Supplemental	B			road
+17369749	US:MO:Supplemental	W			road
+17369750	US:MO:Supplemental	E			road
+17369751	US:MO:Supplemental	AA			road
+17369752	US:MO:Supplemental	V			road
+17369753	US:MO:Supplemental	T			road
+17369754	US:MO:Supplemental	EE			road
+17369755	US:MO:Supplemental	P			road
+17369756	US:MO:Supplemental	DD			road
+17369757	US:MO:Supplemental	BB			road
+17369758	US:MO:Supplemental	CC			road
+17369759	US:MO:Supplemental	D			road
+17369777	US:MO:Supplemental	F			road
+17371293	US:MO:Supplemental	T			road
+17371294	US:MO:Supplemental	U			road
+17371295	US:MO:Supplemental	O			road
+17371296	US:MO:Supplemental	Y			road
+17371297	US:MO:Supplemental	H			road
+17371298	US:MO:Supplemental	F			road
+17371299	US:MO:Supplemental	HH			road
+17372528	US:MO:Supplemental	E			road
+17372529	US:MO:Supplemental	T			road
+17372530	US:MO:Supplemental	NN			road
+17372531	US:MO:Supplemental	A			road
+17372532	US:MO:Supplemental	C			road
+17372533	US:MO:Supplemental	K			road
+17372534	US:MO:Supplemental	KK			road
+17372535	US:MO:Supplemental	BB			road
+17372536	US:MO:Supplemental	H			road
+17372537	US:MO:Supplemental	U			road
+17372538	US:MO:Supplemental	HH			road
+17372539	US:MO:Supplemental	B			road
+17372540	US:MO:Supplemental	F			road
+17372541	US:MO:Supplemental	UU			road
+17372542	US:MO:Supplemental	CC			road
+17372543	US:MO:Supplemental	Y			road
+17372544	US:MO:Supplemental	YY			road
+17372545	US:MO:Supplemental	W			road
+17372546	US:MO:Supplemental	Z			road
+17372547	US:MO:Supplemental	N			road
+17372548	US:MO:Supplemental	FF			road
+17372549	US:MO:Supplemental	O			road
+17372550	US:MO:Supplemental	AA			road
+17372676	US:MO:Supplemental	ZZ			road
+17372677	US:MO:Supplemental	OO			road
+17372678	US:MO:Supplemental	PP			road
+17391686	lcn			Chestnut Street	bicycle
+17392600	US:MO:Supplemental	WW			road
+17392601	US:MO:Supplemental	M			road
+17392602	US:MO:Supplemental	YY			road
+17392603	US:MO:Supplemental	AB			road
+17392604	US:MO:Supplemental	D			road
+17392605	US:MO:Supplemental	FF			road
+17392606	US:MO:Supplemental	N			road
+17392607	US:MO:Supplemental	Y			road
+17405247	lcn		west	Locust Street	bicycle
+17418256	lcn	BRK		Brickline Greenway	bicycle
+17418257	lcn			11th Street	bicycle
+17514908	lcn			West Pine Boulevard	bicycle
+17533238	US:MO:Supplemental	A			road
+17533239	US:MO:Supplemental	NN			road
+17533240	US:MO:Supplemental	Z			road
+17533267	US:MO:Supplemental	HH			road
+17547262	MetroBus	94		Bus 94: Page & Warson => Wellston Transit Center	bus
+17547263	MetroBus	94	east	94 Page: Dorsett & Progress Parkway → Civic Center Transit Center	bus
+17547264	MetroBus	94		Bus 94: Wellston Transit Center => Civic Center Transit Center	bus
+17547265	MetroBus	94		Bus 94: Lackland & Altom Court => Wellston Transit Center	bus
+17547266	MetroBus	94		Bus 94: Page & Grand => Lackland & Altom Court	bus
+17547267	MetroBus	94		Bus 94: Civic Center Transit Center => Page & Warson	bus
+17547268	MetroBus	94		Bus 94: Lackland & Altom Court => Civic Center Transit Center	bus
+17547269	MetroBus	94		Bus 94: Civic Center Transit Center => Light House for the Blind => Lackland & Altom Court	bus
+17547270	MetroBus	94		Bus 94: Lackland & Altom Court => Light House for the Blind => Civic Center Transit Center	bus
+17549081				St. Joseph and Savannah Interurban Railway	railway
+17563348	US:MO:Supplemental	P			road
+17563349	US:MO:Supplemental	C			road
+17563350	US:MO:Supplemental	CC			road
+17563351	US:MO:Supplemental	T			road
+17563352	US:MO:Supplemental	W			road
+17563353	US:MO:Supplemental	TT			road
+17563354	US:MO:Supplemental	HH			road
+17563355	US:MO:Supplemental	H			road
+17563356	US:MO:Supplemental	V			road
+17563357	US:MO:Supplemental	U			road
+17563358	US:MO:Supplemental	UU			road
+17563359	US:MO:Supplemental	Z			road
+17563360	US:MO:Supplemental	MM			road
+17563361	US:MO:Supplemental	DD			road
+17563362	US:MO:Supplemental	NN			road
+17563419	US:MO:Supplemental	Z			road
+17563420	US:MO:Supplemental	F			road
+17563421	US:MO:Supplemental	AA			road
+17563422	US:MO:Supplemental	M			road
+17563423	US:MO:Supplemental	C			road
+17563424	US:MO:Supplemental	CC			road
+17563425	US:MO:Supplemental	N			road
+17563426	US:MO:Supplemental	V			road
+17563427	US:MO:Supplemental	U			road
+17563428	US:MO:Supplemental	D			road
+17563429	US:MO:Supplemental	A			road
+17563430	US:MO:Supplemental	O			road
+17563431	US:MO:Supplemental	E			road
+17563432	US:MO:Supplemental	P			road
+17563433	US:MO:Supplemental	T			road
+17563434	US:MO:Supplemental	J			road
+17563435	US:MO:Supplemental	K			road
+17563436	US:MO:Supplemental	B			road
+17563437	US:MO:Supplemental	Y			road
+17565979	US:MO:Supplemental	B			road
+17565980	US:MO:Supplemental	C			road
+17565981	US:MO:Supplemental	DD			road
+17565982	US:MO:Supplemental	EE			road
+17565983	US:MO:Supplemental	Z			road
+17565984	US:MO:Supplemental	P			road
+17565985	US:MO:Supplemental	N			road
+17565986	US:MO:Supplemental	BB			road
+17565987	US:MO:Supplemental	CC			road
+17565988	US:MO:Supplemental	AA			road
+17565989	US:MO:Supplemental	F			road
+17565990	US:MO:Supplemental	MM			road
+17565991	US:MO:Supplemental	U			road
+17565992	US:MO:Supplemental	A			road
+17565993	US:MO:Supplemental	M			road
+17565994	US:MO:Supplemental	W			road
+17565995	US:MO:Supplemental	RA			road
+17565996	US:MO:Supplemental	E			road
+17566031	US:MO:Supplemental	K		Missouri Route K (Clark County)	road
+17566032	US:MO:Supplemental	NN		Missouri Route NN (Clark County)	road
+17566033	US:MO:Supplemental	AA		Missouri Route AA (Clark County)	road
+17566034	US:MO:Supplemental	C			road
+17566035	US:MO:Supplemental	DD			road
+17566036	US:MO:Supplemental	B			road
+17566037	US:MO:Supplemental	EE			road
+17566038	US:MO:Supplemental	BB			road
+17566039	US:MO:Supplemental	A			road
+17567060	lcn			Grand Drive	bicycle
+17567215	US:MO:Supplemental	CC		Missouri Route CC (Clark County)	road
+17567216	US:MO:Supplemental	Y			road
+17567217	US:MO:Supplemental	HH			road
+17567218	US:MO:Supplemental	H			road
+17567219	US:MO:Supplemental	P			road
+17567220	US:MO:Supplemental	F			road
+17567221	US:MO:Supplemental	Z			road
+17567222	US:MO:Supplemental	FF			road
+17567223	US:MO:Supplemental	M			road
+17567224	US:MO:Supplemental	D			road
+17567225	US:MO:Supplemental	W			road
+17569533	US:MO:Supplemental	K			road
+17569534	US:MO:Supplemental	E			road
+17569535	US:MO:Supplemental	Y			road
+17569536	US:MO:Supplemental	B			road
+17569537	US:MO:Supplemental	H			road
+17574193	lcn			Lindell Boulevard	bicycle
+17578690	lcn			Clayton Avenue	bicycle
+17578691	lcn			Euclid Avenue	bicycle
+17597998	US:MO:Supplemental	D			road
+17597999	US:MO:Supplemental	D			road
+17598000	US:MO:Supplemental	DD			road
+17598001	US:MO:Supplemental	J			road
+17598002	US:MO:Supplemental	BB			road
+17598003	US:MO:Supplemental	C			road
+17598004	US:MO:Supplemental	Z			road
+17598005	US:MO:Supplemental	P			road
+17598006	US:MO:Supplemental	CC			road
+17598007	US:MO:Supplemental	N			road
+17598008	US:MO:Supplemental	O			road
+17599192	US:MO:Supplemental	V			road
+17599193	US:MO:Supplemental	AA			road
+17599420	US:MO:Supplemental	C			road
+17599421	US:MO:Supplemental	J			road
+17599422	US:MO:Supplemental	Z			road
+17599423	US:MO:Supplemental	P			road
+17599424	US:MO:Supplemental	EE			road
+17599425	US:MO:Supplemental	V			road
+17599426	US:MO:Supplemental	Y			road
+17599427	US:MO:Supplemental	AA			road
+17599428	US:MO:Supplemental	HH			road
+17599429	US:MO:Supplemental	O			road
+17599430	US:MO:Supplemental	A			road
+17599431	US:MO:Supplemental	F			road
+17599432	US:MO:Supplemental	TT			road
+17599433	US:MO:Supplemental	T			road
+17599434	US:MO:Supplemental	E			road
+17599435	US:MO:Supplemental	U			road
+17599436	US:MO:Supplemental	KK			road
+17599437	US:MO:Supplemental	CC			road
+17599438	US:MO:Supplemental	BB			road
+17599439	US:MO:Supplemental	B			road
+17603012	US:MO:Supplemental	O			road
+17603013	US:MO:Supplemental	AA			road
+17603014	US:MO:Supplemental	T			road
+17603015	US:MO:Supplemental	J			road
+17603016	US:MO:Supplemental	J			road
+17603017	US:MO:Supplemental	K			road
+17603018	US:MO:Supplemental	DD			road
+17603019	US:MO:Supplemental	BB			road
+17603020	US:MO:Supplemental	Y			road
+17603021	US:MO:Supplemental	V			road
+17603022	US:MO:Supplemental	E			road
+17603023	US:MO:Supplemental	F			road
+17603024	US:MO:Supplemental	KK			road
+17603025	US:MO:Supplemental	N			road
+17603026	US:MO:Supplemental	CC			road
+17603027	US:MO:Supplemental	HH			road
+17604744	US:MO:Supplemental	U			road
+17604745	US:MO:Supplemental	A			road
+17604746	US:MO:Supplemental	B			road
+17604747	US:MO:Supplemental	M			road
+17604748	US:MO:Supplemental	AA			road
+17604749	US:MO:Supplemental	E			road
+17604750	US:MO:Supplemental	V			road
+17604751	US:MO:Supplemental	F			road
+17604752	US:MO:Supplemental	W			road
+17604753	US:MO:Supplemental	O			road
+17604754	US:MO:Supplemental	UU			road
+17605073	US:MO:Supplemental	N			road
+17605074	US:MO:Supplemental	B			road
+17605075	US:MO:Supplemental	PP			road
+17605076	US:MO:Supplemental	AA			road
+17605077	US:MO:Supplemental	C			road
+17605078	US:MO:Supplemental	UU			road
+17605725	US:MO:Supplemental	YY			road
+17605726	US:MO:Supplemental	OO			road
+17605727	US:MO:Supplemental	DD			road
+17605728	US:MO:Supplemental	VV			road
+17608061	US:MO:Supplemental	J			road
+17608062	US:MO:Supplemental	TT			road
+17608063	US:MO:Supplemental	BB			road
+17608064	US:MO:Supplemental	Y			road
+17608065	US:MO:Supplemental	KK			road
+17608066	US:MO:Supplemental	MM			road
+17608067	US:MO:Supplemental	O			road
+17608068	US:MO:Supplemental	V			road
+17608069	US:MO:Supplemental	NN			road
+17608070	US:MO:Supplemental	M			road
+17608071	US:MO:Supplemental	FF			road
+17608072	US:MO:Supplemental	CC			road
+17608073	US:MO:Supplemental	HH			road
+17608074	US:MO:Supplemental	D			road
+17608516	US:MO:Supplemental	Z			road
+17608517	US:MO:Supplemental	F			road
+17608518	US:MO:Supplemental	W			road
+17608519	US:MO:Supplemental	EE			road
+17608520	US:MO:Supplemental	C			road
+17608521	US:MO:Supplemental	RA			road
+17608522	US:MO:Supplemental	J			road
+17608523	US:MO:Supplemental	O			road
+17608524	US:MO:Supplemental	N			road
+17608525	US:MO:Supplemental	K			road
+17608526	US:MO:Supplemental	P			road
+17610938	US:MO:Supplemental	AB			road
+17610939	US:MO:Supplemental	N			road
+17610940	US:MO:Supplemental	NN			road
+17610941	US:MO:Supplemental	T			road
+17610942	US:MO:Supplemental	A			road
+17610943	US:MO:Supplemental	H			road
+17610944	US:MO:Supplemental	FF			road
+17610945	US:MO:Supplemental	O			road
+17610946	US:MO:Supplemental	E			road
+17610947	US:MO:Supplemental	DD			road
+17610948	US:MO:Supplemental	DD			road
+17610949	US:MO:Supplemental	MM			road
+17610950	US:MO:Supplemental	Y			road
+17610951	US:MO:Supplemental	CC			road
+17611022	US:MO:Supplemental	VV			road
+17611023	US:MO:Supplemental	Y			road
+17611024	US:MO:Supplemental	M			road
+17611025	US:MO:Supplemental	T			road
+17611026	US:MO:Supplemental	A			road
+17611027	US:MO:Supplemental	U			road
+17611028	US:MO:Supplemental	W			road
+17611029	US:MO:Supplemental	V			road
+17611030	US:MO:Supplemental	PP			road
+17611031	US:MO:Supplemental	HH			road
+17611032	US:MO:Supplemental	BB			road
+17612284	US:MO:Supplemental	D			road
+17612285	US:MO:Supplemental	W			road
+17612286	US:MO:Supplemental	P			road
+17612287	US:MO:Supplemental	B			road
+17612288	US:MO:Supplemental	K			road
+17612289	US:MO:Supplemental	U			road
+17612290	US:MO:Supplemental	A			road
+17612291	US:MO:Supplemental	O			road
+17612292	US:MO:Supplemental	F			road
+17612293	US:MO:Supplemental	Z			road
+17612294	US:MO:Supplemental	T			road
+17612295	US:MO:Supplemental	B			road
+17612296	US:MO:Supplemental	V			road
+17612297	US:MO:Supplemental	E			road
+17612298	US:MO:Supplemental	N			road
+17612299	US:MO:Supplemental	KK			road
+17633203	US:MO:Supplemental	A			road
+17633204	US:MO:Supplemental	Y			road
+17633205	US:MO:Supplemental	M			road
+17633206	US:MO:Supplemental	KK			road
+17633207	US:MO:Supplemental	BB			road
+17633208	US:MO:Supplemental	B			road
+17633209	US:MO:Supplemental	CC			road
+17633210	US:MO:Supplemental	C			road
+17633211	US:MO:Supplemental	DD			road
+17633212	US:MO:Supplemental	D			road
+17633213	US:MO:Supplemental	F			road
+17633214	US:MO:Supplemental	Z			road
+17633215	US:MO:Supplemental	JJ			road
+17633216	US:MO:Supplemental	H			road
+17633217	US:MO:Supplemental	J			road
+17633218	US:MO:Supplemental	N			road
+17633219	US:MO:Supplemental	O			road
+17633261	US:MO:Supplemental	DD			road
+17633262	US:MO:Supplemental	Y			road
+17633263	US:MO:Supplemental	KK			road
+17636568	US:MO:Supplemental	HH			road
+17636569	US:MO:Supplemental	PP			road
+17636570	US:MO:Supplemental	CC			road
+17636571	US:MO:Supplemental	U			road
+17636572	US:MO:Supplemental	F			road
+17636573	US:MO:Supplemental	FF			road
+17636574	US:MO:Supplemental	TT			road
+17636575	US:MO:Supplemental	P			road
+17636576	US:MO:Supplemental	EE			road
+17636577	US:MO:Supplemental	W			road
+17636578	US:MO:Supplemental	YY			road
+17636579	US:MO:Supplemental	JJ			road
+17636580	US:MO:Supplemental	WW			road
+17636581	US:MO:Supplemental	ZZ			road
+17637124	US:MO:Supplemental	JJ			road
+17637125	US:MO:Supplemental	F			road
+17637126	US:MO:Supplemental	VV			road
+17637127	US:MO:Supplemental	Z			road
+17637128	US:MO:Supplemental	TT			road
+17637129	US:MO:Supplemental	W			road
+17637130	US:MO:Supplemental	P			road
+17637131	US:MO:Supplemental	UU			road
+17637132	US:MO:Supplemental	EE			road
+17637133	US:MO:Supplemental	HH			road
+17637134	US:MO:Supplemental	RA			road
+17637135	US:MO:Supplemental	NN			road
+17637136	US:MO:Supplemental	D			road
+17637137	US:MO:Supplemental	K			road
+17637138	US:MO:Supplemental	H			road
+17637139	US:MO:Supplemental	MM			road
+17637140	US:MO:Supplemental	KK			road
+17637141	US:MO:Supplemental	DD			road
+17637142	US:MO:Supplemental	AA			road
+17637143	US:MO:Supplemental	V			road
+17637144	US:MO:Supplemental	PP			road
+17637145	US:MO:Supplemental	YY			road
+17637146	US:MO:Supplemental	T			road
+17637147	US:MO:Supplemental	Y			road
+17637148	US:MO:Supplemental	BB			road
+17637149	US:MO:Supplemental	FF			road
+17639197	US:MO:Supplemental	M			road
+17639198	US:MO:Supplemental	H			road
+17639199	US:MO:Supplemental	K			road
+17639200	US:MO:Supplemental	N			road
+17639201	US:MO:Supplemental	U			road
+17639202	US:MO:Supplemental	AA			road
+17639203	US:MO:Supplemental	J			road
+17639204	US:MO:Supplemental	P			road
+17639205	US:MO:Supplemental	W			road
+17639206	US:MO:Supplemental	T			road
+17639207	US:MO:Supplemental	PP			road
+17639208	US:MO:Supplemental	Z			road
+17639209	US:MO:Supplemental	V			road
+17639210	US:MO:Supplemental	HH			road
+17639211	US:MO:Supplemental	TT			road
+17639212	US:MO:Supplemental	WW			road
+17639213	US:MO:Supplemental	FF			road
+17639281	US:MO:Supplemental	P			road
+17639282	US:MO:Supplemental	A			road
+17639283	US:MO:Supplemental	M			road
+17639284	US:MO:Supplemental	JJ			road
+17639285	US:MO:Supplemental	B			road
+17639286	US:MO:Supplemental	F			road
+17639287	US:MO:Supplemental	U			road
+17639288	US:MO:Supplemental	Z			road
+17639289	US:MO:Supplemental	OO			road
+17639290	US:MO:Supplemental	DD			road
+17639291	US:MO:Supplemental	K			road
+17639292	US:MO:Supplemental	CC			road
+17639293	US:MO:Supplemental	J			road
+17639294	US:MO:Supplemental	KK			road
+17639295	US:MO:Supplemental	H			road
+17647690	US:MO:Supplemental	Z		Missouri Route Z (Platte/Clinton Counties)	road
+17647691	US:MO:Supplemental	F			road
+17647692	US:MO:Supplemental	EE			road
+17647693	US:MO:Supplemental	U			road
+17647694	US:MO:Supplemental	E			road
+17647695	US:MO:Supplemental	DD			road
+17650763	US:MO:Supplemental	MM			road
+17650764	US:MO:Supplemental	N			road
+17650911	US:MO:Supplemental	C			road
+17650912	US:MO:Supplemental	BB			road
+17650913	US:MO:Supplemental	V			road
+17650914	US:MO:Supplemental	HH			road
+17650915	US:MO:Supplemental	M			road
+17650916	US:MO:Supplemental	U			road
+17650917	US:MO:Supplemental	FF			road
+17650918	US:MO:Supplemental	K			road
+17650919	US:MO:Supplemental	PP			road
+17650920	US:MO:Supplemental	W			road
+17650921	US:MO:Supplemental	JJ			road
+17650922	US:MO:Supplemental	DD			road
+17650923	US:MO:Supplemental	F			road
+17650924	US:MO:Supplemental	J			road
+17650925	US:MO:Supplemental	CC			road
+17650926	US:MO:Supplemental	H			road
+17650927	US:MO:Supplemental	T			road
+17650928	US:MO:Supplemental	N			road
+17650929	US:MO:Supplemental	O			road
+17650930	US:MO:Supplemental	Z			road
+17650931	US:MO:Supplemental	AA			road
+17658035	US:MO:Supplemental	D			road
+17658036	US:MO:Supplemental	FF			road
+17658037	US:MO:Supplemental	E			road
+17658038	US:MO:Supplemental	B			road
+17658039	US:MO:Supplemental	N			road
+17658040	US:MO:Supplemental	O			road
+17658041	US:MO:Supplemental	YY			road
+17658042	US:MO:Supplemental	UU			road
+17658043	US:MO:Supplemental	VV			road
+17658044	US:MO:Supplemental	BB			road
+17658045	US:MO:Supplemental	P			road
+17658046	US:MO:Supplemental	KK			road
+17658523	US:MO:Supplemental	C			road
+17658524	US:MO:Supplemental	U			road
+17658525	US:MO:Supplemental	J			road
+17658526	US:MO:Supplemental	J			road
+17658527	US:MO:Supplemental	HH			road
+17658528	US:MO:Supplemental	YY			road
+17658529	US:MO:Supplemental	WW			road
+17658530	US:MO:Supplemental	M			road
+17658531	US:MO:Supplemental	P			road
+17658532	US:MO:Supplemental	NN			road
+17658533	US:MO:Supplemental	T			road
+17658534	US:MO:Supplemental	EE			road
+17658535	US:MO:Supplemental	OO			road
+17658536	US:MO:Supplemental	PP			road
+17658537	US:MO:Supplemental	E			road
+17658538	US:MO:Supplemental	CC			road
+17658539	US:MO:Supplemental	MM			road
+17658540	US:MO:Supplemental	B			road
+17658541	US:MO:Supplemental	V			road
+17658542	US:MO:Supplemental	O			road
+17658543	US:MO:Supplemental	FF			road
+17688244	US:MO:Supplemental	E			road
+17688245	US:MO:Supplemental	F			road
+17688246	US:MO:Supplemental	C			road
+17688247	US:MO:Supplemental	D			road
+17688248	US:MO:Supplemental	DD			road
+17688249	US:MO:Supplemental	RA			road
+17688250	US:MO:Supplemental	Z			road
+17688251	US:MO:Supplemental	BB			road
+17688252	US:MO:Supplemental	Y			road
+17688253	US:MO:Supplemental	O			road
+17688254	US:MO:Supplemental	W			road
+17688255	US:MO:Supplemental	U			road
+17688256	US:MO:Supplemental	HH			road
+17688257	US:MO:Supplemental	PP			road
+17688258	US:MO:Supplemental	UU			road
+17688259	US:MO:Supplemental	K			road
+17688260	US:MO:Supplemental	FF			road
+17688261	US:MO:Supplemental	J			road
+17688262	US:MO:Supplemental	MM			road
+17688263	US:MO:Supplemental	KK			road
+17688264	US:MO:Supplemental	WW			road
+17688265	US:MO:Supplemental	VV			road
+17688266	US:MO:Supplemental	T			road
+17688267	US:MO:Supplemental	NN			road
+17699304	US:MO:Supplemental	J			road
+17704717	US:MO:Supplemental	E			road
+17705219	US:MO:Supplemental	CC			road
+17706725	US:NHT			Oregon National Historic Trail Auto Tour Route	road
+17718139	lcn			Oakland Avenue	bicycle
+17754581	US:MO:Supplemental	N			road
+17755373	US:MO:Supplemental	E			road
+17758223	US:MO:Supplemental	EE		Missouri Route EE (Pemiscot County)	road
+17758226	US:MO:Supplemental	K		Missouri Route K (Pemiscot County)	road
+17758262	US:MO:Supplemental	P		Missouri Route P (Pemiscot County)	road
+17758493	US:MO:Supplemental	Z		Missouri Route Z (Pemiscot County)	road
+17758957	US:MO:Supplemental	C			road
+17762326	US:MO:Supplemental	H		Missouri Route H (Pemiscot County)	road
+17762358	US:MO:Supplemental	O		Missouri Route O (Pemiscot County)	road
+17762514	US:MO:Supplemental	Y			road
+17762515	US:MO:Supplemental	D			road
+17762516	US:MO:Supplemental	EE			road
+17763325	US:MO:Supplemental	M		MIssouri Route M (Pemiscot County)	road
+17763399	US:MO:Supplemental	F		Missouri Route F (Pemiscot County)	road
+17763416	US:MO:Supplemental			Missouri Route B (New Madrid County)	road
+17763483	US:MO:Supplemental	PP		Missouri Route PP (New Madrid County)	road
+17763484	US:MO:Supplemental	YY		Missouri Route YY (New Madrid County)	road
+17763485	US:MO:Supplemental	YY		Missouri Route YY (Pemiscot County)	road
+17767131	US:MO:Supplemental	D		Missouri Route D (Pemiscot County)	road
+17767168	US:MO:Supplemental			Missouri Route Y (Pemiscot County)	road
+17767196	US:MO:Supplemental			Missouri Route U (Pemiscot County)	road
+17767645	US:MO:Supplemental	T		Missouri Route T (Pemiscot County)	road
+17767658	US:MO:Supplemental	T		Missouri Route T (New Madrid County)	road
+17767910	US:MO:Supplemental	TT		Missouri Route TT (New Madrid County)	road
+17783377	lcn			Clark Avenue	bicycle
+17783379	lcn			18th Street	bicycle
+17783569	US:NHT			Oregon National Historic Trail Auto Tour Route	road
+17787076	US:NHT			California National Historic Trail Auto Tour Route	road
+17787077	US:NHT			California National Historic Trail Auto Tour Route	road
+17811073	US:MO:Perry	709			road
+17811171	US:MO:Perry	927			road
+17811172	US:MO:Perry	928			road
+17813589	US:MO:Supplemental	H			road
+17813590	US:MO:Supplemental	UU			road
+17814187	US:MO:Perry	921			road
+17814590	US:MO:Perry	922			road
+17816416	US:MO:Supplemental	A			road
+17816417	US:MO:Supplemental	BB			road
+17816418	US:MO:Supplemental	W			road
+17816419	US:MO:Supplemental	C			road
+17816420	US:MO:Supplemental	K			road
+17816421	US:MO:Supplemental	Z			road
+17816422	US:MO:Supplemental	FF			road
+17816423	US:MO:Supplemental	HH			road
+17816424	US:MO:Supplemental	OO			road
+17816425	US:MO:Supplemental	KK			road
+17816426	US:MO:Supplemental	U			road
+17816427	US:MO:Supplemental	DD			road
+17816428	US:MO:Supplemental	CC			road
+17816429	US:MO:Supplemental	RA			road
+17816430	US:MO:Supplemental	Y			road
+17816431	US:MO:Supplemental	NN			road
+17816432	US:MO:Supplemental	M			road
+17816433	US:MO:Supplemental	JJ			road
+17816434	US:MO:Supplemental	T			road
+17818081	US:MO:Perry	539			road
+17824792	US:MO:Supplemental	F			road
+17824793	US:MO:Supplemental	DD			road
+17824794	US:MO:Supplemental	Z			road
+17824795	US:MO:Supplemental	K			road
+17824796	US:MO:Supplemental	CC			road
+17824797	US:MO:Supplemental	FF			road
+17824798	US:MO:Supplemental	J			road
+17824799	US:MO:Supplemental	YY			road
+17824800	US:MO:Supplemental	Z			road
+17824801	US:MO:Supplemental	O			road
+17824802	US:MO:Supplemental	JJ			road
+17824803	US:MO:Supplemental	BB			road
+17824804	US:MO:Supplemental	U			road
+17824805	US:MO:Supplemental	EE			road
+17824806	US:MO:Supplemental	M			road
+17824807	US:MO:Supplemental	NN			road
+17824810	US:MO:Supplemental	T			road
+17841222	lwn			B Range Targets	hiking
+17841223	lwn			C Range Targets	hiking
+17841310	lcn			Grand Boulevard	bicycle
+17880872	lcn			21st Street Cycle Track	bicycle
+17881490	lcn			Washington Avenue	bicycle
+17881491	lcn			14th Street	bicycle
+17881952	lcn			Laclede Avenue	bicycle
+17909718	US:OK:Ottawa	N4703			road
+17910005	US:OK:Delaware	N4700			road
+17928174	lcn			Des Peres Avenue	bicycle
+17930960	US:MO:Supplemental	D			road
+17930992	US:MO:Supplemental	F			road
+17930993	US:MO:Supplemental	ZZ			road
+17937487	US:MO:Supplemental	Y			road
+17937488	US:MO:Supplemental	O			road
+17937489	US:MO:Supplemental	C			road
+17937490	US:MO:Supplemental	AA			road
+17937491	US:MO:Supplemental	KK			road
+17937492	US:MO:Supplemental	ZZ			road
+17937493	US:MO:Supplemental	Z			road
+17937494	US:MO:Supplemental	D			road
+17937495	US:MO:Supplemental	E			road
+17937496	US:MO:Supplemental	MM			road
+17937497	US:MO:Supplemental	U			road
+17937498	US:MO:Supplemental	HH			road
+17937499	US:MO:Supplemental	N			road
+17937500	US:MO:Supplemental	W			road
+17937501	US:MO:Supplemental	EE			road
+17937502	US:MO:Supplemental	CC			road
+17937503	US:MO:Supplemental	FF			road
+17937504	US:MO:Supplemental	P			road
+17937505	US:MO:Supplemental	F			road
+17937506	US:MO:Supplemental	JJ			road
+17937507	US:MO:Supplemental	OO			road
+17937508	US:MO:Supplemental	DD			road
+17938074	US:MO:Supplemental	J			road
+17940767	US:MO:Supplemental			Missouri Route RA (Texas County)	
+17940867	US:MO:Supplemental	M		Missouri Route M (Texas County)	road
+17940868	US:MO:Supplemental	YY		Missouri Route YY (Texas County)	road
+17940869	US:MO:Supplemental	Z		Missouri Route Z (Texas County)	road
+17941138	US:MO:Supplemental	W		Missouri Route W (Texas County)	road
+17949113	lcn			Centennial Greenway	bicycle
+17949114	lcn			Forsyth Boulevard	bicycle
+17956288	lwn			"Gist Ranch hiking, biking, and equestrian trail"	foot
+17969931	US:MO:Supplemental	W			road
+18021463	US:MO:McDonald	NE7689C			road
+18021931	US:MO:Supplemental	N			road
+18021932	US:MO:Supplemental	K			road
+18021933	US:MO:Supplemental	B			road
+18021934	US:MO:Supplemental	BB			road
+18021935	US:MO:Supplemental	EE			road
+18021936	US:MO:Supplemental	CC			road
+18021937	US:MO:Supplemental	C			road
+18021938	US:MO:Supplemental	JJ			road
+18021939	US:MO:Supplemental	Y			road
+18021940	US:MO:Supplemental	P			road
+18021941	US:MO:Supplemental	F			road
+18021942	US:MO:Supplemental	E			road
+18021943	US:MO:Supplemental	FF			road
+18021944	US:MO:Supplemental	V			road
+18021945	US:MO:Supplemental	O			road
+18021946	US:MO:Supplemental	T			road
+18021947	US:MO:Supplemental	M			road
+18021948	US:MO:Supplemental	HH			road
+18021949	US:MO:Supplemental	A			road
+18021958	US:MO:Supplemental	AB			road
+18022681	US:MO:Supplemental	Z			road
+18022682	US:MO:Supplemental	AA			road
+18022683	US:MO:Supplemental	V			road
+18022684	US:MO:Supplemental	U			road
+18022685	US:MO:Supplemental	H			road
+18022686	US:MO:Supplemental	N			road
+18022687	US:MO:Supplemental	BB			road
+18022688	US:MO:Supplemental	JJ			road
+18022689	US:MO:Supplemental	O			road
+18022690	US:MO:Supplemental	Y			road
+18022691	US:MO:Supplemental	K			road
+18022692	US:MO:Supplemental	DD			road
+18022693	US:MO:Supplemental	P			road
+18022694	US:MO:Supplemental	EE			road
+18022695	US:MO:Supplemental	W			road
+18022696	US:MO:Supplemental	CC			road
+18029324	US:MO:Supplemental	E			road
+18029325	US:MO:Supplemental	MM			road
+18029326	US:MO:Supplemental	U			road
+18029327	US:MO:Supplemental	UU			road
+18029328	US:MO:Supplemental	VV			road
+18029329	US:MO:Supplemental	NN			road
+18029330	US:MO:Supplemental	D			road
+18029331	US:MO:Supplemental	N			road
+18029332	US:MO:Supplemental	F			road
+18029333	US:MO:Supplemental	HH			road
+18029334	US:MO:Supplemental	WW			road
+18029335	US:MO:Supplemental	W			road
+18029336	US:MO:Supplemental	H			road
+18029337	US:MO:Supplemental	J			road
+18029338	US:MO:Supplemental	Z			road
+18029339	US:MO:Supplemental	OO			road
+18029340	US:MO:Supplemental	FF			road
+18029341	US:MO:Supplemental	Y			road
+18029342	US:MO:Supplemental	V			road
+18029343	US:MO:Supplemental	K			road
+18029344	US:MO:Supplemental	O			road
+18029345	US:MO:Supplemental	M			road
+18029346	US:MO:Supplemental	AC			road
+18029347	US:MO:Supplemental	PP			road
+18044101	US:MO:Supplemental	EE			road
+18044102	US:MO:Supplemental	T			road
+18044103	US:MO:Supplemental	CC			road
+18044104	US:MO:Supplemental	E			road
+18044105	US:MO:Supplemental	N			road
+18044106	US:MO:Supplemental	HH			road
+18044107	US:MO:Supplemental	J			road
+18044108	US:MO:Supplemental	MM			road
+18044109	US:MO:Supplemental	KK			road
+18044110	US:MO:Supplemental	A			road
+18044111	US:MO:Supplemental	N			road
+18044112	US:MO:Supplemental	U			road
+18044113	US:MO:Supplemental	JJ			road
+18044114	US:MO:Supplemental	BB			road
+18044115	US:MO:Supplemental	AA			road
+18044116	US:MO:Supplemental	W			road
+18044117	US:MO:Supplemental	PP			road
+18044118	US:MO:Supplemental	AA			road
+18044119	US:MO:Supplemental	WW			road
+18083328	lwn			Table Rock Lakeshore Trail	foot
+18093688	ncn	51		51 (Missouri)	bicycle
+18095932				Downtown Loop	road
+18114038	US:MO:Supplemental	F			road
+18114039	US:MO:Supplemental	NN			road
+18114040	US:MO:Supplemental	O			road
+18114041	US:MO:Supplemental	E			road
+18137351	US:MO:Supplemental	YY			road
+18137352	US:MO:Supplemental	V			road
+18137353	US:MO:Supplemental	U			road
+18137354	US:MO:Supplemental	B			road
+18137355	US:MO:Supplemental	PP			road
+18137356	US:MO:Supplemental	Z			road
+18137357	US:MO:Supplemental	CC			road
+18137358	US:MO:Supplemental	HH			road
+18137359	US:MO:Supplemental	DD			road
+18137360	US:MO:Supplemental	BB			road
+18137361	US:MO:Supplemental	N			road
+18137362	US:MO:Supplemental	AB			road
+18137363	US:MO:Supplemental	AC			road
+18137364	US:MO:Supplemental	H			road
+18137365	US:MO:Supplemental	M			road
+18137366	US:MO:Supplemental	Y			road
+18137367	US:MO:Supplemental	A			road
+18137368	US:MO:Supplemental	DD			road
+18137369	US:MO:Supplemental	MM			road
+18138881	US:MO:Supplemental	E			road
+18138882	US:MO:Supplemental	B			road
+18138883	US:MO:Supplemental	T			road
+18138884	US:MO:Supplemental	FF			road
+18138885	US:MO:Supplemental	Z			road
+18138886	US:MO:Supplemental	HH			road
+18139046	US:MO:Supplemental	J			road
+18139047	US:MO:Supplemental	RA			road
+18139048	US:MO:Supplemental	KK			road
+18139049	US:MO:Supplemental	O			road
+18139050	US:MO:Supplemental	C			road
+18139051	US:MO:Supplemental	D			road
+18139052	US:MO:Supplemental	CC			road
+18139053	US:MO:Supplemental	AD			road
+18139054	US:MO:Supplemental	VV			road
+18139055	US:MO:Supplemental	PP			road
+18139056	US:MO:Supplemental	AA			road
+18139057	US:MO:Supplemental	TT			road
+18139058	US:MO:Supplemental	K			road
+18139059	US:MO:Supplemental	AB			road
+18139060	US:MO:Supplemental	YY			road
+18139061	US:MO:Supplemental	EE			road
+18139062	US:MO:Supplemental	NN			road
+18139063	US:MO:Supplemental	H			road
+18139064	US:MO:Supplemental	MM			road
+18139065	US:MO:Supplemental	BB			road
+18139066	US:MO:Supplemental	UU			road
+18139067	US:MO:Supplemental	JJ			road
+18177876	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
+18178811	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+18236408	lcn	DC		Deer Creek Greenway	bicycle
+18238290	lcn	SUN		Sunset Greenway	bicycle
+18238476	lcn	MAL		Maline Greenway	bicycle
+18238792	lcn	WES		Western Greenway	bicycle
+18240412				Salt River Road Trail	bicycle
+18240487	lcn			Wheels Path	bicycle
+18241451	US:MO:Supplemental	VV			road
+18241599	US:MO:Supplemental	PP			road
+18241600	US:MO:Supplemental	A			road
+18241601	US:MO:Supplemental	ZZ			road
+18241602	US:MO:Supplemental	CC			road
+18241603	US:MO:Supplemental	MM			road
+18241604	US:MO:Supplemental	T			road
+18241605	US:MO:Supplemental	E			road
+18241606	US:MO:Supplemental	DD			road
+18241607	US:MO:Supplemental	V			road
+18241608	US:MO:Supplemental	F			road
+18241609	US:MO:Supplemental	FF			road
+18241610	US:MO:Supplemental	JJ			road
+18241611	US:MO:Supplemental	WW			road
+18241612	US:MO:Supplemental	RB			road
+18241613	US:MO:Supplemental	TT			road
+18241614	US:MO:Supplemental	N			road
+18241615	US:MO:Supplemental	J			road
+18241616	US:MO:Supplemental	Y			road
+18241617	US:MO:Supplemental	P			road
+18241618	US:MO:Supplemental	EE			road
+18241619	US:MO:Supplemental	NN			road
+18243508	US:MO:Supplemental	KK		Missouri Route KK (Webster County)	road
+18243509	US:MO:Supplemental	A		Missouri Route A (Webster County)	road
+18248174	lcn			Ted Jones Trail	bicycle
+18252233					fitness_trail
+18264961				South Liberty Parkway	road
+18269682	US:MO:Supplemental	B			road
+18269683	US:MO:Supplemental	EE			road
+18269684	US:MO:Supplemental	A			road
+18269685	US:MO:Supplemental	W			road
+18269686	US:MO:Supplemental	AA			road
+18269687	US:MO:Supplemental	M			road
+18269688	US:MO:Supplemental	U			road
+18269689	US:MO:Supplemental	CC			road
+18269690	US:MO:Supplemental	N			road
+18269691	US:MO:Supplemental	O			road
+18269692	US:MO:Supplemental	D			road
+18269693	US:MO:Supplemental	H			road
+18269694	US:MO:Supplemental	J			road
+18269695	US:MO:Supplemental	F			road
+18269696	US:MO:Supplemental	TT			road
+18269697	US:MO:Supplemental	WW			road
+18317566	US:MO:McDonald				road
+18336139	ncn	50		50 (Kansas)	bicycle
+18336554	US:MO:Supplemental	F			road
+18336555	US:MO:Supplemental	CC			road
+18336556	US:MO:Supplemental	P			road
+18336557	US:MO:Supplemental	B			road
+18336558	US:MO:Supplemental	NN			road
+18336559	US:MO:Supplemental	JJ			road
+18336560	US:MO:Supplemental	V			road
+18336561	US:MO:Supplemental	K			road
+18336562	US:MO:Supplemental	KK			road
+18336563	US:MO:Supplemental	Y			road
+18336564	US:MO:Supplemental	EE			road
+18336565	US:MO:Supplemental	N			road
+18336566	US:MO:Supplemental	D			road
+18336567	US:MO:Supplemental	TT			road
+18336568	US:MO:Supplemental	AA			road
+18336569	US:MO:Supplemental	H			road
+18336570	US:MO:Supplemental	BB			road
+18336571	US:MO:Supplemental	C			road
+18336572	US:MO:Supplemental	OO			road
+18336573	US:MO:Supplemental	MM			road
+18376279	US:MO:Supplemental	F			road
+18376280	US:MO:Supplemental	DD			road
+18376281	US:MO:Supplemental	A			road
+18376282	US:MO:Supplemental	Z			road
+18376283	US:MO:Supplemental	P			road
+18392757	lcn			Louisiana Avenue Calm Street	bicycle
+18397681	lcn			N Broadway	bicycle
+18398625	US:MO:Supplemental	C			road
+18398626	US:MO:Supplemental	B			road
+18398627	US:MO:Supplemental	V			road
+18398628	US:MO:Supplemental	H			road
+18398629	US:MO:Supplemental	J			road
+18398706	US:MO:Supplemental	T			road
+18398708	US:MO:Supplemental	HH			road
+18398709	US:MO:Supplemental	FF			road
+18398719	US:MO:Supplemental	TT			road
+18398721	US:MO:Supplemental	YY			road
+18398722	US:MO:Supplemental	AD			road
+18398737	US:MO:Supplemental	Y			road
+18407253	lwn			Red Loop	hiking
+18407254	lwn			Blue Loop	hiking
+18407255				Yellow Loop	hiking
+18422384	lcn			Arsenal Street	bicycle
+18431268	lcn			Calvary Avenue	bicycle
+18471508	US:AR:heritage_trail			Southwest Trail	road
+18479555	lcn			Florissant Avenue	bicycle
+18487763	lcn			Tower Grove Avenue	bicycle
+18491824	lwn			Slim Jim	hiking
+18491825	lwn			Eleanor	hiking
+18491826	lwn			Larry Mattonen Memorial Trail	hiking
+18524142	lcn			Missouri Avenue	bicycle
+18524296	US:MO:Supplemental	UU			road
+18524445	US:MO:Supplemental	PP			road
+18524446	US:MO:Supplemental	FF			road
+18527776	lcn			Lafayette Avenue	bicycle
+18528932	US:MO:Supplemental	WW			road
+18528935	US:MO:Supplemental	CC			road
+18528944	US:MO:Supplemental	N			road
+18528949	US:MO:Supplemental	O			road
+18528954	US:MO:Supplemental	DD			road
+18528961	US:MO:Supplemental	H			road
+18528966	US:MO:Supplemental	JJ			road
+18529524	lcn			Mississippi Avenue	bicycle
+18529527	lcn			Park Avenue	bicycle
+18529528	lcn			California Avenue	bicycle
+18535014	US:MO:Supplemental	K			road
+18559345	US:MO:Supplemental	KK			road
+18573271	US:MO:Supplemental	MO AA		Missouri Route AA (Pettis County)	road
+18573272	US:MO:Supplemental	MO WW		MIssouri Route WW (Johnson County)	road
+18573273	US:MO:Supplemental	MO WW		Missouri Route WW (Henry County)	road
+18573368	US:MO:Supplemental	MO NN		Missouri Route NN (Ripley County)	road
+18573369	US:MO:Supplemental	MO K		Missouri Route K (Carter County)	road
+18573370	US:MO:Supplemental	MO K		Missouri Route K (Ripley County)	road
+18593905	lcn			Hodiamont Avenue	bicycle
+18608708	lcn			Taylor Avenue	bicycle
+18608709	lcn			Newstead Avenue	bicycle
+18619530	lcn			Wydown Boulevard	bicycle
+18622260	lcn			Skinker Boulevard	bicycle
+18638145	US:MO:Supplemental	OO			road
+18638146	US:MO:Supplemental	Y			road
+18638292	US:MO:Supplemental	EE			road
+18638298	US:MO:Supplemental	OO			road
+18641567	US:MO:Supplemental	HH			road
+18641627	US:MO:Supplemental	M			road
+18641634	US:MO:Supplemental	MM			road
+18641767	US:MO:Supplemental	JJ			road
+18641776	US:MO:Supplemental	Y			road
+18641782	US:MO:Supplemental	OO			road
+18641825	US:MO:Supplemental	W			road
+18641827	US:MO:Supplemental	M			road
+18666878	US:MO:Supplemental	UU			road
+18666915	US:MO:Supplemental	F			road
+18666916	US:MO:Supplemental	M			road
+18666917	US:MO:Supplemental	AD			road
+18669212	lcn			Boyle Avenue	bicycle
+18669667	lcn			Olive Street	bicycle
+18676812	US:MO:Supplemental	C			road
+18676813	US:MO:Supplemental	NN			road
+18676814	US:MO:Supplemental	PP			road
+18676815	US:MO:Supplemental	N			road
+18676816	US:MO:Supplemental	T			road
+18676817	US:MO:Supplemental	BB			road
+18676818	US:MO:Supplemental	EE			road
+18676819	US:MO:Supplemental	Z			road
+18676820	US:MO:Supplemental	E			road
+18676821	US:MO:Supplemental	AA			road
+18676822	US:MO:Supplemental	D			road
+18676823	US:MO:Supplemental	P			road
+18676824	US:MO:Supplemental	AC			road
+18676825	US:MO:Supplemental	ZZ			road
+18676826	US:MO:Supplemental	W			road
+18676827	US:MO:Supplemental	K			road
+18676828	US:MO:Supplemental	J			road
+18676829	US:MO:Supplemental	AE			road
+18676830	US:MO:Supplemental	RB			road
+18676831	US:MO:Supplemental	VV			road
+18676832	US:MO:Supplemental	Y			road
+18681617	lcn			Gravois Avenue	bicycle
+18698062	US:MO:Supplemental	UU			road
+18698063	US:MO:Supplemental	W			road
+18698064	US:MO:Supplemental	NN			road
+18698065	US:MO:Supplemental	PP			road
+18698066	US:MO:Supplemental	N			road
+18698067	US:MO:Supplemental	P			road
+18698068	US:MO:Supplemental	F			road
+18698069	US:MO:Supplemental	BB			road
+18698070	US:MO:Supplemental	V			road
+18698071	US:MO:Supplemental	AA			road
+18698072	US:MO:Supplemental	T			road
+18698073	US:MO:Supplemental	KK			road
+18698074	US:MO:Supplemental	CC			road
+18698075	US:MO:Supplemental	YY			road
+18698076	US:MO:Supplemental	H			road
+18698077	US:MO:Supplemental	MM			road
+18698078	US:MO:Supplemental	E			road
+18698079	US:MO:Supplemental	M			road
+18698080	US:MO:Supplemental	O			road
+18698081	US:MO:Supplemental	U			road
+18698082	US:MO:Supplemental	TT		Missouri Route TT (Lafayette County)	road
+18698083	US:MO:Supplemental	OO		Missouri Route OO (Lafayette County)	road
+18698084	US:MO:Supplemental	HH			road
+18698085	US:MO:Supplemental	Z		Missouri Route Z (Lafayette County)	road
+18698086	US:MO:Supplemental	WW			road
+18698087	US:MO:Supplemental	D			road
+18793472	lcn			Union Boulevard	bicycle
+18793473	lcn			Goodfellow Boulevard	bicycle
+18798993	US:MO:Supplemental	TT		Missouri Route TT (Franklin County)	road
+18819003	lcn			South 7th Street	bicycle
+18819097	lcn			South 3rd Street	bicycle
+18857054					road
+18925158				Carolyn Bagley Harding Trail	bicycle
+18958315	US:MO:Supplemental	K			road
+18958316	US:MO:Supplemental	Z			road
+18958317	US:MO:Supplemental	M			road
+18958318	US:MO:Supplemental	HH			road
+18958319	US:MO:Supplemental	OO			road
+18958320	US:MO:Supplemental	CC			road
+18958321	US:MO:Supplemental	N			road
+18958322	US:MO:Supplemental	NN			road
+18958323	US:MO:Supplemental	JJ			road
+18958324	US:MO:Supplemental	BB			road
+18958325	US:MO:Supplemental	J			road
+18958326	US:MO:Supplemental	T			road
+18958327	US:MO:Supplemental	B			road
+18958328	US:MO:Supplemental	PP			road
+18958329	US:MO:Supplemental	KK			road
+18958330	US:MO:Supplemental	F			road
+18958331	US:MO:Supplemental	Y			road
+18958332	US:MO:Supplemental	U			road
+18958333	US:MO:Supplemental	V			road
+18958334	US:MO:Supplemental	EE			road
+18958335	US:MO:Supplemental	W			road
+18958336	US:MO:Supplemental	D			road
+18958337	US:MO:Supplemental	O			road
+18958338	US:MO:Supplemental	AA			road
+18958339	US:MO:Supplemental	H			road
+18962422	US:Mo:Supplemental	U			road
+18962423	US:MO:Supplemental	Y			road
+18962424	US:MO:Supplemental	N			road
+18962425	US:MO:Supplemental	K			road
+18962426	US:MO:Supplemental	NN			road
+18962427	US:MO:Supplemental	BB			road
+18962428	US:MO:Supplemental	E			road
+18962429	US:MO:Supplemental	F			road
+18962430	US:MO:Supplemental	MM			road
+18962431	US:MO:Supplemental	T			road
+18962432	US:MO:Supplemental	HH			road
+18962433	US:MO:Supplemental	Z			road
+18962434	US:MO:Supplemental	W			road
+18962435	US:MO:Supplemental	CC			road
+18962436	US:MO:Supplemental				road
+18962437	US:MO:Supplemental	A			road
+18981212	lwn			Multi-Use Trail B	hiking
+18981213	lwn			Multi-Use Trail A	hiking
+18996173	ncn	251			bicycle
+18998593	ncn	251			bicycle
+19013333	US:MO:Supplemental	B			road
+19013334	US:MO:Supplemental	F			road
+19013335	US:MO:Supplemental	E			road
+19013336	US:MO:Supplemental	ZZ			road
+19013337	US:MO:Supplemental	V			road
+19015070	MetroBus	1	west	1 Gold: Central West End Transit Center → Mallinckrodt Center	bus
+19058893				Finger Lakes Water Trail	canoe
+19063164	MetroBus	2	south	2 Red: Rock Road Transit Center → Brentwood I-64 Transit Center	bus
+19063831	MetroBus	4	west	4 Natural Bridge: Civic Center Transit Center → North Hanley Transit Center	bus
+19067387	lcn			Russell Boulevard	bicycle
+19067388	lcn			Compton Avenue	bicycle
+19070371	lcn			Perche Creek Trail	bicycle
+19085244	MetroBus	8	south	8 Shaw-Cherokee: Central West End Transit Center → Catalan Loop Transit Center	bus
+19091209	MetroBus	9	south	Oakville	bus
+19100299	US:MO:Supplemental	DD		Missouri Route DD (Wright County)	road
+19100300	US:MO:Supplemental	M		MIssouri Route M (Webster County)	road
+19100301	US:MO:Supplemental	M		Missouri Route M (Wright County)	road
+19100316	US:MO:Supplemental	AC		Missouri Route AC (Webster County)	road
+19100317		AA		Missouri Route AA (Wright County)	road
+19100318	US:MO:Supplemental	MM		Missouri Route MM (Wright County)	road
+19100319	US:MO:Supplemental	MM		Missouri Route MM (Webster County)	road
+19100320	US:MO:Supplemental	F		Missouri Route F (Webster County)	road
+19100321	US:MO:Supplemental	ZZ		Missouri Route ZZ (Laclede County)	road
+19100322	US:MO:Supplemental	ZZ		Missouri Route ZZ (Webster County)	road
+19100763	US:MO:Supplemental	J		Missouri Route J (Laclede County)	road
+19100764	US:MO:Supplemental	Y		Missouri Route Y (Laclede County)	road
+19100765	US:MO:Supplemental	Y		Missouri Route Y (Webster County)	road
+19100766	US:MO:Supplemental	WW		Missouri Route WW (Webster County)	road
+19100767	US:MO:Supplemental	WW		Missouri Route WW (Dallas County)	road
+19100768	US:MO:Supplemental	Y		Missouri  Route Y (Dallas County)	road
+19118741	MetroBus	10	south	10 Gravois-Lindell: Central West End Transit Center → Gravois-Hampton Transit Center	bus
+19134647					portage
+19150302				Pinnacles Youth Park Summit Loop	hiking
+19150303				Pinnacles Lower Loop	hiking
+19174176	lwn			Carl L. Chinnery Nature Trail	hiking
+19188169	US:MO:Supplemental	D			road
+19188170	US:MO:Supplemental	NN			road
+19188171	US:MO:Supplemental	OO			road
+19188172	US:MO:Supplemental	CC			road
+19188173	US:MO:Supplemental	BB			road
+19188174	US:MO:Supplemental	H			road
+19188175	US:MO:Supplemental	HH			road
+19188176	US:MO:Supplemental	EE			road
+19188177	US:MO:Supplemental	N			road
+19188178	US:MO:Supplemental	O			road
+19206107	lcn			Riverview Boulevard	bicycle
+19209389	US:MO:Supplemental	D		Missouri Route D (Jackson County)	road
+19217528	MetroBus	11	west	11 Chippewa: Civic Center Transit Center → Shrewsbury-Lansdowne Transit Center	bus
+19253753	lcn			7th Street	bicycle
+19270526	US:MO:Supplemental	T		Missouri Route T (Henry County)	road
+19278586	lcn			Shaw Boulevard	bicycle
+19318366	lcn			Macklind Avenue	bicycle
+19318367	lcn			Southwest Avenue	bicycle
+19350642					hiking
+19360233	lcn			Dale Avenue	bicycle
+19363072	lcn			Lillian Avenue	bicycle
+19376873	lwn			Shawnee Trace Nature Trail - Green Loop	hiking
+19376874	lwn			Shawnee Trace Nature Trail - Blue Loop	hiking
+19376875	lwn			Shawnee Trace Nature Trail - Red Trail	hiking
+19406941	US:MO:Supplemental	D		Missouri Route D (Vernon County)	road
+19406942	US:MO:Supplemental	WW		Missouri Route WW (Vernon County)	road
+19406943	US:MO:Supplemental	WW		Missouri Route WW (Bates County)	road
+19406944	US:MO:Supplemental	MM		Missouri Route MM (Vernon County)	road
+19406945		V		Missouri Route V (Vernon County)	road
+19406946		Z		Missouri Route Z (Vernon County)	road
+19406947	US:MO:Supplemental	H		Missouri Route H (Vernon County)	road
+19406948		O		MIssouri Route O (Vernon County)	road
+19406949		FF		Missouri Route FF (Vernon County)	road
+19472156	lcn			Maryland Avenue	bicycle
+19472538	lcn			Pershing Avenue	bicycle
+19551620				Old State Highway 47	road
+19573996	US:MO:Supplemental	FF			road
+19573997	US:MO:Supplemental	CC			road
+19573998	US:MO:Supplemental	F			road
+19573999	US:MO:Supplemental	D			road
+19574000	US:MO:Supplemental	Z			road
+19574001	US:MO:Supplemental	KK			road
+19574002	US:MO:Supplemental	Y			road
+19574003	US:MO:Supplemental	J			road
+19574004	US:MO:Supplemental	TT			road
+19574005	US:MO:Supplemental	C			road
+19574006	US:MO:Supplemental	V			road
+19574007	US:MO:Supplemental	A			road
+19574008	US:MO:Supplemental	U			road
+19574009	US:MO:Supplemental	DD			road
+19574010	US:MO:Supplemental	K			road
+19574011	US:MO:Supplemental	PP			road
+19574012	US:MO:Supplemental	M			road
+19574013	US:MO:Supplemental	W			road
+19574014	US:MO:Supplemental	OO			road
+19574015	US:MO:Supplemental	BB			road
+19574016	US:MO:Supplemental	MM			road
+19581097	US:MO:Supplemental	BB			road
+19588550	US:MO:Supplemental	AA			road
+19588551	US:MO:Supplemental	B			road
+19588552	US:MO:Supplemental	K			road
+19588553	US:MO:Supplemental	Y			road
+19588554	US:MO:Supplemental	U			road
+19588555	US:MO:Supplemental	P			road
+19588556	US:MO:Supplemental	VV			road
+19588557	US:MO:Supplemental	F			road
+19588558	US:MO:Supplemental	CC			road
+19588559	US:MO:Supplemental	D			road
+19588560	US:MO:Supplemental	NN			road
+19588561	US:MO:Supplemental	J			road
+19588562	US:MO:Supplemental	RA			road
+19588563	US:MO:Supplemental	RB			road
+19588564	US:MO:Supplemental	H			road
+19588565	US:MO:Supplemental	O			road
+19588566	US:MO:Supplemental	TT			road
+19588567	US:MO:Supplemental	HH			road
+19645658	US:MO:Supplemental	T			road
+19645659	US:MO:Supplemental	JJ			road
+19645660	US:MO:Supplemental	M			road
+19645661	US:MO:Supplemental	DD			road
+19645662	US:MO:Supplemental	P			road
+19645663	US:MO:Supplemental	AA			road
+19645664	US:MO:Supplemental	FF			road
+19645665	US:MO:Supplemental	CC			road
+19645666	US:MO:Supplemental	HH			road
+19645667	US:MO:Supplemental	E			road
+19645668	US:MO:Supplemental	EE			road
+19645669	US:MO:Supplemental	A			road
+19645670	US:MO:Supplemental	V			road
+19645671	US:MO:Supplemental	BB			road
+19645672	US:MO:Supplemental	H			road
+19645673	US:MO:Supplemental	UU			road
+19645674	US:MO:Supplemental	U			road
+19645675	US:MO:Supplemental	Y			road
+19645676	US:MO:Supplemental	F			road
+19645677	US:MO:Supplemental	Z			road
+19658816	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+19682925	US:NHT			Santa Fe National Historic Trail Auto Tour Route	road
+19686223				Old US Highway 61	road
+19747865	lwn			Krug Park Trail	hiking
+19747866	lcn			Krug Park Trail	mtb
+19748070				The Arterie	foot
+19815863	lcn			Cherokee Street	bicycle
+19816056	lcn			Chippewa Street	bicycle
+19839542	US:MO:Supplemental	NN		Missouri Route NN (Cole County)	road
+19855078					bicycle
+19855079	lcn			The Link	bicycle
+19888705	US:MO:Supplemental	PP			road
+19888706	US:MO:Supplemental	TT			road
+19888707	US:MO:Supplemental	JJ			road
+19888708	US:MO:Supplemental	O			road
+19888709	US:MO:Supplemental	KK			road
+19888710	US:MO:Supplemental	RA			road
+19888711	US:MO:Supplemental	T			road
+19888712	US:MO:Supplemental	AA			road
+19888713	US:MO:Supplemental	NN			road
+19888714	US:MO:Supplemental	B			road
+19888715	US:MO:Supplemental	DD			road
+19888716	US:MO:Supplemental	VV			road
+19888717	US:MO:Supplemental	FF			road
+19888718	US:MO:Supplemental	CC			road
+19888719	US:MO:Supplemental	U			road
+19888720	US:MO:Supplemental	N			road
+19888721	US:MO:Supplemental	Y			road
+19888722	US:MO:Supplemental	HH			road
+19888723	US:MO:Supplemental	H			road
+19888724	US:MO:Supplemental	EE			road
+19888725	US:MO:Supplemental	BB			road
+19888726	US:MO:Supplemental	C			road
+19888727	US:MO:Supplemental	V			road
+19888728	US:MO:Supplemental	F			road
+19888729	US:MO:Supplemental	M			road
+19888730	US:MO:Supplemental	WW			road
+19888731	US:MO:Supplemental	OO			road
+19916198	US:MO:Supplemental	MO AA			road
+19916199	US:MO:Supplemental	MO AA			road
+19916200	US:MO:Supplemental	MO U			road
+19916201	US:MO:Supplemental	MO Z			road
+19916202	US:MO:Supplemental	MO T			road
+20021095	lcn			Watson Road	bicycle
+20029360				Shawnee Loop	horse
+20029361				Broadfoot Loop	horse
+20029362				Jerktail Loop	horse
+20029363				Two Rivers Loop	horse
+20040779	lcn			Christy Boulevard	bicycle
+20040780	lcn			Kingshighway Boulevard	bicycle
+20041423	lcn	TGC		Tower Grove Connector	bicycle
+20056636	lcn			Morganford Road	bicycle
+20060328				Holly Hills Boulevard	bicycle
+20060928	lcn			Eichelberger Street	bicycle
+20060929	lcn			Hampton Avenue	bicycle
+20137968	lcn			Meramec Street	bicycle
+20137969	lcn			Delor Street	bicycle
+20137970	lcn			Virginia Avenue	bicycle
+20140736	US:MO:Supplemental	UU			road
+20140737	US:MO:Supplemental	OO			road
+20140738	US:MO:Supplemental	U			road
+20140739	US:MO:Supplemental	VV			road
+20140740	US:MO:Supplemental	BB			road
+20140741	US:MO:Supplemental	F			road
+20140742	US:MO:Supplemental	JJ			road
+20140743	US:MO:Supplemental	KK			road
+20140744	US:MO:Supplemental	TT			road
+20140745	US:MO:Supplemental	P			road
+20140746	US:MO:Supplemental	MM			road
+20140747	US:MO:Supplemental	E			road
+20140748	US:MO:Supplemental	FF			road
+20140749	US:MO:Supplemental	J			road
+20140750	US:MO:Supplemental	D			road
+20140751	US:MO:Supplemental	PP			road
+20140752	US:MO:Supplemental	EE			road
+20145209	US:MO:Supplemental	T			road
+20145210	US:MO:Supplemental	TT			road
+20145211	US:MO:Supplemental	DD			road
+20145212	US:MO:Supplemental	M			road
+20145213	US:MO:Supplemental	U			road
+20145214	US:MO:Supplemental	KK			road
+20145215	US:MO:Supplemental	A			road

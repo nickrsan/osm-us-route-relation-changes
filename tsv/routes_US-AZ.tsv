@@ -1,1698 +1,1700 @@
-@id	name	route	network
-149176		road	US:I
-149178		road	US:I
-168470		road	US:I
-168471		road	US:I
-168841		road	US:I
-168842		road	US:I
-271767		road	US:US
-297142	Amtrak Sunset Limited: New Orleans => Los Angeles	train	Amtrak
-337352		road	US:I
-904839	Amtrak Southwest Chief: Los Angeles => Chicago	train	Amtrak
-1023471	Mountain Avenue	bicycle	lcn
-1023472	Rillito River Path	bicycle	lcn
-1023510	Bear Down Bikeway	bicycle	lcn
-1023511	Highland	bicycle	lcn
-1023555	University	bicycle	lcn
-1023567	4th Avenue Bicycle Boulevard	bicycle	lcn
-1023596	3rd St Bicycle Boulevard	bicycle	lcn
-1023625	Treat	bicycle	lcn
-1023652	Tucson	bicycle	lcn
-1023653	Columbus Boulevard	bicycle	lcn
-1320650		road	US:NHS High Priority Corridors
-1453756	Seligman Subdivision	railway	
-1453757	Gallup Subdivision	railway	
-1453787	Phoenix Subdivision	railway	
-1483097		road	US:NM
-1492992		road	US:AZ
-1492993		road	US:AZ
-1493241	AZ 64	road	US:AZ
-1493242	AZ 61	road	US:AZ
-1493243	Bullhead City–Kingman Highway	road	US:AZ
-1493244	AZ 66	road	US:AZ
-1493245	AZ 67	road	US:AZ
-1501139	AZ 73	road	US:AZ
-1501140	AZ 71	road	US:AZ
-1501141	AZ 74	road	US:AZ
-1501142	Junction State Route 95–Hope Highway	road	US:AZ
-1501143	AZ 69	road	US:AZ
-1501157	AZ 77	road	US:AZ
-1501158	AZ 75	road	US:AZ
-1501164	AZ 78	road	US:AZ
-1501166	AZ 80	road	US:AZ
-1501187	AZ 83	road	US:AZ
-1501188	AZ 84	road	US:AZ
-1501195	AZ 85	road	US:AZ
-1501206	AZ 86	road	US:AZ
-1501310	State Route 87	road	US:AZ
-1501387	AZ 88	road	US:AZ
-1501388	AZ 89	road	US:AZ
-1501389	AZ 89A	road	US:AZ
-1501738	AZ 90	road	US:AZ
-1501739	AZ 92	road	US:AZ
-1501935	AZ 95	road	US:AZ
-1501955	AZ 96	road	US:AZ
-1501956		road	US:AZ
-1501988	AZ 98	road	US:AZ
-1501989	AZ 99	road	US:AZ
-1502005	AZ 169	road	US:AZ
-1502009	AZ 177	road	US:AZ
-1502062	AZ 179	road	US:AZ
-1502063	AZ 186	road	US:AZ
-1502064	AZ 188	road	US:AZ
-1502065	AZ 189	road	US:AZ
-1502066	AZ 181	road	US:AZ
-1502067	Robert A. Vaughan Expressway	road	US:AZ
-1502470	AZ 587	road	US:AZ
-1502471	AZ 238	road	US:AZ
-1502472	AZ 273	road	US:AZ
-1502473	AZ 261	road	US:AZ
-1502474	AZ 387	road	US:AZ
-1502475		road	US:AZ
-1502476	State Route 389	road	US:AZ
-1502477	AZ 180A	road	US:AZ
-1502478	AZ 288	road	US:AZ
-1502479	AZ 264	road	US:AZ
-1502480	AZ 564	road	US:AZ
-1502481	AZ 266	road	US:AZ
-1502482	AZ 287	road	US:AZ
-1502483	AZ 79 Business	road	US:AZ:Business
-1502484	AZ 347	road	US:AZ
-1502485	AZ 473	road	US:AZ
-1502486	AZ 260	road	US:AZ
-1502487	AZ 377	road	US:AZ
-1502488	AZ 286	road	US:AZ
-1502489	AZ 386	road	US:AZ
-1502490	"AZ 95 Truck (Parker, AZ)"	road	US:AZ:Truck
-1502491	AZ 210	road	US:AZ
-1502492	"AZ 95S Spur (Parker, AZ)"	road	US:AZ:Spur
-1502493	AZ 266 Spur	road	US:AZ:Spur
-1502494	AZ 366	road	US:AZ
-1502495	AZ 277	road	US:AZ
-1502496	AZ 289	road	US:AZ
-1502522	AZ 187	road	US:AZ
-1502523	Hohokam Expressway	road	US:AZ
-1628560		road	US:US
-1796336		road	US:US:Historic
-1869156	"Former US 95 Truck (San Luis, AZ)"	road	
-1933521	"I 10 Business (Benson, AZ)"	road	US:I:Business:Loop
-1933522	"I 10 Business (Bowie, AZ)"	road	US:I:Business:Loop
-1933523	"I 10 Business (Quartzsite, AZ)"	road	US:I:Business:Loop
-1933524	"I 10 Business (San Simon, AZ)"	road	US:I:Business:Loop
-1933525	"I 10 Business (Willcox, AZ)"	road	US:I:Business:Loop
-1933527	"I 19 Business (Nogales, AZ)"	road	US:I:Business:Loop
-1933528	"I 40 Business (Ash Fork, AZ)"	road	US:I:Business:Loop
-1933529	"I 40 Business (Flagstaff, AZ)"	road	US:I:Business:Loop
-1933530	"I 40 Business (Holbrook, AZ)"	road	US:I:Business:Loop
-1933531	"I 40 Business (Joseph City, AZ)"	road	US:I:Business:Loop
-1933532	"I 40 Business (Seligman, AZ)"	road	US:I:Business:Loop
-1933533	"I 40 Business (Williams, AZ)"	road	US:I:Business:Loop
-1933535	"I 40 Business (Winslow, AZ)"	road	US:I:Business:Loop
-1933536	"I 8 Business (Gila Bend, AZ)"	road	US:I:Business:Loop
-1933537	"I 8 Business (Yuma, AZ)"	road	US:I:Business:Loop
-1933538		road	US:US:Business
-1933539		road	US:US:Alternate
-2306244		road	US:US
-2306246		road	US:US
-2306277		road	US:US
-2306490		road	US:US
-2310324		road	US:US
-2317123		road	US:I
-2319876		road	
-2319897	STRAHNET route: Phoenix - Las Vegas	road	US:NHS High Priority Corridors
-2334045		road	US:I
-2334046		road	US:I
-2400426	Eagle and Guano Points	bus	Shuttle Bus
-2400427	Ranch Bus	bus	Shuttle Bus
-2532527	Murray Springs Clovis Site Trail	hiking	
-2533813	San Pedro Trail	hiking	rwn
-2577999	Hummingbird Spring Trail	hiking	
-2713355	Black Mesa and Lake Powell Railroad	railway	
-2751722	Leslie Canyon Road	road	
-2804113	Arizona Trail	hiking	nwn
-2805662	Fisher Point Trail	hiking	lwn
-2808849	Former US 80 (AZ 1951)	road	
-2810627	Kendrick Mountain Trail	hiking	lwn
-2810663	Pumpkin Trail #39	hiking	lwn
-2811171	Flagstaff Sedona MTB Trail	mtb	
-2813150	Flagstaff Urban Trail System	foot	lwn
-2813151	Karen Cooper Trail	hiking	lwn
-2816419	Fatman's Loop	hiking	lwn
-2816581	Forces of Nature Trail	hiking	lwn
-2816582	Pipeline Trail	hiking	lwn
-2818062	Elden Lookout Trail	hiking	lwn
-2818582	Brookbank Trail	hiking	lwn
-2818583	Rocky Ridge Trail	hiking	lwn
-2818584	Schultz Creek Trail	hiking	lwn
-2818585	Sunset Trail	hiking	lwn
-2818591	Heart Trail	hiking	lwn
-2818608	Doney Trail	hiking	lwn
-2818742	Oldham Trail	hiking	lwn
-2818743	Sandy Seep Trail	hiking	lwn
-2820007	Little Elden Trail	hiking	lwn
-2820265	Inner Basin Trail #29	hiking	lwn
-2836180	National Forest Highway 3	road	US:NFSR:Coconino:NF
-2836292		road	US:AZ:Coconino
-2836546	Tonto Trail	hiking	rwn
-2836717	New Hance Trail	hiking	lwn
-2836726	Escalante Route	hiking	lwn
-2836727	Tanner Trail	hiking	lwn
-2836774	Beamer Trail	hiking	lwn
-2836789	North Kaibab Trail	hiking	lwn
-2836796	South Kaibab Trail	hiking	lwn
-2836803	Bright Angel Trail	hiking	lwn
-2836804	River Trail	hiking	lwn
-2836817	Boucher Trail	hiking	lwn
-2836830	Dripping Springs Trail	hiking	lwn
-2836831	Hermit Trail	hiking	lwn
-2836832	Waldron Trail	hiking	lwn
-2837423	Plateau Point Trail	hiking	lwn
-2837455	Clear Creek Trail	hiking	lwn
-2837621	Grandview Trail	hiking	lwn
-2837839	Nankoweap Trail	hiking	lwn
-2838401	Cape Final Trail	hiking	lwn
-2838417	Widforss Trail	hiking	lwn
-2838517	Royal Arch Route	hiking	lwn
-2838553	South Bass Trail	hiking	lwn
-2841710	Bill Hall Trail	hiking	lwn
-2841711	Thunder River Trail	hiking	lwn
-2841723	Uncle Jim Trail	hiking	lwn
-2844955	Lava Falls Trail	hiking	lwn
-2845631	North Bass Trail	hiking	lwn
-2845734	Ken Patrick Trail	hiking	lwn
-2846307	Cliff Spring Trail	hiking	lwn
-2846327	Cape Royal Trail	hiking	lwn
-2856231	Deer Creek Trail	hiking	lwn
-2856431	Rim Trail	hiking	lwn
-2887886	Bootlegger Trail #257	hiking	
-2887887	Rock Creek Trail #259	hiking	
-3112955	Lemmon Drop	mtb	
-3112982	50 Year Trail	mtb	
-3112983	The Chutes	mtb	
-3113036	The Loop	bicycle	rcn
-3184949	Sun Tran Route 1 Glenn/Swan (eastbound)	bus	Sun Tran
-3184990	Sun Tran Route 1 Glenn/Swan (westbound)	bus	Sun Tran
-3185366	Sun Tran Route 34 Craycroft/Fort Lowell (southbound)	bus	Sun Tran
-3185375	Sun Tran Route 34 Craycroft/Fort Lowell (northbound)	bus	Sun Tran
-3186360	Sun Tran Route 15 Campbell (southbound to Banner UMC South campus )	bus	Sun Tran
-3186361	Sun Tran Route 15 Campbell (northbound from Tucson Marketplace)	bus	Sun Tran
-3186490	Sun Tran Route 17(County Club/Golf Links to Broadway houghton Park and Ride	bus	Sun Tran
-3186491	Sun Tran Route 17 (County Club/Golf Links to Tohono Tadai Transit Center	bus	Sun Tran
-3188174	Route 3 6th St./Wilmot {Eastbound)	bus	Sun Tran
-3188198	Route 3 6th St./Wilmot (westbound)	bus	Sun Tran
-3193517	Sun Tran Route 5 Pima/West Speedway (westbound)	bus	Sun Tran
-3193520	Sun Tran Route 5 Pima/West Speedway (east bound)	bus	Sun Tran
-3193551	Sun Tran Route 7 22nd Street (eastbound)	bus	Sun Tran
-3193566	Sun Tran Route 7 22nd Street (westbound)	bus	Sun Tran
-3296063	Sky Islands Traverse	hiking	rwn
-3311172	Sun Tran Route 6 Euclid/North 1st Avenue (southbound)	bus	Sun Tran
-3311173	Sun Tran Route 25 South Park Avenue (southbound)	bus	Sun Tran
-3311182	Sun Tran Route 6 Euclid/North 1st Avenue (northbound)	bus	Sun Tran
-3311183	Sun Tran Route 25 South Park Avenue (northbound)	bus	Sun Tran
-3332620		road	US:I
-3332621		road	US:I
-3354988	Clifton Subdivision	railway	
-3389896	Sun Tran Route 37 Pantano (northbound)	bus	Sun Tran
-3389897	Sun Tran Route 37 Pantano (southbound)	bus	Sun Tran
-3421285	County Road 11	road	
-3421286	Indian Route 8	road	
-3545805	Santa Cruz River Park	bicycle	lcn
-3547016	River Rd	bicycle	
-3547041	Campbell Ave	bicycle	
-3547811	Ina/Skyline/Sunrise	bicycle	
-3547813	Sabino Canyon	bicycle	
-3547830	Craycroft	bicycle	
-3725161	Navajo Route 12	road	US:BIA
-3726635	Apache Pass Road	road	
-3888618	Westside	bus	
-3920972	Sun Link: Helen & Warren → Convento & Congress	tram	Sun Tran
-3944662	City of Yuma Bike Lanes	bicycle	lcn
-4020964	Maricopa Trail	hiking	rwn
-4020970	Sun Circle Trail	bicycle	rcn
-4188405	Highline Trail #31	hiking	rwn
-4191942	Pine Canyon Trail #26	hiking	rwn
-4195832	Derrick Trail #33	hiking	lwn
-4195833	Horton Creek Trail #285	hiking	lwn
-4195884	Babe Haught Trail #143	hiking	lwn
-4195885	Horton Springs Trail #292	hiking	lwn
-4195890	Drew Trail #291	hiking	lwn
-4195891	Meadow Trail 505	hiking	lwn
-4195935	Rim Lakes Vista Trail #622	hiking	lwn
-4195936	See Canyon Trail #184	hiking	lwn
-4195937	See Spring Trail #185	hiking	lwn
-4199035	Humphreys Summit Trail #151	hiking	lwn
-4199036	Kachina Trail #150	hiking	lwn
-4199037	Weatherford Trail #102	hiking	lwn
-4200321	Aspen Nature Loop	hiking	lwn
-4427429	Apache Railway	railway	
-4434625	AZ 277 Spur	road	US:AZ:Spur
-4447508	Mazatzal Divide Trail #23	hiking	rwn
-4457710	Brown's Peak Trail	hiking	lwn
-4457908	Pigeon Trail #134	hiking	lwn
-4458015	Amethyst Mine Trail	hiking	lwn
-4458175	Shake Tree Trail # 44	hiking	lwn
-4469768	Old Bright Angel Trail	hiking	lwn
-4478482	Peralta Trail #102	hiking	lwn
-4483366	Bluff Spring Trail #235	hiking	lwn
-4483373	Four Peaks Trail #130	hiking	lwn
-4483570	Siphon Draw Trail #53	hiking	lwn
-4483593	Jacob's Crosscut	hiking	lwn
-4483601	Hieroglyphics Trail #101	hiking	lwn
-4483608	Prospectors Trail #57	hiking	lwn
-4483609	Treasure Loop	hiking	lwn
-4483838	Cave Trail #233	hiking	lwn
-4483853	Terrapin Trail #234	hiking	lwn
-4485205	Yuma Subdivision	railway	
-4485206	Grand Enchantment Trail	hiking	nwn
-4485386	Picketpost Mountain Summit Trail	hiking	lwn
-4492465	Spencer Trail	hiking	lwn
-4498657	Bus 0 - Central Avenue Northbound	bus	Valley Metro
-4498658	Bus 0 - Central Avenue Southbound	bus	Valley Metro
-4498930	bus 39 NB	bus	Valley Metro
-4498931	bus 39 SB	bus	Valley Metro
-4498932	bus 70 WB	bus	Valley Metro
-4498933	bus 70 EB	bus	Valley Metro
-4499137	Bus 1 - Washington Street Eastbound	bus	Valley Metro
-4499138	Bus 1 - Washington Street Westbound	bus	Valley Metro
-4499139	bus 10 EB	bus	Valley Metro
-4499140	Bus 104 NB	bus	Valley Metro
-4499141	Bus 104 SB	bus	Valley Metro
-4499142	bus 106 EB	bus	Valley Metro
-4499143	bus 106 WB	bus	Valley Metro
-4499144	bus 108 EB	bus	Valley Metro
-4499145	bus 108 WB	bus	Valley Metro
-4499146	bus 112 NB	bus	Valley Metro
-4499147	bus 112 SB	bus	Valley Metro
-4499148	bus 12 NB	bus	Valley Metro
-4499149	bus 12 SB	bus	Valley Metro
-4499150	bus 120 NB	bus	Valley Metro
-4499151	bus 120 SB	bus	Valley Metro
-4499152	bus 122 EB	bus	Valley Metro
-4499153	bus 122 WB	bus	Valley Metro
-4499154	bus 128 NB	bus	Valley Metro
-4499155	bus 128 SB	bus	Valley Metro
-4499156	bus 13 EB	bus	Valley Metro
-4499157	bus 13 WB	bus	Valley Metro
-4499158	bus 136 NB	bus	Valley Metro
-4499159	bus 136 SB	bus	Valley Metro
-4499160	bus 138 EB	bus	Valley Metro
-4499161	bus 138 WB	bus	Valley Metro
-4499162	bus 15 NB	bus	Valley Metro
-4499163	bus 15 SB	bus	Valley Metro
-4499164	bus 154 EB	bus	Valley Metro
-4499165	bus 154 WB	bus	Valley Metro
-4499166	bus 156 EB	bus	Valley Metro
-4499167	bus 156 WB	bus	Valley Metro
-4499168	bus 16 NB	bus	Valley Metro
-4499169	bus 16 SB	bus	Valley Metro
-4499170	bus 17 EB	bus	Valley Metro
-4499171	bus 17 WB	bus	Valley Metro
-4499172	bus 170 EB	bus	Valley Metro
-4499173	bus 170 WB	bus	Valley Metro
-4499174	bus 184 NB	bus	Valley Metro
-4499175	bus 184 SB	bus	Valley Metro
-4499176	bus 186 EB	bus	Valley Metro
-4499177	bus 186 WB	bus	Valley Metro
-4499178	bus 19 NB	bus	Valley Metro
-4499179	bus 19 SB	bus	Valley Metro
-4499180	bus SMW Rapid IB	bus	Valley Metro
-4499181	bus SMW Rapid OB	bus	Valley Metro
-4499182	bus 27 NB	bus	Valley Metro
-4499183	bus 27 SB	bus	Valley Metro
-4499184	bus 28 EB	bus	Valley Metro
-4499185	bus 28 WB	bus	Valley Metro
-4499186	bus 29 EB	bus	Valley Metro
-4499187	bus 29 WB	bus	Valley Metro
-4499188	Bus 3 - Van Buren Eastbound	bus	Valley Metro
-4499189	Bus 3 - Van Buren Westbound	bus	Valley Metro
-4499190	bus 30 WB	bus	Valley Metro
-4499191	bus 30 EB	bus	Valley Metro
-4499192	bus 35 NB	bus	Valley Metro
-4499193	bus 35 SB	bus	Valley Metro
-4499194	bus 40 EB	bus	Valley Metro
-4499195	bus 40 WB	bus	Valley Metro
-4499196	bus 41 EB	bus	Valley Metro
-4499197	bus 41 WB	bus	Valley Metro
-4499198	bus 43 NB	bus	Valley Metro
-4499199	bus 43 SB	bus	Valley Metro
-4499200	bus 44 NB	bus	Valley Metro
-4499201	bus 44 SB	bus	Valley Metro
-4499202	bus 45 EB	bus	Valley Metro
-4499203	bus 45 WB	bus	Valley Metro
-4499204	bus 48 NB	bus	Valley Metro
-4499205	bus 48 SB	bus	Valley Metro
-4499206	bus 50 EB	bus	Valley Metro
-4499207	bus 50 WB	bus	Valley Metro
-4499208	bus 51 NB	bus	Valley Metro
-4499209	bus 51 SB	bus	Valley Metro
-4499210	bus 52 EB	bus	Valley Metro
-4499211	bus 52 WB	bus	Valley Metro
-4499213	bus 56 NB	bus	Valley Metro
-4499215	bus 56 SB	bus	Valley Metro
-4499218	bus 59 NB	bus	Valley Metro
-4499219	bus 59 SB	bus	Valley Metro
-4499220	bus 61 EB	bus	Valley Metro
-4499221	bus 61 WB	bus	Valley Metro
-4499222	bus 62 NB	bus	Valley Metro
-4499223	bus 62 SB	bus	Valley Metro
-4499224	bus 65 NB	bus	Valley Metro
-4499225	bus 65 SB	bus	Valley Metro
-4499226	bus 66 NB	bus	Valley Metro
-4499227	bus 66 SB	bus	Valley Metro
-4499228	bus 67 NB	bus	Valley Metro
-4499229	bus 67 SB	bus	Valley Metro
-4499230	bus 7 SB	bus	Valley Metro
-4499231	bus 7 NB	bus	Valley Metro
-4499232	bus 72 NB	bus	Valley Metro
-4499233	bus 72 SB	bus	Valley Metro
-4499234	bus 75 NB	bus	Valley Metro
-4499235	bus 75 SB	bus	Valley Metro
-4499236	bus 77 EB	bus	Valley Metro
-4499237	bus 77 WB	bus	Valley Metro
-4499238	7th Avenue	bus	Valley Metro
-4499239	bus 8 SB	bus	Valley Metro
-4499240	bus 80 EB	bus	Valley Metro
-4499241	bus 80 WB	bus	Valley Metro
-4499242	bus 81 NB	bus	Valley Metro
-4499243	bus 81 SB	bus	Valley Metro
-4499244	bus 83 NB	bus	Valley Metro
-4499245	bus 83 SB	bus	Valley Metro
-4499246	bus 90 EB	bus	Valley Metro
-4499247	bus 90 WB	bus	Valley Metro
-4499248	bus 96 NB	bus	Valley Metro
-4499249	bus 96 SB	bus	Valley Metro
-4499250	bus 10 WB	bus	Valley Metro
-4499251	bus 60 EB	bus	Valley Metro
-4499252	bus 60 WB	bus	Valley Metro
-4499553	PHX Sky Train WB	tram	Valley Metro
-4499554	PHX Sky Train EB	tram	Valley Metro
-4512960	Arizona & California Railroad	railway	
-4538094	bus 562 Express IB	bus	Valley Metro
-4538095	bus 562 Express OB	bus	Valley Metro
-4538105	bus 563 Express IB	bus	Valley Metro
-4538106	bus 563 Express OB	bus	Valley Metro
-4538136	bus 573 Express IB	bus	Valley Metro
-4538137	bus 573 Express OB	bus	Valley Metro
-4547782	bus SR 51 Rapid IB	bus	Valley Metro
-4547783	bus SR 51 Rapid OB	bus	Valley Metro
-4548046	bus GAL EB	bus	Valley Metro
-4548047	bus GAL WB	bus	Valley Metro
-4554043	bus 514 Express IB	bus	Valley Metro
-4554044	bus 514 Express OB	bus	Valley Metro
-4554047	bus 521 Express IB	bus	Valley Metro
-4554048	bus 521 Express OB	bus	Valley Metro
-4554049	bus 522 Express IB	bus	Valley Metro
-4554050	bus 522 Express OB	bus	Valley Metro
-4554051	bus 531 Express IB	bus	Valley Metro
-4554052	bus 531 Express OB	bus	Valley Metro
-4554053	bus 533 Express IB	bus	Valley Metro
-4554054	bus 533 Express OB	bus	Valley Metro
-4554055	bus 535 Express IB	bus	Valley Metro
-4554056	bus 535 Express OB	bus	Valley Metro
-4554059	bus 542 Express IB	bus	Valley Metro
-4554060	bus 542 Express OB	bus	Valley Metro
-4670720	Bug Springs Trail	hiking	lwn
-4670721	Italian Spring Trail #95	hiking	lwn
-4670732	Bellota Trail #15	hiking	lwn
-4673773	Southern Transcon	railway	
-4681197	AZ 40 Business	road	US:AZ:Business
-4681221	"I 40 Business Spur (Winslow, AZ)"	road	US:I:Business:Spur
-4681322	State Business Route 8	road	US:AZ:Business
-4681384	Northern Parkway	road	US:CR
-4681385	AZ 303 Loop (North)	road	US:AZ:Loop
-4682079	Historic US 80 Marsh Station Loop	road	
-4683397	Tucson Cloverleaf Circa 1958	road	
-4683731		road	US:US
-4683741	Navajo Trail	road	US:US
-4717133	Prescott Circle Trail	hiking	rwn
-4720713	Amtrak Southwest Chief: Chicago => Los Angeles	train	Amtrak
-4740475	Apache Railway (Snowflake - McNary - Maverick section)	railway	
-4772591	Former US 80 (AZ 1927)	road	
-4848173	Bear Flat Trail #178	hiking	lwn
-4848941	Crest Trail #270B	hiking	lwn
-4848942	Monte Vista Trail #221	hiking	lwn
-4848943	Rasberry Ridge Trail #228	hiking	lwn
-4848944	Rucker Trail #222	hiking	lwn
-4848945	Turtle Mountain Trail #219	hiking	lwn
-4848970	Baker Canyon Trail #225	hiking	lwn
-4848971	Crest Trail #270C	hiking	lwn
-4848972	Price Canyon Trail #224	hiking	lwn
-4848973	Red Rock Canyon Trail #223	hiking	lwn
-4848974	Sentinel Peak Trail	hiking	lwn
-4848975	South Fork Trail #243	hiking	lwn
-4848998	Burnt Stump Trail #366	hiking	lwn
-4848999	Horseshoe Ridge Trail #282	hiking	lwn
-4849000	Jones Ridge Trail #365	hiking	lwn
-4849007	Snowshed Trail #246	hiking	lwn
-4849012	Burro Trail #240	hiking	lwn
-5509062	90 (Arizona)	bicycle	ncn
-5519054	Mesa Route 3	bicycle	lcn
-5541148	Mesa Route 1	bicycle	lcn
-5541149	Mesa Route 2	bicycle	lcn
-5541150	Mesa Route 4	bicycle	lcn
-5541151	Mesa Route 5	bicycle	lcn
-5541152	Mesa Route 6	bicycle	lcn
-5748291		power	
-5748294		power	
-5749444	Navajo Sub APSC to Moenkopi Sub APSC 500KV	power	
-5749445		power	
-5749446		power	
-5749447	Moenkopi Sub APSC to Four Corners Sub APSC 500KV	power	
-5749448	Navajo Sub APSC to Morgan Sub APSC 500KV	power	
-5749449		power	
-5749451		power	
-5749453		power	
-5749454		power	
-5749456		power	
-5749457		power	
-5749458		power	
-5749459		power	
-5749460		power	
-5749461	Moenkopi Sub APSC to Eldorado Sub SCE 500KV	power	
-5749462		power	
-5749532		power	
-5749533		power	
-5749751		power	
-5749752		power	
-5749753		power	
-5749754		power	
-5749755		power	
-5749756		power	
-5749757		power	
-5749758		power	
-5749805		power	
-5749806		power	
-5749807		power	
-5749808		power	
-5749840		power	
-5749841		power	
-5753918		power	
-5753919		power	
-5753920		power	
-5753921		power	
-5753923		power	
-5753925		power	
-5753960		power	
-5753961		power	
-5753962		power	
-5753963		power	
-5753964		power	
-5754058		power	
-5754102		power	
-5754103		power	
-5754104		power	
-5754135		power	
-5754136		power	
-5754208		power	
-5754209		power	
-5754368		power	
-5754369		power	
-5754480		power	
-5754481		power	
-5754482		power	
-5754483		power	
-5754484		power	
-5754485		power	
-5754486		power	
-5754568		power	
-5754569		power	
-5754661		power	
-5754662		power	
-5754663		power	
-5754664		power	
-5754712		power	
-5754713		power	
-5754714		power	
-5754715		power	
-5754716		power	
-5754743		power	
-5754744		power	
-5755122		power	
-5755124		power	
-5755133		power	
-5755156		power	
-5755157		power	
-5755610		power	
-5755611		power	
-5756394		power	
-5756395		power	
-5756409		power	
-5756410		power	
-5756411		power	
-5756412		power	
-5756429		power	
-5756430		power	
-5756431		power	
-5756475		power	
-5756509		power	
-5756510		power	
-5756511		power	
-5756512		power	
-5756513		power	
-5756525		power	
-5756526		power	
-5757000		power	
-5757001		power	
-5757002		power	
-5757003		power	
-5757004		power	
-5757063		power	
-5757064		power	
-5757114		power	
-5914476	Summit Trail 300	hiking	lwn
-5914477	Freedom Trail 302	hiking	lwn
-5914478	Nature Trail 304	hiking	lwn
-5914479	Trail 200	hiking	lwn
-5936717		power	
-5936718		power	
-5936719		power	
-5936720		power	
-5936721		power	
-5936722		power	
-5936723		power	
-5936768		power	
-5936769		power	
-5936770		power	
-5936771		power	
-5955752	Hermits Rest Route (East-bound)	bus	
-5955753	Hermits Rest Route (West-bound)	bus	
-5955754	Kaibab Rim Route (East-bound)	bus	
-5955755	Kaibab Rim Route (West-bound)	bus	
-5955756	Tusayan Route (North-bound)	bus	
-5955757	Tusayan Route (South-bound)	bus	
-5955758	Village Route (East-bound)	bus	
-5955759	Village Route (West-bound)	bus	
-6068155	bus 571 Express IB	bus	Valley Metro
-6068156	bus 571 Express OB	bus	Valley Metro
-6068157	bus 575 Express IB	bus	Valley Metro
-6068158	bus 575 Express OB	bus	Valley Metro
-6068159	bus SME Rapid IB	bus	Valley Metro
-6068160	bus SME Rapid OB	bus	Valley Metro
-6068161	bus I-10 East Rapid IB	bus	Valley Metro
-6068162	bus I-10 East Rapid OB	bus	Valley Metro
-6068163	bus I-10 West Rapid IB	bus	Valley Metro
-6068164	bus I-10 West Rapid OB	bus	Valley Metro
-6068165	bus I-17 Rapid IB	bus	Valley Metro
-6068166	bus I-17 Rapid OB	bus	Valley Metro
-6133848	El Paso and Southwestern Greenway	bicycle	lcn
-6133869	Aviation Bikeway	bicycle	lcn
-6133870	Jim Glock Bypass	bicycle	lcn
-6136418	Sahuaro Street Bike Boulevard	bicycle	lcn
-6136419	Fontana Avenue Bike Boulevard	bicycle	lcn
-6136420	6th Avenue Bike Boulevard	bicycle	lcn
-6136421	Lester Street Bikeway	bicycle	lcn
-6136423	Park Avenue	bicycle	lcn
-6136424	Olive Road	bicycle	lcn
-6145777	Murry Basin Trail	hiking	lwn
-6145778	Robiinson Hollow Trail	hiking	lwn
-6168034	Cochise Vista Trail	bicycle	lcn
-6184370		power	
-6196110		road	
-6211034	PHX Service Roads	road	
-6282228	Grand Canal Trail	bicycle	lcn
-6319026	bus 32 NB	bus	Valley Metro
-6319027	bus 32 SB	bus	Valley Metro
-6371049	bus Ajo/Gila Bend to Phoenix IB	bus	Valley Metro
-6371050	bus Ajo/Gila Bend to Phoenix OB	bus	Valley Metro
-6383158	Carr Peak Trail #107	hiking	lwn
-6383159	Coronado Peak Trail	hiking	lwn
-6383160	Crest Trail #103	hiking	rwn
-6383161	Joe's Canyon Trail	hiking	lwn
-6383162	Lutz Canyon Trail #104	hiking	lwn
-6383163	Miller Canyon Trail #106	hiking	lwn
-6383164	Miller Peak Trail #105	hiking	lwn
-6383165	Oversite Canyon Trail #112	hiking	lwn
-6383321	Carr Peak Spur Trail #108	hiking	lwn
-6388714	Bear Canyon Trail #125	hiking	lwn
-6388715	Hamburg Trail #122	hiking	lwn
-6388716	Ida Canyon Trail #110	hiking	lwn
-6388776	Chinaman Trail #137	hiking	lwn
-6388777	Walker Canyon Trail	hiking	lwn
-6475533	Charles M. Christiansen Trail 100	hiking	lwn
-6475534	Dixie Peak Trail	hiking	lwn
-6475535	Dreamy Draw Nature Trail 220	hiking	lwn
-6475536	L.V. Yates Trail 8	hiking	lwn
-6475537	Perl Charles Trail 1A	hiking	lwn
-6475538	Quartz Ridge Trail 8A	hiking	lwn
-6475539	Ruth Hamilton Trail 8B	hiking	lwn
-6475540	Trail 100B	hiking	lwn
-6475541	Trail 306	hiking	lwn
-6475542	Trail 60	hiking	lwn
-6475543	VOAZ Trail #1B	hiking	lwn
-6476187	Rimview Trail	hiking	lwn
-6623604	Devils Bridge #120	hiking	lwn
-6623605	Long Canyon #122	hiking	lwn
-6623629	Secret Canyon #121	hiking	lwn
-6623673	Vultee Arch Trail #22	hiking	lwn
-6623680	Broken Arrow #125	hiking	lwn
-6623681	Little Horse #61	hiking	lwn
-6623724	Girdner #162	hiking	lwn
-6623725	Schuerman Mountain #56	hiking	lwn
-6623726	Turkey Creek Trail #92	hiking	lwn
-6645212	Sun Tran Route 9 Grant (eastbound)	bus	Sun Tran
-6645213	Sun Tran Route 9 Grant (westbound)	bus	Sun Tran
-6645296	Sun Tran Route 16 Oracle/Ina (northbound)	bus	Sun Tran
-6645297	Sun Tran Route 16 Oracle/Ina (southbound)	bus	Sun Tran
-6645692	El Paso and Southwestern Railroad (Tucson Remnants)	railroad	
-6645717	Old Tucson Mainline	railway	
-6725963	Agua Fria Generating Station 2	power	
-6730478	Grand Canyon Railway	train	
-6741017	Desert View Trail	hiking	lwn
-6741042	Palo Verde Trail	hiking	lwn
-6741634	Senita Basin-Red Tanks	hiking	lwn
-6741635	Lost Cabin Mine Trail	hiking	lwn
-6741668	Dripping Springs Trail	hiking	lwn
-6741846	Bull Pasture Trail	hiking	lwn
-6741847	Estes Canyon Trail	hiking	lwn
-6741848	Arch Canyon Trail	hiking	lwn
-6741849	Dripping Springs Mine Trail	hiking	lwn
-6769828	Marty Robbins Boulevard	road	
-6770048	County Highway 59	road	
-6775680	Forest Road 259	road	
-6783819	bus DASH WB	bus	Valley Metro
-6785046	Old US 66	road	US:US:Old
-6785930	Northern Parkway	road	
-6785931	Northern Parkway	road	
-6786049	Piestewa Freeway	road	US:AZ
-6786075	Piestewa Freeway	road	US:AZ
-6786159	AZ 202 Loop (Counterclockwise)	road	US:AZ:Loop
-6786718	AZ 202 Loop (Clockwise)	road	US:AZ:Loop
-6791956		road	US:I
-6830177	County Road 72	road	US:AZ:Yavapai
-6830178	County Route 70	road	US:AZ:Yavapai
-6910620	Dr. Martin Luther King Jr. Boulevard	road	
-6989801		foot	lwn
-7012094	West Fork #108	hiking	lwn
-7012095	Thomas Point Trail #142	hiking	lwn
-7012096	A.B. Young #100	hiking	lwn
-7012097	Telephone Trail #72	hiking	lwn
-7012098	Harding Springs Trail #51	hiking	lwn
-7012099	Lime Kiln #82	hiking	rwn
-7013986	General Crook Trail #130 (Incomplete)	hiking	rwn
-7032995	Sun Tran Route 4 Speedway (westbound from Houghton at Broadway)	bus	Sun Tran
-7032996	Sun Tran Route 4 Speedway (eastbound to Golf Links at Kolb)	bus	Sun Tran
-7032997	Sun Tran Route 4 Speedway (westbound from Golf Links at Kolb)	bus	Sun Tran
-7033036	Sun Tran Route 4 Speedway (eastbound to Houghton at Broadway)	bus	Sun Tran
-7080298	Sun Tran Route 8 Broadway (westbound from Houghton at Broadway)	bus	Sun Tran
-7080299	Sun Tran Route 8 Broadway (eastbound to Houghton at Broadway)	bus	Sun Tran
-7080300	Sun Tran Route 8 Broadway (eastbound to Udall Station)	bus	Sun Tran
-7080301	Sun Tran Route 8 Broadway (westbound from Udall Station)	bus	Sun Tran
-7259260	Round the Mountain Trail #302	hiking	lwn
-7263452	Treat Walkway	foot	
-7452596	Lordsburg Subdivision	railway	
-7452655	Gila Subdivision	railway	
-7473412	East	bus	
-7507393		horse	
-7507401		hiking	
-7507405		bicycle	
-7618907	Ski Valley	ski	
-7644002	Trail 261	hiking	lwn
-7655460		road	US:US
-7726661	bus 140 WB	bus	Valley Metro
-7726662	bus 140 EB	bus	Valley Metro
-7728595	Light Rail A Line Eastbound	light_rail	Valley Metro
-7743567	bus 60 WB montebello loop	bus	Valley Metro
-7743568	bus 60 EB montebello loop	bus	Valley Metro
-8061307	Pat Scott Trail #123	hiking	lwn
-8068437	Mica Mountain Trail	hiking	lwn
-8068817	Arizona Trail #1 Huachuca Mountains	hiking	rwn
-8068892	Yaqui Ridge Trail	hiking	lwn
-8071091	Scotia Canyon Trail #127	hiking	lwn
-8071092	Sunnyside Canyon Trail #117	hiking	lwn
-8073840	Parker Canyon Lakeshore Trail	hiking	lwn
-8074072	Arizona Trail #2 Canelo Hills East	hiking	rwn
-8074889	Aravaipa Canyon Trail	hiking	lcn
-8075096	Cottonwood Mountain Trail #66	hiking	lwn
-8075097	Gardner Canyon Trail #67	hiking	lwn
-8075098	Black Rock Trail #292	hiking	lwn
-8075099	Holdout Trail #69	hiking	lwn
-8075217	Clark Peak Trail #301	hiking	lwn
-8075218	John's Canyon Trail #313	hiking	lwn
-8075230	Hell's Hole Trail #319	hiking	lwn
-8075231	Nuttall Trail #303	hiking	lwn
-8075232	Blue Jay Ridge Trail #314	hiking	lwn
-8075233	Colter Spring Trail #312	hiking	lwn
-8075234	Taylor Trail #306	hiking	lwn
-8075238	Arcadia Trail #328	hiking	lwn
-8075239	Noon Creek Ridge Trail #318	hiking	lwn
-8075240	Gibson Canyon Trail #308	hiking	lwn
-8075248	Noon Creek Trail #302A	hiking	lwn
-8075249	Bear Canyon Trail #299	hiking	lwn
-8075250	Ladybug Trail #329	hiking	lwn
-8075251	Rincon Spring Trail #331	hiking	lwn
-8075252	Deadman Trail #70	hiking	lwn
-8075259	Ash Creek Trail #307	hiking	lwn
-8075260	Shingle Mill Trail #35	hiking	lwn
-8075262	Webb Peak Trail #345	hiking	lwn
-8077257	Jesus Goudy Ridge Trail #298	hiking	lwn
-8077258	Grant Goudy Ridge Trail #310	hiking	lwn
-8077259	Grant Creek Trail #305	hiking	lwn
-8077260	Grant Hill Loop Trail #322	hiking	lwn
-8077261	Big Creek Trail #320A	hiking	lwn
-8077262	Shake Trail #309	hiking	lwn
-8077263	Dutch Henry Canyon Trail #297	hiking	lwn
-8077292	West Divide Trail #289	hiking	rwn
-8077293	Powers Garden Trail #96	hiking	lwn
-8077294	Corral Canyon Trail #291	hiking	lwn
-8077295	Kennedy Peak Trail #287B	hiking	lwn
-8077296	East Divide Trail #287	hiking	lwn
-8077297	Bassett Peak Trail #287C	hiking	lwn
-8077298	Fisher Canyon Trail #991	hiking	lwn
-8077303	Tortilla Trail #254	hiking	lwn
-8077309	Sycamore Trail #278	hiking	lwn
-8077321	Mailbox Trail #276	hiking	lwn
-8077339	Pipestem Trail #271	hiking	lwn
-8077441	Field Canyon Trail #294	hiking	lwn
-8077442	YLE Trail #288	hiking	lwn
-8081347	Komo Point Trail	hiking	lwn
-8081383	Francois Matthes Trail	hiking	lwn
-8087468	Cape Solitude Trail	hiking	lwn
-8090992	South Canyon Trail	hiking	lwn
-8096218	Point Imperial Trail	hiking	lwn
-8096503	Salt Trail	hiking	lwn
-8098409	Jumpup-Nail Trail #8	hiking	lwn
-8098538	Ranger Trail #41	hiking	lwn
-8098847	Esplanade Route	hiking	lwn
-8100184	Rainbow Rim Trail #10	mtb	lcn
-8106946	Walhalla Glades Trail	hiking	lwn
-8109385	Cottonwood Creek Trail	hiking	lwn
-8109386	Hance Creek Trail	hiking	lwn
-8136987	East Beryl Road	road	
-8137580	North 27th Place	road	
-8137581	East Cheryl Drive	road	
-8137582	North 28th Street	road	
-8137583	East Cheryl Drive	road	
-8137652	North 26th Street	road	
-8137653	East Beryl Avenue	road	
-8138120	North 25th Street	road	
-8138121	East Cheryl Drive	road	
-8138122	North 25th Place	road	
-8138124	North 26th Street	road	
-8138125	East Brown Street	road	
-8138126	North 25th Street	road	
-8138365	East Brown Street	road	
-8138366	North 27th Street	road	
-8140321	North 24th Street	road	
-8140322	East Brown Street	road	
-8140540	North 24th Street	road	
-8140541	East Beryl Avenue	road	
-8140908	North 26th Street	road	
-8140909	East Cinnabar Avenue	road	
-8140910	East Cinnabar Avenue	road	
-8141156	East Turquoise Drive	road	
-8141157	North 24th Place	road	
-8141158	East Mountain View Road	road	
-8141221	North 25th Street	road	
-8149313	North 26th Street	road	
-8149413	North 26th Street	road	
-8149414	East Turquoise Avenue	road	
-8149734	North 28th Street	road	
-8149735	North 28th Street	road	
-8149736	East Ironwood Drive	road	
-8149880	North 28th Street	road	
-8149881	East Turquoise Avenue	road	
-8150291	North 27th Place	road	
-8150381	North 27th Street	road	
-8152769	North 23rd Street	road	
-8156669	North 26th Place	road	
-8194115	Tiyo Point Trail	hiking	lwn
-8194116	Point Sublime Trail	hiking	lwn
-8238036		bus	
-8240966		bus	
-8240967		bus	
-8240968		bus	
-8240969		bus	
-8240970		bus	
-8240971		bus	
-8240972		bus	
-8255948	Tuckup Trail	hiking	lwn
-8260244	Nankoweap Trail #57	hiking	lwn
-8261972	Walhalla Spur Trail	hiking	lwn
-8262151	Ariel Point Trail	hiking	lwn
-8264386	Havasupai Trail	hiking	lwn
-8264405	Beaver Falls Trail	hiking	lwn
-8264406	Havasu Canyon Trail	hiking	lwn
-8288581	Hayduke Trail #12	hiking	rwn
-8289504	Hayduke Trail #10	hiking	rwn
-8290142	Hayduke Trail #11	hiking	rwn
-8291996	Cathedral Wash	hiking	lwn
-8307485	Hayduke Trail #9	hiking	rwn
-8503489	AZ 989	road	
-8503555	AZ 79	road	US:AZ
-8507235		road	US:AZ:Maricopa
-8534013		road	US:US
-8633477	Schmutz Spring Trail	hiking	lwn
-8633478	Brady Hollow Trail	hiking	lwn
-8633490	Saddle Horse Loop	hiking	lwn
-8634765	Spring Mountain Trail	hiking	lwn
-8635912	East Rim Trail	hiking	lwn
-8635913	North Canyon Trail	hiking	lwn
-8643071	Navajo Trail #19	hiking	lwn
-8643138	Great Western Trail - Arizona	hiking	nwn
-8643363	Whitmore Trail	hiking	lwn
-8643414	The Plateau Passage (Incomplete)	mtb	lcn
-8643444	Liberty Bell Arch Trail	hiking	lwn
-8643445	White Rock Canyon Trail	hiking	lwn
-8643464	Jacob Canyon Route #35	hiking	lwn
-8643505	Lower Lookout Canyon Trail #122	hiking	lwn
-8643506	Middle Lookout Canyon Trail #121	hiking	lwn
-8643507	Upper Lookout Canyon Trail #120	hiking	lwn
-8647192	Gooseneck Trail #112	hiking	lwn
-8647647	Ridge Trail	hiking	lwn
-8647849	Snake Gulch Trail #59	hiking	lwn
-8647850	Swapp Trail #50	hiking	lwn
-8648069	Horse Spring Trail #137	hiking	lwn
-8648070	Slide Canyon Trail #58	hiking	lwn
-8648075	Slide Spring Trail #11	hiking	lwn
-8648261	Tapeats Creek Trail	hiking	lwn
-8648262	Hack Canyon Trail #28	hiking	lwn
-8648263	Hack/Lawson Trail #110	hiking	lwn
-8648264	Little Spring Trail #13	hiking	lwn
-8652552	Powell Plateau Trail	hiking	lwn
-8652771	Big Spring Lookout Trail #51	hiking	lwn
-8652772	Brow Monument Trail #108	hiking	lwn
-8653147	Ceballos Trail #109	hiking	lwn
-8653172	Kai-Vav-Wi Nature Trail #34	hiking	lwn
-8653277	Arizona Trail #3 Canelo Hills Wast	hiking	rwn
-8658910	Crazy Jug Point #142	hiking	lwn
-8659048	Shoshone Point Trail	hiking	lwn
-8659304	Village Greenway	hiking	lwn
-8664555	Residential Loop	hiking	lwn
-8664556	Zuni Trail	hiking	lwn
-8664937	Valley View Trail	hiking	
-8671917	Sonoita Creek Trail	hiking	lwn
-8676780	Saddle Canyon Trail	hiking	lwn
-8677771	Monument Creek Trail	hiking	lwn
-8677996	Triple Alcove Trail #27	hiking	lwn
-8678208	Nankoweap Granary Trail	hiking	lwn
-8681707	Vishnu Overlook Trail #125	hiking	lwn
-8681742	Unkar Delta Loop	hiking	lwn
-8687596	Nature Trail	hiking	lwn
-8687614	Roosevelt Point Loop	hiking	lwn
-8687619	Greenland Lake Trail	hiking	lwn
-8688023	Roaring Springs Trail	hiking	lwn
-8688515	Red Mountain Trail #159	hiking	lwn
-8688609	Red Butte Trail #37	hiking	lwn
-8695581	Slate Mountain Trail #128	hiking	lwn
-8695611	O'Leary Trail	hiking	lwn
-8696948	Connector Trail #80	hiking	lwn
-8696949	Bull Basin Trail #40	hiking	lwn
-8697772	Beale Wagon Road Historic Trail #61	hiking	rwn
-8728081	Dr Martin Luther King Jr Boulevard	road	
-8729958	Tempe Streetcar EB	tram	Valley Metro
-8729959	Tempe Streetcar WB	tram	Valley Metro
-8803549		railway	
-8803552		railway	
-9090208	AZ 303 Loop (South)	road	US:AZ:Loop
-9097924	Nogales Subdivision	railway	
-9097925	UP Phoenix Subdivision	railway	
-9098101	"Tucson, Cornelia and Gila Bend Railroad"	railway	
-9098102	Wellton Branch	railway	
-9098103	San Manuel Arizona Railroad	railway	
-9098104	Copper Basin Railway	railway	
-9098105	Chandler Industrial Lead	railway	
-9098106	Fennemore Spur	railway	
-9098107	Coronado Subdivision	railway	
-9098108	Snowflake Branch	railway	
-9098109	Arizona Central Railroad	railway	
-9098110	Grand Canyon Railway	railway	
-9099249		railway	
-9099314	Arizona Eastern Railway	railway	
-9099462	Tempe Industrial Lead (Kyrene)	railway	
-9101407	San Pedro Valley Railroad	railway	
-9101408		railway	
-9101409		railway	
-9101410	El Paso and Southwestern Railroad	railway	
-9113880	Springerville Railroad Spur	railway	
-9114081	Darling/Winona Industrial Lead	railway	
-9118481	Chandler Industrial Lead (abandoned)	railway	
-9118513	Arizona Electric Power Company Spur	railway	
-9118814	Wellton Branch (disused)	railway	
-9118908	Sierrita Mine Spur	railway	
-9118909	Twin Buttes Sahuarita Industrial Spur	railway	
-9118928	Mission Mine spur	railway	
-9118960	Morenci Mine Railroad	railway	
-9119069	Camp Navajo Railroad	railway	
-9119078	Magma Arizona Railroad	railway	
-9119145	Salt River Spur	railway	
-9119158	Cotpro Spur	railway	
-9119160	Palo Verde Nuclear Generating Station Spur	railway	
-9122731	Kingman Terminal Railroad	railway	
-9123161		railway	
-9123162	Daisy Mountain Railroad	railway	
-9133248	Former US 80 (AZ 1977)	road	
-9137569		railway	
-9137637	Port of Tucson Railway	railway	
-9230611	Historic U.S. Route 80	road	US:US:Historic
-9277951	Sun Tran Route 10 Ruthrauff (northbound)	bus	Sun Tran
-9277952	Sun Tran Route 10 Ruthrauff (southbound)	bus	Sun Tran
-9331232	Flixbus 2201: Los Angeles => Tucson	bus	Flixbus
-9338492	Black Canyon Trail	hiking	nwn
-9380233	West Cardinals Way	road	
-9426707	Safford-Morenci Trail	hiking	rcn
-9465538	Ranger Trail	hiking	lwn
-9465539	Bajada Trail	hiking	lwn
-9465540	Alta Trail	hiking	lwn
-9465541	National Trail	hiking	lwn
-9465542	Mormon Loop Trail	hiking	lwn
-9465543	Mormon Trail	hiking	lwn
-9465545	Beverly Canyon Trail	hiking	lwn
-9465546	Desert Classic Trail	hiking	lwn
-9465547	Telegraph Pass Trail	hiking	lwn
-9471469	Pyramid Trail	hiking	lwn
-9471470	Bursera Trail	hiking	lwn
-9471471	Kiwanis Trail	hiking	lwn
-9471472	Las Lomitas Trail	hiking	lwn
-9471473	Corona de Loma Trail	hiking	lwn
-9471474	Hidden Valley Trail	hiking	lwn
-9471475	Javelina Canyon Trail	hiking	lwn
-9471477	Pima East Loop	hiking	lwn
-9471478	Pima Wash Trail	hiking	lwn
-9471479	Tondum Wihom Trail	hiking	lwn
-9471480		hiking	
-9471481	Ma Ha Tuak Trail	hiking	lwn
-9480082	AZ 101 Loop (Clockwise)	road	US:AZ:Loop
-9483332	AZ 101 Loop (Counterclockwise)	road	US:AZ:Loop
-9620151	Sun Tran Route 2 Pueblo Gardens (Southbound)	bus	Sun Tran
-9620451	Sun Tran Route 12 10th/12th Avenue	bus	Sun Tran
-9620452	Sun Tran Route 11 Alvernon	bus	Sun Tran
-9620550	Sun Tran Route 24 12th Avenue	bus	Sun Tran
-9620551	Sun Tran Route 23 Mission	bus	Sun Tran
-9620552	Sun Tran Route 22 El Rio/W. Speedway	bus	Sun Tran
-9620553	Sun Tran Route 21 West Congress/Silverbell	bus	Sun Tran
-9620554	Sun Tran Route 19 Stone	bus	Sun Tran
-9620555	Sun Tran Route 18 South 6th Avenue	bus	Sun Tran
-9622795	Sun Tran Route 61 La Cholla	bus	Sun Tran
-9622796	Sun Tran Route 50 Ajo Way	bus	Sun Tran
-9622797	Sun Tran Route 29 Valencia	bus	Sun Tran
-9622798	Sun Tran Route 27 Midvale Park	bus	Sun Tran
-9622799	Sun Tran Route 26 Benson Highway (Eastbound)	bus	Sun Tran
-9623151	Sun Tran Route 105X Foothills-Downtown Express	bus	Sun Tran
-9623152	Sun Tran Route 104X Marana-Downtown Express	bus	Sun Tran
-9623153	Sun Tran Route 103X Northwest-Downtown Express	bus	Sun Tran
-9623154	Sun Tran Route 102X Northwest-UA Express	bus	Sun Tran
-9623155	Sun Tran Route 101X Golf Links-Downtown Express	bus	Sun Tran
-9623315	Sun Tran Route 204X Northwest-Aero Park Express	bus	Sun Tran
-9623316	Sun Tran Route 203X Oro Valley-Aero Park Express	bus	Sun Tran
-9623317	Sun Tran Route 201X Eastside-Aero Park Express	bus	Sun Tran
-9623318		bus	Sun Tran
-9623319	Sun Tran Route 109X Catalina Highway-Downtown Express	bus	Sun Tran
-9623320	Sun Tran Route 108X Broadway-Downtown Express	bus	Sun Tran
-9623321	Sun Tran Route 107X Oro Valley-Downtown Express	bus	Sun Tran
-9623415	Sun Tran Route 413 Marana/I-10	bus	Sun Tran
-9623416	Sun Tran Route 412 Thornydale/Orange Grove	bus	Sun Tran
-9623417	Sun Tran Route 410 Anway/Trico	bus	Sun Tran
-9623418	Sun Tran Route 401 North Oracle/Catalina	bus	Sun Tran
-9626388	Sun Tran Route 486 Ajo-Tucson	bus	Sun Tran
-9626389	Sun Tran Route 450 Southeast Tucson/Rita Ranch	bus	Sun Tran
-9626390	Sun Tran Route 440 San Xavier	bus	Sun Tran
-9626391	Sun Tran Route 430 Tucson Estates	bus	Sun Tran
-9626392	Sun Tran Route 421 Green Valley/Sahuarita	bus	Sun Tran
-9712655	Historic US 80 (CA)	road	US:US:Historic
-9727775	Grand Canyon East Rim Drive Path	bicycle	lcn
-9727776	Grand Canyon Village Greenway	bicycle	lcn
-9728113	Cañada del Oro	bicycle	lcn
-9728165	Sinclair Wash Trail	bicycle	lcn
-9728171	Ponderosa Trail	bicycle	lcn
-9737057	Crosscut Canal Multi-Use Path	bicycle	lcn
-9737058	Grand Canal Path	bicycle	rcn
-9737236	Western Canal Path	bicycle	lcn
-9740204	Eastern Canal Path	bicycle	lcn
-9740222	New River Trail	bicycle	lcn
-9740374	Queen Creek Wash Trail	bicycle	lcn
-9740385	Route 66 Trail	bicycle	lcn
-9993215	bus MARY Counter Clockwise	bus	Valley Metro
-9993216	bus MARY Clockwise	bus	Valley Metro
-9993336	bus SMART WB	bus	Valley Metro
-9993337	bus SMART EB	bus	Valley Metro
-10014590	bus BUZZ WB	bus	Valley Metro
-10014591	bus BUZZ EB	bus	Valley Metro
-10014592	bus ALEX WB	bus	Valley Metro
-10014593	bus ALEX EB	bus	Valley Metro
-10014594	bus OV WB	bus	Valley Metro
-10014595	bus OV EB	bus	Valley Metro
-10014596	bus OS WB	bus	Valley Metro
-10014597	bus OS EB	bus	Valley Metro
-10014598	bus OM WB	bus	Valley Metro
-10014599	bus OM EB	bus	Valley Metro
-10014600	bus OMA NB	bus	Valley Metro
-10014601	bus OMA SB	bus	Valley Metro
-10014602	bus OJ SB	bus	Valley Metro
-10014603	bus OJ NB	bus	Valley Metro
-10014604	bus OE EB	bus	Valley Metro
-10014605	bus OE WB	bus	Valley Metro
-10014606	bus FLASH EB	bus	Valley Metro
-10014607	bus FLASH WB	bus	Valley Metro
-10047465	bus POGO Clockwise	bus	Valley Metro
-10047466	bus POGO Counter Clockwise	bus	Valley Metro
-10078354	bus OLDT	bus	Valley Metro
-10078355	bus MLHD NB	bus	Valley Metro
-10078356	bus MLHD SB	bus	Valley Metro
-10078489	bus 68CM SB	bus	Valley Metro
-10078490	bus 68CM NB	bus	Valley Metro
-10078552	bus MSTG SB	bus	Valley Metro
-10078553	bus MSTG NB	bus	Valley Metro
-10121858	bus GUS2 C	bus	Valley Metro
-10121859	bus GUS3 CC	bus	Valley Metro
-10121860	bus GUS1 CC	bus	Valley Metro
-10166306		road	US:US:Temporary
-10302684	AZ 82	road	US:AZ
-10302694		road	US:AZ:Business
-10302725	AZ 90 Spur	road	
-10303173	State Route 93 Temporary	road	US:AZ
-10319513		road	US:US:Spur
-10703469	Anaconda	hiking	lwn
-10703470	Arizona Cypress #203	hiking	lwn
-10703471	Two Fence #162A	hiking	lwn
-10706267	Verde Shuttle	bus	Verde Shuttle
-10713028	Andante West #165D	hiking	lwn
-10713029	Lower Chimney Rock #165A	hiking	lwn
-10713030	Chimney Rock Pass #165B	hiking	lwn
-10713031	Thunder Mountain #165	hiking	lwn
-10713032	Andante #165E	hiking	lwn
-10713033	Summit Route #165C	hiking	lwn
-10713034	Forest Road 152	road	US:NFSR:Coconino:FR
-10713035	Dry Creek #52	hiking	lwn
-10713036	Bear Sign #59	hiking	lwn
-10713037	David Miller #164	hiking	lwn
-10713426	Centennial #653	hiking	lwn
-10713427	Ledge-n-Airy	mtb;hiking	lcn;lwn
-10713429	Last Frontier	mtb;hiking	lcn;lwn
-10713432	Rupp #204	hiking	lwn
-10713433	Forest Road 9589	road	US:NFRS:Coconino:FR
-10713434	Snake #162C	hiking	lwn
-10713435	Chuckwagon #196	hiking	lwn
-10713436	Forest Road 9908	road	US:NFRS:Coconino:FR
-10713437	Lizard Head #165F	hiking	
-10713438	Forest Road 152C	road	US:NFRS:Coconino:FR
-10713439	Forest Road 9600	road	US:NFRS:Coconino:FR
-10713440	Forest Road 152E	road	US:NFRS:Coconino:FR
-10713541	Forest Road 9584B	road	
-10713542	Aerie #168	hiking	lwn
-10713543	Doe Mountain	hiking	
-10713544	Boynton Vista	hiking	lwn
-10713545	Boynton Canyon #47	hiking	lwn
-10713546	Deadman's Pass	hiking	lwn
-10713547	Mescal #174C	hiking	lwn
-10713548	Mescal Connector #174D	hiking	lwn
-10713549	Brins Mesa #119	hiking	lwn
-10713550	Forest Road 9904	road	
-10713551	Forest Road 9904B	road	US:NFRS:Coconino:FR
-10713552	Tea Cup #183	hiking	lwn
-10713553	Adobe Jack #660	hiking	lwn
-10713554	Manzanita #675	hiking	lwn
-10713555	Ant Hill Loop #666	hiking	lwn
-10713556	Grand Central #661	hiking	lcn
-10713557	Solider Pass #66	hiking	lwn
-10713558	Jordan #186	hiking	lwn
-10713559	Shorty #661A	hiking	lwn
-10713560	Powerline Plunge #668	hiking	lwn
-10713561	Jordan Spur A	hiking	lwn
-10713562	Jordan Spur B	hiking	lwn
-10713563	Cibola Pass #187	hiking	lwn
-10713564	Forest Road 633	road	US:NFRS:Coconino:FR
-10714716	Solider Pass Spur A	hiking	lwn
-10714717	HS Canyon #50	hiking	lwn
-10714718	Forest Road 539	road	US:NFRS:Coconino:FR
-10714719	Forest Road 6416	road	US:NFRS:Coconino:FR
-10714720	Forest Road 6399	road	US:NFRS:Coconino:FR
-10714721	Forest Road 231E	road	US:NFRS:Coconino:FR
-10714722	Forest Road 231	road	US:NFRS:Coconino:FR
-10714723	Forest Road 792	road	US:NFRS:Coconino:FR
-10715536	Parsons #122	hiking	lwn
-10715537	Palatki Ruins Loop Spur #80A	hiking	lwn
-10715538	Palatki Ruins Loop #80	hiking	lwn
-10715539	Palatki Ruins Face #80B	hiking	
-10715540	Red Cliff #62	hiking	lwn
-10715769	Sedona View #169	hiking	lwn
-10715770	Brewer #212	hiking	lwn
-10715771	Coconino Loop #126	hiking	lwn
-10715772	Airport Loop #210	hiking	lwn
-10715773	Table top #211	hiking	lwn
-10715774	Sketch #672	hiking	lwn
-10715775	Ridge #208	hiking	lwn
-10715776	Bandit #209	hiking	lwn
-10715777	Old Post #206	hiking	lwn
-10715778	Carroll Canyon #207	hiking	lwn
-10715779	Skywalker #669	hiking	lwn
-10715780	Super Secret Slickrock #202B	hiking	lwn
-10715781	Ramshead #202A	hiking	lwn
-10715782	Herkenham #202	hiking	lwn
-10715783	Overeasy #670	hiking	lwn
-10716308	Sugar Loaf Summit #184A	hiking	lwn
-10716309	Sugar Loaf Loop #184	hiking	lwn
-10716310	Jim Thompson #124	hiking	lwn
-10716311	Wilson Canyon #49	hiking	lwn
-10716312	Wilson Mountain #10	hiking	lwn
-10716313	North Wilson #123	hiking	lwn
-10716314	Wilson Mountain Spur B #10B	hiking	lwn
-10716316	Wilson Mountain Spur D	hiking	lwn
-10716317	Huckaby #161	hiking	lwn
-10716318	Oak Creek Spur A #71A	hiking	lwn
-10716319	Allens Bend #111	hiking	lwn
-10716320	Casner Canyon #11	hiking	lwn
-10716323	Hot Loop #40	hiking	lwn
-10716324	Jacks Canyon #55	hiking	lwn
-10716325	Munds Mountain #77	hiking	lwn
-10716326	Belt Rock Pathway #96	hiking	lwn
-10775266	Schuerman Mountain Vista #56A	hiking	lwn
-10775267	Red Rock Loop #118	hiking	
-10775268	Pyramid #674	hiking	lwn
-10775269	Scorpion #673	hiking	lwn
-10814191	Thunder Mtn Rd Bike Route - W SR 89A Bypass	bicycle	lcn
-10827877	Highline Canal Path	bicycle	lcn
-10891955	Sun Tran Route 9 (westbound)	bus	Sun Tran
-10907835	Bus RouteSun Tran Route 486 Ajo-Tucson	bus	Sun Tran
-10946017	Amtrak Sunset Limited: Los Angeles => New Orleans	train	Amtrak
-10946177	Axis	hiking	lwn
-10946178	Rover	hiking	lwn
-10946181	Remnant	mtb;hiking	lcn;lwn
-10946183	Bolo	mtb;hiking	lcn;lwn
-10946184	Cockscomb #167	hiking	lwn
-10946185	Outer Limits	mtb;hiking	lcn;lwn
-10946187	Summit #126B	hiking	lwn
-10947353	OK #205	hiking	lwn
-10947354	Dawa #188	hiking	lwn
-10949116	Schnebly Hill #158	hiking	lwn
-10949117	Cow Pies #78B	hiking	lwn
-10949118	Munds Wagon #78	hiking	lwn
-10949119	Hangover #78C	hiking	lwn
-10967533	bus ZOOM WB	bus	Valley Metro
-10967534	bus ZOOM EB	bus	Valley Metro
-11139675	Eagle's Nest Trail	hiking	lwn
-11139757	Slide Rock Trail	foot	lwn
-11139758	Clifftop Trail	foot	lwn
-11139759	Pendley Homestead Trail	foot	lwn
-11165867	Chapel #213	hiking	lwn
-11165868	Broken Arrow Spur #125A	hiking	lwn
-11165869	Twin Buttes #125F	hiking	lwn
-11165870	Hog Heaven #125D	hiking	lwn
-11165871	Hog Wash #125C	hiking	lwn
-11165872	Mystic #157	hiking	lwn
-11165873	Peccary #125B	hiking	lwn
-11165874	Pigtail #157A	hiking	lwn
-11165999	Bell Rock #214	hiking	lwn
-11166000	Courthouse Butte Loop #135	hiking	lwn
-11166001	Middle #135B	hiking	lwn
-11166002	Big Park Loop	hiking	lwn
-11166003	Phone #96A	hiking	lwn
-11166004	Bell Rock Loop Extension #657	hiking	lwn
-11166005	Phone Extension #658	hiking	lwn
-11166006	Baby Bell #655	hiking	lwn
-11166007	Llama #650	hiking	lwn
-11166008	Bail #656	hiking	lwn
-11166009	Jim Bryant #199	hiking	lwn
-11166010	Margs Draw Spur A #163A	hiking	lwn
-11166011	Margs Draw #163	hiking	lwn
-11166012	High on the Hog #125E	hiking	lwn
-11166143	Templeton #156	hiking	lwn
-11166144	Cathedral Rock #170	hiking	lwn
-11166345	Baldwin Spur #191A	hiking	lwn
-11166346	Red Rock Crossing #191B	hiking	lwn
-11166347	Baldwin #191	hiking	lwn
-11166348	Hiline #193	hiking	lwn
-11168939	Pine Valley #148	hiking	lwn
-11168940	Agave #173B	hiking	lwn
-11168941	Made in the Shade #173C	hiking	lwn
-11168942	Coconino Spur #172C	hiking	lwn
-11168943	Kaibab #172A	hiking	lwn
-11168944	Yavapai Vista #172	hiking	lwn
-11168945	Basalt #172D	hiking	lwn
-11168946	Coconino #172B	hiking	lwn
-11168947	Hermit #172E	hiking	lwn
-11168948	Easy Breezy #192	hiking	lwn
-11168949	HT #197	hiking	lwn
-11168950	Slim Shady #173	hiking	lwn
-11172095	Bear Mountain #54	hiking	lwn
-11172096	Fay Canyon #53	hiking	lwn
-11172097	Yucca #174E	hiking	lwn
-11172098	Canyon of Fools #174F	hiking	lwn
-11175671	Chaves #654	hiking	lwn
-11175672	Hot Loop A #40A	hiking	lwn
-11175673	Woods Canyon #93	hiking	lwn
-11179112	Mooney #12	hiking	lwn
-11179113	Loy Canyon #5	hiking	lwn
-11179114	Secret Mountain #109	hiking	lwn
-11179115	Little Round Mountain Spur A #9A	hiking	lwn
-11179116	Little Round Mountain #9	hiking	lwn
-11179122	Honanki #79	hiking	lwn
-11180815	Dogie #116	hiking	lwn
-11180816	Little L.O. #6	hiking	lwn
-11180817	Kelsey Spring #3	hiking	lwn
-11180818	Hog Hill #133	hiking	lwn
-11180819	Ott Lake #70A	hiking	lwn
-11180820	Winter Cabin #70	hiking	lwn
-11180821	Sycamore Basin #63	hiking	lwn
-11180822	Casner Mountain #8	hiking;road	lwn;US:NF:Coconino:MT
-11180823	Secret East #114	hiking	lwn
-11181477	Purtyman #65	hiking	lwn
-11211902	Cookstove #143	hiking	lwn
-11211903	Sterling Pass #46	hiking	lwn
-11212838	Scott Springs #44	hiking	lwn
-11225468	V Bar V Trail #94	hiking	rwn
-11225469	V Bar V Entry Trail #94B	hiking	rwn
-11247981	Wolf Creek Loop Trail #384	hiking;ohv	lwn
-11259699	Valley Path	bicycle	lcn
-11564851	Tom Moody Loop Trail	hiking	lwn
-11602529	Rio Salado Pathway	bicycle	lcn
-11606064	Former State Route 95	road	
-11638106	Tempe Canal Path	bicycle	lcn
-11640039	Kyrene Canal Path	bicycle	lcn
-11642653	Old US 66 in Arizona ('30s to '40s)	road	US:US:Old
-11695192	Pedal	bicycle	lcn
-11695413	Brake	bicycle	lcn
-11695695	Handlebars	bicycle	lcn
-11695771	Spoke	bicycle	lcn
-11748506		road	US:US:Spur
-11769723	Former US 70 (AZ 1931)	road	
-11785068	Former US 180 (AZ 1935)	road	
-11797891	Former AZ 789 (1965)	road	
-11797908	Former US 70 (AZ 1969)	road	
-11798072	BIA 170 (AZ)	road	US:BIA
-11798073	BIA 3 (AZ)	road	US:BIA
-11896573	Sun Tran Route 25 South Park Avenue (Northbound)	bus	Sun Tran
-11896574	Sun Tran Route 2 Pueblo Gardens (Northbound)	bus	Sun Tran
-11921858	Sun Tran Route 26 Benson (westbound)	bus	Sun Tran
-11961756		road	US:NFSR:Coconino:Secondary
-11961757		road	US:NFSR:Coconino:Secondary
-11961758		road	US:NFSR:Coconino:Secondary
-11982546	White House Trail	hiking	lcn
-12109487		road	US:NSFR:Coronado:FR
-12109488		road	US:NSFR:Coronado:FR
-12133993	Laveen Area Trail	bicycle	lcn
-12173925	Orange	bus	YCAT
-12174008	Brown	bus	YCAT
-12174152	Green 4	bus	
-12174360	Green 4A	bus	YCAT
-12174464	Blue	bus	YCAT
-12174598	Gold	bus	YCAT
-12180533	Amtrak Texas Eagle: Los Angeles => Chicago	train	Amtrak
-12180534	Amtrak Texas Eagle: Chicago => Los Angeles	train	Amtrak
-12180986	Silver	bus	YCAT
-12181021	Turquoise	bus	YCAT
-12181080	Yellow	bus	YCAT
-12181126	Purple	bus	YCAT
-12223099	Legends of Superior Trail	hiking	lwn
-12426661	Sun Link: Convento & Congress → Helen & Warren	tram	Sun Tran
-12652269	Roadrunner Park Walking Path	foot	lwn
-12729869	Blue Route	bus	
-12729978	Green Route	bus	
-12731482	Gold Route	bus	
-12731595	Orange Route	bus	
-12731667	Purple Route	bus	
-12731769	Teal Route	bus	
-12731845	Maroon Route	bus	
-12732089	Brown Route	bus	
-12732241	Red Route	bus	
-12766160	Estrella Mountain Regional Park	hiking	lwn
-13053074		bus	
-13055438	Sun Tran Route 23X - Cholla Charger Expreaa	bus	Sun Tran
-13124382	Sun Circle Trail	bicycle	lcn
-13200892	Browning Sub APSC to Silverking Sub APSC 500KV	power	
-13200893		power	
-13200894	Aps Delaney Sub APSC to Hassayampa Tap Sub APSC 500KV	power	
-13298869	State Route 202 Spur	road	US:AZ:Spur
-13298959	Fain Road	road	US:AZ:Spur
-13549006	Gray route	bus	Lake Havasu City Transit
-13563609	Orange Line	bus	Bullhead Area Transit System
-13574691	Red Line	bus	Bullhead Area Transit System
-13589445	Green Line	bus	Bullhead Area Transit System
-13589892	Hakđagwiva Bus	bus	Hualapai Transit
-13599381	Kingman Route #1	bus	Hualapai Transit
-13599456	Yellow Route	bus	Kingman Area Regional Transit
-13599684	Seligman Tripper Route	bus	Hualapai Transit
-13599960	Grand Canyon West Commuter Route	bus	Hualapai Transit
-13613320	Aspen Trail 411	hiking	rwn
-13616675	General Crook 140	hiking	rwn
-13616676	Carr Lake Trail 412	hiking	rwn
-13628522	Blue Line	bus	Bullhead Area Transit System
-13632207	Red Route	bus	Kingman Area Regional Transit
-13632263	Green Route	bus	Kingman Area Regional Transit
-13640834	Blue Route	bus	Kingman Area Regional Transit
-13683584	Phoenix Bypass Route	road	
-13741421	Searchlight Express	bus	Silver Rider Transit
-13832446	Bisbee Route: Old Bisbee => Naco via Senior Center	bus	Bisbee Bus
-13832447	Bisbee Route: Old Bisbee => Naco via San Jose	bus	Bisbee Bus
-13832448	Bisbee Route: Naco => Old Bisbee	bus	Bisbee Bus
-13832449	Bisbee Route: Naco => Old Bisbee via San Jose	bus	Bisbee Bus
-13944434	Anza Trail	bicycle	lcn
-14026920	Peak Spur	hiking	lwn
-14027230	Kovach Family Nature Trail	hiking	lwn
-14027231	Lost Dog Wash Trail	hiking	lwn
-14027305	Gateway Loop Trail	hiking	lwn
-14027306	Quartz Trail	hiking	lwn
-14027313	Bajada Nature Trail	hiking	lwn
-14104614		road	US:US
-14104615		road	US:US
-14124349	Maverick OHV Trail	hiking	rwn
-14126729	Monterey Park Walking Path	foot	lwn
-14156006	Four Springs Trail	hiking	rwn
-14156674	General Crook Connector	hiking	rwn
-14156806	Chihuahua Pines Connector Trail	hiking	rwn
-14156807	Country Club Trail	hiking	rwn
-14156816	Flume Connector Trail	hiking	rwn
-14156817	Chipmunk Springs Connector Trail	hiking	rwn
-14156858	Ice Cave Trail	hiking	rwn
-14157381	Ghost of Coyote Trail	hiking	rwn
-14159773	Juniper Ridge Trail	hiking	
-14159774	Timber Mesa Trail	hiking	rwn
-14160639	Land of the Pioneers	hiking	rwn
-14161590	Lookout Connector Trail	hiking	rwn
-14164661	Los Caballos Trail	hiking	rwn
-14166764	Panorama Trail	hiking	rwn
-14167186	Sawmill Connector Trail	hiking	rwn
-14167765	Four Springs Trail	hiking	rwn
-14170054	Bog Springs Trail	hiking	rwn
-14170055	Hitching Post Loop Trail	hiking	rwn
-14170056	Turkey Track Loop Trail	hiking	rwn
-14170057	Woodland Lake Trail	hiking	rwn
-14208015	Phoenix Sonoran Bikeway	bicycle	lcn
-14222047	Blue Ridge Trail	hiking	rwn
-14222048	Billy Creek Connector Trail	hiking	rwn
-14227425	Grindstone	mtb	lcn
-14227426	Trail Faries	mtb	lcn
-14228534	Buena Vista Trail Loop 1	hiking	lwn
-14228535	Buena Vista Trail Loop 2	hiking	rwn
-14231501	Flinstone	mtb	lcn
-14231502	Juice Tree	mtb	lcn
-14231503	Man Enough?	mtb	lcn
-14231504	Differential	mtb	lcn
-14231829	Fernau's Fantasy	mtb	lcn
-14232230	Below The B-Backs	mtb	lcn
-14232231	Cortalis II	mtb	lcn
-14232232	Uncle Tom's	mtb	lcn
-14232233	Laird's	mtb	lcn
-14232234	Wild Horses	mtb	lcn
-14232235	Sierra Game Trail	mtb	lcn
-14232239	Cortalis	mtb	
-14232280	Hole in the Rock	mtb	lcn
-14235040	Project X	mtb	lcn
-14235041	Petrified	mtb	lcn
-14235042	Naked	mtb	lcn
-14235043	Dome Rock	mtb	lcn
-14235044	Cheater	mtb	lcn
-14245567	Los Burros Trail	hiking	rwn
-14245712	Gand Canyon Railway Route	train	
-14251451	Osprey Connector Trail	hiking	rwn
-14256779	Dr. Art Mollen Fitness Path	fitness_trail	
-14279439	"AZ 95S (Mohave County, AZ)"	road	US:AZ:Spur
-14357035	Mountain Vista Route	bicycle	lcn
-14360818		bus	
-14375117		road	US:US:Historic
-14377789	County Road 91	road	US:AZ:Mohave
-14380716	County Road 10	road	US:AZ:Mohave
-14380717	County Road 1	road	US:AZ:Mohave
-14380718	County Road 20	road	US:AZ:Mohave
-14380738	County Road 25	road	US:AZ:Mohave
-14380739	County Road 261	road	US:AZ:Mohave
-14384071	County Road 125	road	US:AZ:Mohave
-14384138	County Road 143	road	US:AZ:Mohave
-14384139	County Road 3798	road	US:AZ:Mohave
-14384140	County Road 195	road	US:AZ:Mohave
-14384141	County Road 1537	road	US:AZ:Mohave
-14384176	County Road 155	road	US:AZ:Mohave
-14384177	County Road 153	road	US:AZ:Mohave
-14384178	County Road 227	road	US:AZ:Mohave
-14384205	County Road 151	road	US:AZ:Mohave
-14384250	County Road 141	road	US:AZ:Mohave
-14384251	County Road 193	road	US:AZ:Mohave
-14384253	County Road 722	road	US:AZ:Mohave
-14384254	County Road 366	road	US:AZ:Mohave
-14384255	County Road 3194	road	US:AZ:Mohave
-14384256	County Road 444	road	US:AZ:Mohave
-14384307	County Road 3965	road	US:AZ:Mohave
-14384308	County Road 3954	road	US:AZ:Mohave
-14384309	County Road 2401	road	US:AZ:Mohave
-14384310	County Road 744	road	US:AZ:Mohave
-14392604	General George Crook National Recreation Trail	hiking	rwn
-14392660	Willow Springs Bike Loop #535	bicycle	rcn
-14395609		road	US:US
-14415007	Grand Canalscape	bicycle	lcn
-14428669	Rim Road	road	
-14438515	Military Sinkhole Trail #179	hiking	rwn
-14467986	The Turqoise Trail	foot	
-14511116		road	US:US
-14700309		power	
-14700310		power	
-14700311		power	
-14735837	Coconino 250 MTB Route	mtb	rcn
-14865111	Original Southern Pacific Railroad Phoenix Subdivision Alignment	railway	
-14865112	Arizona Eastern Railroad Phoenix Division	railway	
-14933899	a	bicycle	lcn
-14933900	b	bicycle	lcn
-14933936	d	bicycle	lcn
-14933937	c	bicycle	lcn
-14946395		road	MX:MX
-15055447		road	US:BIA
-15055448	N591	road	US:BIA
-15082797	Lower Salt River Interpretive Trail	hiking	lwn
-15470217	Buttes and Boulders Loop	road	
-15569997	Black Canyon National Recreation Trail	hiking	nwn
-15625092	Coronado Trail Scenic Byway	road	
-15625130	Kaibab Plateau-North Rim Parkway	road	
-15625275	Red Rock Scenic Byway	road	
-15625288	Sky Island Scenic Byway	road	
-15626114	Quail Springs Trail	hiking	lwn
-15648537	Indian Route 18	road	US:BIA
-15675317		bus	Sun Tran
-15710505	Arizona State Route 76	road	
-15867127	BIA Route 6	road	US:BIA
-15867409	Apache County 5020	road	US:AZ:Apache
-15867410	Apache County 5270	road	US:AZ:Apache
-15867430	N20	road	US:BIA
-15867975	N21	road	US:BIA
-15936819	BIA Route 171 (AZ)	road	US:BIA
-16031166	Navajo Route 6331	road	US:BIA
-16031167		road	
-16031169	Navajo Route N213	road	US:BIA
-16031170	Navajo Route N215	road	US:BIA
-16031171	Navajo Route N212	road	US:BIA
-16053188	Apache County Road 6040	road	US:AZ:Apache
-16056809	Downtown Phoenix Hub	light_rail	Valley Metro
-16056810	Downtown Phoenix Rail Hub	light_rail	Valley Metro
-16077630	Apache County Road 2180	road	US:AZ:Apache
-16079925	Red Mesa Rim Trail	mtb	lcn
-16121896		road	US:US
-16161287	Future SR 210	road	
-16176435	Forest Route 39 (Arizona)	road	US:NFSR:Coronado:FR
-16188712	Gold Route - Quartzsite to Blythe	bus	Camel Express
-16188831	Orange Route - Quartzsite  to Parker	bus	Camel Express
-16191940	Blue Route - Quartzsite to Yuma	bus	Camel Express
-16194917	Purple Route - Quartzsite to Lake Havasu City	bus	Camel Express
-16243591	Forest Route 204	road	US:NFSR:Tonto:FR
-16246444	Overland Trail #615	hiking	lwn
-16247503	Joshua Forest Scenic Road	road	US:AZ:Scenic
-16247519	Apache Trail Historic Road	road	US:AZ:Scenic
-16247554	Desert to Tall Pines Scenic Road	road	US:AZ:Scenic
-16249074	Gila Pinal Scenic Road	road	US:AZ:Scenic
-16249261	Copper Corridor Scenic Road (SR 177)	road	US:AZ:Scenic
-16249308	Copper Corridor Scenic Road (SR 77)	road	US:AZ:Scenic
-16249343	Sky Island Parkway	road	US:AZ:Scenic
-16249422	Patagonia – Sonoita Scenic Road	road	US:AZ:Scenic
-16249481	Organ Pipe Cactus Parkway	road	US:AZ:Scenic
-16249540	Swift Trail Parkway	road	US:AZ:Scenic
-16249579	Coronado Trail Scenic Road	road	US:AZ:Scenic
-16251491	San Francisco Peaks Scenic Road	road	US:AZ:Scenic
-16251505	White Mountain Scenic Road	road	US:AZ:Scenic
-16251536	White River Scenic Road	road	US:AZ:Scenic
-16251569	"Diné Tah ""Among The People"" Scenic Road"	road	US:AZ:Scenic
-16251660	Kayenta – Monument Valley Scenic Road	road	US:AZ:Scenic
-16251673	Tse'nikani – Flat Mesa Scenic Road	road	US:AZ:Scenic
-16251685	Naat’tis’aan “Navajo Mountain” Scenic Road	road	US:AZ:Scenic
-16252838	Sedona – Oak Creek Canyon Scenic Road	road	US:AZ:Scenic
-16252866	Red Rock Scenic Road	road	US:AZ:Scenic
-16252872	Mingus Mountain Scenic Road	road	US:AZ:Scenic
-16252912	Fredonia – Vermillion Cliffs Scenic Road	road	US:AZ:Scenic
-16252962	Kaibab Plateau – North Rim Parkway (AZ Scenic)	road	US:AZ:Scenic
-16252976	Dry Creek Scenic Road	road	US:AZ:Scenic
-16286053	Navajo Route 15	road	US:BIA
-16286054	Coconino County Road 505	road	US:AZ:Coconino
-16331318	Línea TC	tracks	
-16389010	County Road 131	road	US:AZ:Mohave
-16389947	Antelope Wash Evacuation Route	evacuation	
-16463442	FUTS	foot	
-17015417	Delaney-Colorado River	power	
-17053689	ARZC Trackage Rights in BNSF Phoenix Subdivision	railway	
-17302032	Liberty Avenue Bicycle Boulevard	bicycle	lcn
-17352454	DFLT Seitts	hiking	lwn
-17408085	North Beardsley Canal Road	road	
-17733408	Pima West Loop Trail	hiking	
-17750993	Campus Trail	hiking	
-17866241	Highly Falkner shared-use path	bicycle	lcn
-17918256	Indian Route 8070	road	
-17927557	Jayden's Impossible Garden	foot	lwn
-17973922	Dove Valley Park Walking Path	foot	lwn
-17973923	Deer Valley Park Walking Path	foot	lwn
-17973924	Paseo Highlands Park Walking Path	foot	lwn
-17973925	Deem Hills Park Walking Path	foot	lwn
-17973926	Tramonto Park Walking Path	foot	lwn
-17974083	Cashman Park Walking Path	foot	lwn
-17974084	John W. Teets Park Walking Path	foot	lwn
-17974085	Dynamite Park Walking Path	foot	lwn
-17974086	Desert Broom Park Walking Path	foot	lwn
-17974087	Desert Willow Park Walking Path	foot	lwn
-17977413	Rose Mofford Sports Complex Walking Path	foot	lwn
-17977414	North Mountain Park Walking Path	foot	lwn
-17977415	Cholla Cove Park Walking Path	foot	lwn
-17977416		foot	lwn
-17977801	Steele Indian School Park Walking Path	foot	lwn
-17977802		foot	lwn
-17977803	Maryvale Park Walking Path	foot	lwn
-17977804	La Pradera Park Walking Path	foot	lwn
-17977805	Washington Park Walking Path	foot	lwn
-17977806	Granada Park Walking Path	foot	lwn
-17977807	Sumida Park Walking Path	foot	lwn
-17977821	Los Olivos Park Walking Path	foot	lwn
-17981481	Rio Salado Habitat Restoration Area Walking Path	foot	lwn
-17981482	Santa Maria Park Walking Path	foot	lwn
-17981483	Desert West Park Walking Path	foot	lwn
-17981484	Encanto Park Walking Path	foot	lwn
-17981485	Perry Park Walking Path	foot	lwn
-17981486	Papago Park Walking Path	foot	lwn
-17981666	Mountain Vista Park Walking Path	foot	lwn
-17981667	Western Star Park Walking Path	foot	lwn
-17981668	Hermoso Park Walking Path	foot	lwn
-17981669	El Reposo Park Walking Path	foot	lwn
-17981670	El Prado Park Walking Path	foot	lwn
-17981671	Cesar Chavez Park Walking Path	foot	lwn
-17981672	Laveen Village Park Walking Path	foot	lwn
-17981673	Manzanita Park Walking Path	foot	lwn
-17981674	Playa Margarita Park Walking Path	foot	lwn
-17981675	Grant Park Walking Path	foot	lwn
-17981676	Verde Park Walking Path	foot	lwn
-17981677	Eastlake Park Walking Park	foot	lwn
-17984168	Pecos Park Walking Path	foot	lwn
-17984169	Vista Canyon Park Walking Path	foot	lwn
-17984170	Sun Ray Park Walking Path	foot	lwn
-18150534	Sky Harbor Fitness Trail	running	
-18313422	Sonoqui Wash Trail	bicycle	lcn
-18438919	Barbershop Trail	hiking	lwn
-18505892	Arizona Trail Pusch Ridge Wilderness Bypass	hiking	
-18557079	King Canyon / Gould Mine Loop	hiking	lwn
-18562659	Pass Mountain Trail	hiking	lwn
-18565855	Douglas Spring Trail	hiking	lwn
-18566278	Three Tank Trail	hiking	lwn
-18566291	Carrillo Trail	hiking	lwn
-18566308	Garwood Trail	hiking	lwn
-18715873		foot	
-18864587	West Pinto Creek Trail	hiking	lwn
-18864588	Reavis Ranch Trail	hiking	lwn
-18864589	Rogers Canyon Trail	hiking	lwn
-18864590	JF Trail	hiking	lwn
-18864591	Woodbury Trail	hiking	lwn
-18864592	Hoolie Bacon Trail	hiking	lwn
-18864593	Red Tanks Trail #107	hiking	lwn
-18864594	Peters Trail	hiking	lwn
-18864595	Cavalry Trail	hiking	lwn
-18864596	Bull Pass Trail	hiking	lwn
-18864597	Second Water Trail	hiking	lwn
-18864598	Black Mesa Trail	hiking	lwn
-18864599	Boulder Canyon Trail	hiking	lwn
-18864600	Grand Enchantment Trail Segment 1: Superstition Wilderness	hiking	
-18864601	Dutchman Trail	hiking	lwn
-18864612	Arizona Trail	horse	nhn
-18864613	Arizona Trail	mtb	ncn
-18864736	Grand Enchantment Trail Segment 2	hiking	
-18864745	Grand Enchantment Trail Segment 3: White Canyon Wilderness	hiking	
-18864746	Legends of Superior Loop Trail	hiking	lwn
-18864749	Grand Enchantment Trail Segment 4: Tortilla Mountains	hiking	
-18864763	Grand Enchantment Trail Segment 5: Antelope Peak	hiking	
-18864810	Grand Enchantment Trail Segment 6: Brandenburg Mountain	hiking	
-18864825	Grand Enchantment Trail Segment 7: Aravaipa Canyon Wilderness	hiking	
-18864844	Grand Enchantment Trail Segment 6 Alternative: Aravaipa Canyon Wilderness Bypass	hiking	
-18864868	Grand Enchantment Trail Segment 7 Alternative: Aravaipa Canyon Bypass North	hiking	
-18864921	Grand Enchantment Trail Alternative 8A	hiking	
-18864922	Grand Enchantment Trail Alternative 8B	hiking	
-18864923	Grand Enchantment Trail Segment 8: Santa Teresa Wilderness	hiking	
-18864933	Grand Enchantment Trail Segment 9: Underwood Canyon	hiking	
-18864995	Grand Enchantment Trail Alternative 10B	hiking	
-18864996	Grand Enchantment Trail Segment 10: Pinaleño Mountains	hiking	
-18864997	Grand Enchantment Trail Alternative 10A	hiking	
-18866152	Grand Enchantment Trail Segment 11: Gila Valley South	hiking	
-18866249	Grand Enchantment Trail Alternative 12	hiking	
-18866250	Grand Enchantment Trail Segment 12: Gila Valley North	hiking	
-18866397	Grand Enchantment Trail Segment 13: Old Safford-Morenci Trail	hiking	
-18866600	Grand Enchantment Trail: Lower Eagle Creek Road Spur	hiking	
-18866601	Grand Enchantment Trail Segment 14: Eagle Creek - Painted Bluffs	hiking	
-18866642	Grand Enchantment Trail Segment 15: Coronado Trail	hiking	
-18866650	Grand Enchantment Trail Alternative 15	hiking	
-18866789	Grand Enchantment Trail Segment 16: Blue River	hiking	
-18866862	Grand Enchantment Trail Segment 17: Maple Peak	hiking	
-18866863	Wild Bunch Trail	hiking	lwn
-18983188	Victoria Mine Trail	hiking	
-19001734	Hugh Norris Big Loop	hiking	lwn
-19020837	Beale Street	road	
-19034647		road	US:I:Future
-19034648		road	US:I:Future
-19034649	Future I-11	road	US:I:Future
-19100780		road	US:AZ
-19119454	Navajo Route 64	road	US:BIA
-19119495	Navajo Route 7	road	US:BIA
-19119540	Navajo Route 27	road	US:BIA
-19136129	Old US 93 (AZ)	road	US:US:Old
-19173922	Canyon Coaster	railway	
-19174298		road	US:US:Future
-19175278	Old US 89A	road	US:US:Historic
-19186931	Future I-40	road	US:I:Future
-19198179	Mohave County Highway 259	road	US:AZ:Mohave
-19198183	Mohave County Route 157	road	US:AZ:Mohave
-19236098	Light Rail A Line Westbound	light_rail	Valley Metro
-19244495	Light Rail B Line Northbound	light_rail	Valley Metro
-19251454	Light Rail B Line Southbound	light_rail	Valley Metro
-19363110	Grand Avenue	road	
-19477456	Bullhead Parkway	road	
-19531245	Juan Bautista de Anza National Historic Trail Auto Tour Route	road	US:NHT
-19639035	Indian Route 131	road	US:BIA
-19639036	Indian Route 56	road	US:BIA
-19639037	Gilbert Road	road	US:BIA
-19639038	Santan Road	road	US:BIA
-19639039		road	US:BIA
-19639040		road	US:BIA
-19639041	Aspen Road	road	US:BIA
-19639042	Maize Road	road	US:BIA
-19639043		road	US:BIA
-19639044	Upper Santan Road	road	US:BIA
-19639045	Sacaton Road	road	US:BIA
-19639046		road	US:BIA
-19639047		road	US:BIA
-19639048		road	US:BIA
-19639049		road	US:BIA
-19639190	Sky Harbor Boulevard	road	
-19699374	Fort Mohave/Bullhead Shuttle	bus	Needles Area Transit
-19787432	The Buttes FR 893	road	
-19787433	Hellsgate Trail #37	hiking	
-19857000	Pipeline Canyon Trail	hiking	
-19857197	Yavapai Point Trail	hiking	
-19857198	Cottonwood	hiking	
-19868800	Golden Gate Mountain Loop	hiking	lwn
-19895187	SR 85 Gila Bend East Bypass	road	
-19902376	SunZia Transmission	power	
-19972845	Cottonwood Road	road	US:AZ:Mohave
-20012137	Town of Prescott Valley Bicycle Route 1 {ToPVBR1}	bicycle	lcn
-20020393	Prescott Valley Multiuse Pathway MP-2	bicycle	
-20043274	City of Prescott Bicycle Route 1 {CoPBr1}	bicycle	lcn
-20043723			
-20046544	Montezuma Promenade	foot	lwn
-20046583	City of Prescott Pedestrian and Promenade Network 1 {CoPPPN1}	foot	lwn
-20054496	Pbr1 n1	bicycle	
-20054497	PBr1 N2	bicycle	lcn
-20054498		bicycle	lcn
-20054499	Pbr1N4	bicycle	
-20054500		bicycle	lcn
-20085037	Town of Prescott Valley Bicycle Route 2 {ToPVBR2}	bicycle	lcn
-20086484	Navajo Route 5113	road	US:BIA
-20086498		road	US:BIA
-20115040		road	
-20124868	Hopi Route 18	road	US:Hopi
-20124869	Hopi Route 17	road	US:Hopi
-20124870	Navajo Route 4	road	US:BIA
-20124872	Hopi Route 4	road	US:Hopi
-20124873	Indian Route 43	road	US:BIA
-20124988	Navajo Route 8064	road	US:BIA
-20124989	Indian Route 42	road	US:BIA
-20127066		road	US:US:Old
-20128546	Central Boulevard	road	
-20137090	Arizona State Route 77	road	US:AZ
-20180090	Gateway Freeway	road	US:AZ
-20180091	Gateway Freeway	road	US:AZ
-20206559		road	US:I:Express
+@id	network	ref	direction	name	route
+149176	US:I	8	east		road
+149178	US:I	8	west		road
+168470	US:I	17	south		road
+168471	US:I	17	north		road
+168841	US:I	19	south		road
+168842	US:I	19	north		road
+271767	US:US	70			road
+297142	Amtrak	Sunset Limited		Amtrak Sunset Limited: New Orleans => Los Angeles	train
+337352	US:I	40	west		road
+904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+1023471	lcn	MT		Mountain Avenue	bicycle
+1023472	lcn	Rillito		Rillito River Path	bicycle
+1023510	lcn			Bear Down Bikeway	bicycle
+1023511	lcn			Highland	bicycle
+1023555	lcn			University	bicycle
+1023567	lcn			4th Avenue Bicycle Boulevard	bicycle
+1023596	lcn	4 - 3rd Street/University Boulevard		3rd St Bicycle Boulevard	bicycle
+1023625	lcn			Treat	bicycle
+1023652	lcn			Tucson	bicycle
+1023653	lcn			Columbus Boulevard	bicycle
+1320650	US:NHS High Priority Corridors				road
+1453756				Seligman Subdivision	railway
+1453757				Gallup Subdivision	railway
+1453787				Phoenix Subdivision	railway
+1483097	US:NM	53			road
+1492992	US:AZ	101			road
+1492993	US:AZ	303			road
+1493241	US:AZ	64		AZ 64	road
+1493242	US:AZ	61		AZ 61	road
+1493243	US:AZ	68		Bullhead City–Kingman Highway	road
+1493244	US:AZ	66		AZ 66	road
+1493245	US:AZ	67		AZ 67	road
+1501139	US:AZ	73		AZ 73	road
+1501140	US:AZ	71		AZ 71	road
+1501141	US:AZ	74		AZ 74	road
+1501142	US:AZ	72		Junction State Route 95–Hope Highway	road
+1501143	US:AZ	69		AZ 69	road
+1501157	US:AZ	77		AZ 77	road
+1501158	US:AZ	75		AZ 75	road
+1501164	US:AZ	78		AZ 78	road
+1501166	US:AZ	80		AZ 80	road
+1501187	US:AZ	83		AZ 83	road
+1501188	US:AZ	84		AZ 84	road
+1501195	US:AZ	85		AZ 85	road
+1501206	US:AZ	86		AZ 86	road
+1501310	US:AZ	87		State Route 87	road
+1501387	US:AZ	88		AZ 88	road
+1501388	US:AZ	89		AZ 89	road
+1501389	US:AZ	89A		AZ 89A	road
+1501738	US:AZ	90		AZ 90	road
+1501739	US:AZ	92		AZ 92	road
+1501935	US:AZ	95		AZ 95	road
+1501955	US:AZ	96		AZ 96	road
+1501956	US:AZ	97			road
+1501988	US:AZ	98		AZ 98	road
+1501989	US:AZ	99		AZ 99	road
+1502005	US:AZ	169		AZ 169	road
+1502009	US:AZ	177		AZ 177	road
+1502062	US:AZ	179		AZ 179	road
+1502063	US:AZ	186		AZ 186	road
+1502064	US:AZ	188		AZ 188	road
+1502065	US:AZ	189		AZ 189	road
+1502066	US:AZ	181		AZ 181	road
+1502067	US:AZ	195		Robert A. Vaughan Expressway	road
+1502470	US:AZ	587	northbound;southbound	AZ 587	road
+1502471	US:AZ	238		AZ 238	road
+1502472	US:AZ	273		AZ 273	road
+1502473	US:AZ	261		AZ 261	road
+1502474	US:AZ	387		AZ 387	road
+1502475	US:AZ	373			road
+1502476	US:AZ	389		State Route 389	road
+1502477	US:AZ	180A		AZ 180A	road
+1502478	US:AZ	288		AZ 288	road
+1502479	US:AZ	264		AZ 264	road
+1502480	US:AZ	564		AZ 564	road
+1502481	US:AZ	266		AZ 266	road
+1502482	US:AZ	287		AZ 287	road
+1502483	US:AZ:Business	79		AZ 79 Business	road
+1502484	US:AZ	347		AZ 347	road
+1502485	US:AZ	473		AZ 473	road
+1502486	US:AZ	260		AZ 260	road
+1502487	US:AZ	377		AZ 377	road
+1502488	US:AZ	286		AZ 286	road
+1502489	US:AZ	386		AZ 386	road
+1502490	US:AZ:Truck	95		"AZ 95 Truck (Parker, AZ)"	road
+1502491	US:AZ	210		AZ 210	road
+1502492	US:AZ:Spur	95S		"AZ 95S Spur (Parker, AZ)"	road
+1502493	US:AZ:Spur	266		AZ 266 Spur	road
+1502494	US:AZ	366		AZ 366	road
+1502495	US:AZ	277		AZ 277	road
+1502496	US:AZ	289		AZ 289	road
+1502522	US:AZ	187		AZ 187	road
+1502523	US:AZ	143		Hohokam Expressway	road
+1628560	US:US	180			road
+1796336	US:US:Historic	66			road
+1869156				"Former US 95 Truck (San Luis, AZ)"	road
+1933521	US:I:Business:Loop	10		"I 10 Business (Benson, AZ)"	road
+1933522	US:I:Business:Loop	10		"I 10 Business (Bowie, AZ)"	road
+1933523	US:I:Business:Loop	10		"I 10 Business (Quartzsite, AZ)"	road
+1933524	US:I:Business:Loop	10		"I 10 Business (San Simon, AZ)"	road
+1933525	US:I:Business:Loop	10		"I 10 Business (Willcox, AZ)"	road
+1933527	US:I:Business:Loop	19		"I 19 Business (Nogales, AZ)"	road
+1933528	US:I:Business:Loop	40		"I 40 Business (Ash Fork, AZ)"	road
+1933529	US:I:Business:Loop	40		"I 40 Business (Flagstaff, AZ)"	road
+1933530	US:I:Business:Loop	40		"I 40 Business (Holbrook, AZ)"	road
+1933531	US:I:Business:Loop	40		"I 40 Business (Joseph City, AZ)"	road
+1933532	US:I:Business:Loop	40		"I 40 Business (Seligman, AZ)"	road
+1933533	US:I:Business:Loop	40		"I 40 Business (Williams, AZ)"	road
+1933535	US:I:Business:Loop	40		"I 40 Business (Winslow, AZ)"	road
+1933536	US:I:Business:Loop	8		"I 8 Business (Gila Bend, AZ)"	road
+1933537	US:I:Business:Loop	8		"I 8 Business (Yuma, AZ)"	road
+1933538	US:US:Business	191			road
+1933539	US:US:Alternate	89A			road
+2306244	US:US	89			road
+2306246	US:US	89			road
+2306277	US:US	191			road
+2306490	US:US	95			road
+2310324	US:US	60			road
+2317123	US:I	15	south		road
+2319876					road
+2319897	US:NHS High Priority Corridors			STRAHNET route: Phoenix - Las Vegas	road
+2334045	US:I	15	north		road
+2334046	US:I	15	south		road
+2400426	Shuttle Bus			Eagle and Guano Points	bus
+2400427	Shuttle Bus			Ranch Bus	bus
+2532527				Murray Springs Clovis Site Trail	hiking
+2533813	rwn			San Pedro Trail	hiking
+2577999				Hummingbird Spring Trail	hiking
+2713355				Black Mesa and Lake Powell Railroad	railway
+2751722				Leslie Canyon Road	road
+2804113	nwn	AZT		Arizona Trail	hiking
+2805662	lwn	Fisher Point Trail		Fisher Point Trail	hiking
+2808849				Former US 80 (AZ 1951)	road
+2810627	lwn	KMT		Kendrick Mountain Trail	hiking
+2810663	lwn	KPPT		Pumpkin Trail #39	hiking
+2811171		FSMT		Flagstaff Sedona MTB Trail	mtb
+2813150	lwn	FUTS		Flagstaff Urban Trail System	foot
+2813151	lwn	KCT		Karen Cooper Trail	hiking
+2816419	lwn	FATL		Fatman's Loop	hiking
+2816581	lwn	FONT		Forces of Nature Trail	hiking
+2816582	lwn	PIPT		Pipeline Trail	hiking
+2818062	lwn	ELT		Elden Lookout Trail	hiking
+2818582	lwn	BROOK		Brookbank Trail	hiking
+2818583	lwn	RRT		Rocky Ridge Trail	hiking
+2818584	lwn	SCT		Schultz Creek Trail	hiking
+2818585	lwn	SUN		Sunset Trail	hiking
+2818591	lwn	HEART		Heart Trail	hiking
+2818608	lwn	DONT		Doney Trail	hiking
+2818742	lwn	OLDT		Oldham Trail	hiking
+2818743	lwn	SST		Sandy Seep Trail	hiking
+2820007	lwn	LET		Little Elden Trail	hiking
+2820265	lwn	IBT		Inner Basin Trail #29	hiking
+2836180	US:NFSR:Coconino:NF	3		National Forest Highway 3	road
+2836292	US:AZ:Coconino	209			road
+2836546	rwn	TONT		Tonto Trail	hiking
+2836717	lwn	NHT		New Hance Trail	hiking
+2836726	lwn	ESCR		Escalante Route	hiking
+2836727	lwn	TANT		Tanner Trail	hiking
+2836774	lwn	BEAMT		Beamer Trail	hiking
+2836789	lwn	NKT		North Kaibab Trail	hiking
+2836796	lwn	SKT		South Kaibab Trail	hiking
+2836803	lwn	BAT		Bright Angel Trail	hiking
+2836804	lwn	RIVT		River Trail	hiking
+2836817	lwn	BOUT		Boucher Trail	hiking
+2836830	lwn	DRIPT		Dripping Springs Trail	hiking
+2836831	lwn	HERMT		Hermit Trail	hiking
+2836832	lwn	WALT		Waldron Trail	hiking
+2837423	lwn	PPT		Plateau Point Trail	hiking
+2837455	lwn	CCT		Clear Creek Trail	hiking
+2837621	lwn	GVT		Grandview Trail	hiking
+2837839	lwn	NKWT		Nankoweap Trail	hiking
+2838401	lwn	CFT		Cape Final Trail	hiking
+2838417	lwn	WIDT		Widforss Trail	hiking
+2838517	lwn	RAR		Royal Arch Route	hiking
+2838553	lwn	SBT		South Bass Trail	hiking
+2841710	lwn	BHT		Bill Hall Trail	hiking
+2841711	lwn	TRT		Thunder River Trail	hiking
+2841723	lwn	UJT		Uncle Jim Trail	hiking
+2844955	lwn	LFT		Lava Falls Trail	hiking
+2845631	lwn	NBT		North Bass Trail	hiking
+2845734	lwn			Ken Patrick Trail	hiking
+2846307	lwn	CST		Cliff Spring Trail	hiking
+2846327	lwn	CRT		Cape Royal Trail	hiking
+2856231	lwn			Deer Creek Trail	hiking
+2856431	lwn	RIMT		Rim Trail	hiking
+2887886		257		Bootlegger Trail #257	hiking
+2887887		259		Rock Creek Trail #259	hiking
+3112955		LemDrop		Lemmon Drop	mtb
+3112982		50Yr		50 Year Trail	mtb
+3112983		Chutes		The Chutes	mtb
+3113036	rcn	Loop		The Loop	bicycle
+3184949	Sun Tran	1		Sun Tran Route 1 Glenn/Swan (eastbound)	bus
+3184990	Sun Tran	1		Sun Tran Route 1 Glenn/Swan (westbound)	bus
+3185366	Sun Tran	34		Sun Tran Route 34 Craycroft/Fort Lowell (southbound)	bus
+3185375	Sun Tran	34		Sun Tran Route 34 Craycroft/Fort Lowell (northbound)	bus
+3186360	Sun Tran	15 SB		Sun Tran Route 15 Campbell (southbound to Banner UMC South campus )	bus
+3186361	Sun Tran	15 NB		Sun Tran Route 15 Campbell (northbound from Tucson Marketplace)	bus
+3186490	Sun Tran	17		Sun Tran Route 17(County Club/Golf Links to Broadway houghton Park and Ride	bus
+3186491	Sun Tran	17		Sun Tran Route 17 (County Club/Golf Links to Tohono Tadai Transit Center	bus
+3188174	Sun Tran	3 EB		Route 3 6th St./Wilmot {Eastbound)	bus
+3188198	Sun Tran	3 WB		Route 3 6th St./Wilmot (westbound)	bus
+3193517	Sun Tran	5		Sun Tran Route 5 Pima/West Speedway (westbound)	bus
+3193520	Sun Tran	5		Sun Tran Route 5 Pima/West Speedway (east bound)	bus
+3193551	Sun Tran	7 EB		Sun Tran Route 7 22nd Street (eastbound)	bus
+3193566	Sun Tran	7 WB		Sun Tran Route 7 22nd Street (westbound)	bus
+3296063	rwn	SKIT		Sky Islands Traverse	hiking
+3311172	Sun Tran	6		Sun Tran Route 6 Euclid/North 1st Avenue (southbound)	bus
+3311173	Sun Tran	25 SB		Sun Tran Route 25 South Park Avenue (southbound)	bus
+3311182	Sun Tran	6		Sun Tran Route 6 Euclid/North 1st Avenue (northbound)	bus
+3311183	Sun Tran	25 NB		Sun Tran Route 25 South Park Avenue (northbound)	bus
+3332620	US:I	10	east		road
+3332621	US:I	10	west		road
+3354988				Clifton Subdivision	railway
+3389896	Sun Tran	37 NB		Sun Tran Route 37 Pantano (northbound)	bus
+3389897	Sun Tran	37 SB		Sun Tran Route 37 Pantano (southbound)	bus
+3421285				County Road 11	road
+3421286				Indian Route 8	road
+3545805	lcn			Santa Cruz River Park	bicycle
+3547016				River Rd	bicycle
+3547041				Campbell Ave	bicycle
+3547811				Ina/Skyline/Sunrise	bicycle
+3547813				Sabino Canyon	bicycle
+3547830				Craycroft	bicycle
+3725161	US:BIA	12		Navajo Route 12	road
+3726635				Apache Pass Road	road
+3888618		1		Westside	bus
+3920972	Sun Tran	Sun Link		Sun Link: Helen & Warren → Convento & Congress	tram
+3944662	lcn			City of Yuma Bike Lanes	bicycle
+4020964	rwn	MT		Maricopa Trail	hiking
+4020970	rcn	SCT		Sun Circle Trail	bicycle
+4188405	rwn	HT 31		Highline Trail #31	hiking
+4191942	rwn	PCT 26		Pine Canyon Trail #26	hiking
+4195832	lwn	DT 33		Derrick Trail #33	hiking
+4195833	lwn	HCT 285		Horton Creek Trail #285	hiking
+4195884	lwn	BHT 143		Babe Haught Trail #143	hiking
+4195885	lwn	HST 292		Horton Springs Trail #292	hiking
+4195890	lwn	DT 291		Drew Trail #291	hiking
+4195891	lwn	505		Meadow Trail 505	hiking
+4195935	lwn	622		Rim Lakes Vista Trail #622	hiking
+4195936	lwn	SCT 184		See Canyon Trail #184	hiking
+4195937	lwn	SST 185		See Spring Trail #185	hiking
+4199035	lwn	HST151		Humphreys Summit Trail #151	hiking
+4199036	lwn	KT 150		Kachina Trail #150	hiking
+4199037	lwn	WT 102		Weatherford Trail #102	hiking
+4200321	lwn	ANL		Aspen Nature Loop	hiking
+4427429				Apache Railway	railway
+4434625	US:AZ:Spur	277		AZ 277 Spur	road
+4447508	rwn			Mazatzal Divide Trail #23	hiking
+4457710	lwn			Brown's Peak Trail	hiking
+4457908	lwn			Pigeon Trail #134	hiking
+4458015	lwn			Amethyst Mine Trail	hiking
+4458175	lwn			Shake Tree Trail # 44	hiking
+4469768	lwn	OBAT		Old Bright Angel Trail	hiking
+4478482	lwn			Peralta Trail #102	hiking
+4483366	lwn			Bluff Spring Trail #235	hiking
+4483373	lwn			Four Peaks Trail #130	hiking
+4483570	lwn			Siphon Draw Trail #53	hiking
+4483593	lwn	58		Jacob's Crosscut	hiking
+4483601	lwn			Hieroglyphics Trail #101	hiking
+4483608	lwn			Prospectors Trail #57	hiking
+4483609	lwn	56		Treasure Loop	hiking
+4483838	lwn			Cave Trail #233	hiking
+4483853	lwn			Terrapin Trail #234	hiking
+4485205				Yuma Subdivision	railway
+4485206	nwn	GET		Grand Enchantment Trail	hiking
+4485386	lwn			Picketpost Mountain Summit Trail	hiking
+4492465	lwn			Spencer Trail	hiking
+4498657	Valley Metro	0 NB		Bus 0 - Central Avenue Northbound	bus
+4498658	Valley Metro	0 SB		Bus 0 - Central Avenue Southbound	bus
+4498930	Valley Metro	39 NB	north	bus 39 NB	bus
+4498931	Valley Metro	39 SB	south	bus 39 SB	bus
+4498932	Valley Metro	70 WB	west	bus 70 WB	bus
+4498933	Valley Metro	70 EB	east	bus 70 EB	bus
+4499137	Valley Metro	1 EB		Bus 1 - Washington Street Eastbound	bus
+4499138	Valley Metro	1 WB		Bus 1 - Washington Street Westbound	bus
+4499139	Valley Metro	10 EB		bus 10 EB	bus
+4499140	Valley Metro	104 NB	north	Bus 104 NB	bus
+4499141	Valley Metro	104 SB	south	Bus 104 SB	bus
+4499142	Valley Metro	106 EB		bus 106 EB	bus
+4499143	Valley Metro	106 WB		bus 106 WB	bus
+4499144	Valley Metro	108 EB	east	bus 108 EB	bus
+4499145	Valley Metro	108 WB	west	bus 108 WB	bus
+4499146	Valley Metro	112 NB	north	bus 112 NB	bus
+4499147	Valley Metro	112 SB	south	bus 112 SB	bus
+4499148	Valley Metro	12 NB		bus 12 NB	bus
+4499149	Valley Metro	12 SB		bus 12 SB	bus
+4499150	Valley Metro	120 NB	north	bus 120 NB	bus
+4499151	Valley Metro	120 SB	south	bus 120 SB	bus
+4499152	Valley Metro	122 EB		bus 122 EB	bus
+4499153	Valley Metro	122 WB		bus 122 WB	bus
+4499154	Valley Metro	128 NB	north	bus 128 NB	bus
+4499155	Valley Metro	128 SB	south	bus 128 SB	bus
+4499156	Valley Metro	13 EB	east	bus 13 EB	bus
+4499157	Valley Metro	13 WB	west	bus 13 WB	bus
+4499158	Valley Metro	136 NB	north	bus 136 NB	bus
+4499159	Valley Metro	136 SB	south	bus 136 SB	bus
+4499160	Valley Metro	138 EB	east	bus 138 EB	bus
+4499161	Valley Metro	138 WB	west	bus 138 WB	bus
+4499162	Valley Metro	15 NB	north	bus 15 NB	bus
+4499163	Valley Metro	15 SB	south	bus 15 SB	bus
+4499164	Valley Metro	154 EB	east	bus 154 EB	bus
+4499165	Valley Metro	154 WB	west	bus 154 WB	bus
+4499166	Valley Metro	156 EB	east	bus 156 EB	bus
+4499167	Valley Metro	156 WB	west	bus 156 WB	bus
+4499168	Valley Metro	16 NB	north	bus 16 NB	bus
+4499169	Valley Metro	16 SB	south	bus 16 SB	bus
+4499170	Valley Metro	17 EB	east	bus 17 EB	bus
+4499171	Valley Metro	17 WB	west	bus 17 WB	bus
+4499172	Valley Metro	170 EB		bus 170 EB	bus
+4499173	Valley Metro	170 WB		bus 170 WB	bus
+4499174	Valley Metro	184 NB	north	bus 184 NB	bus
+4499175	Valley Metro	184 SB	south	bus 184 SB	bus
+4499176	Valley Metro	186 EB	east	bus 186 EB	bus
+4499177	Valley Metro	186 WB	west	bus 186 WB	bus
+4499178	Valley Metro	19 NB	north	bus 19 NB	bus
+4499179	Valley Metro	19 SB	south	bus 19 SB	bus
+4499180	Valley Metro	SMWR IB		bus SMW Rapid IB	bus
+4499181	Valley Metro	SMWR SB		bus SMW Rapid OB	bus
+4499182	Valley Metro	27 NB	north	bus 27 NB	bus
+4499183	Valley Metro	27 SB	south	bus 27 SB	bus
+4499184	Valley Metro	28 EB	east	bus 28 EB	bus
+4499185	Valley Metro	28 WB	west	bus 28 WB	bus
+4499186	Valley Metro	29 EB	east	bus 29 EB	bus
+4499187	Valley Metro	29 WB	west	bus 29 WB	bus
+4499188	Valley Metro	3 EB	east	Bus 3 - Van Buren Eastbound	bus
+4499189	Valley Metro	3 WB	west	Bus 3 - Van Buren Westbound	bus
+4499190	Valley Metro	30 WB	west	bus 30 WB	bus
+4499191	Valley Metro	30 EB	east	bus 30 EB	bus
+4499192	Valley Metro	35 NB	north	bus 35 NB	bus
+4499193	Valley Metro	35 SB	south	bus 35 SB	bus
+4499194	Valley Metro	40 EB	east	bus 40 EB	bus
+4499195	Valley Metro	40 WB	west	bus 40 WB	bus
+4499196	Valley Metro	41 EB	east	bus 41 EB	bus
+4499197	Valley Metro	41 WB	west	bus 41 WB	bus
+4499198	Valley Metro	43 NB	north	bus 43 NB	bus
+4499199	Valley Metro	43 SB	south	bus 43 SB	bus
+4499200	Valley Metro	44 NB	north	bus 44 NB	bus
+4499201	Valley Metro	44 SB	south	bus 44 SB	bus
+4499202	Valley Metro	45 EB	east	bus 45 EB	bus
+4499203	Valley Metro	45 WB	west	bus 45 WB	bus
+4499204	Valley Metro	48 NB		bus 48 NB	bus
+4499205	Valley Metro	48 SB		bus 48 SB	bus
+4499206	Valley Metro	50 EB	east	bus 50 EB	bus
+4499207	Valley Metro	50 WB	west	bus 50 WB	bus
+4499208	Valley Metro	51 NB	north	bus 51 NB	bus
+4499209	Valley Metro	51 SB	south	bus 51 SB	bus
+4499210	Valley Metro	52 EB		bus 52 EB	bus
+4499211	Valley Metro	52 WB		bus 52 WB	bus
+4499213	Valley Metro	56 NB		bus 56 NB	bus
+4499215	Valley Metro	56 SB		bus 56 SB	bus
+4499218	Valley Metro	59 NB	north	bus 59 NB	bus
+4499219	Valley Metro	59 SB	south	bus 59 SB	bus
+4499220	Valley Metro	61 EB	east	bus 61 EB	bus
+4499221	Valley Metro	61 WB	west	bus 61 WB	bus
+4499222	Valley Metro	62 NB	north	bus 62 NB	bus
+4499223	Valley Metro	62 SB	south	bus 62 SB	bus
+4499224	Valley Metro	65 NB		bus 65 NB	bus
+4499225	Valley Metro	65 SB		bus 65 SB	bus
+4499226	Valley Metro	66 NB		bus 66 NB	bus
+4499227	Valley Metro	66 SB		bus 66 SB	bus
+4499228	Valley Metro	67 NB		bus 67 NB	bus
+4499229	Valley Metro	67 SB	south	bus 67 SB	bus
+4499230	Valley Metro	7 SB	south	bus 7 SB	bus
+4499231	Valley Metro	7 NB	north	bus 7 NB	bus
+4499232	Valley Metro	72 NB	north	bus 72 NB	bus
+4499233	Valley Metro	72 SB	south	bus 72 SB	bus
+4499234	Valley Metro	75 NB	north	bus 75 NB	bus
+4499235	Valley Metro	75 SB	south	bus 75 SB	bus
+4499236	Valley Metro	77 EB	east	bus 77 EB	bus
+4499237	Valley Metro	77 WB	west	bus 77 WB	bus
+4499238	Valley Metro	8	north	7th Avenue	bus
+4499239	Valley Metro	8 SB	south	bus 8 SB	bus
+4499240	Valley Metro	80 EB		bus 80 EB	bus
+4499241	Valley Metro	80 WB	west	bus 80 WB	bus
+4499242	Valley Metro	81 NB	north	bus 81 NB	bus
+4499243	Valley Metro	81 SB	south	bus 81 SB	bus
+4499244	Valley Metro	83 NB		bus 83 NB	bus
+4499245	Valley Metro	83 SB		bus 83 SB	bus
+4499246	Valley Metro	90 EB	east	bus 90 EB	bus
+4499247	Valley Metro	90 WB	west	bus 90 WB	bus
+4499248	Valley Metro	96 NB	north	bus 96 NB	bus
+4499249	Valley Metro	96 SB	south	bus 96 SB	bus
+4499250	Valley Metro	10 WB		bus 10 WB	bus
+4499251	Valley Metro	60 EB	east	bus 60 EB	bus
+4499252	Valley Metro	60 WB	west	bus 60 WB	bus
+4499553	Valley Metro	PST		PHX Sky Train WB	tram
+4499554	Valley Metro	PST		PHX Sky Train EB	tram
+4512960				Arizona & California Railroad	railway
+4538094	Valley Metro	562 IB		bus 562 Express IB	bus
+4538095	Valley Metro	562 OB		bus 562 Express OB	bus
+4538105	Valley Metro	563 IB		bus 563 Express IB	bus
+4538106	Valley Metro	563 OB		bus 563 Express OB	bus
+4538136	Valley Metro	573 IB		bus 573 Express IB	bus
+4538137	Valley Metro	573 OB		bus 573 Express OB	bus
+4547782	Valley Metro	SR 51 IB		bus SR 51 Rapid IB	bus
+4547783	Valley Metro	SR 51 OB		bus SR 51 Rapid OB	bus
+4548046	Valley Metro	GAL EB		bus GAL EB	bus
+4548047	Valley Metro	GAL WB		bus GAL WB	bus
+4554043	Valley Metro	514 IB		bus 514 Express IB	bus
+4554044	Valley Metro	514 OB		bus 514 Express OB	bus
+4554047	Valley Metro	521 IB		bus 521 Express IB	bus
+4554048	Valley Metro	521 OB		bus 521 Express OB	bus
+4554049	Valley Metro	522 IB		bus 522 Express IB	bus
+4554050	Valley Metro	522 OB		bus 522 Express OB	bus
+4554051	Valley Metro	531 IB		bus 531 Express IB	bus
+4554052	Valley Metro	531 OB		bus 531 Express OB	bus
+4554053	Valley Metro	533 IB		bus 533 Express IB	bus
+4554054	Valley Metro	533 OB		bus 533 Express OB	bus
+4554055	Valley Metro	535 IB		bus 535 Express IB	bus
+4554056	Valley Metro	535 OB		bus 535 Express OB	bus
+4554059	Valley Metro	542 IB		bus 542 Express IB	bus
+4554060	Valley Metro	542 OB		bus 542 Express OB	bus
+4670720	lwn			Bug Springs Trail	hiking
+4670721	lwn			Italian Spring Trail #95	hiking
+4670732	lwn			Bellota Trail #15	hiking
+4673773				Southern Transcon	railway
+4681197	US:AZ:Business			AZ 40 Business	road
+4681221	US:I:Business:Spur	40		"I 40 Business Spur (Winslow, AZ)"	road
+4681322	US:AZ:Business			State Business Route 8	road
+4681384	US:CR	Northern Parkway		Northern Parkway	road
+4681385	US:AZ:Loop	303		AZ 303 Loop (North)	road
+4682079				Historic US 80 Marsh Station Loop	road
+4683397				Tucson Cloverleaf Circa 1958	road
+4683731	US:US	163			road
+4683741	US:US	160		Navajo Trail	road
+4717133	rwn			Prescott Circle Trail	hiking
+4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4740475				Apache Railway (Snowflake - McNary - Maverick section)	railway
+4772591				Former US 80 (AZ 1927)	road
+4848173	lwn			Bear Flat Trail #178	hiking
+4848941	lwn	270B		Crest Trail #270B	hiking
+4848942	lwn	221		Monte Vista Trail #221	hiking
+4848943	lwn	228		Rasberry Ridge Trail #228	hiking
+4848944	lwn	222		Rucker Trail #222	hiking
+4848945	lwn	219		Turtle Mountain Trail #219	hiking
+4848970	lwn	225		Baker Canyon Trail #225	hiking
+4848971	lwn	270C		Crest Trail #270C	hiking
+4848972	lwn	224		Price Canyon Trail #224	hiking
+4848973	lwn	223		Red Rock Canyon Trail #223	hiking
+4848974	lwn			Sentinel Peak Trail	hiking
+4848975	lwn	243		South Fork Trail #243	hiking
+4848998	lwn	366		Burnt Stump Trail #366	hiking
+4848999	lwn	282		Horseshoe Ridge Trail #282	hiking
+4849000	lwn	365		Jones Ridge Trail #365	hiking
+4849007	lwn	246		Snowshed Trail #246	hiking
+4849012	lwn	240		Burro Trail #240	hiking
+5509062	ncn	90		90 (Arizona)	bicycle
+5519054	lcn	MS 3		Mesa Route 3	bicycle
+5541148	lcn	MS 1		Mesa Route 1	bicycle
+5541149	lcn	MS 2		Mesa Route 2	bicycle
+5541150	lcn	MS 4		Mesa Route 4	bicycle
+5541151	lcn	MS 5		Mesa Route 5	bicycle
+5541152	lcn	MS 6		Mesa Route 6	bicycle
+5748291					power
+5748294					power
+5749444				Navajo Sub APSC to Moenkopi Sub APSC 500KV	power
+5749445					power
+5749446					power
+5749447				Moenkopi Sub APSC to Four Corners Sub APSC 500KV	power
+5749448				Navajo Sub APSC to Morgan Sub APSC 500KV	power
+5749449					power
+5749451					power
+5749453					power
+5749454					power
+5749456					power
+5749457					power
+5749458					power
+5749459					power
+5749460					power
+5749461				Moenkopi Sub APSC to Eldorado Sub SCE 500KV	power
+5749462					power
+5749532					power
+5749533					power
+5749751					power
+5749752					power
+5749753					power
+5749754					power
+5749755					power
+5749756					power
+5749757					power
+5749758					power
+5749805					power
+5749806					power
+5749807					power
+5749808					power
+5749840					power
+5749841					power
+5753918					power
+5753919					power
+5753920					power
+5753921					power
+5753923					power
+5753925					power
+5753960					power
+5753961					power
+5753962					power
+5753963					power
+5753964					power
+5754058					power
+5754102					power
+5754103					power
+5754104					power
+5754135					power
+5754136					power
+5754208					power
+5754209					power
+5754368					power
+5754369					power
+5754480					power
+5754481					power
+5754482					power
+5754483					power
+5754484					power
+5754485					power
+5754486					power
+5754568					power
+5754569					power
+5754661					power
+5754662					power
+5754663					power
+5754664					power
+5754712					power
+5754713					power
+5754714					power
+5754715					power
+5754716					power
+5754743					power
+5754744					power
+5755122					power
+5755124					power
+5755133					power
+5755156					power
+5755157					power
+5755610					power
+5755611					power
+5756394					power
+5756395					power
+5756409					power
+5756410					power
+5756411					power
+5756412					power
+5756429					power
+5756430					power
+5756431					power
+5756475					power
+5756509					power
+5756510					power
+5756511					power
+5756512					power
+5756513					power
+5756525					power
+5756526					power
+5757000					power
+5757001					power
+5757002					power
+5757003					power
+5757004					power
+5757063					power
+5757064					power
+5757114					power
+5914476	lwn			Summit Trail 300	hiking
+5914477	lwn			Freedom Trail 302	hiking
+5914478	lwn			Nature Trail 304	hiking
+5914479	lwn			Trail 200	hiking
+5936717					power
+5936718					power
+5936719					power
+5936720					power
+5936721					power
+5936722					power
+5936723					power
+5936768					power
+5936769					power
+5936770					power
+5936771					power
+5955752				Hermits Rest Route (East-bound)	bus
+5955753				Hermits Rest Route (West-bound)	bus
+5955754				Kaibab Rim Route (East-bound)	bus
+5955755				Kaibab Rim Route (West-bound)	bus
+5955756				Tusayan Route (North-bound)	bus
+5955757				Tusayan Route (South-bound)	bus
+5955758				Village Route (East-bound)	bus
+5955759				Village Route (West-bound)	bus
+6068155	Valley Metro	571 IB		bus 571 Express IB	bus
+6068156	Valley Metro	571 OB		bus 571 Express OB	bus
+6068157	Valley Metro	575 IB		bus 575 Express IB	bus
+6068158	Valley Metro	575 OB		bus 575 Express OB	bus
+6068159	Valley Metro	SMER IB		bus SME Rapid IB	bus
+6068160	Valley Metro	SMER OB		bus SME Rapid OB	bus
+6068161	Valley Metro	I-10 E IB		bus I-10 East Rapid IB	bus
+6068162	Valley Metro	I-10 E OB		bus I-10 East Rapid OB	bus
+6068163	Valley Metro	I-10 W IB		bus I-10 West Rapid IB	bus
+6068164	Valley Metro	I-10 W OB		bus I-10 West Rapid OB	bus
+6068165	Valley Metro	I-17 IB		bus I-17 Rapid IB	bus
+6068166	Valley Metro	I-17 OB		bus I-17 Rapid OB	bus
+6133848	lcn	EP&SW Greenway		El Paso and Southwestern Greenway	bicycle
+6133869	lcn	Aviation		Aviation Bikeway	bicycle
+6133870	lcn			Jim Glock Bypass	bicycle
+6136418	lcn			Sahuaro Street Bike Boulevard	bicycle
+6136419	lcn			Fontana Avenue Bike Boulevard	bicycle
+6136420	lcn			6th Avenue Bike Boulevard	bicycle
+6136421	lcn			Lester Street Bikeway	bicycle
+6136423	lcn			Park Avenue	bicycle
+6136424	lcn			Olive Road	bicycle
+6145777	lwn			Murry Basin Trail	hiking
+6145778	lwn			Robiinson Hollow Trail	hiking
+6168034	lcn			Cochise Vista Trail	bicycle
+6184370					power
+6196110					road
+6211034				PHX Service Roads	road
+6282228	lcn			Grand Canal Trail	bicycle
+6319026	Valley Metro	32 NB	north	bus 32 NB	bus
+6319027	Valley Metro	32 SB	south	bus 32 SB	bus
+6371049	Valley Metro	685		bus Ajo/Gila Bend to Phoenix IB	bus
+6371050	Valley Metro	685		bus Ajo/Gila Bend to Phoenix OB	bus
+6383158	lwn	107		Carr Peak Trail #107	hiking
+6383159	lwn			Coronado Peak Trail	hiking
+6383160	rwn	103		Crest Trail #103	hiking
+6383161	lwn			Joe's Canyon Trail	hiking
+6383162	lwn	104		Lutz Canyon Trail #104	hiking
+6383163	lwn	106		Miller Canyon Trail #106	hiking
+6383164	lwn	105		Miller Peak Trail #105	hiking
+6383165	lwn			Oversite Canyon Trail #112	hiking
+6383321	lwn			Carr Peak Spur Trail #108	hiking
+6388714	lwn			Bear Canyon Trail #125	hiking
+6388715	lwn	122		Hamburg Trail #122	hiking
+6388716	lwn			Ida Canyon Trail #110	hiking
+6388776	lwn			Chinaman Trail #137	hiking
+6388777	lwn			Walker Canyon Trail	hiking
+6475533	lwn	100		Charles M. Christiansen Trail 100	hiking
+6475534	lwn			Dixie Peak Trail	hiking
+6475535	lwn			Dreamy Draw Nature Trail 220	hiking
+6475536	lwn			L.V. Yates Trail 8	hiking
+6475537	lwn			Perl Charles Trail 1A	hiking
+6475538	lwn			Quartz Ridge Trail 8A	hiking
+6475539	lwn			Ruth Hamilton Trail 8B	hiking
+6475540	lwn			Trail 100B	hiking
+6475541	lwn			Trail 306	hiking
+6475542	lwn			Trail 60	hiking
+6475543	lwn			VOAZ Trail #1B	hiking
+6476187	lwn			Rimview Trail	hiking
+6623604	lwn	120		Devils Bridge #120	hiking
+6623605	lwn	122		Long Canyon #122	hiking
+6623629	lwn	121		Secret Canyon #121	hiking
+6623673	lwn			Vultee Arch Trail #22	hiking
+6623680	lwn	125		Broken Arrow #125	hiking
+6623681	lwn	61		Little Horse #61	hiking
+6623724	lwn	162		Girdner #162	hiking
+6623725	lwn			Schuerman Mountain #56	hiking
+6623726	lwn			Turkey Creek Trail #92	hiking
+6645212	Sun Tran	9		Sun Tran Route 9 Grant (eastbound)	bus
+6645213	Sun Tran	9		Sun Tran Route 9 Grant (westbound)	bus
+6645296	Sun Tran	16 NB		Sun Tran Route 16 Oracle/Ina (northbound)	bus
+6645297	Sun Tran	16 SB		Sun Tran Route 16 Oracle/Ina (southbound)	bus
+6645692				El Paso and Southwestern Railroad (Tucson Remnants)	railroad
+6645717				Old Tucson Mainline	railway
+6725963				Agua Fria Generating Station 2	power
+6730478		GCR		Grand Canyon Railway	train
+6741017	lwn			Desert View Trail	hiking
+6741042	lwn			Palo Verde Trail	hiking
+6741634	lwn			Senita Basin-Red Tanks	hiking
+6741635	lwn			Lost Cabin Mine Trail	hiking
+6741668	lwn			Dripping Springs Trail	hiking
+6741846	lwn			Bull Pasture Trail	hiking
+6741847	lwn			Estes Canyon Trail	hiking
+6741848	lwn			Arch Canyon Trail	hiking
+6741849	lwn			Dripping Springs Mine Trail	hiking
+6769828				Marty Robbins Boulevard	road
+6770048		59		County Highway 59	road
+6775680		259		Forest Road 259	road
+6783819	Valley Metro	DASH WB		bus DASH WB	bus
+6785046	US:US:Old	66		Old US 66	road
+6785930			east	Northern Parkway	road
+6785931			west	Northern Parkway	road
+6786049	US:AZ	51	north	Piestewa Freeway	road
+6786075	US:AZ	51	south	Piestewa Freeway	road
+6786159	US:AZ:Loop	202		AZ 202 Loop (Counterclockwise)	road
+6786718	US:AZ:Loop	202		AZ 202 Loop (Clockwise)	road
+6791956	US:I	40	east		road
+6830177	US:AZ:Yavapai	72		County Road 72	road
+6830178	US:AZ:Yavapai	70		County Route 70	road
+6910620		MLK Blvd		Dr. Martin Luther King Jr. Boulevard	road
+6989801	lwn				foot
+7012094	lwn	108		West Fork #108	hiking
+7012095	lwn			Thomas Point Trail #142	hiking
+7012096	lwn	100		A.B. Young #100	hiking
+7012097	lwn			Telephone Trail #72	hiking
+7012098	lwn	51		Harding Springs Trail #51	hiking
+7012099	rwn	82		Lime Kiln #82	hiking
+7013986	rwn	130		General Crook Trail #130 (Incomplete)	hiking
+7032995	Sun Tran	4		Sun Tran Route 4 Speedway (westbound from Houghton at Broadway)	bus
+7032996	Sun Tran	4		Sun Tran Route 4 Speedway (eastbound to Golf Links at Kolb)	bus
+7032997	Sun Tran	4		Sun Tran Route 4 Speedway (westbound from Golf Links at Kolb)	bus
+7033036	Sun Tran	4		Sun Tran Route 4 Speedway (eastbound to Houghton at Broadway)	bus
+7080298	Sun Tran	8		Sun Tran Route 8 Broadway (westbound from Houghton at Broadway)	bus
+7080299	Sun Tran	8		Sun Tran Route 8 Broadway (eastbound to Houghton at Broadway)	bus
+7080300	Sun Tran	8		Sun Tran Route 8 Broadway (eastbound to Udall Station)	bus
+7080301	Sun Tran	8		Sun Tran Route 8 Broadway (westbound from Udall Station)	bus
+7259260	lwn			Round the Mountain Trail #302	hiking
+7263452				Treat Walkway	foot
+7452596				Lordsburg Subdivision	railway
+7452655				Gila Subdivision	railway
+7473412		2		East	bus
+7507393					horse
+7507401					hiking
+7507405					bicycle
+7618907				Ski Valley	ski
+7644002	lwn			Trail 261	hiking
+7655460	US:US	60	east		road
+7726661	Valley Metro	140 WB	west	bus 140 WB	bus
+7726662	Valley Metro	140 EB	east	bus 140 EB	bus
+7728595	Valley Metro	A		Light Rail A Line Eastbound	light_rail
+7743567	Valley Metro	60 WB		bus 60 WB montebello loop	bus
+7743568	Valley Metro	60 EB	east	bus 60 EB montebello loop	bus
+8061307	lwn	123		Pat Scott Trail #123	hiking
+8068437	lwn			Mica Mountain Trail	hiking
+8068817	rwn	AZT #1		Arizona Trail #1 Huachuca Mountains	hiking
+8068892	lwn			Yaqui Ridge Trail	hiking
+8071091	lwn	127		Scotia Canyon Trail #127	hiking
+8071092	lwn	117		Sunnyside Canyon Trail #117	hiking
+8073840	lwn			Parker Canyon Lakeshore Trail	hiking
+8074072	rwn	AZT #2		Arizona Trail #2 Canelo Hills East	hiking
+8074889	lcn			Aravaipa Canyon Trail	hiking
+8075096	lwn			Cottonwood Mountain Trail #66	hiking
+8075097	lwn			Gardner Canyon Trail #67	hiking
+8075098	lwn			Black Rock Trail #292	hiking
+8075099	lwn			Holdout Trail #69	hiking
+8075217	lwn			Clark Peak Trail #301	hiking
+8075218	lwn			John's Canyon Trail #313	hiking
+8075230	lwn			Hell's Hole Trail #319	hiking
+8075231	lwn			Nuttall Trail #303	hiking
+8075232	lwn			Blue Jay Ridge Trail #314	hiking
+8075233	lwn			Colter Spring Trail #312	hiking
+8075234	lwn			Taylor Trail #306	hiking
+8075238	lwn			Arcadia Trail #328	hiking
+8075239	lwn			Noon Creek Ridge Trail #318	hiking
+8075240	lwn			Gibson Canyon Trail #308	hiking
+8075248	lwn			Noon Creek Trail #302A	hiking
+8075249	lwn			Bear Canyon Trail #299	hiking
+8075250	lwn			Ladybug Trail #329	hiking
+8075251	lwn			Rincon Spring Trail #331	hiking
+8075252	lwn			Deadman Trail #70	hiking
+8075259	lwn			Ash Creek Trail #307	hiking
+8075260	lwn			Shingle Mill Trail #35	hiking
+8075262	lwn			Webb Peak Trail #345	hiking
+8077257	lwn			Jesus Goudy Ridge Trail #298	hiking
+8077258	lwn			Grant Goudy Ridge Trail #310	hiking
+8077259	lwn			Grant Creek Trail #305	hiking
+8077260	lwn			Grant Hill Loop Trail #322	hiking
+8077261	lwn			Big Creek Trail #320A	hiking
+8077262	lwn			Shake Trail #309	hiking
+8077263	lwn			Dutch Henry Canyon Trail #297	hiking
+8077292	rwn			West Divide Trail #289	hiking
+8077293	lwn			Powers Garden Trail #96	hiking
+8077294	lwn			Corral Canyon Trail #291	hiking
+8077295	lwn			Kennedy Peak Trail #287B	hiking
+8077296	lwn			East Divide Trail #287	hiking
+8077297	lwn			Bassett Peak Trail #287C	hiking
+8077298	lwn			Fisher Canyon Trail #991	hiking
+8077303	lwn			Tortilla Trail #254	hiking
+8077309	lwn			Sycamore Trail #278	hiking
+8077321	lwn			Mailbox Trail #276	hiking
+8077339	lwn			Pipestem Trail #271	hiking
+8077441	lwn			Field Canyon Trail #294	hiking
+8077442	lwn			YLE Trail #288	hiking
+8081347	lwn			Komo Point Trail	hiking
+8081383	lwn			Francois Matthes Trail	hiking
+8087468	lwn			Cape Solitude Trail	hiking
+8090992	lwn			South Canyon Trail	hiking
+8096218	lwn			Point Imperial Trail	hiking
+8096503	lwn			Salt Trail	hiking
+8098409	lwn	8		Jumpup-Nail Trail #8	hiking
+8098538	lwn	41		Ranger Trail #41	hiking
+8098847	lwn			Esplanade Route	hiking
+8100184	lcn			Rainbow Rim Trail #10	mtb
+8106946	lwn			Walhalla Glades Trail	hiking
+8109385	lwn			Cottonwood Creek Trail	hiking
+8109386	lwn			Hance Creek Trail	hiking
+8136987				East Beryl Road	road
+8137580				North 27th Place	road
+8137581				East Cheryl Drive	road
+8137582				North 28th Street	road
+8137583				East Cheryl Drive	road
+8137652				North 26th Street	road
+8137653				East Beryl Avenue	road
+8138120				North 25th Street	road
+8138121				East Cheryl Drive	road
+8138122				North 25th Place	road
+8138124				North 26th Street	road
+8138125				East Brown Street	road
+8138126				North 25th Street	road
+8138365				East Brown Street	road
+8138366				North 27th Street	road
+8140321				North 24th Street	road
+8140322				East Brown Street	road
+8140540				North 24th Street	road
+8140541				East Beryl Avenue	road
+8140908				North 26th Street	road
+8140909				East Cinnabar Avenue	road
+8140910				East Cinnabar Avenue	road
+8141156				East Turquoise Drive	road
+8141157				North 24th Place	road
+8141158				East Mountain View Road	road
+8141221				North 25th Street	road
+8149313				North 26th Street	road
+8149413				North 26th Street	road
+8149414				East Turquoise Avenue	road
+8149734				North 28th Street	road
+8149735				North 28th Street	road
+8149736				East Ironwood Drive	road
+8149880				North 28th Street	road
+8149881				East Turquoise Avenue	road
+8150291				North 27th Place	road
+8150381				North 27th Street	road
+8152769				North 23rd Street	road
+8156669				North 26th Place	road
+8194115	lwn			Tiyo Point Trail	hiking
+8194116	lwn			Point Sublime Trail	hiking
+8238036		7			bus
+8240966		66			bus
+8240967		14			bus
+8240968		10			bus
+8240969		5			bus
+8240970		4			bus
+8240971		3			bus
+8240972		2			bus
+8255948	lwn			Tuckup Trail	hiking
+8260244	lwn	57		Nankoweap Trail #57	hiking
+8261972	lwn			Walhalla Spur Trail	hiking
+8262151	lwn			Ariel Point Trail	hiking
+8264386	lwn			Havasupai Trail	hiking
+8264405	lwn			Beaver Falls Trail	hiking
+8264406	lwn			Havasu Canyon Trail	hiking
+8288581	rwn			Hayduke Trail #12	hiking
+8289504	rwn			Hayduke Trail #10	hiking
+8290142	rwn			Hayduke Trail #11	hiking
+8291996	lwn			Cathedral Wash	hiking
+8307485	rwn			Hayduke Trail #9	hiking
+8503489				AZ 989	road
+8503555	US:AZ	79		AZ 79	road
+8507235	US:AZ:Maricopa				road
+8534013	US:US	80			road
+8633477	lwn			Schmutz Spring Trail	hiking
+8633478	lwn			Brady Hollow Trail	hiking
+8633490	lwn			Saddle Horse Loop	hiking
+8634765	lwn			Spring Mountain Trail	hiking
+8635912	lwn			East Rim Trail	hiking
+8635913	lwn			North Canyon Trail	hiking
+8643071	lwn	19		Navajo Trail #19	hiking
+8643138	nwn	GWT		Great Western Trail - Arizona	hiking
+8643363	lwn			Whitmore Trail	hiking
+8643414	lcn			The Plateau Passage (Incomplete)	mtb
+8643444	lwn			Liberty Bell Arch Trail	hiking
+8643445	lwn			White Rock Canyon Trail	hiking
+8643464	lwn	35		Jacob Canyon Route #35	hiking
+8643505	lwn	122		Lower Lookout Canyon Trail #122	hiking
+8643506	lwn	121		Middle Lookout Canyon Trail #121	hiking
+8643507	lwn	120		Upper Lookout Canyon Trail #120	hiking
+8647192	lwn	112		Gooseneck Trail #112	hiking
+8647647	lwn			Ridge Trail	hiking
+8647849	lwn	59		Snake Gulch Trail #59	hiking
+8647850	lwn	50		Swapp Trail #50	hiking
+8648069	lwn	137		Horse Spring Trail #137	hiking
+8648070	lwn	58		Slide Canyon Trail #58	hiking
+8648075	lwn	11		Slide Spring Trail #11	hiking
+8648261	lwn			Tapeats Creek Trail	hiking
+8648262	lwn	28		Hack Canyon Trail #28	hiking
+8648263	lwn	110		Hack/Lawson Trail #110	hiking
+8648264	lwn	13		Little Spring Trail #13	hiking
+8652552	lwn			Powell Plateau Trail	hiking
+8652771	lwn	51		Big Spring Lookout Trail #51	hiking
+8652772	lwn	108		Brow Monument Trail #108	hiking
+8653147	lwn	109		Ceballos Trail #109	hiking
+8653172	lwn	34		Kai-Vav-Wi Nature Trail #34	hiking
+8653277	rwn	AZT #3		Arizona Trail #3 Canelo Hills Wast	hiking
+8658910	lwn	142		Crazy Jug Point #142	hiking
+8659048	lwn			Shoshone Point Trail	hiking
+8659304	lwn			Village Greenway	hiking
+8664555	lwn			Residential Loop	hiking
+8664556	lwn			Zuni Trail	hiking
+8664937				Valley View Trail	hiking
+8671917	lwn			Sonoita Creek Trail	hiking
+8676780	lwn			Saddle Canyon Trail	hiking
+8677771	lwn			Monument Creek Trail	hiking
+8677996	lwn	27		Triple Alcove Trail #27	hiking
+8678208	lwn			Nankoweap Granary Trail	hiking
+8681707	lwn	125		Vishnu Overlook Trail #125	hiking
+8681742	lwn			Unkar Delta Loop	hiking
+8687596	lwn			Nature Trail	hiking
+8687614	lwn			Roosevelt Point Loop	hiking
+8687619	lwn			Greenland Lake Trail	hiking
+8688023	lwn			Roaring Springs Trail	hiking
+8688515	lwn	159		Red Mountain Trail #159	hiking
+8688609	lwn	37		Red Butte Trail #37	hiking
+8695581	lwn	128		Slate Mountain Trail #128	hiking
+8695611	lwn			O'Leary Trail	hiking
+8696948	lwn	80		Connector Trail #80	hiking
+8696949	lwn	40		Bull Basin Trail #40	hiking
+8697772	rwn	61		Beale Wagon Road Historic Trail #61	hiking
+8728081				Dr Martin Luther King Jr Boulevard	road
+8729958	Valley Metro	S		Tempe Streetcar EB	tram
+8729959	Valley Metro	S		Tempe Streetcar WB	tram
+8803549					railway
+8803552					railway
+9090208	US:AZ:Loop	303		AZ 303 Loop (South)	road
+9097924				Nogales Subdivision	railway
+9097925				UP Phoenix Subdivision	railway
+9098101				"Tucson, Cornelia and Gila Bend Railroad"	railway
+9098102				Wellton Branch	railway
+9098103				San Manuel Arizona Railroad	railway
+9098104				Copper Basin Railway	railway
+9098105				Chandler Industrial Lead	railway
+9098106				Fennemore Spur	railway
+9098107				Coronado Subdivision	railway
+9098108				Snowflake Branch	railway
+9098109				Arizona Central Railroad	railway
+9098110				Grand Canyon Railway	railway
+9099249					railway
+9099314				Arizona Eastern Railway	railway
+9099462				Tempe Industrial Lead (Kyrene)	railway
+9101407				San Pedro Valley Railroad	railway
+9101408					railway
+9101409					railway
+9101410				El Paso and Southwestern Railroad	railway
+9113880				Springerville Railroad Spur	railway
+9114081				Darling/Winona Industrial Lead	railway
+9118481				Chandler Industrial Lead (abandoned)	railway
+9118513				Arizona Electric Power Company Spur	railway
+9118814				Wellton Branch (disused)	railway
+9118908				Sierrita Mine Spur	railway
+9118909				Twin Buttes Sahuarita Industrial Spur	railway
+9118928				Mission Mine spur	railway
+9118960				Morenci Mine Railroad	railway
+9119069				Camp Navajo Railroad	railway
+9119078				Magma Arizona Railroad	railway
+9119145				Salt River Spur	railway
+9119158				Cotpro Spur	railway
+9119160				Palo Verde Nuclear Generating Station Spur	railway
+9122731				Kingman Terminal Railroad	railway
+9123161					railway
+9123162				Daisy Mountain Railroad	railway
+9133248				Former US 80 (AZ 1977)	road
+9137569					railway
+9137637				Port of Tucson Railway	railway
+9230611	US:US:Historic	80		Historic U.S. Route 80	road
+9277951	Sun Tran	10 NB		Sun Tran Route 10 Ruthrauff (northbound)	bus
+9277952	Sun Tran	10 SB		Sun Tran Route 10 Ruthrauff (southbound)	bus
+9331232	Flixbus	2201		Flixbus 2201: Los Angeles => Tucson	bus
+9338492	nwn			Black Canyon Trail	hiking
+9380233				West Cardinals Way	road
+9426707	rcn			Safford-Morenci Trail	hiking
+9465538	lwn			Ranger Trail	hiking
+9465539	lwn			Bajada Trail	hiking
+9465540	lwn			Alta Trail	hiking
+9465541	lwn			National Trail	hiking
+9465542	lwn			Mormon Loop Trail	hiking
+9465543	lwn			Mormon Trail	hiking
+9465545	lwn			Beverly Canyon Trail	hiking
+9465546	lwn			Desert Classic Trail	hiking
+9465547	lwn			Telegraph Pass Trail	hiking
+9471469	lwn			Pyramid Trail	hiking
+9471470	lwn			Bursera Trail	hiking
+9471471	lwn			Kiwanis Trail	hiking
+9471472	lwn			Las Lomitas Trail	hiking
+9471473	lwn			Corona de Loma Trail	hiking
+9471474	lwn			Hidden Valley Trail	hiking
+9471475	lwn			Javelina Canyon Trail	hiking
+9471477	lwn			Pima East Loop	hiking
+9471478	lwn			Pima Wash Trail	hiking
+9471479	lwn			Tondum Wihom Trail	hiking
+9471480					hiking
+9471481	lwn			Ma Ha Tuak Trail	hiking
+9480082	US:AZ:Loop	101		AZ 101 Loop (Clockwise)	road
+9483332	US:AZ:Loop	101		AZ 101 Loop (Counterclockwise)	road
+9620151	Sun Tran	2 SB		Sun Tran Route 2 Pueblo Gardens (Southbound)	bus
+9620451	Sun Tran	12		Sun Tran Route 12 10th/12th Avenue	bus
+9620452	Sun Tran	11		Sun Tran Route 11 Alvernon	bus
+9620550	Sun Tran	24		Sun Tran Route 24 12th Avenue	bus
+9620551	Sun Tran	23		Sun Tran Route 23 Mission	bus
+9620552	Sun Tran	22		Sun Tran Route 22 El Rio/W. Speedway	bus
+9620553	Sun Tran	21		Sun Tran Route 21 West Congress/Silverbell	bus
+9620554	Sun Tran	19		Sun Tran Route 19 Stone	bus
+9620555	Sun Tran	18		Sun Tran Route 18 South 6th Avenue	bus
+9622795	Sun Tran	61		Sun Tran Route 61 La Cholla	bus
+9622796	Sun Tran	50		Sun Tran Route 50 Ajo Way	bus
+9622797	Sun Tran	29		Sun Tran Route 29 Valencia	bus
+9622798	Sun Tran	27		Sun Tran Route 27 Midvale Park	bus
+9622799	Sun Tran	26 EB		Sun Tran Route 26 Benson Highway (Eastbound)	bus
+9623151	Sun Tran	105X		Sun Tran Route 105X Foothills-Downtown Express	bus
+9623152	Sun Tran	104X		Sun Tran Route 104X Marana-Downtown Express	bus
+9623153	Sun Tran	103X		Sun Tran Route 103X Northwest-Downtown Express	bus
+9623154	Sun Tran	102X		Sun Tran Route 102X Northwest-UA Express	bus
+9623155	Sun Tran	101X		Sun Tran Route 101X Golf Links-Downtown Express	bus
+9623315	Sun Tran	204X		Sun Tran Route 204X Northwest-Aero Park Express	bus
+9623316	Sun Tran	203X		Sun Tran Route 203X Oro Valley-Aero Park Express	bus
+9623317	Sun Tran	201X		Sun Tran Route 201X Eastside-Aero Park Express	bus
+9623318	Sun Tran	110X			bus
+9623319	Sun Tran	109X		Sun Tran Route 109X Catalina Highway-Downtown Express	bus
+9623320	Sun Tran	108X		Sun Tran Route 108X Broadway-Downtown Express	bus
+9623321	Sun Tran	107X		Sun Tran Route 107X Oro Valley-Downtown Express	bus
+9623415	Sun Tran	413		Sun Tran Route 413 Marana/I-10	bus
+9623416	Sun Tran	412		Sun Tran Route 412 Thornydale/Orange Grove	bus
+9623417	Sun Tran	410		Sun Tran Route 410 Anway/Trico	bus
+9623418	Sun Tran	401		Sun Tran Route 401 North Oracle/Catalina	bus
+9626388	Sun Tran	486		Sun Tran Route 486 Ajo-Tucson	bus
+9626389	Sun Tran	450		Sun Tran Route 450 Southeast Tucson/Rita Ranch	bus
+9626390	Sun Tran	440		Sun Tran Route 440 San Xavier	bus
+9626391	Sun Tran	430		Sun Tran Route 430 Tucson Estates	bus
+9626392	Sun Tran	421		Sun Tran Route 421 Green Valley/Sahuarita	bus
+9712655	US:US:Historic	80		Historic US 80 (CA)	road
+9727775	lcn			Grand Canyon East Rim Drive Path	bicycle
+9727776	lcn			Grand Canyon Village Greenway	bicycle
+9728113	lcn			Cañada del Oro	bicycle
+9728165	lcn			Sinclair Wash Trail	bicycle
+9728171	lcn			Ponderosa Trail	bicycle
+9737057	lcn			Crosscut Canal Multi-Use Path	bicycle
+9737058	rcn	GC		Grand Canal Path	bicycle
+9737236	lcn			Western Canal Path	bicycle
+9740204	lcn			Eastern Canal Path	bicycle
+9740222	lcn			New River Trail	bicycle
+9740374	lcn			Queen Creek Wash Trail	bicycle
+9740385	lcn			Route 66 Trail	bicycle
+9993215	Valley Metro	MARY CC		bus MARY Counter Clockwise	bus
+9993216	Valley Metro	MARY C		bus MARY Clockwise	bus
+9993336	Valley Metro	SMART WB		bus SMART WB	bus
+9993337	Valley Metro	SMART EB		bus SMART EB	bus
+10014590	Valley Metro	BUZZ WB		bus BUZZ WB	bus
+10014591	Valley Metro	BUZZ EB		bus BUZZ EB	bus
+10014592	Valley Metro	ALEX WB		bus ALEX WB	bus
+10014593	Valley Metro	ALEX EB		bus ALEX EB	bus
+10014594	Valley Metro	OV WB		bus OV WB	bus
+10014595	Valley Metro	OV EB		bus OV EB	bus
+10014596	Valley Metro	OS WB		bus OS WB	bus
+10014597	Valley Metro	OS EB		bus OS EB	bus
+10014598	Valley Metro	OM WB		bus OM WB	bus
+10014599	Valley Metro	OM EB		bus OM EB	bus
+10014600	Valley Metro	OMA NB		bus OMA NB	bus
+10014601	Valley Metro	OMA SB		bus OMA SB	bus
+10014602	Valley Metro	OJ SB		bus OJ SB	bus
+10014603	Valley Metro	OJ NB		bus OJ NB	bus
+10014604	Valley Metro	OE EB		bus OE EB	bus
+10014605	Valley Metro	OE WB		bus OE WB	bus
+10014606	Valley Metro	FLSH EB		bus FLASH EB	bus
+10014607	Valley Metro	FLSH WB		bus FLASH WB	bus
+10047465	Valley Metro	POGO C		bus POGO Clockwise	bus
+10047466	Valley Metro	POGO CC		bus POGO Counter Clockwise	bus
+10078354	Valley Metro	OLDT		bus OLDT	bus
+10078355	Valley Metro	MLHD NB		bus MLHD NB	bus
+10078356	Valley Metro	MLHD SB		bus MLHD SB	bus
+10078489	Valley Metro	68CM SB		bus 68CM SB	bus
+10078490	Valley Metro	68CM NB		bus 68CM NB	bus
+10078552	Valley Metro	MSTG SB	south	bus MSTG SB	bus
+10078553	Valley Metro	MSTG NB	north	bus MSTG NB	bus
+10121858	Valley Metro	GUS2 C		bus GUS2 C	bus
+10121859	Valley Metro	GUS3 CC		bus GUS3 CC	bus
+10121860	Valley Metro	GUS1 CC		bus GUS1 CC	bus
+10166306	US:US:Temporary	191			road
+10302684	US:AZ	82		AZ 82	road
+10302694	US:AZ:Business	19			road
+10302725				AZ 90 Spur	road
+10303173	US:AZ			State Route 93 Temporary	road
+10319513	US:US:Spur				road
+10703469	lwn	162B		Anaconda	hiking
+10703470	lwn	203		Arizona Cypress #203	hiking
+10703471	lwn	162A		Two Fence #162A	hiking
+10706267	Verde Shuttle			Verde Shuttle	bus
+10713028	lwn	165D		Andante West #165D	hiking
+10713029	lwn	165A		Lower Chimney Rock #165A	hiking
+10713030	lwn	165B		Chimney Rock Pass #165B	hiking
+10713031	lwn	165		Thunder Mountain #165	hiking
+10713032	lwn	165E		Andante #165E	hiking
+10713033	lwn	165C		Summit Route #165C	hiking
+10713034	US:NFSR:Coconino:FR	FS 152		Forest Road 152	road
+10713035	lwn	52		Dry Creek #52	hiking
+10713036	lwn	59		Bear Sign #59	hiking
+10713037	lwn	164		David Miller #164	hiking
+10713426	lwn	653		Centennial #653	hiking
+10713427	lcn;lwn			Ledge-n-Airy	mtb;hiking
+10713429	lcn;lwn			Last Frontier	mtb;hiking
+10713432	lwn	204		Rupp #204	hiking
+10713433	US:NFRS:Coconino:FR	FR 9589		Forest Road 9589	road
+10713434	lwn	162C		Snake #162C	hiking
+10713435	lwn	196		Chuckwagon #196	hiking
+10713436	US:NFRS:Coconino:FR	FR 9908		Forest Road 9908	road
+10713437		165F		Lizard Head #165F	hiking
+10713438	US:NFRS:Coconino:FR	152C		Forest Road 152C	road
+10713439	US:NFRS:Coconino:FR	9600		Forest Road 9600	road
+10713440	US:NFRS:Coconino:FR	152E		Forest Road 152E	road
+10713541				Forest Road 9584B	road
+10713542	lwn	168		Aerie #168	hiking
+10713543		60		Doe Mountain	hiking
+10713544	lwn	652		Boynton Vista	hiking
+10713545	lwn	47		Boynton Canyon #47	hiking
+10713546	lwn	110		Deadman's Pass	hiking
+10713547	lwn	174C		Mescal #174C	hiking
+10713548	lwn	174D		Mescal Connector #174D	hiking
+10713549	lwn	119		Brins Mesa #119	hiking
+10713550		FR 9904		Forest Road 9904	road
+10713551	US:NFRS:Coconino:FR	9904B		Forest Road 9904B	road
+10713552	lwn	183		Tea Cup #183	hiking
+10713553	lwn	660		Adobe Jack #660	hiking
+10713554	lwn	675		Manzanita #675	hiking
+10713555	lwn	666		Ant Hill Loop #666	hiking
+10713556	lcn	661		Grand Central #661	hiking
+10713557	lwn	66		Solider Pass #66	hiking
+10713558	lwn	186		Jordan #186	hiking
+10713559	lwn	661A		Shorty #661A	hiking
+10713560	lwn	668		Powerline Plunge #668	hiking
+10713561	lwn	186A		Jordan Spur A	hiking
+10713562	lwn	186B		Jordan Spur B	hiking
+10713563	lwn	187		Cibola Pass #187	hiking
+10713564	US:NFRS:Coconino:FR	FR 633		Forest Road 633	road
+10714716	lwn	66A		Solider Pass Spur A	hiking
+10714717	lwn	50		HS Canyon #50	hiking
+10714718	US:NFRS:Coconino:FR	FR 539		Forest Road 539	road
+10714719	US:NFRS:Coconino:FR			Forest Road 6416	road
+10714720	US:NFRS:Coconino:FR	FR 6399		Forest Road 6399	road
+10714721	US:NFRS:Coconino:FR	FR 231E		Forest Road 231E	road
+10714722	US:NFRS:Coconino:FR	FR 231		Forest Road 231	road
+10714723	US:NFRS:Coconino:FR	FR 792		Forest Road 792	road
+10715536	lwn	122		Parsons #122	hiking
+10715537	lwn	80A		Palatki Ruins Loop Spur #80A	hiking
+10715538	lwn	80		Palatki Ruins Loop #80	hiking
+10715539				Palatki Ruins Face #80B	hiking
+10715540	lwn	62		Red Cliff #62	hiking
+10715769	lwn	169		Sedona View #169	hiking
+10715770	lwn	212		Brewer #212	hiking
+10715771	lwn	126		Coconino Loop #126	hiking
+10715772	lwn	210		Airport Loop #210	hiking
+10715773	lwn	211		Table top #211	hiking
+10715774	lwn	672		Sketch #672	hiking
+10715775	lwn	208		Ridge #208	hiking
+10715776	lwn	209		Bandit #209	hiking
+10715777	lwn	206		Old Post #206	hiking
+10715778	lwn	207		Carroll Canyon #207	hiking
+10715779	lwn	669		Skywalker #669	hiking
+10715780	lwn	202B		Super Secret Slickrock #202B	hiking
+10715781	lwn	202A		Ramshead #202A	hiking
+10715782	lwn	202		Herkenham #202	hiking
+10715783	lwn	670		Overeasy #670	hiking
+10716308	lwn	184A		Sugar Loaf Summit #184A	hiking
+10716309	lwn	184		Sugar Loaf Loop #184	hiking
+10716310	lwn	124		Jim Thompson #124	hiking
+10716311	lwn	49		Wilson Canyon #49	hiking
+10716312	lwn	10		Wilson Mountain #10	hiking
+10716313	lwn	123		North Wilson #123	hiking
+10716314	lwn	10B		Wilson Mountain Spur B #10B	hiking
+10716316	lwn	10D		Wilson Mountain Spur D	hiking
+10716317	lwn	161		Huckaby #161	hiking
+10716318	lwn	71A		Oak Creek Spur A #71A	hiking
+10716319	lwn	111		Allens Bend #111	hiking
+10716320	lwn	11		Casner Canyon #11	hiking
+10716323	lwn	40		Hot Loop #40	hiking
+10716324	lwn	55		Jacks Canyon #55	hiking
+10716325	lwn	77		Munds Mountain #77	hiking
+10716326	lwn	96		Belt Rock Pathway #96	hiking
+10775266	lwn	56A		Schuerman Mountain Vista #56A	hiking
+10775267		118		Red Rock Loop #118	hiking
+10775268	lwn	674		Pyramid #674	hiking
+10775269	lwn	673		Scorpion #673	hiking
+10814191	lcn			Thunder Mtn Rd Bike Route - W SR 89A Bypass	bicycle
+10827877	lcn			Highline Canal Path	bicycle
+10891955	Sun Tran	9		Sun Tran Route 9 (westbound)	bus
+10907835	Sun Tran	486		Bus RouteSun Tran Route 486 Ajo-Tucson	bus
+10946017	Amtrak	Sunset Limited		Amtrak Sunset Limited: Los Angeles => New Orleans	train
+10946177	lwn			Axis	hiking
+10946178	lwn			Rover	hiking
+10946181	lcn;lwn			Remnant	mtb;hiking
+10946183	lcn;lwn			Bolo	mtb;hiking
+10946184	lwn	167		Cockscomb #167	hiking
+10946185	lcn;lwn			Outer Limits	mtb;hiking
+10946187	lwn			Summit #126B	hiking
+10947353	lwn			OK #205	hiking
+10947354	lwn	188		Dawa #188	hiking
+10949116	lwn	158		Schnebly Hill #158	hiking
+10949117	lwn	78B		Cow Pies #78B	hiking
+10949118	lwn	78		Munds Wagon #78	hiking
+10949119	lwn	78C		Hangover #78C	hiking
+10967533	Valley Metro	ZOOM WB		bus ZOOM WB	bus
+10967534	Valley Metro	ZOOM EB		bus ZOOM EB	bus
+11139675	lwn	EN		Eagle's Nest Trail	hiking
+11139757	lwn	CL		Slide Rock Trail	foot
+11139758	lwn	CL		Clifftop Trail	foot
+11139759	lwn	PH		Pendley Homestead Trail	foot
+11165867	lwn	213		Chapel #213	hiking
+11165868	lwn	125A		Broken Arrow Spur #125A	hiking
+11165869	lwn	125F		Twin Buttes #125F	hiking
+11165870	lwn	125D		Hog Heaven #125D	hiking
+11165871	lwn	125C		Hog Wash #125C	hiking
+11165872	lwn	157		Mystic #157	hiking
+11165873	lwn	125B		Peccary #125B	hiking
+11165874	lwn	157		Pigtail #157A	hiking
+11165999	lwn	214		Bell Rock #214	hiking
+11166000	lwn	135		Courthouse Butte Loop #135	hiking
+11166001	lwn	135B		Middle #135B	hiking
+11166002	lwn	135A		Big Park Loop	hiking
+11166003	lwn	96A		Phone #96A	hiking
+11166004	lwn	657		Bell Rock Loop Extension #657	hiking
+11166005	lwn	658		Phone Extension #658	hiking
+11166006	lwn	655		Baby Bell #655	hiking
+11166007	lwn	650		Llama #650	hiking
+11166008	lwn	656		Bail #656	hiking
+11166009	lwn	199		Jim Bryant #199	hiking
+11166010	lwn	163A		Margs Draw Spur A #163A	hiking
+11166011	lwn	163		Margs Draw #163	hiking
+11166012	lwn	125E		High on the Hog #125E	hiking
+11166143	lwn	156		Templeton #156	hiking
+11166144	lwn	170		Cathedral Rock #170	hiking
+11166345	lwn	191A		Baldwin Spur #191A	hiking
+11166346	lwn	191B		Red Rock Crossing #191B	hiking
+11166347	lwn	191		Baldwin #191	hiking
+11166348	lwn	193		Hiline #193	hiking
+11168939	lwn	148		Pine Valley #148	hiking
+11168940	lwn	173B		Agave #173B	hiking
+11168941	lwn	173C		Made in the Shade #173C	hiking
+11168942	lwn	172C		Coconino Spur #172C	hiking
+11168943	lwn	172A		Kaibab #172A	hiking
+11168944	lwn	172		Yavapai Vista #172	hiking
+11168945	lwn	172D		Basalt #172D	hiking
+11168946	lwn	172B		Coconino #172B	hiking
+11168947	lwn	172E		Hermit #172E	hiking
+11168948	lwn	192		Easy Breezy #192	hiking
+11168949	lwn	197		HT #197	hiking
+11168950	lwn	173		Slim Shady #173	hiking
+11172095	lwn	54		Bear Mountain #54	hiking
+11172096	lwn	53		Fay Canyon #53	hiking
+11172097	lwn	174E		Yucca #174E	hiking
+11172098	lwn	174F		Canyon of Fools #174F	hiking
+11175671	lwn	654		Chaves #654	hiking
+11175672	lwn	40A		Hot Loop A #40A	hiking
+11175673	lwn	93		Woods Canyon #93	hiking
+11179112	lwn	12		Mooney #12	hiking
+11179113	lwn	5		Loy Canyon #5	hiking
+11179114	lwn	109		Secret Mountain #109	hiking
+11179115	lwn	9A		Little Round Mountain Spur A #9A	hiking
+11179116	lwn	9		Little Round Mountain #9	hiking
+11179122	lwn	79		Honanki #79	hiking
+11180815	lwn	116		Dogie #116	hiking
+11180816	lwn	6		Little L.O. #6	hiking
+11180817	lwn	3		Kelsey Spring #3	hiking
+11180818	lwn	133		Hog Hill #133	hiking
+11180819	lwn	70A		Ott Lake #70A	hiking
+11180820	lwn	70		Winter Cabin #70	hiking
+11180821	lwn	63		Sycamore Basin #63	hiking
+11180822	lwn;US:NF:Coconino:MT	8		Casner Mountain #8	hiking;road
+11180823	lwn	114		Secret East #114	hiking
+11181477	lwn	65		Purtyman #65	hiking
+11211902	lwn	143		Cookstove #143	hiking
+11211903	lwn	46		Sterling Pass #46	hiking
+11212838	lwn	161		Scott Springs #44	hiking
+11225468	rwn	94		V Bar V Trail #94	hiking
+11225469	rwn	94B		V Bar V Entry Trail #94B	hiking
+11247981	lwn	384		Wolf Creek Loop Trail #384	hiking;ohv
+11259699	lcn	VP		Valley Path	bicycle
+11564851	lwn			Tom Moody Loop Trail	hiking
+11602529	lcn			Rio Salado Pathway	bicycle
+11606064				Former State Route 95	road
+11638106	lcn			Tempe Canal Path	bicycle
+11640039	lcn			Kyrene Canal Path	bicycle
+11642653	US:US:Old	66		Old US 66 in Arizona ('30s to '40s)	road
+11695192	lcn			Pedal	bicycle
+11695413	lcn			Brake	bicycle
+11695695	lcn			Handlebars	bicycle
+11695771	lcn			Spoke	bicycle
+11748506	US:US:Spur	191			road
+11769723				Former US 70 (AZ 1931)	road
+11785068				Former US 180 (AZ 1935)	road
+11797891				Former AZ 789 (1965)	road
+11797908				Former US 70 (AZ 1969)	road
+11798072	US:BIA	170		BIA 170 (AZ)	road
+11798073	US:BIA	3		BIA 3 (AZ)	road
+11896573	Sun Tran	25 NB		Sun Tran Route 25 South Park Avenue (Northbound)	bus
+11896574	Sun Tran	2 NB		Sun Tran Route 2 Pueblo Gardens (Northbound)	bus
+11921858	Sun Tran	26 WB		Sun Tran Route 26 Benson (westbound)	bus
+11961756	US:NFSR:Coconino:Secondary	9840			road
+11961757	US:NFSR:Coconino:Secondary	9845H			road
+11961758	US:NFSR:Coconino:Secondary	9845N			road
+11982546	lcn			White House Trail	hiking
+12109487	US:NSFR:Coronado:FR	508			road
+12109488	US:NSFR:Coronado:FR	803			road
+12133993	lcn	LAT		Laveen Area Trail	bicycle
+12173925	YCAT	2		Orange	bus
+12174008	YCAT	3		Brown	bus
+12174152		4		Green 4	bus
+12174360	YCAT	4A		Green 4A	bus
+12174464	YCAT	5		Blue	bus
+12174598	YCAT	8		Gold	bus
+12180533	Amtrak	Texas Eagle		Amtrak Texas Eagle: Los Angeles => Chicago	train
+12180534	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => Los Angeles	train
+12180986	YCAT	9		Silver	bus
+12181021	YCAT	10		Turquoise	bus
+12181080	YCAT	95		Yellow	bus
+12181126	YCAT	6A		Purple	bus
+12223099	lwn	221		Legends of Superior Trail	hiking
+12426661	Sun Tran	Sun Link		Sun Link: Convento & Congress → Helen & Warren	tram
+12652269	lwn	RPWP		Roadrunner Park Walking Path	foot
+12729869		2		Blue Route	bus
+12729978		3		Green Route	bus
+12731482		4		Gold Route	bus
+12731595		5		Orange Route	bus
+12731667		7		Purple Route	bus
+12731769		8		Teal Route	bus
+12731845		10		Maroon Route	bus
+12732089		14		Brown Route	bus
+12732241		66		Red Route	bus
+12766160	lwn			Estrella Mountain Regional Park	hiking
+13053074					bus
+13055438	Sun Tran	23 X		Sun Tran Route 23X - Cholla Charger Expreaa	bus
+13124382	lcn			Sun Circle Trail	bicycle
+13200892				Browning Sub APSC to Silverking Sub APSC 500KV	power
+13200893					power
+13200894				Aps Delaney Sub APSC to Hassayampa Tap Sub APSC 500KV	power
+13298869	US:AZ:Spur			State Route 202 Spur	road
+13298959	US:AZ:Spur			Fain Road	road
+13549006	Lake Havasu City Transit	Gray		Gray route	bus
+13563609	Bullhead Area Transit System	Orange Line		Orange Line	bus
+13574691	Bullhead Area Transit System	Red Line		Red Line	bus
+13589445	Bullhead Area Transit System	Green Line		Green Line	bus
+13589892	Hualapai Transit	Hakđagwiva		Hakđagwiva Bus	bus
+13599381	Hualapai Transit	Kingman route #1		Kingman Route #1	bus
+13599456	Kingman Area Regional Transit	Yellow		Yellow Route	bus
+13599684	Hualapai Transit	Seligman Tripper		Seligman Tripper Route	bus
+13599960	Hualapai Transit	Grand Canyon West Commuter		Grand Canyon West Commuter Route	bus
+13613320	rwn	411		Aspen Trail 411	hiking
+13616675	rwn			General Crook 140	hiking
+13616676	rwn	412		Carr Lake Trail 412	hiking
+13628522	Bullhead Area Transit System	Blue		Blue Line	bus
+13632207	Kingman Area Regional Transit	Red		Red Route	bus
+13632263	Kingman Area Regional Transit	Green		Green Route	bus
+13640834	Kingman Area Regional Transit	Blue		Blue Route	bus
+13683584				Phoenix Bypass Route	road
+13741421	Silver Rider Transit	Searchlight Express		Searchlight Express	bus
+13832446	Bisbee Bus			Bisbee Route: Old Bisbee => Naco via Senior Center	bus
+13832447	Bisbee Bus			Bisbee Route: Old Bisbee => Naco via San Jose	bus
+13832448	Bisbee Bus			Bisbee Route: Naco => Old Bisbee	bus
+13832449	Bisbee Bus			Bisbee Route: Naco => Old Bisbee via San Jose	bus
+13944434	lcn			Anza Trail	bicycle
+14026920	lwn			Peak Spur	hiking
+14027230	lwn			Kovach Family Nature Trail	hiking
+14027231	lwn			Lost Dog Wash Trail	hiking
+14027305	lwn			Gateway Loop Trail	hiking
+14027306	lwn			Quartz Trail	hiking
+14027313	lwn			Bajada Nature Trail	hiking
+14104614	US:US	93	north		road
+14104615	US:US	93	south		road
+14124349	rwn			Maverick OHV Trail	hiking
+14126729	lwn			Monterey Park Walking Path	foot
+14156006	rwn	652		Four Springs Trail	hiking
+14156674	rwn	104A		General Crook Connector	hiking
+14156806	rwn	638A		Chihuahua Pines Connector Trail	hiking
+14156807	rwn	632		Country Club Trail	hiking
+14156816	rwn	636B		Flume Connector Trail	hiking
+14156817	rwn	631A		Chipmunk Springs Connector Trail	hiking
+14156858	rwn	608		Ice Cave Trail	hiking
+14157381	rwn	641		Ghost of Coyote Trail	hiking
+14159773		640		Juniper Ridge Trail	hiking
+14159774	rwn	656		Timber Mesa Trail	hiking
+14160639	rwn	651		Land of the Pioneers	hiking
+14161590	rwn	640A		Lookout Connector Trail	hiking
+14164661	rwn	636		Los Caballos Trail	hiking
+14166764	rwn	635		Panorama Trail	hiking
+14167186	rwn	636A		Sawmill Connector Trail	hiking
+14167765	rwn	652		Four Springs Trail	hiking
+14170054	rwn	610		Bog Springs Trail	hiking
+14170055	rwn	647		Hitching Post Loop Trail	hiking
+14170056	rwn	646		Turkey Track Loop Trail	hiking
+14170057	rwn	654		Woodland Lake Trail	hiking
+14208015	lcn	PSB		Phoenix Sonoran Bikeway	bicycle
+14222047	rwn	107		Blue Ridge Trail	hiking
+14222048	rwn	107A		Billy Creek Connector Trail	hiking
+14227425	lcn			Grindstone	mtb
+14227426	lcn			Trail Faries	mtb
+14228534	lwn	637		Buena Vista Trail Loop 1	hiking
+14228535	rwn	637		Buena Vista Trail Loop 2	hiking
+14231501	lcn			Flinstone	mtb
+14231502	lcn			Juice Tree	mtb
+14231503	lcn			Man Enough?	mtb
+14231504	lcn			Differential	mtb
+14231829	lcn			Fernau's Fantasy	mtb
+14232230	lcn			Below The B-Backs	mtb
+14232231	lcn			Cortalis II	mtb
+14232232	lcn			Uncle Tom's	mtb
+14232233	lcn			Laird's	mtb
+14232234	lcn			Wild Horses	mtb
+14232235	lcn			Sierra Game Trail	mtb
+14232239				Cortalis	mtb
+14232280	lcn			Hole in the Rock	mtb
+14235040	lcn			Project X	mtb
+14235041	lcn			Petrified	mtb
+14235042	lcn			Naked	mtb
+14235043	lcn			Dome Rock	mtb
+14235044	lcn			Cheater	mtb
+14245567	rwn	631		Los Burros Trail	hiking
+14245712				Gand Canyon Railway Route	train
+14251451	rwn			Osprey Connector Trail	hiking
+14256779				Dr. Art Mollen Fitness Path	fitness_trail
+14279439	US:AZ:Spur	95S		"AZ 95S (Mohave County, AZ)"	road
+14357035	lcn	MVR 1		Mountain Vista Route	bicycle
+14360818					bus
+14375117	US:US:Historic	89A			road
+14377789	US:AZ:Mohave	91		County Road 91	road
+14380716	US:AZ:Mohave	10		County Road 10	road
+14380717	US:AZ:Mohave	1		County Road 1	road
+14380718	US:AZ:Mohave	20		County Road 20	road
+14380738	US:AZ:Mohave	25		County Road 25	road
+14380739	US:AZ:Mohave	261		County Road 261	road
+14384071	US:AZ:Mohave	125		County Road 125	road
+14384138	US:AZ:Mohave	143		County Road 143	road
+14384139	US:AZ:Mohave	3798		County Road 3798	road
+14384140	US:AZ:Mohave	195		County Road 195	road
+14384141	US:AZ:Mohave	1537		County Road 1537	road
+14384176	US:AZ:Mohave	155		County Road 155	road
+14384177	US:AZ:Mohave	153		County Road 153	road
+14384178	US:AZ:Mohave	227		County Road 227	road
+14384205	US:AZ:Mohave	151		County Road 151	road
+14384250	US:AZ:Mohave	141		County Road 141	road
+14384251	US:AZ:Mohave	193		County Road 193	road
+14384253	US:AZ:Mohave	722		County Road 722	road
+14384254	US:AZ:Mohave	366		County Road 366	road
+14384255	US:AZ:Mohave	3194		County Road 3194	road
+14384256	US:AZ:Mohave	444		County Road 444	road
+14384307	US:AZ:Mohave	3965		County Road 3965	road
+14384308	US:AZ:Mohave	3954		County Road 3954	road
+14384309	US:AZ:Mohave	2401		County Road 2401	road
+14384310	US:AZ:Mohave	744		County Road 744	road
+14392604	rwn	140		General George Crook National Recreation Trail	hiking
+14392660	rcn	535		Willow Springs Bike Loop #535	bicycle
+14395609	US:US	60	west		road
+14415007	lcn	GC		Grand Canalscape	bicycle
+14428669		FR 300		Rim Road	road
+14438515	rwn	179		Military Sinkhole Trail #179	hiking
+14467986				The Turqoise Trail	foot
+14511116	US:US	64			road
+14700309					power
+14700310					power
+14700311					power
+14735837	rcn			Coconino 250 MTB Route	mtb
+14865111				Original Southern Pacific Railroad Phoenix Subdivision Alignment	railway
+14865112				Arizona Eastern Railroad Phoenix Division	railway
+14933899	lcn	a		a	bicycle
+14933900	lcn	b		b	bicycle
+14933936	lcn	d		d	bicycle
+14933937	lcn	c		c	bicycle
+14946395	MX:MX	8			road
+15055447	US:BIA	106			road
+15055448	US:BIA	591		N591	road
+15082797	lwn			Lower Salt River Interpretive Trail	hiking
+15470217				Buttes and Boulders Loop	road
+15569997	nwn			Black Canyon National Recreation Trail	hiking
+15625092				Coronado Trail Scenic Byway	road
+15625130				Kaibab Plateau-North Rim Parkway	road
+15625275				Red Rock Scenic Byway	road
+15625288				Sky Island Scenic Byway	road
+15626114	lwn	US:USFS:minor		Quail Springs Trail	hiking
+15648537	US:BIA	18		Indian Route 18	road
+15675317	Sun Tran	414			bus
+15710505				Arizona State Route 76	road
+15867127	US:BIA	6		BIA Route 6	road
+15867409	US:AZ:Apache	5020		Apache County 5020	road
+15867410	US:AZ:Apache	5270		Apache County 5270	road
+15867430	US:BIA	20		N20	road
+15867975	US:BIA	21		N21	road
+15936819	US:BIA	171		BIA Route 171 (AZ)	road
+16031166	US:BIA	6331		Navajo Route 6331	road
+16031167					road
+16031169	US:BIA	213		Navajo Route N213	road
+16031170	US:BIA	215		Navajo Route N215	road
+16031171	US:BIA	212		Navajo Route N212	road
+16053188	US:AZ:Apache	6040		Apache County Road 6040	road
+16056809	Valley Metro	DPH 3rd		Downtown Phoenix Hub	light_rail
+16056810	Valley Metro	DPH 5th		Downtown Phoenix Rail Hub	light_rail
+16077630	US:AZ:Apache	2180		Apache County Road 2180	road
+16079925	lcn			Red Mesa Rim Trail	mtb
+16121896	US:US				road
+16161287				Future SR 210	road
+16176435	US:NFSR:Coronado:FR	39		Forest Route 39 (Arizona)	road
+16188712	Camel Express	Gold		Gold Route - Quartzsite to Blythe	bus
+16188831	Camel Express	Orange		Orange Route - Quartzsite  to Parker	bus
+16191940	Camel Express	Blue		Blue Route - Quartzsite to Yuma	bus
+16194917	Camel Express	Purple		Purple Route - Quartzsite to Lake Havasu City	bus
+16243591	US:NFSR:Tonto:FR	204		Forest Route 204	road
+16246444	lwn	615		Overland Trail #615	hiking
+16247503	US:AZ:Scenic	Joshua Forest Scenic Road		Joshua Forest Scenic Road	road
+16247519	US:AZ:Scenic	Apache Trail Historic Road		Apache Trail Historic Road	road
+16247554	US:AZ:Scenic	Desert to Tall Pines Scenic Road		Desert to Tall Pines Scenic Road	road
+16249074	US:AZ:Scenic	Gila Pinal Scenic Road		Gila Pinal Scenic Road	road
+16249261	US:AZ:Scenic	Copper Corridor Scenic Road		Copper Corridor Scenic Road (SR 177)	road
+16249308	US:AZ:Scenic	Copper Corridor Scenic Road		Copper Corridor Scenic Road (SR 77)	road
+16249343	US:AZ:Scenic	Sky Island Parkway		Sky Island Parkway	road
+16249422	US:AZ:Scenic			Patagonia – Sonoita Scenic Road	road
+16249481	US:AZ:Scenic	Organ Pipe Cactus Parkway		Organ Pipe Cactus Parkway	road
+16249540	US:AZ:Scenic	Swift Trail Parkway		Swift Trail Parkway	road
+16249579	US:AZ:Scenic	Coronado Trail Scenic Road		Coronado Trail Scenic Road	road
+16251491	US:AZ:Scenic	San Francisco Peaks Scenic Road		San Francisco Peaks Scenic Road	road
+16251505	US:AZ:Scenic	White Mountain Scenic Road		White Mountain Scenic Road	road
+16251536	US:AZ:Scenic	White River Scenic Road		White River Scenic Road	road
+16251569	US:AZ:Scenic	"Diné Tah ""Among The People"" Scenic Road"		"Diné Tah ""Among The People"" Scenic Road"	road
+16251660	US:AZ:Scenic	Kayenta – Monument Valley Scenic Road		Kayenta – Monument Valley Scenic Road	road
+16251673	US:AZ:Scenic	Tse'nikani – Flat Mesa Scenic Road		Tse'nikani – Flat Mesa Scenic Road	road
+16251685	US:AZ:Scenic	Naat’tis’aan “Navajo Mountain” Scenic Road		Naat’tis’aan “Navajo Mountain” Scenic Road	road
+16252838	US:AZ:Scenic	Sedona – Oak Creek Canyon Scenic Road		Sedona – Oak Creek Canyon Scenic Road	road
+16252866	US:AZ:Scenic	Red Rock Scenic Road		Red Rock Scenic Road	road
+16252872	US:AZ:Scenic	Mingus Mountain Scenic Road		Mingus Mountain Scenic Road	road
+16252912	US:AZ:Scenic	Fredonia – Vermillion Cliffs Scenic Road		Fredonia – Vermillion Cliffs Scenic Road	road
+16252962	US:AZ:Scenic	Kaibab Plateau – North Rim Parkway		Kaibab Plateau – North Rim Parkway (AZ Scenic)	road
+16252976	US:AZ:Scenic	Dry Creek Scenic Road		Dry Creek Scenic Road	road
+16286053	US:BIA	15		Navajo Route 15	road
+16286054	US:AZ:Coconino	505		Coconino County Road 505	road
+16331318				Línea TC	tracks
+16389010	US:AZ:Mohave	131		County Road 131	road
+16389947				Antelope Wash Evacuation Route	evacuation
+16463442				FUTS	foot
+17015417				Delaney-Colorado River	power
+17053689				ARZC Trackage Rights in BNSF Phoenix Subdivision	railway
+17302032	lcn			Liberty Avenue Bicycle Boulevard	bicycle
+17352454	lwn			DFLT Seitts	hiking
+17408085				North Beardsley Canal Road	road
+17733408				Pima West Loop Trail	hiking
+17750993		559		Campus Trail	hiking
+17866241	lcn			Highly Falkner shared-use path	bicycle
+17918256				Indian Route 8070	road
+17927557	lwn			Jayden's Impossible Garden	foot
+17973922	lwn			Dove Valley Park Walking Path	foot
+17973923	lwn			Deer Valley Park Walking Path	foot
+17973924	lwn			Paseo Highlands Park Walking Path	foot
+17973925	lwn			Deem Hills Park Walking Path	foot
+17973926	lwn			Tramonto Park Walking Path	foot
+17974083	lwn			Cashman Park Walking Path	foot
+17974084	lwn			John W. Teets Park Walking Path	foot
+17974085	lwn			Dynamite Park Walking Path	foot
+17974086	lwn			Desert Broom Park Walking Path	foot
+17974087	lwn			Desert Willow Park Walking Path	foot
+17977413	lwn			Rose Mofford Sports Complex Walking Path	foot
+17977414	lwn			North Mountain Park Walking Path	foot
+17977415	lwn			Cholla Cove Park Walking Path	foot
+17977416	lwn				foot
+17977801	lwn			Steele Indian School Park Walking Path	foot
+17977802	lwn				foot
+17977803	lwn			Maryvale Park Walking Path	foot
+17977804	lwn			La Pradera Park Walking Path	foot
+17977805	lwn			Washington Park Walking Path	foot
+17977806	lwn			Granada Park Walking Path	foot
+17977807	lwn			Sumida Park Walking Path	foot
+17977821	lwn			Los Olivos Park Walking Path	foot
+17981481	lwn			Rio Salado Habitat Restoration Area Walking Path	foot
+17981482	lwn			Santa Maria Park Walking Path	foot
+17981483	lwn			Desert West Park Walking Path	foot
+17981484	lwn			Encanto Park Walking Path	foot
+17981485	lwn			Perry Park Walking Path	foot
+17981486	lwn			Papago Park Walking Path	foot
+17981666	lwn			Mountain Vista Park Walking Path	foot
+17981667	lwn			Western Star Park Walking Path	foot
+17981668	lwn			Hermoso Park Walking Path	foot
+17981669	lwn			El Reposo Park Walking Path	foot
+17981670	lwn			El Prado Park Walking Path	foot
+17981671	lwn			Cesar Chavez Park Walking Path	foot
+17981672	lwn			Laveen Village Park Walking Path	foot
+17981673	lwn			Manzanita Park Walking Path	foot
+17981674	lwn			Playa Margarita Park Walking Path	foot
+17981675	lwn			Grant Park Walking Path	foot
+17981676	lwn			Verde Park Walking Path	foot
+17981677	lwn			Eastlake Park Walking Park	foot
+17984168	lwn			Pecos Park Walking Path	foot
+17984169	lwn			Vista Canyon Park Walking Path	foot
+17984170	lwn			Sun Ray Park Walking Path	foot
+18150534				Sky Harbor Fitness Trail	running
+18313422	lcn			Sonoqui Wash Trail	bicycle
+18438919	lwn	91		Barbershop Trail	hiking
+18505892		AZT		Arizona Trail Pusch Ridge Wilderness Bypass	hiking
+18557079	lwn			King Canyon / Gould Mine Loop	hiking
+18562659	lwn			Pass Mountain Trail	hiking
+18565855	lwn	DS		Douglas Spring Trail	hiking
+18566278	lwn			Three Tank Trail	hiking
+18566291	lwn	CT		Carrillo Trail	hiking
+18566308	lwn	GT		Garwood Trail	hiking
+18715873					foot
+18864587	lwn	WPC212		West Pinto Creek Trail	hiking
+18864588	lwn	RR109		Reavis Ranch Trail	hiking
+18864589	lwn	RC110		Rogers Canyon Trail	hiking
+18864590	lwn	JF106		JF Trail	hiking
+18864591	lwn	W114		Woodbury Trail	hiking
+18864592	lwn	HB111		Hoolie Bacon Trail	hiking
+18864593	lwn	RT107		Red Tanks Trail #107	hiking
+18864594	lwn	PT105		Peters Trail	hiking
+18864595	lwn	CT239		Cavalry Trail	hiking
+18864596	lwn	BP129		Bull Pass Trail	hiking
+18864597	lwn	SW236		Second Water Trail	hiking
+18864598	lwn	BM241		Black Mesa Trail	hiking
+18864599	lwn	BC103		Boulder Canyon Trail	hiking
+18864600				Grand Enchantment Trail Segment 1: Superstition Wilderness	hiking
+18864601	lwn	104		Dutchman Trail	hiking
+18864612	nhn	AZT		Arizona Trail	horse
+18864613	ncn	AZT		Arizona Trail	mtb
+18864736				Grand Enchantment Trail Segment 2	hiking
+18864745				Grand Enchantment Trail Segment 3: White Canyon Wilderness	hiking
+18864746	lwn	LSTL		Legends of Superior Loop Trail	hiking
+18864749				Grand Enchantment Trail Segment 4: Tortilla Mountains	hiking
+18864763				Grand Enchantment Trail Segment 5: Antelope Peak	hiking
+18864810				Grand Enchantment Trail Segment 6: Brandenburg Mountain	hiking
+18864825				Grand Enchantment Trail Segment 7: Aravaipa Canyon Wilderness	hiking
+18864844				Grand Enchantment Trail Segment 6 Alternative: Aravaipa Canyon Wilderness Bypass	hiking
+18864868				Grand Enchantment Trail Segment 7 Alternative: Aravaipa Canyon Bypass North	hiking
+18864921				Grand Enchantment Trail Alternative 8A	hiking
+18864922				Grand Enchantment Trail Alternative 8B	hiking
+18864923				Grand Enchantment Trail Segment 8: Santa Teresa Wilderness	hiking
+18864933				Grand Enchantment Trail Segment 9: Underwood Canyon	hiking
+18864995				Grand Enchantment Trail Alternative 10B	hiking
+18864996				Grand Enchantment Trail Segment 10: Pinaleño Mountains	hiking
+18864997				Grand Enchantment Trail Alternative 10A	hiking
+18866152				Grand Enchantment Trail Segment 11: Gila Valley South	hiking
+18866249				Grand Enchantment Trail Alternative 12	hiking
+18866250				Grand Enchantment Trail Segment 12: Gila Valley North	hiking
+18866397				Grand Enchantment Trail Segment 13: Old Safford-Morenci Trail	hiking
+18866600				Grand Enchantment Trail: Lower Eagle Creek Road Spur	hiking
+18866601				Grand Enchantment Trail Segment 14: Eagle Creek - Painted Bluffs	hiking
+18866642				Grand Enchantment Trail Segment 15: Coronado Trail	hiking
+18866650				Grand Enchantment Trail Alternative 15	hiking
+18866789				Grand Enchantment Trail Segment 16: Blue River	hiking
+18866862				Grand Enchantment Trail Segment 17: Maple Peak	hiking
+18866863	lwn	7		Wild Bunch Trail	hiking
+18983188				Victoria Mine Trail	hiking
+19001734	lwn			Hugh Norris Big Loop	hiking
+19020837				Beale Street	road
+19034647	US:I:Future	11	north		road
+19034648	US:I:Future	11	south		road
+19034649	US:I:Future	11		Future I-11	road
+19100780	US:AZ				road
+19119454	US:BIA	64		Navajo Route 64	road
+19119495	US:BIA	7		Navajo Route 7	road
+19119540	US:BIA	27		Navajo Route 27	road
+19136129	US:US:Old	93		Old US 93 (AZ)	road
+19173922				Canyon Coaster	railway
+19174298	US:US:Future	93			road
+19175278	US:US:Historic	89A		Old US 89A	road
+19186931	US:I:Future	40		Future I-40	road
+19198179	US:AZ:Mohave	259		Mohave County Highway 259	road
+19198183	US:AZ:Mohave	157		Mohave County Route 157	road
+19236098	Valley Metro	A		Light Rail A Line Westbound	light_rail
+19244495	Valley Metro	B		Light Rail B Line Northbound	light_rail
+19251454	Valley Metro	B		Light Rail B Line Southbound	light_rail
+19363110				Grand Avenue	road
+19477456				Bullhead Parkway	road
+19531245	US:NHT			Juan Bautista de Anza National Historic Trail Auto Tour Route	road
+19639035	US:BIA	131		Indian Route 131	road
+19639036	US:BIA	56		Indian Route 56	road
+19639037	US:BIA	28		Gilbert Road	road
+19639038	US:BIA	68		Santan Road	road
+19639039	US:BIA	60			road
+19639040	US:BIA	72			road
+19639041	US:BIA	121		Aspen Road	road
+19639042	US:BIA	125		Maize Road	road
+19639043	US:BIA	131			road
+19639044	US:BIA	80		Upper Santan Road	road
+19639045	US:BIA	7		Sacaton Road	road
+19639046	US:BIA	84			road
+19639047	US:BIA	85			road
+19639048	US:BIA	1			road
+19639049	US:BIA	107			road
+19639190				Sky Harbor Boulevard	road
+19699374	Needles Area Transit	Bullhead		Fort Mohave/Bullhead Shuttle	bus
+19787432		893		The Buttes FR 893	road
+19787433		37		Hellsgate Trail #37	hiking
+19857000		PC		Pipeline Canyon Trail	hiking
+19857197		YV		Yavapai Point Trail	hiking
+19857198		CD		Cottonwood	hiking
+19868800	lwn			Golden Gate Mountain Loop	hiking
+19895187				SR 85 Gila Bend East Bypass	road
+19902376				SunZia Transmission	power
+19972845	US:AZ:Mohave	135		Cottonwood Road	road
+20012137	lcn	PvBr1	both	Town of Prescott Valley Bicycle Route 1 {ToPVBR1}	bicycle
+20020393		MP-2		Prescott Valley Multiuse Pathway MP-2	bicycle
+20043274	lcn	PBr1		City of Prescott Bicycle Route 1 {CoPBr1}	bicycle
+20043723					
+20046544	lwn	PP1		Montezuma Promenade	foot
+20046583	lwn	PP1		City of Prescott Pedestrian and Promenade Network 1 {CoPPPN1}	foot
+20054496		Node1		Pbr1 n1	bicycle
+20054497	lcn	PBr1N2		PBr1 N2	bicycle
+20054498	lcn	PBr1N3			bicycle
+20054499		Pbr1N4		Pbr1N4	bicycle
+20054500	lcn	US:P:AZ			bicycle
+20085037	lcn	PvBr2	both	Town of Prescott Valley Bicycle Route 2 {ToPVBR2}	bicycle
+20086484	US:BIA	5113		Navajo Route 5113	road
+20086498	US:BIA	6			road
+20115040					road
+20124868	US:Hopi	18		Hopi Route 18	road
+20124869	US:Hopi	17		Hopi Route 17	road
+20124870	US:BIA	4		Navajo Route 4	road
+20124872	US:Hopi	4		Hopi Route 4	road
+20124873	US:BIA	43		Indian Route 43	road
+20124988	US:BIA	8064		Navajo Route 8064	road
+20124989	US:BIA	42		Indian Route 42	road
+20127066	US:US:Old	95			road
+20128546				Central Boulevard	road
+20137090	US:AZ	77		Arizona State Route 77	road
+20180090	US:AZ	24	east	Gateway Freeway	road
+20180091	US:AZ	24	west	Gateway Freeway	road
+20206559	US:I:Express	17	north		road
+20206648	US:I:Express	17	south		road
+20206649	US:I	17			road

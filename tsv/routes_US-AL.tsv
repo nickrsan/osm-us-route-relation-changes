@@ -1,1142 +1,1142 @@
-@id	name	route	network
-23167		road	US:MS
-111060		road	US:I
-132290		road	US:I
-214808	Montevallo Saturday Ride	bicycle	
-239393	VES Morning 00-05	bus	
-299282		road	US:GA
-319705		road	US:US
-326341	Silver Comet Trail	bicycle	rcn
-326630	Chief Ladiga Trail	bicycle	rcn
-370732		road	US:MS
-371156		road	US:US
-382496		road	US:US
-382641		road	US:FL
-382643		road	US:FL
-382655		road	US:FL
-382668		road	US:FL
-386259		road	US:FL
-386261		road	US:FL
-386262		road	US:FL
-419146	Bike Route 69	bicycle	lcn
-448264	Bike Route 60 west	bicycle	lcn
-449445		road	US:US:Alternate
-541874	Bike Route 55 south	bicycle	lcn
-541896	Bike Route 59	bicycle	lcn
-541897	Bike Route 45	bicycle	lcn
-541899	Bike Route 64 east	bicycle	lcn
-572492	Aldridge Creek Greenway	bicycle	lcn
-574585	Bike Route 70	bicycle	lcn
-574586	Bike Route 74	bicycle	lcn
-574588	Bike Route 41 south	bicycle	lcn
-574589	Bike Route 50	bicycle	lcn
-574593	Bike Route 31 south	bicycle	lcn
-574633	Bike Route 40	bicycle	lcn
-574661	Bike Route 54	bicycle	lcn
-576356	Indian Creek Greenway	bicycle	lcn
-903819	Bike Route 30 (proposed)	bicycle	lcn
-1024905		road	US:I
-1024907		road	US:I
-1070141	Bus 10	bus	Huntsville Shuttle Bus
-1168563		bicycle	
-1179342	Bike Route 49	bicycle	lcn
-1179347	Bike Route 51 north/east	bicycle	lcn
-1179384	Bike Route 74 (proposed)	bicycle	lcn
-1179386	Bike Route 76	bicycle	lcn
-1179388	Bike Route 75 (proposed)	bicycle	lcn
-1179389	Bike Route 52	bicycle	lcn
-1179405	Bike Route 71 (proposed) - North/South	bicycle	lcn
-1179527	Bike Route 53	bicycle	lcn
-1179528	Bike Route 22	bicycle	lcn
-1187190	Bike Route 73 (proposed)	bicycle	lcn
-1201527		road	US:I
-1201528		road	US:I
-1240960	Bike Route 73A (proposed) - East/West	bicycle	lcn
-1250017		road	US:I
-1281450		road	US:US
-1281515		road	US:US
-1283526		road	US:US
-1283527		road	US:US
-1296146		road	US:I
-1304595		bicycle	
-1309001		road	US:GA
-1310510		road	US:GA
-1311146		road	US:GA
-1311148		road	US:GA
-1319476	NHS High Priority Corridor 7	road	US:NHS High Priority Corridors
-1319492	NHS High Priority Corridor 45	road	US:NHS High Priority Corridors
-1319495	NHS High Priority Corridor 6	road	US:NHS High Priority Corridors
-1441410	AGS North District	railway	
-1441565	AGS South District	railway	
-1441644	Memphis District West End	railway	
-1441646	Memphis District East End	railway	
-1441679	NA/West End District	railway	
-1523549	Natchez Trace Parkway (Mississippi)	road	US:NPS:Natchez_Trace
-1525574		road	US:MS
-1526092		road	US:MS
-1526094		road	US:MS
-1526987		road	US:MS
-1527055		road	US:MS
-1527074		road	US:MS
-1527445		road	US:MS
-1528544		road	US:MS
-1529165		road	US:MS
-1531425		road	US:AL
-1531429		road	US:AL
-1531511		road	US:AL
-1531548		road	US:AL
-1531549		road	US:AL
-1531553		road	US:AL
-1531586		road	US:AL
-1531606		road	US:AL
-1531617		road	US:AL
-1531618		road	US:AL
-1531622		road	US:AL
-1531627		road	US:AL
-1531628		road	US:AL
-1531631		road	US:AL
-1532143		road	US:AL
-1532144		road	US:AL
-1532147		road	US:AL
-1532211		road	US:AL
-1532212		road	US:AL
-1532464		road	US:AL
-1532465		road	US:AL
-1532466		road	US:AL
-1532467		road	US:AL
-1532468		road	US:AL
-1532710		road	US:AL
-1532711		road	US:AL
-1532712		road	US:AL
-1532713		road	US:AL
-1532714		road	US:AL
-1532715		road	US:AL
-1532716		road	US:AL
-1532745		road	US:AL
-1532746		road	US:AL
-1532747		road	US:AL
-1532748		road	US:AL
-1532749		road	US:AL
-1532750		road	US:AL
-1532844		road	US:AL
-1532864		road	US:AL
-1532865		road	US:AL
-1532866		road	US:AL
-1532991		road	US:AL
-1532992		road	US:AL
-1532993		road	US:AL
-1532994		road	US:AL
-1532995		road	US:AL
-1532996		road	US:AL
-1532997		road	US:AL
-1532998		road	US:AL
-1532999		road	US:AL
-1533000		road	US:AL
-1533001		road	US:AL
-1534494		road	US:AL
-1534495		road	US:AL
-1534496		road	US:AL
-1534498		road	US:AL
-1534499		road	US:AL
-1534500		road	US:AL
-1534501		road	US:AL
-1534502		road	US:AL
-1534504		road	US:AL
-1534505		road	US:AL
-1534506		road	US:AL
-1534507		road	US:AL
-1534508		road	US:AL
-1534509		road	US:AL
-1534510		road	US:AL
-1534511		road	US:AL
-1534751		road	US:AL
-1534752		road	US:AL
-1534753		road	US:AL
-1534754		road	US:AL
-1534755		road	US:AL
-1534756		road	US:AL
-1534757		road	US:AL
-1534758		road	US:AL
-1534759		road	US:AL
-1534760		road	US:AL
-1534761		road	US:AL
-1534762		road	US:AL
-1534763		road	US:AL
-1534764		road	US:AL
-1534765		road	US:AL
-1534770		road	US:AL
-1534771		road	US:AL
-1534772		road	US:AL
-1534773		road	US:AL
-1534774		road	US:AL
-1534775		road	US:AL
-1534776		road	US:AL
-1534882		road	US:AL
-1534883		road	US:AL
-1534884		road	US:AL
-1534885		road	US:AL
-1534886		road	US:AL
-1534887		road	US:AL
-1534888		road	US:AL
-1534889		road	US:AL
-1534890		road	US:AL
-1534891		road	US:AL
-1534892		road	US:AL
-1534893		road	US:AL
-1534894		road	US:AL
-1534895		road	US:AL
-1534896		road	US:AL
-1534897		road	US:AL
-1534898		road	US:AL
-1534934		road	US:AL
-1534935		road	US:AL
-1534936		road	US:AL
-1534937		road	US:AL
-1534938		road	US:AL
-1534939		road	US:AL
-1534941		road	US:AL
-1534942		road	US:AL
-1534943		road	US:AL
-1534944		road	US:AL
-1534945		road	US:AL
-1534946		road	US:AL
-1534947		road	US:AL
-1534948		road	US:AL
-1534949		road	US:AL
-1534950		road	US:AL
-1534951		road	US:AL
-1534952		road	US:AL
-1534953		road	US:AL
-1534954		road	US:AL
-1534955		road	US:AL
-1534956		road	US:AL
-1534957		road	US:AL
-1534958		road	US:AL
-1534959		road	US:AL
-1534960		road	US:AL
-1534961		road	US:AL
-1534962		road	US:AL
-1534975		road	US:AL
-1534981		road	US:AL
-1534982		road	US:AL
-1534983		road	US:AL
-1534984		road	US:AL
-1534985		road	US:AL
-1534986		road	US:AL
-1534987		road	US:AL
-1535000		road	US:AL
-1535001		road	US:AL
-1535079		road	US:AL
-1535080		road	US:AL
-1535081		road	US:AL
-1535082		road	US:AL
-1535083		road	US:AL
-1535084		road	US:AL
-1535085		road	US:AL
-1535086		road	US:AL
-1535087		road	US:AL
-1535088		road	US:AL
-1535089		road	US:AL
-1535090		road	US:AL
-1535091		road	US:AL
-1535092		road	US:AL
-1535093		road	US:AL
-1535094		road	US:AL
-1535095		road	US:AL
-1535096		road	US:AL
-1535097		road	US:AL
-1535098		road	US:AL
-1535099		road	US:AL
-1535100		road	US:AL
-1535101		road	US:AL
-1535102		road	US:AL
-1535103		road	US:AL
-1535104		road	US:AL
-1535105		road	US:AL
-1535106		road	US:AL
-1535107		road	US:AL
-1535108		road	US:AL
-1535109		road	US:AL
-1535110		road	US:AL
-1535111		road	US:AL
-1535112		road	US:AL
-1535113		road	US:AL
-1535114		road	US:AL
-1535115		road	US:AL
-1535116		road	US:AL
-1535705		road	US:AL
-1535706		road	US:AL
-1535708		road	US:AL
-1535709		road	US:AL
-1535710		road	US:AL
-1535711		road	US:AL
-1535713		road	US:AL
-1535714		road	US:AL
-1535716		road	US:AL
-1535717		road	US:AL
-1535718		road	US:AL
-1535719		road	US:AL
-1535720		road	US:AL
-1535722		road	US:AL
-1535724		road	US:AL
-1535725		road	US:AL
-1535726		road	US:AL
-1535727		road	US:AL
-1535728		road	US:AL
-1535729		road	US:AL
-1535730		road	US:AL
-1535731		road	US:AL
-1535733		road	US:AL
-1535734		road	US:AL
-1535735		road	US:AL
-1535736		road	US:AL
-1535737		road	US:AL
-1535738		road	US:AL
-1535739		road	US:AL
-1535740		road	US:AL
-1535741		road	US:AL
-1535742		road	US:AL
-1535743		road	US:AL
-1535744		road	US:AL
-1535745		road	US:AL
-1535746		road	US:AL
-1535748		road	US:AL
-1535749		road	US:AL
-1535750		road	US:AL
-1535751		road	US:AL
-1535752		road	US:AL
-1535753		road	US:AL
-1535754		road	US:AL
-1535755		road	US:AL
-1535756		road	US:AL
-1535757		road	US:AL
-1535758		road	US:AL
-1535759		road	US:AL
-1535760		road	US:AL
-1535761		road	US:AL
-1535762		road	US:AL
-1535763		road	US:AL
-1535764		road	US:AL
-1535765		road	US:AL
-1535766		road	US:AL
-1562698	Tennessee State Route 10 (unsigned)	road	US:TN
-1562811	Tennessee State Route 16 (primary)	road	US:TN:primary
-1566450		road	US:TN:secondary
-1566451		road	US:TN:secondary
-1569024		road	US:TN:secondary
-1577789		road	US:GA
-1577794		road	US:GA
-1579406		road	US:GA
-1581503		road	US:GA
-1582573	GA 39 Spur	road	US:GA:Spur
-1595181	Noah Bike Trail	bicycle	lcn
-1613720		road	US:ADHS
-1613729		road	US:ADHS
-1629686		road	US:US
-1642836	Pinhoti Trail	hiking	rwn
-1646641	Fall Line Freeway	road	US:GA:GRIP
-1666806	Richard Martin Trail (horse)	horse	lhn
-1668257	Swan Creek Greenway Trail	hiking	lwn
-1668258	Swan Creek Greenway Trail	bicycle	lcn
-1693963		road	US:I
-1695585		road	US:I
-1695587		road	US:I
-1723544	FL 83	road	US:FL
-1723609	FL 10	road	US:FL
-1723612		road	US:FL
-1736288	FL 8	road	US:FL
-1745479		road	US:AL
-1745480		road	US:AL
-1745481		road	US:AL:Truck
-1783178		bicycle	rcn
-1783179		bicycle	rcn
-1783180		bicycle	rcn
-1783181		bicycle	rcn
-1783182		bicycle	rcn
-1783183		bicycle	rcn
-1783184		bicycle	rcn
-1783185		bicycle	rcn
-1783186		bicycle	rcn
-1783187		bicycle	rcn
-1783189		bicycle	rcn
-1783190		bicycle	rcn
-1783191		bicycle	rcn
-1783192		bicycle	rcn
-1783193		bicycle	rcn
-1783194		bicycle	rcn
-1783195		bicycle	rcn
-1783196		bicycle	rcn
-1783197		bicycle	rcn
-1783198		bicycle	rcn
-1783199		bicycle	rcn
-1783200		bicycle	rcn
-1783201		bicycle	rcn
-1783202	Eastern Shore Trail	bicycle	rcn
-1783203		bicycle	rcn
-1783204		bicycle	rcn
-1783205		bicycle	rcn
-1783206	Underground Railroad Bicycle Route (Alabama)	bicycle	rcn
-1786349	Land Between the Lakes	bicycle	rcn
-1788483	Underground Railroad Bicycle Route (Mississippi)	bicycle	rcn
-1809808	Amtrak Crescent: New Orleans => New York	train	Amtrak
-1867988		road	US:US:Truck
-1869101		road	US:US:Truck
-1930179		road	US:US:Business
-1930180		road	US:US:Business
-1930181		road	US:US:Business
-1930182		road	US:US:Business
-1930183		road	US:US:Business
-2142763		road	US:FL:CR
-2142902		road	US:FL:CR
-2142906		road	US:FL:CR
-2142908		road	US:FL:CR
-2182433	Alabama River	boat	inland waterways
-2182456	Apalachicola-Chattahoochee-Flint River System	boat	inland waterways
-2182504	Tennessee River	boat	inland waterways
-2183774	Black Warrior-Tombigbee Waterway	ship	inland waterways
-2184036	Tennessee-Tombigbee Waterway	boat	inland waterways
-2185378	Gulf Intracoastal Waterway	waterway	inland waterways
-2195043	Dothan Subdivision	railway	
-2195163	A&WP Subdivision	railway	
-2195171	Lineville Subdivision	railway	
-2195175	Wilsonville Branch	railway	
-2195186			lcn
-2198503	Birmingham Mineral Subdivision	railway	
-2198504	Boyles Terminal Subdivision	railway	
-2198505	Bradshaw Branch	railway	
-2198506	M&M Subdivision	railway	
-2198507	NO&M Subdivision	railway	
-2198509	PD Subdivision	railway	
-2198510	Prattville Branch	railway	
-2198511	S&NA North Subdivision	railway	
-2198512	S&NA South Subdivision	railway	
-2198519	3-B North District	railway	
-2198520	3-B South District	railway	
-2198521	Anniston District	railway	
-2198523	Berry Branch	railway	
-2198525	Central of Georgia District	railway	
-2198526	Demopolis District	railway	
-2198527	Ensley Branch	railway	
-2198529	M&G District	railway	
-2198530	Mahrt District	railway	
-2200298	Birmingham Subdivision	railway	
-2200669	Beaumont Subdivision	railway	
-2253408	Chattanooga Subdivision	railway	
-2301032		road	US:US
-2301036		road	US:US
-2301039		road	US:US
-2301040		road	US:US
-2302694		road	US:US
-2303023		road	US:US
-2303024		road	US:US
-2303026		road	US:US
-2303028		road	US:US
-2303030		road	US:US
-2304406		road	US:US
-2304409		road	US:US
-2310395		road	US:US
-2310396		road	US:US
-2310572		road	US:US
-2310676		road	US:US
-2310677		road	US:US
-2310729		road	US:US
-2310730		road	US:US
-2310731		road	US:US
-2310732		road	US:US
-2310779		road	US:US
-2310808		road	US:US
-2319883		road	
-2320010		road	
-2320014		road	
-2320015		road	
-2320016		road	
-2320017		road	
-2320021		road	
-2320023		road	
-2320024		road	
-2320028		road	US:US
-2649569	Old Spanish Trail from Mobile to Pensacola (1919)	road	US:auto_trail
-2649586		road	US:I
-2652045	Dixie Overland Highway from Montgomery to Tuskegee (1919)	road	US:auto_trail
-2652046	Dixie Overland Highway from Tuskegee to Columbus (1923)	road	US:auto_trail
-2723624	Bankhead Highway from Talladega to Oxford (1919)	road	US:auto_trail
-2723625	Florida Short Route from Opelika to Columbus (1919)	road	US:auto_trail
-2723626	Florida Short Route from Sylacauga to Opelika (1923)	road	US:auto_trail
-2724920	Bankhead Highway from Birmingham to Talladega (1923)	road	US:auto_trail
-2724921	Florida Short Route from Anniston to Oxford (1919)	road	US:auto_trail
-2724922	Florida Short Route from Talladega to Sylacauga (1919)	road	US:auto_trail
-2878438		road	US:I
-2878439		road	US:I
-2883785		road	US:US
-2955629		road	US:I
-2955630		road	US:I
-3134596		road	US:MS
-3300030	Natchez Trace Parkway (Alabama)	road	US:NPS:Natchez_Trace
-3300031	Natchez Trace Parkway (Tennessee)	road	US:NPS:Natchez_Trace
-3317163		bicycle	ncn
-3346762	Natchez Trace Parkway (Bike Route)	bicycle	ncn
-3480466	South Bessemer	bus	
-3480473	Jefferson	bus	
-3480474	Ensley/Wylam	bus	
-3480475	Pratt Ensley	bus	
-3480476		bus	
-3480477	Highland	bus	
-3480478	Idlewild Palisades	bus	
-3480479	Eastwood Mall	bus	
-3480480	Fountain Heights	bus	
-3480602	Airport	bus	
-3480605	Tarrant	bus	
-3480606	23 North Birmingham	bus	
-3480787	Centerpoint	bus	
-3480950	28 South East Lake	bus	
-3480998	Highway South	bus	
-3484447	38 Graymont Ensley	bus	
-3484509		bus	
-3488200	Fairmont	bus	
-3488214	41 Fairfield	bus	
-3488268	42 Brockwood	bus	
-3488832	Birmingham Zoo	bus	
-3488833		bus	
-3488903	Bessemer	bus	
-3497765	Blue Line North/South	bus	
-4524305	Lookout Mountain Parkway	road	
-4633136		road	US:AL
-4645637		road	US:AL
-5551876		road	US:AL
-5655878	Dr. Bill Sims Hike-Bike Way	bicycle	lcn
-5876078		road	
-5941009		road	US:AL
-6480360	Baldwin Beach Express	road	US:AL:Baldwin:Baldwin_Beach_Express
-6483046	Foley Beach Express	road	US:AL:Baldwin:Foley_Beach_Express
-6887444		road	US:I
-6888516		road	US:I
-6888569		road	US:I
-6888686		road	US:I
-6891494		road	US:I
-6901304	Richard Martin Trail (walking)	foot	lwn
-6941797	Limestone County Canoe and Kayak Trail	canoe	rpn
-6954296		foot	
-6960046	Fire Tower Trail	hiking	lwn
-6964121	Stone Cuts Trail	hiking	lwn
-6964122	South Plateau Loop	hiking	lwn
-6968824	Horse Loop	horse	lhn
-6971300	Jones Branch Loop Trail	hiking	lwn
-7120858	Wellness Trail	fitness_trail	
-7282961	Conecuh Trail	hiking	lwn
-7284488	Colonial Pipeline	pipeline	
-7450049	Alabama & Gulf Coast Railway	railway	
-7565543			
-8337205	Transcontinental Gas Pipeline	pipeline	
-8440192	Alabama and Tennessee River Railway	railway	
-8691456	Southern Natural Gas	pipeline	
-8691680	PPL Pipeline	pipeline	
-8753664		road	
-8813851	Huntsville Bike Route 20	bicycle	lcn
-8814345	Huntsville Bike Route 31A	bicycle	lcn
-8840790	NA / West End District	railway	
-8840793	Chattanooga Subdivision	railway	
-8840795	Memphis District West End	railway	
-8840796	AGS South District	railway	
-8840797	East End District	railway	
-8840798	AGS North District	railway	
-8848494	Huntsville Bike Route 46	bicycle	lcn
-8848495	Huntsville Bike Route 26	bicycle	lcn
-8848656	Proposed Connector Bike Route - East/West	bicycle	lcn
-8848736	Bike Route 74 (proposed)	bicycle	lcn
-8848884	Proposed Connector Bike Routes - East/West	bicycle	lcn
-8851036	Bike Route 55 (proposed)	bicycle	lcn
-8851189	Bike Route 76 (proposed)	bicycle	lcn
-8851334	Bike Route 47	bicycle	lcn
-8862190	Bike Route 60 (proposed)	bicycle	lcn
-8862244	Bike Route 31 (proposed)	bicycle	lcn
-8867765		road	US:AL
-8896780		road	US:AL
-8896804		road	US:AL
-8896821		road	US:AL
-8954140	Bike Route 60 east	bicycle	lcn
-8955108	Bike Route 31 north	bicycle	lcn
-8956169	Bike Route 41 north	bicycle	lcn
-8968139	Bike Route 51 south/west	bicycle	lcn
-8968418	Bike Route 55 north	bicycle	lcn
-8994164	Bike Route 64 west	bicycle	lcn
-9045390	Bus 3	bus	Huntsville Shuttle Bus
-9068913	Bus 2	bus	Huntsville Shuttle Bus
-9153794	M&B Railroad	railway	
-9169182		railway	
-9186469	Heart of Georgia Railroad	railway	
-9186472	Georgia Southwestern Railroad	railway	
-9200149	Huntsville and Madison County Railroad Authority	railway	
-9209906	Bay Line Railroad	railway	
-9223015	"Alabama, Tennessee and Northern Railroad"	railway	
-9226707		railway	
-9227009	Mobile and Ohio Railroad	railway	
-9392544		railroad	
-9430785		railway	
-9721725	Chattahoochee Valley Railroad Trail	bicycle	lcn
-9721747	Rattlesnake Ridge Trail	bicycle	lcn
-9721748	Canal Trail	bicycle	lcn
-9721749	Fort Morgan Road Trail	bicycle	lcn
-9721750	Alligator Marsh Trail	bicycle	lcn
-9721751	Gulf Oak Ridge Trail	bicycle	lcn
-9721752	Twin Bridges Trail	bicycle	lcn
-11017166	Bus 1	bus	Huntsville Shuttle Bus
-11020353	Bus 4	bus	Huntsville Shuttle Bus
-11020794	Bus 5	bus	Huntsville Shuttle Bus
-11021093	Bus 6	bus	Huntsville Shuttle Bus
-11021412	Bus 7	bus	Huntsville Shuttle Bus
-11021633	Bus 8	bus	Huntsville Shuttle Bus
-11021950	Bus 9	bus	Huntsville Shuttle Bus
-11042532		road	US:GA:Polk
-11046116		road	US:AL:Cleburne
-11046117		road	US:AL:Cleburne
-11046325		road	US:AL:Cleburne
-11075381		road	US:AL:Cleburne
-11075382		road	
-11075416		road	US:AL:Cleburne
-11075417		road	US:AL:Cleburne
-11075418		road	US:AL:Cleburne
-11085743	Cutoff Trail	hiking	lwn
-11085744	Nature Trail	hiking	lwn
-11085745	Cave Trail	hiking	lwn
-11086063		road	US:GA:Haralson
-11105506		road	US:AL:Cleburne
-11105507		road	US:AL:Cleburne
-11105682		road	US:AL:Cleburne
-11106819		road	US:AL:Cleburne
-11106923		road	US:AL:Cleburne
-11106924		road	US:AL:Cleburne
-11106974		road	US:AL:Cleburne
-11106975		road	US:AL:Cleburne
-11106976		road	US:AL:Cleburne
-11332192	Sabal Trail Pipeline	pipeline	
-11537390	Route 1 AUM Eastchase - Outbound	bus	Montgomery Area Transit System
-11537449	Route 1 AUM Eastchase - Inbound	bus	Montgomery Area Transit System
-11537587	Route 2 Eastdale Mall - Outbound	bus	Montgomery Area Transit System
-11537624	Route 2 Eastdale Mall - Inbound	bus	Montgomery Area Transit System
-11537741	Route 3 Montgomery Commons - Outbound	bus	Montgomery Area Transit System
-11537872	Route 3 Montgomery Commons - Inbound	bus	Montgomery Area Transit System
-11538008	Route 4 Boylston - Outbound	bus	Montgomery Area Transit System
-11538009	Route 4 Boylston - Inbound	bus	Montgomery Area Transit System
-11538052	Route 5 McGhee Road - Outbound	bus	Montgomery Area Transit System
-11538133	Route 5 McGhee Road - Inbound	bus	Montgomery Area Transit System
-11542568	Route 6 Southlawn Twingates - Outbound	bus	Montgomery Area Transit System
-11542593	Route 6 Southlawn Twingates - Inbound	bus	Montgomery Area Transit System
-11542737	Route 7 Maxwell AFB - Outbound	bus	Montgomery Area Transit System
-11542738	Route 7 Maxwell AFB - Inbound	bus	Montgomery Area Transit System
-11542891	Route 8 Gunter Annex - Outbound	bus	Montgomery Area Transit System
-11543067	Route 8 Gunter Annex - Inbound	bus	Montgomery Area Transit System
-11543164	Route 9 Virginia Loop - Outbound	bus	Montgomery Area Transit System
-11543221	Route 9 Virginia Loop - Inbound	bus	Montgomery Area Transit System
-11543475	Route 10 South Court St. - Outbound	bus	Montgomery Area Transit System
-11543863	Route 10 South Court St. - Inbound	bus	Montgomery Area Transit System
-11545916	Route 11 Rosa Parks / South Blvd. - Outbound	bus	Montgomery Area Transit System
-11545942	Route 11 Rosa Parks / South Blvd. - Inbound	bus	Montgomery Area Transit System
-11546146	Route 12 Smiley Court Gibbs Village - Outbound	bus	Montgomery Area Transit System
-11546147	Route 12 Smiley Court Gibbs Village - Inbound	bus	Montgomery Area Transit System
-11546863	Route 16 East-West Connector - Outbound	bus	Montgomery Area Transit System
-11547038	Route 16 East-West Connector - Inbound	bus	Montgomery Area Transit System
-11547082	Route 17 Boulevard - Outbound	bus	Montgomery Area Transit System
-11547180	Route 17 Boulevard - Inbound	bus	Montgomery Area Transit System
-11771300	Airport	bus	
-11771632	Spring Hill	bus	
-11771759	Highway 45	bus	
-11771986	Dauphin Street	bus	
-11772346	Broad	bus	
-11772666	Crosstown	bus	
-11772785	Dauphin Island Parkway	bus	
-11772987	Toulminville	bus	
-11773081	Plateau	bus	
-11773798	Cottage Hill	bus	
-11785335	Highway 90	bus	
-11785611	Moda Downtown Circulator	bus	
-11901815	Jefferson State College	bus	
-11902385	Forestdale Adamsville	bus	
-11902443	Operator Shuttle	bus	
-11905512		road	US:AL:Cleburne
-11905513		road	US:AL:Cleburne
-11905597		road	US:AL:Cleburne
-11905598		road	US:AL:Cleburne
-11905599		road	US:AL:Cleburne
-11905600		road	US:AL:Cleburne
-11905601		road	US:AL:Cleburne
-11905603		road	US:AL:Cleburne
-11905958	Highway	bus	
-11913769		road	US:AL:Randolph
-11913770		road	US:AL:Randolph
-11913771		road	US:AL:Randolph
-12018855		railway	
-12026208		railway	
-12041225	Amtrak Crescent: New York => New Orleans	train	Amtrak
-12322543	East Route	bus	
-12322595	North Route	bus	
-12322678	West Route	bus	
-12322789		bus	
-12322790	South Route	bus	
-12353240	East Trolley (Gadsden State CC) Route	bus	GTS
-12353417	East Trolley (Gadsden Regional) Route	bus	GTS
-12356512	Trolley Route Central	bus	GTS
-12356584	Trolley Route West	bus	GTS
-12409855	Heflin Spur	hiking	lwn
-12485285	Richard Martin Trail	bicycle	lcn
-12641612	Brahan Spring	bus	Orbit
-12644311	Patton	bus	Orbit
-12644342	Holmes UAH	bus	Orbit
-12645182	University Drive	bus	Orbit
-12645873	Byrd Spring	bus	Orbit
-12645972	Jones Valley	bus	Orbit
-12646021	Meridian A&M	bus	Orbit
-12646109	Blue Spring	bus	Orbit
-12646145	Oakwood	bus	Orbit
-12646172	Pulaski Pike	bus	Orbit
-12648679	UAH Campus	bus	Orbit
-12859265	Chattahoochee Bay Railroad	railway	G&W
-12860416	APC Farley Spur	railway	G&W
-12865875	Eufaula - Montgomery	railway	
-13302056	Selma to Montgomery National Historic Trail	road	US:NHT
-13473601		road	US:AL:Cleburne
-13473757		road	US:AL:Cleburne
-13480857		road	US:AL:Cleburne
-13487578		road	
-13512885	"Tennessee, Alabama and Georgia Railway"	railway	
-13523295	Frascati Lead	railway	
-13805393	Dixie Pipeline	pipeline	
-13831363	Bartram National Recreational Trail	hiking	lwn
-13835046	Lowline Railroad Trail	hiking	lwn
-13835047	John B Scott Forever Wild Trail	hiking	lwn
-13961168	Pinhoti Trail - GET Portion	hiking	
-13991542	Southern Natural Gas - North Main System	pipeline	
-14079414	"Yoholo Micco, The Creek Indian Trail"	bicycle	lcn
-14084370	Alabama Reunion Trail	hiking	lwn
-14084371	Campfire Trail	hiking	lwn
-14106051	Wade Mountain Nature Reserve National Recreation Trails	hiking	lwn
-14106065	Village Point Preserve National Recreation Trail	foot	lwn
-14106223	Veterans Park National Recreation Trail	foot	lwn
-14106224	Veterans Park National Recreation Trail	bicycle	lcn
-14110307	Turkey Creek Nature Preserve National Recreation Trail	hiking	lwn
-14134089	Walls Of Jericho Trail	hiking	lwn
-14134178	Freedom Hills National Recreation Trail	horse	rhn
-14134180	Coon Creek National Recreation Trail	hiking	lwn
-14144326		road	US:I
-14144327		road	US:I
-14144357		road	US:I
-14144358		road	US:I
-14154881	Coldwater Trail System National Recreation Trail	bicycle	rcn
-14161033	Talladega-Lincoln National Recreation Trail	atv	
-14161092	Sunset Drive Trail	foot	lwn
-14171730	Stoney Lonesome OHV Park National Recreation Trail	atv	lcn
-14171735	Sportsman Lake National Recreation Trail	bicycle	lcn
-14178197		road	US:I
-14178198		road	US:I
-14178244		road	US:I
-14178245		road	US:I
-14179382	Sokol Mountain National Recreation Trail	bicycle	lcn
-14179514	Smith Lake Park National Recreation Trail	foot	lwn
-14179621	Scottsboro City Park Walking Trail	foot	lwn
-14179632	Queen City Park Trail	foot	lwn
-14179688	Phenix City Riverwalk	foot	lwn
-14185837	Oak Mountain Red Trail	mtb	rcn
-14185929	Reservation Road Trail	bicycle	lcn
-14185930	Rockpile Trail	mtb	lcn
-14185931	TVA Nature Trail	bicycle	lcn
-14185946	Montevallo Greenway Trail	bicycle	lcn
-14185987	Rocky Nightmare	hiking	lwn
-14185989	Mountain Mist Trail	hiking	lwn
-14185990	Cold Springs Trail	hiking	lwn
-14185991	Bankhead Trail	hiking	lwn
-14191156	Yellow Trail	atv	
-14191157	Blue Trail	atv	
-14191158	Red Trail	atv	
-14192099	Larry and Ronna Dykes Trail	foot	lwn
-14192109	Lake Lurleen State Park National Recreation Trail	hiking	lwn
-14192130	Lake Guntersville State Park National Recreation Trail	hiking	lwn
-14192160	Hugh S. Branyon Backcountry Trail	foot	lwn
-14192174	Harvest Square Recreational Preserve Trail	foot	lwn
-14192251	Green Mountain Recreational Preserve Trail	hiking	lwn
-14192260	Goose Pond Colony Nature and Walking Trail	foot	lwn
-14192277	George Ward Park National Recreation Trail	foot	lwn
-14192374	Lake Jackson Scenic Trail	foot	lwn
-14193512	Doug Chee Accessible Trail	foot	lwn
-14193532	Doc Hilt National Recreation Trail	atv	
-14193595	Knotty Pine Mountain Bike Trail	hiking	lwn
-14193596	Knotty Pine Mountain Bike Trail	mtb	lcn
-14193597	Never Neverland Bypass	hiking	lwn
-14193598	Never Neverland Bypass	mtb	lcn
-14193599	Never Never Land Mountain Bike Trail	mtb	lcn
-14193600	Never Never Land Mountain Bike Trail	hiking	lwn
-14193601	Vizzney Land	hiking	lwn
-14219440	Chalet Trail	mtb	lcn
-14219441	Chalet Trail	hiking	lwn
-14219442	The Knob Exit Trail	hiking	lwn
-14219443	Gilliam Loop	hiking	lwn
-14219444	Desoto Scout Trail	hiking	lwn
-14219445	Green Trail	hiking	lwn
-14219446	Orange Silver Connector	hiking	lwn
-14219447	Old Silver Trail	hiking	lwn
-14219448	Silver Trail	mtb	lcn
-14219449	Silver Trail	hiking	lwn
-14219450	Family Bike Loop	mtb	lcn
-14219451	Family Bike Loop	hiking	lwn
-14219452	White Trail	hiking	lwn
-14219453	Red Trail	hiking	lwn
-14219454	Orange Trail	hiking	lwn
-14219455	Blue Trail	hiking	lwn
-14219463	Dauphin Island Audubon Bird Sanctuary National Recreation Trail	foot	lwn
-14219472	Foley Antique Rose Trail	foot	lwn
-14219473	Foley Antique Rose Trail	bicycle	lcn
-14219474	Citronelle Walking Trail	foot	lwn
-14219492	Creek View Trail	mtb	lcn
-14219493	Falls View Trail	mtb	lcn
-14219494	Lakeside Connector	mtb	lcn
-14219495	CAMP's Trail	mtb	lcn
-14219543	Mama's Milkshake	mtb	lcn
-14219544	Dell's Trail	mtb	lcn
-14219545	CCC Trail	mtb	lcn
-14219546	Old Skool	mtb	lcn
-14219547	Eagle Scout Trail	mtb	lcn
-14219548	Mountain Laurel Trail	mtb	lcn
-14219549	Fox Trail	mtb	lcn
-14219550	Rock Bottom	mtb	lcn
-14219551	High Gravity	mtb	lcn
-14219552	Deer Rub Trail	mtb	lcn
-14219553	Troop 30 Trail	mtb	lcn
-14219554	Tiger Woods Trail	mtb	lcn
-14219555	NORBA Trail	mtb	lcn
-14219556	Sweet Shrub Trail	mtb	lcn
-14219557	Boy Scout Trail	mtb	lcn
-14219558	Base CAMP Trail	mtb	lcn
-14219559	Kick Six	mtb	lcn
-14219560	Armadillo Alley	mtb	lcn
-14219561	Groundhogs Day	mtb	lcn
-14219562	Flo-Rida	mtb	lcn
-14219563	For Pete's Sake	mtb	lcn
-14219572	Bulldog Trail	hiking	lwn
-14219573	Chasco Trail	hiking	lwn
-14219574	Driskell Trail	hiking	lwn
-14219575	Moonshine Trail	hiking	lwn
-14219577	Whole Planet Trail	hiking	lwn
-14219599	West Bluff Trail	hiking	lwn
-14219600	Lowry Trail	hiking	lwn
-14219601	Smokerise Trail	hiking	lwn
-14219602	Sugar Tree Trail	hiking	lwn
-14219603	Varnedoe Trail	hiking	lwn
-14219604	Bill and Marion Certain Trail	hiking	lwn
-14219615	Spring Trail	hiking	lwn
-14219616	Bethel Creek Loop Trail	hiking	lwn
-14219617	Carpenter Trail	hiking	lwn
-14219618	Mill Trail	hiking	lwn
-14219619	Falling Sink Trail	hiking	lwn
-14219624	Tannehill Tramway	foot	lwn
-14221009	Autauga Creek Canoe Trail	canoe	lpn
-14221067	Wehle National Recreation Trail	horse	rhn
-14221280	Bartram Canoe Trail	canoe	rpn
-14222678	Little Bear Creek East	canoe	lpn
-14222679	Bear Creek	canoe	lpn
-14222680	Little Bear Creek West	canoe	lpn
-14226053	Tennessee River—Wilson Lake and Pickwick Lake	canoe	lpn
-14226054	Tennessee River—Pickwick Lake to Alabama-Mississippi State Line	canoe	lpn
-14239158		road	US:AL:Houston
-14246132		road	US:AL:Houston
-14257340	Transco Gulf of Mexico Mainline	pipeline	
-14294291		road	US:AL:Geneva
-14330630	The REAL Tour	road	
-14374203	Southeast Gas - Transmission System	pipeline	
-14376243		road	US:US:Truck
-14377763		road	US:AL:Macon
-14406111		road	US:AL:Houston
-14438562	Genesis Pipeline - Jay System	pipeline	
-14447331		road	US:AL:Houston
-14481800	Raccoon Creek - Farley 500kV	power	
-14502982		road	US:AL:Dallas
-14530351		road	US:AL:Houston
-14533763	Hunt Crude Oil Suppy Pipeline	pipeline	
-14539720		road	US:AL:Houston
-14555702	Gulfstream Pipeline	pipeline	
-14564739		road	US:AL:Geneva
-14564740		road	US:AL:Geneva
-14564741		road	US:AL:Geneva
-14564742		road	US:AL:Geneva
-14564743		road	US:AL:Geneva
-14569144		foot	
-14569145		foot	
-14570032		road	US:AL:Houston
-14570066		road	US:AL:Houston
-14573567		road	US:AL:Houston
-14615005	Birmingham Xpress	bus	Max Transit
-14700339	Florida Gas Transmission - Main Line	pipeline	
-14719460	Midcontinent Express Pipeline	pipeline	
-14728030	Southeast Supply Header	pipeline	
-14734822	Gulf South Pipeline - Line 818	pipeline	
-14735220	Gulf South Pipeline - Line 311	pipeline	
-14735221	Southeast Market Expansion - Line 311-26	pipeline	
-14736772	Pascagoula Pipeline	pipeline	
-14736773	Tri-States NGL Pipeline	pipeline	
-14736774	Gulf South Pipeline - Line 300	pipeline	
-14873670	Tennessee Gas Pipeline - 500 System	pipeline	
-14981324	Horse Creek Trail	bicycle	lcn
-14993557	North Brewton - Alligator Swamp 230kV	power	
-15034659	Alabama's Coastal Connection	road	
-15037415	Talladega Scenic Drive	road	
-15537660		road	US:AL:Dale
-15553277	Big Creek - Ellicott 230kV	power	
-15610760		power	
-15634261	Mitchell Dam - Jordan Dam 115kV	power	
-15644391	Gaston - Coosa Pines 230kV	power	
-15646734		power	
-15699113	Redstone Arsenal Railroad	abandoned_railway	
-15714091	Fayette - Goodsprings 161kV	power	
-16012539		road	US:AL:Geneva
-16079837	Sanders Ferry Ride	bicycle	
-16155902	Hurricane Creek MTB Trails	mtb	
-16271715		road	US:AL:Truck
-16550683		road	US:AL:Dale
-16809912	Five Mile Creek Greenway	bicycle	lcn
-17081160		road	US:AL:Macon
-17081161		road	US:AL:Lee
-17081500		road	US:AL:Lee
-17081501		road	US:AL:Lee
-17081502		road	US:AL:Lee
-17081503		road	US:AL:Lee
-17081504		road	US:AL:Lee
-17081505		road	US:AL:Lee
-17081515		road	US:AL:Lee
-17081516		road	US:AL:Lee
-17081517		road	US:AL:Lee
-17081518		road	US:AL:Lee
-17081519		road	US:AL:Lee
-17138857		road	US:AL:Lee
-17138858		road	US:AL:Lee
-17138859		road	US:AL:Lee
-17138860		road	US:AL:Lee
-17138861		road	US:AL:Lee
-17138862		road	US:AL:Lee
-17138863		road	US:AL:Lee
-17138864		road	US:AL:Lee
-17138865		road	US:AL:Lee
-17138889		road	US:AL:Macon
-17138894		road	US:AL:Macon
-17141401		road	US:AL:Macon
-17350683		foot	
-17609308	County Road 22	road	US:AL
-17702514		road	US:AL:Blount
-17702515		road	US:AL:Blount
-17751064		road	US:AL:Autauga
-17751065		road	US:AL:Autauga
-17751066		road	
-17751067		road	US:AL:Autauga
-17751068		road	US:AL:Autauga
-17751069		road	US:AL:Autauga
-17751070		road	US:AL:Autauga
-17751071		road	US:AL:Autauga
-17751072		road	US:AL:Autauga
-17751073		road	US:AL:Autauga
-17751074		road	US:AL:Autauga
-17816438	Red Rock Trail	mtb	lcn
-17816439	Eric's Trail	mtb	
-17816440	TTT	mtb	lcn
-17816441	Mike Thompson Loop	mtb	lcn
-17816442	The Bottoms	mtb	lcn
-17816443	Raindance	mtb	
-17816444	Mayhem	mtb	lcn
-17816445	USA Orange Trail	mtb	lcn
-17816446	USA Red Trail	mtb	
-17816447	USA White Trail	mtb	lcn
-17854024		road	US:AL:Houston
-17856671	Mayor James E. Grimes River Walk	foot	
-17868564	Chickasabogue Park MTB Trails	mtb	lcn
-17868565	Indian Loop	mtb	
-17959729		road	US:AL:Dale
-18004044		road	US:AL:Dale
-18004143		road	US:AL:Dale
-18009207		road	US:AL:Dale
-18209782		road	US:AL:Lee
-18209783		road	US:AL:Lee
-18209784		road	US:AL:Lee
-18209785		road	
-18209786		road	
-18209787		road	US:AL:Lee
-18209788		road	US:AL:Lee
-18209789		road	
-18209790		road	US:AL:Lee
-18209791		road	US:AL:Lee
-18209792		road	US:AL:Lee
-18209793		road	US:AL:Lee
-18209794		road	US:AL:Lee
-18209795		road	US:AL:Lee
-18209796		road	US:AL:Lee
-18209797		road	US:AL:Lee
-18209798		road	US:AL:Lee
-18209799		road	US:AL:Lee
-18209800		road	US:AL:Lee
-18209801		road	US:AL:Lee
-18209802		road	US:AL:Lee
-18209803		road	US:AL:Lee
-18209804		road	US:AL:Lee
-18209805		road	US:AL:Lee
-18262411		road	US:AL:Macon
-18262412		road	US:AL:Montgomery
-18262413		road	US:AL:Macon
-18262414		road	US:AL:Macon
-18262415		road	US:AL:Macon
-18262416		road	US:AL:Macon
-18262417		road	US:AL:Macon
-18262418		road	US:AL:Macon
-18262419		road	US:AL:Macon
-18264657		road	US:AL:Macon
-18264658		road	US:AL:Macon
-18264659		road	US:AL:Macon
-18264660		road	US:AL:Macon
-18264661		road	US:AL:Macon
-18264662		road	US:AL:Macon
-18264663		road	US:AL:Macon
-18264664		road	US:AL:Macon
-18264665		road	US:AL:Mcaon
-18264666		road	US:AL:Macon
-18264667		road	US:AL:Macon
-18264668		road	US:AL:Macon
-18457056	Clarke County Road 31	road	US:AL:Clarke
-18457057	Clarke County Road 21	road	US:AL:Clarke
-18487542	864	road	US:AL:Lee
-18487543	657	road	US:AL:Lee
-18487544		road	US:AL:Lee
-18487545		road	US:AL:Lee
-18487546		road	US:AL:Lee
-18490172		road	US:AL:Lee
-18490173		road	US:AL:Lee
-18490174		road	
-18490175		road	US:AL:Lee
-18490176		road	US:AL:Lee
-18490177		road	US:AL:Lee
-18490178		road	US:AL:Lee
-18490179		road	US:AL:Lee
-18490180		road	US:AL:Lee
-18490181		road	US:AL:Lee
-18490182		road	US:AL:Lee
-18490183		road	US:AL:Lee
-18490184		road	US:AL:Lee
-18490185		road	US:AL:Lee
-18490186		road	US:AL:Lee
-18490187		road	US:AL:Lee
-18490188		road	US:AL:Lee
-18490189		road	US:AL:Lee
-18490190		road	US:AL:Lee
-18490191		road	US:AL:Lee
-18490192		road	
-18490193		road	US:AL:Lee
-18490194		road	US:AL:Lee
-18490195		road	US:AL:Lee
-18490196		road	US:AL:Lee
-18490197		road	US:AL:Lee
-18490198		road	US:AL:Lee
-18490199		road	US:AL:Lee
-18490200		road	US:AL:Lee
-18490201		road	US:AL:Lee
-18490202		road	US:AL:Lee
-18490203		road	US:AL:Lee
-18490204		road	US:AL:Lee
-18490205		road	US:AL:Lee
-18490206		road	US:AL:Lee
-18490207		road	US:AL:Lee
-18490208		road	US:AL:Lee
-18490209		road	US:AL:Lee
-18493362	Glenn Sebastian Yellow Loop	hiking	
-18493363	Glenn Sebastian Blue Loop	hiking	
-18493364	Glenn Sebastian White Loop	hiking	
-18493365	Glenn Sebastian 5k Route	hiking	
-18621851	NHS High Priority Corridor 45	road	US:NHS High Priority Corridors
-18646270		road	US:AL:Blount
-18646274		road	US:AL:Blount
-18646281		road	US:AL:Blount
-18646290		road	US:AL:Blount
-18646292		road	US:AL:St. Clair
-18646301		road	US:AL:Blount
-18646338		road	US:AL:Blount
-18646422		road	US:AL:Blount
-18646424		road	US:AL:Blount
-18646428		road	US:AL:Blount
-18646476		road	US:AL:Blount
-18646479		road	US:AL:Blount
-18646540		road	US:AL:Blount
-18646790		road	US:AL:Blount
-18646793		road	US:AL:Blount
-18646813		road	US:AL:Blount
-18646902		road	US:AL:Blount
-18646905		road	US:AL:Blount
-18646906		road	US:AL:Blount
-18646912		road	US:AL:Blount
-18647051		road	US:AL:Blount
-18647093		road	US:AL:Blount
-18650907		road	US:AL:Blount
-18650915		road	US:AL:Blount
-18650923		road	US:AL:Blount
-18650924		road	US:AL:Blount
-18650926		road	US:AL:Blount
-18650937		road	US:AL:Blount
-18650939		road	US:AL:Blount
-18650941		road	US:AL:Blount
-18650951		road	US:AL:Blount
-18650995		road	US:AL:Blount
-18651001		road	US:AL:Blount
-18651002		road	US:AL:Blount
-18651005		road	US:AL:Blount
-18651824		road	US:AL:Blount
-18651829		road	US:AL:Blount
-18651830		road	US:AL:Blount
-18651843		road	US:AL:Blount
-18651909		road	US:AL:Blount
-18651934		road	US:AL:Blount
-18651938		road	US:AL:Blount
-18651942		road	US:AL:Blount
-18651950		road	US:AL:Blount
-18651952		road	US:AL:Blount
-18651958		road	US:AL:Blount
-18651962		road	US:AL:Blount
-18651965		road	US:AL:Blount
-18652122		road	US:AL:Blount
-18652124		road	US:AL:Blount
-18660864		road	US:AL:Cullman
-18660865		road	US:AL:Cullman
-18660866		road	US:AL:Cullman
-18660867		road	US:AL:Cullman
-18856464	Blue Route	bus	JagTran
-18856465	Green Route	bus	JagTran
-18856466	Orange Route	bus	JagTran
-18856467	Red Route	bus	JagTran
-18856468	Yellow Route	bus	JagTran
-18856469	Express	bus	JagTran
-18856470	Saturday Shopping	bus	JagTran
-18973208	Fanning Trail	hiking	lwn
-18973209	Stevenson Trail	hiking	lwn
-18973210	Jones Valley Loop Trail	hiking	lwn
-18973211	Chittamwood Trail	hiking	lwn
-18973212	Bailey Cove Trail	hiking	lwn
-18973213	Scout Trail	hiking	lwn
-18973214	Little Foot Loop Trail	hiking	lwn
-18973215	Walsingham Trail	hiking	lwn
-19251859	Rocky	hiking	lwn
-19251860	Dogwood	hiking	lwn
-19251861	Pine	hiking	lwn
-19251862	Well	hiking	lwn
-19251863	Nature	hiking	lwn
-19251864	Birdsfoot	hiking	lwn
-19251865	Trail Of Trees	hiking	lwn
-19251866	Rockledge	hiking	lwn
-19251867	Old Road	hiking	lwn
-19270033		road	US:AL:Blount
-19339560	Creek Loop	hiking	lwn
-19339561	Easy Rider	hiking	lwn
-19339562	Fallen Oak	hiking	lwn
-19339563	Slab Creek	hiking	lwn
-19352217	Forrest Harmony	hiking	lwn
-19352218	Abby	hiking	lwn
-19382279	Amtrak Mardi Gras Service: New Orleans => Mobile	train	Amtrak
-19382280	Amtrak Mardi Gras Service: Mobile => New Orleans	train	Amtrak
-19437083		road	US:AL
-19437084		road	US:AL
-19437085		road	US:AL
-19609164	University Shuttle Route	bus	University Shuttle Route
-19644752	V.A./University Mall	bus	V.A./University Mall
-19692663	Pelham Greenway Trail	bicycle	lcn
-19789829	Old Springville Road Detour	detour	
-19913031		road	US:AL:Hale
-19913032		road	US:AL:Hale
-20068411	Eastern Continental Trail (Alabama roadwalk)	hiking	iwn
+@id	network	ref	direction	name	route
+23167	US:MS	12			road
+111060	US:I	22			road
+132290	US:I	65	north		road
+214808				Montevallo Saturday Ride	bicycle
+239393				VES Morning 00-05	bus
+299282	US:GA	53			road
+319705	US:US	278			road
+326341	rcn			Silver Comet Trail	bicycle
+326630	rcn			Chief Ladiga Trail	bicycle
+370732	US:MS	76	east		road
+371156	US:US	98			road
+382496	US:US	90			road
+382641	US:FL	97			road
+382643	US:FL	87			road
+382655	US:FL	83			road
+382668	US:FL	85			road
+386259	US:FL	71			road
+386261	US:FL	77			road
+386262	US:FL	79			road
+419146	lcn	69		Bike Route 69	bicycle
+448264	lcn	60		Bike Route 60 west	bicycle
+449445	US:US:Alternate	72			road
+541874	lcn	55		Bike Route 55 south	bicycle
+541896	lcn	59		Bike Route 59	bicycle
+541897	lcn	45		Bike Route 45	bicycle
+541899	lcn	64		Bike Route 64 east	bicycle
+572492	lcn			Aldridge Creek Greenway	bicycle
+574585	lcn	70		Bike Route 70	bicycle
+574586	lcn	74		Bike Route 74	bicycle
+574588	lcn	41		Bike Route 41 south	bicycle
+574589	lcn	50		Bike Route 50	bicycle
+574593	lcn	31		Bike Route 31 south	bicycle
+574633	lcn	40		Bike Route 40	bicycle
+574661	lcn	54		Bike Route 54	bicycle
+576356	lcn			Indian Creek Greenway	bicycle
+903819	lcn	30		Bike Route 30 (proposed)	bicycle
+1024905	US:I	10	west		road
+1024907	US:I	10	west		road
+1070141	Huntsville Shuttle Bus	10		Bus 10	bus
+1168563					bicycle
+1179342	lcn	49		Bike Route 49	bicycle
+1179347	lcn	51		Bike Route 51 north/east	bicycle
+1179384	lcn	74		Bike Route 74 (proposed)	bicycle
+1179386	lcn	76		Bike Route 76	bicycle
+1179388	lcn	75		Bike Route 75 (proposed)	bicycle
+1179389	lcn	52		Bike Route 52	bicycle
+1179405	lcn	71		Bike Route 71 (proposed) - North/South	bicycle
+1179527	lcn	53		Bike Route 53	bicycle
+1179528	lcn	22		Bike Route 22	bicycle
+1187190	lcn	73		Bike Route 73 (proposed)	bicycle
+1201527	US:I	20	west		road
+1201528	US:I	20	west		road
+1240960	lcn	73A		Bike Route 73A (proposed) - East/West	bicycle
+1250017	US:I	459			road
+1281450	US:US	29			road
+1281515	US:US	231			road
+1283526	US:US	331			road
+1283527	US:US	331			road
+1296146	US:I	59			road
+1304595					bicycle
+1309001	US:GA	5			road
+1310510	US:GA	14			road
+1311146	US:GA	20			road
+1311148	US:GA	22			road
+1319476	US:NHS High Priority Corridors			NHS High Priority Corridor 7	road
+1319492	US:NHS High Priority Corridors	US 78	east	NHS High Priority Corridor 45	road
+1319495	US:NHS High Priority Corridors			NHS High Priority Corridor 6	road
+1441410				AGS North District	railway
+1441565				AGS South District	railway
+1441644				Memphis District West End	railway
+1441646				Memphis District East End	railway
+1441679				NA/West End District	railway
+1523549	US:NPS:Natchez_Trace			Natchez Trace Parkway (Mississippi)	road
+1525574	US:MS	14			road
+1526092	US:MS	19			road
+1526094	US:MS	18			road
+1526987	US:MS	42			road
+1527055	US:MS	50			road
+1527074	US:MS	69			road
+1527445	US:MS	388			road
+1528544	US:MS	614			road
+1529165	US:MS	182			road
+1531425	US:AL	5			road
+1531429	US:AL	10			road
+1531511	US:AL	13			road
+1531548	US:AL				road
+1531549	US:AL				road
+1531553	US:AL				road
+1531586	US:AL				road
+1531606	US:AL				road
+1531617	US:AL				road
+1531618	US:AL				road
+1531622	US:AL				road
+1531627	US:AL				road
+1531628	US:AL	9			road
+1531631	US:AL				road
+1532143	US:AL				road
+1532144	US:AL	14			road
+1532147	US:AL				road
+1532211	US:AL				road
+1532212	US:AL	17			road
+1532464	US:AL	22			road
+1532465	US:AL	18			road
+1532466	US:AL	21			road
+1532467	US:AL	19			road
+1532468	US:AL	20			road
+1532710	US:AL	23			road
+1532711	US:AL	25			road
+1532712	US:AL				road
+1532713	US:AL	27			road
+1532714	US:AL	30			road
+1532715	US:AL	26			road
+1532716	US:AL	28			road
+1532745	US:AL	36			road
+1532746	US:AL	35			road
+1532747	US:AL	33			road
+1532748	US:AL	37			road
+1532749	US:AL	34			road
+1532750	US:AL	32			road
+1532844	US:AL				road
+1532864	US:AL	41			road
+1532865	US:AL	40			road
+1532866	US:AL	39			road
+1532991	US:AL	44			road
+1532992	US:AL	46			road
+1532993	US:AL	53			road
+1532994	US:AL	51			road
+1532995	US:AL				road
+1532996	US:AL	48			road
+1532997	US:AL	50			road
+1532998	US:AL	49			road
+1532999	US:AL				road
+1533000	US:AL	52			road
+1533001	US:AL	47			road
+1534494	US:AL	64			road
+1534495	US:AL	73			road
+1534496	US:AL	60			road
+1534498	US:AL	71			road
+1534499	US:AL	63			road
+1534500	US:AL	68			road
+1534501	US:AL	69			road
+1534502	US:AL	56			road
+1534504	US:AL				road
+1534505	US:AL	62			road
+1534506	US:AL	70			road
+1534507	US:AL	67			road
+1534508	US:AL	65			road
+1534509	US:AL	59			road
+1534510	US:AL	61			road
+1534511	US:AL	66			road
+1534751	US:AL	81			road
+1534752	US:AL	95			road
+1534753	US:AL	192			road
+1534754	US:AL	76			road
+1534755	US:AL	93			road
+1534756	US:AL	92			road
+1534757	US:AL	85			road
+1534758	US:AL	96			road
+1534759	US:AL	99			road
+1534760	US:AL	88			road
+1534761	US:AL	87			road
+1534762	US:AL	86			road
+1534763	US:AL	97			road
+1534764	US:AL	89			road
+1534765	US:AL	79			road
+1534770	US:AL	91			road
+1534771	US:AL	83			road
+1534772	US:AL	77			road
+1534773	US:AL	75			road
+1534774	US:AL	94			road
+1534775	US:AL	74			road
+1534776	US:AL				road
+1534882	US:AL	105			road
+1534883	US:AL	114			road
+1534884	US:AL	106			road
+1534885	US:AL	110			road
+1534886	US:AL	101			road
+1534887	US:AL	107			road
+1534888	US:AL	113			road
+1534889	US:AL	116			road
+1534890	US:AL	102			road
+1534891	US:AL	117			road
+1534892	US:AL	115			road
+1534893	US:AL	109			road
+1534894	US:AL	104			road
+1534895	US:AL	118			road
+1534896	US:AL	111			road
+1534897	US:AL				road
+1534898	US:AL	103			road
+1534934	US:AL	148			road
+1534935	US:AL	132			road
+1534936	US:AL	131			road
+1534937	US:AL	129			road
+1534938	US:AL	136			road
+1534939	US:AL	138			road
+1534941	US:AL	120			road
+1534942	US:AL	122			road
+1534943	US:AL	123			road
+1534944	US:AL	130			road
+1534945	US:AL	139			road
+1534946	US:AL	141			road
+1534947	US:AL	144			road
+1534948	US:AL	133			road
+1534949	US:AL	119			road
+1534950	US:AL	147			road
+1534951	US:AL	134			road
+1534952	US:AL	143			road
+1534953	US:AL	128			road
+1534954	US:AL	145			road
+1534955	US:AL	140			road
+1534956	US:AL	125			road
+1534957	US:AL	127			road
+1534958	US:AL	137			road
+1534959	US:AL	146			road
+1534960	US:AL	126			road
+1534961	US:AL	142			road
+1534962	US:AL	124			road
+1534975	US:AL	149			road
+1534981	US:AL	150			road
+1534982	US:AL	151			road
+1534983	US:AL	153			road
+1534984	US:AL	155			road
+1534985	US:AL	154			road
+1534986	US:AL	156			road
+1534987	US:AL	152			road
+1535000	US:AL	158			road
+1535001	US:AL	157			road
+1535079	US:AL	179			road
+1535080	US:AL	195			road
+1535081	US:AL	176			road
+1535082	US:AL	164			road
+1535083	US:AL	168			road
+1535084	US:AL	174			road
+1535085	US:AL	172			road
+1535086	US:AL	165			road
+1535087	US:AL	175			road
+1535088	US:AL	184			road
+1535089	US:AL	183			road
+1535090	US:AL	169			road
+1535091	US:AL	182			road
+1535092	US:AL	188			road
+1535093	US:AL	163			road
+1535094	US:AL	185			road
+1535095	US:AL	191			road
+1535096	US:AL	193			road
+1535097	US:AL	189			road
+1535098	US:AL	196			road
+1535099	US:AL	162			road
+1535100	US:AL	187			road
+1535101	US:AL	171			road
+1535102	US:AL	177			road
+1535103	US:AL	178			road
+1535104	US:AL	161			road
+1535105	US:AL	186			road
+1535106	US:AL				road
+1535107	US:AL	181			road
+1535108	US:AL	173			road
+1535109	US:AL	167			road
+1535110	US:AL	198			road
+1535111	US:AL	160			road
+1535112	US:AL	170			road
+1535113	US:AL	166			road
+1535114	US:AL	199			road
+1535115	US:AL	180			road
+1535116	US:AL	159			road
+1535705	US:AL	24			road
+1535706	US:AL	265			road
+1535708	US:AL	201			road
+1535709	US:AL	283			road
+1535710	US:AL	253			road
+1535711	US:AL	210			road
+1535713	US:AL	229			road
+1535714	US:AL	263			road
+1535716	US:AL	269			road
+1535717	US:AL	213			road
+1535718	US:AL	261			road
+1535719	US:AL	281			road
+1535720	US:AL	215			road
+1535722	US:AL	237			road
+1535724	US:AL	243			road
+1535725	US:AL	295			road
+1535726	US:AL	279			road
+1535727	US:AL	241			road
+1535728	US:AL	259			road
+1535729	US:AL	289			road
+1535730	US:AL	277			road
+1535731	US:AL	211			road
+1535733	US:AL	285			road
+1535734	US:AL	216			road
+1535735	US:AL	227			road
+1535736	US:AL	54			road
+1535737	US:AL	291			road
+1535738	US:AL	204			road
+1535739	US:AL	239			road
+1535740	US:AL	759			road
+1535741	US:AL	287			road
+1535742	US:AL	219			road
+1535743	US:AL	248			road
+1535744	US:AL	208			road
+1535745	US:AL	245			road
+1535746	US:AL	273			road
+1535748	US:AL	207			road
+1535749	US:AL				road
+1535750	US:AL	235			road
+1535751	US:AL	233			road
+1535752	US:AL	205			road
+1535753	US:AL	225			road
+1535754	US:AL	297			road
+1535755	US:AL	271			road
+1535756	US:AL	223			road
+1535757	US:AL	251			road
+1535758	US:AL	221			road
+1535759	US:AL	249			road
+1535760	US:AL	202			road
+1535761	US:AL	257			road
+1535762	US:AL	247			road
+1535763	US:AL	255			road
+1535764	US:AL	212			road
+1535765	US:AL	293			road
+1535766	US:AL	217			road
+1562698	US:TN			Tennessee State Route 10 (unsigned)	road
+1562811	US:TN:primary	16		Tennessee State Route 16 (primary)	road
+1566450	US:TN:secondary	98			road
+1566451	US:TN:secondary	97			road
+1569024	US:TN:secondary	227			road
+1577789	US:GA	48			road
+1577794	US:GA	50			road
+1579406	US:GA	114			road
+1581503	US:GA	301			road
+1582573	US:GA:Spur	39		GA 39 Spur	road
+1595181	lcn			Noah Bike Trail	bicycle
+1613720	US:ADHS				road
+1613729	US:ADHS				road
+1629686	US:US	80			road
+1642836	rwn	PNRT		Pinhoti Trail	hiking
+1646641	US:GA:GRIP	540		Fall Line Freeway	road
+1666806	lhn	RMT		Richard Martin Trail (horse)	horse
+1668257	lwn	SCG		Swan Creek Greenway Trail	hiking
+1668258	lcn	SCG		Swan Creek Greenway Trail	bicycle
+1693963	US:I	165			road
+1695585	US:I	359			road
+1695587	US:I	565			road
+1723544	US:FL	83		FL 83	road
+1723609	US:FL	10		FL 10	road
+1723612	US:FL				road
+1736288	US:FL			FL 8	road
+1745479	US:AL	21			road
+1745480	US:AL	21			road
+1745481	US:AL:Truck	47			road
+1783178	rcn	C1			bicycle
+1783179	rcn	C10			bicycle
+1783180	rcn	C11			bicycle
+1783181	rcn	C12			bicycle
+1783182	rcn	C13			bicycle
+1783183	rcn	C14			bicycle
+1783184	rcn	C15			bicycle
+1783185	rcn	C16			bicycle
+1783186	rcn	C17			bicycle
+1783187	rcn	C18			bicycle
+1783189	rcn	C2			bicycle
+1783190	rcn	C3			bicycle
+1783191	rcn	C4			bicycle
+1783192	rcn	C5			bicycle
+1783193	rcn	C6			bicycle
+1783194	rcn	C7			bicycle
+1783195	rcn	C8			bicycle
+1783196	rcn	C9			bicycle
+1783197	rcn	EW1			bicycle
+1783198	rcn	EW2			bicycle
+1783199	rcn	EW3			bicycle
+1783200	rcn	EW4			bicycle
+1783201	rcn	EW5			bicycle
+1783202	rcn			Eastern Shore Trail	bicycle
+1783203	rcn	NS1			bicycle
+1783204	rcn	NS2			bicycle
+1783205	rcn	NS3			bicycle
+1783206	rcn	UGR		Underground Railroad Bicycle Route (Alabama)	bicycle
+1786349	rcn	LBL		Land Between the Lakes	bicycle
+1788483	rcn	UGR		Underground Railroad Bicycle Route (Mississippi)	bicycle
+1809808	Amtrak	Crescent		Amtrak Crescent: New Orleans => New York	train
+1867988	US:US:Truck	98			road
+1869101	US:US:Truck	29			road
+1930179	US:US:Business	231			road
+1930180	US:US:Business	411			road
+1930181	US:US:Business	431			road
+1930182	US:US:Business	80			road
+1930183	US:US:Business	84			road
+2142763	US:FL:CR	99			road
+2142902	US:FL:CR	177			road
+2142906	US:FL:CR	179A			road
+2142908	US:FL:CR	181			road
+2182433	inland waterways			Alabama River	boat
+2182456	inland waterways			Apalachicola-Chattahoochee-Flint River System	boat
+2182504	inland waterways			Tennessee River	boat
+2183774	inland waterways			Black Warrior-Tombigbee Waterway	ship
+2184036	inland waterways			Tennessee-Tombigbee Waterway	boat
+2185378	inland waterways			Gulf Intracoastal Waterway	waterway
+2195043				Dothan Subdivision	railway
+2195163				A&WP Subdivision	railway
+2195171				Lineville Subdivision	railway
+2195175				Wilsonville Branch	railway
+2195186	lcn				
+2198503				Birmingham Mineral Subdivision	railway
+2198504				Boyles Terminal Subdivision	railway
+2198505				Bradshaw Branch	railway
+2198506				M&M Subdivision	railway
+2198507				NO&M Subdivision	railway
+2198509				PD Subdivision	railway
+2198510				Prattville Branch	railway
+2198511				S&NA North Subdivision	railway
+2198512				S&NA South Subdivision	railway
+2198519				3-B North District	railway
+2198520				3-B South District	railway
+2198521				Anniston District	railway
+2198523				Berry Branch	railway
+2198525				Central of Georgia District	railway
+2198526				Demopolis District	railway
+2198527				Ensley Branch	railway
+2198529				M&G District	railway
+2198530				Mahrt District	railway
+2200298				Birmingham Subdivision	railway
+2200669				Beaumont Subdivision	railway
+2253408				Chattanooga Subdivision	railway
+2301032	US:US	11			road
+2301036	US:US	11			road
+2301039	US:US	411			road
+2301040	US:US	411			road
+2302694	US:US	29			road
+2303023	US:US	231			road
+2303024	US:US	31			road
+2303026	US:US	31			road
+2303028	US:US	431			road
+2303030	US:US	431			road
+2304406	US:US	45			road
+2304409	US:US	45			road
+2310395	US:US	72			road
+2310396	US:US	72			road
+2310572	US:US	78			road
+2310676	US:US	80			road
+2310677	US:US	80			road
+2310729	US:US	82			road
+2310730	US:US	82			road
+2310731	US:US	82			road
+2310732	US:US	84			road
+2310779	US:US	90			road
+2310808	US:US	98			road
+2319883					road
+2320010					road
+2320014					road
+2320015					road
+2320016					road
+2320017					road
+2320021					road
+2320023					road
+2320024					road
+2320028	US:US	280			road
+2649569	US:auto_trail			Old Spanish Trail from Mobile to Pensacola (1919)	road
+2649586	US:I	65	south		road
+2652045	US:auto_trail			Dixie Overland Highway from Montgomery to Tuskegee (1919)	road
+2652046	US:auto_trail			Dixie Overland Highway from Tuskegee to Columbus (1923)	road
+2723624	US:auto_trail			Bankhead Highway from Talladega to Oxford (1919)	road
+2723625	US:auto_trail			Florida Short Route from Opelika to Columbus (1919)	road
+2723626	US:auto_trail			Florida Short Route from Sylacauga to Opelika (1923)	road
+2724920	US:auto_trail			Bankhead Highway from Birmingham to Talladega (1923)	road
+2724921	US:auto_trail			Florida Short Route from Anniston to Oxford (1919)	road
+2724922	US:auto_trail			Florida Short Route from Talladega to Sylacauga (1919)	road
+2878438	US:I	65	north		road
+2878439	US:I	65	south		road
+2883785	US:US	43			road
+2955629	US:I	22	east		road
+2955630	US:I	22	west		road
+3134596	US:MS	76	west		road
+3300030	US:NPS:Natchez_Trace			Natchez Trace Parkway (Alabama)	road
+3300031	US:NPS:Natchez_Trace			Natchez Trace Parkway (Tennessee)	road
+3317163	ncn	90			bicycle
+3346762	ncn	NTP		Natchez Trace Parkway (Bike Route)	bicycle
+3480466		1		South Bessemer	bus
+3480473		3		Jefferson	bus
+3480474		5		Ensley/Wylam	bus
+3480475		6		Pratt Ensley	bus
+3480476		8			bus
+3480477		12		Highland	bus
+3480478		14		Idlewild Palisades	bus
+3480479		17		Eastwood Mall	bus
+3480480		18		Fountain Heights	bus
+3480602		20		Airport	bus
+3480605		22		Tarrant	bus
+3480606		23		23 North Birmingham	bus
+3480787		25		Centerpoint	bus
+3480950		28		28 South East Lake	bus
+3480998		31		Highway South	bus
+3484447		38		38 Graymont Ensley	bus
+3484509		39			bus
+3488200		40		Fairmont	bus
+3488214		41		41 Fairfield	bus
+3488268		42		42 Brockwood	bus
+3488832		43		Birmingham Zoo	bus
+3488833		44			bus
+3488903		45		Bessemer	bus
+3497765		90		Blue Line North/South	bus
+4524305				Lookout Mountain Parkway	road
+4633136	US:AL	55			road
+4645637	US:AL	605			road
+5551876	US:AL	382			road
+5655878	lcn			Dr. Bill Sims Hike-Bike Way	bicycle
+5876078					road
+5941009	US:AL	108			road
+6480360	US:AL:Baldwin:Baldwin_Beach_Express			Baldwin Beach Express	road
+6483046	US:AL:Baldwin:Foley_Beach_Express			Foley Beach Express	road
+6887444	US:I	10	east		road
+6888516	US:I	10	east		road
+6888569	US:I	10	east		road
+6888686	US:I	20	east		road
+6891494	US:I	20	east		road
+6901304	lwn	RMT		Richard Martin Trail (walking)	foot
+6941797	rpn			Limestone County Canoe and Kayak Trail	canoe
+6954296					foot
+6960046	lwn	FT		Fire Tower Trail	hiking
+6964121	lwn	SC		Stone Cuts Trail	hiking
+6964122	lwn	SPL		South Plateau Loop	hiking
+6968824	lhn			Horse Loop	horse
+6971300	lwn	JB		Jones Branch Loop Trail	hiking
+7120858				Wellness Trail	fitness_trail
+7282961	lwn			Conecuh Trail	hiking
+7284488				Colonial Pipeline	pipeline
+7450049				Alabama & Gulf Coast Railway	railway
+7565543					
+8337205		Transco		Transcontinental Gas Pipeline	pipeline
+8440192		ATN		Alabama and Tennessee River Railway	railway
+8691456				Southern Natural Gas	pipeline
+8691680				PPL Pipeline	pipeline
+8753664		AL 12			road
+8813851	lcn	20		Huntsville Bike Route 20	bicycle
+8814345	lcn	31A		Huntsville Bike Route 31A	bicycle
+8840790				NA / West End District	railway
+8840793				Chattanooga Subdivision	railway
+8840795				Memphis District West End	railway
+8840796				AGS South District	railway
+8840797				East End District	railway
+8840798				AGS North District	railway
+8848494	lcn	46		Huntsville Bike Route 46	bicycle
+8848495	lcn	26		Huntsville Bike Route 26	bicycle
+8848656	lcn			Proposed Connector Bike Route - East/West	bicycle
+8848736	lcn	74		Bike Route 74 (proposed)	bicycle
+8848884	lcn			Proposed Connector Bike Routes - East/West	bicycle
+8851036	lcn	55		Bike Route 55 (proposed)	bicycle
+8851189	lcn	76		Bike Route 76 (proposed)	bicycle
+8851334	lcn	47		Bike Route 47	bicycle
+8862190	lcn	60		Bike Route 60 (proposed)	bicycle
+8862244	lcn	31		Bike Route 31 (proposed)	bicycle
+8867765	US:AL	302			road
+8896780	US:AL	300			road
+8896804	US:AL	378			road
+8896821	US:AL	301			road
+8954140	lcn	60		Bike Route 60 east	bicycle
+8955108	lcn	31		Bike Route 31 north	bicycle
+8956169	lcn	41		Bike Route 41 north	bicycle
+8968139	lcn	51		Bike Route 51 south/west	bicycle
+8968418	lcn	55		Bike Route 55 north	bicycle
+8994164	lcn	64		Bike Route 64 west	bicycle
+9045390	Huntsville Shuttle Bus	3		Bus 3	bus
+9068913	Huntsville Shuttle Bus	2		Bus 2	bus
+9153794				M&B Railroad	railway
+9169182					railway
+9186469				Heart of Georgia Railroad	railway
+9186472				Georgia Southwestern Railroad	railway
+9200149		HMCR		Huntsville and Madison County Railroad Authority	railway
+9209906				Bay Line Railroad	railway
+9223015				"Alabama, Tennessee and Northern Railroad"	railway
+9226707					railway
+9227009				Mobile and Ohio Railroad	railway
+9392544					railroad
+9430785					railway
+9721725	lcn			Chattahoochee Valley Railroad Trail	bicycle
+9721747	lcn			Rattlesnake Ridge Trail	bicycle
+9721748	lcn			Canal Trail	bicycle
+9721749	lcn			Fort Morgan Road Trail	bicycle
+9721750	lcn			Alligator Marsh Trail	bicycle
+9721751	lcn			Gulf Oak Ridge Trail	bicycle
+9721752	lcn			Twin Bridges Trail	bicycle
+11017166	Huntsville Shuttle Bus	1		Bus 1	bus
+11020353	Huntsville Shuttle Bus	4		Bus 4	bus
+11020794	Huntsville Shuttle Bus	5		Bus 5	bus
+11021093	Huntsville Shuttle Bus	6		Bus 6	bus
+11021412	Huntsville Shuttle Bus	7		Bus 7	bus
+11021633	Huntsville Shuttle Bus	8		Bus 8	bus
+11021950	Huntsville Shuttle Bus	9		Bus 9	bus
+11042532	US:GA:Polk	CR 76			road
+11046116	US:AL:Cleburne	49			road
+11046117	US:AL:Cleburne	290			road
+11046325	US:AL:Cleburne	76			road
+11075381	US:AL:Cleburne	37			road
+11075382		CR 104			road
+11075416	US:AL:Cleburne	463			road
+11075417	US:AL:Cleburne	485			road
+11075418	US:AL:Cleburne	642			road
+11085743	lwn			Cutoff Trail	hiking
+11085744	lwn			Nature Trail	hiking
+11085745	lwn			Cave Trail	hiking
+11086063	US:GA:Haralson	CR 350			road
+11105506	US:AL:Cleburne	80			road
+11105507	US:AL:Cleburne	14			road
+11105682	US:AL:Cleburne	57			road
+11106819	US:AL:Cleburne	211			road
+11106923	US:AL:Cleburne	232			road
+11106924	US:AL:Cleburne	250			road
+11106974	US:AL:Cleburne	180			road
+11106975	US:AL:Cleburne	480			road
+11106976	US:AL:Cleburne	380			road
+11332192				Sabal Trail Pipeline	pipeline
+11537390	Montgomery Area Transit System	1		Route 1 AUM Eastchase - Outbound	bus
+11537449	Montgomery Area Transit System	1		Route 1 AUM Eastchase - Inbound	bus
+11537587	Montgomery Area Transit System	2		Route 2 Eastdale Mall - Outbound	bus
+11537624	Montgomery Area Transit System	2		Route 2 Eastdale Mall - Inbound	bus
+11537741	Montgomery Area Transit System	3		Route 3 Montgomery Commons - Outbound	bus
+11537872	Montgomery Area Transit System	3		Route 3 Montgomery Commons - Inbound	bus
+11538008	Montgomery Area Transit System	4		Route 4 Boylston - Outbound	bus
+11538009	Montgomery Area Transit System	4		Route 4 Boylston - Inbound	bus
+11538052	Montgomery Area Transit System	5		Route 5 McGhee Road - Outbound	bus
+11538133	Montgomery Area Transit System	5		Route 5 McGhee Road - Inbound	bus
+11542568	Montgomery Area Transit System	6		Route 6 Southlawn Twingates - Outbound	bus
+11542593	Montgomery Area Transit System	6		Route 6 Southlawn Twingates - Inbound	bus
+11542737	Montgomery Area Transit System	7		Route 7 Maxwell AFB - Outbound	bus
+11542738	Montgomery Area Transit System	7		Route 7 Maxwell AFB - Inbound	bus
+11542891	Montgomery Area Transit System	8		Route 8 Gunter Annex - Outbound	bus
+11543067	Montgomery Area Transit System	8		Route 8 Gunter Annex - Inbound	bus
+11543164	Montgomery Area Transit System	9		Route 9 Virginia Loop - Outbound	bus
+11543221	Montgomery Area Transit System	9		Route 9 Virginia Loop - Inbound	bus
+11543475	Montgomery Area Transit System	10		Route 10 South Court St. - Outbound	bus
+11543863	Montgomery Area Transit System	10		Route 10 South Court St. - Inbound	bus
+11545916	Montgomery Area Transit System	11		Route 11 Rosa Parks / South Blvd. - Outbound	bus
+11545942	Montgomery Area Transit System	11		Route 11 Rosa Parks / South Blvd. - Inbound	bus
+11546146	Montgomery Area Transit System	12		Route 12 Smiley Court Gibbs Village - Outbound	bus
+11546147	Montgomery Area Transit System	12		Route 12 Smiley Court Gibbs Village - Inbound	bus
+11546863	Montgomery Area Transit System	16		Route 16 East-West Connector - Outbound	bus
+11547038	Montgomery Area Transit System	16		Route 16 East-West Connector - Inbound	bus
+11547082	Montgomery Area Transit System	17		Route 17 Boulevard - Outbound	bus
+11547180	Montgomery Area Transit System	17		Route 17 Boulevard - Inbound	bus
+11771300		1		Airport	bus
+11771632		4		Spring Hill	bus
+11771759		5		Highway 45	bus
+11771986		7		Dauphin Street	bus
+11772346		9		Broad	bus
+11772666		10		Crosstown	bus
+11772785		11		Dauphin Island Parkway	bus
+11772987		15		Toulminville	bus
+11773081		16		Plateau	bus
+11773798		18		Cottage Hill	bus
+11785335		12		Highway 90	bus
+11785611		14		Moda Downtown Circulator	bus
+11901815		26		Jefferson State College	bus
+11902385		78		Forestdale Adamsville	bus
+11902443		80		Operator Shuttle	bus
+11905512	US:AL:Cleburne	111			road
+11905513	US:AL:Cleburne	604			road
+11905597	US:AL:Cleburne	609			road
+11905598	US:AL:Cleburne	605			road
+11905599	US:AL:Cleburne	613			road
+11905600	US:AL:Cleburne	64			road
+11905601	US:AL:Cleburne	684			road
+11905603	US:AL:Cleburne	643			road
+11905958		280		Highway	bus
+11913769	US:AL:Randolph	110			road
+11913770	US:AL:Randolph	430			road
+11913771	US:AL:Randolph	437			road
+12018855					railway
+12026208					railway
+12041225	Amtrak	Crescent		Amtrak Crescent: New York => New Orleans	train
+12322543		East		East Route	bus
+12322595		North		North Route	bus
+12322678		West		West Route	bus
+12322789					bus
+12322790		South		South Route	bus
+12353240	GTS	East - GSCC		East Trolley (Gadsden State CC) Route	bus
+12353417	GTS	East - GRMC		East Trolley (Gadsden Regional) Route	bus
+12356512	GTS	Central		Trolley Route Central	bus
+12356584	GTS	West		Trolley Route West	bus
+12409855	lwn			Heflin Spur	hiking
+12485285	lcn			Richard Martin Trail	bicycle
+12641612	Orbit	1		Brahan Spring	bus
+12644311	Orbit	2		Patton	bus
+12644342	Orbit	3		Holmes UAH	bus
+12645182	Orbit	4		University Drive	bus
+12645873	Orbit	5		Byrd Spring	bus
+12645972	Orbit	6		Jones Valley	bus
+12646021	Orbit	7		Meridian A&M	bus
+12646109	Orbit	8		Blue Spring	bus
+12646145	Orbit	9		Oakwood	bus
+12646172	Orbit	10		Pulaski Pike	bus
+12648679	Orbit	11		UAH Campus	bus
+12859265	G&W			Chattahoochee Bay Railroad	railway
+12860416	G&W			APC Farley Spur	railway
+12865875				Eufaula - Montgomery	railway
+13302056	US:NHT			Selma to Montgomery National Historic Trail	road
+13473601	US:AL:Cleburne	861			road
+13473757	US:AL:Cleburne	18			road
+13480857	US:AL:Cleburne	863			road
+13487578					road
+13512885				"Tennessee, Alabama and Georgia Railway"	railway
+13523295				Frascati Lead	railway
+13805393				Dixie Pipeline	pipeline
+13831363	lwn	BNRT		Bartram National Recreational Trail	hiking
+13835046	lwn	CBRT		Lowline Railroad Trail	hiking
+13835047	lwn	JBST		John B Scott Forever Wild Trail	hiking
+13961168				Pinhoti Trail - GET Portion	hiking
+13991542				Southern Natural Gas - North Main System	pipeline
+14079414	lcn			"Yoholo Micco, The Creek Indian Trail"	bicycle
+14084370	lwn			Alabama Reunion Trail	hiking
+14084371	lwn			Campfire Trail	hiking
+14106051	lwn	WMNRT		Wade Mountain Nature Reserve National Recreation Trails	hiking
+14106065	lwn	VPNRT		Village Point Preserve National Recreation Trail	foot
+14106223	lwn	VPT		Veterans Park National Recreation Trail	foot
+14106224	lcn	VPT		Veterans Park National Recreation Trail	bicycle
+14110307	lwn	TCNRT		Turkey Creek Nature Preserve National Recreation Trail	hiking
+14134089	lwn			Walls Of Jericho Trail	hiking
+14134178	rhn			Freedom Hills National Recreation Trail	horse
+14134180	lwn			Coon Creek National Recreation Trail	hiking
+14144326	US:I	759	east		road
+14144327	US:I	759	west		road
+14144357	US:I	59	north		road
+14144358	US:I	59	south		road
+14154881	rcn			Coldwater Trail System National Recreation Trail	bicycle
+14161033				Talladega-Lincoln National Recreation Trail	atv
+14161092	lwn	SDT		Sunset Drive Trail	foot
+14171730	lcn			Stoney Lonesome OHV Park National Recreation Trail	atv
+14171735	lcn			Sportsman Lake National Recreation Trail	bicycle
+14178197	US:I	85	south		road
+14178198	US:I	85	north		road
+14178244	US:I	85	south		road
+14178245	US:I	85	north		road
+14179382	lcn			Sokol Mountain National Recreation Trail	bicycle
+14179514	lwn			Smith Lake Park National Recreation Trail	foot
+14179621	lwn			Scottsboro City Park Walking Trail	foot
+14179632	lwn			Queen City Park Trail	foot
+14179688	lwn			Phenix City Riverwalk	foot
+14185837	rcn	RT		Oak Mountain Red Trail	mtb
+14185929	lcn	RRT		Reservation Road Trail	bicycle
+14185930	lcn	RT		Rockpile Trail	mtb
+14185931	lcn	TVA		TVA Nature Trail	bicycle
+14185946	lcn	MGT		Montevallo Greenway Trail	bicycle
+14185987	lwn	RN		Rocky Nightmare	hiking
+14185989	lwn			Mountain Mist Trail	hiking
+14185990	lwn	CST		Cold Springs Trail	hiking
+14185991	lwn	BT		Bankhead Trail	hiking
+14191156				Yellow Trail	atv
+14191157				Blue Trail	atv
+14191158		RT		Red Trail	atv
+14192099	lwn	LRDT		Larry and Ronna Dykes Trail	foot
+14192109	lwn			Lake Lurleen State Park National Recreation Trail	hiking
+14192130	lwn	LGSP		Lake Guntersville State Park National Recreation Trail	hiking
+14192160	lwn			Hugh S. Branyon Backcountry Trail	foot
+14192174	lwn			Harvest Square Recreational Preserve Trail	foot
+14192251	lwn			Green Mountain Recreational Preserve Trail	hiking
+14192260	lwn			Goose Pond Colony Nature and Walking Trail	foot
+14192277	lwn			George Ward Park National Recreation Trail	foot
+14192374	lwn			Lake Jackson Scenic Trail	foot
+14193512	lwn	DCAT		Doug Chee Accessible Trail	foot
+14193532		DHT		Doc Hilt National Recreation Trail	atv
+14193595	lwn			Knotty Pine Mountain Bike Trail	hiking
+14193596	lcn			Knotty Pine Mountain Bike Trail	mtb
+14193597	lwn			Never Neverland Bypass	hiking
+14193598	lcn			Never Neverland Bypass	mtb
+14193599	lcn			Never Never Land Mountain Bike Trail	mtb
+14193600	lwn			Never Never Land Mountain Bike Trail	hiking
+14193601	lwn			Vizzney Land	hiking
+14219440	lcn			Chalet Trail	mtb
+14219441	lwn			Chalet Trail	hiking
+14219442	lwn			The Knob Exit Trail	hiking
+14219443	lwn			Gilliam Loop	hiking
+14219444	lwn			Desoto Scout Trail	hiking
+14219445	lwn			Green Trail	hiking
+14219446	lwn			Orange Silver Connector	hiking
+14219447	lwn			Old Silver Trail	hiking
+14219448	lcn			Silver Trail	mtb
+14219449	lwn			Silver Trail	hiking
+14219450	lcn			Family Bike Loop	mtb
+14219451	lwn			Family Bike Loop	hiking
+14219452	lwn			White Trail	hiking
+14219453	lwn			Red Trail	hiking
+14219454	lwn			Orange Trail	hiking
+14219455	lwn			Blue Trail	hiking
+14219463	lwn			Dauphin Island Audubon Bird Sanctuary National Recreation Trail	foot
+14219472	lwn			Foley Antique Rose Trail	foot
+14219473	lcn			Foley Antique Rose Trail	bicycle
+14219474	lwn			Citronelle Walking Trail	foot
+14219492	lcn			Creek View Trail	mtb
+14219493	lcn			Falls View Trail	mtb
+14219494	lcn			Lakeside Connector	mtb
+14219495	lcn			CAMP's Trail	mtb
+14219543	lcn			Mama's Milkshake	mtb
+14219544	lcn			Dell's Trail	mtb
+14219545	lcn			CCC Trail	mtb
+14219546	lcn			Old Skool	mtb
+14219547	lcn			Eagle Scout Trail	mtb
+14219548	lcn			Mountain Laurel Trail	mtb
+14219549	lcn			Fox Trail	mtb
+14219550	lcn			Rock Bottom	mtb
+14219551	lcn			High Gravity	mtb
+14219552	lcn			Deer Rub Trail	mtb
+14219553	lcn			Troop 30 Trail	mtb
+14219554	lcn			Tiger Woods Trail	mtb
+14219555	lcn	NORBA		NORBA Trail	mtb
+14219556	lcn			Sweet Shrub Trail	mtb
+14219557	lcn			Boy Scout Trail	mtb
+14219558	lcn			Base CAMP Trail	mtb
+14219559	lcn			Kick Six	mtb
+14219560	lcn			Armadillo Alley	mtb
+14219561	lcn			Groundhogs Day	mtb
+14219562	lcn	FR		Flo-Rida	mtb
+14219563	lcn			For Pete's Sake	mtb
+14219572	lwn			Bulldog Trail	hiking
+14219573	lwn			Chasco Trail	hiking
+14219574	lwn			Driskell Trail	hiking
+14219575	lwn			Moonshine Trail	hiking
+14219577	lwn			Whole Planet Trail	hiking
+14219599	lwn			West Bluff Trail	hiking
+14219600	lwn			Lowry Trail	hiking
+14219601	lwn			Smokerise Trail	hiking
+14219602	lwn			Sugar Tree Trail	hiking
+14219603	lwn			Varnedoe Trail	hiking
+14219604	lwn			Bill and Marion Certain Trail	hiking
+14219615	lwn			Spring Trail	hiking
+14219616	lwn			Bethel Creek Loop Trail	hiking
+14219617	lwn			Carpenter Trail	hiking
+14219618	lwn			Mill Trail	hiking
+14219619	lwn			Falling Sink Trail	hiking
+14219624	lwn			Tannehill Tramway	foot
+14221009	lpn			Autauga Creek Canoe Trail	canoe
+14221067	rhn			Wehle National Recreation Trail	horse
+14221280	rpn			Bartram Canoe Trail	canoe
+14222678	lpn			Little Bear Creek East	canoe
+14222679	lpn			Bear Creek	canoe
+14222680	lpn			Little Bear Creek West	canoe
+14226053	lpn			Tennessee River—Wilson Lake and Pickwick Lake	canoe
+14226054	lpn			Tennessee River—Pickwick Lake to Alabama-Mississippi State Line	canoe
+14239158	US:AL:Houston	33			road
+14246132	US:AL:Houston	8			road
+14257340		MBLAA-T-T-T		Transco Gulf of Mexico Mainline	pipeline
+14294291	US:AL:Geneva	41			road
+14330630				The REAL Tour	road
+14374203				Southeast Gas - Transmission System	pipeline
+14376243	US:US:Truck	80			road
+14377763	US:AL:Macon	22			road
+14406111	US:AL:Houston	55			road
+14438562				Genesis Pipeline - Jay System	pipeline
+14447331	US:AL:Houston	95			road
+14481800				Raccoon Creek - Farley 500kV	power
+14502982	US:AL:Dallas	48			road
+14530351	US:AL:Houston	9			road
+14533763				Hunt Crude Oil Suppy Pipeline	pipeline
+14539720	US:AL:Houston	203			road
+14555702				Gulfstream Pipeline	pipeline
+14564739	US:AL:Geneva	69			road
+14564740	US:AL:Geneva	85			road
+14564741	US:AL:Geneva	9			road
+14564742	US:AL:Geneva	73			road
+14564743	US:AL:Geneva	70			road
+14569144					foot
+14569145					foot
+14570032	US:AL:Houston	85			road
+14570066	US:AL:Houston	75			road
+14573567	US:AL:Houston	81			road
+14615005	Max Transit	BX		Birmingham Xpress	bus
+14700339				Florida Gas Transmission - Main Line	pipeline
+14719460				Midcontinent Express Pipeline	pipeline
+14728030				Southeast Supply Header	pipeline
+14734822				Gulf South Pipeline - Line 818	pipeline
+14735220				Gulf South Pipeline - Line 311	pipeline
+14735221				Southeast Market Expansion - Line 311-26	pipeline
+14736772				Pascagoula Pipeline	pipeline
+14736773				Tri-States NGL Pipeline	pipeline
+14736774				Gulf South Pipeline - Line 300	pipeline
+14873670				Tennessee Gas Pipeline - 500 System	pipeline
+14981324	lcn			Horse Creek Trail	bicycle
+14993557				North Brewton - Alligator Swamp 230kV	power
+15034659				Alabama's Coastal Connection	road
+15037415				Talladega Scenic Drive	road
+15537660	US:AL:Dale	24			road
+15553277				Big Creek - Ellicott 230kV	power
+15610760					power
+15634261				Mitchell Dam - Jordan Dam 115kV	power
+15644391				Gaston - Coosa Pines 230kV	power
+15646734					power
+15699113				Redstone Arsenal Railroad	abandoned_railway
+15714091				Fayette - Goodsprings 161kV	power
+16012539	US:AL:Geneva	68			road
+16079837				Sanders Ferry Ride	bicycle
+16155902				Hurricane Creek MTB Trails	mtb
+16271715	US:AL:Truck	52			road
+16550683	US:AL:Dale	114			road
+16809912	lcn			Five Mile Creek Greenway	bicycle
+17081160	US:AL:Macon	43			road
+17081161	US:AL:Lee	54			road
+17081500	US:AL:Lee	29			road
+17081501	US:AL:Lee	27			road
+17081502	US:AL:Lee	852			road
+17081503	US:AL:Lee	47			road
+17081504	US:AL:Lee	10			road
+17081505	US:AL:Lee	159			road
+17081515	US:AL:Lee	61			road
+17081516	US:AL:Lee	137			road
+17081517	US:AL:Lee	670			road
+17081518	US:AL:Lee	852			road
+17081519	US:AL:Lee	57			road
+17138857	US:AL:Lee	43			road
+17138858	US:AL:Lee	42			road
+17138859	US:AL:Lee	159			road
+17138860	US:AL:Lee	44			road
+17138861	US:AL:Lee	40			road
+17138862	US:AL:Lee	165			road
+17138863	US:AL:Lee	122			road
+17138864	US:AL:Lee	136			road
+17138865	US:AL:Lee	401			road
+17138889	US:AL:Macon	89			road
+17138894	US:AL:Macon	69			road
+17141401	US:AL:Macon	26			road
+17350683					foot
+17609308	US:AL			County Road 22	road
+17702514	US:AL:Blount	15			road
+17702515	US:AL:Blount	19			road
+17751064	US:AL:Autauga	1			road
+17751065	US:AL:Autauga	15			road
+17751066		US:AL:Autauga			road
+17751067	US:AL:Autauga	9			road
+17751068	US:AL:Autauga	153			road
+17751069	US:AL:Autauga	78			road
+17751070	US:AL:Autauga	45			road
+17751071	US:AL:Autauga	101			road
+17751072	US:AL:Autauga	44			road
+17751073	US:AL:Autauga	43			road
+17751074	US:AL:Autauga	33			road
+17816438	lcn			Red Rock Trail	mtb
+17816439				Eric's Trail	mtb
+17816440	lcn			TTT	mtb
+17816441	lcn			Mike Thompson Loop	mtb
+17816442	lcn			The Bottoms	mtb
+17816443				Raindance	mtb
+17816444	lcn			Mayhem	mtb
+17816445	lcn			USA Orange Trail	mtb
+17816446				USA Red Trail	mtb
+17816447	lcn			USA White Trail	mtb
+17854024	US:AL:Houston	4			road
+17856671				Mayor James E. Grimes River Walk	foot
+17868564	lcn			Chickasabogue Park MTB Trails	mtb
+17868565				Indian Loop	mtb
+17959729	US:AL:Dale	25			road
+18004044	US:AL:Dale	10			road
+18004143	US:AL:Dale	87			road
+18009207	US:AL:Dale	112			road
+18209782	US:AL:Lee	661			road
+18209783	US:AL:Lee	662			road
+18209784	US:AL:Lee	2038			road
+18209785		2039			road
+18209786		64			road
+18209787	US:AL:Lee	652			road
+18209788	US:AL:Lee	65			road
+18209789		74			road
+18209790	US:AL:Lee	75			road
+18209791	US:AL:Lee	76			road
+18209792	US:AL:Lee	78			road
+18209793	US:AL:Lee	70			road
+18209794	US:AL:Lee	73			road
+18209795	US:AL:Lee	72			road
+18209796	US:AL:Lee	67			road
+18209797	US:AL:Lee	69			road
+18209798	US:AL:Lee	651			road
+18209799	US:AL:Lee	71			road
+18209800	US:AL:Lee	66			road
+18209801	US:AL:Lee	217			road
+18209802	US:AL:Lee	188			road
+18209803	US:AL:Lee	393			road
+18209804	US:AL:Lee	3			road
+18209805	US:AL:Lee	1			road
+18262411	US:AL:Macon	2			road
+18262412	US:AL:Montgomery	2			road
+18262413	US:AL:Macon	4			road
+18262414	US:AL:Macon	9			road
+18262415	US:AL:Macon	14			road
+18262416	US:AL:Macon	8			road
+18262417	US:AL:Macon	17			road
+18262418	US:AL:Macon	48			road
+18262419	US:AL:Macon	30			road
+18264657	US:AL:Macon	15			road
+18264658	US:AL:Macon	36			road
+18264659	US:AL:Macon	1			road
+18264660	US:AL:Macon	23			road
+18264661	US:AL:Macon	19			road
+18264662	US:AL:Macon	13			road
+18264663	US:AL:Macon	49			road
+18264664	US:AL:Macon	50			road
+18264665	US:AL:Mcaon	42			road
+18264666	US:AL:Macon	27			road
+18264667	US:AL:Macon	65			road
+18264668	US:AL:Macon	53			road
+18457056	US:AL:Clarke	31		Clarke County Road 31	road
+18457057	US:AL:Clarke	21		Clarke County Road 21	road
+18487542	US:AL:Lee			864	road
+18487543	US:AL:Lee			657	road
+18487544	US:AL:Lee	658			road
+18487545	US:AL:Lee	655			road
+18487546	US:AL:Lee	654			road
+18490172	US:AL:Lee	673			road
+18490173	US:AL:Lee	671			road
+18490174		US:AL:Lee			road
+18490175	US:AL:Lee	953			road
+18490176	US:AL:Lee	137			road
+18490177	US:AL:Lee	8			road
+18490178	US:AL:Lee	865			road
+18490179	US:AL:Lee	676			road
+18490180	US:AL:Lee	676			road
+18490181	US:AL:Lee	60			road
+18490182	US:AL:Lee	867			road
+18490183	US:AL:Lee	58			road
+18490184	US:AL:Lee	56			road
+18490185	US:AL:Lee	669			road
+18490186	US:AL:Lee	665			road
+18490187	US:AL:Lee	663			road
+18490188	US:AL:Lee	664			road
+18490189	US:AL:Lee	668			road
+18490190	US:AL:Lee	675			road
+18490191	US:AL:Lee	666			road
+18490192		645			road
+18490193	US:AL:Lee	665			road
+18490194	US:AL:Lee	6			road
+18490195	US:AL:Lee	816			road
+18490196	US:AL:Lee	396			road
+18490197	US:AL:Lee	397			road
+18490198	US:AL:Lee	815			road
+18490199	US:AL:Lee	615			road
+18490200	US:AL:Lee	617			road
+18490201	US:AL:Lee	619			road
+18490202	US:AL:Lee	620			road
+18490203	US:AL:Lee	616			road
+18490204	US:AL:Lee	818			road
+18490205	US:AL:Lee	398			road
+18490206	US:AL:Lee	4			road
+18490207	US:AL:Lee	660			road
+18490208	US:AL:Lee	428			road
+18490209	US:AL:Lee	659			road
+18493362				Glenn Sebastian Yellow Loop	hiking
+18493363				Glenn Sebastian Blue Loop	hiking
+18493364				Glenn Sebastian White Loop	hiking
+18493365				Glenn Sebastian 5k Route	hiking
+18621851	US:NHS High Priority Corridors	US 78	west	NHS High Priority Corridor 45	road
+18646270	US:AL:Blount	1			road
+18646274	US:AL:Blount	33			road
+18646281	US:AL:Blount	57			road
+18646290	US:AL:Blount	27			road
+18646292	US:AL:St. Clair	9			road
+18646301	US:AL:Blount	29			road
+18646338	US:AL:Blount	24			road
+18646422	US:AL:Blount	25			road
+18646424	US:AL:Blount	48			road
+18646428	US:AL:Blount	21			road
+18646476	US:AL:Blount	35			road
+18646479	US:AL:Blount	49			road
+18646540	US:AL:Blount	6			road
+18646790	US:AL:Blount	38			road
+18646793	US:AL:Blount	30			road
+18646813	US:AL:Blount	36			road
+18646902	US:AL:Blount	34			road
+18646905	US:AL:Blount	26			road
+18646906	US:AL:Blount	42			road
+18646912	US:AL:Blount	41			road
+18647051	US:AL:Blount	55			road
+18647093	US:AL:Blount	26			road
+18650907	US:AL:Blount	51			road
+18650915	US:AL:Blount	47			road
+18650923	US:AL:Blount	26			road
+18650924	US:AL:Blount	10			road
+18650926	US:AL:Blount	11			road
+18650937	US:AL:Blount	39			road
+18650939	US:AL:Blount	20			road
+18650941	US:AL:Blount	12			road
+18650951	US:AL:Blount	13			road
+18650995	US:AL:Blount	45			road
+18651001	US:AL:Blount	9			road
+18651002	US:AL:Blount	7			road
+18651005	US:AL:Blount	5			road
+18651824	US:AL:Blount	1830			road
+18651829	US:AL:Blount	73			road
+18651830	US:AL:Blount	14			road
+18651843	US:AL:Blount	34			road
+18651909	US:AL:Blount	31			road
+18651934	US:AL:Blount	32			road
+18651938	US:AL:Blount	37			road
+18651942	US:AL:Blount	11			road
+18651950	US:AL:Blount	28			road
+18651952	US:AL:Blount	3648			road
+18651958	US:AL:Blount	43			road
+18651962	US:AL:Blount	22			road
+18651965	US:AL:Blount	16			road
+18652122	US:AL:Blount	19			road
+18652124	US:AL:Blount	75			road
+18660864	US:AL:Cullman	1			road
+18660865	US:AL:Cullman	2			road
+18660866	US:AL:Cullman	4			road
+18660867	US:AL:Cullman	3			road
+18856464	JagTran			Blue Route	bus
+18856465	JagTran			Green Route	bus
+18856466	JagTran			Orange Route	bus
+18856467	JagTran			Red Route	bus
+18856468	JagTran			Yellow Route	bus
+18856469	JagTran			Express	bus
+18856470	JagTran			Saturday Shopping	bus
+18973208	lwn			Fanning Trail	hiking
+18973209	lwn			Stevenson Trail	hiking
+18973210	lwn			Jones Valley Loop Trail	hiking
+18973211	lwn			Chittamwood Trail	hiking
+18973212	lwn			Bailey Cove Trail	hiking
+18973213	lwn			Scout Trail	hiking
+18973214	lwn			Little Foot Loop Trail	hiking
+18973215	lwn			Walsingham Trail	hiking
+19251859	lwn			Rocky	hiking
+19251860	lwn			Dogwood	hiking
+19251861	lwn			Pine	hiking
+19251862	lwn			Well	hiking
+19251863	lwn			Nature	hiking
+19251864	lwn			Birdsfoot	hiking
+19251865	lwn			Trail Of Trees	hiking
+19251866	lwn			Rockledge	hiking
+19251867	lwn			Old Road	hiking
+19270033	US:AL:Blount				road
+19339560	lwn			Creek Loop	hiking
+19339561	lwn			Easy Rider	hiking
+19339562	lwn			Fallen Oak	hiking
+19339563	lwn			Slab Creek	hiking
+19352217	lwn			Forrest Harmony	hiking
+19352218	lwn			Abby	hiking
+19382279	Amtrak	Mardi Gras		Amtrak Mardi Gras Service: New Orleans => Mobile	train
+19382280	Amtrak	Mardi Gras		Amtrak Mardi Gras Service: Mobile => New Orleans	train
+19437083	US:AL	308			road
+19437084	US:AL	307			road
+19437085	US:AL	306			road
+19609164	University Shuttle Route	6		University Shuttle Route	bus
+19644752	V.A./University Mall			V.A./University Mall	bus
+19692663	lcn			Pelham Greenway Trail	bicycle
+19789829				Old Springville Road Detour	detour
+19913031	US:AL:Hale	42			road
+19913032	US:AL:Hale	36			road
+20068411	iwn			Eastern Continental Trail (Alabama roadwalk)	hiking

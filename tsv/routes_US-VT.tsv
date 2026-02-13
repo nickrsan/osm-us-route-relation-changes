@@ -1,0 +1,781 @@
+@id	network	ref	direction	name	route
+30979	US:VT:Town	127			road
+30980	US:VT	15			road
+32889	US:VT	116			road
+32890	US:VT	2A			road
+33100	US:VT	128			road
+33103	US:VT	104			road
+33105	US:VT	100C			road
+33106	US:VT	100			road
+33108	US:VT	17			road
+50766	US:VT	117			road
+51021	US:VT	104A			road
+51026	US:VT	36			road
+51028	US:VT	38			road
+51029	US:VT	105			road
+51030	US:VT	78			road
+51031	US:VT	289			road
+51036	US:I	189			road
+51041	US:VT	108			road
+51044	US:VT	118			road
+51045	US:VT	109			road
+51047	US:VT	125			road
+51049	US:VT	22A			road
+51126	US:VT	23			road
+51127	US:VT	74			road
+52281	US:US	302			road
+57451	US:VT	9			road
+57455	US:VT	30			road
+57456	US:VT	142			road
+59820	US:VT	101			road
+60030	US:VT	103			road
+60033	US:VT	11			road
+66004	US:VT	279			road
+68484	US:VT	8			road
+72012	lcn	ILT		Island Line Trail	bicycle
+73116	US:VT	4A			road
+356674	US:NY	346			road
+356708	US:NY:Rensselaer	96		Rensselaer County Route 96	road
+391736	rwn	LT		Long Trail	hiking
+392991	nwn	AT	both	Appalachian Trail	hiking
+416147	ncn	RV4		Route Verte 4	bicycle
+558073	US:VT	149			road
+1322982	US:NHS High Priority Corridors			NHS High Priority Corridor 50	road
+1345262	US:MA	8			road
+1346761	US:MA	112			road
+1359387	Amtrak	Vermonter		Amtrak Vermonter: Washington => Saint Albans	train
+1369619	US:NH	9			road
+1369738	US:NH	10A			road
+1375420	CA:QC:R	143		R 143	road
+1376602	US:NH	11			road
+1376938	US:NH	12			road
+1401269				D&H Washington Branch	railway
+1401272				Rutland Branch	railway
+1732567	CA:QC:R	133		R 133 (Chemin des Patriotes)	road
+1868797	US:US:Truck	2			road
+1868799	US:US:Alternate	5			road
+1876684	US:NY	185			road
+1938593	US:US:Business	2			road
+1938595	US:US:Business	4			road
+2052647	US:VT	110			road
+2109175	US:VT	66			road
+2122599	US:VT	113			road
+2122627	US:VT	244			road
+2122666	US:VT:Town	132			road
+2124884	US:VT	107			road
+2124889	US:VT	12			road
+2152145	US:VT	65			road
+2227917	lcn			Upper Valley Loop Trail	bicycle
+2295505	US:US	5			road
+2295508	US:US	7			road
+2307087	US:US	2		Theodore Roosevelt International Highway	road
+2328456	rcn	CB		Champlain Bikeway / Route Champlain	bicycle
+2525566					bus
+2750828	rcn	XVT		Cross Vermont Trail	bicycle
+2991960	nwn	AT	both	Appalachian Trail	hiking
+3124606	US:NY:Washington	11		Washington County Route 11	road
+3124608	US:NY:Washington	10		Washington County Route 10	road
+3124647	US:NY:Washington	20		Washington County Route 20	road
+3124649	US:NY:Washington	18A		Washington County Route 18A	road
+3145747	US:NY:Washington	29		Washington County Route 29	road
+3145749	US:NY:Washington	31		Washington County Route 31	road
+3147861	US:NY:Washington	68		Washington County Route 68	road
+3340478				Delaware & Hudson Rail Trail	bicycle
+3392247				Ligne d'interconnexion à courant continu Radisson Qc - Sandy Pond Ma - 450 kV	power
+3402818				Vista Trail (Blue)	hiking
+3404361				Healdville Trail (Blue)	hiking
+3572901	US:I	91			road
+3572902	US:I	91			road
+3572961	US:I	93	north		road
+3572962	US:I	93			road
+3572963	US:I	93			road
+4234911	Amtrak	Ethan Allen Express	north	Amtrak Ethan Allen Express: New York => Burlington	train
+4445771	Amtrak	Ethan Allen Express	south	Amtrak Ethan Allen Express: Burlington => New York	train
+4559215	CA:QC:R	139		R 139	road
+4559238	CA:QC:R	141		R 141	road
+4565990	CA:QC:R	235		R 235	road
+4568814	CA:QC:R	237		R 237	road
+4568999	CA:QC:R	243		R 243	road
+4569012	CA:QC:R	247		R 247	road
+5319210	US:VT	3			road
+5319211	US:VT	5A			road
+5319212	US:VT	7A			road
+5319465	US:VT	10			road
+5319466	US:VT	14			road
+5319467	US:VT:Town	8A			road
+5319471	US:VT	10A			road
+5319690	US:VT	16			road
+5319691	US:VT	18			road
+5319692	US:VT	25			road
+5319693	US:VT	25B			road
+5319694	US:VT	26			road
+5320082	US:VT	31			road
+5320083	US:VT:Town	35			road
+5320084	US:VT	44			road
+5320085	US:VT	44A			road
+5320086	US:VT:Town	53			road
+5320105	US:VT	58			road
+5320106	US:VT	62			road
+5320107	US:VT	63			road
+5320108	US:VT	64			road
+5320109	US:VT	67			road
+5320110	US:VT	67A			road
+5320114	US:VT	100A			road
+5320115	US:VT	100B			road
+5320116	US:VT	73			road
+5320126	US:VT	25A			road
+5320127	US:VT	2B			road
+5320128	US:VT	7B			road
+5321078	US:VT	12A			road
+5321141	US:VT	102			road
+5321241	US:VT	106			road
+5321476	US:VT	105A			road
+5321477	US:VT	114			road
+5321478	US:VT	119			road
+5321479	US:VT	120			road
+5321480	US:VT:Town	121			road
+5321481	US:VT	122			road
+5321857	US:VT	123			road
+5321858	US:VT	129			road
+5322430	US:VT	111			road
+5322431	US:VT	112			road
+5322606	US:VT	131			road
+5322607	US:VT	133			road
+5322608	US:VT:Town	139			road
+5322609	US:VT	140			road
+5322610	US:VT	141			road
+5322639	US:VT:Town	143			road
+5322640	US:VT:Town	144			road
+5322641	US:VT:Town	153			road
+5322642	US:VT	155			road
+5322643	US:VT	191			road
+5322644	US:VT	207			road
+5322645	US:VT:Town	235			road
+5322646	US:VT	242			road
+5322647	US:VT	313			road
+5322648	US:VT:Town	315			road
+5322649	US:VT	346			road
+5323524	US:VT	147			road
+5323525	US:VT	214			road
+5323526	US:VT:Town	215			road
+5323527	US:VT:Town	225			road
+5323528	US:VT	232			road
+5323529	US:VT	236			road
+5323530	US:VT	243			road
+5323531	US:VT	253			road
+5323532	US:VT	314			road
+5323533	US:VT	F5			road
+5337690				Bucklin Trail	hiking
+5435849	lwn			Battell Trail	hiking
+5435850	lwn			Jerusalem Trail	hiking
+5466071	lwn			Trail Around Middlebury	hiking
+5508467	ncn	7		USBR 7 (Vermont)	bicycle
+5549015	lwn			West River Trail	hiking
+5555826				(means woods loop?)	hiking
+5637030				Vermont Railway Corp	railway
+5637031				Clarendon & Pittsford	railway
+5637032				Rutland Railway Light & Power Co.	railway
+5806830	lwn			Cany Trail	hiking
+5821778	lwn			Deer Leap Trail	hiking
+5822564	lwn			Deer Leap Overlook Trail	hiking
+5823010	lwn			Sherburne Pass Trail	hiking
+6619362	lwn			Halfway House Trail	hiking
+6619363				The Bruce Trail	piste
+6619364	lwn			Rock Garden Trail	hiking
+6619365	lwn			Wallace Cutoff	hiking
+6619366	lwn			Canyon North Extension	hiking
+6619367	lwn			Butler Lodge Trail	hiking
+6619368	lwn			Sunset Ridge Trail	hiking
+6619369	lwn			Profanity Trail	hiking
+6619370	lwn			Canyon Trail	hiking
+6619371	lwn			Lakeview Trail	hiking
+6619372	lwn			Eagles Cut Trail	hiking
+6619373	lwn			Canyon North Trail	hiking
+6619374	lwn			CCC Road	hiking
+6619375	lwn			Hell Brook Cut Off	hiking
+6619376	lwn			Adams Apple Trail	hiking
+6619377	lwn			Hell Brook Trail	hiking
+6619378	lwn			Wampahoofus Trail	hiking
+6619379	lwn			Cliff Trail	hiking
+6619380	lwn			South Link	hiking
+6619381	lwn			Haselton Trail	hiking
+6619382	lwn			Maple Ridge Trail	hiking
+6619383	lwn			Forehead Bypass	hiking
+6619384				The Teardrop Trail	piste
+6619385	lwn			Frost Trail	hiking
+6619386	lwn			Laura Cowles Trail	hiking
+6619398	lwn			Beaver Meadow Trail	hiking
+6619399	lwn			Beaver Meadow Loop	hiking
+6619400	lwn			Chilcoot Pass Trail	hiking
+6619401	lwn			Whiteface Trail	hiking
+6619405	lwn			Old Camp	hiking
+6619406	lwn			Steeple Ski Trail	hiking
+6619407	lwn			Ranch Camp Trail	hiking
+6619408	lwn			Houston	hiking
+6619409	lwn			Burt Trail	hiking
+6836305	lwn			Shrewsbury Peak Trail	hiking
+6848649				Wilkinson Trails	piste
+6857250				Catamount Side Trail	nordic
+7041837				Taconic Crest Trail	hiking
+7128897	lwn			Burrows Trail	hiking
+7128969	lwn			Forest City Trail	hiking
+7128970	lwn			Dean Trail	hiking
+7128971	lwn			Monroe Trail	hiking
+7128972	lwn			Alpine Trail	hiking
+7129091	lwn			Hedgehog Brook Trail	hiking
+7129092	lwn			Beane Trail	hiking
+7129157				Overland XC Trail	piste
+7129170	lwn			Sterling Pond Trail	hiking
+7129376	lwn			Elephant's Head Trail	hiking
+7132230	lwn			Amherst Trail	hiking
+7132239	lwn			Lake Mansfield Trail	hiking
+7132240	lwn			Nebraska Notch Trail	hiking
+7136799				CCC Road	piste
+7137330				Catamount Trail	piste
+7139330	lwn			Old Long Trail	hiking
+7141956				Mud Pond Loop	mtb
+7144757				Outer Limits	mtb
+7144758				Western Slope	mtb
+7144759				North Plateau	mtb
+7144760				Moose Hill	mtb
+7144761				Brooke Crossing	mtb
+7144762				Triborough Bridges	mtb
+7144763				Middle Finger	mtb
+7144764				Teardrop	mtb
+7144765				Blueberry Loop	mtb
+7144766				Ring Finger	mtb
+7144767				East Loop	mtb
+7301333	AT			Brown Route	bus
+7422822	US:NH	123	north;south		road
+7479344				Woodstock Railway	railway
+7496323				South Pond Loop	hiking
+7767183				Patriot Corridor	railway
+7795963	lwn			Black Swamp Trail	hiking
+7796019	lwn			Slack Hill Trail	hiking
+7814431	lwn			Kent Brook Trail	hiking
+8032979				MTB Burke Area	mtb
+8036496				MTB Jay Community	mtb
+8054222				MTB Cadys Falls	mtb
+8054223				MTB Stowe	mtb
+8056172				MTB Trapp Family Lodge	mtb
+8056806				MTB Perry Hill	mtb
+8056856				MTB LIttle River State Park	mtb
+8056866				MTB Cottonbrook	mtb
+8057807				MTB Craftbury	mtb
+8060469				MTB Hinesburg Town Forest	mtb
+8060470				MTB Carse Hills	mtb
+8060474				MTB Sleepy Hollow	mtb
+8066774				MTB Catamount Outdoor Family Centre	mtb
+8115287				MTB TAM	mtb
+8267206				Quebec – New England Transmission	power
+8415109				Bittersweet Falls Trail	hiking
+8417747	nwn	NCT		North Country National Scenic Trail (VT)	hiking
+8441517	lwn			Oak Ridge Trail	hiking
+8441601				Mount Moosalamoo Trail	hiking
+8441759	lwn			Rattlesnake Cliffs Trail	hiking
+8441764				Aunt Jenny Trail	hiking
+8441776				Widow's Clearing Trail	hiking
+8441818				Rocky Point Trail	hiking
+8441825				Chandler Ridge Trail	hiking
+8441836				Leicester Hollow Trail	hiking
+8441843				Ridge Trail	hiking
+8441896				Silver Lake Loop Trail	hiking
+8441905				Goshen Dam Trail	hiking
+8441986				North Branch Trail	hiking
+8442000				Silver Lake Trail	hiking
+8442859				Water Tower Sundown Trail	hiking
+8442870				Water Tower Crosswalk Trail	hiking
+8442880				Water Tower Afternoon Delight Trail	hiking
+8442885				Water Tower North Star Trail	hiking
+8442887				Water Tower Trepidation Trail	hiking
+8442914				Keewaydin Trail	hiking
+8442924				Goshen Trail	hiking
+8442927				Dutton Brook Trail	hiking
+8442930				Elsie's Loop Trail	hiking
+8442948				Sucker Brook Trail	hiking
+8442951				Stewart Trail	hiking
+8442952				Sucker Brook - Blueberry Hill Trail	hiking
+8442959				Halfdan Kuhnle Trail	hiking
+8920908				Newport Subdivision	railway
+9047981				Freight Main Line - District 4	railway
+9048059				Connecticut River Main Line	railway
+9048140					railway
+9159107				VRS (VTR) & CLP	railway
+9200494				Green Mountain Railroad	railway
+9200744				Rutland Railroad	railway
+9229015				SLQ/SLR Sherbrooke Subdivision	railway
+9265769				Shelburne Museum Shuttle	bus
+9332310	lcn			Cycle the City and Intervale	bicycle
+9679206	lcn			Missisquoi Valley Rail Trail	bicycle
+9679319	lcn	LVRT		Lamoille Valley Rail Trail	bicycle
+9728401	lcn			West River Trail	bicycle
+9728515	lcn			Stowe Recreational Path	bicycle
+9728518	lcn			D&H Rail Trail	bicycle
+9774131				MTB Moosalamoo	mtb
+9971549	rcn	XNHAT		Cross New Hampshire Adventure Trail	bicycle
+10179432				Pipeline Montréal-Portland	pipeline
+11171042	lwn			Abbey Pond Trail	hiking
+11378508	US:NFSR:Green Mountain:FR	296			road
+11378509	US:NFSR:Green Mountain:FR	236			road
+11378510	US:NFSR:Green Mountain:FR	234			road
+11378511	US:NFSR:Green Mountain:FR	95			road
+11378512		259		Alphonse Quesnel Snowmobile Trail	snowmobile
+11378513	US:NFSR:Green Mountain:FR	235A			road
+11378514	US:NFSR:Green Mountain:FR	235B			road
+11378515	US:NFSR:Green Mountain:FR	235			road
+11378516	US:NFSR:Green Mountain:FR	68			road
+11378517	US:NFSR:Green Mountain:FR	233			road
+11378518	US:NFSR:Green Mountain:FR	233A			road
+11378519	US:NFSR:Green Mountain:FR	54			road
+11378520	US:NFSR:Green Mountain:FR	59B			road
+11378521	US:NFSR:Green Mountain:FR	59			road
+11507158	rwn			Cross Rivendell Trail	hiking
+11747548	US:US:Truck	5			road
+11747602	US:US:Alternate	5			road
+11747964	US:US:Alternate	7			road
+11837145	City Fixed			City North Route	bus
+11837146	City Fixed			City South Route	bus
+11839974	City Fixed			City South Extension Route	bus
+11840015	City Fixed			City West Route	bus
+11840548	City Fixed			City Hospital Route	bus
+11840696	Proctor Route			Proctor Route	bus
+11844942				Rutland to Killington Commuter Route	bus
+11844943				Killington to Rutland Commuter Route	bus
+11921087	Amtrak	Vermonter		Amtrak Vermonter: Saint Albans => Washington	train
+11961030	Amtrak	Vermonter		Amtrak Vermonter: Washington => Saint Albans	train
+11961031	Amtrak	Vermonter		Amtrak Vermonter: Saint Albans => Washington	train
+11982218	lwn			Newport Bike Path and Beebe Spur Rail Trail	foot
+11982224	lcn			Newport Bike Path and Beebe Spur Rail Trail	bicycle
+12180980	lwn			Pond Circuit Trail	hiking
+12180981	lwn			Pond View Loop Trail	hiking
+12180982				Skid Road	hiking
+12180983	lwn			Town Forest Access Trail	hiking
+12180984	lwn			Ridgeline Trail	hiking
+12180985					hiking
+12180997	lwn			Colchester Pond Trail	hiking
+12181004	lwn			Village Park Trail	foot
+12181019	lwn				hiking
+12203283	lwn				hiking
+12204141	Green Mountain Transit	Red Line		North Avenue to Williston via Downtown Transit Center	bus
+12204386	Green Mountain Transit	Blue Line		Essex to Shelburne via Downtown Transit Center	bus
+12204476	Green Mountain Transit	Green Line		Pine Street to Winooski via Downtown Transit Center	bus
+12206681	Green Mountain Transit	Purple Line		Waterfront to South Burlington via UVM Medical Center	bus
+12206727	Green Mountain Transit	Orange Line		Williston to Essex via Amtrak	bus
+12206775	Green Mountain Transit	Silver Loop		Essex Center	bus
+12208165	Green Mountain Transit	Gold Loop		Downtown Burlington	bus
+12208245	Green Mountain Transit	36		Jeffersonville Commuter	bus
+12208250	Green Mountain Transit	56		Milton Commuter	bus
+12208327	Green Mountain Transit	76		Middlebury LINK Express	bus
+12208602	Green Mountain Transit	80/89		City Route Mid-Day/City Commuter	bus
+12208668	Green Mountain Transit	81		Barre Hospital Hill	bus
+12208741	Green Mountain Transit	82		Montpelier Hospital Hill	bus
+12209478	Green Mountain Transit	83		Waterbury Commuter	bus
+12209511	Green Mountain Transit	84		US 2 Commuter	bus
+12209659	Green Mountain Transit	86		Montpelier LINK Express	bus
+12209835	Green Mountain Transit	87		Northfield Community Shuttle	bus
+12209866	Green Mountain Transit	92		Montpelier Circulator	bus
+12210893	Green Mountain Transit	93		Northfield Commuter	bus
+12210974	Green Mountain Transit	96		St Albans LINK Express	bus
+12212269	Green Mountain Transit	108		Mountain Road Shuttle	bus
+12212300	Green Mountain Transit	110		St Albans Downtown Shuttle	bus
+12212317					bus
+12212318	Green Mountain Transit	115		Alburgh / Georgia Commuter	bus
+12212328	Green Mountain Transit	116		Richford / St Albans Commuter	bus
+12255840					road
+12264352	lwn			Indian Brook Loop Trail	hiking
+12264725	lwn			McGee Trail	hiking
+12264726	lwn				hiking
+12264727	lwn			Indian Brook Outer Loop	hiking
+12276801	lwn			Thrust Fault Trail	hiking
+12276802	lwn			Ely Universal Access Trail	hiking
+12276803	lwn			Sunset Ridge Trail	hiking
+12276804	lwn			Lone Rock Point Trail	hiking
+12276805	lwn			Marsh Beach Trail	hiking
+12276806	lwn				foot
+12276807	lwn			Holy Trinity Trail	hiking
+12292904	lwn			Barnes Camp Loop	hiking
+12395349	lwn			Woodside Loop	foot
+12519264				MTB Memphremagog	mtb
+12519815	AT			Main Street West Lebanon → Upper Valley Aquatic Center	bus
+12519816	AT			Upper Valley Aquatic Center → Main Street West Lebanon	bus
+12525196	AT			Veterans Park → Main Street West Lebanon	bus
+12525197	AT			Main Street West Lebanon → Upper Valley Aquatic Center → Main Street West Lebanon	bus
+12525199	AT			Maynard Street → Upper Valley Aquatic Center → Main Street West Lebanon	bus
+12525200	AT			Main Street West Lebanon → Veterans Administration Hospital → Main Street West Lebanon	bus
+12525202	AT			Maynard Street → Veterans Administration Hospital → Main Street West Lebanon	bus
+12525604	AT			Vail Dartmouth Medical School → Hartford Village → Main Street West Lebanon	bus
+12525605	AT			Datamann → Hartford Village → Main Street West Lebanon	bus
+12525606	AT			Datamann → Main Street West Lebanon	bus
+12525607	AT			Main Street West Lebanon → Hartford Village → Datamann	bus
+12525608	AT			Main Street West Lebanon → Hartford Village → Vail Dartmouth Medical School	bus
+12525609	AT			Main Street West Lebanon → Vail Dartmouth Medical School	bus
+12525610	AT			Vail Dartmouth Medical School → Main Street West Lebanon	bus
+12599499	lwn			Mike New Loop	hiking
+12599500	lwn			Jeff Vincent Trail	hiking
+12599501	lwn			Green Connector	hiking
+12599502	lwn			Red Connector	hiking
+12599503	lwn			Fr. Marcel Loop	hiking
+12599504	lwn			Blue Trail	hiking
+12685197	lwn			Raven Ridge Trail	hiking
+13053315	rcn	BHMR		Bayley-Hazen Military Road	bicycle
+13058969	US:AB:NSB:Connecticut River			Connecticut River Byway (NH)	road
+13070347	lwn			Gnome Stairs Trail	hiking
+13070348	lwn			Wheeler Pond Trail	hiking
+13070349	lwn			Wheeler Mountain Trail	hiking
+13074920	US:AB:NSB:Connecticut River			Connecticut River Byway (VT)	road
+13090886				5	snowmobile
+13237882				St. Lawrence and Atlantic Railroad Berlin Subdivision	railway
+13248084	US:VT	15A			road
+13249176	US:NH	25			road
+13249204	US:NH	25A			road
+13249218	US:NH	26			road
+13265960	lwn			North Trail	hiking
+13265961	lwn			South Trail	hiking
+13265962	lwn			Long Pond Trail	hiking
+13265980	lwn			North Trail	hiking
+13265981	lwn			South Trail	hiking
+13265989	lwn			Long Pond Trail	hiking
+13266007	lwn			Mad Brook Trail	hiking
+13266008	lwn			Telegraph Trail	hiking
+13284574	US:VT:Town	16			road
+13320877	US:US	4	east		road
+13427493	US:VT:Town	36			road
+13440719				Out 'n Back	mtb
+13440720				Postal Route	mtb
+13440721				Mo Flow	mtb
+13440723				Outer Limits	mtb
+13440738				Mid FLow	mtb
+13444587				Extendo	mtb
+13444588				Flow	mtb
+13621039	US:VT:Town	44			road
+13635507	US:VT:Town	58			road
+13646610	US:VT:Town	73			road
+13905288	US:VT:Town	117			road
+13908018	US:VT:Town	118			road
+13912535	US:VT:Alternate	122			road
+13916038	US:VT			VT 127 (state)	road
+13924016	US:VT:Town	129			road
+13925026	US:VT	132			road
+13932213	US:VT:Town	140			road
+13948461	US:VT:Alternate	100			road
+13957200	US:VT:Town	207			road
+14184075				Torrey's Trail	mtb
+14186180				Mystery Trail	hiking
+14212110	lwn			Mimi's Trail	hiking
+14212111				Mimi's Trail	piste
+14212112	lwn			Bill Hill Trail	hiking
+14212113				Dan Grossman Woods Trail	running
+14225569	lwn			Linny Levin Trail	hiking
+14225570				Linny Levin Trail	piste
+14225571	lwn			Gold Trail	hiking
+14225572				Upper Trail	hiking
+14225573				Ridge Loop Trail	hiking
+14225574				Fireplace Trail	hiking
+14225575				Dan Grossman Woods Trail	piste
+14225576	lwn			Joe's Path	hiking
+14225577	lwn			Elementary Trail	hiking
+14225578	lwn			The Glebe Trail	hiking
+14228384				Lake Morey Ice Skating Trail	piste
+14239315				MTB Base Camp	mtb
+14247946				MTB Bolton Valley	mtb
+14255315				MTB Cochran	mtb
+14361437				Upper Coos Recreational Rail Trail	hiking
+14395359	US:US	4	west		road
+14503543				Upper Dutchman	piste
+14503544				Flying Dutchman	piste
+14503545				Route 100 South	piste
+14503546				The Hermitage Inn Trail	piste
+14503547				Outcast	piste
+14503548				Jennifer's Run	piste
+14503549				Lower Oh No	piste
+14503550				Yellow Birch Lane	piste
+14503551				Witch Way	piste
+14503553				Haywire	piste
+14506544				Fast Track	piste
+14506545				Jack-A-Lope	piste
+14506546				Buckhorn	piste
+14506548				Sunset Strip	piste
+14556792				Route 100	piste
+14563015	lcn			Cycle the City Working Class City	bicycle
+14563016	lcn			Cycle the City Beltline	bicycle
+14563017	lcn			Cycle the City Southern Sojourn	bicycle
+14654362				GLM	piste
+14654363				Sundowner	piste
+14654364				Swinger	piste
+14687829				Great Northern	piste
+14705171	lcn			Blue Ribbon Trail	bicycle
+14762041	NHSA	20		Corridor 20 (CSB)	snowmobile
+14781095	lcn	BG		Burlington Greenway	bicycle;foot
+14877339	US:NH	119			road
+14877349	US:NH	103			road
+14894958	rwn			Gore Mountain Trail	hiking
+14954883	VAST	114C			snowmobile
+14954884	VAST	111			snowmobile
+14954885	VAST	111B			snowmobile
+14954886	VAST	2000			snowmobile
+14954887	VAST	111A			snowmobile
+14954888	VAST	114A			snowmobile
+14954889	VAST	114			snowmobile
+14955358	VAST	114D			snowmobile
+14955761	VAST	102			snowmobile
+14955762	VAST	106C			snowmobile
+14955763	VAST	106			snowmobile
+14955764	VAST	102A			snowmobile
+14958036	rwn			Gore Mountain East Trail	hiking
+14958037	rwn			Middle Mountain Trail	hiking
+14958038	rwn			Unknown Pond Trail	hiking
+14958039	rwn			Bluff Ridge Trail	hiking
+14958040	rwn			Lookout Trail	hiking
+14958041	rwn			Basin Link	hiking
+14958042	rwn			Bluff Mountain Community Trail	hiking
+14962091	VAST	114B			snowmobile
+14962854	VAST	132			snowmobile
+14988209	lwn			Hazen Trail	hiking
+15144321	VAST	105			snowmobile
+15256126	VAST	2001C			snowmobile
+15257825	lcn			Triangle Bike Route	bicycle
+15258049	lwn			Round Pond Trail	hiking
+15307507	VAST	105A			snowmobile
+15310210	VAST	2001			snowmobile
+15460890	US:US	2			road
+15477810	VAST	105F			snowmobile
+15576626				Bear Paw	piste
+15576627				Long John	piste
+15576628				Skyline	piste
+15576629				Somerset Road	piste
+15576630				Ego Alley	piste
+15576631				Low Traverse	piste
+15576633	VAST	100			snowmobile
+15601382	VAST	7			snowmobile
+15602983	US:NFSR:Green Mountain:NF	71		National Forest Highway 71	road
+15606502	US:NFSR:Green Mountain:FR	326		National Forest Road 326	road
+15606503	US:NFSR:Green Mountain:FR	325		National Forest Road 385	road
+15606504	VAST	7/7A C			snowmobile
+15606505	US:NFSR:Green Mountain:FR	325A		National Forest Road 325A	road
+15606506	US:NFSR:Green Mountain:FR	324		National Forest Road 324	road
+15606507	US:NFSR:Geen Mountain:FR	325B		National Forest Road 325B	road
+15606508	US:NFSR:Green Mountain:FR	374		National Forest Road 374	road
+15608838	US:NFSR:Green Mountain:FR	86		National Forest Road 86	road
+15608846	US:NFSR:Green Mountain:FR	339		National Forest Road 339	road
+15608888	US:NFSR:Green Mountain:NF	83		National Forest Road 83	road
+15608901	US:NFSR:Green Mountain:FR	84		National Forest Road 84	road
+15612810	US:NFSR:Green Mountain:FR	376		National Forest Road 376	road
+15613624	US:NFSR:Green Mountain:FR	383		National Forest Road 383	road
+15613625	US:NFSR:Green Mountain:FR	384		National Forest Road 384	road
+15622773	US:NFSR:Green Mountain:FR	268		National Forest Road 268	road
+15626141	US:NFSR:Green Mountain:NF	72		National Forest Highway 72	road
+15626142	US:NFSR:Green Mountain:FR	72C		National Forest Road 72C	road
+15626143	US:NFSR:Green Mountain:FR	727A		National Forest Road 727A	road
+15626144	US:NFSR:Green Mountain:FR	328		National Forest Road 328	road
+15626207	VAST	7A			snowmobile
+15629768	US:NFRS:Green Mountain:FR	368		National Forest Road 368	road
+15629769	US:NFSR:Green Mountain:FR	369		National Forest Road 369	road
+15634779	US:NFSR:Green Mountain:FR	272		National Forest Road 272	road
+15634780	US:NSFR:Green Mountain:FR	290		National Forest Road 290	road
+15634781	VAST	7A F1			snowmobile
+15637786	US:NFSR:Green Mountain:FR	275		National Forest Road 275	road
+15637787	VAST	7A/9C			snowmobile
+15652664	US:VT:byway			Northeast Kingdom Byway	road
+15657037	VAST	71/72 C			snowmobile
+15657038	US:NFSR:Green Mountain:FR	373		National Forest Road 373	road
+15657039	US:NFSR:Green Mountain:FR	373A		National Forest Road 373A	road
+15657040	VAST	71			snowmobile
+15659948	US:VT:byway			Green Mountain Byway	road
+15663572	US:VT:byway			Molly Stark Byway	road
+15677431	US:VT:byway			Shires of Vermont Byway	road
+15688052				Bingham Falls Trail	foot
+15688053	lwn			Mill Trail	hiking
+15795550	US:NFSR:Green Mountain:NF	262		National Forest Highway 262	road
+15834503	VAST				snowmobile
+15842647	VAST	710			snowmobile
+16109819	US:VT:byway			Crossroad of Vermont Byway	road
+16113000	US:VT:byway			Lake Champlain Byway	road
+16131454				Mike's Way	piste
+16131455				Upper Standard	piste
+16131456				Snow Bowl Alley	piste
+16131457				Underpass	piste
+16131458				Overpass	piste
+16131459				Lower Tamarack	piste
+16131460				Runaway	piste
+16133983				Big Ben	piste
+16133984				91	piste
+16137085				Lower Wanderer	piste
+16137086				Yodeler	piste
+16137087				Yodeler Express	piste
+16137088				Soltice Way	piste
+16145789				Home Run	piste
+16148839				Way Home	piste
+16148840				Black Bear	piste
+16148841				Polar Bear	piste
+16148842				Grizzly Access	piste
+16148953	US:NFSR:Green Mountain:FR	320		National Forest Road 320	road
+16148954	US:NFSR:Green Mountain:FR	341		National Forest Road 341	road
+16156223	VAST	7B			snowmobile
+16173190					piste
+16179424	VAST	7 F4			snowmobile
+16239797	rcn	VTXL		VTXL	bicycle
+16289391	ipn	NFCT		Northern Forest Canoe Trail	canoe
+16305829	npn	CRPT		Connecticut River Paddlers' Trail	canoe
+16364954	US:VT:byway			Mad River Byway	road
+16387495	VAST	103 F			snowmobile
+16387496	VAST	103			snowmobile
+16465897	lpn	LRPT		Lamoille River Paddlers Trail	canoe
+16481525	rpn	LCBT		Lake Champlain Blueway Trail	canoe
+16508056	lwn			Bill Ballard Trail	hiking
+16617445	US:VT:Truck	105			road
+16754784				Camel's Hump Challenge Trail	piste
+17035918	VAST	102F			snowmobile
+17035919	VAST	114/102C			snowmobile
+17040476	VAST	101			snowmobile
+17040703	VAST	105 F1			snowmobile
+17051898	VAST	96F			snowmobile
+17051899	VAST	96			snowmobile
+17068182				Hinesburg Hill Loop	piste
+17068183				Low-Snow Bypass	piste
+17068184				Acadia Mania	piste
+17068185				Potato Farmer	piste
+17068186				Ridge Road	piste
+17068187				Dave's Dive	piste
+17068188				Ansel's Alley	piste
+17068189				Bear Claw	piste
+17068190				Sandy's Slide	piste
+17068191				Zig-Zag Trail	piste
+17070429				Upper Saddle Trail	piste
+17070430				Lower Saddle Trail	piste
+17070431				Liberty Meadow Trail	piste
+17070432				Jane Meadows Trail	piste
+17070433				Eli's Escape	piste
+17070434				Sap Run	piste
+17070435				Bishop Trail	piste
+17070436				Ichabod's Revenge	piste
+17070437				Trois Montagnes	piste
+17070438				Little Pond Loop	piste
+17072798				Butternut Cabin Trail	piste
+17073731				Toothacher Swamp	piste
+17073732					piste
+17073733				Woodchuck Ramble	piste
+17073734				Gullywhumper	piste
+17073735				Stagecoach Road	piste
+17073736				Marĳke's Mainline	piste
+17073737				Home Run	piste
+17073738				The Cut	piste
+17073739				Jack Rabbit	piste
+17076784				The Sugarbush	piste
+17076785				Meadow Loop	piste
+17076786				Madrid Junction	piste
+17076787				Cool Pool	piste
+17076788				Skunk Brook	piste
+17076789				Cobble Hill	piste
+17076790				Dead River Run	piste
+17076791				Big Baldy	piste
+17076792				Gateway Loop	piste
+17076793				Saddle Road	piste
+17076794				Upper Crow's Foot	piste
+17076795				Lower Crow's Foot	piste
+17076796				Town Forest	piste
+17076797				Lion's Ridge	piste
+17076798				Lion's Ridge Loop	piste
+17076808				Hale Woods	piste
+17076809				Bear Scat Draw	piste
+17089676	US:I	89	south		road
+17089677	US:I	89	north		road
+17090034	US:I	89	south		road
+17090035	US:I	89	north		road
+17092554				South Hero Island Circumnavigation	canoe
+17092555				Lake Champlain Circumnavigation	canoe
+17094755				Isle La Motte Circumnavigation	canoe
+17094783				North Hero Island Circumnavigation	canoe
+17131169	US:VT:byway			Scenic Route 100 Byway	road
+17131249	US:VT:byway			Stone Valley Byway	road
+17192144				Passumpsic River Paddling Trail	canoe
+17195301				West Branch Passumpsic River Paddling Trail	canoe
+17195302				East Branch Passumpsic River Paddling Trail	canoe
+17318184	VAST	5			snowmobile
+17403760				Deer Run	piste
+17474545				Pownal Tannery Dam Portage	portage
+17640870	lwn			Libby's Look Loop	hiking
+17640871	lwn			Preston Pond Loop	hiking
+17908517				Winooski Falls Portage	portage
+17920470	Trapp Family Lodge			5K Race Loop	piste
+17920471	Trapp Family Lodge			2.5K Race Loop	piste
+18009041				Hoosac Tunnel and Wilmington Railroad	railway
+18038828	Trapp Family Lodge			Haul Road	piste
+18038829	Trapp Family Lodge			Old County Road	piste
+18107822					road
+18193770				Free Fall	mtb
+18193771				Mojo	mtb
+18197064				Valley View	mtb;hiking;horse
+18197065				Valley View Shortcut	mtb;hiking;horse
+18197066				Elm	mtb;hiking;horse
+18197067				Out'n Back	mtb;hiking;horse
+18198903				Further Out'n Back	mtb;hiking
+18198904				River View Trail	mtb;hiking
+18198905				Mel's	mtb;hiking
+18198906				Ridge Trail	mtb;hiking
+18198907				Ridge Connector	mtb;hiking
+18198908				Ridge Cutoff	mtb;hiking
+18198909				Brady Trail	mtb;hiking;horse
+18198910				Apple Tree Trail	mtb;hiking;horse
+18198911				Apple Tree Alternate	mtb;hiking
+18198950				High & Dry	mtb;hiking
+18198951				Ladyslipper Lane	mtb;hiking
+18198952				Champlain Chute	mtb;hiking
+18198953				Noodly Appendage	mtb;hiking
+18198954				Lone Wolf	mtb;hiking
+18198955				Working Dawgs	mtb;hiking
+18198956				Old #4 Road	mtb;hiking;horse
+18204199				Backdoor	mtb;hiking
+18204200				Lost Island	mtb;hiking
+18204201				89th Street	mtb;hiking
+18204202				Horse Swale Trail	mtb;hiking
+18204203				Browns Trace Access	mtb;hiking
+18204204				Americana	mtb;hiking
+18204205				Main Access	mtb;hiking
+18204206				Maple Wander	mtb;hiking
+18204207				Pears	mtb;hiking
+18204208				Slick Rock	mtb;hiking
+18204209				Muddy Lane	mtb;hiking
+18204210				Southern Border	mtb;hiking
+18204254				Northern Boundary	mtb;hiking
+18204255				The Mickey Way	mtb;hiking
+18204256				Birch Run	mtb;hiking
+18204257				Very Slow Car Lane	mtb;hiking
+18204281				Holy Schist	mtb;hiking
+18204282				Ridgey	mtb;hiking
+18204287				Plums	mtb;hiking
+18204288				Peaches	mtb;hiking
+18206685	Trapp Family Lodge			Russell Knoll Track	piste
+18224070				Deerfield River Railroad	railway
+18224071				Bennington & Glastenbury Railroad	railway
+18224072				South Glastenbury Resort Line	railway
+18224073				Lye Brook Railroad	railway
+18319298	nwn	AT	both	Appalachian Trail	hiking
+18720860				Carrying Place	portage
+18765424				Bolton Falls Dam Portage	portage
+19063248				Huntington Falls Dam Portage	portage
+19063249				Weybridge Dam Portage	portage
+19063250				Vergennes Dam Portage	portage
+19064590				Hoosic River Canoe Route	canoe
+19067281				Otter Creek Falls Portage	portage
+19067282				Otter Creek Canoe Trail	canoe
+19067283				Meads Falls Portage	portage
+19067284				Beldens Dam Portage	portage
+19067285				Middlebury Falls Portage	portage
+19067286				Lower Middlebury Falls Portage	portage
+19162870	lpn			White River Water Trail	canoe
+19257400	US:NY:Scenic			Lakes to Locks Passage	road
+19484860					bus
+19691491				K-1 Express Gondola	aerialway
+19717876	lwn			Sawyer Mountain Trail	hiking
+19735418	lwn			Richardson Hill Trail	hiking
+19774560	lwn			Palisades Trail	hiking
+19854073				Broadway	piste
+19854074				Lark	piste
+19854075				Chipmunk Bowl	piste
+19854076				Porcupine	piste
+20018690	US:MA:Scenic			Route 112 Scenic Byway	road
+20050606				Lower Dam Portage	portage
+20050607				Moore Dam Portage	portage
+20067033				Wyoming Dam Portage	portage
+20130099	lwn			red loop	hiking
+20130100	lwn			blue trails	hiking

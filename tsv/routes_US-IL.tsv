@@ -1,0 +1,3096 @@
+@id	network	ref	direction	name	route
+17251	rcn	VLT		Valley Line Trail	bicycle
+72660	rcn	FRT		Fox River Trail	bicycle
+72661	rcn	MCPT		McHenry County Prairie Trail	bicycle
+72663	rcn	I&MCT		I & M Canal Bicycle Trail	bicycle
+72664	rcn	SCT		Salt Creek Trail	bicycle
+92653	CTA	Yellow	south	CTA Yellow Line: Dempster-Skokie → Howard	subway
+93624	rcn	NSCT		North Shore Channel Trail	bicycle
+102346	US:I	270			road
+103327	US:IL	173			road
+104250	US:IL	50			road
+104461	US:I	90	west		road
+104893	US:IL	19			road
+110797	rcn	ART		Algonquin Road Trail	bicycle
+110812	lcn	ACFT		Arie Crown Forest Unpaved Trails	bicycle
+110818	rcn	PCT		Poplar Creek Trail	bicycle
+110840	lcn			Burnham Greenway	bicycle
+112027	US:IL	21			road
+112029	US:IL	58			road
+112041	US:IL	171			road
+112042	US:IL	64			road
+112044	US:IL	72			road
+112048	US:IL	43			road
+112115	US:IL	7			road
+112116	US:IL	83			road
+112212	US:IL	17			road
+112261	US:IL:DuPage	23		DuPage County Highway 23	road
+112267	US:IL	38			road
+112272	US:IL:DuPage	11			road
+112375	US:IL	53			road
+112540	US:I	355			road
+112636	rcn	GWT		Great Western Trail	bicycle
+112657	rcn	CT		Centennial Trail	bicycle
+112681	lcn			Deer Grove - Black Trail	bicycle
+112933	rcn	DPRT		Des Plaines River Trail	bicycle
+113177	US:I	80	west		road
+113208	rcn	ELT		Evanston Lakefront Trail	bicycle
+113246	US:IL	25			road
+113247	US:IL	56			road
+113249	US:IL	31			road
+113250	US:IL	59			road
+113405	lcn			Humphrey Bike Trail	bicycle
+114479	rcn	MT		Major Taylor Bicycle Trail	bicycle
+116316	US:US	51			road
+117902	rcn	OPRT		Old Plank Road Trail	bicycle
+117904	rcn	PP		Preservation Path	bicycle
+117908	rcn	PBT		Palatine Bike Trail	bicycle
+118051	rcn	PTS		Palos Trail System	bicycle
+118055	rcn	SVTS		Sag Valley Trail System	bicycle
+118106	lcn			Schaumburg Bicycle Network	bicycle
+118126	rcn			Wauponsee Glacial Trail	bicycle
+118164	rcn	KRT		Kankakee River Trail	bicycle
+118167	rcn	HCB		Hickory Creek Bikeway	bicycle
+120717	CTA	Brown	south	CTA Brown Line: Kimball → Loop	subway
+121131	US:WI	35		State Trunk Highway 35	road
+121144	US:I	294			road
+122020	CTA	Blue	north	CTA Blue Line: Forest Park → O'Hare	subway
+122552	CTA	Purple	north	CTA Purple Line (rush hours): Loop → Linden	subway
+123013	US:I	190			road
+123627	rcn	CDB		I-88 Central DuPage Bikeway	bicycle
+124354	CTA	Red	north	CTA Red Line: 95th/Dan Ryan → Howard	subway
+127811	rcn	IAT		Itasca - Addison Trail	bicycle
+127843	rcn	DRGT		DuPage River Greenway Trail (East Brnch)	bicycle
+127943	rcn	NCT		North Central DuPage Regional Trail	bicycle
+137419	US:I	255			road
+149190	US:IL	62			road
+161136	US:I	290			road
+171159	US:I	74			road
+183773	US:IL	68			road
+185409	US:I	88			road
+228605	US:I	70	west		road
+301529	US:US	12			road
+331089	US:US	24			road
+331495	US:US	24			road
+331496	US:US	24			road
+331981	US:I	24	west		road
+331986	US:I	24	east		road
+331995	US:I	24	west		road
+332000	US:I	24	east		road
+369512	US:IA	163		IA 163	road
+370228	US:IL:CR			County Road 1900 North	road
+370238	US:IL:Fayette			County Road 7	road
+370356	US:IL:Fayette			County Road 4	road
+370357	US:IL:CR			County Road 2100 East	road
+370358	US:IL:CR			County Road 2150 East	road
+370359	US:IL:CR			County Road 2075 North	road
+370363	US:IL:CR			County Road 2000 North	road
+370364	US:IL:CR			County Road 2125 East	road
+370479	US:IL:CR			County Road 2200 East	road
+371125	US:IL:CR			County Road 600 East	road
+371157	US:I	72			road
+371160		22		County Highway 22	road
+371165	US:IL	48			road
+371166	US:IL	121			road
+371739				County Highway 41	road
+371825		10		County Highway 10	road
+372497	US:IL:Macon			County Highway 7	road
+373316	US:IL:Macon	25		County Highway 25	road
+373324	US:IL:Macon	24		County Highway 24	road
+373328	US:IL:Macon	1		County Highway 1	road
+398308	US:IL	78			road
+408086	US:US	20			road
+420683	US:US	60			road
+421546	US:IL	40			road
+422570	US:US	40			road
+443163	US:US	30			road
+443970	CTA	Pink	west	CTA Pink Line: Loop → 54th/Cermak	subway
+443974	CTA	Orange	north	CTA Orange Line: Midway → Loop	subway
+448197	US:US	45			road
+448495	US:US	51			road
+530401	US:GRR			Great River Road (Illinois - other routes)	road
+904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+932961	Metra	UP-W	west	Metra Union Pacific West: Ogilvie Transportation Center => Elburn	train
+932962	Metra	UP-N	south	Metra Union Pacific North: Kenosha => Ogilvie Transportation Center	train
+932963	Metra	UP-NW	north	Metra Union Pacific Northwest: Ogilvie Transportation Center => Harvard	train
+932985	Metra	NCS	north	Metra North Central Service: Chicago => Antioch	train
+932987	Metra	MD-N	north	Metra Milwaukee District North: Chicago => Fox Lake	train
+933012	Metra	SWS	south	Metra SouthWest Service: Chicago => Manhattan	train
+933013	Metra	ME	south	Metra Electric District: Millennium Station => University Park	train
+933014	Metra	BNSF	west	Metra BNSF Railway: Chicago => Aurora	train
+933015	Metra	RI	south	Metra Rock Island District: LaSalle Street => Longwood => Joliet	train
+933016	Metra	HC	south	Metra Heritage Corridor: Chicago => Joliet	train
+942899	US:I	80	west		road
+1102328	Pace	230	north	Bus 230: Rosemont CTA Station -> Algonquin/Linneman	bus
+1112542	US:IN	154			road
+1120669	Pace	209	north	Bus 209: Cumberland CTA Station -> Des Plaines Metra Station	bus
+1122360	Pace	234	south	Wheeling-Des Plaines	bus
+1128443	Pace	226	west	Oakton Street	bus
+1128648	US:IL	47			road
+1165267	US:I	155	south		road
+1171505	US:IA	92		IA 92	road
+1180085	US:IN	352			road
+1211571	US:IN	163			road
+1226593	US:I	180			road
+1267355	US:I	64	west		road
+1267358	US:I	64	west		road
+1271784	US:I	172			road
+1271825	US:I	280			road
+1316019	US:US:Business	51			road
+1316501				North Clinton Street	road
+1317326				Illinois Terminal Railroad	railway
+1317673				North Gebhart Court	road
+1319488	US:NHS High Priority Corridors			NHS High Priority Corridor 3	road
+1319864	US:NHS High Priority Corridors			NHS High Priority Corridor 18	road
+1322582	US:IL	110			road
+1332840	CTA	85A	north	85A: Jeff Park Transit Center -> Touhy/Ionia	bus
+1350122	US:WI	32		State Trunk Highway 32	road
+1358974	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Chicago => New York	train
+1376500				Main Line (New York Central Railroad)	railway
+1431545	US:IL	29			road
+1441066				Chicago District	railway
+1441069		NS		Heartland Corridor	railway
+1443941	US:I	74			road
+1444126	US:I	74			road
+1446685				Elgin and Belvidere Electric Company	historic
+1452783				Chillicothe Subdivision	railway
+1467266	US:IL	8			road
+1467306	US:IL	116			road
+1477498				Chicago Subdivision (BNSF)	railway
+1536651	US:IL:Kane	37		Kane County Highway 37	road
+1536672	US:IL:Kane	21		Kane County Highway 21	road
+1536687	US:IL:Kane	6		Kane County Highway 6	road
+1536688	US:IL:Kane	59		Kane County Highway 59	road
+1536699	US:IL:Kane	47		Kane County Highway 47	road
+1536724	US:IL:Kane	30		Kane County Highway 30	road
+1536739	US:IL:Kane	40		Kane County Highway 40	road
+1536747	US:IL:Kane	39		Kane County Highway 39	road
+1536787	US:IL:Kane	36		Kane County Highway 36	road
+1536790	US:IL:Kane	45		Kane County Highway 45	road
+1536791	US:IL:Kane	3		Kane County Highway 3	road
+1536800	US:IL:Kane	5		Kane County Highway 5	road
+1536802	US:IL:Kane	22		Kane County Highway 22	road
+1536803	US:IL:Kane	33		Kane County Highway 33	road
+1536821	US:IL:Kane	18		Kane County Highway 18	road
+1536827	US:IL:Kane	17		Kane County Highway 17	road
+1536828	US:IL:Kane	32		Kane County Highway 32	road
+1536872	US:IL:Kane	38		Kane County Highway 38	road
+1536873	US:IL:Kane	28		Kane County Highway 28	road
+1536874	US:IL:Kane	46		Kane County Highway 46	road
+1536875	US:IL:Kane	11		Kane County Highway 11	road
+1536937	US:IL:Kane	51		Kane County Highway 51	road
+1536938	US:IL:Kane	2		Kane County Highway 2	road
+1536939	US:IL:Kane	80		Kane County Highway 80	road
+1536940	US:IL:Kane	27		Kane County Highway 27	road
+1536941	US:IL:Kane	56		Kane County Highway 56	road
+1536942	US:IL:Kane	49		Kane County Highway 49	road
+1537038	US:IL:Kane	81		Kane County Highway 81	road
+1537039	US:IL:Kane	69		Kane County Highway 69	road
+1537054	US:IL:Kane	14		Kane County Highway 14	road
+1537055	US:IL:Kane	41		Kane County Highway 41	road
+1537134	US:IL:Kane	23		Kane County Highway 23	road
+1537139	US:IL:Kane	1		Kane County Highway 1	road
+1537162	US:IL:Kane	84		Kane County Highway 84	road
+1537163	US:IL:Kane	8		Kane County Highway 8	road
+1537164	US:IL:Kane	26		Kane County Highway 26	road
+1537170	US:IL:Kane	10		Kane County Highway 10	road
+1537191	US:IL:Kane	34			road
+1537202	US:IL:Kane	71		Kane County Highway 71	road
+1537208	US:IL:Kane	83		Kane County Highway 83	road
+1537212	US:IL:Kane	24		Kane County Highway 24	road
+1537388	US:IL:Kane	16		Kane County Highway 16	road
+1537389	US:IL:Kane	78		Kane County Highway 78	road
+1537391	US:IL:Kane	15		Kane County Highway 15	road
+1537392	US:IL:Kane	4		Kane County Highway 4	road
+1537393	US:IL:Kane	44		Kane County Highway 44	road
+1537397	US:IL:Kane	48		Kane County Highway 48	road
+1537398	US:IL:Kane	62		Kane County Highway 62	road
+1537399	US:IL:Kane	35		Kane County Highway 35	road
+1537400	US:IL:Kane	84		Kane County Highway 84	road
+1537869	US:IL:Kane	29		Kane County Highway 29	road
+1537877	US:IL:Kane	77		Kane County Highway 77	road
+1537886	US:IL:Kane	19		Kane County Highway 19	road
+1537895	US:IL:Kane	20		Kane County Highway 20	road
+1537896	US:IL:Kane	61		Kane County Highway 61	road
+1551762	US:IL	15			road
+1558425	US:IL:McHenry	V29		McHenry County Highway V29	road
+1558428	US:IL:McHenry	A50		McHenry County Highway A50	road
+1558436	US:IL:McHenry	A48		McHenry County Highway A48	road
+1558470	US:IL:McHenry	V33		McHenry County Highway V33	road
+1558471	US:IL:McHenry	A45		McHenry County Highway A45	road
+1558475	US:IL:McHenry	V32		McHenry County Highway V32	road
+1558476	US:IL:McHenry	V36		McHenry County Highway V36	road
+1558477	US:IL:McHenry	A46		McHenry County Highway A46	road
+1558479	US:IL:McHenry	V23		McHenry County Highway V23	road
+1568617	rcn	VGT		Virgil Gilman Trail	bicycle
+1572749	rcn				bicycle
+1583755	US:IN	10			road
+1583987	US:IN	28			road
+1589868	US:IL:McHenry	A47		McHenry County Highway A47	road
+1589869	US:IL:McHenry	T66		McHenry County Highway T66	road
+1589870	US:IL:McHenry	A49		McHenry County Highway A49	road
+1589938	US:IL:McHenry	T58		McHenry County Highway T58	road
+1589961	US:IL:McHenry	A44		McHenry County Highway A44	road
+1590167	US:IL:McHenry	T47		McHenry County Highway T47	road
+1590168	US:IL:McHenry	A33		McHenry County Highway A33	road
+1590169	US:IL:McHenry	A29		McHenry County Highway A29	road
+1590170	US:IL:McHenry	T59		McHenry County Highway T59	road
+1590171	US:IL:McHenry	T65		McHenry County Highway T65	road
+1590172	US:IL:McHenry	T64		McHenry County Highway T64	road
+1590173	US:IL:McHenry	A42		McHenry County Highway A42	road
+1590174	US:IL:McHenry	T68		McHenry County Highway T68	road
+1590176	US:IL:McHenry	A28		McHenry County Highway A28	road
+1590177	US:IL:McHenry	V24		McHenry County Highway V24	road
+1590178	US:IL:McHenry	V12		McHenry County Highway V12	road
+1590179	US:IL:McHenry	A18		McHenry County Highway A18	road
+1590180	US:IL:McHenry	A15		McHenry County Highway A15	road
+1590181	US:IL:McHenry	T50		McHenry County Highway T50	road
+1590182	US:IL:McHenry	A20		McHenry County Highway A20	road
+1590183	US:IL:McHenry	A19		McHenry County Highway A19	road
+1590184	US:IL:McHenry	A22		McHenry County Highway A22	road
+1590185	US:IL:McHenry	A27		McHenry County Highway A27	road
+1590186	US:IL:McHenry	V30		McHenry County Highway V30	road
+1590187	US:IL:McHenry	A16		McHenry County Highway A16	road
+1590663	US:IL:McHenry	V35		McHenry County Highway V35	road
+1590668	US:IL:McHenry	V43		McHenry County Highway V43	road
+1590670	US:IL:McHenry	V44		McHenry County Highway V44	road
+1590671	US:IL:McHenry	A17		McHenry County Highway A17	road
+1590674	US:IL:McHenry	V40		McHenry County Highway V40	road
+1590677	US:IL:McHenry	A26		McHenry County Highway A26	road
+1590687	US:IL:McHenry	V45		McHenry County Highway V45	road
+1590688	US:IL:McHenry	A32		McHenry County Highway A32	road
+1590694	US:IL:McHenry	V34		McHenry County Highway V34	road
+1590696	US:IL:McHenry	A38		McHenry County Highway A38	road
+1590699	US:IL:McHenry	V25		McHenry County Highway V25	road
+1591180	US:IL:Lake	V44		Lake County Highway V44	road
+1593678	US:US	6			road
+1593684	US:US	50			road
+1593687	US:US	50			road
+1593689	US:US	36			road
+1593690	US:US	36			road
+1593691	US:US	36			road
+1595232	US:US	60			road
+1602072	US:IL:Cook	A57		Cook County Highway A57	road
+1602073	US:IL:Cook	V42		Cook County Highway V42	road
+1602077	US:IL:Cook	V45		Cook County Highway V45	road
+1602079	US:IL:Cook	V46		Cook County Highway V46	road
+1602083	US:IL:Cook	V48		Cook County Highway V48	road
+1602087	US:IL:Cook	A81		Cook County Highway A81	road
+1602088	US:IL:Cook	V56		Cook County Highway V56	road
+1602090	US:IL:Cook	A62		Cook County Highway A62	road
+1602093	US:IL:Cook	A71		Cook County Highway A71	road
+1602096	US:IL:Cook	V47		Cook County Highway V47	road
+1602099	US:IL:Cook	A63		Cook County Highway A63	road
+1602865	US:IL:Cook	V40		Cook County Highway V40	road
+1602866	US:IL:Cook	B10		Cook County Highway B10	road
+1602878	US:IL:Cook			Cook County Highway V44	road
+1602995	US:IL:Cook	V64		Cook County Highway V64	road
+1603050	US:IL:Cook	V57		Cook County Highway V57	road
+1603052	US:IL:Cook	A55		Cook County Highway A55	road
+1603082	US:IL:Cook	A61			road
+1607588	rcn	HT		Hebron Trail	bicycle
+1607589	rcn	HUM		The H.U.M. trail	bicycle
+1607593	rcn	GWT		Great Western Trail	bicycle
+1614060	rcn	ETT		Elgin Township Trail	bicycle
+1614091	rcn	RBT		River Bend Trail	bicycle
+1614092	rcn	RRT		Randall Road Trail	bicycle
+1614101	rcn	KFT		Kirk-Fabyan Regional trail	bicycle
+1617619	US:IL	1			road
+1617806	US:IL	2			road
+1617808	US:IL	4			road
+1617809	US:IL	3			road
+1617883	US:IL	9			road
+1617884	US:IL	6			road
+1617885	US:IL	10			road
+1617886	US:IL	5			road
+1618493	US:IL	14			road
+1618494	US:IL	18			road
+1618495	US:IL	22			road
+1618496	US:IL	23			road
+1618497	US:IL	16			road
+1618498	US:IL	13			road
+1618726	US:IL	37			road
+1618727	US:IL	26			road
+1618728	US:IL	33			road
+1618729	US:IL	32			road
+1618730	US:IL	35			road
+1618731	US:IL	34			road
+1619956	US:IL	41			road
+1619957	US:IL	49			road
+1619958	US:IL	54			road
+1620216	US:IL	57			road
+1620217	US:IL	61			road
+1620218	US:IL	70			road
+1620219	US:IL	71			road
+1620220	US:IL	60			road
+1622531	US:IL	90			road
+1622532	US:IL	97			road
+1622533	US:IL	96			road
+1622534	US:IL	84			road
+1622535	US:IL	95			road
+1622536	US:IL	99			road
+1622537	US:IL	89			road
+1622538	US:IL	73			road
+1622539	US:IL	81			road
+1622540	US:IL	76			road
+1622541	US:IL	91			road
+1622542	US:IL	94			road
+1622543	US:IL	92			road
+1622544	US:IL	93			road
+1622545	US:IL	82		IL 82	road
+1622546	US:IL	98		IL 98	road
+1622547	US:IL	75		IL 75	road
+1627579	rcn	JAT		Jane Addams Trail	bicycle
+1627581	rcn	Badger		Badger State Trail	bicycle
+1629678	US:US	54			road
+1638760	Amtrak	Hiawatha Service		Amtrak Hiawatha Service: Chicago => Milwaukee	train
+1640383	lcn				bicycle
+1656590	US:IL	100		IL 100	road
+1656591	US:IL	101		IL 101	road
+1656592	US:IL	102		IL 102	road
+1656593	US:IL	103		IL 103	road
+1656594	US:IL	104		IL 104	road
+1656595	US:IL	105		IL 105	road
+1656596	US:IL	106		IL 106	road
+1656597	US:IL	107		IL 107	road
+1656598	US:IL	108		IL 108	road
+1656599	US:IL	109		IL 109	road
+1656600	US:IL	111		IL 111	road
+1656601	US:IL	113		IL 113	road
+1656602	US:IL	114		IL 114	road
+1656603	US:IL	115		IL 115	road
+1656604	US:IL	117		IL 117	road
+1656605	US:IL	119		IL 119	road
+1656973	US:IL	120		IL 120	road
+1656974	US:IL	122		IL 122	road
+1656975	US:IL	123		IL 123	road
+1656976	US:IL	124		IL 124	road
+1656977	US:IL	125		IL 125	road
+1656978	US:IL	126		IL 126	road
+1656979	US:IL	127		IL 127	road
+1656980	US:IL	128		IL 128	road
+1656981	US:IL	129		IL 129	road
+1656982	US:IL	130		IL 130	road
+1656983	US:IL	131		IL 131	road
+1656984	US:IL	132		IL 132	road
+1656985	US:IL	133		IL 133	road
+1656986	US:IL	134		IL 134	road
+1656987	US:IL	135		IL 135	road
+1656988	US:IL	136		IL 136	road
+1656989	US:IL	137		IL 137	road
+1656990	US:IL	138		IL 138	road
+1656991	US:IL	140		IL 140	road
+1656992	US:IL	141		IL 141	road
+1656993	US:IL	142		IL 142	road
+1656994	US:IL	143		IL 143	road
+1656995	US:IL	145		IL 145	road
+1656996	US:IL	146		IL 146	road
+1656997	US:IL	147		IL 147	road
+1656998	US:IL	148		IL 148	road
+1656999	US:IL	149		IL 149	road
+1657622	US:IL	150		IL 150	road
+1657623	US:IL	151		IL 151	road
+1657624	US:IL	152		IL 152	road
+1657625	US:IL	153		IL 153	road
+1657626	US:IL	154		IL 154	road
+1657627	US:IL	155		IL 155	road
+1657628	US:IL	156		IL 156	road
+1657629	US:IL	157		IL 157	road
+1657630	US:IL	158		IL 158	road
+1657631	US:IL	159		IL 159	road
+1657632	US:IL	160		IL 160	road
+1657633	US:IL	161		IL 161	road
+1657634	US:IL	162		IL 162	road
+1657635	US:IL	163		IL 163	road
+1657636	US:IL	164		IL 164	road
+1657637	US:IL	165		IL 165	road
+1657638	US:IL	166		IL 166	road
+1657639	US:IL	167		IL 167	road
+1657640	US:IL	169		IL 169	road
+1657641	US:IL	170		IL 170	road
+1657642	US:IL	172		IL 172	road
+1657643	US:IL	176		IL 176	road
+1657644	US:IL	177		IL 177	road
+1657645	US:IL	178		IL 178	road
+1657646	US:IL	180		IL 180	road
+1657647	US:IL	184		IL 184	road
+1657648	US:IL	185		IL 185	road
+1657649	US:IL	192		IL 192	road
+1657650	US:IL	203		IL 203	road
+1657651	US:IL	242		IL 242	road
+1657652	US:IL	250		IL 250	road
+1657653	US:IL	251		IL 251	road
+1657654	US:IL	255		IL 255	road
+1657655	US:IL	267		IL 267	road
+1657656	US:IL	336		IL 336	road
+1657657	US:IL	351		IL 351	road
+1657658	US:IL	394			road
+1662269	lcn			DeKalb-Sycamore Trail	bicycle
+1662297	lcn			DeKalb Kiwanis Pathway	bicycle
+1665342	Amtrak	Wolverine		Amtrak Wolverine: Chicago => Pontiac	train
+1687374	Amtrak	Blue Water		Amtrak Blue Water: Chicago => Port Huron	train
+1690525	US:I	474			road
+1737996	MetroLink	Blue		MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
+1737997	MetroLink	Red		MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
+1744233	lcn	NAT		Nature Trail	bicycle
+1745358	lcn	DM		Delyte W. Morris Trail	bicycle
+1745359	lcn	GOS		MCT Goshen Trail	bicycle
+1745360	lcn	NP		MCT Nickel Plate Trail	bicycle
+1745365	lcn	WSD		MCT Watershed Trail	bicycle
+1756583	lcn	SCH		Schoolhouse Trail	bicycle
+1763398	lcn			Arlington Heights Bikeways	bicycle
+1781616	ncn	76		76 (Kentucky)	bicycle
+1782082	ncn	MRT		Mississippi River Trail (Missouri)	bicycle
+1783090	US:GRR			Great River Road (Illinois - National Route)	road
+1783092	US:GRR			Great River Road (Kentucky)	road
+1784814	US:GRR			Great River Road (Iowa)	road
+1784815	US:GRR			Great River Road (Missouri - National Route)	road
+1796334	US:US:Historic	66			road
+1796335	US:US:Historic	66			road
+1809794	Amtrak	Empire Builder		Amtrak Empire Builder: Chicago => Seattle	train
+1901658	lcn			Great Western Trail Connector	bicycle
+1909138	rcn			Pecatonica Prairie Path	bicycle
+1910978	lcn	1		Elgin Bicycle Route 1	bicycle
+1910979	lcn	2		Elgin Bicycle Route 2	bicycle
+1910994	lcn	3		Elgin Bicycle Route 3	bicycle
+1924636	rcn	HCP		Hennepin Canal Parkway	bicycle
+1931956	US:US:Business	20			road
+1931957	US:US:Business	20			road
+1931958	US:US:Business	24			road
+1931959	US:US:Business	50			road
+1931960	US:US:Business	51			road
+1931961	US:US:Business	51			road
+1931962	US:US:Business	67			road
+1933422	US:I:Business:Loop	55		"I 55 Business (Bloomington-Normal, IL) (North)"	road
+1933423	US:I:Business:Loop	55		"I 55 Business (Lincoln, IL)"	road
+1933424	US:I:Business:Loop	55		"I 55 Business (Springfield, IL)"	road
+1933427	US:I:Business:Loop	72		"I 72 Business (Jacksonville, IL)"	road
+1964266	lcn	4		Elgin Bicycle Route 4	bicycle
+1965147	CTA	50	north	Bus 50: 35th/Archer ->Ashland/Clark	bus
+2106345	MetroBus	21X		MetroBus 21X Scott AFB-East Base Shuttle (westbound)	bus
+2106346	MetroBus	21X		MetroBus 21X Scott AFB-East Base Shuttle (eastbound)	bus
+2106347	MetroBus	21		MetroBus 21 Scott AFB-Main Base Shuttle	bus
+2143692	CTA	78	east	Bus 78: Harlem/Forest Preserve -> Montrose & Marine	bus
+2169102				Riverwalk	hiking
+2179781	rcn	66		Route 66	bicycle
+2182435	inland waterways			Illinois Waterway	boat
+2182436	inland waterways			Kaskaskia River	boat
+2182441	inland waterways			Upper Mississippi River	boat
+2189762				Calumet Harbor	boat
+2189763				Chicago River	boat
+2192810	lcn			Fermilab Trail	bicycle
+2204247				Cairo Subdivision	railway
+2204248				Centralia Subdivision	railway
+2204249				Champaign Subdivision	railway
+2204250				Chicago Subdivision (CN)	railway
+2204251				Dewey Spur	railway
+2204254				Seymour Spur	railway
+2213727	MetroBus	15	Eastbound	MetroBus 15 Belleville-Shiloh-O'Fallon (eastbound)	bus
+2213728	MetroBus	15	Westbound	MetroBus 15 Belleville-Shiloh-O'Fallon (westbound)	bus
+2214662				Chester Subdivision	railway
+2214666				Kellogg Industrial Lead	railway
+2214818				Brookfield Subdivision	railway
+2214842	lcn			Washington Recreational Trail	bicycle
+2221542				Merchants Subdivision	railway
+2221743				A&E Line	railway
+2221744				Altenheim Subdivision	railway
+2221745				Bloomington District	railway
+2221746				Blue Island Subdivision	railway
+2221747				Brooklyn District	railway
+2221748				Cairo Branch	railway
+2221749				Chicago Heights Subdivision	railway
+2221750				Cicero Industrial Track	railway
+2221751				Illinois Subdivision	railway
+2221752				Lafayette District	railway
+2221753				Madison Branch	railway
+2221754				Mansfield Branch	railway
+2221755				Meredosia Branch	railway
+2221756				Monterey Branch	railway
+2221757				New Rock Subdivision	railway
+2221758				Southern-West District	railway
+2221759				Springfield District	railway
+2221760				Saint Louis Line Subdivision	railway
+2221761				T&E Line	railway
+2221762				V&C Belt	railway
+2221763				Woodland Subdivision	railway
+2222661				Barstow Subdivision	railway
+2222662				Beardstown Subdivision	railway
+2222663				Graham Cutoff	railway
+2222664				Kankakee Branch	railway
+2222666				Nifa Branch	railway
+2222667				Ottumwa Subdivision	railway
+2222668				Peoria Subdivision	railway
+2222669				West Chicago Branch	railway
+2222670				Yates City Subdivision	railway
+2223037				Belvidere Subdivision	railway
+2223038				Chemung Industrial Lead	railway
+2223039				Crystal Lake Industrial Lead	railway
+2223040				Dixon River Industrial Lead	railway
+2223041				Geneva Subdivision	railway
+2223042				Harvard Subdivision	railway
+2223043				Ingalton Industrial Lead	railway
+2223044				KD Industrial Lead	railway
+2223045				Kenosha Subdivision	railway
+2223046				Lake Subdivision	railway
+2223047				McHenry Subdivision	railway
+2223048				Milwaukee Subdivision	railway
+2223049				Peoria Subdivision	railway
+2223050				St. Charles Industrial Lead	railway
+2223051				State Line Industrial Lead	railway
+2223052				Troy Grove Subdivision	railway
+2223277				Bluford Subdivision	railway
+2223278				Cissna Park Industrial Lead	railway
+2223279				Effingham Subdivision	railway
+2223280				Eldorado Subdivision	railway
+2223281				Forsyth Spur	railway
+2223282				Gilman Subdivision	railway
+2223284				Heyworth Spur	railway
+2223285				JSW Industrial Lead	railway
+2223286				Joliet Subdivision	railway
+2223287				Marion Subdivision	railway
+2223288				Monterey Subdivision	railway
+2223289				Mt. Vernon Subdivision	railway
+2223290				Pana Subdivision	railway
+2223291				Peoria Subdivision	railway
+2223292				Pequot Industrial Lead	railway
+2223293				Pinckneyville Subdivision	railway
+2223294				Plaines Industrial Lead	railway
+2223295				Salem Subdivision	railway
+2223296				CN Sparta Subdivision	railway
+2223297				Sparta Subdivision	railway
+2223298				Springfield Subdivision	railway
+2223299				CN St. Louis Subdivision	railway
+2223300				Villa Grove Subdivision	railway
+2223301				Westville Industrial Lead	railway
+2226726	lcn	BT		Bluff Trail	bicycle
+2226727	lcn	HT		Glen Carbon Heritage Trail	bicycle
+2226728	lcn			Heritage Trail	bicycle
+2226729	lcn	QG		MCT Quercus Grove Trail	bicycle
+2227647				Danville Secondary Subdivision	railway
+2227648				Decatur Subdivision	railway
+2231018	MetroBus	2X		MetroBus 2X Waterloo-Columbia (southbound AM)	bus
+2231019	MetroBus	2X		MetroBus 2X Waterloo-Columbia (southbound PM)	bus
+2231021	MetroBus	2	Northbound	MetroBus 2 Cahokia (northbound via St. Louis Downtown Airport)	bus
+2231022	MetroBus	2X		MetroBus 2X Waterloo-Columbia (northbound AM)	bus
+2231023	MetroBus	2X		MetroBus 2X Waterloo-Columbia (northbound PM)	bus
+2234811				Chicago Line	railway
+2239429	MetroBus	6		MetroBus 6 Fairmont City	bus
+2241353	MetroBus	6		MetroBus 6 Rosemont (westbound)	bus
+2241354	MetroBus	6		MetroBus 6 Rosemont (eastbound)	bus
+2241614	MetroBus	17		MetroBus 17 Carlyle Plaza-17th Street (counterclockwise)	bus
+2241616	MetroBus	17		MetroBus 17 Carlyle Plaza-17th Street (clockwise)	bus
+2248018	rcn	RH		Riverside Heritage Route	bicycle
+2248046	lcn			Riverside Ring Route	bicycle
+2293486				Iowa Interstate Railroad	railway
+2304381	US:US	41			road
+2304407	US:US	45			road
+2304411	US:US	45			road
+2304445	US:US	51			road
+2304879	US:US	67			road
+2304880	US:US	67			road
+2304881	US:US	67			road
+2308406	US:US	6			road
+2308512	US:US	14			road
+2308560	US:US	20			road
+2308736	US:US	136			road
+2308741	US:US	30			road
+2308745	US:US	34			road
+2308746	US:US	34			road
+2309019	US:US	40			road
+2309294	US:US	150			road
+2309295	US:US	150			road
+2309405	US:US	52			road
+2309410	US:US	52			road
+2310343	US:US	62			road
+2310344	US:US	62			road
+2318253	US:MO	110			road
+2324101	US:I	57	north		road
+2324102	US:I	57	north		road
+2324103	US:I	57	south		road
+2324104	US:I	57	south		road
+2400823	CTA	Yellow	north	CTA Yellow Line: Howard → Dempster-Skokie	subway
+2400824	CTA	Purple	south	CTA Purple Line (rush hours): Linden → Loop	subway
+2562970	CTA	Brown	north	CTA Brown Line: Loop → Kimball	subway
+2578311	CTA	Orange	south	CTA Orange Line: Loop → Midway	subway
+2584584	CTA	Red	south	CTA Red Line: Howard → 95th/Dan Ryan	subway
+2613595	CTA	Green		CTA Green Line: Ashland/63rd → Harlem/Lake	subway
+2613596	CTA	Green		CTA Green Line: Cottage Grove → Harlem/Lake	subway
+2613597	CTA	Green		CTA Green Line: Harlem/Lake → Ashland/63rd	subway
+2613598	CTA	Green		CTA Green Line: Harlem/Lake → Cottage Grove	subway
+2618402	lwn			Robinson Park North	hiking
+2618576	lwn			Robinson Park South	hiking
+2656069	CTA	Pink	east	CTA Pink Line: 54th/Cermak → Loop	subway
+2672369	CTA	Blue	south	CTA Blue Line: O'Hare → Forest Park	subway
+2744526	Amtrak	Pere Marquette		Amtrak Pere Marquette: Chicago => Grand Rapids	train
+2777736	CTA	155	east	Bus 155: Devon/Kedzie -> Morse Red Line Station	bus
+2794554	Amtrak	Capitol Limited		Amtrak Capitol Limited: Washington => Chicago	train
+2795760	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => San Antonio	train
+2807121	Amtrak	Cardinal		Amtrak Cardinal: Chicago => New York	train
+2842202	CTA	74	west	Bus 74: Fullerton/Halsted -> Grand/Nordica	bus
+2900638	lcn	Dearborn		Dearborn Street	bicycle
+2917747	ncn	76		76 (Illinois)	bicycle
+3077763	lwn			Spring Lake Park	hiking
+3079606	lwn			Kickapoo Creek Rec Area	hiking
+3117572	Metra	UP-N	north	Metra Union Pacific North: Ogilvie Transportation Center => Kenosha	train
+3117593	Metra	MD-N	south	Metra Milwaukee District North: Fox Lake => Chicago	train
+3117599	Metra	NCS	south	Metra North Central Service: Antioch => Chicago	train
+3117604	Metra	UP-NW	north	Metra Union Pacific Northwest: Ogilvie Transportation Center => McHenry	train
+3117605	Metra	UP-NW	south	Metra Union Pacific Northwest: Harvard => Ogilvie Transportation Center	train
+3117606	Metra	UP-NW	south	Metra Union Pacific Northwest: McHenry => Ogilvie Transportation Center	train
+3117611	Metra	MD-W	east	Metra Milwaukee District West: Elgin => Chicago	train
+3117612	Metra	MD-W	west	Metra Milwaukee District West: Chicago => Elgin	train
+3117614	Metra	UP-W	east	Metra Union Pacific West: Elburn => Ogilvie Transportation Center	train
+3117618	Metra	BNSF	east	Metra BNSF Railway: Aurora => Chicago	train
+3117624	Metra	HC	north	Metra Heritage Corridor: Joliet => Chicago	train
+3117628	Metra	RI	south	Metra Rock Island District: LaSalle Street => Beverly Hills => Joliet	train
+3117629	Metra	RI	north	Metra Rock Island District: Joliet => Beverly Hills => LaSalle Street	train
+3117644	Metra	RI	north	Metra Rock Island District: Joliet => Longwood => LaSalle Street	train
+3117663	Metra	SWS	north	Metra SouthWest Service: Manhattan => Chicago	train
+3117665	Metra	ME	north	Metra Electric District: Blue Island => Millennium Station	train
+3117666	Metra	ME	south	Metra Electric District: Millennium Station => Blue Island	train
+3117667	Metra	ME	south	Metra Electric District: Millennium Station => South Chicago	train
+3117668	Metra	ME	north	Metra Electric District: South Chicago => Millennium Station	train
+3117669	Metra	ME	north	Metra Electric District: University Park => Millennium Station	train
+3118653	US:WI	80		State Trunk Highway 80	road
+3118815		CBS		Chicago Boulevard System	road
+3124555	lwn			Meadow Valley Park	hiking
+3146493				5-mile Trail	hiking
+3157242	lwn			Pedway	foot
+3177959	US:WI	31		State Trunk Highway 31	road
+3201529	MTD	5E	E	MTD 5E Green Weekday - Daytime AM	bus
+3203226	MTD	12E	east	MTD 12E Teal Weekday - Daytime	bus
+3203245	MTD	5XW	W	MTD 5W Green Express Weekday	bus
+3318923	ncn	50		50 (Indiana)	bicycle
+3406468	lcn			Morrison-Rockwood Trail	bicycle
+3419375	lcn	606		Bloomingdale Trail	bicycle
+3484859	lcn			Main Trail	bicycle
+3600814	lcn			Wheeling Bicycle Network	bicycle
+3601152	lcn			Northbrook Bicycle Network	bicycle
+3601333	lcn			Palatine Bicycle Network	bicycle
+3731709	ncn	36		36 (Illinois)	bicycle
+3734410	US:US:Historic	66			road
+3734593	US:US:Historic	66			road
+3734771					
+3773427	rcn			Sam Vadalabene Bike Trail	bicycle
+3783539	ncn	37		37 (Illinois)	bicycle
+3811919	US:IL:Champaign	14			road
+3912536	CTA	156	south	Bus 156: Belmont/Halsted -> Union Station	bus
+3914768	CTA	151	north	Bus 151:Union Station -> Clark/Arthur	bus
+3914970	CTA	146	south	Bus 146: Berwyn Red Line Station -> Museum Campus	bus
+3922722	CTA	72	east	Bus 72: North/Harlem -> North/Clark	bus
+3962913				Crab Orchard Visitor Center Pond and Woodland Nature Trail	hiking
+3968433	US:I	39			road
+3968434	US:I	39			road
+4035060	US:WI	69		State Trunk Highway 69	road
+4036639	US:WI	78		State Trunk Highway 78	road
+4036862	US:WI	83		State Trunk Highway 83	road
+4042846	US:WI	213		State Trunk Highway 213	road
+4058148	US:WI:Rustic	R66		Rustic Road 66	road
+4137138	US:IL:Knox	7			road
+4171431	CTA	201	south	Bus 201: Old Orchard Mall -> Howard Red Line Station	bus
+4172255	ncn	MRT		Mississippi River Trail (Illinois)	bicycle
+4174656	CTA	93	south	Bus 93: Davis Purple Line Station -> Logan Square Blue Line Station	bus
+4183409	CTA	80	east	Bus 80: Irving Park/Cumberland -> Irving Park/Broadway	bus
+4183533	CTA	81	east	Bus 81: Jeff Park Transit Center -> Wilson/Marine	bus
+4183547	CTA	92	west	Bus 92: Berwyn Red Line -> Jeff Park Transit Center	bus
+4185693	CTA	68	north	Bus 68: Jeff Park Transit Center -> Park Ridge Metra Station	bus
+4185943	CTA	85	north	Bus 85: Harrison/Central -> Bryn Mawr/Elston	bus
+4185944	CTA	88	west	Bus 88: Jeff Park Transit Center -> Devon/Canfield	bus
+4186028	CTA	82	south	Bus 82: Lincolnwood Town Center -> 31st/Komensky	bus
+4186029	CTA	96	east	Bus 96: Devon/Kedzie -> Morse Red Line Station	bus
+4189222	CTA	152	east	Bus 152: Addison/Cumberland -> Lake Shore/Waveland	bus
+4189477	CTA	91	south	Bus 91: Jeff Park Transit Center -> Roosevelt/Austin	bus
+4189595	CTA	76	east	Bus 76: Diversey/Harlem -> Nature Museum	bus
+4189655	CTA	77	east	Bus 77: Belmont/Cumberland -> Diversey/Lake Shore	bus
+4203905	CTA	97	west	Bus 97: Howard Red Line Station -> Old Orchard Mall	bus
+4204007	CTA	54A	south	Bus 54A: Skokie Courthouse -> Irving Park Blue Line Station	bus
+4204346	CTA	84	east	Bus 84: Caldwell & Central -> Bryn Mawr Red Line Station	bus
+4204373	CTA	54	south	Bus 54: Montrose/Cicero -> 24th Place/Cicero	bus
+4204962	CTA	65	east	Bus 65: Grand/Nordica -> Navy Pier	bus
+4204963	CTA	73	east	Bus 73: Grand/Latrobe -> North/Clark	bus
+4205096	CTA	57	north	Bus 57: Cicero/Harrison -> Grand/Latrobe	bus
+4205307	CTA	86	south	Bus 86: Devon/Milwaukee -> Ridgeland Green Line Station	bus
+4206927	CTA	66	west	Bus 66: Navy Pier -> Chicago/Austin	bus
+4206973	CTA	70	east	Bus 70: Division/Austin -> Walton/Dearborn	bus
+4207640	CTA	67	west	Bus 67: 67th/South Shore -> Ford City	bus
+4216152	CTA	126	west	Bus 126: Congress Plaza -> Jackson/Austin	bus
+4224706	US:IL:Cook	V60		Cook County Highway V60	road
+4231913	US:IL:Knox	23			road
+4234651	US:IL:Knox	15			road
+4234902	CTA	59	east	Bus 59: Midway Orange Line Station -> 60th Street & Stony Island	bus
+4235193	CTA	75	west	Bus 75: 75th/Lakefront -> 79th/Western	bus
+4235248	CTA	79	east	Bus 79: Ford City -> 79th/South Shore	bus
+4235358	CTA	87	west	Bus 87: 91st/Commercial -> 87th/Cicero	bus
+4237062	CTA	56	south	Bus 56: Jeff Park Transit Center -> Washignton/Michigan	bus
+4243502	CTA	112	west	Bus 112: 95th/Dan Ryan Red Line Station -> 111th/Pulaski	bus
+4243504	CTA	115	north	Bus 115: 117th/Marshfield -> 95th/Dan Ryan Red Line Station	bus
+4243506	CTA	103	east	Bus 103: 104th/Pulaski -> 95th/Dan Ryan Red Line Station	bus
+4243508	CTA	111	north	Bus 111: 117th/Marshfield -> 95th/Dan Ryan Red Line Station	bus
+4245917	CTA	90	north	Bus 90: Harlem/Lake -> Harlem/Higgins	bus
+4249862	US:IL:Knox	8			road
+4251159	CTA	63W	west	Bus 63W: Midway Orange Line Station -> 63rd/Archer	bus
+4251181	CTA	62H	east	Bus 62H: 63rd/Archer -> Midway Orange Line Station	bus
+4251499	CTA	55A	west	Bus 55A: Midway Orange Line Station -> 65th/Austin	bus
+4251500	CTA	55N	west	Bus 55N Midway Orange Line Station -> 63rd/Narragansett	bus
+4251685	CTA	165	west	Bus 165: Midway Orange Line Station -> 65th/Harlem	bus
+4251717	CTA	62	east	Bus 62: Archer/Harlem -> State/Kinzie	bus
+4251735	CTA	N62	east	Bus N62: Midway Orange Line Station -> State/Kinzie	bus
+4252289	US:IL:Knox	10			road
+4255230	CTA	60	east	Bus 60: Cicero/24th Place -> Harbor Point	bus
+4255231	CTA	N60	east	Bus N60: 54th/Cermak Pink Line Station -> Washington/State	bus
+4264852	US:IL:Knox	9			road
+4276615	rcn			Pennsy Greenway	bicycle
+4276926	CTA	N81	east	Bus N81: Jeff Park Transit Center -> Wilson/Marine	bus
+4277006	CTA	N77	east	Bus N77: Belmont/Octavia -> Belmont/Halsted	bus
+4281795	CTA	147	south	Bus 147: Howard Red Line Station -> Congress Plaza	bus
+4436432	CTA	124	east	Bus 124: Union Station -> Navy Pier	bus
+4436567	CTA	125	north	Bus 125: Desplaines/Harrison -> Chestnut/MVDR	bus
+4436585	CTA	N66	west	Bus N66: State/Washington -> Chicago/Austin	bus
+4439538	CTA	171	north	Bus 171: 60th/University -> 54th/Shore Drive	bus
+4439539	CTA	172	north	Bus 172: 60th/University -> Hyde Park & East End	bus
+4439784	CTA	63	west	Bus 63: 63rd/Stony Island -> Midway Orange Line Station	bus
+4440119	CTA	N79	west	Bus N79: 79th/South Shore -> 79th/Western	bus
+4440323	CTA	N87	west	Bus N87: 87th/Dan Ryan -> 87th/Western	bus
+4459816	Pace	208	west	Bus 208: Davis CTA Station => Pace Northwest Transportation Center	bus
+4460242	Pace	210		Lincoln Avenue	bus
+4462428	Pace	213	north	Bus 213: Howard CTA Station -> Highland Park Metra Station	bus
+4462448	Pace	215	north	Bus 215: Howard CTA Station -> Old Orchard Mall	bus
+4464391	Pace	221	north	Bus 221: Rosemont CTA Station => Wolf/Piper	bus
+4465273	Pace	225	north	Bus 225: Jeff Park Transit Center => Harlem/Oakton	bus
+4472825	Pace	223-W	west	Bus 223-W: Rosemont CTA Station => Tower/Mark	bus
+4472956	Pace	223-E	west	Bus 223-E: Rosemont CTA Station => Tower/ Mark	bus
+4480175	Pace	241	south	Bus 241: Golf Mill Mall -> Cumberland CTA Station	bus
+4480176	Pace	240	south	Bus 240: Golf Mill Mall -> Cumberland CTA Station	bus
+4480202	Pace	250	east	Bus 250: O'Hare MMF->Davis CTA Station	bus
+4480234	Pace	270	north	Bus 270: Jeff Park Transit Center -> Glenbrook Hospital	bus
+4480264	Pace	272		Milwaukee Avenue North	bus
+4480377	Pace	290	west	290: Howard CTA Station -> Cumberland CTA Station	bus
+4499116	Pace	301		Roosevelt Road	bus
+4499412	Pace	302		Ogden-Stanley	bus
+4513501	Pace	303		Forest Park - Rosemont	bus
+4515846	Pace	307	south	Bus 307: Grand/Nordica -> Bridgeview Transit Center	bus
+4551459	Pace	308	west	Bus 308: Forest Park CTA Station -> Medical Center	bus
+4555753	rcn	US 30 Bikeway			bicycle
+4583608	Pace	808		Crystal Lake-Harvard	bus
+4623415	Huskie Bus Line	2L		Route 2L	bus
+4634622		11		Route 11	bus
+4634629		10		Route 10	bus
+4649821	rwn	R2R		River to River Segment 1 - E'Town to Garden of the Gods	hiking
+4652049	rwn	R2R		River to River Segment 2 - Garden of the Gods to Eddyville	hiking
+4652055	rwn	R2R		River to River Segment 3 - Eddyville to U.S. 45	hiking
+4652099	rwn	R2R		River to River Segment 4 - U.S. 45 to Ferne Clyffe	hiking
+4652115	River to River Segment 5	R2R		River to River Segment 5 - Ferne Clyffe to Giant City	hiking
+4652149	rwn	R2R		River to River Segment 6 - Giant City to Alto Pass	hiking
+4652182	rwn	R2R		River to River Segment 7 - Alto Pass to Devil's Backbone	hiking
+4652234	rwn	R2R-A		River to River Segment A - Battery Rock Alternate	hiking
+4683396	Pace	309	west	Bus 309: Lake/Austin -> Elmhurst Metra Station	bus
+4683450	Pace	310		Madison Street - Hillside	bus
+4683493	Pace	311	south	Bus 311: North/Narragansett -> 47th/Lawndale	bus
+4683612	Pace	313		St. Charles Road	bus
+4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4732506	US:IL:Macon	28			road
+4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
+4744150	Amtrak	Carl Sandburg/Illinois Zephyr		Amtrak Carl Sandburg/Illinois Zephyr: Chicago => Quincy	train
+4764509	Pace	317		Westchester	bus
+4764516	Pace	318	west	Bus 318: Forest Park CTA Station -> Northlake Commons	bus
+4764580	Pace	319		Grand Avenue	bus
+5199610	Pace	322		Cermak Road - 22nd Street	bus
+5199812	Pace	330		Mannheim - LaGrange Roads	bus
+5200006	Pace	331		Cumberland - 5th Avenue	bus
+5226313	lwn			Chicago Riverwalk	foot
+5309452	US:I	41			road
+5313673	Pace	332		River Road - York Road	bus
+5329445	Pace	348	north	Bus 348: Pace Harvey Transportation Center => Gregory & York	bus
+5331961	Pace	349	north	Bus 349: Harvey Transportation Center -> 79th/Western	bus
+5366564	Pace	350	west	Bus 350: Morton & Willow => Pace Harvey Transportation Center	bus
+5366604	Pace	352	south	Bus 352: 95th/Dan Ryan CTA Station => Pace Chicago Heights Terminal	bus
+5377996	GLCT	LMCT		Lake Michigan Circle Tour	road
+5422653	Pace	353	south	Bus 353: 95th Dan/Ryan CTA Station -> River Oaks	bus
+5422694	Pace	354		Harvey - Oak Forest Loop	bus
+5432270	Pace	356	east	Bus 356: DeVry University => Pace Harvey Transportation Center	bus
+5446243	Pace	357	west	Bus 357: Woodlawn/13th Place -> Lawrence Manor	bus
+5454054	Pace	358		Torrence	bus
+5459488	Pace	359	south	Bus 359: 95th Dan/Ryan CTA Station -> Homewood Metra Station	bus
+5461486	Pace	364	west	Bus 364: Hegewisch South Shore Line Station => Herion/Wheeler	bus
+5461886	Pace	366		Park Forest - Chicago Heights	bus
+5487235	US:NR			National Road (IN)	road
+5501426	US:IL:Will	6			road
+5501427	US:IL:Lake	W32			road
+5501428	US:IL:Lake	A7			road
+5501430	US:IL:Lake	A6			road
+5501493	Pace	367		University Park – Park Forest	bus
+5503188	Pace	379	west	Bus 379: Midway CTA Orange Line Station => Herion/Wheeler	bus
+5510275	Pace	381	west	Bus 381: 95th/Dan Ryan CTA Station => Moraine Valley Community College	bus
+5558873	CTA	120	north	Bus 120: Ogilvie Transit Center -> Fairbanks/Chicago	bus
+5558934	CTA	121	south	Bus 121: McClurg/Huron -> Union Station	bus
+5558943	CTA	135	south	Bus 135: Clarendon/Sunnyside -> Adams/Wacker	bus
+5558944	CTA	136	south	Bus 136: Devon/Sheridan -> Adams/Wacker	bus
+5558945	CTA	134	south	Bus 134: Sheridan/Briar -> Adams/Wacker	bus
+5586624	Pace	383	south	Bus 383: Midway CTA Orange Line Station => 195th/Cicero	bus
+5627658					piste
+5632790	CTA	148	north	Bus 148: State/Harrison -> Foster/Marine	bus
+5633631	CTA	143	south	Bus 143: Sheridan/Briar -> Congress Plaza	bus
+5634511	Pace	384		Narragansett - Ridgeland	bus
+5637654	US:IL	390		IL 390	road
+5650358	Pace	385		87th-111th-127th Streets	bus
+5650401	Pace	386		South Harlem	bus
+5678044	Pace	390		Midway CTA - UPS Hodgkins	bus
+5680736	Pace	392		Little Village - UPS Hodgkins	bus
+5680743	Pace	395	west	Bus 395: 95th/Dan Ryan CTA Station -> UPS Hodgkins	bus
+5683330	Pace	421		Bus 421: Linden CTA Station -> Northfield Plaza	bus
+5683349	Pace	305	west	Bus 305: Cicero CTA Blue Line Station -> Forest Park CTA Blue Line Station	bus
+5683441	Pace	314	south	Bus 314: Lake/Cuyler -> Morton College	bus
+5683594	Pace	315	south	Bus 315: Lake/Austin -> Morton College	bus
+5683612	Pace	316	south	Bus 316: Cicero CTA Blue Line Station -> Morton College	bus
+5688204	Pace	422		Linden CTA/Glenview/Northbrook Court	bus
+5688241	Pace	423		Linden CTA-The Glen-Harlem CTA	bus
+5856852					power
+5856872					power
+5977773	Pace	606	west	Bus 606: Rosemont CTA Station => Pace Northwest Transportation Center	bus
+5977776	Pace	811		Rosemont Entertainment Circulator	bus
+6024721					power
+6024723					power
+6024726					power
+6078100	US:IL:Peoria	D37		County Highway D37	road
+6191301	Pace	411		West Niles Local	bus
+6191302	Pace	410		East Niles Local	bus
+6191367	Pace	412		Bus 412: Golf Mill Food Court → Golf Mill Food Court	bus
+6370348				NIU Bicycle Network	bicycle
+6370354	lcn			DeKalb Sycamore Bicycle Network	bicycle
+6391383	Pace	223-X	west	Bus 223-X: Rosemont CTA Station => Tower/Mark	bus
+6403700	Pace	471		Highland Park-Northbrook Court	bus
+6403777	Pace	472		Highland Park - Highwood	bus
+6445457	CTA	130	east	Bus 130: Ogilvie Transit Center -> Museum Campus	bus
+6498187	Pace	905	north	Bus 905: Pace Northwest Transportation Center => Renaissance Schaumburg Hotel and Convention Center	bus
+6518827	Pace	626		Skokie – Buffalo Grove Limited	bus
+6573646	lcn	RC		Richland Creek Bikeway	bicycle
+6580415	rcn	RRT		Ramblin' River Bike Tour	bicycle
+6624741	lcn	MBL		Metro Bike Link Trail	bicycle
+6770699	Pace	574		CLC - Hawthorn Mall	bus
+6770742	Pace	572		Washington	bus
+6770935	Pace	573		Green Bay Road	bus
+6786227	Pace	571		Zion	bus
+6786314	Pace	565		Bus 565: Waukegan Metra Station => College of Lake County	bus
+6786446	Pace	570		Fox Lake - CLC	bus
+6786470	Pace	569		Lewis	bus
+6786495	Pace	568		Belvidere	bus
+6791943	Pace	566		McAree-Keller	bus
+6791955	Pace	564		Jackson / 14th Street	bus
+6791965	Pace	562		Gurnee via Sunset	bus
+6791975	Pace	561		Castlecrest via McAree	bus
+6792038	Pace	563	north	Bus 563: Rosalind Franklin University Clinics → Sheridan & Washington	bus
+6797130				Barr Subdivision	railway
+6802262	Pace	554		Elgin - Woodfield	bus
+6802378	Pace	603	west	Bus 603: Rosemont CTA Station => Pace Elgin Transportation Center	bus
+6802379	Pace	605	west	Bus 605: Rosemont CTA Station => Pace I-90 & Randall Road Park-n-Ride	bus
+6802403	Pace	604		Wheeling - Schaumburg	bus
+6802408	Pace	607	west	Bus 607: Pace Northwest Transportation Center => Pace I-90 & Randall Road Park-n-Ride	bus
+6830114	lcn	BB		Belleville Bikeway	bicycle
+6841506	rcn	RIT		Rock Island Trail	bicycle
+6894937	US:I	70	east		road
+6897263	US:I	90	east		road
+6897692	US:I	90	east		road
+6903909	US:I	80	east		road
+6904814	US:I	80	east		road
+6908276	US:I	55	S		road
+6910501	US:I	55	N		road
+6911346	US:I	55			road
+6911576	US:I	55			road
+6914068	MetroBus	16	Southbound	MetroBus 16 St. Clair Square (southbound)	bus
+6914069	MetroBus	16	Northbound	MetroBus 16 St. Clair Square (northbound)	bus
+6915407	MetroBus	14	Westbound	MetroBus 14 Memorial Hospital - Westfield Plaza (westbound)	bus
+6915408	MetroBus	14	Eastbound	MetroBus 14 Memorial Hospital - Westfield Plaza (eastbound)	bus
+6927914	lcn			River Trail of Illinois	bicycle
+6930433	US:I	64	east		road
+6930435	US:I	64	east		road
+6934817	Pace	552		North State - Spring Hill Mall	bus
+6935031	Pace	550		Elgin Transportation Center - Crystal Lake	bus
+6942603	Pace	549		South Randall	bus
+6946616	Pace	548		Highland	bus
+6948547	MetroBus	12	Eastbound	MetroBus 12 O'Fallon-Fairview Heights (eastbound)	bus
+6948548	MetroBus	12	Westbound	MetroBus 12 O'Fallon-Fairview Heights (westbound)	bus
+6948699	Pace	547		Wing Park	bus
+6948888	MetroBus	2	Southbound	MetroBus 2 Cahokia (southbound via St. Louis Downtown Airport)	bus
+6948889	MetroBus	2	Southbound	MetroBus 2 Cahokia (southbound via North Dupo)	bus
+6948890	MetroBus	2	Northbound	MetroBus 2 Cahokia (northbound via North Dupo)	bus
+6948911	MetroBus	22X	Southbound	MetroBus 22X Sauget Industrial Parkway (southbound)	bus
+6948912	MetroBus	22X	Northbound	MetroBus 22X Sauget Industrial Parkway (northbound)	bus
+6948920	Pace	546		Orange-Walnut	bus
+6948943	Pace	543		Dundee-Carpentersville	bus
+6950724	MetroBus	12X	Eastbound	MetroBus 12X MetroLink Station Shuttle	bus
+6958614	Pace	542		Bluff City	bus
+6970250	MetroBus	13	Northbound	MetroBus 13 Caseyville-Marybelle (northbound)	bus
+6970251	MetroBus	13	Southbound	MetroBus 13 Caseyville-Marybelle (southbound)	bus
+6970373	MetroBus	9	Southbound	MetroBus 9 Washington Park (southbound)	bus
+6970374	MetroBus	9	Northbound	MetroBus 9 Washington Park (northbound)	bus
+6971961	MetroBus	1	Westbound	MetroBus 1 Main Street-State Street (westbound snow route)	bus
+6971962	MetroBus	1	Eastbound	MetroBus 1 Main Street-State Street (eastbound snow route)	bus
+6971963	MetroBus	1	Eastbound	MetroBus 1 Main Street-State Street (eastbound)	bus
+6971964	MetroBus	1	Westbound	MetroBus 1 Main Street-State Street (westbound)	bus
+6972200	MetroBus	8	Westbound	MetroBus 8 Alta Sita (westbound)	bus
+6972201	MetroBus	8	Eastbound	MetroBus 8 Alta Sita (eastbound)	bus
+6985302	Pace	541		Northeast Elgin	bus
+6989704					power
+6989705					power
+6989706					power
+6989864	MetroBus	17X	Northbound	MetroBus 17X Lebanon-Mascoutah (northbound)	bus
+6989865	MetroBus	17X	Southbound	MetroBus 17X Lebanon-Mascoutah (southbound)	bus
+6991266	MetroBus	4	Clockwisebound	MetroBus 4 19th Street & Central-ML King (clockwise)	bus
+7127467	US:IL:McDonough			County Road 15	road
+7140613	rcn	TH		Tunnel Hill State Trail	bicycle
+7147883	lcn			Rolling Meadows Bikeways	bicycle
+7170108				Roodhouse Subdivision	
+7172173	lcn			Roselle Bikeways	bicycle
+7174853	lcn			Roselle Bikeways	bicycle
+7192175	lcn			Elke Grove Village Bike Routes	bicycle
+7218475	local			Herrick Lake Regional Trail	foot
+7218476	local			Lake Trail	foot
+7307064	Pace	540		Bus 540: Rush-Copley Medical Center => Walmart East	bus
+7307081	Pace	559		Bus 559: High Meadow => Route 59 Metra => Corporate Lane	bus
+7375689	lcn			Mount Prospect Bikeway Systems	bicycle
+7397749	lcn			Lincoln Prairie Grass Trail	bicycle
+7426635	US:IL:Shelby			Shelby County Highway 6	road
+7428494	lcn	Niles Bikeways		Amling Memorial Bikeway	bicycle
+7428499	lcn			Park Ridge Bikeways	bicycle
+7445358				Western Subdivision (EJ&E)	railway
+7445370				Eastern Subdivision	railway
+7447441				CN Waukesha Subdivision	railway
+7486336	lwn			Fort Sheridan Forest Preserve	hiking
+7486652	lwn			Openlands Open Space	hiking
+7486660	lwn			Purple Paved Trail	foot
+7486661	lwn			Black Paved Trail	foot
+7486673	lcn			Orange Trail	bicycle
+7486678	lcn			Yellow Trail Loop	bicycle
+7486683	lcn			Purple Connection Trail	bicycle
+7486684	lcn			Green Connection Trail	bicycle
+7486685	lcn			Deer Grove - East Brown Unpaved Loop	bicycle
+7488418	lcn	BRUNNER		Brunner Family Forest Preserve bike path	bicycle
+7488419	lcn	FOX		Fox River Shores Forest Preserve bike path	bicycle
+7488438	lcn	Corkscrew		Corkscrew	mtb
+7488696	lwn			Red Trail	hiking
+7489469	lwn	Schweitzer Woods Forest Preserve hiking path		Schweitzer Woods Forest Preserve hiking path	hiking
+7492416	Pace	890	south	Bus 890: UPS Hodgkins Facility #1 => Pace Chicago Heights Terminal	bus
+7507446	lcn	NS		North Sycamore	bicycle
+7512698	rcn			MCT Confluence Trail	bicycle
+7526945	lwn	Exner		Peter J Exner Marsh Convervation Area	foot
+7529320	lcn	Muirhead		Muirhead Springs Forest Preserve	bicycle
+7543654	lwn			Central Loop Trail	hiking
+7561909				Dakota Access Pipeline	pipeline
+7573840	lwn			Forest Ridge	hiking
+7573841	lwn			Wildlife Viewing	hiking
+7573842	lwn			Timber Edge	hiking
+7573843	lwn			Heather Valley	hiking
+7598279				Meadowdale	mtb
+7601052	US:IL:Livingston	28		Livingston County Highway 28	road
+7601062	US:IL:Livingston	13		Livingston County Road 13	road
+7665785	lwn			Marsh Trails	hiking
+7669959	lcn	SH		Signal Hill Bike Trail	bicycle
+7692314	lcn			Barrington Bike Routes	bicycle
+7707259	MetroBus	4	Counterclockwisebound	MetroBus 4 19th Street & Central-ML King (counterclockwise)	bus
+7755608	inland waterways			Ohio River	boat
+7755652	inland waterways			Middle Mississippi River	boat
+7768646	lcn			Bloomingdale Bikeways	bicycle
+7793515	lcn			North Avenue Commuter Trail	bicycle
+7932227	lwn			Red Maple Allée	hiking
+8075442	rcn			Stone Bridge Trail	bicycle
+8075608	lcn			Hofmann Estates Bikeways	bicycle
+8075826	lcn			Long Prairie Trail Bike Path	bicycle
+8100039	Pace	533		Bus 533: Aurora Transportation Center => Walmart East Side of Parking Lot	bus
+8100319	Pace	530	east	Bus 530: Nelson & Constitution → Naperville Metra Station	bus
+8100364	Pace	524		Bus 524: Aurora Transportation Center => Woodman's	bus
+8121755	lcn			Itasca Bikeways	bicycle
+8215934	ncn	66		66 (Missouri)	bicycle
+8226778	rcn			Kickapoo Rail Trail	bicycle
+8360891	lwn			Trout Park	hiking
+8396007	lwn			Lake Walk	foot
+8403731				County Highway 28	road
+8415108					railway
+8415121				Evansville Western	railway
+8433697				Freeport Subdivision	railway
+8433738				St. Charles Air Line	railway
+8434624				University Park Sub District	railway
+8434938				South Chicago Sub District	railway
+8434969				Blue Island Sub District	railway
+8435621	NICTD	SSL	west	NICTD South Shore Line: South Bend => Millennium Station	train
+8435622	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => South Bend	train
+8436201	Amtrak	City of New Orleans		Amtrak City of New Orleans: New Orleans => Chicago	train
+8436202	Amtrak	City of New Orleans		Amtrak City of New Orleans: Chicago => New Orleans	train
+8438427	Amtrak	Illini/Saluki		Amtrak Saluki: Carbondale => Chicago	train
+8438428	Amtrak	Illini/Saluki		Amtrak Illini: Chicago => Carbondale	train
+8440301	Amtrak	California Zephyr		Amtrak California Zephyr: Emeryville => Chicago	train
+8440320	Amtrak	California Zephyr		Amtrak California Zephyr: Chicago => Emeryville	train
+8521065	CTA	1	south	Bus 1: Union Station -> Michigan/34th Street	bus
+8521473	CTA	1	north	Bus 1: 35th/Indiana -> Union Station (Adams/Canal)	bus
+8521474	CTA	1	north	Bus 1: Indiana/35th Street -> Union Station (Jackson/Canal)	bus
+8526404	lwn			Red Trail @ Grassy Lake Forest Preserve	foot
+8526405	lwn			Yellow Trail @ Grassy Lake Forest Preserve	foot
+8526776	CTA	2	south	Bus 2: Navy Pier -> 60th/Cottage Grove AM	bus
+8526802	CTA	2	south	Bus 2: Navy Pier -> 60th/Cottage Grove PM	bus
+8526827	CTA	2	north	Bus 2: 60th/Cottage Grove -> Navy Pier PM	bus
+8526834	CTA	2	north	Bus 2 60th/Cottage Grove -> Navy Pier AM	bus
+8543155	CTA	3	south	Bus 3: Ontario/Fairbanks -> 95th/Dan Ryan Red Line Station	bus
+8543177	CTA	3	south	Bus 3: 25th/Michigan -> 95th/Dan Ryan Red Line Station	bus
+8548456	CTA	3	north	Bus 3: 95th/Dan Ryan Red Line Station -> Ontario/Fairbanks	bus
+8548473	CTA	3	north	Bus 3: 79th/King Drive to Ontario/Fairbanks	bus
+8602344	CTA	N4	north	Bus N4: 95th/Dan Ryan Red Line Station -> Washington/State	bus
+8602419	CTA	N4	south	Bus N4: Washington/State -> 95th/Dan Ryan Red Line Station	bus
+8602887	CTA	4	north	Bus 4: 95th/Dan Ryan Red Line Station -> Columbus/Randolph	bus
+8602999	CTA	4	south	Bus 4: Columbus/Randolph -> 95th/Dan Ryan Red Line Station	bus
+8603119	rcn	SDR		Southern DuPage Regional Trail	bicycle
+8603195	lcn	Washington		Washington Boulevard	bicycle
+8604040	lcn	Clinton		Clinton Street	bicycle
+8604269	lcn			Navy Pier - Wells Street	bicycle
+8606423	CTA	4	south	Bus 4: Columbus/Randolph -> 115th Street/Cottage Grove	bus
+8606424	CTA	4	north	Bus 4: 115th/Cottage Grove -> Columbus/Randolph	bus
+8607299	lcn	Kinzie		Kinzie Street	bicycle
+8607300	lcn	Milwaukee		Milwaukee Avenue	bicycle
+8607305	lcn	Wells		Wells Street	bicycle
+8607461	lcn			Wells Street - Navy Pier	bicycle
+8607506	lcn			Northwest to Milwaukee Avenue	bicycle
+8607507	lcn	Desplaines		Desplaines Street	bicycle
+8607508	lcn	Fulton		Fulton Market	bicycle
+8607520	lcn	Warren		Warren Boulevard	bicycle
+8612728	lcn	Harrison		Harrison Street	bicycle
+8612733	lcn	Roosevelt		Roosevelt Road	bicycle
+8612744	lcn			Downtown - King Avenue	bicycle
+8613005	lcn			Jackson Boulevard	bicycle
+8616255	CTA	N5	south	Bus N5: 69th Red Line Station -> 95th/Dan Ryan Red Line Station	bus
+8616358	CTA	N5	north	Bus N5: 95th/Dan Ryan Red Line Station-> 69th Red Line Station	bus
+8619626	lcn	Elston		Elston Avenue	bicycle
+8619639	lcn	Southport		Southport Avenue	bicycle
+8620915	lcn			Downtown - Evanston	bicycle
+8621224	lcn	Canal		Canal Street	bicycle
+8621969	lcn			Roosevelt Road Alternative	bicycle
+8622151	lcn			Loomis Street - Lakefront	bicycle
+8622153	lcn	State		State Street	bicycle
+8622936	CTA	6	south	Bus 6: Wacker/Columbus -> 79th/South Shore	bus
+8623285	CTA	6	north	Bus 6: 79th/South Shore -> Wacker/Columbus	bus
+8624943	CTA	7	west	Bus 7: Congress Plaza -> Kedzie/Congress	bus
+8625075	CTA	7	east	Bus 7: Kedzie/Harrison -> Congress Plaza	bus
+8625783	CTA	7	west	Bus 7: Congress Plaza -> Central/Harrison	bus
+8626037	CTA	7	east	Bus 7: Central/Harrison -> Congress Plaza	bus
+8626064	CTA	7	west	Bus 7: Kedzie/Harrison -> Central/Harrison	bus
+8635358	lcn			Adams Street - 18th Street	bicycle
+8635518	lcn	ST		Shiloh Trail	bicycle
+8636143	MTD	22N		MTD 22N Illini Weekday - Daytime	bus
+8641904	MTD	13N		MTD 13N Silver Weekday - Daytime	bus
+8649352	CTA	8	north	Bus 8: 79th/Halsted -> Waveland/Broadway	bus
+8649499	CTA	8	south	Bus 8: Waveland/Broadway -> 79th/Halsted	bus
+8649661	CTA	8	north	Bus 8: 42nd/Halsted -> Waveland/Broadway	bus
+8649687	CTA	8	south	Bus 8: Waveland/Broadway -> 42nd/Halsted	bus
+8649729	CTA	8	north	Bus 8: 79th/Halsted -> Madison/Halsted	bus
+8649753	CTA	8	north	Bus 8: 79th/Halsted -> North Branch/Halsted	bus
+8649798	CTA	8	south	Bus 8: Division/Halsted -> 42nd/Halsted	bus
+8649799	CTA	8	south	Bus 8: Randolph/Halsted -> 79th/Halsted	bus
+8649801	CTA	8	south	Bus 8: Division/Halsted -> 79th/Halsted	bus
+8652720	CTA	8A	north	Bus 8A: 120th/Halsted -> 79th/Perry	bus
+8652721	CTA	8A	north	Bus 8A: 127th/Lowe -> 79th/Perry	bus
+8652722	CTA	8A	south	Bus 8A: 82nd/Vincennes -> 120th/Halsted	bus
+8652723	CTA	8A	south	Bus 8A: 79th/Perry -> 120th/Halsted	bus
+8652724	CTA	8A	south	Bus 8A: 79th/Perry -> 127th/Lowe	bus
+8676789	rcn	LT		Lakefront Trail	bicycle
+8676808	rcn	GB		GB - Green Bay Trail - Cook County	bicycle
+8676809	rcn	GB		GB - Green Bay Trail - Lake County	bicycle
+8677469	CTA	9	south	Bus 9: Ravenswood Metra Station -> 95th/Ashland	bus
+8677659	CTA	9	south	Bus 9: Ravenswood Metra Station -> 104th/Vincennes	bus
+8677722	CTA	9	south	Bus 9: 74th/Ashland -> 95th/Ashland	bus
+8678003	CTA	9	south	Bus 9: Ravenswood Metra Station -> 95th/Dan Ryan Red Line Station	bus
+8678299	CTA	9	north	Bus 9: 95th/Ashland -> Ravenswood Metra Station	bus
+8678323	CTA	9	north	Bus 9: 104th/Vincennes -> Ravenswood Metra Station	bus
+8682066	CTA	9	north	Bus 9: 95th/Dan Ryan Red Line Station -> Ravenswood Metra Station	bus
+8682074	CTA	9	north	Bus 9: 95th/Ashland -> 74th/Ashland	bus
+8682075	CTA	9	north	Bus 9: 74th/Ashland -> Ravenswood Metra Station	bus
+8682116	CTA	N9	north	Bus N9: 95th/Dan Ryan Red Line Station -> North/Clark	bus
+8682117	CTA	N9	south	Bus N9 North/Clark -> 95th/Dan Ryan Red Line Station	bus
+8682118	CTA	N9	south	Bus N9: 74th/Ashland -> 95th/Dan Ryan Red Line Station	bus
+8682119	CTA	N9	north	Bus N9: 95th/Dan Ryan Red Line Station -> 74th/Ashland	bus
+8682157	CTA	X9	north	Bus X9: 95th/Ashland -> Irving Park/Sheridan	bus
+8682158	CTA	X9	north	Bus X9: 74th/Ashland -> Irving Park/Sheridan	bus
+8682175	CTA	X9	south	Bus X9: Irving Park/Sheridan ->74th/Ashland	bus
+8682176	CTA	X9	south	Bus X9: Irving Park/Sheridan -> 95th/Ashland	bus
+8682304	CTA	10	north	Bus 10: Museum of Science & Industry -> Mies Van der Rohe/Chestnut	bus
+8682305	CTA	10	south	Bus 10: Chestnut/MVDR -> Museum of Science & Industry	bus
+8694618	CTA	11	south	Bus 11: Howard/McCormick -> Western Brown Line Station	bus
+8694619	CTA	11	north	Bus 11: Western Brown Line Station -> Howard/McCormick	bus
+8711492	lcn	Damen		Damen Avenue	bicycle
+8729336	US:WI:Lafayette	P		Lafayette County Trunk Highway P	road
+8729337	US:WI:Lafayette	I		Lafayette County Trunk Highway I	road
+8729843	US:WI:Lafayette	O		Lafayette County Trunk Highway O	road
+8729847	US:WI:Lafayette	KK		Lafayette County Trunk Highway KK	road
+8729901					pipeline
+8729945	US:WI:Lafayette	PP		Lafayette County Trunk Highway PP	road
+8730255	US:WI:Kenosha	H		Kenosha County Trunk Highway H	road
+8731280	US:WI:Kenosha	HM		Kenosha County Trunk Highway HM	road
+8731281	US:WI:Kenosha	EM		Kenosha County Trunk Highway EM	road
+8732664					pipeline
+8743393	lcn	California		California Avenue	bicycle
+8746209	US:WI:Green	G		Green County Trunk Highway G	road
+8747946					pipeline
+8747947					pipeline
+8748322	CTA	12	east	Bus 12: Central/Harrison -> 16th/Indiana	bus
+8748487	CTA	12	west	Bus 12: Sacramento/Polk -> Central/Harrison	bus
+8748488	CTA	12	west	Bus 12: 16th/Indiana -> Central/Harrison	bus
+8768217	CTA	J14	north	Bus J14: 93rd/Jeffery -> Madison/Jefferson	bus
+8768218	CTA	J14	north	Bus J14: 93rd/Jeffery -> Washington/Jefferson	bus
+8768219	CTA	J14	north	Bus J14: 103rd/Stony Island -> Madison/Jefferson	bus
+8768220	CTA	J14	north	Bus J14: 103rd/Stony Island -> Washington/Jefferson	bus
+8768221	CTA	J14	south	Bus J14: Washington/Jefferson -> 87th/Jeffery	bus
+8768222	CTA	J14	south	Bus J14: Washington/Jefferson -> 103rd/Stony Island	bus
+8769715	CTA	15	north	Bus 15: Hyde Park/Blackstone -> 47th Red Line Station	bus
+8769716	CTA	15	north	Bus 15: 103rd/Stony Island -> 47th Red Line Station	bus
+8769752	CTA	15	north	Bus 15: 103rd/Stony Island -> 63rd/Stony Island	bus
+8769777	CTA	15	south	Bus 15: 62nd/Stony Island -> 103rd/Stony Island	bus
+8769778	CTA	15	south	Bus 15: 47th Red Line Station -> 103rd/Stony Island	bus
+8769799	CTA	15	north	Bus 15: 87th/Clyde -> 47th Red Line Station	bus
+8789255	CTA	18	east	Bus 18: 16th/Kedzie -> Roosevelt CTA Station	bus
+8789256	CTA	18	east	Bus 18: 16th/Cicero - 16th/Kedzie	bus
+8789257	CTA	18	east	Bus 18: 16th/Cicero -> Roosevelt CTA Station	bus
+8789258	CTA	18	west	Bus 18: 16th/Kedzie -> 16th/Cicero	bus
+8789259	CTA	18	west	Bus 18: Roosevelt CTA Station -> 16th/Cicero	bus
+8792959					railway
+8798950					railway
+8798951				Elsdon Subdivision	railway
+8798953				Indiana Harbor Belt Mainline	railway
+8798975					railway
+8798981					railway
+8798982				Kenton Line Subdivision	railway
+8812538				Sioux City IA to Dubuque IA	railway
+8812539				IAISRR	railway
+8813667	CTA	20	west	Bus 20: Madison/Wabash -> Madison/Austin	bus
+8813680	CTA	20	east	Bus 20: Madison/Austin -> Washington/Wabash	bus
+8813718	CTA	20	east	Bus 20: Madison/Austin -> Columbus/Randolph	bus
+8813720	CTA	20	west	Bus 20: Columbus/Randolph -> Madison/Austin	bus
+8813721	CTA	20	east	Bus 20: Madison/Pulaski -> Washington/Wabash	bus
+8813722	CTA	20	west	Bus 20: Madison/Wabash -> Madison/Pulaski	bus
+8813731	CTA	20	east	Bus 20: Madison/Pulaski -> Columbus & Randolph	bus
+8813732	CTA	20	west	Bus 20: Columbus/Randolph -> Madison/Pulaski	bus
+8813755	CTA	N20	west	Bus N20: Washington/State -> Madison/Austin	bus
+8813756	CTA	N20	east	Bus N20: Madison/Austin -> Washington/State	bus
+8813791	CTA	19	east	19 United Center Express: United Center -> Michigan/Randolph	bus
+8813792	CTA	19	west	19 United Center Express: Michigan/Randolph -> United Center	bus
+8819658	lwn			River Ridge Back Pack Trail	hiking
+8831174	lwn			Observation Trail	hiking
+8849647				Rim Rock Recreational Trail	hiking
+8857435	lwn			Heron Pond Trail	hiking
+8894454	lcn	DRT		DuPage River Trail	bicycle
+8908368	CTA	21	west	Bus 21: 25th/Michigan -> North Riverside Mall	bus
+8908375	CTA	21	west	Bus 21: 25th/Michigan -> 54th/Cermak Pink Line Station	bus
+8908376	CTA	21	west	Bus 21: Cermak/Pulaski -> 54th/Cermak Pink Line Station	bus
+8908377	CTA	21	west	Bus 21: Cermak/Pulaski -> North Riverside Mall	bus
+8908414	CTA	21	east	Bus 21: North Riverside Mall -> 25th/Michigan	bus
+8908428	CTA	21	east	Bus 21: 54th/Cermak Pink Line Station -> 25th/Michigan	bus
+8908429	CTA	21	east	Bus 21: North Riverside -> Cermak/Cicero	bus
+8908430	CTA	21	east	Bus 21: North Riverside Mall -> Cermak/Pulaski	bus
+8913348	lcn	VMT		Veterans Memorial Trail	bicycle
+9037856	nwn	ADT J1		ADT - Illinois (South) - J - Seg 1	hiking
+9037964	nwn	ADT J2		ADT - Illinois (South) - J - Seg 2	hiking
+9038955	GPTC	R1		Lakeshore Connection	bus
+9041016	nwn	ADT J3		ADT - Illinois (South) - J - Seg 3	hiking
+9043011	nwn	ADT L1		ADT - Missouri - L - Seg 1	hiking
+9087108	Pace	802		Bus 802: Geneva Metra Station => Aurora Transportation Center	bus
+9087172	Pace	801	north	Bus 801: Geneva Metra Station => Pace Elgin Transportation Center	bus
+9100585					power
+9100586					power
+9100587		11902			power
+9100588					power
+9100589					power
+9100590					power
+9107798	Pace	850		North Bolingbrook - East Loop Express (Westbound)	bus
+9107893	GPTC	R4		Lakeshore South	bus
+9107991	Pace	851		South Bolingbrook - East Loop Express (Westbound)	bus
+9107992	Pace	855		Plainfield - East Loop Express (Westbound)	bus
+9137597	Pace	755	north	Bus 755: Pace Plainfield Park-N-Ride => Illinois Medical District => Chicago Union Station	bus
+9137598	Pace	855		Plainfield - East Loop Express (Eastbound)	bus
+9137659	Pace	851		South Bolingbrook - East Loop Express (Eastbound)	bus
+9141822	Pace	850		North Bolingbrook - East Loop Express (Eastbound)	bus
+9161614	Amtrak	Hiawatha Service		Amtrak Hiawatha Service: Milwaukee => Chicago	train
+9187668	nwn	ADT G3		ADT - Indiana (North) - G - Seg 3	hiking
+9190075	nwn	ADT I1		ADT - Illinois - I - Seg 1	hiking
+9190392	nwn	ADT I2		ADT - Illinois - I - Seg 2	hiking
+9190536	nwn	ADT I3		ADT - Illinois - I - Seg 3	hiking
+9191607	nwn	ADT K1		ADT - Iowa - K - Seg 1	hiking
+9261392				Montfort Junction to Galena	railway
+9289878				County Road 2400 North	road
+9290417				County Road 2400 E	road
+9311573				County Road 3	road
+9311574				County Road 1800 East	road
+9350614	lcn	OL		Orchard Loop Trail	bicycle
+9369962				East Fairfield Road	road
+9375736	lcn	CON		Connector Trail	bicycle
+9420943					railway
+9421439					railway
+9452035	ATS	ATS		O'Hare ATS: Terminal 1 → Multi-Modal Facility	light_rail
+9452050	ATS	ATS		O'Hare ATS: Multi-Modal Facility → Terminal 1	light_rail
+9453199	lwn			Hawk's Cave Trail	hiking
+9453202	lwn			Rebman's Trail	hiking
+9453204	lwn			Big Rocky Hollow Trail	hiking
+9453213	lwn			Waterfall Trail	hiking
+9467169				Beardstown Subdivision	railway
+9467278				"Toledo, Peoria and Western Railway"	railway
+9513808				Main Line (Pittsburgh to St. Louis)	historic_railway
+9515703				Main Line (Columbus to Chicago)	railway
+9516050				Main Line (Pittsburgh to Chicago)	railway
+9525057				Ramsey Road	road
+9538247				North Coles Street	road
+9538292				South Pine Street	road
+9538318				North 8th Street	road
+9575999				County Road 175 East	road
+9583683	lcn	OFB		O'Fallon Bikeway	bicycle
+9628291				Fox Lake Subdivision	railway
+9762984	lcn			Robert McClory Bike Path	bicycle
+9762985	lcn				bicycle
+9763294	lcn			MCT Confluence Trail	bicycle
+9772105	rcn			Great River Trail	bicycle
+9772140	lcn			Rend Lake Bike Trail	bicycle
+9772184	lcn			Thorn Creek Red Paved Trail	bicycle
+9772190	lcn			Cal-Sag Trail	bicycle
+9773164	lcn			Joliet Junction Trail	bicycle
+9773165	lcn			Rock Run Greenway	bicycle
+9773191	lcn			Sangamon Valley Trail	bicycle
+9773224	lcn			Lake Defiance Trail	bicycle
+9773225	lcn			Leatherleaf Bog Trail	bicycle
+9773226	lcn			Fox River Trail	bicycle
+9773250	lcn			Bauer Bridge Trail	bicycle
+9773251	lcn			Rock River Bike Path	bicycle
+9773287	lcn			Paul Douglas Red Paved Trail	bicycle
+9773295	lcn			Interurban Trail	bicycle
+9773296	lcn			Wabash Trail	bicycle
+9773313	lcn			North Shore Bike Path	bicycle
+9773348	lcn			McLean County Historic Route 66 Trail	bicycle
+9773370	lcn			Willow Creek Trail	bicycle
+9773371	lcn			Perryville Path	bicycle
+9773423	lcn			Lost Bridge Trail	bicycle
+9845739	US:I:Business:Loop	55		"I 55 Business (Bloomington-Normal, IL) (South)"	road
+9907896	Pace	Pulse Milwaukee Line	north	Pulse Milwaukee Line: Jeff Park Transit Center ->Golf Mill Mall	bus
+9907897	Pace	Pulse Milwaukee Line	south	Pulse Milwaukee Line: Golf Mill Mall->Jeff Park Transit Center	bus
+9911796				East Monroe Street	road
+9911801				East Lafayette Street	road
+9911802				South Lincoln Avenue	road
+9911804				Janie Lane	road
+9911805				East South Avenue	road
+9911822				South Elliott Street	road
+9911823				East Monroe Street	road
+9911833				South Whittle Avenue	road
+10004268	US:IL:Kendall	24		Kendall County Highway 24	road
+10004269	US:IL:Kendall	23		Kendall County Highway 23	road
+10004270	US:IL:Kendall	22		Kendall County Highway 22	road
+10004271	US:IL:Kendall	20		Kendall County Highway 20	road
+10004272	US:IL:Kendall	19		Kendall County Highway 19	road
+10004273	US:IL:Kendall	18		Kendall County Highway 18	road
+10004274	US:IL:Kendall	17		Kendall County Highway 17	road
+10004275	US:IL:Kendall	16		Kendall County Highway 16	road
+10004276	US:IL:Kendall	15		Kendall County Highway 15	road
+10004277	US:IL:Kendall	14		Kendall County Highway 14	road
+10004278	US:IL:Kendall	13		Kendall County Highway 13	road
+10004279	US:IL:Kendall	12		Kendall County Highway 12	road
+10004280	US:IL:Kendall	11		Kendall County Highway 11	road
+10004281	US:IL:Kendall	10		Kendall County Highway 10	road
+10004282	US:IL:Kendall	9		Kendall County Highway 9	road
+10004283	US:IL:Kendall	8		Kendall County Highway 8	road
+10004284	US:IL:Kendall	7		Kendall County Highway 7	road
+10004285	US:IL:Kendall	6		Kendall County Highway 6	road
+10004286	US:IL:Kendall	5		Kendall County Highway 5	road
+10004287	US:IL:Kendall	4		Kendall County Highway 4	road
+10004288	US:IL:Kendall	3		Kendall County Highway 3	road
+10004289	US:IL:Kendall	2		Kendall County Highway 2	road
+10004290	US:IL:Kendall	1		Kendall County Highway 1	road
+10087645	MTD	1N	north	MTD 1N Yellow Weekday - Day	bus
+10088160	MTD	1S	south	MTD 1S Yellow Weekday - Day	bus
+10088405	MTD	2U	east	MTD 2U Red Weekday - Daytime	bus
+10136252	MTD	2C	west	MTD 2C Red Weekday - Daytime	bus
+10137572	MTD	3N		MTD 3N Lavender Weekday - Daytime	bus
+10142445	MTD	3S		MTD 3S Lavender Weekday - Daytime	bus
+10142522	Pace	501		West Jefferson	bus
+10150988	lcn			Lincoln Prairie Trail	bicycle
+10155680	MTD	4W		MTD 4W Blue Weekday - Daytime	bus
+10156220	MTD	4E		MTD 4E Blue - Weekday Daytime	bus
+10183915	lcn	UPT		Union Pacific Trail	bicycle
+10185128	MTD	5E		MTD 5E Green Weekday - Daytime PM	bus
+10185443	MTD	5W		MTD 5W Green Weekday - Daytime PM	bus
+10185661	MTD	5W		MTD 5W Green Weekday - Daytime AM	bus
+10188504	MTD	6E		MTD 6E Orange Weekday - Daytime	bus
+10192032	MTD	6W		MTD 6W Orange Weekday - Daytime	bus
+10216088	MTD	7E		MTD 7E Grey Weekday - Daytime	bus
+10217498	MTD	7W		MTD 7W Grey Weekday - Daytime	bus
+10220355	CTA	22	south	Bus 22: Howard Red Line Station -> Harrison/Clark	bus
+10220356	CTA	N22	south	Bus N22: Howard Red Line Line Station -> Harrison/Clark	bus
+10220357	CTA	22	north	Bus 22: Harrison/Clark -> Howard Red Line Station	bus
+10220358	CTA	N22	north	Bus N22: Harrison/Clark -> Howard Red Line Station	bus
+10222978	MTD	8E		MTD 8E Bronze Weekday - Daytime	bus
+10225613	MTD	8W		MTD 8W Bronze Weekday - Daytime	bus
+10226325	MTD	9A		MTD 9A Brown Weekday - Daytime	bus
+10229570	MTD	9B		MTD 9B Brown Weekday - Daytime	bus
+10230365	MTD	10E		MTD 10E Gold Weekday - Daytime	bus
+10257355	MTD	10W		MTD 10W Gold Weekday - Daytime	bus
+10263618	MTD	5XE		MTD 5E Green Express Weekday	bus
+10267737	MTD	12W		MTD 12W Teal Weekday - Daytime	bus
+10271780	MTD	13S		MTD 13S Silver Weekday - Daytime	bus
+10290098	MTD	14W		MTD 14W Navy Weekday - Daytime	bus
+10290112	MTD	14E		MTD 14E Navy Weekday - Daytime	bus
+10290350	lcn	312 RiverRun		312 RiverRun	bicycle
+10290633	MTD	16A		MTD 16A Pink Weekday - Daytime	bus
+10294794	MTD	16B		MTD 16B Pink Weekday - Daytime	bus
+10297947	MTD	21		MTD 21 Raven Weekday - Daytime	bus
+10298436	MTD	22S		MTD 22S Illini Weekday - Daytime	bus
+10309577	CTA	95	east	Bus 95: 87th/Damen -> 92nd/Buffalo	bus
+10309578	CTA	95	west	Bus 95: 92nd/Buffalo -> 87th/Damen	bus
+10411210	CTA	24	north	Bus 24: 87th/Racine -> Clark/Lake	bus
+10411211	CTA	24	south	Bus 24: Clark/Lake -> 87th/Racine	bus
+10411365	CTA	24	north	Bus 24: 79th/Perry -> Clark Lake	bus
+10411366	CTA	24	south	Bus 24: Clark/Lake -> 79th/Perry	bus
+10476792	lwn			Nature Boardwalk	foot
+10511572	lcn	IL		Illini Trail	bicycle
+10529426	Pace	504		South Joliet	bus
+10529771	Pace	505		Bus 505: West Joliet Loop (clockwise)	bus
+10529856	Pace	507		Plainfield	bus
+10552335	CTA	26	north	Bus 26: 103rd/Stony Island -> Chicago/Fairbanks	bus
+10552336	CTA	26	south	Bus 26: Chicago/MVDR ->103rd/Stony Island	bus
+10572824	CTA	192	south	Bus 192: Clinton/Madison - 57th/Cottage Grove	bus
+10572825	CTA	192	north	Bus 192: 59th/Drexel -> Madison/Clinton	bus
+10573147	CTA	100	east	Bus 100: 95th/Dan Ryan Red Line Station -> 112th/Avenue B	bus
+10573163	CTA	100	west	Bus 100: 112th/Avenue B -> 95th/Dan Ryan Red Line Station	bus
+10580782	lwn			Bluestem Loop	hiking
+10580783	lwn			Big Oak Loop	hiking
+10580784	lwn			River Trail	hiking
+10606151	CTA	28	south	Bus 28: Union Station -> Olive Harvey College	bus
+10606152	CTA	28	north	Bus 28: Olive Harvey College -> Union Station	bus
+10606382	CTA	28	north	Bus 28: Olive Harvey College -> 47th/Lake Park	bus
+10606383	CTA	28	south	Bus 28: 47th/Lake Park -> Olive Harvey College	bus
+10606397	CTA	28	north	Bus 28: 103rd/Stony Island -> 47th/Lake Park	bus
+10606398	CTA	28	south	Bus 28: 47th/Lake Park -> 103rd/Stony Island	bus
+10647681	CTA	108	north	Bus 108: 127th/Lowe -> 95th/Dan Ryan Red Line Station	bus
+10647682	CTA	108	south	Bus 108: 95th/Dan Ryan Red Line Station -> 127th/Halsted	bus
+10670763	CTA	29	north	Bus 29: 95th/Dan Ryan Red Line Station -> Navy Pier	bus
+10670764	CTA	29	south	Bus 29: Navy Pier -> 95th/Dan Ryan Red Line Station	bus
+10687894	CTA	169	west	Bus 169: 69th Red Line Station -> UPS Hodgkins	bus
+10687895	CTA	169	east	Bus 169: UPS Hogkins -> 69th Red Line Station	bus
+10705223	CTA	71	south	71 71st/South Shore: 69th Red Line Station -> 112th/Torrence	bus
+10705224	CTA	71	north	71 71st/South Shore: 112th/Torrence -> 69th Red Line Station	bus
+10710788	CTA	111A	south	Bus 111A: 103rd/Stony Island -> 115th/Cottage Grove	bus
+10710789	CTA	111A	north	Bus 111A: 115th/Cottage Grove -> 103rd/Stony Island	bus
+10719093	Pace	508		East Joliet	bus
+10719144	Pace	509		Joliet-Fairmont	bus
+10734735	CTA	30	south	Bus 30: 69th Street Red Line Station -> Hegewisch Station	bus
+10734736	CTA	30	north	Bus 30: Hegewisch Station -> 69th Red Line Station	bus
+10736765	lwn	MPs		Mississippi Palisades State Park Trails south	hiking
+10736766	lwn	MPn		Mississippi Palisades State Park Trails north	hiking
+10741242	CTA	30	north	Bus 30: Hegewisch Station ->79th/South Chicago	bus
+10741243	CTA	30	south	Bus 30: 79th/South Chicago -> Hegewisch Station	bus
+10753173	Pace	600	west	Bus 600: Rosemont CTA Station => Pace Northwest Transportation Center	bus
+10753205	Pace	600	east	Bus 600: Pace Northwest Transportation Center => Rosemont CTA Station	bus
+10754746	CTA	31	east	Bus 31: Ashland Orange Line Station -> 33rd/King Drive	bus
+10754747	CTA	31	west	Bus 31: 33rd/King Drive -> Ashland Orange Line Station	bus
+10763071	CTA	34	north	Bus 34: 131st/Ellis -> 95th/Dan Ryan Red Line Station	bus
+10763072	CTA	34	south	Bus 34: 95th/Dan Ryan Red Line Station -> 131st/Ellis	bus
+10763284	CTA	N34	north	Bus N34: 131st/Ellis -> 95th Red Line Station	bus
+10763285	CTA	N34	south	Bus N34: 95th/Dan Ryan Red Line Station -> 131st/Ellis	bus
+10777452	rcn	I&M		Illinois & Michigan Canal State Trail	bicycle
+10780088	CTA	119	north	Bus 119: 119th/Western -> 95th/Dan Ryan Red Line Station	bus
+10780089	CTA	119	south	Bus 119: 95th/Dan Ryan Red Line Station -> 119th/Western	bus
+10814325	Pace	511		Joliet-Elwood-CenterPoint	bus
+10814342	Pace	512		Joliet - Centerpoint	bus
+10828961	CTA	35	east	Bus 35: Cicero/24th Place ->35th Street/Cottage Grove	bus
+10828962	CTA	35	west	Bus 35: 35th Street/Cottage Grove -> Cicero/24th Place	bus
+10853188				CB&Q Beardstown & St. Louis Subdivision	railway
+10854158	CTA	35	east	Bus 35: 36th/Kedzie -> 35th Cottage Grove	bus
+10854159	CTA	35	west	Bus 35: 35th/Cottage Grove ->36th/Kedzie	bus
+10854610	CTA	35	west	Bus 35: 31st Street Beach -> Cicero/24th Place	bus
+10854611	CTA	35	east	Bus 35: Cicero/24th Place -> 31st Street Beach	bus
+10907291	CTA	36	north	Bus 36: LaSalle Metra Station -> Clark/Arthur	bus
+10907292	CTA	36	south	Bus 36: Clark/Arthur -> LaSalle Metra Station	bus
+10938980	CTA	37	north	Bus 37: Clinton Blue Line Station -> Fullerton Red Line Station	bus
+10938981	CTA	37	south	Bus 37: Fullerton Red Line Station to Clinton Blue Line Station	bus
+10946018	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: New York => Chicago	train
+10946019	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Boston => Chicago	train
+10946020	Amtrak	Empire Builder		Amtrak Empire Builder: Portland => Chicago	train
+10946021	Amtrak	Empire Builder		Amtrak Empire Builder: Seattle => Chicago	train
+10959842	Pace	711	north	Bus 711: Wheaton => Addison	bus
+10962996	Pace	714	north	Bus 714: Naperville Metra Station → College of DuPage → Wheaton Metra Station	bus
+10976963	Pace	715	north	Bus 715: Brookhaven Plaza => Addison Walmart	bus
+10980715	Pace	722	east	Bus 722: Naperville Metra Station → Branding/Finley	bus
+10986877	US:IL:Will	21			road
+11004182				KCS Springfield Subdivision	railway
+11004197				KCS Jacksonville Subdivision	railway
+11021274				ITC Champaign-Decatur	railway
+11041915	CTA	39	east	Bus 39: 38th/St Louis -> 40th/Lake Park	bus
+11041916	CTA	39	west	Bus 39: 40th/Lake Park -> 38th/St. Louis	bus
+11051429					railway
+11112292	CTA	43	east	Bus 43: 41st/Halsted -> 43rd/Oakenwald	bus
+11112293	CTA	43	west	Bus 43: 43rd/Oakenwald -> 41st/Halsted	bus
+11159841	CTA	44	north	Bus 44: 87th/Racine -> Halsted Orange Line Station	bus
+11159842	CTA	44	south	Bus 44: Halsted Orange Line Station -> 87th/Racine	bus
+11205076	rcn	WBT		West Branch DuPage River Trail	bicycle
+11210686	rcn	I&M		Illinois and Michigan Canal Trail	bicycle
+11215636	lcn			Dupage River Greenway	bicycle
+11222914	CTA	94	north	Bus 94: 74th/Damen -> Addison/Rockwell	bus
+11222915	CTA	94	south	Bus 94: Addison/Rockwell -> 74th/Damen	bus
+11228895	lcn	Ravanesi		Steve Ravanesi Trail	bicycle
+11228910	lcn	Kuhn		Kuhn Road Bicycle Path	bicycle
+11228923	lcn	Lies		Lies Road Bicycle Path	bicycle
+11230217	lcn	Gary		Gary Avenue Bicycle Path	bicycle
+11230218	lcn	Fair Oaks		Fair Oaks Road Bicycle Path	bicycle
+11230710	rcn	MVT		Mackinaw Valley Trail	bicycle
+11231046	lcn			Pekin Park Bike Trail	bicycle
+11245257	US:US:Historic	20			road
+11251150	CTA	157	south	Bus 157: Chestnut/Lake Shore -> Pulaski Pink Line Station	bus
+11251151	CTA	157	north	Bus 157: Pulaski Pink Line Station -> Chestnut/Lake Shore	bus
+11259132	lcn			Tall Grass Greenway	bicycle
+11293520	lcn			Elmhurst Bike Routes	bicycle
+11296344	lcn			Wheaton Bike Route Network	bicycle
+11298132					railway
+11298133					railway
+11322802	rcn			Ridgefield Trace	bicycle
+11322830	lcn			Stone Mill Trail	bicycle
+11332508	CTA	52	north	Bus 52: 63rd/Kedzie -> Chicago/Kedzie	bus
+11332509	CTA	52	south	Bus 52: Chicago/Kedzie-> 63rd/Kedzie	bus
+11347514	lcn			Addison Bike Routes	bicycle
+11351327	lcn			Glenn Ellyn Bike Route	bicycle
+11360024	CTA	106	east	Bus 106: 95th/Dan Ryan Red Line Station -> 103rd/Stony Island	bus
+11360025	CTA	106	west	Bus 106: 103rd/Stony Island -> 95th/Dan Ryan Red Line Station	bus
+11366426	MetroLink	Red		MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
+11366427	MetroLink	Blue		MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
+11371574	lcn			Lombard Bike Routes	bicycle
+11373819	Pace	834	north	Bus 834: Joliet Metra → Lewis University → Branding/Finley	bus
+11375628	CTA	47	west	Bus 47: 47th/Lake Park -> Midway Orange Line Station	bus
+11375629	CTA	47	east	Bus 47: Midway Orange Line Station -> 47th/Lake Park	bus
+11511061	lcn			Aurora Bikeways	bicycle
+11511270	lcn			Naperville Bike Routes	bicycle
+11538096				Keokuk Junction Railway	railway
+11561566	lcn			Bolingbrook Bike Routes	bicycle
+11572941	lcn	Vincennes		Vincennes Avenue	bicycle
+11573746	lcn	Marquette		Marquette Road	bicycle
+11573748	lcn	Lawrence		Lawrence Avenue	bicycle
+11586253	lcn			Normantown Trail	bicycle
+11586843	lcn	103rd		103rd Street	bicycle
+11586844	lcn	Cottage Grove		Cottage Grove Avenue	bicycle
+11586856	lcn	King		Doctor Martin Luther King Junior Drive	bicycle
+11587208	CTA	48	north	Bus 48: 87th/Damen -> Western Orange Line Station	bus
+11587209	CTA	48	south	Bus 48: Western Orange Line Station -> 87th/Damen	bus
+11600718	lcn			Orland Park Greenway	bicycle
+11605228	lcn	Red Loop		Tinley Creek Red Loop	bicycle
+11605229	lcn	Green Trail		Tinley Creek Green Trail	bicycle
+11605230	lcn			Palos Heights Bicycle Path	bicycle
+11623381	lcn	ComEd Greenway		ComEd Greenway	bicycle
+11623382	lcn	LCG		Lily Cache Greenway	bicycle
+11629726	lcn	S. Chicago		South Chicago Avenue	bicycle
+11629766	lcn			Heroes Trail System	bicycle
+11629781	lcn			159th Street Bikeway	bicycle
+11634299	lcn			LaGrange Road	bicycle
+11634300	lcn			Humphrey Bike Trail	bicycle
+11634341	lcn	83rd		83rd Street	bicycle
+11634346	lcn	Janes		Janes Avenue	bicycle
+11634348	lcn			Woodridge Bikeway System	bicycle
+11637381	lcn			Fairmount Avenue	bicycle
+11637382	lcn	72nd		72nd Street	bicycle
+11637383	lcn	67th		67th Street	bicycle
+11637384	lcn	Dunham		Dunham Road	bicycle
+11637482	Pace	361	west	Bus 361: Pace Harvey Transportation Center => Amazon MDW2	bus
+11639009	lcn	Saratoga		Saratoga Avenue	bicycle
+11639011	lcn	Grant		Grant Street	bicycle
+11639015	lcn	Bolson		Bolson Drive	bicycle
+11639016	lcn	Springside		Springside Avenue	bicycle
+11639017	lcn	Prentiss		Prentiss Drive	bicycle
+11643374	lcn	Grandview		Grandview Lane	bicycle
+11643375	lcn	Drover		Drover Lane	bicycle
+11643376	lcn	Beller		Beller Drive	bicycle
+11643377	lcn	Spring Green		Spring Green Drive	bicycle
+11643378	lcn	Parkview		Parkview Drive	bicycle
+11650078	lcn			75th Street Bikeway	bicycle
+11650095	lcn	Blackhawk		Blackhawk Drive	bicycle
+11650096	lcn	Oakwood		Oakwood Drive	bicycle
+11650097	lcn				bicycle
+11650098	lcn	67th		67th Street	bicycle
+11650099	lcn	Ridge		Ridge Road	bicycle
+11650100	lcn	Ashford		Ashford Lane	bicycle
+11650101	lcn	Wexford		Wexford Drive	bicycle
+11650102	lcn	Jameson		Jameson Way	bicycle
+11650103	lcn	Deming		Deming Place	bicycle
+11650104	lcn	Wilmette		Wilmette Avenue	bicycle
+11662174	Pace	360	south	Bus 360: Pace Harvey Transportation Center => Amazon Building MDW7	bus
+11662341	Pace	832	east	Bus 832: Pace Joliet Transit Center → Herion & Wheeler	bus
+11674357	lcn	35th		35th Street	bicycle
+11674358	lcn	Saint Paschal		Saint Paschal Drive	bicycle
+11674359	lcn	Meyers		Meyers Road	bicycle
+11674360	lcn	Midwest		Midwest Road	bicycle
+11674361	lcn			Oak Brook Path System	bicycle
+11690559				Trail of Tears (Illinois)	historic
+11697545	lcn	Lyman		Lyman Avenue	bicycle
+11697546	lcn	Manning		Manning Road	bicycle
+11697547	lcn	Green Valley		Green Valley Road	bicycle
+11697548	lcn	Wakefield		Wakefield Drive	bicycle
+11697549	lcn	Marlborough		Marlborough Lane	bicycle
+11716325	lcn			Romeoville Bike Trails	bicycle
+11718301	lcn	Highland		Highland Ave	bicycle
+11718302	lcn	Douglas		Douglas Road	bicycle
+11718303	lcn	Lincoln		Lincoln Avenue	bicycle
+11718304	lcn	Cumnor		Cumnor Road	bicycle
+11718305	lcn	Richmond		Richmond Street	bicycle
+11718306	lcn	Cass		Cass Avenue	bicycle
+11718307	lcn	Burlington		Burlington Avenue	bicycle
+11718308	lcn	Linden		Linden Avenue	bicycle
+11718341	lcn	Central Park		Central Park Avenue	bicycle
+11719253	lcn	39th		39th Street	bicycle
+11721444	lcn	SCG		Spring Creek Greenway	bicycle
+11721445	lcn	Valley Road		Valley Road	bicycle
+11722790	lcn	Narragansett		Narragansett Avenue	bicycle
+11722791	lcn			Oak Park - Addision Street	bicycle
+11722792	lcn			Forest Preserve - Milwaukee Avenue	bicycle
+11722793	lcn	Northwest		Northwest Highway	bicycle
+11723467	lcn				bicycle
+11726785	lcn	Pershing		Pershing Road	bicycle
+11726786	lcn	Oakwood		Oakwood Boulevard	bicycle
+11727419	lcn			Loomis Street - Lakefront	bicycle
+11727420	lcn	33rd		33rd Street	bicycle
+11727437					hiking
+11727476	lwn			Pounds Hollow Lake Trail	hiking
+11730996				County Road 1375 East	road
+11734432	lcn			North Branch Trail - Lakefront	bicycle
+11734435	lcn			Lakefront -North Shore Channel Trail	bicycle
+11734574	CTA	49B	north	Bus 49B: Western Brown Line Station -> Howard/Western	bus
+11734575	CTA	49B	south	Bus 49B: Howard/Western -> Western Brown Line Station	bus
+11734678	CTA	49	north	Bus 49: 79th/Western -> Berwyn/Western	bus
+11734679	CTA	49	south	Bus 49: Berwyn/Western -> 79th/Western	bus
+11734680	CTA	X49	north	Bus X49: 79th/Western -> Berwyn/Western	bus
+11734681	CTA	X49	south	Bus X49: Berwyn/Western -> 79th/Western	bus
+11734682	CTA	N49	south	Bus N49: Berwyn/Western -> 79th/Western	bus
+11734683	CTA	N49	north	Bus N49: 79th/Western -> Berwyn/Western	bus
+11741790	lcn	Station		Dupage River Trail to Naperville Station	bicycle
+11741791	lcn	Station		Naperville Station to Dupage River Trail	bicycle
+11741792	lcn	Modaff		Modaff Road to Gartner Road	bicycle
+11741793	lcn	Modaff		Modaff Road to 75th Street	bicycle
+11741794	lcn	Gartner		Gartner Road to Dupage River Trail	bicycle
+11741795	lcn			Gartner Road to Olesen Drive	bicycle
+11742128	lcn	East		Main Route East	bicycle
+11742129	lcn	West		Main Route West	bicycle
+11742130	lcn	Main Route		Morton Arboretum Main Cycle Route	bicycle
+11743529	lcn	Lafayette		Lafayette Avenue	bicycle
+11743530	lcn	69th		69th Street	bicycle
+11743531	lcn	71st		71st Street	bicycle
+11743577	lcn	130th		130th Street	bicycle
+11743578	lcn	Baltimore		Baltimore Avenue	bicycle
+11743579	lcn	126th		126th Street	bicycle
+11743580	lcn	Torrence		Torrence Avenue	bicycle
+11745141	lcn			Promontory Point - Washington Park	bicycle
+11747077	lcn	Woodlawn		Woodlawn Avenue	bicycle
+11747078	lcn			Promontory Point - Washington Park	bicycle
+11748139	lcn	BT		Boul Avenus Trail	bicycle
+11748160	lcn	Kedzie		Kedzie Avenue	bicycle
+11748161	lcn	Howard		Howard Street	bicycle
+11748162	lcn			Lawrence Avenue - Evanston	bicycle
+11748163	lcn			Bryn Mawr Avenue - Logan Square	bicycle
+11748164	lcn			Kedzie Avenue - Loyola Pak	bicycle
+11763175	lwn			Giant City Nature Trail	hiking
+11764780	lcn	California		California Avenue	bicycle
+11764846	lcn	Jackson		Jackson Boulevard	bicycle
+11765662	lcn	95th		95th Street	bicycle
+11766710	lcn				bicycle
+11766711	lcn				bicycle
+11766712	lcn			Plainfield Bicycle Routes	bicycle
+11772641	lcn				bicycle
+11772643	lcn	Bryn Mawr		Bryn Mawr Avenue	bicycle
+11772644	lcn				bicycle
+11772648	lcn				bicycle
+11772765	lcn	California		California Boulevard	bicycle
+11775717	lcn	76th		76th Street	bicycle
+11777717	lcn	Jeffrey		Jeffrey Avenue	bicycle
+11777718	lcn	93rd		93rd Street	bicycle
+11777719	lcn	Exchange		Exchange Avenue	bicycle
+11777720	lcn	92nd		92nd Street	bicycle
+11777721	lcn	Buffalo		Buffalo Avenue	bicycle
+11777722	lcn	91st		91st Street	bicycle
+11777724	lcn	95th		95th Street	bicycle
+11782670	Pace	803		Carpentersville Local	bus
+11784557	lcn			Loyola - Foster Avenue	bicycle
+11784558	lcn			Foster Avenue - Loyola	bicycle
+11785103	Citylink	1		University	bus
+11785104					bus
+11785260	CityLink	2		North Adams	bus
+11785386	Citylink	3		Parkview	bus
+11785859	Citylink	4		Knoxville	bus
+11785925	Citylink	5		Main	bus
+11786140	Citylink	6		Sheridan	bus
+11786229	Citylink	7		Garden	bus
+11786288	Citylink	8		East Peoria/Sunnyland	bus
+11786472	Citylink	9		East Peoria/EastSide	bus
+11786784	Citylink	10		Sterling	bus
+11786879	Citylink	11		Western	bus
+11787186	lcn	Home		Home Avenue	bicycle
+11787187	lcn	29th		29th Street	bicycle
+11787188	lcn	Wisconsin		Wisconsin Avenue	bicycle
+11787189	lcn	29th		29th Place	bicycle
+11787190	lcn	Maple		Maple Avenue	bicycle
+11787191	lcn	28th		28th Street	bicycle
+11787192	lcn	Riverside		Riverside Drive	bicycle
+11787194	lcn	East		East Avenue	bicycle
+11787195	lcn	16th		16th Street	bicycle
+11787196	lcn	Home		Home Avenue	bicycle
+11787197	lcn	Clinton		Clinton Avenue	bicycle
+11787868	lcn	HBR		Village of Hinsdale Bike Routes	bicycle
+11787898	lcn	Plaza		Plaza Drive	bicycle
+11787899	lcn	Warwick		Warwick Avenue	bicycle
+11787900	lcn	Traube		Traube Avenue	bicycle
+11787901	lcn	Grant		Grant Street	bicycle
+11787902	lcn	Naperville		Naperville Road	bicycle
+11787903	lcn	Cumnor		Cumnor Road	bicycle
+11787904	lcn			Smith Woods Park Trail	bicycle
+11787905	lcn	Williams		Williams Street	bicycle
+11788306	Citylink	12		Heights	bus
+11788410	Citylink	13		South Adams	bus
+11788448	Citylink	14		Wisconsin	bus
+11789132	Citylink	15		Lincoln	bus
+11789232	lcn	Ridgeland		Ridgeland Avenue	bicycle
+11790880	lcn	26th		26th Street	bicycle
+11790881	lcn	Ridgeland		Ridgeland Avenue	bicycle
+11790882	lcn	34th		34th Street	bicycle
+11790883	lcn	34th		34th Street	bicycle
+11790884	lcn	East		East Avenue	bicycle
+11790885	lcn	Windsor		Windsor Avenue	bicycle
+11790886	lcn	Stanley		Stanley Avenue	bicycle
+11790905	lcn	Norfolk		Norfolk Street Bikeway	bicycle
+11794375	RMTD	1		West State	bus
+11794406	Citylink	16		Northwest Express	bus
+11794421	RMTD	2		School Street	bus
+11794432		17		Pekin North	bus
+11794433	RMTD	3		Huffman	bus
+11794532		18		Pekin South	bus
+11794577	Citylink	20		ICC Express	bus
+11794595	Citylink	23		Peoria to Pekin	bus
+11795670	RMTD	4		North Main	bus
+11795734	RMTD	5		Clifton	bus
+11795831	RMTD	6		Kilburn	bus
+11795938	RMTD	7		South Main	bus
+11796175	RMTD	11		East State Street	bus
+11796534	RMTD	12		Charles Street	bus
+11796605	RMTD	13		Rural Street	bus
+11797997	RMTD	14		7th Street	bus
+11798083	RMTD	15		Kishwaukee Street	bus
+11798220	RMTD	16		City Loop North	bus
+11798268	RMTD	18		Bell School	bus
+11798323	RMTD	19		Cherryvale Mall	bus
+11798480	RMTD	20		Alpine Crosstown	bus
+11799042	RMTD	22		North Second Street	bus
+11799459	RMTD	22 Express		North Second Street Express	bus
+11799589	RMTD	24		Belvidere	bus
+11800151	RMTD	31 & 41		Auburn & Rockton	bus
+11800276	RMTD	32		East State Night Route	bus
+11800405	RMTD	33 & 43		West State & Clifton	bus
+11802674	RMTD	34 & 44		Harrison & Alpine	bus
+11802695	RMTD	35 & 45		Kishwaukee & 7th Street	bus
+11802735	RMTD	36		Perryville/Alpine Night Route	bus
+11802788	RMTD	40 & 42		East State Sunday	bus
+11803218	RMTD	41		Auburn & Rockton Sundays	bus
+11803798	RMTD	42		East State Sunday Last  Run	bus
+11803842	RMTD	43		West State & Clifton Sundays	bus
+11803942	RMTD	44		Harrison & Alpine Sundays	bus
+11804019	RMTD	45		Kishwaukee & 7th Sundays	bus
+11804059	lcn			Kiwanis Trail	bicycle
+11805091	RMTD	20 Express		Alpine Crosstown  Lynmar Express	bus
+11805221	RMTD	17		City Loop South	bus
+11813202	lcn	Main		Main Street	bicycle
+11813203	lcn	Riedy		Riedy Road	bicycle
+11813204	lcn	Westview		Westview Lane	bicycle
+11813205	lcn	Garfield		Garfield Avenue	bicycle
+11813206	lcn	Southport		Southport Avenue	bicycle
+11813207	lcn	Burlington		Burlington Avenue	bicycle
+11813208	lcn	Short		Short Street	bicycle
+11813209	lcn	Schwartz		Shwartz Avenue	bicycle
+11813210	lcn	Lacey		Lacey Avenue	bicycle
+11813211	lcn	Devon		Devon Avenue	bicycle
+11813212	lcn	Middleton		Middleton Avenue	bicycle
+11813213	lcn	Ohio		Ohio Court	bicycle
+11813214	lcn	Ohio		Ohio Street	bicycle
+11814608	lcn	93rd		93rd Street	bicycle
+11814785	lcn	LRT		LaGrange Road Trail	bicycle
+11814786	lcn	167th		167th Street Trail	bicycle
+11814787	lcn	88th		88th Avenue Trail	bicycle
+11814788	lcn	167th		167th Street Trail	bicycle
+11814789	lcn	Red Trail		Orland System Red Trail	bicycle
+11814790	lcn	104th		104th Avenue	bicycle
+11815321	lcn	Stony Island		Stony Island Avenue	bicycle
+11815324	lcn	100th		100th Street	bicycle
+11815325	lcn	Ave L		Avenue L	bicycle
+11815326	lcn	115th		115th Street	bicycle
+11815327	lcn	State		State Street	bicycle
+11815328	lcn	111th		111th Street	bicycle
+11821720	lcn				bicycle
+11821721	lcn	Hermitage		Hermitage Avenue	bicycle
+11830334	lcn	California		California Avenue	bicycle
+11830339	lcn				bicycle
+11832035	lcn	Elsworth		Elsworth Drive	bicycle
+11832036	lcn	Morgan		Morgan Drive	bicycle
+11832037	lcn	Rainey		Rainey Drive	bicycle
+11832038	lcn	Payne		Payne Drive	bicycle
+11832039	lcn	Hyde Park		Hyde Park Boulevard	bicycle
+11832040	lcn	51st		51st Street	bicycle
+11832041	lcn	40th		40th Street	bicycle
+11832042	lcn	Ellis		Ellis Avenue	bicycle
+11833502	lcn	SPT		Springbrook Prarie Trail	bicycle
+11833504				Henslow's Trail	foot
+11833505	lcn			Sunflower Trail	bicycle
+11838014	lcn	14th		14th Place	bicycle
+11838015	lcn	Polk		Polk Street	bicycle
+11838018	lcn				bicycle
+11838020	lcn			Damen Avenue - Loomis Street	bicycle
+11839749	lcn			Kostner Avenue - California Boulevard	bicycle
+11839753	lcn	Riverside		Riverside Drive	bicycle
+11839754	lcn	Oak Park		Oak Park Avenue	bicycle
+11839755	lcn	16th		16th Street	bicycle
+11839756	lcn	Clinton		Clinton Avenue	bicycle
+11839757	lcn	Home		Home Avenue	bicycle
+11840036	lcn	Circle		Circle Avenue	bicycle
+11840037	lcn	Jackson		Jackson Boulevard	bicycle
+11840038	lcn	Harrison		Harrison Street	bicycle
+11840040	lcn	Van Buren		Van Buren Street	bicycle
+11840041	lcn	Harvard		Harvard Street	bicycle
+11840042	lcn	Ferdinand		Ferdinand Avenue	bicycle
+11840043	lcn	Lathrop		Lathrop Avenue	bicycle
+11840044	lcn	Des Plaines		Des Plaines Avenue	bicycle
+11841393	lcn	E. Prairie		East Prairie Road	bicycle
+11841394	lcn	Kirk		Kirk Street	bicycle
+11841395	lcn	Main		Main Street	bicycle
+11841396	lcn	Keeler		Keeler Avenue	bicycle
+11841397	lcn	Grant		Grant Street	bicycle
+11842306	Pace	806		Crystal Lake – Fox Lake	bus
+11842364	Pace	807		Woodstock – McHenry	bus
+11844044	lcn	26th		26th Street	bicycle
+11844045	rcn	SCG		Salt Creek Greenway	bicycle
+11845251					railway
+11848425	lcn	Chicago		Chicago Avenue	bicycle
+11848426	lcn			Wilmette - Northwestern	bicycle
+11848427	lcn	Main		Main Street	bicycle
+11848428	lcn	Dodge		Dodge Avenue	bicycle
+11851451	Amtrak	Pere Marquette		Amtrak Pere Marquette: Grand Rapids => Chicago	train
+11852931	lcn			Downtown - United Center	bicycle
+11853252	lcn			Downtown - Damer Avenue - Humboldt Park	bicycle
+11853255	lcn				bicycle
+11867165	lcn	Central Park		Central Park Avenue	bicycle
+11867166	lcn	Northeast		Northeast Parkway	bicycle
+11867167	lcn	Kostner		Kostner Avenue	bicycle
+11867187	lcn	Beckwith		Beckwith Road	bicycle
+11867188	lcn	Lehigh		Lehigh Avenue	bicycle
+11874351	lcn				bicycle
+11879712	Amtrak	Wolverine		Amtrak Wolverine: Pontiac => Chicago	train
+11879713	Amtrak	Blue Water		Amtrak Blue Water: Port Huron => Chicago	train
+11891956	Amtrak	Carl Sandburg/Illinois Zephyr		Amtrak Carl Sandburg/Illinois Zephyr: Quincy => Chicago	train
+11893734	Amtrak	Lincoln Service		Amtrak Lincoln Service: Chicago => Saint Louis	train
+11921266	lcn			Midland Trail	bicycle
+11921267	lcn			Church Street Path	bicycle
+11921937	lcn				bicycle
+11921938	lcn	E. Side		East Side Drive	bicycle
+11921939	lcn	7th		7th Avenue	bicycle
+11921940	lcn	Hawthorne		Hawthrone Lane	bicycle
+11921941					bicycle
+11923679	lcn				bicycle
+11923680	lcn				bicycle
+11931535	lcn	Purple Trail		Tinley Creek Purple Paved Trail	bicycle
+11931536	lcn	Yellow Trail		Tinley Creek Yellow Paved Trail	bicycle
+11931538	lcn	Blue Trail		Tinley Creek Blue Paved Trail	bicycle
+11931539	lcn	Fieldcrest		Fieldcrest Drive Path	bicycle
+11931540	lcn	Black Trail		Tinley Creek Black Paved Trail	bicycle
+11931541	lcn	151st		151st Street	bicycle
+11931542	lcn	80th		80th Avenue	bicycle
+11931543	lcn				bicycle
+11932410	lcn				bicycle
+11932411	lcn				bicycle
+11932412	lcn	116th		116th Avenue	bicycle
+11932413	lcn	Steger		Steger Road Bikeway	bicycle
+11932414	lcn	Schmule			bicycle
+11932415	lcn	Laraway		Laraway Road	bicycle
+11932416	lcn	Calistoga		Calistoga Drive	bicycle
+11943977	lcn	Green Trail		Tinley Creek Green Paved Trail	bicycle
+11943978	lcn	OFHPTS		Oak Forest Heritage Preserve Trail System	bicycle
+11943979	lcn	MMTS		Midlothian Meadows Trail System	bicycle
+11943980	lcn	Orange Trail		Tinley Creek Orange Paved Trail	bicycle
+11943981	lcn	VRGTS		Vollmer Road Grove Trail System	bicycle
+11943982	lcn	Crawford		Crawford Avenue	bicycle
+11943983	lcn	203rd		203rd Street	bicycle
+11943984	lcn	OFPS		Olympia Fields Path System	bicycle
+11954926	rcn	EOT		Elgin O'Hare Trail	bicycle
+11954927	lcn	OC		O'Hare Connector	bicycle
+11978285	CTA	81W	west	Bus 81W: Jeff Park -> Cumberland Blue Line Station	bus
+11988295	lcn				bicycle
+11988296	lcn	Lake		Lake Street	bicycle
+11988297	lcn	Davis		Davis Street	bicycle
+11988298	lcn	Church		Church Street	bicycle
+11988299	lcn	Emerson		Emerson Street	bicycle
+11988300	lcn	Gross Point		Gross Point Road	bicycle
+11988301	lcn	Central		Central Street	bicycle
+11989859	lcn	Valley		Valley Trail	bicycle
+11989860	lcn	Hawk		Hawk Trail	bicycle
+11989861	lcn	White Oak		White Oak Trail	bicycle
+11989862	lcn	Kesterel		Kestrel Trail	bicycle
+11989863	lcn	Thunderbird		Thunderbird Trail	bicycle
+11989864	rcn	EBT		East Branch DuPage River Trail	bicycle
+11990098	lcn	Fourth		Fourth Street	bicycle
+11990099	lcn	Gregory		Gregory Drive	bicycle
+11990100	lcn	Sixth		Sixth Street	bicycle
+11990101	lcn	Armory		Armory Avenue	bicycle
+11990102	lcn	Green		Green Street	bicycle
+11990103	lcn	Wright		Wright Street	bicycle
+11990104	lcn	Windsor		Windsor Road	bicycle
+11990105	lcn	Windsor		Windsor Road	bicycle
+11990251	rcn	LPT		Lowell Parkway Trail	bicycle
+11990252	lcn	Washington		Washington Avenue	bicycle
+11990253	lcn	McKenney		McKenney Street	bicycle
+11990254	lcn	Brinton		Brinton Avenue	bicycle
+11990255	lcn	Boyd		Boyd Street	bicycle
+11990256	lcn	Ottawa		Ottawa Avenue	bicycle
+11990257	lcn	1st		1st Street	bicycle
+11990258	lcn	Peoria		Peoria Avenue	bicycle
+11990259	lcn	Lincoln Statue		Lincoln Statue Drive	bicycle
+11990260	lcn				bicycle
+11991110	lcn			Bike Path	bicycle
+11991111	lcn	Wolf		Wolf Road	bicycle
+11991112	lcn			Bike Path	bicycle
+11991113	lcn	SCG		Spring Creek Greenway	bicycle
+11991842	lcn	FSBP		Four Sisters Bike Path	bicycle
+11991843	lcn	10th		10th Avenue	bicycle
+11991844	lcn	9th		9th Street	bicycle
+11991845	lcn	5th		5th Avenue	bicycle
+11991846	lcn	8th		8th Street	bicycle
+11991847	lcn	9th		9th Street	bicycle
+11991848	lcn	1st		1st Avenue	bicycle
+11991849	lcn	Main		Main Street	bicycle
+11991850	lcn	Cherry		Cherry Avenue	bicycle
+11991851	lcn	Woolf		Woolf Court	bicycle
+11991852	lcn	8th		8th Avenue	bicycle
+11991853	lcn	Parkview		Parkview Drive	bicycle
+11991854	lcn	2nd		2nd Street	bicycle
+11991855	lcn	School		School Avenue	bicycle
+11995446	lcn	OPDT		Oswegoland Park District Trails	bicycle
+11995447	lcn	WT		Waubonsie Trail	bicycle
+11996052	lcn	MBP		Minooka Bike Paths	bicycle
+11996053	lcn	CBP		Channahon Bike Paths	bicycle
+11996054	lcn	AT		Arroyo Trails	bicycle
+11997517	lcn			Greene Valley Trail Links	bicycle
+11997518	lcn			75th Street Path	bicycle
+12015551	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Chicago => Boston	train
+12022605	Amtrak	Capitol Limited		Amtrak Capitol Limited: Chicago => Washington	train
+12024139	MetroLINK	10		Red	bus
+12024270	MetroLINK	20		Blue	bus
+12024621	MetroLINK	30		Green	bus
+12024673	MetroLINK	40		Orange	bus
+12026430	MetroLINK	50		Olive	bus
+12026434	MetroLINK	53		Lime	bus
+12026444	MetroLINK	53 Late		Late Night 53	bus
+12026475	MetroLINK	55		Sky Blue	bus
+12027623	MetroLINK	57		Brown	bus
+12027793	MetroLINK	59		Maroon	bus
+12027894	MetroLINK	60		Yellow	bus
+12030477	MetroLINK	70		Purple	bus
+12030481	MetroLINK	80		Pink	bus
+12030490	MetroLINK	WIU		WIU Connect	bus
+12030517	MetroLINK	TY		Tyson	bus
+12030623	MetroLINK	54		Roosevelt Elementary School	bus
+12030647	MetroLINK	72		Willard Elementary School	bus
+12031325	MetroLINK	62		Butterworth Elementary School	bus
+12031393	MetroLINK	38		Jane Addams Elementary School	bus
+12031565					bus
+12031566	MetroLINK	34		Logan Elementary School	bus
+12031609	MetroLINK	52		Franklin Elementary School	bus
+12031680	MetroLINK	36		36 Wilson Middle School	bus
+12031802	MetroLINK	56		56 Wilson Middle School	bus
+12031900	MetroLINK	58		58 Wilson Middle School	bus
+12031992	MetroLINK	63		Rock Island Academy	bus
+12032007	MetroLINK	35		Eugene Field Elementary School	bus
+12032050	MetroLINK	65		Frances Willard Elementary School	bus
+12032089	MetroLINK	43		Thomas Jefferson Elementary School	bus
+12032173	MetroLINK	41		Ridgewood Elementary School	bus
+12034056	MetroLINK	31		Rock Island High School	bus
+12037189	Amtrak	Cardinal		Amtrak Cardinal: New York => Chicago	train
+12044088	Amtrak	Wolverine		Amtrak Wolverine: Pontiac => Chicago	train
+12044089	Amtrak	Wolverine		Amtrak Wolverine: Pontiac => Chicago	train
+12044090	Amtrak	Wolverine		Amtrak Wolverine: Chicago => Pontiac	train
+12044091	Amtrak	Wolverine		Amtrak Wolverine: Chicago => Pontiac	train
+12046132	lcn			La Porte Road	bicycle
+12046133	lcn			Saint Francis Road	bicycle
+12046134	lcn	HCB		Hickory Creek Bikway - East Branch	bicycle
+12046135	lcn			Elsner Road	bicycle
+12046142	MetroLINK	32		Moline High School	bus
+12089100	Amtrak	Empire Builder		Amtrak Empire Builder: Chicago => Portland	train
+12126557	CTA	50	south	Bus 50: Ashland/Clark -> 35th/Archer	bus
+12126997	rcn	RRT		Rock River Bike Trail	bicycle
+12180533	Amtrak	Texas Eagle		Amtrak Texas Eagle: Los Angeles => Chicago	train
+12180534	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => Los Angeles	train
+12180535	Amtrak	Texas Eagle		Amtrak Texas Eagle: San Antonio => Chicago	train
+12192445	Amtrak	Lincoln Service		Amtrak Lincoln Service: Chicago => Saint Louis	train
+12204991	lcn			Steven's Creek Bikeway	bicycle
+12256726	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12256727	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12256728	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12256729	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12256730	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256731	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256732	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256733	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256734	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256735	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256736	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Gary	train
+12256737	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Gary	train
+12256738	NICTD	SSL	west	NICTD South Shore Line: South Bend => Millennium Station	train
+12256739	NICTD	SSL	west	NICTD South Shore Line: South Bend => Millennium Station	train
+12256740	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => South Bend	train
+12256741	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => South Bend	train
+12256742	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12256743	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Gary	train
+12256744	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12256745	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256746	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => South Bend	train
+12256747	NICTD	SSL	west	NICTD South Shore Line: South Bend => Millennium Station	train
+12256748	NICTD	SSL	west	NICTD South Shore Line: Gary => Millennium Station	train
+12256749	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Gary	train
+12256750	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
+12256751	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
+12261422	Connect Transit	Aqua		Aqua Route	bus
+12261556	Connect Transit	Blue		Blue Route	bus
+12262275	Connect Transit	Brown		Brown Route	bus
+12262373	Connect Transit	Green		Green Route	bus
+12262534	Connect Transit	Gold		Gold Route	bus
+12262613	Connect Transit	Lime		Lime Route	bus
+12262808	Connect Transit	Orange		Orange Route	bus
+12264688	Connect Transit	Pink		Pink Route	bus
+12264703	Connect Transit	Purple		Purple Route	bus
+12264730	Connect Transit	Red Express		Red Express Route	bus
+12264756	Connect Transit	Red		Red Route	bus
+12265257	Connect Transit	Redbird		Redbird Express	bus
+12265280	Connect Transit	Silver		Silver Route	bus
+12265324	Connect Transit	Tan		Tan Route	bus
+12265384	Connect Transit	Yellow		Yellow Route	bus
+12283644	US:IL:DeKalb	6		DeKalb County Highway 6	road
+12283645	US:IL:DeKalb	24		DeKalb County Highway 24	road
+12283646	US:IL:DeKalb	16		DeKalb County Highway 16	road
+12283647	US:IL:DeKalb	10		DeKalb County Highway 10	road
+12283648	US:IL:DeKalb	11		DeKalb County Highway 11	road
+12292938		11		MLK Drive – Meadowlark	bus
+12294310		12		Airport – WalMart East	bus
+12294503		21		Monroe – Aldi’s – WalMart North	bus
+12294783		21C		Monroe – West Mound – Target	bus
+12294899		22		St. Mary’s Circulator	bus
+12294940		31		W. Grand – Ravina Park	bus
+12295059		41		E. Grand – Richland Community College	bus
+12297114		51		Jasper – Park 101	bus
+12297137		52		W. Main – Wyckles Rd.	bus
+12297155		53		Enterprise – Taylor Rd.	bus
+12297485		61		Water – Hickory Point Mall	bus
+12299034		62		Oakland – Fairview Plaza	bus
+12299092		63		Decatur – Fairview Plaza	bus
+12299234		71		Lost Bridge – WalMart East	bus
+12303315	Salida Del Transit Center	32		South Shores	bus
+12303371		Decatur Trolley		Downtown Decatur Trolley	bus
+12384991	RVMMTD	1		Meadowview	bus
+12385396	RVMMTD	2		Bradley/Meijer/Target	bus
+12385415	RVMMTD	3		Schuyler/Meijer/Walmart	bus
+12385523	RVMMTD	4		Court Street	bus
+12386266	RVMMTD	5		Aroma Park	bus
+12386601	RVMMTD	6		Schuyler/DelMonte/KCC/Jerome Cobbs	bus
+12386644	RVMMTD	7		Walmart/KCC/DelMonte/Indiana & Harrison	bus
+12386690	RVMMTD	8		East Kankakee/ Kankakee High School	bus
+12386789	RVMMTD	9		Manteno	bus
+12386872	RVMMTD	10		Bourbonnais/VA	bus
+12386888	RVMMTD	11		Kennedy Drive/ONU/Northfield Meadows	bus
+12418760	Beloit Transit System	5		Gateway Extra	bus
+12421957	DMT	1		Grant-Logan	bus
+12422026	DMT	2		Gilbert	bus
+12422033	DMT	3		Vermilion	bus
+12422058	DMT	4		Bowman	bus
+12423350	DMT	5		Fairchild	bus
+12423352	DMT	6		Main-Fairchild	bus
+12423357	DMT	7		Williams-Main	bus
+12423373	DMT	8		Douglas Park	bus
+12425791	DMT	9		Georgetown	bus
+12426653	DMT	10		Danville-Champaign	bus
+12426670	DMT	11		Vermilion	bus
+12426685	DMT	12		Heights-S. Danville	bus
+12426805	DMT	13		Tilton	bus
+12427245	DMT	14		Lynch	bus
+12428895	CTA	51	west	Bus 51: 47th Red Line Station -> Kedzie Orange Line Station	bus
+12428896	CTA	51	east	Bus 51: Kedzie Orange Line Station -> 47th Red Line Station	bus
+12484872				Brown Trail	hiking
+12484873				Blue Trail	hiking
+12484874				Orange Trail	hiking
+12484875				Green Trail	hiking
+12484876				Yellow Trail	hiking
+12484877				Pink Trail	hiking
+12594572	CTA	Purple	south	CTA Purple Line (other times): Linden → Howard	subway
+12594573	CTA	Purple	north	CTA Purple Line (other times): Howard → Linden	subway
+12622659	rwn	OBT		OBT-2	hiking
+12626281	rwn	OBT		OBT-3	hiking
+12628419				"Brookfield, Salt Creek & Western Railroad"	train
+12639203	rwn	OBT		OBT-4	hiking
+12646984	lcn	134th		134th Street	bicycle
+12646985	lcn	Ave N		Avenue N	bicycle
+12649192	rwn	OBT		OBT-5	hiking
+12649196	rwn	OBT		OBT-1	hiking
+12661424	rwn	OBT		OBT-6	hiking
+12664897	rwn	OBT		OBT-7	hiking
+12668934	rwn	OBT		OBT-8	hiking
+12671536	lcn			Madison Street	bicycle
+12685033	rwn	OBT		OBT-9	hiking
+12685635	US:IL:Woodford	8			road
+12685636	US:IL:Woodford	21			road
+12686338	rwn	OBT		OBT-10	hiking
+12686462	US:IL:Woodford	3			road
+12686710		TRRA			railway
+12692568	US:IL:Woodford	9			
+12693655	US:IL:Woodford	6			road
+12693656	US:IL:Woodford	17			road
+12701364	US:IL:Woodford	2			road
+12701365	US:IL:Woodford	14			road
+12701366	US:IL:Woodford	20			road
+12701367	US:IL:Woodford	16			road
+12710237	US:IL:Woodford	5			road
+12710238	US:IL:Woodford	7			road
+12720556	US:IL:Woodford	22			road
+12720557	US:IL:Woodford	11			road
+12720558	US:IL:Woodford	1			road
+12720559	US:IL:Woodford	13			road
+12804906	Greyhound	US0185		"Greyhound US0185 - Nashville, TN-Evansville, IN, Saint Louis, MO"	bus
+12812316	lcn			Crystal Lake Bike Routes	bicycle
+12812340	lcn			Lakewood Cycle Routes	bicycle
+12817211				East Cedar Street	road
+12849249	lcn			Prairie Crossing Bike Path	bicycle
+12849250	rcn	MT		Millennium Trail	bicycle
+12849251	lcn			Fort Hill Trail	bicycle
+12858779	lcn			Buffalo Grove-Lincolnshire Bike Path	bicycle
+12864832	lcn			Lake In the Hills Bike Routes	bicycle
+12865606	lcn			Primrose Loop Trail	bicycle
+12885747				250E	road
+12885748				County Road 6	road
+12912821	lwn			Basin Loop	foot
+12912822	lwn			Boneyard Greenway	foot
+12928506	lcn			Middlefork Trail	bicycle
+12928507	lcn				bicycle
+12933167	lwn			East Loop Trail Loop	hiking
+12933168	lwn			East Loop Trail	hiking
+12939208	Flixbus	2511		Flixbus 2511: Milwaukee => Columbus	bus
+12939209	Flixbus	2511		Flixbus 2511: Columbus => Milwaukee	bus
+12941744	US:IL:Woodford	25			road
+12941751	US:IL:Woodford	23			road
+13026279	lcn			Longmeadow Trail	bicycle
+13103809	US:I	155	north		road
+13196515	lcn				bicycle
+13196516	lcn				bicycle
+13266121	CTA	52A	south	Bus 52A: Kedzie Orange Line Station -> 115th/Springfield	bus
+13266122	CTA	52A	north	Bus 52A: 115th/Springfield -> Kedzie Orange Line Station	bus
+13302824	Pace	559		Bus 559: Corporate Lane => Route 59 Metra => High Meadow	bus
+13302838	Pace	559		Bus 559: Corporate Lane => Route 59 Metra => Fox Valley Mall	bus
+13302839	Pace	559		Bus 559: Fox Valley Mall Outer Lot => Route 59 Metra => Corporate Lane	bus
+13369798					foot
+13470703	lcn			The Boulevards	bicycle
+13487060	CTA	53	south	Bus 53: Peterson/Pulaski -> Ford City Mall	bus
+13487061	CTA	53	north	Bus 53: Ford City Mall -> Peterson/Pulaski	bus
+13487226	CTA	N53	south	Bus N53: Irving Park Blue Line Station -> Pulaski Orange Line Station	bus
+13487227	CTA	N53	north	Bus N53: Pulaski Orange Line Station -> Irving Park Blue Line Station	bus
+13490283	CTA	53A	north	Bus 53A: 115th/Springfield -> Pulaski Orange Line Station	bus
+13490284	CTA	53A	south	Bus 53A: Pulaski Orange Line Station -> 115th/Springfield	bus
+13505082				C&M Subdivision	railway
+13559347					tracks
+13565796					tracks
+13565797					tracks
+13566837	CTA	53A	north	Bus 53A: 111th/Pulaski -> Pulaski Orange Line Station	bus
+13566838	CTA	53A	south	Bus 53A: Pulaski Orange Line Station -> 111th/Pulaski	bus
+13708797	Pace	353	south	Bus 353: 95th Dan/Ryan CTA Station -> Pace Homewood Park & Ride	bus
+13727691				O'Hare Metra	bus
+13727692	CDA			"O'Hare Parking F, MMF"	bus
+13727693				O'Hare Parking G	bus
+13727694				O'Hare Parking H	bus
+13727695				O'Hare Terminal Only	bus
+13753839				Hog Hill Trail	road
+13753840				County Road 2850 North	road
+13757808		2375 East		County Road 2375 East	road
+13761663	lcn			Constitution Trail Northtown Branch	bicycle
+13761664	lwn			Constitution Trail Northtown Branch	foot
+13764450	lwn			Constitution Trail Illinois Central Branch	foot
+13764451	lcn			Constitution Trail Illinois Central Branch	bicycle
+13764841	lcn			Constitution Trail Bloomer Line Branch	bicycle
+13764862	lcn			Constitution Trail Bloomer Line Branch	foot
+13767253	lcn			Constitution Trail Collegiate Branch	bicycle
+13767292	lwn			Constitution Trail Collegiate Branch	foot
+13767326	lcn			Constitution Trail Interurban Branch	bicycle
+13767333	lwn			Constitution Trail Interurban Branch	foot
+13767431	lcn			Constitution Trail Southtown Branch	bicycle
+13767433	lwn			Constitution Trail Southtown Branch	foot
+13780994	Pace	533		Bus 533: Lily/Molitor => Aurora Transportation Center	bus
+13780995	Pace	533		Bus 533: Aurora Transportation Center => Marshall/Farnsworth	bus
+13780996	Pace	533		Bus 533: Simmons Middle School => Aurora Transportation Center	bus
+13780997	Pace	533		Bus 533: Aurora Transportation Center => Simmons Middle School	bus
+13781002	Pace	533		Bus 533: Walmart East Side of Parking Lot => Aurora Transportation Center	bus
+13800892	CTA	206	south	Bus 206: Central/Crawford -> Howard Red Line Station AM	bus
+13800893	CTA	206	south	Bus 206: Central/Crawford -> Howard Red Line Station PM	bus
+13800894	CTA	206	north	Bus 206: Howard Red Line Station -> Central/Crawford PM	bus
+13800895	CTA	206	north	Bus 206: Howard Red Line Station -> Central/Crawford AM	bus
+13800956				Fayette County Road 15	road
+13805305	Pace	722	west	Bus 722: Branding/Finley → Naperville Metra Station	bus
+13827854				Fayette County Road 1	road
+13836765				South Holly Street	road
+13836766				West 5th Street	road
+13836767				County Road 200	road
+13836816				South Washinton Street	road
+13840886				County Road 2500 North	road
+13890794	lcn			Quentin	bicycle
+13890795	lcn			Long Grove Road Bike Lanes	bicycle
+13890796	lcn	Ela		Ela Road	bicycle
+13890797	lcn			Deer Park Bicycle Paths	bicycle
+13890875	lcn	Riverwoods		Riverwoods Road	bicycle
+13890876	lcn	Deerfield		Deerfield Road	bicycle
+13906145				County Road 2900 North	road
+13918579				Fayette County Road 1	road
+13918580				County Road 15	road
+13918581				County Road 3175 North	road
+13961648	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+14000019				County Road 400 East	road
+14019879		US 136A Spur		US 136A Spur	road
+14019884				Mendota Subdivision	railway
+14049827	US:IL:Cook:Chicago:Skyway			Chicago Skyway	road
+14094574	CTA	151	south	Bus 151: Clark/Arthur -> Union Station	bus
+14096773				Scenic Railway	train
+14142715	Pace	755	south	Bus 755: Chicago Union Station => Illinois Medical District => Pace Plainfield Park-N-Ride	bus
+14171302	rcn			Skokie Valley Trail	bicycle
+14174086	US:I	94	west		road
+14174087	US:I	94	east		road
+14176139	Pace	714	south	Bus 714: Wheaton Metra Station → College of DuPage → Naperville Metra	bus
+14213142	lcn				bicycle
+14213143	lcn	LWT		Lyons Woods Trails	bicycle
+14213530	lcn			Casey Trail & Greenway	bicycle
+14213531	lcn			Route 137 Bull Creek Trail	bicycle
+14213532	lcn			Libertyville Bike Paths	bicycle
+14214996	lcn			Almont Road Bike Path	bicycle
+14214998	lcn			Gurnee Bike Path	bicycle
+14216097	lcn			Pine Dunes Path	bicycle
+14216576	lcn			Gary Avenue	bicycle
+14219027	lcn			Grayslake Bike Paths	bicycle
+14222686	lcn	9th		9th Street Bike Lane	bicycle
+14222687	lcn	21st		21st Street Bike Lanes	bicycle
+14222688	lcn			Zion Bike Paths	bicycle
+14224283	lcn			Oak Park - Humboldt Park	bicycle
+14224764	lcn			14th Street Bike Path	bicycle
+14225994	lcn			Elburn Bike Network	bicycle
+14228804	lcn			Buffalo Grove Bike Paths	bicycle
+14246245	lcn			Lincolnshire Bike Paths	bicycle
+14252891	lcn			Downers Grove Bikeway System	bicycle
+14253790	lcn	119th		119th Street	bicycle
+14253837	lcn	VHBP		Vernon Hills Bike Paths	bicycle
+14256645	lcn				bicycle
+14256646	lcn	Wold		Wolf Road	bicycle
+14257071	lcn	MWT		McDonald Woods Trail	bicycle
+14273800	US:IL:DuPage	29		DuPage County Highway 29	road
+14273809	US:IL:DuPage	52		DuPage County Highway 52	road
+14273817	US:IL:DuPage	53		DuPage County Highway 53	road
+14273824	US:IL:DuPage	32		DuPage County Highway 32	road
+14273849	US:IL:DuPage	59		DuPage County Highway 59	road
+14294966				Sugar Creek Road	road
+14298042	US:IL:DuPage	22		DuPage County Highway 22	road
+14298129	US:IL:DuPage	14		DuPage County Highway 14	road
+14298210	US:IL:DuPage	13		DuPage County Highway 13	road
+14302528	US:IL:DuPage	20		DuPage County Highway 20	road
+14314512	US:IL:DuPage	33		DuPage County Highway 33	road
+14314578	US:IL:DuPage	51		DuPage County Highway 51	road
+14316188	US:IL:DuPage	10		DuPage County Highway 10	road
+14316515	US:IL:DuPage	56		DuPage County Highway 56	road
+14316867	US:IL:DuPage	50		DuPage County Highway 50	road
+14317175	US:IL:DuPage	6		DuPage County Highway 6	road
+14317208	US:IL:DuPage	1		DuPage County Highway 1	road
+14320067	US:IL:DuPage	18		DuPage County Highway 18	road
+14323018	US:IL:DuPage	3		DuPage County Highway 3	road
+14332061	lcn			Old Orchard Road Path	bicycle
+14332062	lcn	Kenton		Kenton Avenue	bicycle
+14332063	lcn	Niles Center		Niles Center Road	bicycle
+14332111	lcn	Grant		Grant Street	bicycle
+14332112	lcn	Central Park		Central Park Avenue	bicycle
+14332113	lcn	McDaniel		McDaniel Avenue	bicycle
+14332114	lcn	Lincoln		Lincoln Street	bicycle
+14332115	lcn	Lincolnwood		Lincolnwood Drive	bicycle
+14332116	lcn	Orrington		Orrington Avenue	bicycle
+14341126	US:IL:DuPage	40		DuPage County Highway 40	road
+14346217	US:IL:DuPage	27		DuPage County Highway 27	road
+14367191	US:IL:DuPage	7		DuPage County Highway 7	road
+14370051	US:IL:DuPage	31		DuPage County Highway 31	road
+14370064	US:IL:DuPage	34		DuPage County Highway 34	road
+14370068	US:IL:DuPage	35		DuPage County Highway 35	road
+14370069	US:IL:DuPage	38		DuPage County Highway 38	road
+14438665				Techny Basin	bicycle
+14444513	CTA	151	north	Bus 151: Union Station -> Belmont/Halsted	bus
+14444514	CTA	151	south	Bus 151: Belmont/Halsted -> Union Station	bus
+14444632	Pace	697	north	Bus 697: Pace Northwest Transportation Center => Harper College	bus
+14451296	CTA	54B	south	Bus 54B: Cermak/Kenton -> Ford City Mall	bus
+14451297	CTA	54B	north	Bus 54B: Ford City Mall -> Cermak/Kenton	bus
+14456883	CTA	54B	south	Bus 54B: Cermak/Kenton -> Solo Cup	bus
+14496362				Mowery Valley Lane	road
+14506662	CTA	X4	south	Bus X4: Columbus/Randolph -> 95th/Dan Ryan Red Line Station	bus
+14506663	CTA	X4	north	Bus X4: 95th/Dan Ryan Red Line Station -> Columbus & Randolph	bus
+14542874	lwn			Nature Loop	hiking
+14542875	lwn			Sugar Maple Loop	hiking
+14542876	lwn			Hiking / Ski Trail	hiking
+14548803	US:IL:DuPage	17		DuPage County Highway 17	road
+14560952	Amtrak	Lincoln Service/Missouri River Runner		Amtrak Lincoln Service/Missouri River Runner: Chicago => Kansas City	train
+14560953	Amtrak	Lincoln Service/Missouri River Runner		Amtrak Lincoln Service/Missouri River Runner: Kansas City => Chicago	train
+14560954	Amtrak	Lincoln Service		Amtrak Lincoln Service: Chicago => Saint Louis	train
+14560955	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
+14560956	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
+14562176	US:IL:DuPage	54		DuPage County Highway 54	road
+14562652	US:IL:DuPage	36		DuPage County Highway 36	road
+14568438				Memorial Drive	road
+14572710	lcn			Carbondale Cycle Network	bicycle
+14582273	US:IL:DuPage	4		DuPage County Highway 4	road
+14585661	lcn			Boneyard Greenway	bicycle
+14585899					bicycle
+14585900	lcn			Mount Prospect Bikeway Systems	bicycle
+14592191				Old Highway 13	road
+14619034	Pace	711	south	Bus 711: Addison => Wheaton (B Trips)	bus
+14619035	Pace	711	south	"Bus 711: Addison => Wheaton (C,D Trips)"	bus
+14619036	Pace	711	south	Bus 711: Addison => Wheaton (D Trips)	bus
+14619039	Pace	711	north	Bus 711: Wheaton => Addison (D Trips)	bus
+14619040	Pace	711	north	"Bus 711: Wheaton => Addison (B,C Trips)"	bus
+14619041	Pace	711	north	Bus 711: Wheaton => Addison (B Trips)	bus
+14619042	Pace	711	south	Bus 711: Addison => Wheaton	bus
+14627292				John Wood Trail	bicycle
+14639225				South Park Trail	bicycle
+14639226				Indian Mounds and Riverfront Trails	bicycle
+14642523				Historic District Trail	bicycle
+14642526				Cannonball Trail	bicycle
+14647901	US:IL:DuPage	2		DuPage County Highway 2	road
+14664899	rcn	NWBW		Northwest Bikeway	bicycle
+14671763	Connect Transit	Sapphire		Sapphire Route	bus
+14674539				3600E	road
+14681360	rcn			Evanston - Elgin Bikeway	bicycle
+14685310	lwn			Beckman Quad Walk	foot
+14686864				Wabash Abandoned Railway	railway
+14696964	US:IL:Stephenson	17		Stephenson County Highway 17	road
+14696965	US:IL:Stephenson	24		Stephenson County Highway 24	road
+14696966	US:IL:Stephenson	8		Stephenson County Highway 8	road
+14696967	US:IL:Stephenson	6		Stephenson County Highway 6	road
+14696968	US:IL:Stephenson	5		Stephenson County Highway 5	road
+14696969	US:IL:Stephenson	10		Stephenson County Highway 10	road
+14696970	US:IL:Stephenson	14		Stephenson County Highway 14	road
+14696971	US:IL:Stephenson	28		Stephenson County Highway 28	road
+14696972	US:IL:Stephenson	2		Stephenson County Highway 2	road
+14699922	US:IL:Stephenson	7		Stephenson County Highway 7	road
+14699925	US:IL:Stephenson	4		Stephenson County Highway 4	road
+14699926	US:IL:Stephenson	3		Stephenson County Highway 3	road
+14699927	US:IL:Stephenson	19		Stephenson County Highway 19	road
+14699928	US:IL:Stephenson	26		Stephenson County Highway 26	road
+14699931	US:IL:Stephenson	11		Stephenson County Highway 11	road
+14699932	US:IL:Stephenson	37		Stephenson County Highway 37	road
+14699934	US:IL:Stephenson	33		Stephenson County Highway 33	road
+14699938	US:IL:Stephenson	12		Stephenson County Highway 12	road
+14699939	US:IL:Stephenson	35		Stephenson County Highway 35	road
+14699940	US:IL:Stephenson	23		Stephenson County Highway 23	road
+14699941	US:IL:Stephenson	34		Stephenson County Highway 34	road
+14699942	US:IL:Stephenson	13		Stephenson County Highway 13	road
+14699943	US:IL:Stephenson	15		Stephenson County Highway 15	road
+14699944	US:IL:Stephenson	31		Stephenson County Highway 31	road
+14699945	US:IL:Stephenson	16		Stephenson County Highway 16	road
+14699946	US:IL:Stephenson	21		Stephenson County Highway 21	road
+14702943	US:IL:Winnebago	23		Winnebago County Highway 23	road
+14702944	US:IL:Winnebago	94		Winnebago County Highway 94	road
+14702945	US:IL:Winnebago	62		Winnebago County Highway 62	road
+14702946	US:IL:Winnebago	1		Winnebago County Highway 1	road
+14702947	US:IL:Winnebago	88		Winnebago County Highway 88	road
+14702948	US:IL:Winnebago	56		Winnebago County Highway 56	road
+14702951	US:IL:Winnebago	19		Winnebago County Highway 19	road
+14702952	US:IL:Winnebago	77		Winnebago County Highway 77	road
+14702976				Keystone Pipeline	pipeline
+14709827	US:IL:Winnebago	68		Winnebago County Highway 68	road
+14709828	US:IL:Winnebago	76		Winnebago County Highway 76	road
+14709829	US:IL:Winnebago	78		Winnebago County Highway 78	road
+14709834	US:IL:Winnebago	15		Winnebago County Highway 15	road
+14709835	US:IL:Winnebago	48		Winnebago County Highway 48	road
+14744172				Walsville Trail	road
+14747461	lcn			Crab Orchard Greenway	bicycle
+14747599	lcn			Park Street to Main Street	bicycle
+14779662				North School Street	road
+14779663				2nd Street	road
+14779664				3rd Street	road
+14779665				4th Street	road
+14779666				Simpson Street	road
+14779667				Hill Street	road
+14779668				County Highway 5	road
+14867879				County Road 750 North	road
+14867880				East 750 North Road	road
+14867881				County Road 100 East	road
+14867882				North 100 East Road	road
+14875756				County Road 1300 North	road
+14877686				East 900 North Road	road
+14880233	lcn			Carbondale to Murphysboro	bicycle
+14899231				East 750 North Road	road
+14899364				Sarpy Street	road
+14902879				East West Street	road
+14902896				3rd Avenue	road
+14907679		Christian 2450		County Road 2450 North	road
+14907680				East 2450 North Road	road
+14955786	lwn			Constance’s Story Trail	foot
+14957218	GLCT	LMCT		Lake Michigan Circle Tour	road
+14976733	US:IL:Macon	27			road
+14976734	US:LHT		west	Lincoln Heritage Trail	road
+14976735	US:LHT		east	Lincoln Heritage Trail	road
+14976737	US:IL:Macon	30			road
+14976738	US:IL:Macon	60			road
+14978303	US:IL:Coles	7			road
+15100400	CTA	54B	north	Bus 54B: St. Laurence HS -> Cicero/Archer	bus
+15100401	CTA	54B	south	Bus 54B: Midway Orange Line -> St. Laurence HS	bus
+15268474				Meeting of the Great Rivers Scenic Route	road
+15345101	Pace	524		Bus 524: Woodman's => Aurora Transportation Center	bus
+15345102	Pace	524		Bus 524: Aurora Transportation Center => Indian Trail => Woodman's	bus
+15345103	Pace	524		Bus 524: Woodman's => Indian Trail => Aurora Transportation Center	bus
+15397417	Pace	715	south	Bus 715: Addison Walmart => Brookhaven Plaza	bus
+15397418	Pace	715	south	Bus 715: Addison Walmart => Argonne National Laboratory	bus
+15397419	Pace	715	north	Bus 715: Argonne National Laboratory => Addison Walmart	bus
+15411808	Pace	834	south	Bus 834: Branding/Finley → Hobson → Joliet Metra	bus
+15411809	Pace	834	south	Bus 834: Branding/Finley → Landmark Office Complex → Lewis University → Joliet Metra	bus
+15411810	Pace	834	south	Bus 834: Branding/Finley → Joliet Metra	bus
+15411814	Pace	834	north	Bus 834: Joliet Metra → Hobson → Landmark Office Complex → Branding/Finley	bus
+15411815	Pace	834	north	Bus 834: Joliet Metra → Hobson → Branding/Finley	bus
+15411816	Pace	834	north	Bus 834: Joliet Metra → Branding/Finley	bus
+15411817	Pace	834	south	Bus 834: Branding/Finley → Lewis University → Joliet Metra	bus
+15428816	Pace	540		Bus 540: Walmart East => Rush-Copley Medical Center	bus
+15432199	US:IL			County Road 23 East	road
+15505082	Pace	348	south	Bus 348: Gregory & York => Pace Harvey Transportation Center	bus
+15507433	Pace	352	north	Bus 352: Pace Chicago Heights Terminal => 95th/Dan Ryan CTA Station	bus
+15508055	Pace	360	north	Bus 360: Amazon Building MDW7 => Pace Harvey Transportation Center	bus
+15508094	Pace	802		Bus 802: Aurora Transportation Center => Delnor Community Hospital => Kane County Judicial Center	bus
+15508095	Pace	802		Bus 802: Aurora Transportation Center => Thompson Rehabillitation Center => Geneva Metra Station	bus
+15508096	Pace	802		Bus 802: Aurora Transportation Center => Thompson Rehabilitation Center => Fox Valley Garage	bus
+15508097	Pace	802		Bus 802: Aurora Transportation Center => Fox Valley Garage	bus
+15508098	Pace	802		Bus 802: Aurora Transportation Center => Geneva Metra Station	bus
+15508099	Pace	802		Bus 802: Kane County Judicial Center => Delnor Community Hospital => Aurora Transportation Center	bus
+15508100	Pace	802		Bus 802: Kane County Judicial Center => Aurora Transportation Center	bus
+15508101	Pace	802		Bus 802: Pace Fox Valley Garage => Aurora Transportation Center	bus
+15508102	Pace	802		Bus 802: Geneva Metra Station => Thompson Rehabilitation Center => Aurora Transportation Center	bus
+15508103	Pace	802		Bus 802: Aurora Transportation Center => Kane County Judicial Center	bus
+15510671	Pace	890	north	Bus 890: Pace Chicago Heights Terminal => UPS Hodgkins Facility #2	bus
+15514521	Pace	356	west	Bus 356: Pace Harvey Transportation Center => DeVry University	bus
+15514629	Pace	361	east	Bus 361: Amazon MDW2 => Pace Harvey Transportation Center	bus
+15533682	Pace	350	east	Bus 350: Pace Harvey Transportation Center => Morton & Willow	bus
+15534212	US:CKC	CKC		Chicago-Kansas City Expressway	road
+15534364	CTA	54	north	Bus 54: 24th Place/Cicero -> Montrose/Cicero	bus
+15550283	CTA	53	north	Bus 53: 31st/Kostner -> Pulaski/Erie	bus
+15550284	CTA	53	south	Bus 53: Pulaski/Erie -> 31st/Kostner	bus
+15550453	CTA	34	north	Bus 34: Carver HS -> 95th/Dan Ryan Red Line Station	bus
+15550454	CTA	34	south	Bus 34: 95th/Dan Ryan Red Line Station -> Carver HS	bus
+15554576	Pace	801	south	Bus 801: Pace Elgin Transportation Center => Geneva Metra Station	bus
+15554669	lpn			African American Heritage Water Trail	canoe
+15557469	CTA	59	west	Bus 59: 60th Street & Stony Island -> Midway Orange Line Station	bus
+15570143	US:IL:Christian	1200E		County Road 1200 East	road
+15570219	US:IL:Christian	1900 N		County Road 1900 North	road
+15575904				Fox Lake Subdivision	railway
+15575905				Elgin Subdivision	railway
+15575906				Southwest Sub District	railway
+15575907				Beverly Sub District	railway
+15575908				Joliet Sub District	railway
+15577595	Pace	905	south	Bus 905: Renaissance Schaumburg Hotel and Convention Center => Pace Northwest Transportation Center	bus
+15582814	lcn			Lakefront - California Avenue	bicycle
+15584970	lcn			Wilson Avenue - DePaul University	bicycle
+15585244	lcn			33rd Street - UIC	bicycle
+15585245	lcn			UIC - DuPaul University	bicycle
+15593260	lcn			Odgen Avenue - Lakefront	bicycle
+15594165	Pace	603	east	Bus 603: Pace Elgin Transportation Center => Rosemont CTA Station	bus
+15594166	Pace	605	east	Bus 605: Pace I-90 & Randall Road Park-n-Ride => Rosemont CTA Station	bus
+15594202	Pace	607	east	Bus 607: Pace I-90 & Randall Road Park-n-Ride => Pace Northwest Transportation Center	bus
+15595268	lcn			Elmwood Park - Lakefront	bicycle
+15608589	lcn			Medical Center - United Center	bicycle
+15608643	lcn			United Center - CTA Blue Line	bicycle
+15610949	lcn			18th Street - Archer Avenue	bicycle
+15614759	Pace	832	west	Bus 832: Herion & Wheeler → Pace Joliet Transit Center	bus
+15618732	lcn			Evanston - Lakefront	bicycle
+15626647	lcn				bicycle
+15628932	lcn				bicycle
+15648413				North Witt Street	road
+15649428	lcn				bicycle
+15654561	CTA	54B	north	Bus 54B: Solo Cup -> Cermak/Kenton	bus
+15681495	CTA	7	west	Bus 7: Sacramento/Polk -> Central/Harrison	bus
+15726620	lcn				bicycle
+15738294		I 39 ALT		Interstate 39 Alternate	detour
+15738325		I 39 Emergency		Interstate 39 Emergency Route	detour
+15742311	CTA	54A	north	Bus 54A: Irving Park Blue Line Station -> Skokie Courthouse	bus
+15752345	lcn			Morton Bike Trail	bicycle
+15752516		I 280 BYP		I 280 Incident Bypass	detour
+15752618		US 67 BYP		US 67 Incident Bypass	detour
+15754113		I 280 BYP		I 280 Incident Bypass	detour
+15754833		I 55 BYP		I 55 Incident Bypass	detour
+15754834		I 72 BYP		I 72 Incident Bypass	detour
+15761631	US:IL:Adams	5		County Road 5	road
+15761703				County Road 1453 East	road
+15787866	lcn			Cenacle Trail	bicycle
+15787867	lcn			Warrenville Bike Paths	bicycle
+15848548				County Road 11	road
+15848549				North County Road 3100 East	road
+15854241	US:IL	967		IL 967	road
+15854331				East Market Street	road
+15854612				Commercial Street	road
+15854613				North Street	road
+15868397				South Hill Street	road
+15875733	lcn	NBT		North Branch Red Trail	bicycle
+15875734	lcn	NBT		North Branch Green Paved Spur	bicycle
+15875735	lcn	NBT		North Branch Purple Paved Spur	bicycle
+15875736	lcn	NBT		North Branch Brown Paved Trail	bicycle
+15875737	lcn	NBT		North Branch Orange Unpaved Trail	mtb
+15875738	lcn	NBT		North Branch Tan Unpaved Trail	mtb
+15875739	lcn	NBT		North Branch Yellow Paved Spur	bicycle
+15875740	lcn	NBT		North Branch Blue Paved Spur (South)	bicycle
+15875741	lcn	NBT		North Branch Green Paved Spur (South)	bicycle
+15875742	lcn	NBT		North Branch Yellow Paved Spur	bicycle
+15876156	lcn	NBT		North Branch Black Paved Spur	bicycle
+15876157	lcn	NBT		North Branch Yellow Unpaved Trail	mtb
+15876158	lcn	NBT		North Branch Brown Unpaved Trail	mtb
+15876159	lcn	NBT		North Branch Black Paved Trail	bicycle
+15876160	lcn	NBT		North Branch Blue Paved (North) Spur	bicycle
+15876161	lcn	NBT		North Branch Blue Paved (Non-FPCC) Trail	bicycle
+15876162		NBT		North Branch Blue Paved (North) Trail	bicycle
+15896370				North Branch Chicago River	canoe
+15910410	lcn	KCT		Klein Creek Trail	bicycle
+15920484	US:IL:Adams	1350E		Country Road 1350 East	road
+15920520	US:IL:Adams	900		County Road 900	road
+15921909				Capline	pipeline
+15953732				C&M Subdivision	railway
+15965644	US:IL:Christian			County Road 2675	road
+15965645	US:IL:Christian			County Highway 2	road
+15979450	rcn			Illinois Prairie Path - Main Stem	bicycle
+15979514	rcn			Illinois Prairie Path - Aurora Branch	bicycle
+15979540	rcn			Illinois Prairie Path - Batavia Spur	bicycle
+15979551	rcn			Illinois Prairie Path - Geneva Spur	bicycle
+15979604	rcn			Illinois Prairie Path - Elgin Branch	bicycle
+15983991	rcn	EBT		East Branch DuPage River Trail	bicycle
+15984169	lcn			Busse Road Trail	bicycle
+15987557	lcn			Deer Grove - Red Trail	bicycle
+15987586	lcn			IL 31 Bike Path	bicycle
+15987587	lcn			Cary Community Bike Trails	bicycle
+15990669	rcn	DRT		DuPage River Trail	bicycle
+15990670	lcn			Black Road Trail Connector	bicycle
+16012494	lcn			Chain O'Lakes Bike Path	bicycle
+16012503	lcn			Fort Hill Trail	bicycle
+16013236	lcn				bicycle
+16020841	lcn				bicycle
+16020842	lcn				bicycle
+16031814	lcn				bicycle
+16031815	lcn				bicycle
+16035294	US:IL:Marion			Jeff Road	road
+16050505				Grand Tram	bus
+16100019	lcn			El Paso Bike Trail	bicycle
+16117582	lcn	Washington		Washington Street	bicycle
+16119969	CTA	55N	east	Bus 55N: 63rd/Narragansett -> Midway Orange Line Station	bus
+16119970	CTA	55A	east	Bus 55A: 65th/Austin -> Midway Orange Line Station	bus
+16124402				Energy Transfer Crude Oil Pipeline	pipeline
+16135338	Greyhound	US0185			bus
+16146452	Pace	352	north	Bus 352: Pace Harvey Transportation Center => 95th/Dan Ryan CTA Station	bus
+16146453	Pace	352	south	Bus 352: 95th/Dan Ryan CTA Station => Pace Harvey Transportation Center	bus
+16175094				Centennial Pipeline	pipeline
+16201482	Pace	Pulse Dempster Line	west	Pulse Dempster Line: Davis CTA Station->O'Hare MMF	bus
+16201483	Pace	Pulse Dempster Line	east	Pulse Dempster Line: O'Hare MMF->Davis CTA Station	bus
+16201552	Pace	250	west	Bus 250: Davis CTA Station->O'Hare MMF	bus
+16203494				NuStar Ammonia System	pipeline
+16214210	Greyhound	0023		"Bus 0023: Columbus, OH => Chicago, IL"	bus
+16214630	Greyhound	0024		"Bus 0024: Chicago, IL => Columbus, OH"	bus
+16214739	Greyhound	0021		"Bus 0021: Columbus, IN => Chicago, IL"	bus
+16248638	Pace	475		Ravinia Festival Direct	bus
+16323134	SMTD	0E		Transfer Center Express	bus
+16323147	SMTD	0E		Transfer Center Express	bus
+16383725	lpn	DWT		Dubuque Water Trail	canoe
+16454598	CTA	55	west	Bus 55: Museum of Science & Industry -> Midway Orange Line Station	bus
+16454599	CTA	55	east	Bus 55: Midway Orange Line Station -> Museum of Science & Industry	bus
+16454755	CTA	N55	west	N55 Garfield Night Bus: Museum of Science & Industry -> 55th/St. Louis	bus
+16454756	CTA	N55	east	N55 Garfield Night Bus: 55th/St. Louis -> Museum of Science & Industry	bus
+16543389	CTA	56	north	Bus 56: Madison/Wabash -> Jeff Park Transit Center	bus
+16549898	CTA	68	south	Bus 68: Park Ridge Metra Station -> Jeff Park Transit Center	bus
+16549900	CTA	88	east	Bus 88: Devon/Canfield -> Jeff Park Transit Center	bus
+16549907	CTA	81W	east	Bus 81W: Cumberland Blue Line Station -> Jeff Park Transit Center	bus
+16611552	CTA	85A	south	85A: Touhy/Ionia -> Jeff Park Transit Center	bus
+16644113	SMTD	422		Cook & Wheeler	tram
+16664605				Chicago Subdivision (Amtrak)	railway
+16703222				Bernice Running Track	railway
+16703223				SC&S Industrial Track	railway
+16703224				Calumet River Industrial Track	railway
+16703226				Pullman Branch	railway
+16703227				Western Avenue Industrial Track	railway
+16703228				Kenwood Line	railway
+16716894	Pace	290	east	Bus 290: Cumberland CTA Station -> Howard CTA Station	bus
+16799624	Metra	MD-N	south	Metra Milwaukee District North: Lake Forest => Chicago	train
+16799625	Metra	MD-N	south	Metra Milwaukee District North: Deerfield => Chicago	train
+16799626	Metra	MD-N	south	Metra Milwaukee District North: Grayslake => Chicago	train
+16799627	Metra	MD-N	south	Metra Milwaukee District North: Grayslake => Chicago	train
+16799628	Metra	MD-N	south	Metra Milwaukee District North: Deerfield => Chicago	train
+16799629	Metra	MD-N	south	Metra Milwaukee District North: Fox Lake => Chicago	train
+16799630	Metra	MD-N	south	Metra Milwaukee District North: Lake Forest => Chicago	train
+16799631	Metra	MD-N	south	Metra Milwaukee District North: Fox Lake => Chicago	train
+16799632	Metra	MD-N	south	Metra Milwaukee District North: Fox Lake => Chicago	train
+16799633	Metra	MD-N	south	Metra Milwaukee District North: Fox Lake => Chicago	train
+16812767	CTA	57	south	Bus 57: Grand/Latrobe -> Cicero/Harrison (Blue Line)	bus
+16834218				The Baseline	piste
+16883839	US:IL:DeKalb	4		DeKalb County Highway 4	road
+16884620	US:IL:LaSalle	32		LaSalle County Highway 32	road
+16884621	US:IL:LaSalle	3		LaSalle County Highway 3	road
+16884622	US:IL:LaSalle	31		LaSalle County Highway 31	road
+16884625	US:IL:LaSalle	25		LaSalle County Highway 25	road
+16898513	US:IL:DeKalb	26		DeKalb County Highway 26	road
+16898514	US:IL:DeKalb	18		DeKalb County Highway 18	road
+16898515	US:IL:DeKalb	13		DeKalb County Highway 13	road
+16898516	US:IL:DeKalb	21		DeKalb County Highway 21	road
+16898517	US:IL:DeKalb	32		DeKalb County Highway 32	road
+16898518	US:IL:DeKalb	29		DeKalb County Highway 29	road
+16898519	US:IL:DeKalb	5		DeKalb County Highway 5	road
+16898520	US:IL:DeKalb	17		DeKalb County Highway 17	road
+16898521	US:IL:DeKalb	14		DeKalb County Highway 14	road
+16898522	US:IL:DeKalb	31		DeKalb County Highway 31	road
+16898523	US:IL:DeKalb	3		DeKalb County Highway 3	road
+16898524	US:IL:DeKalb	22		DeKalb County Highway 22	road
+16898525	US:IL:DeKalb	15		DeKalb County Highway 15	road
+16898526	US:IL:DeKalb	34		DeKalb County Highway 34	road
+16898527	US:IL:DeKalb	27		DeKalb County Highway 27	road
+16898528	US:IL:DeKalb	1		DeKalb County Highway 1	road
+16898529	US:IL:DeKalb	12		DeKalb County Highway 12	road
+16898530	US:IL:DeKalb	9		DeKalb County Highway 9	road
+16898531	US:IL:DeKalb	30		DeKalb County Highway 30	road
+16898532	US:IL:DeKalb	23		DeKalb County Highway 23	road
+16898533	US:IL:DeKalb	7		DeKalb County Highway 7	road
+16935670				Old School Yellow Loop	piste
+16935671				Des Plaines River Trail - Saint Marys Rd to Old Rockland Rd	piste
+16935672				Des Plaines River Trail - Saint Marys Rd to IL Rte 60 Underpass	piste
+16935890				Lakewood Forest Preserve Trail	piste
+16935891				Fort Hill Trail/Ray Lake Blue Loop	piste
+17057935				West Maple Street	road
+17058111				West Old Vine Street	road
+17058112				Fulton County Road 21	road
+17058113				West Vine Street	road
+17058114				Fulton North County Road 22	road
+17058363				Fulton County Road 1625	road
+17058365				Fulton County Road 19	road
+17081684	CTA	60	west	Bus 60: Harbor Point -> Cicero/24th Place	bus
+17081685	CTA	N60	west	Bus N60: Washington/State -> 54th/Cermak Pink Line Station	bus
+17081698	CTA	92	east	Bus 92: Jeff Park Transit Center -> Berwyn Red Line Station	bus
+17128578	CTA	85	south	Bus 85: Bryn Mawr/Elston -> Harrison/Central	bus
+17130930	CTA	91	north	Bus 91: Roosevelt/Austin -> Jeff Park Transit Center	bus
+17131184	CTA	81	west	Bus 81: Wilson/Marine -> Jeff Park Transit Center	bus
+17131360	CTA	N81	west	Bus N81: Wilson/Marine -> Jeff Park Transit Center	bus
+17146466	Pace	565		Bus 565: Route 21 & Great America (Employee Entrance) => Waukegan Metra Station	bus
+17146467	Pace	565		Bus 565: Route 21 & Great America (Employee Entrance) => Sheridan & Washington	bus
+17146468	Pace	565		Bus 565: College of Lake County => Sheridan & Washington	bus
+17146469	Pace	565		Bus 565: College of Lake County => Waukegan Metra Station	bus
+17146619	Pace	565		Bus 565: Waukegan Metra Station => Grand & Six Flags/Lawson	bus
+17146620	Pace	565		Bus 565: Waukegan Metra Station => Route 21 & Great America (Employee Entrance)	bus
+17160544	lcn			Mudline Trail	bicycle
+17189684	CTA	62	west	Bus 62: State/Kinzie -> Archer/Harlem	bus
+17189705	CTA	N62	west	Bus N62: State/Kinzie -> Midway Orange Line Station	bus
+17299297	CTA	63	east	Bus 63: Midway Orange Line Station -> 63rd/Stony Island	bus
+17306343	US:IL:Livingston	1			road
+17306344	US:IL:Livingston	2			road
+17306345	US:IL:Livingston	3			road
+17306346	US:IL:Livingston	6			road
+17313387	CTA	N63	east	Bus N63: Midway Orange Line Station -> 63rd/Stony Island	bus
+17313388	CTA	N63	west	Bus N63: 63rd/Stony Island -> Midway Orange Line Station	bus
+17331447	CTA	65	west	Bus 65: Navy Pier -> Grand/Nordica	bus
+17331513	CTA	63	west	Bus 63: 63rd/Stony Island -> 63rd/Kedzie	bus
+17331514	CTA	63	east	Bus 63: 63rd/Kedzie -> 63rd/Stony Island	bus
+17331515	CTA	63	east	Bus 63: Midway Orange Line Station -> 63rd Street Beach	bus
+17331516	CTA	63	west	Bus 63: 63rd Street Beach -> Midway Orange Line Station	bus
+17339029	Pace	356	north	Bus 356: Homewood Metra Station -> Pace Harvey Transportation Center	bus
+17339030	Pace	356	south	Bus 356: Pace Harvey Transportation Center -> Homewood Metra Station	bus
+17339583	CTA	108	north	Bus 108: Carver HS -> 95th/Dan Ryan Red Line Station	bus
+17339584	CTA	108	south	Bus 108: 95th/Dan Ryan Red Line Station -> Carver HS	bus
+17376642	CTA	66	east	Bus 66: Chicago/Austin -> Navy Pier	bus
+17378669	CTA	N66	east	Bus N66: Chicago/Austin -> State/Washington	bus
+17378988	CTA	62H	west	Bus 62H: Midway Orange Line Station -> 63rd/Archer	bus
+17379034	CTA	63W	east	Bus 63W: 63rd/Archer -> Midway Orange Line Station	bus
+17379038	CTA	165	east	Bus 165: 65th/Harlem -> Midway Orange Line Station	bus
+17380976	lwn			Oak View Trail	hiking
+17380978	lwn			Prairie View Trail	hiking
+17380979	lwn			Fen View Trail	hiking
+17380980	lwn			Moraine View Trail	hiking
+17380981	lwn			Kettle View Trail	hiking
+17380982	lwn			VA Sterne's Woods Trail	hiking
+17408347	Pace	349	south	Bus 349: 79th/Western -> Harvey Transportation Center	bus
+17411095	Pace	307	north	Bus 307: Bridgeview Transit Center -> Grand/Nordica	bus
+17411109	CTA	67	east	Bus 67: Ford City -> 67th/South Shore	bus
+17429711	lcn			Orange Loop	mtb
+17429712	lcn			Yellow East Trail	mtb
+17440802	lwn			Lone Rock Trail	hiking
+17452671	CTA	67	east	Bus 67: Ford City -> LaRabida Hospital-> 67th/South Shore	bus
+17485355	Pace	563	south	Bus 563: Sheridan & Washington → Rosalind Franklin University Clinics	bus
+17491483				Aurora Subdivision	railway
+17494072				Dubuque Subdivision	railway
+17494111				Rockford Subdivision	railway
+17497692				Illinois and Midland Railroad	railway
+17497736				Peoria Subdivision	railway
+17497925				Ottawa Branch	railway
+17498977	CTA	70	west	Bus 70: Walton/Dearborn -> Division/Austin	bus
+17504808				Chicago Subdivision	railway
+17505262				Mount Morris Branch	railway
+17513399				Conners Road	road
+17516755	lcn	Riverwalk		Chicago Riverwalk	bicycle
+17519678	GPTC	R6		Lakeshore North	bus
+17527782	lcn			Lake Shore East	bicycle
+17527976	rwn	LT		Lakefront Trail	foot
+17547209	Amtrak	Borealis		Amtrak Borealis: Chicago => St. Paul	train
+17547210	Amtrak	Borealis		Amtrak Borealis: St. Paul => Chicago	train
+17558839	CTA	72	west	Bus 72: North/Clark -> North/Harlem	bus
+17558943				Belmont	bicycle
+17612929	CTA	72	east	Bus 72: North/Harlem -> North Avenue Beach	bus
+17612930	CTA	72	west	Bus 72: North Avenue Beach -> North/Harlem	bus
+17612938	CTA	73	west	Bus 73: North/Clark -> Grand/Latrobe	bus
+17612942	CTA	156	north	Bus 156: Union Station -> Belmont/Halsted	bus
+17612950	CTA	124	west	Bus 124: Navy Pier -> Union Station	bus
+17612995	CTA	172	south	Bus 172: Hyde Park & East End -> 60th/University	bus
+17612996	CTA	171	south	Bus 171: 54th/ South Shore -> 60th/University	bus
+17624877	lcn	Randolph		Randolph Street	bicycle
+17624904	lcn	Howard		Howard Street	bicycle
+17624905	lcn	Caldwell		Caldwell Avenue	bicycle
+17624906	lcn	Oakton		Oakton Street	bicycle
+17655244	CTA	65	west	Bus 65: Navy Pier -> Grand/Latrobe	bus
+17655245	CTA	65	east	Bus 65: Grand/Latrobe -> Navy Pier	bus
+17655346	CTA	72	east	Bus 72: North/Narragansett -> North/Clark	bus
+17655347	CTA	72	west	Bus 72: North/Clark -> North/Narragansett	bus
+17666118	CTA	47	west	Bus 47: 47th/Lake Park -> Kedzie Orange Line Station	bus
+17666119	CTA	47	east	Bus 47: Kedzie Orange Line Station -> 47th/Lake Park	bus
+17666132				1st Street	road
+17666133				Washington Street	road
+17666134				Mill Street	road
+17666135				Beltrees Road	road
+17697046	lcn			West Augusta Cycleway	bicycle
+17713836		6B		Enbridge Lakehead System Line 78	pipeline
+17775651	CTA	130	west	Bus 130: Museum Campus -> Ogilvie Transit Center	bus
+17784102	CTA	120	south	Bus 120: Fairbanks/Huron -> Ogilvie Transit Center	bus
+17784103	CTA	120	north	Bus 120: Ogilvie Transit Center -> McClurg/Huron	bus
+17784104	CTA	120	south	Bus 120: McClurg/Huron -> Ogilvie Transit Center	bus
+17784108	CTA	121	north	Bus 121: Union Station -> McClurg/Huron	bus
+17784109	CTA	121	north	Bus 121: Union Station -> Fairbanks/Chicago	bus
+17784110	CTA	121	south	Bus 121: Fairbanks/Huron -> Union Station	bus
+17793089	US:NHT			Mormon Pioneer National Historic Trail Auto Tour Route	road
+17793091	US:NHT			Mormon Pioneer National Historic Trail Auto Tour Route	road
+17798454	US:IL:County	6		County Highway 6	road
+17798455				Brooklyn Road	road
+17805862				Thorpe Road	road
+17805881				South Meridian Road	road
+17808989				Melugins Grove Road	road
+17810404	Pace	505		Bus 505: West Joliet Loop (counterclockwise)	bus
+17811775	CTA	74	east	Bus 74: Grand/Nordica -> Fullerton/Halsted	bus
+17811784	Pace	213	south	Bus 213: Highland Park Metra Station -> Howard CTA Station	bus
+17811800	CTA	63W	west	Bus 63W: Midway Orange Line Station -> 65th/Harlem	bus
+17811801	CTA	63W	east	Bus 63W: 65th/Harlem -> Midway Orange Line Station	bus
+17814567				East Steward Road	road
+17853621				NICTD South Shore Line	railway
+17865961		CWT		Chicago Water Taxi - Michigan Avenue to Chinatown	ferry
+17881593	CTA	75	east	Bus 75: 79th/Western -> 75th/Lakefront	bus
+17890959				Frank Lloyd Wright Trail	road
+17905868	CTA	76	west	Bus 76: Nature Museum -> Diversey/Harlem	bus
+17910923		CWT		Chicago Water Taxi- Chinatown to Ogilvie/Union	ferry
+17910924		CWT		Chicago Water Taxi - Michigan Avenue to Ogilvie/Union	ferry
+17914990				River Trail Nature Center Trails	foot
+17923318	lcn	DPRT		Des Plaines River Orange Trail (North)	bicycle
+17923319	lcn	DPRT		Des Plaines River Trail Black Unpaved Spur (North)	bicycle
+17923320	lcn	DPRT		Des Plaines River Trail Red Unpaved Spur (North)	bicycle
+17923321	lcn	DPRT		Des Plaines River Trail Tan Unpaved Spur (North)	bicycle
+17923322	lcn	DPRT		Des Plaines River Trail Yellow Unpaved	bicycle
+17923347	lcn	DPRT		Des Plaines River Trail Green Unpaved Spur (North)	bicycle
+17923348	lcn	DPRT		Des Plaines River Trail  Purple Unpaved (North)	bicycle
+17923381	lcn	DPRT		Des Plaines River Yellow Paved Trail	bicycle
+17923382	lcn	DPRT		Des Plaines River Trail Yellow Paved (Non-FPCC)	bicycle
+17923383	lcn	DPRT		Des Plaines River Trail Yellow Paved (Non-FPCC)	bicycle
+17923475	lcn	DPRT		Des Plaines River Trail Yellow Unpaved	bicycle
+17923476	lcn	DPRT		Des Plaines River Trail Purple Unpaved Spur (East)	bicycle
+17923477	lcn	DPRT		Des Plaines River Trail Brown Unpaved Spur	bicycle
+17923478	lcn	DPRT		Des Plaines River Trail Brown Paved Spur (Non-FPCC)	bicycle
+17923479	lcn	DPRT		Des Plaines River Trail Tan Unpaved Spur	bicycle
+17923480	lcn	DPRT		Des Plaines River Trail Green Unpaved Spur (Central)	bicycle
+17923481	lcn	DPRT		Des Plaines River Trail Red Unpaved Spur (South)	bicycle
+17923482	lcn	DPRT		Des Plaines River Trail Purple Unpaved Spur (South)	bicycle
+17923483	lcn	DPRT		Des Plaines River Trail Orange Unpaved Spur (South)	bicycle
+17923484	lcn	DPRT		Des Plaines River Trail Blue Paved	bicycle
+17923485	lcn	DPRT		Des Plaines River Trail Brown Unpaved	bicycle
+17923486	lcn	DPRT		Des Plaines River Trail Blue Unpaved Spur	bicycle
+17923487	lcn	DPRT		Des Plaines River Trail Tan Unpaved Spur (South)	bicycle
+17923488	lcn	DPRT		Des Plaines River Trail Black Unpaved Spur (South)	bicycle
+17923489	lcn	DPRT		Des Plaines River Trail Green Unpaved Spur (South)	bicycle
+17923505	lwn	TMNH		Trailside Museum of Natural History Trails	hiking
+17930694				Des Plaines River	canoe
+17931104	CTA	126	east	Bus 126: Jackson/Austin -> Congress Plaza via IMD	bus
+17931105	CTA	126	east	Bus 126: Jackson/Austin -> Congress Plaza	bus
+17931106	CTA	126	west	Bus 126: Congress Plaza -> Jackson/Austin via IMD	bus
+17938304	CTA	N77	west	Bus N77: Belmont/Halsted -> Belmont/Octavia	bus
+17938305	CTA	77	west	Bus 77: Diversey/Lake Shore -> Belmont/Cumberland	bus
+17945821		Lake Route		Shoreline Water Taxis - Buckingham Fountain/Museum Campus to Navy Pier	ferry
+17945822		Lake Route		Shoreline Water Taxis - Navy Pier to Buckingham Fountain / Museum Campus	ferry
+17949258		River Route		Shoreline Water Taxis - Michigan Avenue to Navy Pier	ferry
+17949259		River Route		Shoreline Water Taxis - Michigan Avenue to Willis Tower / Union Station	ferry
+17949260		River Route		Shoreline Water Taxis - Navy Pier to Michigan Avenue / Willis Tower	ferry
+17952975	CTA	78	west	Bus 78: Montrose Beach -> Harlem/Forest Preserve	bus
+17952976	CTA	78	west	Bus 78: Montrose & Marine -> Harlem/Forest Preserve	bus
+17952977	CTA	78	east	Bus 78: Harlem/Forest Preserve -> Montrose Beach	bus
+17974694				County Road 1920	road
+17974727				County Road 2925 North	road
+17988092				North Waukegan Road	road
+18023047	CTA	N79	east	Bus N79: 79th/Western -> 79th/South Shore	bus
+18023048	CTA	79	west	Bus 79: 79th/South Shore -> Ford City	bus
+18023053	CTA	80	west	Bus 80: Irving Park/Broadway -> Irving Park/Cumberland	bus
+18035887					bus
+18039013					bus
+18052330	lwn	CRW		Riverwalk	foot
+18063981	lcn			Waubonsie Creek Trail	bicycle
+18071233				Kenwood Branch	historic
+18071636				Chicago Junction Railway	historic
+18117018	lcn				bicycle
+18129481	lcn			Logan Boulavard	bicycle
+18129482	lcn			Rockwell Street	bicycle
+18137078	lcn			The Garden Dirt Jumps	mtb
+18139768	lcn			Roscoe	bicycle
+18141832	lwn			Horner Park Nature Trail	hiking
+18141833	lcn			Horner Park	bicycle
+18146994	lwn			River Bank Neighbors Trail	hiking
+18153889	lcn	Franklin Boulevard		Franklin Boulevard	bicycle
+18164186				Mine Avenue	road
+18178811	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
+18185499	US:IL:Boone	A19			road
+18185514	US:IL:Boone	T40			road
+18185515	US:IL:Boone	A64			road
+18202282	CTA	80	east	Bus 80: Irving Park/Harlem -> Irving Park/Broadway	bus
+18202283	CTA	80	west	Bus 80: Irving Park/Broadway -> Irving Park/Harlem	bus
+18202858	CTA	79	east	Bus 79: Solo Cup -> 79th/South Shore	bus
+18202859	CTA	79	west	Bus 79: 79th/South Shore -> Solo Cup	bus
+18203318	CTA	79	east	Bus 79: 79th/Western -> 79th/South Shore	bus
+18203319	CTA	79	west	Bus 79: 79th/South Shore -> 79th/Western	bus
+18204248	Pace	308	east	Bus 308: Medical Center -> Forest Park CTA Station	bus
+18223904	CTA	82	north	Bus 82: 31st/Komensky -> Lincolnwood Town Center	bus
+18223981	CTA	82	south	Bus 82: Devon/Kedzie -> 31st/Komensky	bus
+18223982	CTA	82	north	Bus 82: 31st/Komensky -> Devon/Kedzie	bus
+18243700	CTA	84	west	Bus 84: Bryn Mawr Red Line Station -> Caldwell & Central	bus
+18244035	CTA	125	south	Bus 125: Chestnut & MVDR -> Desplaines & Harrison	bus
+18270271				West Jackson Street	road
+18273771				West Divernon Road	road
+18295438	CTA	86	north	Bus 86: Ridgeland Green Line Station -> Devon/Milwaukee	bus
+18295571	CTA	87	east	Bus 87: 87th/Cicero -> 91st/Commercial	bus
+18295572	CTA	N87	east	Bus N87: 87th/Western -> 87th/Dan Ryan	bus
+18298052	lwn			Yellow Loop	hiking
+18298053	lwn			Green Trail	hiking
+18298054	lwn			Brown Trail	hiking
+18298055	lwn			Green Unpaved Trail	hiking
+18298056	lwn			Purple Trail	hiking
+18298057	lwn			Black Trail	hiking
+18301770	lwn			Blue Trail	hiking
+18301771	lwn			Red South Single Track	hiking
+18301772	lwn			Blue South Single Track	hiking
+18301773	lwn			Tan Trail	hiking
+18301774	lwn			Orange Unpaved Loop	hiking
+18301775	lwn			Yellow West Single Track	hiking
+18301776	lwn			Black Unpaved Trail	hiking
+18301777	lwn			Tan Trail	hiking
+18301778	lwn			Yellow East Trail	hiking
+18301779	lwn			Purple Single Track Loop	hiking
+18301780	lwn			Brown East Trail	hiking
+18301781	lwn			Brown West Trail	hiking
+18301782	lwn			Blue North Trail	hiking
+18301918	lwn			Main Trail	hiking
+18301919	lwn			Tear-Thumb Trail	hiking
+18302540	lwn			Black Trail	hiking
+18302541	lwn			Yellow Trail Loop	hiking
+18304073	lcn	MMT			bicycle
+18304074	lcn	MMT		Miller Meadow Blue Paved Loop	bicycle
+18304159	lcn	MMT		Miller Meadow Trail Brown Paved Spur (North)	bicycle
+18312072	lcn			Galena River Trail	bicycle
+18322804	CTA	90	south	Bus 90: Harlem/Higgins-> Harlem/Lake	bus
+18322830	Pace	305	east	Bus 305: Forest Park CTA Blue Line Station -> Cicero CTA Blue Line Station	bus
+18322832	Pace	316	north	Bus 316: Morton College -> Cicero CTA Blue Line Station	bus
+18322858	Pace	395	east	Bus 395: UPS Hodgkins -> 95th/Dan Ryan CTA Station	bus
+18336656	CTA	93	north	Bus 93: Logan Square Blue Line Station -> Davis Purple Line Station	bus
+18372918	CTA	96	west	Bus 96: Morse Red Line Station -> Devon/Kedzie	bus
+18392956	US:IL:McLean	29		McLean County Highway 29	road
+18419795	US:IL:McLean	6		McLean County Highway 6	road
+18419845	US:IL:McLean	33		McLean County Highway 33	road
+18420234	US:IL:McLean	23		McLean County Highway 23	road
+18421438	US:IL:McLean	19		McLean County Highway 19	road
+18422948	US:IL:McLean	13		McLean County Highway 13	road
+18433814	US:IL:Marion	2250		County Road 2250 East	road
+18434171				Kinlou Road	road
+18434172				County Road 2050	road
+18443142	CTA	97	east	Bus 97: Old Orchard Mall -> Howard Red Line Station	bus
+18443648	CTA	103	west	Bus 103: 95th/Dan Ryan Red Line Station -> 104th/Pulaski	bus
+18458643	rwn	R2R-alt		Old River to River - Alternate Segment 6 - Giant City to Alto Pass	hiking
+18461348		LT		Lakefront Trail	running
+18464691	US:IL:McLean	8		McLean County Highway 8	road
+18464961	CTA	111	south	Bus 111: 95th/Dan Ryan Red Line Station -> 117th/Marshfield	bus
+18464993	CTA	115	south	Bus 115: 95th/Dan Ryan Red Line Station -> 117th/Marshfield	bus
+18466866	CTA	112	east	Bus 112: 111th/Pulaski -> 95th/Dan Ryan Red Line Station	bus
+18497694	US:IL:Bureau	10			road
+18497695	US:IL:Bureau	34			road
+18497696	US:IL:Bureau	9			road
+18497697	US:IL:Bureau	8			road
+18497698	US:IL:Bureau	22			road
+18497699	US:IL:Bureau	2			road
+18497700	US:IL:Bureau	11			road
+18497701	US:IL:Bureau	12			road
+18497702	US:IL:Bureau	33			road
+18497703	US:IL:Bureau	7			road
+18497704	US:IL:Bureau	19			road
+18497705	US:IL:Bureau	5			road
+18497706	US:IL:Bureau	27			road
+18497707	US:IL:Bureau	13			road
+18497708	US:IL:Bureau	14			road
+18497709	US:IL:Bureau	26			road
+18497710	US:IL:Bureau	24			road
+18497711	US:IL:Bureau	23			road
+18497712	US:IL:Bureau	16			road
+18497713	US:IL:Bureau	4			road
+18497714	US:IL:County	31			road
+18497715	US:IL:Bureau	17			road
+18502513	C&E			C&E Lakewood Branch	railway
+18503935	CTA	134	north	Bus 134: Franklin/Jackson -> Sheridan/Belmont	bus
+18503974	CTA	135	north	Bus 135: Franklin/Jackson -> Wilson/Clarendon	bus
+18504006	CTA	136	north	Bus 136: Franklin/Jackson -> Devon/Sheridan	bus
+18504254	CTA	143	north	Bus 143: Congress Plaza -> Sheridan & Belmont	bus
+18508106	CTA	146	south	Bus 146: Museum Campus -> Berwyn Red Line Station	bus
+18508329	CTA	147	north	Bus 147: Congress Plaza -> Howard Red Line Station	bus
+18508360	CTA	148	south	Bus 148: Foster/Marine -> State/Harrison	bus
+18539420	CTA	152	west	Bus 152: Lake Shore/Waveland -> Addison/Cumberland	bus
+18540540	CTA	155	west	Bus 155: Morse Red Line Station -> Devon/Kedzie	bus
+18544708	CTA	201	north	Bus 201: Howard Red Line Station -> Old Orchard Mall	bus
+18571670				Little Monza	bicycle
+18571671				Silo Hill	bicycle
+18571672				Scarab's Revenge	bicycle
+18571673				Serpentine	bicycle
+18576350				Fawell Dam Portage	portage
+18634588	US:IL:Grundy	C16		Grundy County Highway C16	road
+18649225				County Road 970 North	road
+18846885	Motor Safari			Motor Safari - East	tram
+18846886	Motor Safari			Motor Safari - South Gate	tram
+18846887	Motor Safari			Motor Safari - West	tram
+18846888	Motor Safari			Motor Safari - North Gate	tram
+18938085	MTD	24S		MTD 24S Link Weekday - Daytime	bus
+18942166	lwn	IRBT		Illinois River Bluff Trail	hiking
+18943799	MTD	24N		MTD 24N Link Weekday - Daytime	bus
+18954415	lwn			Pimiteoui Trail	hiking
+18963677	MTD	180A		MTD 180A Lime Weekday - Night	bus
+18970794	MTD	110N	north	MTD 110N Ruby Weekday - Evening	bus
+18974068	MTD	110S		MTD 110S Ruby Weekday - Evening	bus
+18974355	MTD	180B	anticlockwise	MTD 180B Lime Weekday - Night	bus
+18976998	MTD	5W		MTD 5W Greenhopper Weekday - Daytime	bus
+18982224	MTD	22N		MTD 22N Illini Limited Weekday - Daytime	bus
+18995585	MTD	5E		MTD 5E Green Hopper Weekday - Daytime	bus
+19051497	Pace	606	east	Bus 606: Pace Northwest Transportation Center => Rosemont CTA Station	bus
+19075876				National Road (IL)	road
+19087219				Volo Bog Interpretive Trail	foot
+19087220				Tamarack View Trail	foot
+19143672	Pace	697	south	Bus 697: Harper College => Pace Northwest Transportation Center	bus
+19161752	US:IL:LaSalle	1			road
+19161753	US:IL:LaSalle	41			road
+19170917	Pace	208	east	Bus 208: Pace Northwest Transportation Center => Davis CTA Station	bus
+19209322				Dark Sky Trail	hiking
+19229807	US:IL:Cook	CR B59		Cook County Route B59	road
+19251167	lcn			Buena Avenue Access to Lakefront Trail	bicycle
+19251181				Lakefront Trail Conector	bicycle
+19251220	lcn			Berwyn Avenue Access to Lakefront Trail	bicycle
+19251224	lcn			Argyle Street Access to Lakefront Trail	bicycle
+19251226				Lakefront Trail Conector	bicycle
+19251237	lcn			Lawrence Avenue Access to Lakefront Trail Conector	bicycle
+19251243	lcn			Wilson Avenue Access to Lakefront Trail Conector	bicycle
+19251251	lcn			Montrose Avenue Access to Lakefront Trail	bicycle
+19251351	lcn			Addison Street Access to Lakefront Trail	bicycle
+19251352	lcn			Roscoe Avenue Access to Lakefront Trail	bicycle
+19251445	lcn	LPFC		Lincoln Park Fitness Course	bicycle
+19251447	lcn			Fullerton Avenue Access to Lakefront Trail	bicycle
+19252883				Lakefront Trail Connector	bicycle
+19400145	lcn			Roosevelt Avenue Access to Lakefront Trail	bicycle
+19400154	lcn			18th Street Access to Lakefront Trail	bicycle
+19400160	lcn			35th Street Access to Lakefront Trail	bicycle
+19401578	lcn			41st Street Access to Lakefront Trail	bicycle
+19401579	lcn			43rd Street Access to Lakefront Trail	bicycle
+19401580	lcn			47th Drive Access to Lakefront Trail	bicycle
+19413566	lcn				bicycle
+19423051	lwn			Park Path North Loop	foot
+19423052	lwn			Park Path South Loop	foot
+19447720	Pace	563	south	Bus 563: Sheridan & Washington → Green Bay & Saratoga	bus
+19447721	Pace	563	north	Bus 563: Green Bay & Saratoga → Sheridan & Washington	bus
+19480347		GAR-T		Great American Rail-Trail (IL - Cook County)	
+19480567		GAR-T		Great American Rail-Trail (IL - Will County)	
+19481261	rcn	GIT		Grand Illinois Trail - McHenry to Chicago	bicycle
+19481262	rcn	GIT		Grand Illinois Trail - McHenry to Maywood	bicycle
+19481263	rcn	GIT		Grand Illinois Trail - Rock Cut State Park to McHenry	bicycle
+19481264	rcn	GIT		Grand Illinois Trail - Lake Le-Aqua-Na State Park to Rock Cut State Park	bicycle
+19481265	rcn	GIT		Grand Illinois Trail - Mississippi Palisades State Park to Lake Le-Aqua-Na State Park	bicycle
+19481266	rcn	GIT		Grand Illinois Trail - East Moline to Mississippi Palisades State Park	bicycle
+19481267	rcn	GIT		Grand Illinois Trail - Bureau to East Moline	bicycle
+19481268	rcn	GIT		Grand Illinois Trail - Joliet to Bureau	bicycle
+19481269	rcn	GIT		Grand Illinois Trail - Lansing to Joliet	bicycle
+19481270	rcn	GIT		Grand Illinois Trail - Maywood to Lansing	bicycle
+19481861		GAR-T		Great American Rail-Trail (IL - Grundy County)	
+19481865		GAR-T		Great American Rail-Trail (IL - LaSalle County)	
+19481868		GAR-T		Great American Rail-Trail (IL - Bureau County)	
+19481872		GAR-T		Great American Rail-Trail (IL - Henry County)	
+19481891	lcn			Armstrong Avenue Sidepath	bicycle
+19481892	lcn			Beacon Harbor Parkway Sidepath	bicycle
+19481893	lcn			7th Street Sidepath	bicycle
+19481894	lcn			21st Avenue Sidepath	bicycle
+19481895	lcn			Archer Drive Sidepath	bicycle
+19481896	lcn			30th Avenue Sidepath	bicycle
+19481897	lcn			Crosstown Avenue Sidepath	bicycle
+19481898		GAR-T		Great American Rail-Trail (IL - Rock Island County)	
+19482158		GAR-T		Great American Rail-Trail (IA - Scott County)	
+19542430	TTB	T1-T5		Terminal Transfer Bus	bus
+19542431	TTB	T5-T1		Terminal Transfer Bus	bus
+19542432	TTB	T3G-T5		Terminal Transfer Bus	bus
+19542433	TTB	T5-T3G		Terminal Transfer Bus	bus
+19542434	TTB	T3K-T5		Terminal Transfer Bus	bus
+19542435	TTB	T5-T3K		Terminal Transfer Bus	bus
+19563120	MTD	20C		MTD 20C Red Saturday - Day	bus
+19573971	Pace	270	south	Bus 270: Glenbrook Hospital -> Jeff Park Transit Center	bus
+19607152	Pace	421		Bus 421: Northfield Plaza -> Linden CTA Station	bus
+19629967	Pace	530	west	Bus 530: Naperville Metra Station → Nelson & Constitution	bus
+19629984	Pace	530	east	Bus 530: Nelson & Constitution → Commons Drive → Naperville Metra Station	bus
+19630836	Pace	290	east	Bus 290: Touhy & Central -> Howard CTA Station F & T Trips	bus
+19630837	Pace	290	west	290: Howard CTA Station -> Touhy/Milwaukee	bus
+19630838	Pace	530	west	Bus 530: Naperville Metra Station → Plum Street → Constitution House → Nelson & Constitution	bus
+19630839	Pace	530	west	Bus 530: Naperville Metra Station → Plum Street → Nelson & Constitution	bus
+19630840	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Plum Street → Constitution House → Nelson & Constitution	bus
+19630841	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Plum Street → Nelson & Constitution	bus
+19630842	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Constitution House → Nelson & Constitution	bus
+19630843	Pace	530	west	Bus 530: Naperville Metra Station → Constitution House → Nelson & Constitution	bus
+19630844	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Nelson & Constitution	bus
+19638776	Pace	290	west	290: Howard CTA Station -> Touhy/Overhill	bus
+19638777	Pace	290	east	Bus 290: Touhy/Overhill -> Howard CTA Station	bus
+19638857	Pace	290	west	290: Howard CTA Station -> Park Ridge Metra Station	bus
+19638858	Pace	290	east	Bus 290: Park Ridge Metra Station -> Howard CTA Station	bus
+19639051	Pace	290	west	290: Howard CTA Station -> Touhy/Central F Trips	bus
+19639052	Pace	290	east	Bus 290: Touhy & Central -> Howard CTA Station F Trips	bus
+19639053	Pace	290	west	290: Howard CTA Station -> Touhy/Central F & T Trips	bus
+19645467	RVMMTD	12		Kennedy Drive/Christine Drive/Bourbonnais	bus
+19645468	RVMMTD	14		Mulberry/Eagle/Station /Kankakee High School	bus
+19656204				Fox Water Trail	canoe
+19662854	Pace	223-E	east	Bus 223-E: Tower/Mark => Rosemont CTA Station	bus
+19662855	Pace	223-W	east	Bus 223-W: Tower/Mark => Rosemont CTA Station	bus
+19662856	Pace	223-X	east	Bus 223-X: Tower/Mark => Rosemont CTA Station	bus
+19665830	Pace	215	south	Bus 215: Old Orchard Mall -> Howard CTA Station	bus
+19680087	Pace	270	north	Bus 270: Jeff Park Transit Center -> Golf Mill Mall	bus
+19680088	Pace	270	south	Bus 270: Golf Mill Mall -> Jeff Park Transit Center	bus
+19680103	Pace	314	north	Bus 314: Morton College -> Lake/Cuyler	bus
+19739978				55th Street Access to Lakefront Trail	bicycle
+19739979	lcn			Marquette Road Access to Lakefront Trail	bicycle
+19742303	lcn			51th Street Access to Lakefront Trail	bicycle
+19753540	Pace	315	north	Bus 315: Morton College -> Lake/Austin	bus
+19759244				270N	road
+19763828	Pace	311	north	Bus 311: 47th/Lawndale -> North/Narragansett	bus
+19776477				County Road 2	road
+19776478				400N	road
+19784211	Pace	353	north	Bus 353: River Oaks -> 95th Dan/Ryan CTA Station	bus
+19784212	Pace	353	north	Bus 353: Pace Homewood Park & Ride -> 95th Dan/Ryan CTA Station	bus
+19795377				300N	road
+19810782	Pace	208	west	Bus 208: Davis CTA Station => Pace Northwest Transportation Center	bus
+19810783	Pace	208	east	Bus 208: Pace Northwest Transportation Center => Davis CTA Station	bus
+19810784	Pace	208	east	Bus 208: Pace Northwest Transportation Center => Davis CTA Station	bus
+19812878	Pace	209	south	Bus 209: Des Plaines Metra Station -> Cumberland CTA Station	bus
+19815261	Pace	209	north	Bus 209: Cumberland CTA Station -> Des Plaines Metra Station B Trips	bus
+19815262	Pace	209	south	Bus 209: Des Plaines Metra Station -> Cumberland CTA Station B Trips	bus
+19819439	Pace	210		Lincoln Avenue	bus
+19819440	Pace	210		Lincoln Avenue	bus
+19819443	Pace	210		Lincoln Avenue	bus
+19824494	Pace	213	north	Bus 213: Howard CTA Station -> Winnetka Public Library	bus
+19824495	Pace	213	north	Bus 213: Howard CTA Station -> Winnetka Public Library (AM School Trips)	bus
+19824497	Pace	213	south	Bus 213: Winnetka Public Library -> Howard CTA Station (PM School Trips)	bus
+19824916	Pace	221	south	Bus 221: Cumberland Metra Station => Rosemont CTA Station	bus
+19824918	Pace	221	north	Bus 221: Rosemont CTA Station => Cumberland Metra Station	bus
+19824919	Pace	221	north	Bus 221: Rosemont CTA Station => K Trips => Wolf/Piper	bus
+19824920	Pace	221	north	Bus 221: Rosemont CTA Station => H Trips => Wolf/Piper	bus
+19824921	Pace	221	south	Bus 221: Wolf/Piper => H Trips => Rosemont CTA Station	bus
+19824922	Pace	221	south	Bus 221: Wolf/Piper => K Trips => Rosemont CTA Station	bus
+19824923	Pace	221	south	Bus 221: Wolf/Piper => Rosemont CTA Station	bus
+19825067	Pace	225	south	Bus 225: Harlem/Oakton => Jeff Park Transit Center	bus
+19825182				Cowbird Road	
+19828729	Pace	230	north	Bus 230: Rosemont CTA Station -> Des Plaines Metra Station	bus
+19828730	Pace	230	south	Bus 230: Des Plaines Metra Station -> Rosemont CTA Station	bus
+19828731	Pace	230	south	South Des Plaines L Trips	bus
+19828732	Pace	230	south	South Des Plaines L/P Trips	bus
+19828733	Pace	230	south	South Des Plaines P Trips	bus
+19828734	Pace	230	north	South Des Plaines L Trips	bus
+19828735	Pace	230	south	Bus 230: Algonquin/Linneman -> Rosemont CTA Station	bus
+19828737	Pace	226	east	Oakton Street	bus
+19828738	Pace	226	west	Oakton Street	bus
+19828739	Pace	226	east	Oakton Street	bus
+19828844	Pace	234	north	Wheeling-Des Plaines	bus
+19828845	Pace	234	north	Wheeling-Des Plaines	bus
+19828846	Pace	234	south	Wheeling-Des Plaines	bus
+19828847	Pace	234	south	Wheeling-Des Plaines	bus
+19828850	Pace	234	north	Wheeling-Des Plaines	bus
+19836166	Pace	357	east	Bus 357: Lawrence Manor -> Woodlawn & 13th Place	bus
+19903058	rcn				bicycle
+19958581	Pace	359	north	Bus 359: Advocate South Suburban Hospital -> 95th Dan/Ryan CTA Station	bus
+19958582	Pace	359	south	Bus 359: 95th Dan/Ryan CTA Station -> Advocate South Suburban Hospital	bus
+19958583	Pace	359	north	Bus 359: Homewood Metra Station-> 95th/Dan Ryan CTA Red Line Station	bus
+19981120	Pace	381	east	Bus 381: Moraine Valley Community College => 95th/Dan Ryan CTA Station	bus
+19981250	Pace	381	east	Bus 381: Moraine Valley Community College => 95th/Dan Ryan CTA Station (H Trips)	bus
+19981251	Pace	381	west	Bus 381: 95th/Dan Ryan CTA Station => Moraine Valley Community College (H Trips)	bus
+19984869	Pace	364	east	Bus 364: Herion/Wheeler => Hegewisch South Shore Line Station	bus
+19991802	Pace	364	east	Bus 364: Herion/Wheeler => Morton/Willow	bus
+19991803	Pace	364	west	Bus 364: Morton & Willow => Herion/Wheeler	bus
+20006756	lwn			Tan Unpaved Spur	hiking
+20006757	lwn			Red Unpaved Trail	hiking
+20006758	lwn			Tan Unpaved Spur	hiking
+20006759	lwn			Brown Unpaved Spur	hiking
+20006760	lwn			Green Paved Spur	hiking
+20006761	lwn			Brown Paved Spur	hiking
+20006762	lwn			Yellow Unpaved Trail	hiking
+20006763	lwn			Purple Unpaved Trail	hiking
+20006764	lwn			Orange Unpaved Trail	hiking
+20006765	lwn			Blue Unpaved Spur Trail	hiking
+20006766	lwn			Purple Paved Trail	hiking
+20006767	lwn			Green Unpaved Trail	hiking
+20006768	lwn			Red Paved Trail	bicycle
+20006769	lwn			Black Paved Trail	bicycle
+20008883	lwn			Orange Unpaved Spur	hiking
+20008884	lwn			Red Unpaved Trail	hiking
+20008885	lwn			Brown Unpaved Loop	hiking
+20009236	lwn			Blue Paved Spur	hiking
+20009237	lwn			Green Paved Spur	hiking
+20009238	lwn			Black Paved Spur	hiking
+20009239	lwn			Brown Paved Spur	hiking
+20009240	lwn			Brown Paved Trail	hiking
+20009241	lwn			Tan Paved Spur	hiking
+20009242	lwn			Yellow Paved Spur	hiking
+20009243	lwn			Yellow Paved Loop	hiking
+20009244	lwn			Orange Paved Trail	hiking
+20009245	lwn			Brown Primitive Loop	hiking
+20009246	lwn			Tan Primitive Trail	hiking
+20009247	lwn			Purple Paved Spur	hiking
+20009248	lwn			Yellow Primitive Loop	hiking
+20009249	lwn			Blue Primitive Spur	hiking
+20009250	lwn			Purple Primitive Trail	hiking
+20009251	lwn			Orange Primitive Trail	hiking
+20009396	lwn			Red Paved Trail	hiking
+20009397	lwn			Yellow Paved Trail	hiking
+20009398	lwn			Black Paved Trail	hiking
+20009509	lwn			Monarch Trail	hiking
+20009510	lwn			Oriole Trail	hiking
+20009511	lwn			Riverbend Trail	hiking
+20009512	lwn			Night Heron Trail	hiking
+20009513	lwn			North Island Loop Trail	hiking
+20045511	Pace	318	east	Bus 318: Northlake Commons-> Forest Park CTA Station	bus
+20052611				Country Garden Lane	road
+20060900	lwn			Rocky Glen Trail	hiking
+20060922	lwn			South Field Trail	hiking
+20060923	lwn			Oldfield Oaks Trail	hiking
+20067277	lwn			Orange Paved Spur	foot
+20067278	lwn			Black Paved Spur	foot
+20067279	lwn			Green Paved Spur	foot
+20067280	lwn			Tan Paved Spur	foot
+20067281	lwn			Blue Paved Spur	foot
+20067282	lwn			Yellow Paved Spur	foot
+20067283	lwn			Red Paved Loop	foot
+20068541	Pace	383	north	Bus 383: 159th/Cicero => Midway CTA Orange Line Station	bus
+20071303	lwn			Blue Single Track	hiking
+20071304	lwn			Purple West Unpaved Trail	hiking
+20071305	lwn			Yellow South Unpaved Trail	hiking
+20071306	lwn			Red North Unpaved Trail	hiking
+20071307	lwn			Green West Single Track	hiking
+20071308	lwn			Green Unpaved Trail	hiking
+20071310	lwn			White Oak Trail	foot
+20071311	lwn			Black Oak Trail	foot
+20071312	lwn			Black East Unpaved Spur	hiking
+20071313	lwn			Black North Unpaved Spur	hiking
+20071314	lwn			Purple East Unpaved Spur	hiking
+20071315	lwn			Green East Single Track	hiking
+20071316	lwn				hiking
+20071317	lwn			Orange Unpaved Trail	hiking
+20071394	lwn			Black Paved Spur	hiking
+20071395	lwn			Tan West Single Track	hiking
+20134513				2600th Street	road
+20137134	Pace	359	south	Bus 359: 95th Dan/Ryan CTA Station -> Markham Courthouse -> Homewood Metra Station	bus
+20159175	Pace	309	east	Bus 309: Elmhurst Metra Station -> Lake/Austin	bus
+20182244				Gateway Motorsports Park	road
+20188758	Pace	241	south	Bus 241: Cumberland CTA Station -> Golf Mill Mall	bus
+20188759	Pace	240	north	Bus 240: Cumberland CTA Station -> Golf Mill Mall	bus
+20198059	US:IL:Macon			County Highway 52	road
+20206475	Pace	379	east	Bus 379: Herion/Wheeler => Midway CTA Orange Line Station	bus
+20206553	US:IL:Macon			County Highway 19	road

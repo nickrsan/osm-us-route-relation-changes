@@ -1,280 +1,280 @@
-@id	name	route	network
-186704	I A2 (unsigned)	road	US:I
-186705	I A1 (unsigned)	road	US:I
-326212	Alaska Route 1	road	US:AK
-326213	I A3 (unsigned)	road	US:I
-326897	Alaska Highway	road	
-331100	I A4 (unsigned)	road	US:I
-331539	Alaska Route 2	road	US:AK
-450825		road	US:AK
-535397	Alaska Route 7	road	US:AK
-535488		road	US:AK
-536718		road	US:AK
-552894	Glenn Highway Trail	bicycle	rcn
-552920	Tony Knowles Coastal Trail	bicycle	lcn
-1140614	American Subdivision	railway	
-1225005	Chilkoot Trail	hiking	iwn
-1320642	NHS High Priority Corridor 24	road	US:NHS High Priority Corridors
-1324393	Taylor Highway.	road	US:AK
-1324394	Dalton Highway	road	US:AK
-1324395		road	US:AK
-1324396		road	US:AK
-1324397		road	US:AK
-1324401	NHS High Priority Corridor 67	road	US:NHS High Priority Corridors
-1659995	Happy Valley Trail	bicycle	lcn
-1770863		bicycle	ncn
-1770864		bicycle	ncn
-1770866	87 (Alaska)	bicycle	ncn
-1770867	95 (Alaska)	bicycle	ncn
-1770868	97 (Alaska)	bicycle	ncn
-2168759	Red Line (MACS)	bus	
-2805398	Green Line	bus	
-2819903	Blue Line	bus	
-3375424	Nenana Route	bus	UAF Shuttle
-3568086	Swan Lake Canoe Trail	canoe	
-3624822	Trans Alaska Pipeline	pipeline	
-4128298	Green Line	bus	The Ride
-4129028	Totem Park Trail	foot	
-4129029	Harbor Mountain / Gavan Hill Trail	hiking	lhn
-4131797	Indian River Trail	hiking	
-4131798	Cross Trail	hiking	
-4141941	Path of Hope	hiking	
-4143874	Mount Verstovia Trail	hiking	
-5384759	Alaska Highway	road	CA:YT
-5386035	Top of the World Highway	road	CA:YT
-6250719	Denali Park Road	road	
-6701063	Winner Creek Trail	hiking	
-6721256	Girdwood 5K Nordic Ski Loop	piste	
-6723167		bus	
-6723172	Upper Winner Creek Trail	hiking	
-6824340	Hurricane Turn: Talkeetna → Hurricane	train	ARR
-6824341	Glacier Discovery: Anchorage → Whittier → Grandview	train	ARR
-6824342	Denali Star: Anchorage → Fairbanks	train	ARR
-6824343	Coastal Classic: Anchorage → Seward	train	ARR
-6824344	Mountain Subdivision	railway	
-6824366	Aurora Winter: Anchorage → Fairbanks	train	ARR
-6835924	Eielson Branch	railway	
-6835936	Whittier Branch	railway	
-6836178	Fairbanks International Airport Branch	railway	
-6836179	Palmer Branch	railway	
-6836180	Anchorage International Airport Branch	railway	
-6836181	JBER Spur	railway	
-6837869		railway	
-6837995	JBER Spur (abandoned)	railway	
-6838074	Northern Rail Extension Project	railway	
-6838075	Port Mackenzie Rail Extension Project	railway	
-6858242	Fort Wainright Spurs	railway	
-6876460	The White Pass Route	train	
-6878805	Crooked Creek & Whiskey Island Railroad	railway	
-7208153	Iditarod National Historic Trail	hiking	rcn
-7636966	George Parks Highway (northbound)	road	US:AK
-7636967	George Parks Highway (southbound)	road	US:AK
-8448482	Middle Dangerous Trail	hiking	
-9662114	Campbell Creek Estuary Trails	hiking	
-9677556	Nome-Taylor Highway	road	
-10404854	Copper River and Northwestern Railway	railway	
-10662355		evacuation	
-10662356		evacuation	
-10662357		evacuation	
-10662358		evacuation	
-10662359		evacuation	
-10662360		evacuation	
-10662361		evacuation	
-10662362		evacuation	
-10662363		evacuation	
-10662364		evacuation	
-11260005	Staney Creek Cabin Trail	foot	lwn
-11870880	Canadian Subdivision	railway	
-12309878	Ermine Hill Trail	hiking	lwn
-12309879	Little Coal Creek Trail	hiking	lwn
-12445740	Glacier Discovery: Anchorage → Whittier → Spencer Glacier	train	ARR
-12445741	Glacier Discovery: Spencer Glacier → Whittier → Anchorage	train	ARR
-12445742	Glacier Discovery: Grandview → Whittier → Anchorage	train	ARR
-12445743	Coastal Classic: Seward → Anchorage	train	ARR
-12445829	Hurricane Turn: Hurricane → Anchorage	train	ARR
-12445830	Hurricane Turn: Anchorage → Hurricane	train	ARR
-12445831	Hurricane Turn: Hurricane → Talkeetna	train	ARR
-12445832	Denali Star: Fairbanks → Anchorage	train	ARR
-12445833	Aurora Winter: Fairbanks → Anchorage	train	ARR
-12533324	Sitka - Juneau	ferry	Alaska Marine Highway
-12533325	Juneau - Kake	ferry	Alaska Marine Highway
-12533326	Petersburg - Kake	ferry	Alaska Marine Highway
-12533327	Petersburg - Sitka	ferry	Alaska Marine Highway
-12533328	Haines - Skagway	ferry	Alaska Marine Highway
-12533329	Juneau - Haines	ferry	Alaska Marine Highway
-12533330	Petersburg - Juneau	ferry	Alaska Marine Highway
-12533331	Wrangell - Petersburg	ferry	Alaska Marine Highway
-12533332	Ketchikan - Juneau	ferry	Alaska Marine Highway
-12533333	Ketchikan - Wrangell	ferry	Alaska Marine Highway
-12533334	Bellingham - Ketchikan	ferry	Alaska Marine Highway
-12533339	Prince Rupert - Ketchikan	ferry	Alaska Marine Highway
-12555355	Night Bus	bus	UAF Shuttle
-12555356	Night Bus	bus	UAF Shuttle
-12555357	Yukon Route	bus	UAF Shuttle
-12631982	Equinox Marathon Trail	running	
-12638415	Skarland 12-Mile Loop	piste	Skarland Ski Trail System
-12638416	Skarland 9-Mile Loop	piste	Skarland Ski Trail System
-12638417	Skarland Winter 6-Mile Loop	piste	Skarland Trail System
-12641614	Schloesser Rd Goldstream Creek Ride	piste	
-12641615	Dredge-Boat Trail Loop from Goldstream Sports	piste	
-12647508	Ester Dome Mine Loop	piste	
-12647509	Goldstream Valley Loop	piste	
-12662455	White Mountains 100	piste	
-12662456	White Mountains 100	piste	
-12662457	White Mountains 100	running	
-12662458	Ester Dome Dunbar Trail	piste	
-12662459	O'Connor to Eldorado Creek Loop via Old Murphy Dome	piste	
-12684402	Hoppet Loop	piste	
-12684403	Vasa Loop	piste	
-12684404	Birkie Loop	piste	
-12747969	Alaska Railroad Fair Train	train	ARR
-13165977	Bus 40: Downtown Anchorage -> Spenard-Airport	bus	Municipality of Anchorage
-13166527	Bus 91: Dimond Transit Center => Oceanview & Venus ESE => Huffman Business Park => Dimond Transit Center	bus	People Mover
-13167491	Route 10: Downtown Transit Center -> DeBarr & Muldoon NNE	bus	People Mover
-13212316	Bus 40: Downtown Transit Center => Anchorage International Airport	bus	Municipality of Anchorage
-13212780	Bus 40: Downtown Transit Center => Anchorage International Airport	bus	Municipality of Anchorage
-13256954	K'esugi Ridge Trail	hiking	lwn
-13410164			
-13526173	Marathon Connector Trail	piste	KachemakMarathon
-13530766	Randy's Loop	piste	
-13530767	Service Loop	piste	
-13530768	Hillside Loop	piste	
-13530769	Besh Loop	piste	
-14162788	Trans-Alaska Pipeline - Fuel Gas Line	pipeline	
-14171889	NSB City Bus	bus	
-14393768	Caines Head Trail	hiking	lwn
-14453653	2.75Km Race Course	piste	Matsu
-14453654	3.75Km Race Course	piste	Matsu
-14459827	Southbound VT Commuter Service	bus	
-14459828	Northbound VT Commuter Service	bus	
-14460001	Bus 92: Southbound Eagle River Commuter Service	bus	
-14460002	Bus 92: Northbound Eagle River Commuter Service	bus	
-14460130	Blue: Girdwood Town Route towards Seward Hwy	bus	
-14460131	Green: Girdwood Town Route towards Alyeska Tramway	bus	
-14460145	Green Line Loop	bus	Ketchikan Gateway Borough
-14478075	Swampguni Loop	piste	MM
-14554464	Route 55: Dimond Transit Center -> Alaska Native Medical Center	bus	
-14554466	Route 35: Dimond Transit Center -> Downtown Transit Center	bus	
-14554504	Route 20: Alaska Native Medical Center -> Downtown Transit Center	bus	
-14554579	Route 30: DeBarr & Muldoon NNE -> Downtown Transit Center	bus	
-14554588	​Route 21: Mountain View - Northway	bus	People Mover
-14554608	Route 25: VA Clinic -> Downtown Transit Center	bus	
-14554699	Route 41: Government Hill	bus	People Mover
-14554700	Route 11: Fairview - Senior Center	bus	People Mover
-14554705	Route 85: Dimond Transit Center -> City Hall	bus	
-14554708	Route 65 Loop	bus	People Mover
-14554782	Route 31: Centennial Village -> Northway Mall	bus	
-14557097	Route 10: DeBarr & Muldoon NNE -> Downtown Transit Center	bus	People Mover
-14562155	Route 20: Downtown Transit Center -> Alaska Native Medical Center	bus	
-14562175	Route 30: Downtown Transit Center -> DeBarr & Muldoon NNE	bus	
-14562190	Route 25: Downtown Transit Center -> VA Clinic	bus	
-14562197	Route 55: Alaska Native Medical Center -> Dimond Transit Center	bus	
-14562209	Route 35: Downtown Transit Center -> Dimond Transit Center	bus	
-14562221	Route 85: City Hall -> Dimond Transit Center	bus	People Mover
-14562228	Route 31: Northway Mall -> Centennial Village	bus	
-14750828	4 Mendenhall Loop Clockwise	bus	Capital Transit
-14750829	3 Mendenhall Loop Counterclockwise	bus	Capital Transit
-14750867	1 Douglas	bus	Capital Transit
-14750932	6 Riverside / Airport Connector	bus	Capital Transit
-14751317	5 University Connector	bus	Capital Transit
-14751488	8 Valley / Downtown Express	bus	Capital Transit
-14768789	Hollis -> Ketchikan	ferry	Inter-Island Ferry Authority
-14768790	Ketchikan -> Hollis	ferry	Inter-Island Ferry Authority
-14768807	Airport -> Ketchikan	ferry	Ketchikan Gateway Borough
-14768808	Ketchikan -> Airport	ferry	Ketchikan Gateway Borough
-14773088	Silver Line (South to Franklin Roosevelt)	bus	Ketchikan Gateway Borough
-14773089	Silver Line (North to Clover Pass)	bus	Ketchikan Gateway Borough
-14773090	Silver Line (South to Fawn Mountain)	bus	Ketchikan Gateway Borough
-14773091	Silver Line (North to Pond Reef)	bus	Ketchikan Gateway Borough
-14773509	Red Line	bus	The Ride
-14773537	Blue Line	bus	The Ride
-14923210	Goldhill Baseline	piste	
-15036604	Thompson Pass Pack Trail	hiking	lhn
-15038030	Haines Highway - Valley of the Eagles	road	
-15573574	Suntrana Branch	railway	
-15573575	Kenai Subdivision	railway	
-15573576	Port Mackenzie Branch	railway	
-15624981	Seward Highway	road	
-15647834	Central Subdivision	railway	
-15653265	Chester Creek Trail	bicycle	lcn
-15657180	Campbell Creek Trail	bicycle	lcn
-15661243	Ship Creek Trail	bicycle	lcn
-15661250	Bird to Gird	bicycle	rcn
-15669946	Coastal to Ship Creek connection	bicycle	lcn
-15669947	Chester to Campbell Connector	bicycle	lcn
-15669951	Campbell to Coastal connector	bicycle	lcn
-15669964	Fish Creek Trail	bicycle	lcn
-15671116	Mountains to Sea trail	mtb	lcn
-15671121	Ship to Chester connector	bicycle	lcn
-15684721	Moose Loop	bicycle	lcn
-15771425	Midtown Corridor	bicycle	lcn
-15771569	Spenard to Ship Creek	bicycle	lcn
-15782743	Fish Creek to Coastal connector	bicycle	lcn
-16005908		bicycle	ncn
-16204311	Tok Cut-Off	road	
-16229128	Denali Highway	road	
-16265307	Edgerton Highway	road	
-16265363	Elliott Highway	road	
-16265419	Copper River Highway	road	
-16265497	Haines Highway	road	
-16266162	Glenn Highway	road	US:AK
-16431172	Jim Mahaffey Loop	piste	
-16606343	Thunderbird Falls Trail	hiking	lwn
-16622826		bicycle	ncn
-16622835	Lionshead Trail	hiking	
-16622841	Flattop Trail	hiking	
-16622935		bicycle	ncn
-16622979		bicycle	ncn
-16623026		bicycle	ncn
-16661028	West Butte Trail	hiking	lwn
-16693695	Tony Knowles Coastal Trail	foot	
-16693712	Rabbit Lake Trail	hiking	
-16693766	Little O'Malley Peak Trail	hiking	
-16909137	Twin Peaks Trail	hiking	
-16909138	Eklutna Lakeside Trail	hiking	
-16909142	Bold Ridge Overlook Trail	hiking	
-16928249	Harp Mountain Trail	hiking	
-17038749	South Fork Valley Trail	hiking	lhn
-17254554	Matanuska Peak Trail	hiking	lwn
-17254555	McRoberts Creek Trail	hiking	
-17428819	FIS 7.5 km Mitten	piste	
-17428820	FIS 1.3km Sprint	piste	
-17428821	FIS 5km	piste	
-17562930	Virgin Creek Trail	hiking	lwn
-17591947	Fort Ambercrombie Cliffs Loop	foot	
-17668853	South Fork Falls Trail	hiking	
-17702418	2024 Protected Bike Lane Pilot	bicycle	lcn
-17808925	Wolverine Peak via Basher	hiking	
-17814255	McHugh Peak Trail North	hiking	
-17814256	McHugh Peak Trail South	hiking	
-17920856	Old Womens Mountain Trail	hiking	lwn
-17945797	Lost Lake Trail	hiking	
-17945798	Primrose Trail	hiking	
-17945807	Meridian Lakes Trail	hiking	
-17946723	Iditarod National Historic Trail	hiking	nwn
-17973892	Rendezvous Peak from Hiland	hiking	
-17973893	Rendezvous Peak from Arctic Valley	hiking	
-18299333	Byron Glacier Trail	hiking	
-18299334	Trail of Blue Ice	hiking	
-18481376	Yukon Kuskokwim Portage Trail	hiking	
-18633908	Dixie Pass trail	hiking	lwn
-18746921	Skarland Summer 6-Mile Loop	foot	Skarland Trail System
-19209613	A/C St shared use path	bicycle	lcn
-19209619	Raspberry-Dowling cross town	bicycle	lcn
-19209638	Elmore	bicycle	lcn
-19209646	Campbell Creek to South Anchorage	bicycle	lcn
-19212760	Airport to Jewel Lake	bicycle	lcn
-19333518	Beaver Pond	piste	
-19333519	Beaver Pond	mtb	
-19662664	Mount Gordon Lyon Trail	hiking	
-19978284	Blue Line	bus	Blue Line
-19978285	Orange Line	bus	Orange Line
-19978286	Yellow Line	bus	Yellow Line
-19978287	Red Line	bus	Red Line
-19978288	Yellow Line	bus	Yellow Line
-19978289		bus	Yellow Line
-19978290		bus	Yellow Line
-19978291	MACS	bus	Yellow Line
-20071525	Lynx Lake Loop Canoe Trail	canoe	
-20071526	Little Susitna Connector Canoe Trail	canoe	
-20078442	Lynx Lake Skate Trail	piste	
+@id	network	ref	direction	name	route
+186704	US:I			I A2 (unsigned)	road
+186705	US:I			I A1 (unsigned)	road
+326212	US:AK	1		Alaska Route 1	road
+326213	US:I			I A3 (unsigned)	road
+326897				Alaska Highway	road
+331100	US:I			I A4 (unsigned)	road
+331539	US:AK	2		Alaska Route 2	road
+450825	US:AK	6			road
+535397	US:AK	7		Alaska Route 7	road
+535488	US:AK	10			road
+536718	US:AK	9			road
+552894	rcn	Glenn		Glenn Highway Trail	bicycle
+552920	lcn	Coastal		Tony Knowles Coastal Trail	bicycle
+1140614				American Subdivision	railway
+1225005	iwn			Chilkoot Trail	hiking
+1320642	US:NHS High Priority Corridors			NHS High Priority Corridor 24	road
+1324393	US:AK	5		Taylor Highway.	road
+1324394	US:AK	11		Dalton Highway	road
+1324395	US:AK	98			road
+1324396	US:AK	4			road
+1324397	US:AK	8			road
+1324401	US:NHS High Priority Corridors			NHS High Priority Corridor 67	road
+1659995	lcn			Happy Valley Trail	bicycle
+1770863	ncn	397			bicycle
+1770864	ncn	987			bicycle
+1770866	ncn	87		87 (Alaska)	bicycle
+1770867	ncn	95		95 (Alaska)	bicycle
+1770868	ncn	97		97 (Alaska)	bicycle
+2168759				Red Line (MACS)	bus
+2805398		Green Line		Green Line	bus
+2819903		Blue Line		Blue Line	bus
+3375424	UAF Shuttle			Nenana Route	bus
+3568086				Swan Lake Canoe Trail	canoe
+3624822				Trans Alaska Pipeline	pipeline
+4128298	The Ride	Green		Green Line	bus
+4129028				Totem Park Trail	foot
+4129029	lhn			Harbor Mountain / Gavan Hill Trail	hiking
+4131797				Indian River Trail	hiking
+4131798				Cross Trail	hiking
+4141941				Path of Hope	hiking
+4143874				Mount Verstovia Trail	hiking
+5384759	CA:YT	1		Alaska Highway	road
+5386035	CA:YT	9		Top of the World Highway	road
+6250719				Denali Park Road	road
+6701063				Winner Creek Trail	hiking
+6721256				Girdwood 5K Nordic Ski Loop	piste
+6723167					bus
+6723172				Upper Winner Creek Trail	hiking
+6824340	ARR	HT		Hurricane Turn: Talkeetna → Hurricane	train
+6824341	ARR	GD		Glacier Discovery: Anchorage → Whittier → Grandview	train
+6824342	ARR	DS		Denali Star: Anchorage → Fairbanks	train
+6824343	ARR	CC		Coastal Classic: Anchorage → Seward	train
+6824344				Mountain Subdivision	railway
+6824366	ARR	AW		Aurora Winter: Anchorage → Fairbanks	train
+6835924				Eielson Branch	railway
+6835936				Whittier Branch	railway
+6836178				Fairbanks International Airport Branch	railway
+6836179				Palmer Branch	railway
+6836180				Anchorage International Airport Branch	railway
+6836181				JBER Spur	railway
+6837869					railway
+6837995				JBER Spur (abandoned)	railway
+6838074				Northern Rail Extension Project	railway
+6838075				Port Mackenzie Rail Extension Project	railway
+6858242				Fort Wainright Spurs	railway
+6876460				The White Pass Route	train
+6878805				Crooked Creek & Whiskey Island Railroad	railway
+7208153	rcn			Iditarod National Historic Trail	hiking
+7636966	US:AK	3	north	George Parks Highway (northbound)	road
+7636967	US:AK	3	south	George Parks Highway (southbound)	road
+8448482				Middle Dangerous Trail	hiking
+9662114				Campbell Creek Estuary Trails	hiking
+9677556				Nome-Taylor Highway	road
+10404854				Copper River and Northwestern Railway	railway
+10662355					evacuation
+10662356					evacuation
+10662357					evacuation
+10662358					evacuation
+10662359					evacuation
+10662360					evacuation
+10662361					evacuation
+10662362					evacuation
+10662363					evacuation
+10662364					evacuation
+11260005	lwn	54789		Staney Creek Cabin Trail	foot
+11870880				Canadian Subdivision	railway
+12309878	lwn			Ermine Hill Trail	hiking
+12309879	lwn			Little Coal Creek Trail	hiking
+12445740	ARR	GD		Glacier Discovery: Anchorage → Whittier → Spencer Glacier	train
+12445741	ARR	GD		Glacier Discovery: Spencer Glacier → Whittier → Anchorage	train
+12445742	ARR	GD		Glacier Discovery: Grandview → Whittier → Anchorage	train
+12445743	ARR	CC		Coastal Classic: Seward → Anchorage	train
+12445829	ARR	HT		Hurricane Turn: Hurricane → Anchorage	train
+12445830	ARR	HT		Hurricane Turn: Anchorage → Hurricane	train
+12445831	ARR	HT		Hurricane Turn: Hurricane → Talkeetna	train
+12445832	ARR	DS		Denali Star: Fairbanks → Anchorage	train
+12445833	ARR	AW		Aurora Winter: Fairbanks → Anchorage	train
+12533324	Alaska Marine Highway	Sitka-Juneau		Sitka - Juneau	ferry
+12533325	Alaska Marine Highway	Juneau-Kake		Juneau - Kake	ferry
+12533326	Alaska Marine Highway	Petersburg-Kake		Petersburg - Kake	ferry
+12533327	Alaska Marine Highway	Petersburg-Sitka		Petersburg - Sitka	ferry
+12533328	Alaska Marine Highway	Haines-Skagway		Haines - Skagway	ferry
+12533329	Alaska Marine Highway	Juneau-Haines		Juneau - Haines	ferry
+12533330	Alaska Marine Highway	Petersburg-Juneau		Petersburg - Juneau	ferry
+12533331	Alaska Marine Highway	Ketchikan-Petersburg		Wrangell - Petersburg	ferry
+12533332	Alaska Marine Highway	Ketchikan-Juneau		Ketchikan - Juneau	ferry
+12533333	Alaska Marine Highway	Ketchikan-Wrangell		Ketchikan - Wrangell	ferry
+12533334	Alaska Marine Highway	Bellingham-Ketchikan		Bellingham - Ketchikan	ferry
+12533339	Alaska Marine Highway	Prince Rupert-Ketchikan		Prince Rupert - Ketchikan	ferry
+12555355	UAF Shuttle			Night Bus	bus
+12555356	UAF Shuttle			Night Bus	bus
+12555357	UAF Shuttle			Yukon Route	bus
+12631982				Equinox Marathon Trail	running
+12638415	Skarland Ski Trail System			Skarland 12-Mile Loop	piste
+12638416	Skarland Ski Trail System			Skarland 9-Mile Loop	piste
+12638417	Skarland Trail System			Skarland Winter 6-Mile Loop	piste
+12641614				Schloesser Rd Goldstream Creek Ride	piste
+12641615				Dredge-Boat Trail Loop from Goldstream Sports	piste
+12647508				Ester Dome Mine Loop	piste
+12647509				Goldstream Valley Loop	piste
+12662455				White Mountains 100	piste
+12662456				White Mountains 100	piste
+12662457				White Mountains 100	running
+12662458				Ester Dome Dunbar Trail	piste
+12662459				O'Connor to Eldorado Creek Loop via Old Murphy Dome	piste
+12684402				Hoppet Loop	piste
+12684403				Vasa Loop	piste
+12684404				Birkie Loop	piste
+12747969	ARR			Alaska Railroad Fair Train	train
+13165977	Municipality of Anchorage	40		Bus 40: Downtown Anchorage -> Spenard-Airport	bus
+13166527	People Mover	91		Bus 91: Dimond Transit Center => Oceanview & Venus ESE => Huffman Business Park => Dimond Transit Center	bus
+13167491	People Mover	10		Route 10: Downtown Transit Center -> DeBarr & Muldoon NNE	bus
+13212316	Municipality of Anchorage	40		Bus 40: Downtown Transit Center => Anchorage International Airport	bus
+13212780	Municipality of Anchorage	40		Bus 40: Downtown Transit Center => Anchorage International Airport	bus
+13256954	lwn			K'esugi Ridge Trail	hiking
+13410164					
+13526173	KachemakMarathon			Marathon Connector Trail	piste
+13530766				Randy's Loop	piste
+13530767				Service Loop	piste
+13530768				Hillside Loop	piste
+13530769				Besh Loop	piste
+14162788				Trans-Alaska Pipeline - Fuel Gas Line	pipeline
+14171889				NSB City Bus	bus
+14393768	lwn			Caines Head Trail	hiking
+14453653	Matsu			2.75Km Race Course	piste
+14453654	Matsu			3.75Km Race Course	piste
+14459827		VT1		Southbound VT Commuter Service	bus
+14459828		VT1		Northbound VT Commuter Service	bus
+14460001		92		Bus 92: Southbound Eagle River Commuter Service	bus
+14460002		92		Bus 92: Northbound Eagle River Commuter Service	bus
+14460130		Blue		Blue: Girdwood Town Route towards Seward Hwy	bus
+14460131		Green		Green: Girdwood Town Route towards Alyeska Tramway	bus
+14460145	Ketchikan Gateway Borough	Green		Green Line Loop	bus
+14478075	MM			Swampguni Loop	piste
+14554464		55		Route 55: Dimond Transit Center -> Alaska Native Medical Center	bus
+14554466		35		Route 35: Dimond Transit Center -> Downtown Transit Center	bus
+14554504		20		Route 20: Alaska Native Medical Center -> Downtown Transit Center	bus
+14554579		30		Route 30: DeBarr & Muldoon NNE -> Downtown Transit Center	bus
+14554588	People Mover	21		​Route 21: Mountain View - Northway	bus
+14554608		25		Route 25: VA Clinic -> Downtown Transit Center	bus
+14554699	People Mover	41		Route 41: Government Hill	bus
+14554700	People Mover	11		Route 11: Fairview - Senior Center	bus
+14554705		85		Route 85: Dimond Transit Center -> City Hall	bus
+14554708	People Mover	65		Route 65 Loop	bus
+14554782		31		Route 31: Centennial Village -> Northway Mall	bus
+14557097	People Mover	10		Route 10: DeBarr & Muldoon NNE -> Downtown Transit Center	bus
+14562155		20		Route 20: Downtown Transit Center -> Alaska Native Medical Center	bus
+14562175		30		Route 30: Downtown Transit Center -> DeBarr & Muldoon NNE	bus
+14562190		25		Route 25: Downtown Transit Center -> VA Clinic	bus
+14562197		55		Route 55: Alaska Native Medical Center -> Dimond Transit Center	bus
+14562209		35		Route 35: Downtown Transit Center -> Dimond Transit Center	bus
+14562221	People Mover	85		Route 85: City Hall -> Dimond Transit Center	bus
+14562228		31		Route 31: Northway Mall -> Centennial Village	bus
+14750828	Capital Transit	4		4 Mendenhall Loop Clockwise	bus
+14750829	Capital Transit	3		3 Mendenhall Loop Counterclockwise	bus
+14750867	Capital Transit	1		1 Douglas	bus
+14750932	Capital Transit	6		6 Riverside / Airport Connector	bus
+14751317	Capital Transit	5		5 University Connector	bus
+14751488	Capital Transit	8		8 Valley / Downtown Express	bus
+14768789	Inter-Island Ferry Authority	Ketchikan-Hollis		Hollis -> Ketchikan	ferry
+14768790	Inter-Island Ferry Authority	Ketchikan-Hollis		Ketchikan -> Hollis	ferry
+14768807	Ketchikan Gateway Borough	Ketchikan-Airport		Airport -> Ketchikan	ferry
+14768808	Ketchikan Gateway Borough	Ketchikan-Airport		Ketchikan -> Airport	ferry
+14773088	Ketchikan Gateway Borough	Silver		Silver Line (South to Franklin Roosevelt)	bus
+14773089	Ketchikan Gateway Borough	Silver		Silver Line (North to Clover Pass)	bus
+14773090	Ketchikan Gateway Borough	Silver		Silver Line (South to Fawn Mountain)	bus
+14773091	Ketchikan Gateway Borough	Silver		Silver Line (North to Pond Reef)	bus
+14773509	The Ride	Red		Red Line	bus
+14773537	The Ride	Blue		Blue Line	bus
+14923210				Goldhill Baseline	piste
+15036604	lhn			Thompson Pass Pack Trail	hiking
+15038030				Haines Highway - Valley of the Eagles	road
+15573574				Suntrana Branch	railway
+15573575				Kenai Subdivision	railway
+15573576				Port Mackenzie Branch	railway
+15624981				Seward Highway	road
+15647834				Central Subdivision	railway
+15653265	lcn			Chester Creek Trail	bicycle
+15657180	lcn			Campbell Creek Trail	bicycle
+15661243	lcn			Ship Creek Trail	bicycle
+15661250	rcn			Bird to Gird	bicycle
+15669946	lcn			Coastal to Ship Creek connection	bicycle
+15669947	lcn			Chester to Campbell Connector	bicycle
+15669951	lcn			Campbell to Coastal connector	bicycle
+15669964	lcn			Fish Creek Trail	bicycle
+15671116	lcn			Mountains to Sea trail	mtb
+15671121	lcn			Ship to Chester connector	bicycle
+15684721	lcn			Moose Loop	bicycle
+15771425	lcn			Midtown Corridor	bicycle
+15771569	lcn			Spenard to Ship Creek	bicycle
+15782743	lcn			Fish Creek to Coastal connector	bicycle
+16005908	ncn	987			bicycle
+16204311				Tok Cut-Off	road
+16229128				Denali Highway	road
+16265307				Edgerton Highway	road
+16265363				Elliott Highway	road
+16265419				Copper River Highway	road
+16265497				Haines Highway	road
+16266162	US:AK	1		Glenn Highway	road
+16431172				Jim Mahaffey Loop	piste
+16606343	lwn			Thunderbird Falls Trail	hiking
+16622826	ncn	187			bicycle
+16622835				Lionshead Trail	hiking
+16622841				Flattop Trail	hiking
+16622935	ncn	787			bicycle
+16622979	ncn	387			bicycle
+16623026	ncn	587			bicycle
+16661028	lwn			West Butte Trail	hiking
+16693695				Tony Knowles Coastal Trail	foot
+16693712				Rabbit Lake Trail	hiking
+16693766				Little O'Malley Peak Trail	hiking
+16909137				Twin Peaks Trail	hiking
+16909138				Eklutna Lakeside Trail	hiking
+16909142				Bold Ridge Overlook Trail	hiking
+16928249				Harp Mountain Trail	hiking
+17038749	lhn			South Fork Valley Trail	hiking
+17254554	lwn			Matanuska Peak Trail	hiking
+17254555				McRoberts Creek Trail	hiking
+17428819		20/66.03/7.5		FIS 7.5 km Mitten	piste
+17428820		20/66.01/1.3		FIS 1.3km Sprint	piste
+17428821		20/66.02/5.0		FIS 5km	piste
+17562930	lwn			Virgin Creek Trail	hiking
+17591947				Fort Ambercrombie Cliffs Loop	foot
+17668853				South Fork Falls Trail	hiking
+17702418	lcn			2024 Protected Bike Lane Pilot	bicycle
+17808925				Wolverine Peak via Basher	hiking
+17814255				McHugh Peak Trail North	hiking
+17814256				McHugh Peak Trail South	hiking
+17920856	lwn			Old Womens Mountain Trail	hiking
+17945797				Lost Lake Trail	hiking
+17945798				Primrose Trail	hiking
+17945807				Meridian Lakes Trail	hiking
+17946723	nwn			Iditarod National Historic Trail	hiking
+17973892				Rendezvous Peak from Hiland	hiking
+17973893				Rendezvous Peak from Arctic Valley	hiking
+18299333				Byron Glacier Trail	hiking
+18299334				Trail of Blue Ice	hiking
+18481376				Yukon Kuskokwim Portage Trail	hiking
+18633908	lwn			Dixie Pass trail	hiking
+18746921	Skarland Trail System			Skarland Summer 6-Mile Loop	foot
+19209613	lcn			A/C St shared use path	bicycle
+19209619	lcn			Raspberry-Dowling cross town	bicycle
+19209638	lcn			Elmore	bicycle
+19209646	lcn			Campbell Creek to South Anchorage	bicycle
+19212760	lcn			Airport to Jewel Lake	bicycle
+19333518				Beaver Pond	piste
+19333519				Beaver Pond	mtb
+19662664				Mount Gordon Lyon Trail	hiking
+19978284	Blue Line			Blue Line	bus
+19978285	Orange Line			Orange Line	bus
+19978286	Yellow Line			Yellow Line	bus
+19978287	Red Line			Red Line	bus
+19978288	Yellow Line			Yellow Line	bus
+19978289	Yellow Line				bus
+19978290	Yellow Line				bus
+19978291	Yellow Line			MACS	bus
+20071525				Lynx Lake Loop Canoe Trail	canoe
+20071526				Little Susitna Connector Canoe Trail	canoe
+20078442				Lynx Lake Skate Trail	piste

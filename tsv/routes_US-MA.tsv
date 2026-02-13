@@ -1,0 +1,1792 @@
+@id	network	ref	direction	name	route
+57456	US:VT	142			road
+60855	US:I	295	north		road
+60856	US:I	295	south		road
+67381	US:RI	146			road
+67779	US:RI	138			road
+126985	ncn	DPDW		Dr. Paul Dudley White Path	bicycle
+133174	lcn			Charles River - Minuteman Path	bicycle
+147539	rcn			Minuteman Bikeway	bicycle
+147544	lcn			Alewife Linear Park	bicycle
+165109	US:I	90	east		road
+229716	US:I	90	west		road
+296172	US:I	90	east		road
+302177	US:I	90	west		road
+310507	lwn			Long Pond Nature Trail	hiking
+317894	lwn			Skyline Trail	hiking
+317895	lwn			Reservoir Trail	hiking
+317896	mtb			Mountain Bike Loop	mtb
+357462	lwn			Bear Hill Trail	hiking
+359540	lwn			Dark Hollow Pond Trail	hiking
+363668	rwn			Bay Circuit Trail	hiking
+381651	lwn			Cross Fells Trail	hiking
+386965	lwn			Panther Cave Trail	hiking
+388994	lwn			Fells Path	hiking
+388995	lwn			Rock Circuit Trail	hiking
+389001	lwn			Skyline Trail	hiking
+395227	rcn	1		Claire Saltonstall Bikeway	bicycle
+396358	US:I	95		I 95 (MA)	road
+400258	US:NY	344			road
+402508	US:I	84			road
+402509	US:I	84			road
+408090	US:US	20			road
+976514	lwn			Freedom Trail	foot
+1099538	lwn			Historic Trail	hiking
+1099539	lwn			Virginia Wood Trail	hiking
+1115862	lwn			Crystal Spring Trail	hiking
+1227918				Pine Grove Path	hiking
+1227919				Melrose Path	hiking
+1228272				White Rock Path	hiking
+1229866	lwn			Page and Sadie Trail	foot
+1262921				Harborwalk Charlestown	foot
+1269021				Northeast Corridor	railway
+1272209				Forest Path	
+1343722	US:MA	1A		MA 1A	road
+1343813	US:MA	228			road
+1343814	US:MA	286			road
+1343817	US:MA	240			road
+1343825	US:MA	295			road
+1343969	US:MA	225			road
+1343985	US:MA	213			road
+1343987	US:MA	220			road
+1343988	US:MA	203			road
+1344094	US:MA	192			road
+1344095	US:MA	193			road
+1344096	US:MA	183			road
+1344097	US:MA	197			road
+1344098	US:MA	198			road
+1344099	US:MA	187			road
+1344100	US:MA	189			road
+1344101	US:MA	186			road
+1344108	US:MA	177		MA 177	road
+1344109	US:MA	181			road
+1344110	US:MA	169			road
+1344111	US:MA	159			road
+1344112	US:MA	168			road
+1344166	US:MA	149			road
+1344167	US:MA	150			road
+1344168	US:MA	152		MA 152	road
+1344169	US:MA	151			road
+1344170	US:MA	148			road
+1344304	US:MA	147			road
+1344305	US:MA	146A			road
+1344306	US:MA	146			road
+1344324	US:MA	145			road
+1344373	US:MA	143			road
+1344374	US:MA	141			road
+1344375	US:MA	142			road
+1345170	US:MA	140			road
+1345179	US:MA	139			road
+1345181	US:MA	25			road
+1345182	US:MA	24		MA 24	road
+1345183	US:MA	3			road
+1345184	US:MA	128			road
+1345212	US:MA	2			road
+1345236	US:MA	2A			road
+1345244	US:MA	3A			road
+1345245	US:MA	4			road
+1345253	US:MA	6A			road
+1345258	US:MA	7A			road
+1345262	US:MA	8			road
+1345264	US:MA	8A			road
+1345273	US:MA	9			road
+1345279	US:MA	10			road
+1345290	US:MA	12			road
+1345319	US:MA	14			road
+1345320	US:MA	13			road
+1345330	US:MA	16			road
+1345396	US:MA	18			road
+1345407	US:MA	19			road
+1345412	US:MA	20A			road
+1345413	US:MA	21			road
+1345425	US:MA	23			road
+1345426	US:MA	22			road
+1345434	US:MA	27			road
+1345448	US:MA	28			road
+1345449	US:MA	28A			road
+1345733	US:MA	30			road
+1345734	US:MA	31			road
+1345742	US:MA	32A			road
+1345743	US:MA	32			road
+1345783	US:MA	33			road
+1345793	US:MA	36			road
+1345794	US:MA	38			road
+1345795	US:MA	37			road
+1345796	US:MA	35			road
+1345798	US:MA	39			road
+1346508	US:MA	43			road
+1346509	US:MA	49			road
+1346510	US:MA	40			road
+1346511	US:MA	47			road
+1346512	US:MA	41			road
+1346523	US:MA	53			road
+1346525	US:MA	56			road
+1346526	US:MA	57			road
+1346527	US:MA	58			road
+1346529	US:MA	60			road
+1346539	US:MA	62			road
+1346541	US:MA	66			road
+1346542	US:MA	63			road
+1346543	US:MA	67			road
+1346544	US:MA	68			road
+1346546	US:MA	70			road
+1346553	US:MA	75			road
+1346554	US:MA	79			road
+1346555	US:MA	78			road
+1346556	US:MA	71			road
+1346557	US:MA	80			road
+1346568	US:MA	81			road
+1346569	US:MA	83			road
+1346579	US:MA	85			road
+1346580	US:MA	88			road
+1346582	US:MA	96			road
+1346583	US:MA	98			road
+1346584	US:MA	97			road
+1346585	US:MA	99			road
+1346659	US:MA	101			road
+1346669	US:MA	102			road
+1346670	US:MA	103			road
+1346671	US:MA	105			road
+1346672	US:MA	104			road
+1346694	US:MA	106			road
+1346695	US:MA	107			road
+1346724	US:MA	108			road
+1346725	US:MA	109			road
+1346726	US:MA	110			road
+1346731	US:MA	111			road
+1346759	US:MA	115			road
+1346760	US:MA	113			road
+1346761	US:MA	112			road
+1346762	US:MA	114			road
+1346763	US:RI	114A			road
+1346782	US:MA	118			road
+1346784	US:MA	117			road
+1346785	US:MA	116			road
+1346786	US:MA	120			road
+1346787	US:MA	121			road
+1346788	US:MA	119			road
+1346795	US:MA	122A			road
+1346820	US:MA	122		MA 122	road
+1346840	US:MA	123		MA 123	road
+1346850	US:MA	125			road
+1346851	US:MA	124			road
+1346902	US:MA	129			road
+1346903	US:MA	129A			road
+1346904	US:MA	126			road
+1346905	US:MA	127			road
+1346906	US:MA	127A			road
+1346935	US:MA	130			road
+1346936	US:MA	131			road
+1346937	US:MA	133			road
+1346938	US:MA	132			road
+1346949	US:MA	135			road
+1346950	US:MA	134			road
+1346952	US:MA	137			road
+1346953	US:MA	136			road
+1346957	US:MA	138			road
+1347943	US:RI	81			road
+1347953	US:RI	98			road
+1347954	US:RI	96			road
+1347958	US:RI	103			road
+1347998	US:MA	114A		MA 114A	road
+1348018	US:RI	120			road
+1348019	US:RI	121			road
+1348034	US:RI	126			road
+1348074	US:RI	136			road
+1351808					hiking
+1353691	MBTA	CR-Kingston		MBTA Kingston/Plymouth Line: Boston South <=> Plymouth	train
+1353692	MBTA	CR-Needham		Train CR-Needham Inbound: Needham Heights => South Station	train
+1353693	MBTA	CR-Fairmount		Train CR-Fairmount: Readville => South Station	train
+1353694	MBTA	CR-Providence		MBTA Providence/Stoughton Line: Boston South <=> Wickford Junction	train
+1353695	MBTA	CR-Greenbush		Train CR-Greenbush: South Station => Greenbush	train
+1353696	MBTA	CR-Franklin		CR-Franklin Inbound: Foxboro => Forest Hills => South Station	train
+1353697	MBTA	CR-Middleborough		Train CR-Fall River/New Bedford Outbound: South Station => Fall River/New Bedford	train
+1354954	MBTA	CR-Worcester		Train CR-Worcester Outbound: South Station => Aburndale => Worcester	train
+1354955	MBTA	CR-Newburyport		MBTA Newburyport/Rockport Line: Boston North <=> Newburyport	train
+1354956	MBTA	CR-Lowell		Train CR-Lowell Outbound: North Station => Lowell	train
+1354958	MBTA	CR-Haverhill		MBTA Haverhill Line: Boston North <=> Haverhill	train
+1359387	Amtrak	Vermonter		Amtrak Vermonter: Washington => Saint Albans	train
+1359679	US:MA:old_turnpike			First Massachusetts Turnpike	road
+1359680	US:MA:old_turnpike			Worthington Turnpike	road
+1359681	US:MA:old_turnpike			Williamstown Turnpike	road
+1359682	US:MA:old_turnpike			Second Massachusetts Turnpike	road
+1360039	US:CT	12			road
+1360523	US:CT	19			road
+1361953	US:CT	75			road
+1362465	US:CT	169			road
+1362528	US:CT	197			road
+1362530	US:CT	198			road
+1362534	US:CT	193			road
+1364386	US:MA:old_turnpike			Fifth Massachusetts Turnpike	road
+1376511				North Adams Branch	railway
+1376515				Boston and Albany Railroad	railway
+1376938	US:NH	12			road
+1377023	US:NH	13			road
+1412936				Chester and Becket Branch	railway
+1412938				Milford Secondary	railway
+1412939				Webster Branch	railway
+1412940				Newton Highlands Branch	railway
+1412941				Spencer Railroad	railway
+1412943				Millbury Branch	railway
+1412944				Grand Junction Branch	railway
+1412945				Athol Branch	railway
+1412946				Ware River Branch	railway
+1412947				East Village Branch	railway
+1412948				Newton Lower Falls Branch	railway
+1412949				Saxonville Branch	railway
+1590059	MBTA	CT2		CT2 Inbound: Sullivan Square => Ruggles (Weekdays)	bus
+1600269	MBTA	Blue		MBTA Blue Line: Bowdoin → Wonderland	subway
+1600276	MBTA	Orange		MBTA Orange Line: Oak Grove → Forest Hills	subway
+1600292	MBTA	Red		MBTA Red Line: Alewife → Ashmont	subway
+1600326	MBTA	Mattapan		MBTA Mattapan Trolley: Ashmont → Mattapan	light_rail
+1606780	rwn			Wapack Trail	hiking
+1617343	MBTA	1		1 Inbound: Harvard Square => Nubian Station	bus
+1670155	US:I	395			road
+1694949	US:I	190			road
+1694950	US:I	195			road
+1694953	US:I	290			road
+1694954	US:I	291			road
+1694957	US:I	391			road
+1694960	US:I	495			road
+1714971	lcn			Somerville Community Path	bicycle
+1774794	ncn	ECG		East Coast Greenway (MA)	bicycle
+1813106	US:NY:Thruway			Berkshire Connector	road
+1868063				I-93 Hazmat Route	road
+1943382				Dedham Water Trail	boat
+2011786				Huckleberry Trolley Line	railway
+2023916	lwn			Massport Designated Trail	hiking
+2148817	mtb			White Trail	mtb
+2152234	lwn			Orange Trail - College Rock Park	hiking
+2171443	lwn				hiking
+2273543				Attleboro Branch	railway
+2273546				Bridgewater Branch	railway
+2273548				Chatham Branch	railway
+2273551				East Junction & East Providence Line	railway
+2273552				Easton Branch	railway
+2273553				Fairhaven Branch	railway
+2273554				Fall River Branch	railway
+2273555				Fitchburg Line	railway
+2273556				Forest Hills & Attleboro Branch (Wrenthem Secondary)	railway
+2273557				Franklin Branch	railway
+2273558				Hanover Branch	railway
+2273560		MRS		Hartford Division	railway
+2273562				Holyoke Branch	railway
+2273563				Hyannis Branch	railway
+2273564				South Shore Line	railway
+2273566				Lowell & Framingham Branch	railway
+2273567				Mansfield Branch	railway
+2273571				Middleboro & Provincetown Line	railway
+2273572				Middleboro & Taunton Branch	railway
+2273573				Middleboro Branch	railway
+2273576				Hopkinton Branch	railway
+2273577				Nantasket Beach Branch	railway
+2273582				Newport Line	railway
+2273585				Plymouth & Middleboro Branch	railway
+2273586				Plymouth Division	railway
+2273587				Plymouth Line	railway
+2273588				Providence & Pascoag Line	railway
+2273589				Readville & Dedham Branch	railway
+2273595				Springfield Branch	railway
+2273596				State Line Branch	railway
+2273597				Sterling Branch	railway
+2273600				Taunton & New Bedford Branch	railway
+2273601				Turners Falls Branch	railway
+2273603				East Providence Branch	railway
+2273609				Woods Hole Branch	railway
+2273610				Woonsocket Branch	railway
+2273611				Worcester Line	railway
+2273612				Worcester Line	railway
+2295498	US:US	3			road
+2295504	US:US	5			road
+2295505	US:US	5			road
+2295507	US:US	7			road
+2295508	US:US	7			road
+2297231	US:US	1		US 1 (MA)	road
+2307092	US:US	202			road
+2307199	lwn			Robert Frost Trail	hiking
+2308407	US:US	6			road
+2309141	US:US	44		US 44 (MA)	road
+2317544	rwn	MMT		Metacomet - Monadnock Trail	hiking
+2525885	MBTA	245		245 - Quincy Center Station - Mattapan Station	bus
+2533226				Lowell Connector	road
+2533227				Plimoth Plantation Highway	road
+2569431	lwn				hiking
+2576941				Dangerous Bones Bike area	mtb
+2582844	lwn			Woods Walk at Highlands Center	hiking
+2778684	lwn			Boston HarborWalk	hiking
+2848988		P & B		Plymouth & Brockton Street Railway	bus
+2887650	MBTA	Green-B		MBTA Green Line (B): Boston College → Government Center	light_rail
+2887651	MBTA	Green-C		MBTA Green Line (C): Cleveland Circle → Government Center	light_rail
+2887652	MBTA	Green-D		MBTA Green Line (D): Riverside → Union Square	light_rail
+2887653	MBTA	Green-E		MBTA Green Line (E): Medford/Tufts → Heath Street	light_rail
+2988766	lcn			Ashuwillticook Rail Trail	bicycle
+2991960	nwn	AT	both	Appalachian Trail	hiking
+3031252	ncn	1		1 (New Hampshire)	bicycle
+3183622	MBTA	SLW		Bus SLW Inbound: Silver Line Way => South Station	bus
+3262843				Andover Community Paths	hiking
+3309123	BRTA	1		"1 Pittsfield, North Adams"	bus
+3312202	BRTA	2		"2 Pittsfield, Lee"	bus
+3324490	US:I	93			road
+3324491	US:I	93			road
+3392247				Ligne d'interconnexion à courant continu Radisson Qc - Sandy Pond Ma - 450 kV	power
+3572900	US:I	91			road
+3572901	US:I	91			road
+3672563	nwn	NET		New England National Scenic Trail	hiking
+3786927	ncn	1		1 (Massachusetts)	bicycle
+3877796	rcn	NHN		New Haven & Northampton Canal Greenway	bicycle
+3935907				Hanscom Air Force Base Spur	railway
+3943072				Pond Loop	hiking
+3962603	lcn			Alewife Linear Park	bicycle
+3962716	rcn			Lexington Branch	railway
+3977729	lwn			Circuit Trail Bedford (Outer)	hiking
+3987259	lwn			Emerson-Thoreau Amble	hiking
+3989407	lwn			Circuit Trail Bedford (Inner)	hiking
+3997673	lwn			Great Meadows Bird Observer Trail	hiking
+4008931	lwn			Favorite Audubon Trail	hiking
+4009025	lwn			Battle Road Trail	hiking
+4011294	MBTA	23		23 Inbound: Ashmont Station => Washington Street => Ruggles Station	bus
+4029604	lwn			Larabee Trail (Orange Blaze)	hiking
+4072529	lwn			Farley Ledge loop	hiking
+4086916	MBTA	Blue		MBTA Blue Line: Wonderland → Bowdoin	subway
+4090020	lwn			Burlington Landlocked Forest Yellow Loop	hiking
+4119988	lwn			ALB ACROSS Lexington Route B	foot
+4144310	lwn			Estabrook Concord-Carlisle	hiking
+4144762				Needham Branch (MBTA)	railway
+4160750	lwn			Langone-Pine Grove Farm Trail	hiking
+4164706	lwn			Lower Vine Brook Loop	hiking
+4216531	lwn			Jeff Smith Trail	hiking
+4473909	MBTA	CR-Franklin		CR-Franklin Inbound: Forge Park/495 => Forest Hills => South Station	train
+4473912	MBTA	CR-Providence		MBTA Providence/Stoughton Line: Boston South <=> Stoughton	train
+4479096	CCRTA	CapeFlyer		CCRTA CapeFlyer: Boston South <=> Hyannis	train
+4479330	MBTA	CR-Kingston		MBTA Kingston/Plymouth Line: Boston South <=> Kingston	train
+4743492	Amtrak	Downeaster		Amtrak Downeaster: Boston => Brunswick	train
+4768630	BRTA	15		"15 West Pittsfield, Lebanon Ave"	bus
+4797181	Amtrak	Valley Flyer		Amtrak Valley Flyer: New Haven => Greenfield	train
+4799100	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Norfolk	train
+4799101	Amtrak	Northeast Regional		Amtrak Northeast Regional: Springfield => Roanoke	train
+4815770				Berkshire Subdivision	railway
+4815771				Boston Subdivision	railway
+4836838				Ken Cuddeback Trail	foot
+5217198	SRTA Route 9	NB9		NB-FR Route 9	road
+5222537		Green line		Green line Corsair Shuttle	bus
+5319467	US:VT:Town	8A			road
+5322441				Landlocked Forest Yellow Trail	bicycle
+5336275	lwn			Diagle Trail	hiking
+5336276	lwn			Wilder Mckenzie Nature Trail	hiking
+5399880				Blue Trail	foot
+5399889		O		Orange Trail	foot
+5446328	rcn			Blackstone River Greenway	bicycle
+5502777				Mendon Town Forest Trails	mtb
+5503042	rwn			Midstate Trail	hiking
+5506419	lwn	C		ALC ACROSS Lexington Route C	foot
+5506423	lwn			ALD ACROSS Lexington Route D	foot
+5506446	lcn			Nashua River Rail Trail	bicycle
+5508467	ncn	7		USBR 7 (Vermont)	bicycle
+5518986	lwn			White Trail	hiking
+5568005	lwn			Red-Tail Trail	hiking
+5568006	lwn			River Trail	hiking
+5594419	lwn			Acorn Trail	hiking
+5598298					piste
+5610590	lwn			Tully Trail	hiking
+5637600				Reformatory Branch	railway
+5637935	lwn			Reformatory Branch Trail	bicycle
+5669949	lwn			Black Heritage Trail	hiking
+5691610	lwn	A		ACROSS Lexington Route A	hiking
+5694592	lwn	E		ACROSS Lexington Route E	hiking
+5694627	lcn			Minuteman-Battle Road Connector	bicycle
+5694655	lwn	F		ACROSS Lexington Route F	hiking
+5760881	MBTA	70		70 - Market Place Drive or Waltham Center - University Park	bus
+5810262	lwn	WG		Western Greenway	hiking
+6021160				Algonquin Gas Transmission	pipeline
+6209144	local			MacMillan Pier/Beech Forest	bicycle
+6209145				MacMillan Pier/Beech Forest	bicycle
+6296906	ncn	7		USBR 7 (Massachussetts)	bicycle
+6406206	doyle			Blue Route	hiking
+6406207	doyle			Yellow Route	hiking
+6406208	doyle			Red Route	hiking
+6576172	lwn			Thompson Pond Trail	hiking
+6576173	lwn			Twin Pond Trail	hiking
+6601537	lwn			Westvale-Harrington Park Yellow Trail	hiking
+6601723	lwn			Sprague Primary Trail	hiking
+6616466	lwn			West Concord Park Suggested Walk	hiking
+6618806	lwn			Buelher Winthrop Main Trails	hiking
+6622384	lwn			Jennie Dugan Brook and Hosmer Trail Circuit	hiking
+6622436	lwn			Mattison Field Trail yellow	hiking
+6674358	rcn	MCRT		Mass Central Rail Trail	bicycle
+6744186	lwn			Alan Emmet Trail	hiking
+6744187	lwn			Folly Trail	hiking
+6744188	lwn			Hermit Thrush Trail	hiking
+6745718	lwn			Buckboard Trail	hiking
+6791307				CSX Fitchburg Subdivision	railway
+6791952				Framingham Subdivision	railway
+7041837				Taconic Crest Trail	hiking
+7068639	rcn			Southern New England Trunkline Trail	bicycle
+7137330				Catamount Trail	piste
+7141251	rcn			Pierre Lallement Bike Path	bicycle
+7141252	lcn			Melnea Cass Bike Path	bicycle
+7156899	ncn	ECG		Charles River Path	bicycle
+7341076	lcn			Middlesex Canal Trail	hiking
+7352081				The Sandwich Boardwalk	foot
+7416053	lwn			Nature Trail	hiking
+7416076	lwn			Indian Trail	hiking
+7416348	rwn			Mahican-Mohawk Trail (M-M)	hiking
+7417035	lwn			Totem Trail	hiking
+7422799	US:NH	122			road
+7425146	lwn			North Pond Loop	hiking
+7425147	lwn			Tyler Swamp Loop	hiking
+7425341	lwn			Busby Trail	hiking
+7458496	lwn			Rounds Rock Trek	hiking
+7460718	lwn			Thoreau’s Footsteps	hiking
+7461384	lwn			Rounds Rock - Jones Nose Loop	hiking
+7461385	lwn			Jones Nose to Summit	hiking
+7461386	lwn			Stony Ledge	hiking
+7461387	lwn			Cheshire Harbor Trail	hiking
+7464538	lwn			Wilbur’s Clearing to Summit	hiking
+7499162	lwn			Simon's Rock Interpretive Trail	hiking
+7535203	lwn			Woodward Trails	hiking
+7542001	lwn			Poole Sachs Davis Loop	hiking
+7573751	MBTA	CR-Fitchburg		MBTA Fitchburg Line: Wachusett => Boston North	train
+7573752	MBTA	CR-Fitchburg		MBTA Fitchburg Line: Boston North => Wachusett	train
+7591386	lwn			Target Trail	hiking
+7591387	lwn			Hilltop Loop Trail	hiking
+7616932	lwn			Basin Pond Trail	hiking
+7617563	lwn			Washington Mountain Marsh Trail	hiking
+7617891	lwn			Felton Trail	hiking
+7617892	lwn			Spruce Trail	hiking
+7617893	lwn			Boulder Trail	hiking
+7617894	lwn			Navin Trail	hiking
+7618572	lwn			Eagle Ledge Trail	hiking
+7618573	lwn			Buckley Dunton Trail	hiking
+7618574	lwn			Ashley Trail	hiking
+7618575	lwn			Aqueduct Trail	hiking
+7618576	lwn			Schemerhorn Trail	hiking
+7618577	lwn			October Mountain Loop Trail	hiking
+7618578	lwn			Switchback Trail	hiking
+7699374	lwn			Groton Town Forest Race 9.5 mile Loop	foot
+7699375	lwn			Groton Town Forest Race 3.4 Mile Loop	foot
+7699376	lwn			Town Forest Loop Trail	foot
+7767183				Patriot Corridor	railway
+7841987	US:MA	15		MA 15	road
+7874284	MBTA	Red		MBTA Red Line: Ashmont → Alewife	subway
+7874285	MBTA	Red		MBTA Red Line: Alewife → Braintree	subway
+7874286	MBTA	Red		MBTA Red Line: Braintree → Alewife	subway
+7874311	MBTA	Orange		MBTA Orange Line: Forest Hills → Oak Grove	subway
+8035030	RIPTA	1		RIPTA 1 Hope/Eddy to South Attleboro T Station	bus
+8035149	RIPTA	1		RIPTA 1 Hope/Eddy to Shaws Front Door	bus
+8052512	lwn			Yellow Loop	hiking
+8052513	lwn			Unmarked Trail	hiking
+8052519	lwn			Red Trail	hiking
+8052520	lwn			Blue Trail	hiking
+8251687	NPS Lowell			Lowell National Park Trolley	tram
+8258277	lwn			Bancroft Castle	foot
+8258373	lwn			Marion Stoddart Nashua River Loop	foot
+8258374	lwn			Hayes Woods Lollipop	foot
+8258375	lwn			Royal Throne Trail	foot
+8258457	lwn			Skip Along Skitapet	foot
+8258458	lwn			Skinner Pond & Forest Trail	foot
+8258490	lwn			Shepley Steeplechase Trail	foot
+8258491	lwn			Harry's Dark Forest River Trail	foot
+8258537	lwn			Sabine Woods Loop	foot
+8258655	lwn			Mclains/Fitch Woods	foot
+8258656	lwn			Groton Hills Trail	foot
+8258662	lwn			Gamlin Crystal Springs	foot
+8258704	lwn			East Groton Tour	foot
+8258705	lwn			Wharton Plantation Trail	foot
+8258729	lwn			Wattles Pond Loop	foot
+8258791	lwn			Indian Hill	foot
+8258792	lwn			Rocky Hill Scenic Walk	foot
+8267206				Quebec – New England Transmission	power
+8272016	MBTA	71		71 Inbound: Watertown Square => Harvard Station	bus
+8272035	MBTA	71		71 Outbound: Harvard Station => Watertown Square	bus
+8329008	MBTA	SL5		Bus SL5 Inbound: Nubian => Downtown	bus
+8329009	MBTA	SL4		Bus SL4 Outbound: South Station => Nubian	bus
+8329010	MBTA	SL3		Bus SL3 Outbound: South Station => Chelsea	bus
+8329011	MBTA	SL2		Bus SL2 Outbound: South Station => Drydock Avenue	bus
+8329012	MBTA	SL1		Bus SL1 Inbound: Logan Airport => South Station	bus
+8329943	MBTA	7		7 Inbound: City Point => Otis & Summer	bus
+8329945	MBTA	4		4 Outbound: Design Center => South Station => North Station	bus
+8329946	MBTA	CT3		CT3 Inbound: Beth Israel Deaconess Hospital => Andrew Station (Weekdays)	bus
+8330048	MBTA	11		11 Inbound: City Point => Chauncy & Summer	bus
+8330049	MBTA	10		10 Inbound: City Point => South Bay Center => Copley	bus
+8330050	MBTA	9		9 Outbound: Copley Square => City Point	bus
+8330051	MBTA	8		8 Inbound: Harbor Point => South Bay Center => Kenmore (Peak Hours)	bus
+8330274	MBTA	22		22 Inbound: Ashmont Station => Talbot Ave => Ruggles Station	bus
+8330276	MBTA	21		21 Inbound: Ashmont Station => Forest Hills Station	bus
+8330277	MBTA	19		19 Inbound: Fields Corner Station => Ruggles Station (Weekdays)	bus
+8330278	MBTA	18		18 Inbound: Ashmont Station => Andrew Station	bus
+8330279	MBTA	17		17 Inbound: Fields Corner Station => Andrew Station	bus
+8330280	MBTA	16		16 Inbound: Forest Hills => South Bay Center => Andrew	bus
+8330281	MBTA	15		15 Inbound: Mattapan => Fields Corner & Nubian => Haymarket (Early Morning)	bus
+8330282	MBTA	14		14 Inbound: Roslindale Square => Heath Street	bus
+8330607	MBTA	51		51 Outbound: Forest Hills Station => Reservoir Station	bus
+8330608	MBTA	50		50 Inbound: Cleary Square => Forest Hills	bus
+8330609	MBTA	47		"47 Inbound: Central Square, Cambridge => Broadway Station"	bus
+8330610	MBTA	45		45 - Franklin Park - Ruggles Station	bus
+8330611	MBTA	44		44 - Jackson Square Station - Ruggles Station	bus
+8330612	MBTA	43		43 Inbound: Ruggles Station => Park Street Station	bus
+8330613	MBTA	42		42 Inbound: Forest Hills Station => Nubian Station	bus
+8330615	MBTA	40/50		MBTA 40/50	bus
+8330616	MBTA	40		40 - Georgetowne - Forest Hills Station	bus
+8330617	MBTA	39		39 - Forest Hills Station - Back Bay Station	bus
+8330618	MBTA	38		38 - Wren Street - Forest Hills Station	bus
+8330619	MBTA	37		37 - Baker Street & Vermont Street - Forest Hills Station	bus
+8330620	MBTA	36		36 - Millennium Park or VA Hospital - Forest Hills Station	bus
+8330621	MBTA	35		35 - Dedham Mall or Stimson Street - Forest Hills Station	bus
+8330622	MBTA	34E		34E - Walpole Center - Forest Hills Station	bus
+8330623	MBTA	34		34 - Dedham Mall or Dedham Line - Forest Hills Station	bus
+8330624	MBTA	33		33 - River Street & Milton Street - Mattapan Station	bus
+8330625	MBTA	32		32 - Wolcott or Cleary Square - Forest Hills Station	bus
+8330626	MBTA	31		31 Inbound: Mattapan Station => Morton Street => Forest Hills Station	bus
+8330627	MBTA	30		30 Inbound: Mattapan Station => Cummins Highway and Roslindale Square => Forest Hills Station	bus
+8330628	MBTA	29		29 Inbound: Mattapan Station => Jackson Square Station	bus
+8330629	MBTA	28		28 Inbound: Mattapan Station => Ruggles Station	bus
+8330631	MBTA	26		26 Inbound: Ashmont Station => Norfolk Street => Gallivan Boulevard	bus
+8330632	MBTA	24		24 Inbound: Wakefield Avenue & Truman Parkway => Ashmont Station	bus
+8330825	MBTA	66		66 Inbound: Harvard Square => Allston => Nubian Station	bus
+8330826	MBTA	65		65 Inbound: Brighton Center => Kenmore Station	bus
+8330827	MBTA	64		64 - Oak Square - University Park or Kendall/MIT Station	bus
+8330828	MBTA	62		62 Inbound: Bedford VA Hospital=> Alewife Station	bus
+8330829	MBTA	60		60 - Chestnut Hill - Kenmore Station	bus
+8330830	MBTA	59		59 - Needham Junction - Watertown Square	bus
+8330831	MBTA	57A		57A - Oak Square - Kenmore Station	bus:suspended
+8330833	MBTA	57		57 - Watertown Yard - Kenmore Station	bus
+8330977	MBTA	85		85 Inbound: Spring Hill => Kendall/MIT Station	bus
+8330979	MBTA	83		"83 - Rindge Avenue - Central Square, Cambridge"	bus
+8330980	MBTA	80		80 - Arlington Center - Lechmere Station	bus
+8330982	MBTA	78		78 - Arlmont Village - Harvard Station	bus
+8330983	MBTA	77		77 - Arlington Heights - Harvard Station	bus
+8330984	MBTA	62/76		62/76 - Bedford VA Hospital - Alewife Station via Hanscom Airport	bus
+8330985	MBTA	76		MBTA 76	bus
+8330986	MBTA	75		75 - Belmont Center - Harvard via Huron Avenue	bus
+8330987	MBTA	74		74 - Belmont Center - Harvard via Concord Avenue	bus
+8330988	MBTA	73		73 - Waverley Square - Harvard Station	bus
+8330991	MBTA	71		Bus 71: Aberdeen Ave => Harvard Square	bus
+8330993	MBTA	69		69 Inbound: Harvard Square => Lechmere Station	bus
+8330994	MBTA	68		68 Inbound: Harvard Square => Kendall/MIT Station	bus
+8330995	MBTA	67		67 - Turkey Hill - Alewife Station	bus
+8331138	MBTA	91		"91 Inbound: Sullivan Square Station => Central Square, Cambridge"	bus
+8331139	MBTA	90		90 - Davis Station - Assembly Row	bus
+8331140	MBTA	89		89 - Clarendon Hill or Davis Station - Sullivan Square Station	bus
+8331141	MBTA	88		88 - Clarendon Hill - Lechmere Station	bus
+8331142	MBTA	87		87 - Clarendon Hill or Arlington Center - Lechmere Station	bus
+8333226	MBTA	116		116 Outbound: Maverick Station => Wonderland Station	bus
+8333227	MBTA	114		114 Inbound: Market Basket => Maverick Station	bus
+8333228	MBTA	112		112 Inbound: Wellington Station => Wood Island Station	bus
+8333229	MBTA	111		111 Inbound: Woodlawn => Haymarket Station	bus
+8333230	MBTA	110		110 Inbound: Wonderland Station => Wellington Station	bus
+8333231	MBTA	109		109 Inbound: Linden Square => Harvard Square	bus
+8333232	MBTA	108		108 - Linden Square - Wellington Station	bus
+8333233	MBTA	106		106 Inbound: Lebanon Loop => Wellington Station	bus
+8333234	MBTA	105		105 - Malden Center Station - Sullivan Square Station via Newland Street Housing	bus
+8333235	MBTA	104		104 Inbound: Malden Center Station => Airport Station	bus
+8333241	MBTA	101		101 - Malden Center Station - Sullivan Square Station via Winter Hill	bus
+8333246	MBTA	100		100 Inbound: Elm Street => Wellington Station	bus
+8333248	MBTA	97		97 - Malden Center Station - Wellington Station	bus
+8333249	MBTA	96		96 - Medford Square - Harvard Station	bus
+8333250	MBTA	95		95 - West Medford or Arlington Center - Sullivan Square Station	bus
+8333251	MBTA	94		94 - Medford Square - Davis Station	bus
+8335667	MBTA	195		MBTA 195	bus
+8335668	MBTA	558		558 Inbound: Riverside => Newton Corner	bus
+8335669	MBTA	556		556 Inbound: Waltham Highlands => Newton Corner	bus
+8335670	MBTA	554		554 Inbound: Waverley Square => Newton Corner	bus
+8335671	MBTA	553		553 Inbound: Roberts => Newton Corner	bus
+8335672	MBTA	505		505 Inbound (longer): Waltham Center => Federal Street & Franklin Street	bus
+8335673	MBTA	504		504 Inbound: Watertown Yard => Copley Square => Federal Street & Franklin Street	bus
+8335674	MBTA	502		502 - Watertown Yard - Copley Station	bus:suspended
+8335675	MBTA	503		503 - Brighton Center - Copley Square	bus:suspended
+8335676	MBTA	501		501 Inbound: Brighton Center => Federal Street & Franklin Street	bus
+8335678	MBTA	171		171 Outbound: Nubian Station => Logan Airport Terminals (Early Morning Only)	bus
+8335679	Logan Airport	88		Massport 88	bus
+8335680	Logan Airport	55		Massport 55	bus
+8335681	Logan Airport	11		Massport 11	bus
+8335682	Logan Airport	66		Massport 66	bus
+8335683	Logan Airport	33		Massport 33	bus
+8335684	Logan Airport	22		Massport 22	bus
+8335895	MBTA	217		217 - Quincy Center Station - Ashmont Station via Wollaston Station	bus
+8335896	MBTA	215		215 - Quincy Center Station - Ashmont Station via West Quincy	bus
+8335897	MBTA	216		216 - Houghs Neck - Quincy Center Station	bus
+8335898	MBTA	214		214 - Germantown - Quincy Center Station	bus:suspended
+8335899	MBTA	212		212 - Quincy Center Station - North Quincy Station	bus:suspended
+8335900	MBTA	211		211 - Quincy Center Station - Squantum	bus
+8335901	MBTA	210		210 - Quincy Center Station - Fields Corner Station	bus
+8335902	MBTA	202		202 Outbound: Fields Corner Loop => Adams Street => Keystone Apartments	bus
+8335903	MBTA	201		201 - Fields Corner Loop via Neponset Ave	bus
+8335904	MBTA	137		137 - Reading Depot - Malden Center Station via North Avenue	bus
+8335906	MBTA	134		134 - North Woburn - Wellington Station	bus
+8335908	MBTA	131		131 Outbound: Malden Center => East Side & Oak Grove => Melrose Highlands	bus
+8336014	MBTA	230		230 - Montello Station - Quincy Center Station	bus
+8336015	MBTA	225		225 Inbound: Weymouth Landing => Howard Street => Quincy Center Station	bus
+8336016	MBTA	222		222 - East Weymouth - Quincy Center Station	bus
+8336017	MBTA	221		221 - Fort Point - Quincy Center Station	bus:suspended
+8336018	MBTA	220		220 - Hingham Depot - Quincy Center Station	bus
+8337132	MBTA	240		240 - Avon Square - Ashmont Station	bus
+8337133	MBTA	238		238 - Holbrook/Randolph Station - Quincy Center Station	bus
+8337134	MBTA	236		236 - South Shore Plaza - Quincy Center Station	bus
+8338256	MBTA	354		354 Inbound: North Burlington => Boston (Express)	bus
+8338258	MBTA	351		351 Inbound: Bedford Woods Drive => Third Avenue	bus
+8338259	MBTA	350		350 Inbound: North Burlington => Mall Road => Alewife	bus
+8338575	MBTA	430		430 - Saugus Center - Malden Center Station	bus
+8338576	MBTA	429		"429 - Northgate Shopping Center - Central Square, Lynn"	bus
+8338577	MBTA	428		428 Outbound: Haymarket => Oaklandvale	bus
+8338578	MBTA	426W		MBTA 426W	bus
+8338579	MBTA	426		"426 - Central Square, Lynn - Haymarket or Wonderland Station"	bus
+8338580	MBTA	424W		MBTA 424W	bus
+8338581	MBTA	424		424 Inbound: Eastern Avenue & Essex Street => Wonderland	bus
+8338582	MBTA	411		411 - Kennedy Drive or Jack Satter House - Malden Center Station	bus
+8338992	MBTA	450W		MBTA 450W	bus
+8338993	MBTA	450		450 - Salem Depot - Wonderland or Haymarket Station	bus
+8338996	MBTA	442		442 Inbound (skipping Point of Pines): Marblehead => Wonderland Station	bus
+8338997	MBTA	441		441 - Marblehead - Wonderland Station via Paradise Road	bus
+8338998	MBTA	439		439 Inbound: Nahant => Wonderland Station	bus
+8338999	MBTA	436		"436 - Liberty Tree Mall - Central Square, Lynn via Goodwin Circle"	bus
+8339000	MBTA	435		"435 - Liberty Tree Mall - Central Square, Lynn via Peabody Square"	bus
+8339001	MBTA	434		MBTA 434	bus:suspended
+8340145	MBTA	716		716 Inbound: Cobbs Corner => Mattapan Station	bus
+8340146	MBTA	714		"714 Inbound: Pemberton Point, Hull => Station Street, Hingham"	bus
+8340147	MBTA	713		713 Inbound: Point Shirley => Orient Heights Station	bus
+8340148	MBTA	712		712 Inbound: Point Shirley => Orient Heights	bus
+8340151	MBTA	456		456 Inbound: Salem => Lynn	bus
+8340153	MBTA	455		455 - Salem Depot - Wonderland Station	bus
+8340154	MBTA	451		MBTA 451	bus
+8364283	lwn			Jazz Along the Charles	hiking
+8438131	lwn			West Groton Tour	foot
+8438258	lwn			South Groton Tour	foot
+8440075	lwn			Groton Tour	foot
+8443314	lcn			Assabet River Rail Trail	bicycle
+8462928	lcn			Province Lands Bike Trail	bicycle
+8609467	rcn			Bruce Freeman Rail Trail	bicycle
+8736723					pipeline
+8736724					pipeline
+8790250	lwn			Drumlin Hop	foot
+8791028					railway
+8791031				Fall River Branch	railway
+8813256	ncn	ECG		East Coast Greenway (MA complementary Cape Cod route)	bicycle
+8968575				Freight Main Line - District 2	railway
+8969234				Freight Main Line - District 3	railway
+8969235				"Worcester, Nashua & Portland Railroad"	railway
+8969236				"Worcester, Nashua & Portland Railroad"	railway
+9047981				Freight Main Line - District 4	railway
+9048059				Connecticut River Main Line	railway
+9048140					railway
+9048176				Gardner Branch	railway
+9071712				Pioneer Valley Railroad	railway
+9086180				Maritimes and Northeast Pipeline	pipeline
+9096098				"Nashua, Acton & Boston Railroad"	railway
+9191703	RIPTA	35		RIPTA 35 Rumford/Newport Avenue to Kennedy Plaza	bus
+9191704	RIPTA	35		RIPTA 35 Rumford/Newport Avenue to South Attleboro Station	bus
+9191705	RIPTA	34		RIPTA 34 East Providence to Kennedy Plaza	bus
+9191706	RIPTA	34		RIPTA 34 East Providence to Seekonk Square	bus
+9191707	RIPTA	32		RIPTA 32 East Providence/Wampanoag to Kennedy Plaza	bus
+9191708	RIPTA	32		RIPTA 32 East Providence/Wampanoag to Seekonk Square	bus
+9197255	WRTA	2		Union Station Hub – Worcester Airport via Pleasant St.	bus
+9197256	WRTA	1		Union Station Hub  – Mount St. Ann via Providence St.	bus
+9201516	WRTA	14		Union Station Hub – Showcase Cinemas/Holden via Burncoat St.	bus
+9201517	WRTA	11		Union Station Hub – The Fair Plaza via Vernon Hill and Greenwood St.	bus
+9201518	WRTA	7		Union Station Hub – Washington Heights Apts.	bus
+9201519	WRTA	6		Union Station Hub –  Tatnuck Square via Chandler St.	bus
+9201520	WRTA	5		Union Station Hub – Southwest Commons / Wheelock Ave. via Grafton St.	bus
+9201521	WRTA	4		Union Station Hub – The Shoppes at Blackstone Valley via Millbury St.	bus
+9201522	WRTA	3A		WRTA 3A	bus
+9201523	WRTA	3		Union Station Hub – Worcester State College via Highland St.	bus
+9201813				Upper Boston Post Road	road
+9201984	WRTA	42		Downtown Worcester – Oxford – Webster via Southbridge St. & Rt. 12	bus
+9201985	WRTA	40		Downtown Loop	bus
+9201986	WRTA	33		Downtown Worcester – Spencer – Brookfield via Main St. & Rt. 9	bus
+9201987	WRTA	31		Union Station Hub – Lincoln Plaza via Grove St. & West Boylston St.	bus
+9201988	WRTA	30		Union Station Hub – W. Boylston Wal-Mart via Grove St. & W. Boylston St.	bus
+9201989	WRTA	29		Union Station Hub – Southbridge – Charlton	bus
+9201990	WRTA	27		Union Station Hub – Auburn Mall via Main St.	bus
+9201991	WRTA	26		Union Station Hub – Great Brook Valley via Lincoln St.	bus
+9201992	WRTA	25		Union Station Hub – Auburn Industrial Park via Canterbury & Southbridge St.	bus
+9201993	WRTA	24/24A		Union Station Hub – UMass Medical Center via Belmont St.	bus
+9201994	WRTA	24		WRTA 24	bus
+9201995	WRTA	23		Union Station Hub – Mountain Village via Lincoln St.	bus
+9201996	WRTA	19		Union Station Hub – Goddard Memorial Drive/ Leicester WalMart via Main St.	bus
+9201997	WRTA	16		Union Station Hub – Lincoln Plaza via Hamilton St. & Lake Ave.	bus
+9201998	WRTA	15		Union Station Hub – Shrewsbury Center via Shrewsbury St. & Route 9	bus
+9204000	PVTA	B17		Eastfield Mall via Worthington St/Wilbraham Rd	bus
+9204001	PVTA	B12		Stonybrook Express	bus
+9204002	PVTA	B7		Eastfield Mall via Worthington St/Wilbraham Rd	bus
+9204003	PVTA	B6		Ludlow via Bay St	bus
+9204004	PVTA	B4		Plainfield Street	bus
+9204005	PVTA	LOOP		The Loop	bus
+9208340	PVTA	G2		Carew-East Springfield / Belmont-Dwight Rd	bus
+9208341	PVTA	G1		Chicopee / Sumner-Allen-Canon Circle	bus
+9209292	PVTA	R14		Feeding Hills/Springfield	bus
+9209293	PVTA	10S		Westfeild Center / Westffield State University	bus
+9209294	PVTA	R10		Westfield/WSU/West Springfield via Route 20	bus
+9209295	PVTA	G5		Dickinson-Jewish Home/Longmeadow	bus
+9209296	PVTA	G3		Spfld Plaza via Liberty/King-Westford	bus
+9215638				Lower Boston Post Road	historic
+9219203	PVTA	P21E		Holyoke/Springfield Express via I-391	bus
+9219204	PVTA	P21		Holyoke/Springfield via Chicopee	bus
+9219205	PVTA	P20E		Holyoke Mall Express via I-91	bus
+9219206	PVTA	P20		Holyoke/Springfield via Holyoke Mall/Riverdale St	bus
+9232428	PVTA	R41		Northampton/Easthampton/HCC	bus
+9232429	PVTA	B48		Northampton/Holyoke via Route 5	bus
+9232430	PVTA	R24		HTC/Holyoke Hospital/Holyoke Mall	bus
+9232431	PVTA	R29		Amherst/Holyoke via Route 116	bus
+9232432	PVTA	B23		Holyoke/Westfield via Holyoke Community College	bus
+9232433	PVTA	OWL		Westfield State University OWL Shuttle	bus
+9232434	PVTA	X92		Mid City Crosstown	bus
+9232435	PVTA	X90B		PVTA X90B	bus
+9232436	PVTA	X90		Inner Crosstown	bus
+9233358	PVTA	WP		Eastfield Mall-Ware Center	bus
+9233359	PVTA	WP-E		PVTA WP-E	bus
+9233360	PVTA	46		Bus 46: Whately P&R => UMass	bus
+9233361	PVTA	45	south	Bus 45: UMass => Belchertown Center	bus
+9233362	PVTA	39E	south	Bus 39E: Smith College => Mt. Holyoke	bus
+9233363	PVTA	39		Smith College-Mt.Holyoke College	bus
+9233364	PVTA	38		MHC / HC / AC / UM	bus
+9233365	PVTA	36	south	Bus 36: Olympia Pl => Atkins Farm	bus
+9233366	PVTA	35		Campus Shuttle Southbound	bus
+9233367	PVTA	34		Bus 34: Campus Shuttle Northbound	bus
+9233368	PVTA	33	south	Bus 33: Mill Hollow Apts => Stop & Shop	bus
+9233372	PVTA	P11		Holyoke Community College / Springfield Express	bus
+9233373	PVTA	NE		Easthampton-Northampton	bus
+9233374	PVTA	R44		Bus R44: Academy of Music => Florence Heights	bus
+9233375	PVTA	B43	east	Bus B43 No School: Smith College => UMass => Amherst College	bus
+9233376	PVTA	R42		Northampton/Williamsburg	bus
+9233562	FRTA	22		FRTA 22 BlueLink Connector	bus
+9233563	FRTA	21		FRTA 21 Greenfield Community	bus
+9233564	FRTA	20		FRTA 20 GreenLink Connector	bus
+9233723	FRTA	41		FRTA 41 Charlemont/Greenfield Route	bus
+9233724	FRTA	32		FRTA 32 Orange/Greenfield Route	bus
+9233725	Franklin Regional Transit Authority	31	south	FRTA Bus 31: JWO Transit Center => Northampton Academy of Music	bus
+9233726	FRTA	24		FRTA 24 Crosstown Connector	bus
+9233727	FRTA	23		FRTA 23 Sunderland/Greenfield Route	bus
+9236677	MART	9		MART 9	bus
+9236678	MART	2		MART 2	bus
+9236679	MART	3		MART 3	bus
+9236680	MART	1		MART 1	bus
+9239040	MART	Littleton-Westford Commuter Rail Shuttle		MART Littleton-Westford Commuter Rail Shuttle	bus
+9239041	MART	Devens Regional Shuttle		MART Devens Regional Shuttle	bus
+9239042	MART	Athol-Orange Shuttle		MART Athol-Orange Shuttle	bus
+9239043	MART	Winchendon Link		MART G-Link Winchendon	bus
+9239044	MART	Athol Link		MART G-Link Athol	bus
+9239045	MART	Wachusett Shuttle		MART Gardner-Wachusett Commuter Shuttle	bus
+9239046	MART	Intercity/MWCC		MART Intercity/MWCC	bus
+9239047	MART	2		MART Gardner Route 2	bus
+9239048	MART	1		MART Gardner Route 1	bus
+9239049	MART	11		MART 11	bus
+9239050	MART	8		MART 8	bus
+9239051	MART	7		MART 7	bus
+9239052	MART	6		MART 6	bus
+9239053	MART	5		MART 5	bus
+9239054	MART	4		MART 4	bus
+9239388	SRTA	North End Shuttle		SRTA New Bedford Route 21 North End Shuttle	bus
+9239389	SRTA	11		SRTA New Bedford Route 11 Fairhaven	bus
+9239390	SRTA	10		SRTA New Bedford Route 10 Dartmouth Mall	bus
+9239391	SRTA	8		SRTA New Bedford Route 8 Mount Pleasant	bus
+9239392	SRTA	6		SRTA New Bedford Route 6 Shawmut/Rockdale	bus
+9239393	SRTA	5		SRTA New Bedford Route 5 Rivet Street	bus
+9239394	SRTA	4		SRTA New Bedford Route 4 Ashley Boulevard	bus
+9239395	SRTA	3		SRTA New Bedford Route 3 Dartmouth Street	bus
+9239396	SRTA	2		SRTA New Bedford Route 2 Lund's Corner	bus
+9239397	SRTA	1		SRTA New Bedford Route 1 Fort Rodman	bus
+9242243	SRTA	2		SRTA Fall River Route 2 North Main	bus
+9242245	SRTA	1		SRTA Fall River Route 1 South Main	bus
+9245263	SRTA	7		SRTA Fall River Route 7 Bay Street	bus
+9245264	SRTA	6		SRTA Fall River Route 6 Pleasant Street	bus
+9245265	SRTA	5		SRTA Fall River Route 5 Stafford Road	bus
+9245266	SRTA	4		SRTA Fall River Route 4 Robeson Street	bus
+9245267	SRTA	3		SRTA Fall River Route 3 Laurel	bus
+9248733	SRTA/GATRA	Wareham-New Bedford		SRTA/GATRA Wareham-New Bedford Connection	bus
+9248734	SRTA	9		SRTA New Bedford Route 9 New Bedford/Fall River	bus
+9248735	SRTA	14		SRTA Fall River Route 14 Swansea Mall	bus
+9248736	SRTA	10		SRTA Fall River Route 10 Rodman Street	bus
+9248737	SRTA	9		SRTA Fall River Route 9 Bedford Street	bus
+9248738	SRTA	8		SRTA Fall River Route 8 Bristol Community College/Durfee High School	bus
+9249005	GATRA	24		"GATRA 24 Attleboro/Pawtucket, Rhode Island"	bus
+9249006	GATRA	18		GATRA 18 Attleboro/Norton/Taunton	bus
+9249007	GATRA	16		GATRA 16 Seekonk/Attleboro	bus
+9249008	GATRA	15		GATRA 15 Oak Hill	bus
+9249009	GATRA	14		GATRA 14 Attleboro/North Attleboro/Plainville	bus
+9249010	GATRA	12		GATRA 12 Attleboro/South Attleboro/North Attleboro	bus
+9249011	GATRA	11		GATRA 11 South Attleboro Connector	bus
+9249012	GATRA	10		GATRA 10 Attleboro/North Attleboro	bus
+9249105	GATRA	140		GATRA 140 Norton-Mansfield	bus
+9249106	GATRA	FAB		GATRA Franklin Area Bus	bus
+9249108	GATRA	North Bellingham Shuttle		GATRA North Bellingham Shuttle	bus
+9249109	GATRA	South Bellingham Shuttle		GATRA South Bellingham Shuttle	bus
+9252154	GATRA	Pembroke Shuttle		GATRA Pembroke Shuttle	bus
+9252155	GATRA	3		GATRA Onset/Wareham Link 3 Shangri-La to Cranberry Plaza	bus
+9252156	GATRA	2		GATRA Onset/Wareham Link 2 Cranberry Plaza to Buzzards Bay (Main Street)	bus
+9252157	GATRA	1		GATRA Onset/Wareham Link 1 Wareham/Onset/Wareham	bus
+9252158	GATRA	Tri-Town Connector		GATRA Tri-Town Connector	bus
+9252159	GATRA	Foxborough Commuter Service		GATRA Foxborough Commuter Service	bus
+9252160	GATRA	4		GATRA Onset/Wareham Link 4 Cranberry Plaza to West Wareham	bus
+9252161	GATRA	Middleborough-Taunton Connection		GATRA Middleborough-Taunton Connection	bus
+9252162	GATRA	Downtown Middleborough Shuttle		GATRA Downtown Middleborough Shuttle	bus
+9252163	GATRA	Medway T Shuttle		GATRA Medway T Shuttle	bus
+9252164	GATRA	SAIL		GATRA Seaside Area InterTown Line	bus
+9254413	GATRA	Wareham-Plymouth Connection		GATRA Wareham-Plymouth Connection	bus
+9254414	GATRA	9		GATRA 9 Weir/Route 138	bus
+9254415	GATRA	8		GATRA 8 County Street/Target	bus
+9254416	GATRA	7		GATRA 7 School Street/Route 44/Taunton/Raynham	bus
+9254417	GATRA	6		GATRA 6 Whittenton	bus
+9254418	GATRA	1		GATRA 1 Westside	bus
+9254419	GATRA	SLOOP		GATRA Scituate Loop	bus
+9254420	GATRA	PAL Manomet/Cedarville Deviated Link		GATRA Plymouth Area Link Manomet/Cedarville Deviated Link	bus
+9254421	GATRA	PAL Mayflower Link		GATRA Plymouth Area Link Mayflower Link	bus
+9254422	GATRA	PAL Liberty Link		GATRA Plymouth Area Link Liberty Link	bus
+9254423	GATRA	PAL Freedom Link		GATRA Plymouth Area Link Freedom Link	bus
+9257143	LRTA	10		LRTA 10 Dracut/Tyngsborough	bus
+9257144	LRTA	9		LRTA 9 Kennedy Center - Fox Hall LaLacheur Ball Park	bus
+9257145	LRTA	8		LRTA 8 Kennedy Center - Shop and Save	bus
+9257146	LRTA	7		LRTA 7 Lowell Regional Voke Tech - UMass Lowell North - Kennedy Center	bus
+9257147	LRTA	6/9		LRTA 6/9 (combined Saturday service)	bus
+9257148	LRTA	6		LRTA 6 UMASS South Parking Lot - Kennedy Center	bus
+9257149	LRTA	5		LRTA 5 Kennedy Center - Drum Hill Plaza	bus
+9257150	LRTA	4		LRTA 4 VA Clinic - Kennedy Center	bus
+9257151	LRTA	3/4		LRTA 3/4 (combined Saturday service)	bus
+9257152	LRTA	3		LRTA 3 Kennedy Center - North Billerica Station	bus
+9257153	LRTA	2		LRTA 2 Belvidere	bus
+9257154	LRTA	1/8		LRTA 1/8 (combined Saturday service) Kennedy Center - Shop and Save	bus
+9257155	LRTA	1		LRTA 1 Kennedy Center - Sunrise Plaza - Village Square	bus
+9260354	LRTA	20		LRTA 20 Downtown/UMass North	bus
+9260355	LRTA	19		LRTA 19 Pheasant Lane Mall via Middlesex Street	bus
+9260356	LRTA	18		LRTA 18 Downtown Shuttle	bus
+9260357	LRTA	17		LRTA 17 North Chelmsford via Middlesex Street	bus
+9260358	LRTA	16		LRTA 16 Chelmsford Center via Chelmsford Street	bus
+9260359	LRTA	15		LRTA 15 Chelmsford/Westford via Route 129/110	bus
+9260360	LRTA	14		LRTA 14 Burlington Mall/Lahey Clinic	bus
+9260361	LRTA	13		LRTA 13 Billerica via Edson	bus
+9260362	LRTA	12		LRTA 12 Tewksbury via Route 38/Wilmington Train Station	bus
+9260363	LRTA	11		LRTA 11 IRS/Raytheon via Route 133	bus
+9373149					bicycle
+9704911	Amtrak;CTrail	Hartford Line		Amtrak/CTrail Hartford Line: New Haven => Springfield	train
+9709937	MBTA	Green-E		MBTA Green Line (E): Heath Street → Medford/Tufts	light_rail
+9709962	lcn			Cape Cod Canal Bikeway South	bicycle
+9709963	lcn			Cape Cod Canal Bikeway North	bicycle
+9710613	lcn			North Central Pathway	bicycle
+9710627	lcn			Upper Charles Trail	bicycle
+9710632	lcn	SSB		Shining Sea Bikeway	bicycle
+9710635	lcn			Province Lands Bike Trail	bicycle
+9710637	lcn	OCRT		Old Colony Rail Trail	bicycle
+9710642	lcn	CCRT		Cape Cod Rail Trail	bicycle
+9710644	lcn			Connecticut River Walk and Bikeway	bicycle
+9710649	lcn			Independence Greenway	bicycle
+9710651	lcn			Manhan Rail Trail	bicycle
+9710654	lcn			Neponset River Greenway	bicycle
+9710656	rcn			Northern Strand Community Trail	bicycle
+9796293	Amtrak	Acela		Amtrak Acela: Washington => Boston	train
+9796352	Amtrak	Acela		Amtrak Acela: Boston => Washington	train
+9892107	lcn			Yellow Triangle	mtb
+9897749				Secondary Trail (Orange)	hiking
+9897750					hiking
+9897751	lwn			Main Trail (blue)	hiking
+9897752	lwn				hiking
+9897753	lwn				hiking
+9964045					
+9964046				Eastern Route	
+9964047	MBTA			Eastern Route Main Line	railway
+10001392	UMass Lowell	Red Line		UMass Lowell Red Line: East Campus - South Campus	bus
+10001393	UMass Lowell	Orange Line		UMass Lowell Orange Line North Campus - University Crossing - University Suites	bus
+10091190	UMass Lowell	Red Line (N&W)		UMass Lowell Red Line (N&W) South Campus - Riverview Suites - East Campus	bus
+10099593	MBTA	Green-D		MBTA Green Line (D): Union Square → Riverside	light_rail
+10117606	lwn			Redevelopment Rove	foot
+10117607	lwn			Heritage Hike	foot
+10126263	lwn			Waterpower Walk	foot
+10126264	lwn			Riverwalk Ramble	foot
+10128694	UMass Lowell	Downtown Express		UMass Lowell Downtown Express: South Campus - Downtown - Inn & Conference Center	bus
+10128695	UMass Lowell	Orange Line (N&W)		UMass Lowell Orange Line (N&W) East Campus - University Crossing - North Campus	bus
+10128696	UMass Lowell	Yellow Line (N&W)		UMass Lowell Yellow Line (N&W) Inn & Conference Center - University Crossing - East Campus	bus
+10128697	UMass Lowell	Yellow South		UMass Lowell Yellow South Inn & Conference Center - South Campus	bus
+10128698	UMass Lowell	Yellow North		UMass Lowell Yellow North Inn & Conference Center - University Crossing - North Campus	bus
+10128699	UMass Lowell	Blue Line		UMass Lowell Blue Line North Campus - University Crossing - South Campus	bus
+10128700	UMass Lowell	Purple Line		UMass Lowell Purple Line North Campus - 1001 Pawtucket Blvd	bus
+10149937	UMass Lowell	Orange Line (N&W)		UMass Lowell Orange Line (N&W) North Campus - University Crossing - East Campus	bus
+10149938	UMass Lowell	Drum Hill Line		UMass Lowell Drum Hill Line East Campus - South Campus - Drum Hill Plaza	bus
+10149939	UMass Lowell	Drum Hill Line		UMass Lowell Drum Hill Line Drum Hill Plaza - East Campus	bus
+10149940	UMass Lowell	Blue Line		UMass Lowell Blue Line South Campus - Riverview Suites - North Campus	bus
+10149942	UMass Lowell	Red Line (N&W)		UMass Lowell Red Line (N&W) East Campus - University Crossing - South Campus	bus
+10153381	LRTA	4		LRTA 4 Kennedy Center - VA Clinic	bus
+10153382	LRTA	1/8		LRTA 1/8 (combined Saturday service) Shop and Save - Kennedy Center	bus
+10153383	LRTA	1		LRTA 1 Village Square - Kennedy Center	bus
+10153384	LRTA	3		LRTA 3 North Billerica Station - Kennedy Center	bus
+10153459	LRTA	6		LRTA 6 Kennedy Center - UMASS South Parking Lot	bus
+10153460	LRTA	5		LRTA 5 Drum Hill Plaza - Kennedy Center	bus
+10169752	LRTA	8		LRTA 8 Shop and Save - Kennedy Center	bus
+10169753	LRTA	7		LRTA 7 Kennedy Center - UMass Lowell North - Lowell Regional Voke Tech	bus
+10186407	LRTA	9		LRTA 9 Fox Hall LaLacheur Ball Park - Kennedy Center	bus
+10314974	lwn			Interior Loop Trail	hiking
+10314975	lwn			BoundaryTrail	hiking
+10315070	lwn			Two Brothers Trail	hiking
+10318108	lwn			Long Lake Loop	hiking
+10318441	lwn			Blue Dot Trail	hiking
+10325052	lwn			Mother Loop Trail	hiking
+10325391	lwn			Father Loop trail	hiking
+10327896	lwn			Mount Misery Round Trip	hiking
+10329150	rwn			Hammertown Loop	hiking
+10329151	rwn			Clam River Loop	hiking
+10329152	rwn			Clam River Trail	hiking
+10329153	lwn			Charcol Trail	hiking
+10329154	lwn			Stevens Glenn Loop Trail	hiking
+10329155	lwn			Hoosic Ridge Trail	hiking
+10329156	lwn			Old Mill Trail	hiking
+10329174	rwn			Burbank Trail	hiking
+10329297	lwn			Cranberry Bog - Pennensula Trail	hiking
+10330466	lwn			Tom Paul Trail	hiking
+10330467	lwn			Stone Arch Bridge	hiking
+10331622	rwn			Hickey and Peeskawso Loop	hiking
+10381049	lwn			Woodhaven Trails	hiking
+10381071				Kulmala Trail	hiking
+10381072	lwn			Russell Trail	hiking
+10381118				Likely Trail	hiking
+10381167				McAfee Trail	hiking
+10563011	MBTA	CR-Newburyport		MBTA Newburyport/Rockport Line: Boston North <=> Rockport	train
+10626855	lwn			Browing Fields & Pigeon Hill Loop	hiking
+10643101	lcn			East Boston Greenway	bicycle
+10651945	Flixbus	2610		Flixbus 2610: Boston => New York City	bus
+10651946	Flixbus	2610		Flixbus 2610: New York City => Boston	bus
+10653417	Flixbus	N2610		"Flixbus N2610: Washington, D.C. => Boston"	bus
+10653418	Flixbus	N2610		"Flixbus N2610: Boston => Washington, D.C."	bus
+10867310	MBTA	226		226 - Columbian Square - Braintree Station	bus
+10946019	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Boston => Chicago	train
+11000064	lwn	G		ACROSS Lexington Route G	hiking
+11000352	lwn	H		ACROSS Lexington Route H	foot
+11000425	lwn	M		ACROSS Lexington Route M	foot
+11000509	lwn	L		ACROSS Lexington Route L	foot
+11038937	rwn			Nipmuck Trail	hiking
+11094741				Boston Worcester Air Line Trail	bicycle
+11102215	rwn			North South Trail	hiking
+11160927	rwn			South Taconic Trail	hiking
+11160931	lwn			Paradise Lane Trail	hiking
+11160932	lwn			Mt. Frissell	hiking
+11188258		CCP		The Cape Cod Way	hiking
+11201517	MBTA	9		9 Inbound: City Point => Copley Square	bus
+11203955	MBTA	504		504 Outbound: Federal Street & Franklin Street => Copley Square => Newton Corner => Watertown	bus
+11215086	lcn			Chelsea Greenway	bicycle
+11216234	rwn			Tunxis Trail	hiking
+11230152					road
+11248186	lwn			Kennedy Pond Loop	hiking
+11248199	lwn			Nashoba Brook Woodland Loop	hiking
+11249665	lwn			Barretts Mill Loop	hiking
+11249732	lwn			Egg Rock Trail	hiking
+11250640	lwn			Ridge Trail	hiking
+11250641	lwn			Breakneck Pond View Trail	hiking
+11250642	lwn			East Ridge Trail	hiking
+11252371	lwn			Lyons-Cutler Loop	hiking
+11261166	lwn			Punkatasset Estabrook Loop	hiking
+11261353	lwn			Whipple Hill Locke Farm Loop	hiking
+11265532	lcn			Rockland Rail Trail	bicycle
+11280872	lwn			Farrar Pond Loop	hiking
+11293008	rwn	7 Linc/Weston/Wayland		BCT 7 First Drumlin Route (LincolnWeston/Wayland)	hiking
+11295281	lwn			Codman Forest Loop	hiking
+11296216				Magnolia Trail	hiking
+11296217				East-West Trail	hiking
+11296433	rwn	BCT 7 Concord/Lincoln		BCT Section 7 Concord/Lincoln	hiking
+11298435	rwn	BCT 7		BCT 7 Lincoln/Wayland	hiking
+11307398	rwn	BCT 6		BCT 5a & 6 Billerica/Bedford/Concord	hiking
+11315083	rwn	BCT 6		BCT 6 Acton/Concord	hiking
+11329219				Tri-Community Greenway	bicycle
+11333414	lcn			Horn Pond Bikeway	bicycle
+11351528	lwn			Hazel Brook to Ponyhenge	hiking
+11359933	MBTA	Green-B		MBTA Green Line (B): Government Center → Boston College	light_rail
+11359934	MBTA	Green-C		MBTA Green Line (C): Government Center → Cleveland Circle	light_rail
+11359953	MBTA	Mattapan		MBTA Mattapan Trolley: Mattapan → Ashmont	light_rail
+11385374				Geology Trail	
+11497265	lcn			South Bay Harbor Trail	bicycle
+11504323	lwn			Red Dot Loop	hiking
+11508719	rwn			BCT 11	hiking
+11511626	rwn			BCT 12	hiking
+11518033	US:NH	28			road
+11539231				Agawam River Trail	hiking
+11558481				Mill Creek Riverwalk	foot
+11582635	MBTA	52		52 Inbound: Dedham Mall => Watertown Yard	bus
+11587318	MBTA	61		61 Inbound: North Waltham => Waltham Center	bus
+11593535				Charm Bracelet Trail	foot
+11593850	BAT	1		Montello Street Via North Main Street	bus
+11594052	BAT	2		S Plaza/Campello Via Main Street	bus
+11594125	BAT	3		VA Hospital via Belmont	bus
+11594204	BAT	4		Westgate via Pleasant	bus
+11594246	BAT	4A		Westgate Mall via N Warren	bus
+11594335	BAT	5		Brockton Hospital via Centre Street	bus
+11594408	BAT	6		Massasoit via Crescent Street	bus
+11594480	BAT	8		Southfield via Warren & Plain Street	bus
+11594550	BAT	9		Pearl via W Elm & Torrey	bus
+11594629	BAT	10		Lisa & Howard via N Quincy & Court	bus
+11594698	BAT	11		Cary Hill & The Village	bus
+11595081	BAT	12		Ashmont	bus
+11595225	BAT	14		Stoughton	bus
+11595289	BAT	RF		Rockland Flex	bus
+11598903	BRTA	3		"3 North Adams, Williamstown"	bus
+11599347	BRTA	4		"4 Pittsfield, Dalton, Hinsdale"	bus
+11599614	BRTA	5		"5 Pittsfield, Lanseboro"	bus
+11599745	BRTA	12		12 Pittsfield Southeast Loop	bus
+11599890	BRTA	14		14 Pittsfield Southeast Loop	bus
+11600069	BRTA	16		"16 Allendale Plaza, Crane Ave"	bus
+11600237	BRTA	21		"21 Lee, Great Barrington"	bus
+11600419	BRTA	22		22 Great Barrington Loop	bus
+11600534	BRTA	34		34 North Adams Loop	bus
+11600660	BRTA	11		11 Berkshire Community College	bus
+11600719	BRTA	11N		11N Berkshire Community College Night Loop	bus
+11600742	BRTA	21X		21X Express Pittsfield/Great Barrington	bus
+11608507	MBTA	240		240 Outbound: Ashmont => Avon Square	bus
+11621121	Merrimack Valley Transit	1		Lawrence-Methuen-Haverhill	bus
+11621198	Merrimack Valley Transit	21		Andover Shuttle	bus
+11621229	MWRTA	1		Route 1	bus
+11621242	Merrimack Valley Transit	32		Andover	bus
+11621341	Merrimack Valley Transit	33		North Andover	bus
+11621400	Merrimack Valley Transit	34		Prospect Hill	bus
+11621572	Merrimack Valley Transit	35		Water Street	bus
+11621802	Merrimack Valley Transit	36		Holy Family Hospital/Lawrence Street	bus
+11621867	Merrimack Valley Transit	37		Beacon Street	bus
+11621923	MWRTA	2		Route 2	bus
+11621996	Merrimack Valley Transit	39A		Colonial Heights/North Andover Mall	bus
+11622076	MWRTA	3		Route 3	bus
+11622084	Merrimack Valley Transit	39B		North Andover Mall/Phillips Street	bus
+11622160	MWRTA	4G		Route 4G	bus
+11622299	Merrimack Valley Transit	40		Methuen Square	bus
+11622493	Merrimack Valley Transit	41		Lawrence-Lowell	bus
+11623029	MWRTA	4N		Route 4N	bus
+11623098	MWRTA	4S		Route 4S	bus
+11623170	MWRTA	5		Route 5	bus
+11623340	MWRTA	6		Route 6	bus
+11623512	MWRTA	7		Route 7	bus
+11625632	Merrimack Valley Transit	56		NECC Express	bus
+11625721	MWRTA	7C		Route 7C	bus
+11625781	Merrimack Valley Transit	83		MVRTA 83: Hampton Beach -> Buckley Transportation Center	bus
+11625816	MWRTA	8		Route 8	bus
+11625861	Merrimack Valley Transit	85		Lawrence Downtown Shuttle	bus
+11626480	MWRTA	9		Route 9	bus
+11626492	Merrimack Valley Transit	75		Lawrence (Special Employment Service)	bus
+11626745	MWRTA	10		Route 10	bus
+11626809	MWRTA	11		Route 11	bus
+11627416	MWRTA	14		Route 14	bus
+11627620	MWRTA	15		Route 15	bus
+11627833	MWRTA	GL		Green Line Connector	bus
+11634730	WRTA	A		Northbridge Walmart – Shoppes at Blackstone Valley via Fisherville	bus
+11634796	WRTA	B		New Village – Rockdale – Stop & Stop- Grafton MBTA Station	bus
+11637408	MBTA	240		240 Inbound: Avon Square => Ashmont	bus
+11639284	PVTA	B43E		Northampton/Hadley/Amherst Express	bus
+11640693	PVTA	G2E		East Springfield Express	bus
+11648828	US:NH	111			road
+11648921	MBTA	240		240 Outbound: Ashmont => Crawford Square	bus
+11648922	MBTA	240		240 Inbound: Memorial Parkway => Ashmont	bus
+11649955	MBTA	240		240 Inbound: Crawford Square => North Randolph => Quincy Center	bus
+11650703	WRTA	8		Park Avenue Connector	bus
+11650751	WRTA	West		Westborough Shuttle	bus
+11651235	WRTA	WDSS		Webster-Dudley-Southbridge Shuttle	bus
+11651796	WRTA	12		Southwest Commons via Grafton Street	bus
+11653508	MBTA	240		240 Inbound: Holbrook/Randolph Station=> North Randolph => Quincy Center	bus
+11653820	MBTA	240		240 Outbound: Ashmont => Crawford Square => Holbrook/Randolph	bus
+11653821	MBTA	240		240 Inbound: Holbrook/Randolph Station => Ashmont	bus
+11671412	lwn			Brook Path	foot
+11671419	lwn			Charles River Path	foot
+11674138	lwn			Guernsey Path	foot
+11680552	rwn			Boston Marathon	running
+11742439	lwn			Crosstown Trail	foot
+11795272	lwn			Cat Rock Loop	hiking
+11805666	lwn			Delaney South Loop	hiking
+11810318	Merrimack Valley Transit	83		MVRTA 83: Buckley Transportation Center -> Hampton Beach	bus
+11812989	lwn			Great Meadows Greenaugh Loop	hiking
+11877596	NTS	6		South End / Pheasant Lane Mall	bus
+11879828	NTS	6A		South End / Pheasant Lane Mall	bus
+11882057	NTS	S		South Route - Night	bus
+11888528				Boston Readville relief line	railway
+11889368	Amtrak	Downeaster		Amtrak Downeaster: Brunswick => Boston	train
+11889370	Amtrak	Downeaster		Amtrak Downeaster: Brunswick => Old Orchard Beach => Boston	train
+11890261	lcn			Alewife Brook Greenway	bicycle
+11921087	Amtrak	Vermonter		Amtrak Vermonter: Saint Albans => Washington	train
+11921097	Amtrak	Valley Flyer		Amtrak Valley Flyer: Greenfield => New Haven	train
+11921114	Amtrak;CTrail	Hartford Line		Amtrak/CTrail Hartford Line: Springfield => New Haven	train
+11961030	Amtrak	Vermonter		Amtrak Vermonter: Washington => Saint Albans	train
+11961031	Amtrak	Vermonter		Amtrak Vermonter: Saint Albans => Washington	train
+11961041	Amtrak	Valley Flyer		Amtrak Valley Flyer: Springfield => Greenfield	train
+11961042	Amtrak	Valley Flyer		Amtrak Valley Flyer: Greenfield => Springfield	train
+11961670	Amtrak	Acela		Amtrak Acela: Boston => Washington	train
+11961671	Amtrak	Acela		Amtrak Acela: Boston => Washington	train
+11961672	Amtrak	Acela		Amtrak Acela: Washington => Boston	train
+11961673	Amtrak	Acela		Amtrak Acela: Washington => Boston	train
+11961674	Amtrak	Acela		Amtrak Acela: Washington => Boston	train
+11961675	Amtrak	Acela		Amtrak Acela: New York => Boston	train
+11961676	Amtrak	Acela		Amtrak Acela: Boston => New York	train
+11976779	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Springfield	train
+11976781	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Springfield	train
+11976782	Amtrak	Northeast Regional		Amtrak Northeast Regional: Springfield => Norfolk	train
+11976783	Amtrak	Northeast Regional		Amtrak Northeast Regional: Springfield => Washington	train
+11977188	Amtrak	Northeast Regional		Amtrak Northeast Regional: Roanoke => Boston	train
+11977189	Amtrak	Northeast Regional		Amtrak Northeast Regional: Roanoke => Boston	train
+11977190	Amtrak	Northeast Regional		Amtrak Northeast Regional: Newport News => Boston	train
+11977191	Amtrak	Northeast Regional		Amtrak Northeast Regional: Newport News => Boston	train
+11977193	Amtrak	Northeast Regional		Amtrak Northeast Regional: Norfolk => Boston	train
+11977194	Amtrak	Northeast Regional		Amtrak Northeast Regional: Norfolk => Boston	train
+11977196	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Roanoke	train
+11977198	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Newport News	train
+11977199	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Newport News	train
+11977200	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Norfolk	train
+11977201	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Norfolk	train
+11977831	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+11977832	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+11977833	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+11977834	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+11977835	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+11977836	Amtrak	Northeast Regional		Amtrak Northeast Regional: Richmond => Boston	train
+11977837	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+11977838	Amtrak	Northeast Regional		Amtrak Northeast Regional: Richmond => Boston	train
+11977839	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Richmond	train
+11977840	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977841	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977842	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => New York	train
+11977843	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977844	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977845	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977846	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977847	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977946	Amtrak	Northeast Regional		Amtrak Northeast Regional: New York => Boston	train
+11977947	Amtrak	Northeast Regional		Amtrak Northeast Regional: New York => Boston	train
+11977948	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+11977949	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => New York	train
+11980542	lwn			Rock Circuit Connector	hiking
+12004721	Merrimack Valley Transit	13		Main Street/North Avenue	bus
+12004839	Merrimack Valley Transit	14		Bradford/Ward Hill	bus
+12005027	Merrimack Valley Transit	15		Hilldale Avenue/Haverhill Commons	bus
+12005299	Merrimack Valley Transit	16		Washington Street/Westgate Plaza	bus
+12006994	MVRTA	18		Riverside	bus
+12007038	Merrimack Valley Transit	17		Haverhill-Amesbury	bus
+12015551	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Chicago => Boston	train
+12103760		H2O		H2O Hyannis-Orleans	bus
+12104177		Sealine		Sealine Hyannis-Falmouth/Woods Hole	bus
+12104364		Sandwich		Sandwich Line	bus
+12106670		Bourne		Bourne Run	bus
+12106908		Flex		Flex	bus
+12107084		Barnstable		Barnstable Villager	bus
+12107169		Hyannis		Hyannis Crosstown	bus
+12107267		Patriot		Patriot Ltd	bus
+12332619	MBTA	77A		77A northbound	bus:suspended
+12461908	lcn			Seaside Rail Trail	bicycle
+12462000	lcn			Blue Lane	bicycle
+12536575	lwn			Peaked Mountain Red Trails	hiking
+12536576	lwn			Peaked Mountain Yellow Trails	hiking
+12536577	lwn			Peaked Mountain Orange Trails	hiking
+12571811	GATRA	5		GATRA 5 Walmart/East Taunton/Target	bus
+12574941	GATRA	10		Attleboro/N. Attleborough	bus
+12574983	GATRA	11		South Attleboro Connector	bus
+12575028	GATRA	12		Attleboro/So. Attleboro/No. Attleboro	bus
+12575857	GATRA	14		Attleboro/No. Attleboro/Plainville	bus
+12576231	GATRA	15		Oak Hill	bus
+12576334	GATRA	16		Seekonk/Attleboro	bus
+12576419	GATRA	18		Taunton/Norton/Attleboro	bus
+12576722	GATRA	24		Attleboro/Pawtucket RI	bus
+12577099	GATRA	Foxborough MBTA		Foxborough MBTA Commuter	bus
+12579260	GATRA	SAIL		Marshfield/Duxbury/Kingston	bus
+12579292	GATRA	Link 1		Wareham/Onset/Wareham	bus
+12580513	GATRA	Link 2		Cranberry Plaza To Buzzards Bay (Main Street)	bus
+12580786	GATRA	LINK 4		Cranberry Plaza To West Wareham	bus
+12580857	GATRA	Mayflower Link		Plymouth to Manomet	bus
+12581024	GATRA	Liberty Link		Liberty Link	bus
+12581122	GATRA	Manomet/Cedarville		Manomet/Cedarville Deviated Link	bus
+12581267	GATRA	Wareham/Middleborough/Lakeville		Wareham/Middleborough/Lakeville Train Connector	bus
+12581452	GATRA	SLOOP		SLOOP Scituate Loop	bus
+12581597	GATRA	Wareham Plymouth		Wareham Plymouth Connection	bus
+12583194	GATRA	Wareham-New Bedford		Wareham-New Bedford Connection	bus
+12583268	GATRA	Medway		Medway T Shuttle	bus
+12671722	US:NH	123A			road
+12787704	rwn			BCT Section 1A	hiking
+12787923	lwn			BCT Section 14	hiking
+12787932	lwn			BCT Section 13	hiking
+12792884	lwn			BCT Section 2	hiking
+12797292	rwn			BCT 10	hiking
+12807079	rwn			BCT Section 3	hiking
+12825524	rwn			BCT section 4	hiking
+12893791	lwn	DBT		Dunbar Brook Trail	hiking
+12990418	lwn			Mountain House Trail	hiking
+13022543	lwn			Watatic Summit	hiking
+13022790	lwn			Around Muddy Pond	hiking
+13022791	lwn			Mount Hunger Views	hiking
+13025433	lwn			Maple Heights Farm	hiking
+13025813	lwn			Crow Hill Ledges	hiking
+13052423	US:NH:Turnpike		north	Blue Star Turnpike	road
+13074920	US:AB:NSB:Connecticut River			Connecticut River Byway (VT)	road
+13074922	US:MA:Scenic			Connecticut River Scenic Byway	road
+13128598	lwn			John Wing Trail	hiking
+13149510				North Central Pathway	bicycle
+13149511				North Central Pathway	bicycle
+13159681				Amesbury Branch	railway
+13159791				Newburyport Branch	historic_railway
+13217564	lwn			West Trail Loop	hiking
+13217565	lwn			South Loop Trail	hiking
+13217566	lwn			Sunrise Hill Trail	hiking
+13217567				Disc Golf Course	
+13249247	US:NH	31			road
+13249331	US:NH	97			road
+13380179	lcn			Salem Bike-Ped Corridor	bicycle
+13391757				Jetties Beach Route	bus
+13392520				Madaket Route	bus
+13392608				Surfside Beach Route	bus
+13392701				Airport Route	bus
+13392742				Sconset via Old South Road Route	bus
+13392743				Sconset via Milestone Road Route	bus
+13395879				Mid-Island Loop	bus
+13403871				Miacomet Loop	bus
+13416487				Sconset via Polpis Road Route	bus
+13472744	lcn			Watertown-Cambridge Greenway	bicycle
+13557881				Rumney Marsh Restoration	hiking
+13578438	lwn			Ridge Trail	hiking
+13578647	rwn			Warner Trail	hiking
+13607893				Orange Trail	hiking
+13618423				Thunderbolt Ski Trail	piste
+13704768				Central Massachusetts Branch	railway
+13983048	Logan Express	PB		Peabody Logan Express (Northshore Mall => Airport Terminals)	bus
+13983049	Logan Express	Logan-PB		Peabody Logan Express (Airport Terminals => Northshore Mall)	bus
+13983414	Logan Express	WO		Woburn Logan Express (Anderson Transporation Center => Airport Terminals)	bus
+13983415	Logan Express	WO		Woburn Logan Express (Airport Terminals => Anderson Transport Center)	bus
+13986058	Logan Express	FH		Logan Express from Framingham	bus
+13986059	Logan Express	FH		Logan Express to Framingham	bus
+13986361	Logan Express	BT		Braintree Logan Express (South Shore Place => Airport Terminals)	bus
+13986362	Logan Express	BT		Braintree Logan Express (Airport Terminals => South Shore Place)	bus
+13999887	lcn			Twin Cities Rail Trail	bicycle
+14025599	lwn				hiking
+14025600	lwn				hiking
+14025601	lwn				hiking
+14098916	MBTA	F4		F4: Charlestown Navy Yard - Long Wharf South	ferry
+14098917	MBTA	F2H		F2H: Hingam - Hull - Logan Airport - Long Wharf	ferry
+14216971				Nauset Bicycle Trail	bicycle
+14216972				Buttonbush Trail	hiking
+14216973				Nauset Marsh Trail	hiking
+14216974				Doane Loop	foot
+14233925				Coast Guard Beach Shuttle	bus
+14257167				The Tempo Loop	running
+14273796	US:MA:Turnpike			Massachusetts Turnpike	road
+14311458				Nauset Bicycle Trail Connector	bicycle
+14335679	Amtrak	Berkshire Flyer		Amtrak Berkshire Flyer: Pittsfield => New York	train
+14456826				Clipper City Rail Trail	bicycle
+14474794				Atlantic White Cedar Swamp Trail	hiking
+14502810				Victory Branch	railway
+14503662				Hingham Bethlehem Shipyard Spur	railway
+14504424				Hingham Naval Ammunition Depot Annex Spur	railway
+14504611				Old King's Highway	
+14522763				Nantucket Central Railroad	railway
+14523218				Martha's Vineyard Railroad	railway
+14524651	lwn			Indian Head River Trail	hiking
+14531171				Marlborough Branch	railway
+14531276				Maynard Ordnance Depot	railway
+14534040				"Boston, Revere Beach and Lynn Railroad"	railway
+14554596	Amtrak	Berkshire Flyer		Amtrak Berkshire Flyer: New York => Pittsfield	train
+14554697	Amtrak	Berkshire Flyer		Amtrak Berkshire Flyer: Pittsfield => Albany-Rensselaer	train
+14554698	Amtrak	Berkshire Flyer		Amtrak Berkshire Flyer: Albany-Rensselaer => Pittsfield	train
+14569819	Amtrak	Acela		Amtrak Acela: Boston => Washington	train
+14569820	Amtrak	Acela		Amtrak Acela: Washington => Boston	train
+14569824	Amtrak	Acela		Amtrak Acela: New York => Boston	train
+14573800	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+14573801	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+14573802	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
+14573803	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
+14573804	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Richmond	train
+14573805	Amtrak	Northeast Regional		Amtrak Northeast Regional: Newport News => New York	train
+14573806	Amtrak	Northeast Regional		Amtrak Northeast Regional: Newport News => New York	train
+14573807	Amtrak	Northeast Regional		Amtrak Northeast Regional: Norfolk => Boston	train
+14603325				North Brookfield Railroad	railway
+14615832				Hampden Railroad	railway
+14638629				Union Freight Railroad	railway
+14672600	lwn			Indian Lake Pathway	foot
+14706589				Milton Secondary	railway
+14721576				Blue Heron Trail	foot
+14727901				Billerica and Bedford Railroad	railway
+14728130				Westover Branch	railway
+14746320		NHB		Northeast Corridor (New Haven to Boston)	railway
+14764424	MBTA	F1		F1: Hingam - Rowes Wharf	ferry
+14861908				Cranberry Industrial Railroad	railway
+14861909				Edaville Railroad	railway
+14877304	US:NH	121A			road
+14877332	US:NH	128			road
+14877336	US:NH	124			road
+14877339	US:NH	119			road
+14880125	lwn			Walking City Trail Section 1	hiking
+14888642	lwn			Walking City Trail Section 2	hiking
+14902148	lwn			Walking City Trail Section 3	hiking
+14912426	lwn			Walking City Trail Section 4	hiking
+14974411				South Coast Rail Phase 2	railway
+15059013				Naval Ammunition Depot Hingham Railroad	railway
+15080314	lwn			Downtown Loop	foot
+15080486	lwn			Morningside Loop	foot
+15256869				Connecticut State Route 169 Scenic Byway	road
+15338856	C&J Bus Lines	DOV-NYC		"Dover, NH => New York City"	bus
+15338857	C&J Bus Lines	DOV-NYC		"New York City => Dover, NH"	bus
+15338858	C&J Bus Lines	PMSS		"Portsmouth, NH => Boston South Station"	bus
+15338859	C&J Bus Lines	DVSS		"Dover, NH => Boston South Station"	bus
+15338860	C&J Bus Lines	SSPM		"Boston South Station => Portsmouth, NH"	bus
+15338861	C&J Bus Lines	SSDV		"Boston South Station => Dover, NH"	bus
+15338862	C&J Bus Lines	PMLG		"Portsmouth, NH => Boston Logan Airport"	bus
+15338863	C&J Bus Lines	LGPM		"Boston Logan Airport => Portsmouth, NH"	bus
+15422526				Fore River Railroad	railway
+15537825	MBTA	91		"91 Outbound: Central Square, Cambridge => Sullivan Square Station"	bus
+15545056	MBTA	131		131 Inbound: Melrose Highlands => East Side & Oak Grove => Malden Center	bus
+15567365				Pleasure Island Spur	railway
+15567366				Old Smokey Railroad	railway
+15617594				Dodge Reservation Trail	hiking
+15649521	US:NHT			Washington–Rochambeau Revolutionary Route National Historic Trail Auto Tour Route	road
+15658048				Mount Tom Railroad	railway
+15658061				Holyoke Street Railway Mount Tom Spur	
+15663591	lwn			Blue Trail	foot
+15663592	lwn			Yellow Trail	foot
+15663593	lwn			Green Trail	foot
+15663594	lwn			Red Trail	foot
+15677431	US:VT:byway			Shires of Vermont Byway	road
+15690353		16		Atlantic-Pacific Connector	hiking
+15708799				Lowell & Lawrence Railroad	
+15750437				Holyoke Street Railway Amherst and Sunderland Division	railway
+15767046	lcn			Cape Cod Rail Trail Extension Phase 3	
+15930144	lwn			Red Trail	foot
+15930145	lwn			Blue Trail	foot
+15930147	lwn			White Trail	foot
+15930148	lwn			Green Trail	foot
+15930149	lwn			Orange Trail	foot
+15930150	lwn			Yellow Trail	foot
+15935886	rcn	BRG		Blackstone River Greenway (MA)	bicycle
+15935893	lcn			Hamilton Street	bicycle
+15935905	lcn			Grafton Street	bicycle
+15935964	lcn			Water Street	bicycle
+15935965	lcn			Harding Street	bicycle
+15949454	lcn			Main Street	bicycle
+15950254	lcn			Green Street	bicycle
+15950255	lcn			McGrath Boulevard	bicycle
+15950256	lcn			Hermon Street	bicycle
+15950275	lcn			Green Island Boulevard	bicycle
+15953659				Boston Navy Yard	railway
+15959209	lcn			Grove Street	bicycle
+15959210	lcn			Southbridge Street	bicycle
+15959223	rcn			McKeon Road	bicycle
+15959224	lcn			Quinsigamond Avenue	bicycle
+15959225	lcn			Lafayette Street	bicycle
+15961859	lcn			Blackstone Gateway Park Trail	bicycle
+15971716	lcn	CGRT		Columbia Greenway Rail Trail	bicycle
+15972270				South Boston Naval Annex	railway
+15972271				Boston Army Base	railway
+15979870		SSBX		Bourne Rail Trail	
+15979883	lcn			Elm Street	bicycle
+15979884	lcn			Russell Street	bicycle
+15979889	lcn			Millbury Street	bicycle
+15979891	lcn			Vernon Street	bicycle
+15979892	lcn			Winthrop Street	bicycle
+15979893	lcn			Heywood Street	bicycle
+15979894	lcn			Providence Street	bicycle
+15979897	lcn			Lamartine Street	bicycle
+15984777	lcn			Depot Trail	bicycle
+15987585	lcn			Inman Square to BU Bridge	bicycle
+15992058		EZR		EZRide	bus
+15993249	rcn	TRT		Titanic Rail Trail	bicycle
+16020662	lwn			Blue Spur Trail	hiking
+16054021				Worcester and Shrewsbury Railroad	railway
+16066371	MBTA	69		69 Outbound: Lechmere Station => Harvard Square	bus
+16066885	MBTA	85		85 Outbound: Kendall/MIT Station => Spring Hill	bus
+16067046	MBTA	1		1 Outbound: Nubian Station => Harvard Square	bus
+16067264	MBTA	4		4 Inbound: North Station => South Station => Design Center	bus
+16067316	MBTA	4		4 Inbound: North Station => Design Center	bus
+16067317	MBTA	4		4 Outbound: Design Center => North Station	bus
+16067377	MBTA	716		716 Outbound: Mattapan Station => Cobbs Corner Canton	bus
+16070005	MBTA	47		"47 Outbound: Broadway Station => Central Square, Cambridge"	bus
+16073661	MBTA	68		68 Outbound: Kendall/MIT Station => Harvard Square	bus
+16073699	MBTA	66		66 Outbound: Nubian Station => Allston => Harvard Square	bus
+16092045	MBTA	10		10 Outbound: Copley Square => South Bay Center => City Point	bus
+16093402	MBTA	26		26 Outbound: Gallivan Boulevard => Washington Street => Ashmont Station	bus
+16095294	MBTA	11		11 Outbound: Chauncy & Summer => City Point	bus
+16097762	MBTA	21		21 Outbound: Forest Hills Station => Ashmont Station	bus
+16098340	MBTA	7		7 Outbound: Otis & Summer => City Point	bus
+16098966	MBTA	351		351 Inbound: Bedford Woods Drive => EMD Serono => Third Avenue	bus
+16098967	MBTA	351		351 Outbound: Third Avenue => EMD Serono => Bedford Woods Drive	bus
+16098968	MBTA	351		351 Outbound: Third Avenue => Bedford Woods Drive	bus
+16102748	MBTA	712		712 Outbound: Orient Heights => Point Shirley	bus
+16102749	MBTA	712		712 Outbound: Orient Heights => Winthrop Beach	bus
+16102751	MBTA	712		712 Inbound: Winthrop Beach => Orient Heights	bus
+16107102				Manchester and Lawrence Railroad	railway
+16117186	MBTA	354		"354 Outbound: State Street, Boston => Burlington (Express)"	bus
+16120120	MBTA	424		424 Outbound: Wonderland => Western Ave => Eastern & Essex	bus
+16124906	MBTA	350		350 Outbound: Alewife => Mall Road => North Burlington	bus
+16125100	MBTA	350		350 Inbound: North Burlington => Alewife	bus
+16125157				Hiking Trail to Doane Memorial and Coast Guard Beach	hiking
+16125206	MBTA	350		350 Outbound: Alewife => Third Avenue	bus
+16125207	MBTA	350		350 Outbound: Alewife => North Burlington	bus
+16127287				Herring River Overlook Conservation Land and Trail	hiking
+16128824	MBTA	8		8 Outbound: Kenmore => South Bay Center => Harbor Point	bus
+16128865	MBTA	14		14 Outbound: Heath Street => Roslindale Square	bus
+16138229	MBTA	15		15 Outbound: Ruggles => Kane Square	bus
+16138253	MBTA	15		15 Inbound: Ashmont => Fields Corner => Nubian (Early Bird)	bus
+16138254	MBTA	15		15 Inbound: Fields Corner Station => Ruggles	bus
+16138256	MBTA	15		15 Inbound: Kane Square => Nubian	bus
+16141480	MBTA	15		15 Outbound: Haymarket => Nubian & Fields Corner => Mattapan	bus
+16141481	MBTA	15		15 Outbound: Ruggles => Fields Corner	bus
+16150090	MBTA	50		50 Outbound: Forest Hills => Cleary Square	bus
+16161007	MBTA	106		106 Outbound: Wellington Station => Lebanon Loop	bus
+16172998	MBTA	501		501 Outbound: Federal Street & Franklin Street => Cambridge Street => Brighton Center	bus
+16173354	MBTA	501		501 Inbound: Brighton Center => Cambridge Street => Federal Street & Franklin Street	bus
+16173406	MBTA	501		501 Outbound: Federal Street & Franklin Street => Brighton Center	bus
+16177269	MBTA	CT2		CT2 Outbound: Ruggles => Sullivan Square (Weekdays)	bus
+16187276	MBTA	558		558 Outbound: Newton Corner => Riverside	bus
+16190922	MBTA	CT3		CT3 Outbound: Andrew Station => Ave Louis Pasteur (Weekdays)	bus
+16190923	MBTA	CT3		CT3 Outbound: Andrew Station => Beth Israel Deaconess Hospital (Weekdays)	bus
+16190924	MBTA	CT3		CT3 Inbound: Ave Louis Pasteur => Andrew Station (Weekdays)	bus
+16191461	MBTA	439		439 Outbound: Wonderland Station => Nahant	bus
+16200670	MBTA	100		100 Outbound: Wellington Station => Elm Street	bus
+16200732	MBTA	109		109 Outbound: Harvard Square => Linden Square	bus
+16201490	MBTA	456		456 Outbound: Lynn => Salem	bus
+16204809	MBTA	112		112 Outbound: Wood Island Station => Wellington Station	bus
+16207557	MBTA	16		16 Outbound: Andrew => South Bay Center => Forest Hills	bus
+16207560	MBTA	16		16 Inbound: Forest Hills => South Bay Center => Harbor Point	bus
+16207561	MBTA	16		16 Inbound: Forest Hills => South Bay Center => McCormack	bus
+16207562	MBTA	16		16 Inbound: Forest Hills => Andrew	bus
+16212643	MBTA	16		16 Outbound: Harbor Point => South Bay Center => Forest Hills	bus
+16218135	MBTA	16		16 Outbound: McCormack => South Bay Center => Forest Hills	bus
+16218136	MBTA	16		16 Outbound: Andrew => Forest Hills	bus
+16218182	MBTA	17		17 Outbound: Andrew Station => Fields Corner Station	bus
+16224129	MBTA	18		18 Outbound: Andrew Station => Ashmont Station	bus
+16233780	MBTA	19		19 Outbound: Kenmore Station => Fields Corner Station (Weekdays)	bus
+16233803	MBTA	19		19 Inbound: Fields Corner Station => Kenmore Station (Weekdays)	bus
+16233825	MBTA	19		19 Outbound: Ruggles Station => Fields Corner Station (Weekdays)	bus
+16236665	MBTA	22		22 Outbound: Ruggles Station => Talbot Ave => Ashmont Station	bus
+16243457	MBTA	23		23 Outbound: Ruggles Station => Washington Street => Ashmont Station	bus
+16243691	MBTA	30		30 Outbound: Forest Hills Station => Cummins Highway and Roslindale Square => Mattapan Station	bus
+16255661	MBTA	31		31 Outbound: Forest Hills Station => Morton Street => Mattapan Station	bus
+16255740	MBTA	42		42 Outbound: Nubian Station => Forest Hills Station	bus
+16260417	lwn	CCPA		Cape Cod Community College Circuit (Unofficial Cape Cod Pathways)	hiking
+16260418		CCPA		Keyes the Limit(Unofficial Cape Cod Pathways)	hiking
+16261233	MBTA	43		43 Outbound: Park Street Station => Ruggles Station	bus
+16261246	lwn	EHRL		East Head Reservoir Loop	hiking
+16261247	lwn	BL		Bentley Loop	hiking
+16261248	lwn	PBP		Pine Barrens Path	hiking
+16261249	lwn	CPL		Charge Pond Loop	hiking
+16268888	MBTA	51		51 Inbound: Reservoir Station => Forest Hills Station	bus
+16272248	MBTA	CR-Fairmount		Train CR-Fairmount: South Station => Readville	train
+16272290	MBTA	61		61 Outbound: Waltham Center => North Waltham	bus
+16282622	MBTA	CR-Greenbush		Train CR-Greenbush: Greenbush => South Station	train
+16289203	MBTA	62		62 Outbound: Alewife Station => Bedford VA Hospital	bus
+16289308	US:NH	286			road
+16294421	MBTA	CR-Needham		Train CR-Needham Outbound: South Station => Needham Heights	train
+16301272	MBTA	553		553 Outbound: Newton Corner => Roberts	bus
+16304691	MBTA	SLW		Bus SLW Outbound: South Station => Silver Line Way	bus
+16305555	MBTA	SL1		Bus SL1 Outbound: South Station => Logan Airport	bus
+16305829	npn	CRPT		Connecticut River Paddlers' Trail	canoe
+16308860	MBTA	505		505 Outbound (longer): Federal Street & Franklin Street => Waltham Center	bus
+16308865	MBTA	505		505 Inbound: Waltham Center => Federal Street & Franklin Street	bus
+16308866	MBTA	505		505 Outbound: Federal Street & Franklin Street => Waltham Center	bus
+16311425	MBTA	SL2		Bus SL2 Inbound: Drydock Avenue => South Station	bus
+16312473	MBTA	554		554 Outbound: Newton Corner => Waverley Square	bus
+16312529	MBTA	SL3		Bus SL3 Inbound: Chelsea => South Station	bus
+16312553	MBTA	SL4		Bus SL4 Inbound: Nubian => South Station	bus
+16316556	MBTA	CR-Lowell		Train CR-Lowell Inbound: Lowell => North Station	train
+16319054	MBTA	SL5		Bus SL5 Outbound: Downtown => Nubian	bus
+16319131	MBTA	CR-Worcester		Train CR-Worcester Inbound: Worcester => Aburndale => South Station	train
+16319282	MBTA	CR-Middleborough		Train CR-Fall River/New Bedford Inbound: New Bedford => South Station	train
+16320640	MBTA	428		428 Inbound: Oaklandvale => Haymarket	bus
+16327302	MBTA	111		111 Outbound: Haymarket Station => Woodlawn	bus
+16327362	MBTA	114		114 Outbound: Maverick Station => Market Basket	bus
+16330137	MBTA	CR-Worcester		Train CR-Worcester Inbound: Worcester => Wellesley Farms => South Station	train
+16330138	MBTA	CR-Worcester		Train CR-Worcester Inbound: Framingham => Wellesley Farms => South Station	train
+16330139	MBTA	CR-Worcester		Train CR-Worcester Inbound: Framingham => Aburndale => South Station	train
+16330140	MBTA	CR-Worcester		Train CR-Worcester Inbound Limited Express: Worcester => Framingham => South Station	train
+16330141	MBTA	CR-Worcester		Train CR-Worcester Inbound Express: Worcester => West Natick => South Station	train
+16330142	MBTA	CR-Worcester		Train CR-Worcester Outbound Express: South Station => West Natick => Worcester	train
+16330143	MBTA	CR-Worcester		Train CR-Worcester Outbound Limited Express: South Station => Framingham => Worcester	train
+16330144	MBTA	CR-Worcester		Train CR-Worcester Outbound: South Station => Wellesley Farms => Worcester	train
+16330145	MBTA	CR-Worcester		Train CR-Worcester Outbound: South Station => Framingham	train
+16330286	MBTA	CR-Franklin		CR-Franklin Outbound: South Station => Hyde Park => Forge Park/495	train
+16330287	MBTA	CR-Franklin		CR-Franklin Outbound: South Station => Forest Hills => Foxboro	train
+16330305	MBTA	CR-Franklin		CR-Franklin Inbound: Foxboro => Endicott => South Station	train
+16330306	MBTA	CR-Franklin		CR-Franklin Inbound: Foxboro => Readville => South Station	train
+16330307	MBTA	CR-Franklin		CR-Franklin Inbound: Forge Park/495 => Dedham Corporate Center => South Station	train
+16330308	MBTA	CR-Franklin		CR-Franklin Inbound: Forge Park/495 => Readville => South Station	train
+16330430	MBTA	CR-Franklin		CR-Franklin Outbound: South Station => Fairmount => Forge Park/495	train
+16330431	MBTA	CR-Franklin		CR-Franklin Outbound: South Station => Readville => Forge Park/495	train
+16330432	MBTA	CR-Franklin		CR-Franklin Outbound: South Station => Norwood Central => Foxboro	train
+16330433	MBTA	CR-Franklin		CR-Franklin Outbound: South Station => Readville => Foxboro	train
+16335837	MBTA	24		24 Outbound: Ashmont Station => Wakefield Avenue & Truman Parkway	bus
+16339031	MBTA	104		104 Outbound: Airport Station => Malden Center Station	bus
+16345715				Town of Barnstable Main Trail	hiking
+16346407				Town of Barnstable South Loop	hiking
+16347169	lwn	ACT		Kingston Coast to Hills Pathway	hiking
+16347170	lwn	ACT		Cross-Wareham Footway	hiking
+16350989	MBTA	714		"714 Outbound: Station Street, Hingham => Pemberton Point, Hull"	bus
+16403957	US:I	95	north		road
+16492146	MBTA	28		28 Outbound: Ave Louis Pasteur => Mattapan Station	bus
+16517245				Ware River Rail Trail	mtb
+16532792	MBTA	28		28 Inbound: Mattapan Station => Ave Louis Pasteur	bus
+16533130	MBTA	28		28 Inbound: Warren St @ Quincy St => Ruggles Station	bus
+16533131	MBTA	28		28 Inbound: Mattapan Station => Nubian Station	bus
+16533136	MBTA	28		28 Outbound: Ruggles Station => Mattapan Station	bus
+16538436	MBTA	29		29 Outbound: Jackson Square Station => Mattapan Station	bus
+16550516	MBTA	556		556 Outbound: Newton Corner => Waltham Highlands	bus
+16615170	MBTA	442		442 Inbound: Marblehead => Wonderland Station	bus
+16615171	MBTA	442		442 Outbound: Wonderland Station => Marblehead	bus
+16615370	MBTA	442		442 Inbound: Marblehead => West Lynn Garage	bus
+16615371	MBTA	442		442 Outbound: West Lynn Garage => Marblehead	bus
+16616982	MBTA	442		442 Outbound (skipping Point of Pines): Wonderland Station => Marblehead	bus
+16644746	MBTA	202		202 Inbound: Keystone Apartments => Neponset Avenue => Fields Corner Loop	bus
+16675684	lwn			Balsam Trail	hiking
+16675685	lwn				hiking
+16686092	MBTA	52		52 Outbound: Watertown Yard => Dedham Mall	bus
+16686653	MBTA	52		52 Outbound: Watertown Yard => Charles River Loop	bus
+16686654	MBTA	52		52 Inbound: Charles River Loop => Watertown Yard	bus
+16703295	MBTA	65		65 Outbound: Kenmore Station => Brighton Center	bus
+16711684	lwn			Edmund Hill Trail	hiking
+16719261				Great River Race	canoe
+16719262				Bridle Trail	horse
+16731478	MBTA	35		35 Outbound: Ave Louis Pasteur => Dedham Mall	bus
+16731606	MBTA	35		35 Inbound: Washington Street @ Grove Street => Ave Louis Pasteur	bus
+16735782	rcn	NHN		New Haven & Northampton Canal Greenway	bicycle
+16760839	CCRTA			Provincetown Shuttle	bus
+16776900	lpn	Millers River Watershed Council		Millers River Blue Trail - Athol & Orange Segment	canoe
+16776978	lpn			Upper Otter River Blue Trail	canoe
+16827217	MBTA	225		225 Inbound: Weymouth Landing => Quincy Center Station	bus
+16827218	MBTA	225		225 Outbound: Quincy Center Station => Weymouth Landing	bus
+16832484	MBTA	225		225 Outbound: Quincy Center Station => Howard Street => Weymouth Landing	bus
+16849750	lwn			Peaked Mountain Pink Trails	hiking
+16849751	lwn			Peaked Mountain White Trails	hiking
+16906458	lpn			Ipswich River Water Trail	canoe
+17022128	MBTA	713		713 Outbound: Orient Heights Station => Point Shirley	bus
+17022214	MBTA	713		713 Outbound: Orient Heights Station => Winthrop Beach	bus
+17022215	MBTA	713		713 Inbound: Winthrop Beach => Orient Heights Station	bus
+17195028				Town of Barnstable North Loop	hiking
+17206707				Tennessee Gas Pipeline - 200 System	pipeline
+17210070				Tennessee Gas Pipeline - 300 System	pipeline
+17310107	RIPTA			RIPTA 24L Newport/Fall River/Providence to Providence	bus
+17310108	RIPTA			RIPTA 24L Newport/Fall River/Providence to Newport	bus
+17376429				Glendale Dam Portage	portage
+17401963				Hoosic–Housatonic Portage	portage
+17414203				New Home Sewing Machine Company Dam Portage	portage
+17450340				Holyoke Dam Portage	portage
+17473939				Waltham Dam Portage	portage
+17473953				Zoar Gap Portage	portage
+17498919	rpn			Charles River Paddle Route	canoe
+17520451	lwn			Keystone Arch Bridges Trail	hiking
+17539896				East Brookfield and Spencer Railroad	railway
+17553316				Turners Falls Dam Portage	portage
+17555080				Newburyport City Railway	railway
+17576859	lwn	3		Peace Trail	hiking
+17576860	lwn	3		Kingfisher Trail	hiking
+17576861	lwn	3		Burns Hill Loop Trail	hiking
+17595747				American Powder Mills	railway
+17607822				Nut Island Pipeline	pipeline
+17706987	lcn	SBR		Chatham Scenic Bike Route	bicycle
+17717425				Attleborough Branch Railroad	railway
+17727947				Concord Avenue	road
+17805700	nwn	APT		American Perimeter Trail	hiking
+17805901				Mass Pike	piste
+17805902				Middle Balance Rock	piste
+17805903				Roper's Road	piste
+17884232				Lake Dennison – Millers River Carry	portage
+17905177				Cheshire Reservoir Dam Portage	portage
+17905178				Farnam Causeway Portage	portage
+17905179				Berkshire Pond – Cheshire Reservoir Portage	portage
+17905970				Southern New England Railway	railway
+17905971				Springfield & Eastern Street Railway	railway
+17907519				Central Massachusetts Railroad Hardwick Alignment	railway
+17907541				Milford and Uxbridge Street Railway	railway
+17914959	lcn			Hanover Branch Rail Trail	bicycle
+17915378		3		Gardner Route 3	bus
+17922336				New Bedford Water Works Railroad	railway
+17923058				Eastern Massachusetts Railway	railway
+17923085				New Bedford and Onset Street Railway	railway
+17928231				Watertown Branch Railroad	railway
+17937658				Greenville Branch	railway
+17937659				Squannacook River Rail Trail	bicycle
+17937903				Milford Branch	railway
+17966848				Lancaster Railroad	railway
+17966849				Danforth Loop	foot
+17969559				Marlborough Branch	railway
+18000738	lwn				hiking
+18009041				Hoosac Tunnel and Wilmington Railroad	railway
+18013288	rcn			Border to Boston Trail	bicycle
+18056088	lcn			Dedham Heritage Rail Trail	bicycle
+18134503				Mystic Link Trail	foot
+18201745				Narrow Gauge Rail Trail	bicycle
+18206242	lwn			Blue Trail	hiking
+18206243	lwn			Yellow Trail	hiking
+18206244	lwn			Orange Trail	hiking
+18226307				Lowell Connector Trail	bicycle
+18226901				Fletcher Granite Company	railway
+18228038	VTA	1		VTA Route 1: Edgartown-Vineyard Haven Road Northbound	bus
+18228039	VTA	1		VTA Route 1: Edgartown-Vineyard Haven Road Southbound	bus
+18228060	VTA	2		VTA Route 2 Northbound	bus
+18228061	VTA	2		VTA Route 2 Southbound	bus
+18240379				Nashua Acton & Boston Railroad Trail	hiking
+18266373				Pontoosuc Turnpike	historic
+18281614	VTA	3		VTA Route 3 Northbound	bus
+18281615	VTA	3		VTA Route 3 Southbound	bus
+18281627	VTA	10A		VTA Route 10A	bus
+18281628	VTA	10		VTA Route 10 Westbound	bus
+18281629	VTA	10		VTA Route 10 Eastbound	bus
+18281806	VTA	5		VTA Route 5 Eastbound	bus
+18281807	VTA	5		VTA Route 5 Westbound	bus
+18281808	VTA	12		VTA Route 12 Eastbound	bus
+18281809	VTA	12		VTA Route 12 Westbound	bus
+18281810	VTA	12		VTA Route 12 Westbound	bus
+18281811	VTA	4		VTA Route 4 Eastbound	bus
+18281812	VTA	4		VTA Route 4 Westbound	bus
+18284904	VTA	9		VTA Route 9 Northbound	bus
+18284905	VTA	9		VTA Route 9 Southbound	bus
+18284906	VTA	7		VTA Route 7 Southbound	bus
+18284907	VTA	7		VTA Route 7 Northbound	bus
+18284917	VTA	13		VTA Route 13 Westbound	bus
+18284920	VTA	11		VTA Route 11 Westbound	bus
+18284921	VTA	11		VTA Route 11 Eastbound	bus
+18285252	VTA	8		VTA Route 8 South Beach	bus
+18285253	VTA	6		VTA Route 6 Westbound	bus
+18285254	VTA	6		VTA Route 6 Eastbound	bus
+18306318				Medford Branch	railway
+18321919				Saugus Branch Railroad	railway
+18338756				Boston and Sandwich Glass Company Railroad	railway
+18361634	MBTA	116		116 Inbound: Wonderland Station => Maverick Station	bus
+18364646	MBTA	110		110 Outbound: Wellington Station => Wonderland Station	bus
+18368493				Indian Lake Pathway to Nick's Woods Trail Connection	hiking
+18379353				Otis Industrial Track	railway
+18379354				Falmouth Line	railway
+18382077	MBTA	116		116 Inbound: Lynn Bus Garage => Harmarket Station (Early Morning Only)	bus
+18382078	MBTA	116		116 Inbound: Park Avenue => Haymarket Station (Early Morning Only)	bus
+18383461	MBTA	116		116 Outbound: Haymarket Station => Logan Airport Terminal C (Early Morning Only)	bus
+18398760	MBTA	86		86 Outbound: Resevoir Station => Harvard Square	bus
+18398761	MBTA	86		86 Inbound: Harvard Square => Resevoir Station	bus
+18430839				Mills To Hills Trail	
+18447069	lwn				hiking
+18458516	MBTA	121		121 Outbound: Maverick Station => Eagle Square	bus
+18458517	MBTA	121		121 Outbound: Maverick Station => Wood Island Station	bus
+18458518	MBTA	121		121 Inbound: Wood Island Station => Maverick Station	bus
+18458519	MBTA	121		121 Inbound: Eagle Square => Maverick Station	bus
+18469016	MBTA	120		120 Outbound: Maverick Station => Orient Heights Station	bus
+18469017	MBTA	120		120 Inbound: Orient Heights Station => Maverick Station via Jefferies Point	bus
+18491656	US:MA	128		Old Alignment of Route 128	road
+18508440	MBTA	119		119 Outbound: Beachmont Station => Northgate	bus
+18508441	MBTA	119		119 Inbound: Northgate => Beachmont Station	bus
+18522321				Yankee Doodle Bike Path	
+18555849				Ashburnham Railroad	railway
+18555885				Cheshire Railroad	railway
+18557174				"Boston, Barre and Gardner Railroad"	railway
+18606214	Toy Town Trolley			Toy Town Trolley	trolleybus
+18661181				Flynt Quarry Spur	railway
+18687303	Old Colony Division				
+18713662				Grass Rides Loop	bicycle
+18724360	lwn	STSS		Plymouth Sea to Shining Sea Trail	hiking
+18724361	lwn	WISH		Plymouth Wishbone Trail	hiking
+18754874	lcn			"Connecticut Riverwalk & Bikeway, North"	bicycle
+18767027				Shelburne Falls Extension	railway
+18858267	PVTA	30	north	Bus 30: Old Belchertown Road => North Amherst	bus
+18858268	PVTA	30	south	Bus 30: North Amherst => Old Belchertown Road	bus
+18859070	PVTA	31	north	Bus 31: South Amherst => Sunderland	bus
+18859071	PVTA	31	south	Bus 31: Sunderland => South Amherst	bus
+18859120	PVTA	31	north	Bus 31: Hampshire Mall => South Amherst => Sunderland	bus
+18859121	PVTA	31	south	Bus 31: Sunderland => South Amherst => Hampshire Mall	bus
+18870173				Salem and Lowell Railroad	railway
+18870196				Andover & Wilmington Railroad	railway
+18889112	lcn			Cape Cod Rail Trail Extension Phase 4	bicycle
+18889778	lcn				bicycle
+18910825				North Trail	foot
+18910826				Pegan Cove	foot
+18958455	lwn			Pray Field Trail	hiking
+18982179				Whittenton Branch	railway
+19024291				Paul Revere's midnight ride	historic
+19064590				Hoosic River Canoe Route	canoe
+19121737				Guensey Woodlands	foot
+19135696	rcn			Groveland Community Trail	bicycle
+19140514	lwn			Stearns Pond Blue Loop	hiking
+19143405				Beach Loop Trail	hiking
+19143406				Quansett Trail	hiking
+19143407				Fresh Pond Trail	hiking
+19143408				Tree Top Trail	hiking
+19143409				Zylfee Brook Loop	hiking
+19143410				Reubens Point Trail	hiking
+19143411				All Persons Trail	hiking
+19151262	PVTA	45		Bus 45: Belchertown Ctr => District Ct => Belchertown Ctr	bus
+19151263	PVTA	45	north	Bus 45: Belchertown Center => UMass	bus
+19159966	lwn			White Blue-Dot Trail	hiking
+19159967	lwn			Rami's Trail	hiking
+19159968	lwn			Old Coach Trail	hiking
+19159969	lwn			Bob's Trail	hiking
+19159970	lwn			Blue Trail	hiking
+19159971	lwn			Tom's Trail	hiking
+19159972	lwn			Algonquin Trail	hiking
+19175221	lwn			Billy Goat Trail	hiking
+19175222	lwn			North Trail	hiking
+19175223	lwn			Wood Trail	hiking
+19175224	lwn			Kathy's Trail	hiking
+19184999	PVTA	36	north	Bus 36: Atkins Farm => Olympia Pl	bus
+19187553	PVTA	39E	north	Bus 39E: Mt. Holyoke College => Smith College	bus
+19188224	PVTA	33	north	Bus 33: Stop & Shop => Mill Hollow Apts	bus
+19194860	PVTA	B43	west	Bus B43 No School: Amherst College => UMass => Smith College	bus
+19202298	PVTA	34		Bus 34: Campus Shuttle Northbound	bus
+19259939	lcn			Methuen Rail Trail	bicycle
+19323397	lwn			Outer Loop	foot
+19472605	rwn			Falmouth Road Race	running
+19474629				Woburn Loop	railway
+19505918	PVTA	46		Bus 46: UMass => Whately P&R	bus
+19508685	Franklin Regional Transit Authority	31	north	FRTA Bus 31: Northampton Academy of Music => JWO Transit Center	bus
+19511941	PVTA	R44a	west	Bus R44a: Northampton Center => Florence Center	bus
+19511942	PVTA	R44b	west	Bus R44b: Northampton Center => Florence Center	bus
+19511994	PVTA	R44a	east	Bus R44a: Florence Center => Northampton Center	bus
+19511995	PVTA	R44b	east	Bus R44b: Florence Center => Northampton Center	bus
+19522031	PVTA	R44		Bus R44: Academy of Music => VA Medical Center	bus
+19577155	MBTA	92		92 Outbound: Downtown via Main Street => Sullivan Square	bus
+19577156	MBTA	92		92 Inbound: Sullivan Square => Downtown via Main Street	bus
+19584225	MBTA	93		93 Outbound: Downtown => Sullivan Square	bus
+19584226	MBTA	93		93 Outbound: Downtown => Sullivan Square via Navy Yard	bus
+19584227	MBTA	93		93 Inbound: Cladendon Hill => Haymarket (Early Morning Only)	bus
+19584228	MBTA	93		93 Inbound: Sullivan Square => Downtown	bus
+19584229	MBTA	93		93 Inbound: Sullivan Square => Downtown via Navy Yard (Weekdays Only)	bus
+19607127				Conway Electric Street Railway	train
+19608444				Shelburne Falls & Colrain Street Railway	train
+19608456				Shelburne Falls Trolley Museum	train
+19692298	MBTA	55		55 Outbound: Arlington Station => West Fenway	bus
+19692299	MBTA	55		55 Inbound: West Fenway => Arlington Station	bus
+19692816	MBTA	99		99 Inbound: Woodland Road =>Wellington Station	bus
+19692817	MBTA	99		99 Outbound: Wellington Station =>Woodland Road	bus
+19692818	MBTA	99		99 Inbound: Woodlawn Road => Wellington Station via Gateway Center (Saturdays Only)	bus
+19692819	MBTA	99		99 Outbound: Wellington Station => Woodland Road via Gateway Center (Saturdays Only)	bus
+19694867	MBTA	106		106 Inbound: Lebanon Loop => Malden Center Station (Late Night Only)	bus
+19694868	MBTA	106		106 Inbound: Lebanon Loop => Wellington Station (Evenings Only)	bus
+19694869	MBTA	106		106 Outbound: Malden Center Station => Lebanon Loop (Late Nights Only)	bus
+19698871	MBTA	132		132 Outbound: Malden Center Station => Redstone	bus
+19699217				Stoneham Branch Railroad	railway
+19699223	MBTA	132		132 Inbound: Redstone => Malden Center Station	bus
+19723570	lwn			Ice Line Trail	hiking
+19740639				Essex Branch	railway
+19743157	Seaport Ferry			North Station	ferry
+19743158	Seaport Ferry			East Boston	ferry
+19755225				Cape Ann Granite Railroad	railway
+19755226				Pigeon Hill Railway	railway
+19755227					railway
+19755780				Corridor 71	hiking
+19755781				Secondary 56	hiking
+19756053	MBTA	8		8 Inbound: Harbor Point => Kenmore (Early Mornings/Late Night)	bus
+19756056	UMass Boston Shuttle Service	1		UMass Boston Shuttle	bus
+19757194	MBTA	8		8 Outbound: Kenmore => Harbor Point (Early Mornings/Late Night)	bus
+19781522	Seastreak				ferry
+19787287	MBTA	66		"66 Outbound: Nubian Station => Brookline => Brighton Center (School Days, Mornings)"	bus
+19787288	MBTA	66		"66 Inbound: Allston => Nubian Station (School Days, Afternoon)"	bus
+19797407	Paved high traffic route	Route 37	east	Flock Camera	road
+19807684	Seastreak				ferry
+19825148				blue trail	hiking
+19825157				orange trail	hiking
+19843440	MBTA	41		41 Outbound: JFK/UMass => Centre St & Eliot St	bus
+19843441	MBTA	41		41 Inbound: Centre St @ Eliot St => JFK/UMass Station	bus
+19860248	MBTA	39		39 Inbound: Forest Hills Station => Back Bay Station	bus
+19860249	MBTA	39		39 Outbound: Back Bay Station => Forest Hills Station	bus
+19874918	lwn			Rollstone Hill Rock Walk Trail	foot
+19885353				Fall River Subdivision	railway
+19984588	MBTA	CR-Middleborough		Train CR-Fall River/New Bedford Inbound: Fall River => South Station	train
+20018646	US:MA:Scenic			Jacob's Ladder Trail Scenic Byway	road
+20018679	US:MA:Scenic			Route 116 Scenic Byway	road
+20018682	US:MA:Scenic			Mount Greylock Scenic Byway	road
+20018690	US:MA:Scenic			Route 112 Scenic Byway	road
+20020332	US:MA:Scenic			Blackstone Canal Heritage Highway	road
+20020333	US:MA:Scenic			Lost Villages Scenic Byway	road
+20020364	US:MA:Scenic			Old King's Highway	road
+20020600	US:MA:Scenic			Mohawk Trail Scenic Byway	road
+20020863	US:MA:Scenic			Essex Coastal Scenic Byway	road
+20020907	US:MA:Scenic			Taconic Trail	road
+20020926	US:MA:Scenic			Chappaquiddick Road Scenic Byway	road
+20021078	US:MA:Scenic			Battle Road Scenic Byway	road
+20021247	lwn			Whale Rock Loop	hiking
+20021248	lwn			Lookout Trail Loop	hiking
+20021295	lwn			Stone Cliffs Loop	hiking
+20021750	US:MA:Scenic			Minuteman Highway	road
+20021775	lwn			Cascade Loop	hiking
+20021893	lwn			Woodland Path Loop	hiking
+20021894	lwn			Pond Passage Loop	hiking
+20140857				Chelsea Beach Branch	railway
+20157975				Coyote Track	piste
+20158002				Fox Track	piste
+20158055				Goat Track	piste
+20158075				Red Tail Track	piste
+20158344				Snowmaking Area	piste
+20158345				The Flats/John Hart Track	piste
+20172230				Jack & Betty Valentine Trail	foot

@@ -1,1785 +1,1785 @@
-@id	name	route	network
-23147		road	US:US
-23148		road	US:US
-62134		road	US:MO
-69950		road	US:MO
-70401		road	US:MO
-139340		road	US:I
-198113		road	US:I
-198162		road	US:I
-403156		road	US:I
-411978	Texas State Highway Loop 151	road	US:TX:Loop
-444953		road	US:US
-446120		road	US:MO
-448257		road	US:US
-448274		road	US:MO
-448804		road	US:US
-450774		road	US:US
-452577		road	US:US
-452621		road	US:US
-452676		road	US:US
-1319490	NHS High Priority Corridor 8	road	US:NHS High Priority Corridors
-1322931	NHS High Priority Corridor 39	road	US:NHS High Priority Corridors
-1323040	NHS High Priority Corridor 55	road	US:NHS High Priority Corridors
-1323043	NHS High Priority Corridor 52	road	US:NHS High Priority Corridors
-1388617		road	US:AR
-1394448		road	US:AR
-1457803	Heavener Subdivision	railway	
-1457805	Fort Smith Branch	railway	
-1457807	Shreveport Subdivision	railway	
-1536260		road	US:AR
-1536947		road	US:AR
-1536959		road	US:AR
-1537017		road	US:AR
-1537233		road	US:AR
-1537257		road	US:AR
-1537469		road	US:AR
-1537473		road	US:AR
-1538129		road	US:AR
-1538209		road	US:AR
-1538449		road	US:AR
-1538455		road	US:AR
-1538473		road	US:AR
-1538513		road	US:AR
-1538516		road	US:AR
-1538518		road	US:AR
-1538522		road	US:AR
-1538526		road	US:AR
-1538527		road	US:AR
-1578251		road	US:AR
-1628551		road	US:US
-1629635		road	US:US
-1629641	US 70 (AR)	road	US:US
-1629650		road	US:US
-1629672		road	US:US
-1629675	US 79 (AR)	road	US:US
-1629681		road	US:US
-1630663		road	US:US
-1669658		road	US:AR
-1672308		road	US:AR
-1686321		road	US:I
-1695586		road	US:I
-1713162		road	US:AR
-1713163		road	US:AR
-1713164		road	US:AR
-1713165		road	US:AR
-1713166		road	US:AR
-1713167		road	US:AR
-1713168		road	US:AR
-1713169		road	US:AR
-1713170		road	US:AR
-1713171		road	US:AR
-1713172		road	US:AR
-1713173		road	US:AR
-1713174		road	US:AR
-1713175		road	US:AR
-1713176		road	US:AR
-1713177		road	US:AR
-1713178		road	US:AR
-1713179		road	US:AR
-1713180		road	US:AR
-1713221		road	US:AR
-1713222		road	US:AR
-1713223		road	US:AR
-1713224		road	US:AR
-1713225		road	US:AR
-1713226		road	US:AR
-1713227		road	US:AR
-1713228		road	US:AR
-1713229		road	US:AR
-1713230		road	US:AR
-1713231		road	US:AR
-1713257		road	US:AR
-1713258		road	US:AR
-1713259		road	US:AR
-1713260		road	US:AR
-1713261		road	US:AR
-1713262		road	US:AR
-1713263		road	US:AR
-1713264		road	US:AR
-1713265		road	US:AR
-1713266		road	US:AR
-1713267		road	US:AR
-1713304		road	US:AR
-1713305		road	US:AR
-1713306		road	US:AR
-1713307		road	US:AR
-1713308		road	US:AR
-1713309		road	US:AR
-1713310		road	US:AR
-1713311		road	US:AR
-1713312		road	US:AR
-1713313		road	US:AR
-1713314		road	US:AR
-1713315		road	US:AR
-1713316		road	US:AR
-1713317		road	US:AR
-1713318		road	US:AR
-1713319		road	US:AR
-1713320		road	US:AR
-1713331		road	US:AR
-1713332		road	US:AR
-1713333		road	US:AR
-1713334		road	US:AR
-1713335		road	US:AR
-1713336		road	US:AR
-1713337		road	US:AR
-1713338		road	US:AR
-1713339		road	US:AR
-1713340		road	US:AR
-1713341		road	US:AR
-1713342		road	US:AR
-1713343		road	US:AR
-1713344		road	US:AR
-1713347		road	US:AR
-1713348		road	US:AR
-1713349		road	US:AR
-1713350		road	US:AR
-1714084		road	US:AR
-1714085		road	US:AR
-1714086		road	US:AR
-1714087		road	US:AR
-1714088		road	US:AR
-1714089		road	US:AR
-1714097		road	US:AR
-1714098		road	US:AR
-1714099		road	US:AR
-1714100		road	US:AR
-1714101		road	US:AR
-1714102		road	US:AR
-1714103		road	US:AR
-1714112		road	US:AR
-1714113		road	US:AR
-1714114		road	US:AR
-1714115		road	US:AR
-1714116		road	US:AR
-1714117		road	US:AR
-1714118		road	US:AR
-1714119		road	US:AR
-1714120		road	US:AR
-1714121		road	US:AR
-1714145		road	US:AR
-1714146		road	US:AR
-1714147		road	US:AR
-1714148		road	US:AR
-1714149		road	US:AR
-1714150		road	US:AR
-1714151		road	US:AR
-1714634		road	US:AR
-1714635		road	US:AR
-1714636		road	US:AR
-1714637		road	US:AR
-1714638		road	US:AR
-1714639		road	US:AR
-1714662		road	US:AR
-1714663		road	US:AR
-1714664		road	US:AR
-1714665		road	US:AR
-1714666		road	US:AR
-1714667		road	US:AR
-1714668		road	US:AR
-1714670		road	US:AR
-1714671		road	US:AR
-1714672		road	US:AR
-1714673		road	US:AR
-1714674		road	US:AR
-1714675		road	US:AR
-1714676		road	US:AR
-1714679		road	US:AR
-1714680		road	US:AR
-1714694		road	US:AR
-1714695		road	US:AR
-1714696		road	US:AR
-1714697		road	US:AR
-1714698		road	US:AR
-1714699		road	US:AR
-1714700		road	US:AR
-1714701		road	US:AR
-1714702		road	US:AR
-1714737		road	US:AR
-1714738		road	US:AR
-1714739		road	US:AR
-1714740		road	US:AR
-1714741		road	US:AR
-1714742		road	US:AR
-1714743		road	US:AR
-1714762		road	US:AR
-1714763		road	US:AR
-1714764		road	US:AR
-1714765		road	US:AR
-1714766		road	US:AR
-1714767		road	US:AR
-1714768		road	US:AR
-1714769		road	US:AR
-1714781		road	US:US
-1715094		road	US:AR
-1715095		road	US:AR
-1715096		road	US:AR
-1715097		road	US:AR
-1715098		road	US:AR
-1715099		road	US:AR
-1715100		road	US:AR
-1715265		road	US:AR
-1715266		road	US:AR
-1715267		road	US:AR
-1715268		road	US:AR
-1715273		road	US:AR
-1715274		road	US:AR
-1715275		road	US:AR
-1715276		road	US:AR
-1715277		road	US:AR
-1715278		road	US:AR
-1715279		road	US:AR
-1715280		road	US:AR
-1715281		road	US:AR
-1715282		road	US:AR
-1715283		road	US:AR
-1715284		road	US:AR
-1715285		road	US:AR
-1715286		road	US:AR
-1715287		road	US:AR
-1715288		road	US:AR
-1715333		road	US:AR
-1715334		road	US:AR
-1715335		road	US:AR
-1715336		road	US:AR
-1715337		road	US:AR
-1715391		road	US:AR
-1715392		road	US:AR
-1715393		road	US:AR
-1715395		road	US:AR
-1715396		road	US:AR
-1715397		road	US:AR
-1715459		road	US:AR
-1715460		road	US:AR
-1715461		road	US:AR
-1715462		road	US:AR
-1715463		road	US:AR
-1715464		road	US:AR
-1715465		road	US:AR
-1715466		road	US:AR
-1715477		road	US:AR
-1715478		road	US:AR
-1715479		road	US:AR
-1715480		road	US:AR
-1715481		road	US:AR
-1715494		road	US:AR
-1715495		road	US:AR
-1715514		road	US:AR
-1715515		road	US:AR
-1715516		road	US:AR
-1715517		road	US:AR
-1715519		road	US:AR
-1716073		road	US:AR
-1716074		road	US:AR
-1716075		road	US:AR
-1716076		road	US:AR
-1716077		road	US:AR
-1716140		road	US:AR
-1716141		road	US:AR
-1716142		road	US:AR
-1716143		road	US:AR
-1716144		road	US:AR
-1716216		road	US:AR
-1716217		road	US:AR
-1716218		road	US:AR
-1716219		road	US:AR
-1716220		road	US:AR
-1716221		road	US:AR
-1716222		road	US:AR
-1716232		road	US:AR
-1716233		road	US:AR
-1716234		road	US:AR
-1716235		road	US:AR
-1716236		road	US:AR
-1716244		road	US:AR
-1716245		road	US:AR
-1716246		road	US:AR
-1716251		road	US:AR
-1716252		road	US:AR
-1716253		road	US:AR
-1716259		road	US:AR
-1716260		road	US:AR
-1716261		road	US:AR
-1716262		road	US:AR
-1716272		road	US:AR
-1716273		road	US:AR
-1716274		road	US:AR
-1716275		road	US:AR
-1716276		road	US:AR
-1716277		road	US:AR
-1716358		road	US:AR
-1716359		road	US:AR
-1716360		road	US:AR
-1716362		road	US:AR
-1716363		road	US:AR
-1716364		road	US:AR
-1716365		road	US:AR
-1716848		road	US:AR
-1716849		road	US:AR
-1716850		road	US:AR
-1716851		road	US:AR
-1716852		road	US:AR
-1716853		road	US:AR
-1716854		road	US:AR
-1716855		road	US:AR
-1716878		road	US:AR
-1716879		road	US:AR
-1716880		road	US:AR
-1716969		road	US:AR
-1716970		road	US:AR
-1716971		road	US:AR
-1716972		road	US:AR
-1716977		road	US:AR
-1716978		road	US:AR
-1716979		road	US:AR
-1716980		road	US:AR
-1716987		road	US:AR
-1716988		road	US:AR
-1716989		road	US:AR
-1716998		road	US:AR
-1716999		road	US:AR
-1717003		road	US:AR
-1717004		road	US:AR
-1717005		road	US:AR
-1717006		road	US:AR
-1717013		road	US:AR
-1717014		road	US:AR
-1717015		road	US:AR
-1717016		road	US:AR
-1717038		road	US:AR
-1717039		road	US:AR
-1717040		road	US:AR
-1717041		road	US:AR
-1717042		road	US:AR
-1717043		road	US:AR
-1717046		road	US:AR
-1717047		road	US:AR
-1717048		road	US:AR
-1717049		road	US:AR
-1717056		road	US:AR
-1717077		road	US:AR
-1717078		road	US:AR
-1717079		road	US:AR
-1717080		road	
-1717081		road	US:AR
-1717623		road	US:AR
-1717624		road	US:AR
-1717625		road	US:AR
-1718757		road	US:AR
-1718758		road	US:AR
-1718759		road	US:AR
-1718760		road	US:AR
-1718761		road	US:AR
-1718762		road	US:AR
-1718763		road	US:AR
-1718764		road	US:AR
-1718795		road	US:AR
-1718849		road	US:AR
-1718850		road	US:AR
-1718851		road	US:AR
-1718887		road	US:AR
-1718888		road	US:AR
-1718889		road	US:AR
-1718890		road	US:AR
-1718891		road	US:AR
-1718892		road	US:AR
-1718893		road	US:AR
-1718894		road	US:AR
-1718895		road	US:AR
-1718896		road	US:AR
-1718941		road	US:AR
-1718942		road	US:AR
-1718943		road	US:AR
-1718944		road	US:AR
-1718945		road	US:AR
-1718946		road	US:AR
-1718947		road	US:AR
-1718948		road	US:AR
-1718949		road	US:AR
-1718950		road	US:AR
-1718951		road	US:AR
-1718994		road	US:AR
-1718995		road	US:AR
-1718996		road	US:AR
-1718997		road	US:AR
-1718998		road	US:AR
-1718999		road	US:AR
-1719000		road	US:AR
-1719001		road	US:AR
-1719008		road	US:AR
-1719009		road	US:AR
-1719010		road	US:AR
-1719011		road	US:AR
-1719012		road	US:AR
-1719013		road	US:AR
-1719014		road	US:AR
-1719015		road	US:AR
-1719016		road	US:AR
-1719017		road	US:AR
-1719067		road	US:AR
-1719068		road	US:AR
-1719079		road	US:AR
-1719080		road	US:AR
-1719082		road	US:AR
-1719083		road	US:AR
-1719084		road	US:AR
-1719085		road	US:AR
-1719091		road	US:AR
-1719092		road	US:AR
-1720420		road	US:AR
-1720454		road	US:AR
-1720455		road	US:AR
-1720456		road	US:AR
-1720457		road	US:AR
-1720458		road	US:AR
-1720459		road	US:AR
-1720490		road	US:AR
-1720491		road	US:AR
-1720492		road	US:AR
-1720493		road	US:AR
-1720494		road	US:AR
-1720671		road	US:AR
-1720672		road	US:AR
-1720708		road	US:AR
-1720709		road	US:AR
-1720710		road	US:AR
-1720899		road	US:AR
-1720900		road	US:AR
-1720901		road	US:AR
-1720902		road	US:AR
-1720903		road	US:AR
-1720904		road	US:AR
-1720905		road	US:AR
-1720935		road	US:AR
-1720936		road	US:AR
-1720938		road	US:AR
-1720939		road	US:AR
-1720956		road	US:AR
-1720957		road	US:AR
-1720958		road	US:AR
-1721002		road	US:AR
-1721003		road	US:AR
-1721004		road	US:AR
-1721118		road	US:AR
-1721119		road	US:AR
-1721120		road	US:AR
-1721121		road	US:AR
-1721672		road	US:AR
-1721673		road	US:AR
-1721674		road	US:AR
-1721675		road	US:AR
-1721676		road	US:AR
-1721677		road	US:AR
-1721678		road	US:AR
-1721771		road	US:AR
-1721772		road	US:AR
-1721773		road	US:AR
-1721774		road	US:AR
-1721775		road	US:AR
-1722164		road	US:AR
-1756991	Winona Scenic Drive	road	
-1765490	Arkansas River Trail	bicycle	rcn
-1781854	Mississippi River Trail (Arkansas)	bicycle	ncn
-1783089	Great River Road (Arkansas)	road	US:GRR
-1784816		road	US:GRR
-1786388	Arkansas Connector	bicycle	rcn
-1930296		road	US:US
-1930297		road	US:US
-1930298		road	US:US
-1930299		road	US:US
-1930300		road	US:US
-1930301		road	US:US
-1930302		road	US:US
-1930303		road	US:US
-1930305		road	US:US
-1930306		road	US:US
-1930307		road	US:US
-1930308		road	US:US
-1930309		road	US:US
-1930310		road	US:US
-1930311		road	US:US
-1930312		road	US:US
-1930313		road	US:US
-1930314		road	US:US
-1930315		road	US:US
-1930316		road	US:US
-1930317		road	US:US
-1930318		road	US:US
-1930319		road	US:US
-1930322		road	US:US
-1930323		road	US:US
-1930324		road	US:US
-1930325		road	US:US
-1930326		road	US:US
-1930327		road	US:US
-1930328		road	US:US
-1930329		road	US:US
-1930330		road	US:US
-1930331		road	US:US
-1930332		road	US:US
-1930333		road	US:US
-1930334		road	US:US
-1930335		road	US:US
-1930336		road	US:US
-1930337		road	US:US
-1930339		road	US:US
-1930340		road	US:US
-1930341		road	US:US
-1930342		road	US:US
-1930343		road	US:US
-1930344		road	US:US
-1930345		road	US:US
-1930346		road	US:US
-1930348		road	US:US
-1930349		road	US:US
-1930350		road	US:US
-1930351		road	US:US
-1930352		road	US:US
-1930353		road	US:US
-1930354		road	US:US
-1930355		road	US:US
-1930356		road	US:US
-1930357		road	US:US
-1930358		road	US:US
-1930359		road	US:US
-1930361		road	US:US
-1968153		road	US:TX:FM
-2182835	McClellan-Kerr Arkansas River Navigation System	boat	inland waterways
-2182837	Lower Mississippi River	waterway	inland waterways
-2183782	Ouachita-Black Rivers	boat	inland waterways
-2184037	White River	boat	inland waterways
-2193959	Razorback Regional Greenway	bicycle	rcn
-2209325	McGehee Subdivision	railway	
-2209330	Shreveport Subdivision	railway	
-2210305	Armorel Branch	railway	
-2210307	Brinkley Subdivision	railway	
-2210309	Conway Industrial Lead	railway	
-2210310	Cypress Bend Branch	railway	
-2210311	DK&S Industrial Lead	railway	
-2210312	El Dorado Subdivision	railway	
-2210313	Gurdon Industrial Lead	railway	
-2210314	Helena Subdivision	railway	
-2210315	Hot Springs Industrial Lead	railway	
-2210316	Hoxie Subdivision	railway	
-2210317	Hulbert Branch	railway	
-2210318	Jacksonville Branch	railway	
-2210319	Jonesboro Subdivision	railway	
-2210320	Little Rock Subdivision	railway	
-2210321	Memphis Subdivision	railway	
-2210322	Nashville Subdivision	railway	
-2210324	Pine Bluff Subdivision	railway	
-2210325	River Subdivision	railway	
-2210326	Rock Street Industrial Lead	railway	
-2210328	Stuttgart Industrial Lead	railway	
-2210329	Tenark Industrial Lead	railway	
-2210330	Thayer South Subdivision	railway	
-2210331	Van Buren Subdivision	railway	
-2210332	White Bluff Industrial Lead	railway	
-2210333	White Bluff Subdivision	railway	
-2210334	Wynne Subdivision	railway	
-2304866	US 61 (AR)	road	US:US
-2304869		road	US:US
-2304870		road	US:US
-2304877		road	US:US
-2307589		road	US:I
-2310342		road	US:US
-2310347	US 64 (AR)	road	US:US
-2310384		road	US:US
-2310576		road	US:US
-2310731		road	US:US
-2319882		road	
-2320024		road	
-2320025		road	
-2322039		road	US:I
-2322040		road	US:I
-2329203		road	US:I
-2795760	Amtrak Texas Eagle: Chicago => San Antonio	train	Amtrak
-2928982		road	US:AR
-3013705		road	US:OK
-3506785		road	US:OK
-3506793		road	US:OK
-3508931		road	US:OK
-3520629		road	US:OK
-3797680		road	US:LA
-3838499	Ouachita National Recreation Trail	hiking	rwn
-3846855	"Chicago, Rock Island and Pacific Railroad"	historic	
-3846892	Little Rock and Western Railway	railway	
-3847076			
-3847225		railway	
-4788274	Metro Streetcar Blue Line: Bishop Lindsey Avenue → Presidential Library	tram	Rock Region Metro
-5559331	Purple Heart Trail	road	US:I
-5570921	Route 35	bus	
-5570936	Route 44	bus	
-5570987	Route 26	bus	
-5573421	Route 17	bus	
-5573426	Route 21	bus	
-5573450	Route 11	bus	
-5576482	Route 33	bus	
-6186773		road	US:US:Bypass
-6195191		road	US:AR
-6605882	Harper's Loop	bicycle	lcn
-6650953		power	
-6691528	Missouri and Northern Arkansas Railroad	railway	
-6708224	Yellow Trail	horse	lhn
-6708372	Southeast Trail	bicycle	lcn
-6843700		road	US:I
-6897152		road	US:I
-6908170		road	US:I
-6908171		road	US:I
-6915355	border of the park	foot	lwn
-7017932		bicycle	lcn
-7499713		road	US:US
-7499714		road	US:US
-7524690	Wagoner Subdivision	railway	
-7593080	Hoxie to Walport Trail	bicycle	lcn
-7707321		road	US:US:Business
-8318009		road	US:AR
-8415611		power	
-9038960		road	US:US
-9038961		road	US:US
-9069150		road	US:US
-9069225		road	US:I
-9069226		road	US:I
-9069246		road	US:US
-9069248		road	US:US
-9226751	Fort Smith Railroad	railway	
-9226791		railway	
-9226796		railway	
-9470177		railway	
-9470178		railway	
-9470179		railway	
-9470220		railway	
-9472480	Waldron Branch	railway	
-9719328	Delta Heritage Trail (Northern Corridor)	bicycle	rcn
-10255185		road	US:LA
-10394139		road	US:LA
-10460925	Eagar Street	road	
-10472623		road	US:LA
-10517394		road	US:US:Bypass
-10525752		road	US:I
-10535569		road	US:AR
-10535603		road	US:AR
-10664643		road	US:AR:Yell
-10718127	Warthog	mtb	lcn
-10719266	Lake Bella Vista Trail	bicycle	lcn
-10721600	Bentonville Gold Route	bicycle	lcn
-10722532	Wishing Springs Trail	bicycle	lcn
-10722533	North Bentonville Trail	bicycle	lcn
-10722534	Jefferson Trail	bicycle	lcn
-10722535	Lincoln Loop	bicycle	lcn
-10722537	Bentonville Blue Route	bicycle	lcn
-10722807	Cambridge Park Trail	bicycle	lcn
-10722808	NWACC Trail	bicycle	lcn
-10722809	Arkansas Missouri Trail	bicycle	lcn
-10722810	Members Place Trail	bicycle	lcn
-10722811	Moberly Lane Sidepath	bicycle	lcn
-10722812	Memorial Park Fitness Trail	bicycle	lcn
-10722814	John DeSheilds Trail	bicycle	lcn
-10722815	Heritage Trail - Central	bicycle	lcn
-10722816	J Street Sidepath East	bicycle	lcn
-10722817	Bentonville Orange Route	bicycle	lcn
-10736728	Bentonville Teal Route	bicycle	lcn
-10736844	Bentonville Pink Route	bicycle	lcn
-10736845	Bentonville Yellow Route	bicycle	lcn
-10736873	Trail of Two Cities	bicycle	lcn
-10736942	Blackbird	mtb	lcn
-10741496	North Walton Trail	bicycle	lcn
-10741497	Heratage Trail - I Street	bicycle	lcn
-10741498	Citizens Park Trail	bicycle	lcn
-10741499	B Street Trail	bicycle	lcn
-10741500	South Bentonville Trail	bicycle	lcn
-10741529	Foxfire Trail	bicycle	lcn
-10741530	Railyard Loop	bicycle	lcn
-10741531	Turtle Creek Trail	bicycle	lcn
-10741532	Rogers Regional Sports Park Loop	bicycle	lcn
-10741533	Foerster Park Loop	bicycle	lcn
-10741534	Mountie Trail	bicycle	lcn
-10741535	War Eagle Trail	bicycle	lcn
-10741536	Blossom Way Trail	bicycle	lcn
-10742508	Lake Atlanta Trail	bicycle	lcn
-10742509	Lake Atlanta Loop	bicycle	lcn
-10742510	Veterans Park Loop	bicycle	lcn
-10742511	Veterans Park Loop - Alternate	bicycle	lcn
-10744543	Heritage Trail - Eastside	bicycle	lcn
-10744816	Old Wire Trail	bicycle	lcn
-10745388	Perry Road Trail	bicycle	lcn
-10745389	26th Street Trail	bicycle	lcn
-10745390	24th Street Trail	bicycle	lcn
-10745391	Aquatic Center Trail Loop	bicycle	lcn
-10745392	Hampton Trail	bicycle	lcn
-10745393	Pinnacle Hills Trail	bicycle	lcn
-10745394	AMP Trail	bicycle	lcn
-10745395	AMP Trail Spur	bicycle	lcn
-10745419	Pinnacle Hills Trail	bicycle	lcn
-10745420	Pleasant Grove Trail	bicycle	lcn
-10745421	Bellview Road Trail	bicycle	lcn
-10745422	Garrett Road Trail	bicycle	lcn
-10745423	Bellview Trailhead	bicycle	lcn
-10745766	Turtle Creek Trail	bicycle	lcn
-10745767	Adult Wellness Center Loop	bicycle	lcn
-10745768	13th Street Trail	bicycle	lcn
-10745805	Pleasant Ridge Trail	bicycle	lcn
-10745808	Villiage on the Creek Loop	foot	
-10749713	J.B. Hunt Park Loop	bicycle	lcn
-10749714	Lake Springdale Loop	bicycle	lcn
-10772523	Lake Fayetteville Loop	bicycle	lcn
-10772524	Lake Fayetteville Spur	bicycle	lcn
-10772525	Lake Fayetteville Nature & MTB Trail	mtb	lcn
-10772526	Kitty Creek Trail	bicycle	lcn
-10772527	Mud Creek Trail	bicycle	lcn
-10772528	Niokaska Creek Trail	bicycle	lcn
-10772746	Town Branch Trail	bicycle	lcn
-10772747	Tsa-La-Gi Trail	bicycle	lcn
-10773227	Frisco Trail	bicycle	lcn
-10773228	Walker Park Trail	bicycle	lcn
-10773229	Cato Springs Trail	bicycle	lcn
-10773230	Regional Park Trail	bicycle	lcn
-10773282	Gulley Park Trail Loop	bicycle	lcn
-10773283	Gully Park Spur	bicycle	lcn
-10773284	Wilson Park Trail Loop	bicycle	lcn
-10773285	Meadow Valley Trail	bicycle	lcn
-10773286	Hamestring Creek Trail	bicycle	lcn
-10775790	Oak Ridge Trail	bicycle	lcn
-10775791	Clabber Creek Trail	bicycle	lcn
-10775792	Clear Creek Trail	bicycle	lcn
-10775793	Scull Creek Trail	bicycle	lcn
-10775794	Clabber Creek Trail	bicycle	lcn
-10775795	Skull Creek Trail - Alternative	bicycle	lcn
-10775970	Razorback Sidepath Trail	bicycle	lcn
-10775971	Garland Sidepath	bicycle	lcn
-10775972	Rupple Road Sidepath	bicycle	lcn
-10790329	Greenway Slaughter Pen North Connector	mtb	lcn
-10790330	Downhill Connector	mtb	lcn
-10790331	Medusa	mtb	lcn
-10790332	Tatamagouche	mtb	lcn
-10790333	Armadillo's Last Stand	mtb	lcn
-10790449	Urban Trail	mtb	
-10790450	Razorback Ridge	mtb	
-10790451	Angus Chute	mtb	
-10790452	Angus Chute Connector	mtb	
-10790453	Master Plan North	mtb	
-10792202	The President Bush Push	mtb	
-10792203	Berm Creek Return	mtb	
-10792204	Ozone	mtb	lcn
-10792205	Urban Trail Connector	mtb	
-10792687	Free Time	mtb	
-10792689	Rocky Ridge	mtb	
-10792690	Berkeley's Holler	mtb	
-10792691	Schroen Train-Downhill Only	mtb	
-10792692	2 Stacks	mtb	
-10809471	Blowing Springs Loop-North Upper	mtb	lcn
-10809472	Blowing Springs Greenway	bicycle	lcn
-10809548	Flo Ride	mtb	lcn
-10809599	Pinyon Creek	mtb	
-10809654	Rago	mtb	lcn
-10809742	SBAT	mtb	lcn
-10809772	Summit School	mtb	lcn
-10809781	Taylor Homestead	mtb	lcn
-10809797	Back 40	mtb	lcn
-10809798	Buckingham Cutoff	mtb	lcn
-10810659	Back 40 Access Path	mtb	lcn
-10810660	Mulligan	mtb	lcn
-10810661	The Ledges	mtb	lcn
-10810662	Blowing Springs-Back 40 Connector Loop	bicycle	lcn
-10810663	Bomb Diggity	mtb	lcn
-10810665	Low Ride	mtb	lcn
-10810666	Cooper MTB Spur	mtb	lcn
-10810667	Blowing Springs Connector-South	mtb	lcn
-10810668	Tower Trail	mtb	lcn
-10810669	Cooper MTB Spur Alt	mtb	lcn
-10811070	Tunnel Vision	mtb	lcn
-10813428	Tweety Bird	mtb	lcn
-10814185	Sally	mtb	lcn
-10814186	Smuggler's Run	mtb	lcn
-10816431	Copperhead Road	mtb	lcn
-10819667	Oscar's Loop	mtb	lcn
-10824173	Rock Solid	mtb	lcn
-10824302	Apple Turnover	mtb	lcn
-10824304	Rock Ledge Trail	mtb	lcn
-10824306	Boo Boo	mtb	lcn
-10824307	Rocking Horse	mtb	lcn
-10824308	Choo Choo	mtb	lcn
-10824310	Cry Baby	mtb	lcn
-10825931	Apple Dumpling-Return & Connector	mtb	lcn
-10825967	Cry Baby Access Path	bicycle	lcn
-10838904	Tristan's Trail	mtb	lcn
-10838905	Tristan's Trail	bicycle	lcn
-10838906	Red Barn	mtb	lcn
-10848080	Barn Burner	mtb	lcn
-10848081	Burns Arboretum Loop Trail	mtb	lcn
-10848084	Oak Connector	mtb	lcn
-10848085	Black Apple Creek Trail	mtb	lcn
-10848167	Rotten to the Core	mtb	lcn
-10851139	The Boneyard Drop	mtb	lcn
-10851140	Boneyard Return	mtb	lcn
-10853279	Cease and Desist	mtb	lcn
-10853405	Drop the Hammer	mtb	lcn
-10855608	Thunder Dome Left	mtb	lcn
-10855609	Thunder Dome Right	mtb	lcn
-10855610	Up Thunder dome	mtb	lcn
-10855611	Here's Johnny	mtb	lcn
-10855727	Family Flow Return	mtb	lcn
-10868744	Ozark Highlands Trail	hiking	rwn
-10876993	Family Flow	mtb	lcn
-10876994	Esther's	mtb	lcn
-10885214	Esther's Alt Route	mtb	lcn
-10887413	Buffalo River Trail	hiking	rwn
-10925263	Oscar's Loop Access	mtb	lcn
-10946324	White Rock - Shores Lake Loop	hiking	lcn
-11295601		railway	
-11502769	Route 01 - Pulaski Heights - Outbound	bus	Rock Region Metro
-11502798	Route 01 - Pulaski Heights - Inbound	bus	Rock Region Metro
-11503031	Route 02 - South Main - Outbound	bus	Rock Region Metro
-11503182	Route 02 - South Main - Inbound	bus	Rock Region Metro
-11503267	Route 03 - Baptist Medical Center - Outbound	bus	Rock Region Metro
-11503585	Route 03 - Baptist Medical Center - Inbound	bus	Rock Region Metro
-11512962	Route 04 - Levy/Amboy - Outbound	bus	Rock Region Metro
-11512963	Route 04 - Levy / Amboy - Inbound	bus	Rock Region Metro
-11513169	Route 05 - West Markham - Outbound	bus	Rock Region Metro
-11513225	Route 05 - West Markham - Inbound	bus	Rock Region Metro
-11513305	Route 06 - Granite Mountain - Outbound	bus	Rock Region Metro
-11513360	Route 06 - Granite Mountain - Inbound	bus	Rock Region Metro
-11513492	Riute 07 - Shorter College - Outbound	bus	Rock Region Metro
-11515582	Route 07 - Shorter College - Inbound	bus	Rock Region Metro
-11516056	Route - 10 - McCain Mall - Outbound	bus	Rock Region Metro
-11516198	Route 10 - McCain Mall - Inbound	bus	Rock Region Metro
-11516334	Route 12 - Clinton Center / Airport - Outbound	bus	Rock Region Metro
-11516358	Route 12 - Clinton Center / Airport - Inbound	bus	Rock Region Metro
-11516686	Route 11 - Dr. M.L. K. Jr. Drive - Outbound	bus	Rock Region Metro
-11516730		road	US:AR:Clay
-11516731		road	US:AR:Clay
-11516732		road	US:AR:Clay
-11516733		road	US:AR:Clay
-11516734		road	US:AR:Clay
-11516735		road	US:AR:Clay
-11516736		road	US:AR:Clay
-11518250		road	US:AR:Greene
-11518251		road	US:AR:Greene
-11518252		road	US:AR:Greene
-11518253		road	US:AR:Greene
-11518254		road	US:AR:Greene
-11518255		road	US:AR:Greene
-11518256		road	US:AR:Greene
-11518257		road	US:AR:Greene
-11518258		road	US:AR:Greene
-11518259		road	US:AR:Greene
-11518260		road	US:AR:Clay
-11518261		road	US:AR:Clay
-11518262		road	US:AR:Greene
-11518263		road	US:AR:Clay
-11518264		road	US:AR:Clay
-11518265		road	US:AR:Clay
-11518266		road	US:AR:Clay
-11518267		road	US:AR:Clay
-11518268		road	US:AR:Clay
-11518269		road	US:AR:Clay
-11518270		road	US:AR:Clay
-11518271		road	US:AR:Clay
-11518272		road	US:AR:Clay
-11518273		road	US:AR:Clay
-11518274		road	US:AR:Clay
-11518275		road	US:AR:Clay
-11518276		road	US:AR:Clay
-11518277		road	US:AR:Clay
-11518278		road	US:AR:Clay
-11518279		road	US:AR:Clay
-11518280		road	US:AR:Clay
-11518281		road	US:AR:Clay
-11518355		road	US:AR:Greene
-11518356		road	US:AR:Greene
-11518357		road	US:AR:Greene
-11518358		road	US:AR:Greene
-11518359		road	US:AR:Greene
-11518360		road	US:AR:Greene
-11518361		road	US:AR:Greene
-11518362		road	US:AR:Greene
-11518363		road	US:AR:Greene
-11518364		road	US:AR:Greene
-11518365		road	US:AR:Greene
-11518366		road	US:AR:Greene
-11518367		road	US:AR:Greene
-11518368		road	US:AR:Greene
-11518369		road	US:AR:Greene
-11518370		road	US:AR:Greene
-11518371		road	US:AR:Greene
-11518372		road	US:AR:Greene
-11518373		road	US:AR:Greene
-11518490	Rout 11 - 11 - Dr. M.L. K. Jr. Drive - Inbound	bus	Rock Region Metro
-11518506	Route 13 - Pulaski Technical College - Outbound	bus	Rock Region Metro
-11518532	Route 13 - Pulaski Technical College - Inbound	bus	Rock Region Metro
-11518641	Route 14 - Rosedale - Outbound	bus	Rock Region Metro
-11518730	Route 14 - Rosedale - Inbound	bus	Rock Region Metro
-11519111	Route 16 - Little Rock - Outbound	bus	Rock Region Metro
-11519112	Route 16 - Little Rock - Inbound	bus	Rock Region Metro
-11519269	Route 17 - Mabelvale / Downtown - Outbound	bus	Rock Region Metro
-11519313	Route 17 - Mabelvale / Downtown - Inbound	bus	Rock Region Metro
-11519404	Route 18 - McAlmont - Outbound	bus	Rock Region Metro
-11521368	Route 18 - McAlmont - Inbound	bus	Rock Region Metro
-11521453	Route 19 - Hensley Express - Outbound	bus	Rock Region Metro
-11521496	Route 19 - Hensley Express - Inbound	bus	Rock Region Metro
-11521648	Route 20 - Hanger Hill/College Station - Outbound	bus	Rock Region Metro
-11521694	Route 20 - Hanger Hill/College Station - Inbound	bus	Rock Region Metro
-11522130	Route 22 - University/Mabelvale - Outbound	bus	Rock Region Metro
-11522476	Route 22 - University/Mabelvale - Inbound	bus	Rock Region Metro
-11522610	Route 23 - Baseline/Southwest - Outbound	bus	Rock Region Metro
-11524756		road	US:AR:Greene
-11524757		road	US:AR:Greene
-11524758		road	US:AR:Greene
-11524759		road	US:AR:Greene
-11524760		road	US:AR:Greene
-11524761		road	US:AR:Greene
-11524762		road	US:AR:Greene
-11524763		road	US:AR:Greene
-11524764		road	US:AR:Greene
-11524765		road	US:AR:Greene
-11524766		road	US:AR:Greene
-11524767		road	US:AR:Greene
-11524932	Route 23 - Baseline/Southwest - Inbound	bus	Rock Region Metro
-11525082	Route 25 - Pinnacle Mountain Express - Outbound	bus	Rock Region Metro
-11525137	Route 25 - Inbound	bus	Rock Region Metro
-11525436	Route 26 - Maumelle/Oak Grove Express - AM	bus	Rock Region Metro
-11525672	Route 26 - Maumelle/Oak Grove Express - PM	bus	Rock Region Metro
-11525866	Route 36 - Jacksonville / Sherwood Express - Outbound	bus	Rock Region Metro
-11526161	Route 36 - Jacksonville/Sherwood Express - Inbound	bus	Rock Region Metro
-11528024		road	US:AR:Craighead
-11528025		road	US:AR:Craighead
-11528026		road	US:AR:Craighead
-11528027		road	US:AR:Craighead
-11528028		road	US:AR:Craighead
-11528029		road	US:AR:Craighead
-11528030		road	US:AR:Craighead
-11528031		road	US:AR:Craighead
-11532556		road	US:AR:Craighead
-11532557		road	US:AR:Craighead
-11532558		road	US:AR:Craighead
-11532559		road	US:AR:Craighead
-11532560		road	US:AR:Craighead
-11532561		road	US:AR:Craighead
-11532562		road	US:AR:Craighead
-11532563		road	US:AR:Craighead
-11532565		road	US:AR:Craighead
-11532566		road	US:AR:Craighead
-11532567		road	US:AR:Craighead
-11532568		road	US:AR:Craighead
-11532569		road	US:AR:Craighead
-11532570		road	US:AR:Craighead
-11536680		road	US:AR:Craighead
-11536681		road	US:AR:Craighead
-11536682		road	US:AR:Craighead
-11536683		road	US:AR:Craighead
-11536684		road	US:AR:Craighead
-11536685		road	US:AR:Craighead
-11536686		road	US:AR:Craighead
-11536687		road	US:AR:Craighead
-11536700		road	US:AR
-11536727		road	US:AR:Craighead
-11536774		road	US:AR:Craighead
-11536775		road	US:AR:Craighead
-11541919		road	US:AR:Washington
-11541920		road	US:AR:Washington
-11541921		road	US:AR:Washington
-11541922		road	US:AR:Washington
-11541923		road	US:AR:Washington
-11541924		road	US:AR:Benton
-11541925		road	US:AR:Benton
-11541926		road	US:AR:Benton
-11542013		road	US:AR:Washington
-11542014		road	US:AR:Washington
-11542015		road	US:AR:Washington
-11542016		road	US:AR:Washington
-11542017		road	US:AR:Washington
-11542018		road	US:AR:Washington
-11547307		road	US:AR:Washington
-11547308		road	US:AR:Washington
-11547309		road	US:AR:Washington
-11547310		road	US:AR:Washington
-11547311		road	US:AR:Washington
-11547312		road	US:AR:Washington
-11547313		road	US:AR:Washington
-11547314		road	US:AR:Washington
-11547315		road	US:AR:Washington
-11547316		road	US:AR:Washington
-11547317		road	US:AR:Washington
-11549606		road	US:AR:Washington
-11549607		road	US:AR:Washington
-11549608		road	US:AR:Washington
-11549609		road	US:AR:Washington
-11549610		road	US:AR:Washington
-11549611		road	US:AR:Washington
-11549612		road	US:AR:Washington
-11549613		road	US:AR:Washington
-11549614		road	US:AR:Washington
-11549615		road	US:AR:Washington
-11549616		road	US:AR:Washington
-11549617		road	US:AR:Washington
-11549618		road	US:AR:Washington
-11549619		road	US:AR:Washington
-11549620		road	US:AR:Washington
-11549621		road	US:AR:Washington
-11549622		road	US:AR:Washington
-11549623		road	US:AR:Washington
-11549624		road	US:AR:Washington
-11549625		road	US:AR:Washington
-11549626		road	US:AR:Washington
-11549627		road	US:AR:Washington
-11549628		road	US:AR:Washington
-11549629		road	US:AR:Washington
-11549630		road	US:AR:Washington
-11549631		road	US:AR:Washington
-11549632		road	US:AR:Washington
-11549633		road	US:AR:Washington
-11549634		road	US:AR:Washington
-11549635		road	US:AR:Washington
-11549636		road	US:AR:Washington
-11551225		road	US:AR:Washington
-11551226		road	US:AR:Washington
-11551227		road	US:AR:Washington
-11551228		road	US:AR:Washington
-11551229		road	US:AR:Washington
-11551230		road	US:AR:Washington
-11551231		road	US:AR:Washington
-11551232		road	US:AR:Washington
-11551233		road	US:AR:Washington
-11551234		road	US:AR:Washington
-11551235		road	US:AR:Washington
-11551236		road	US:AR:Washington
-11552961		road	US:AR:Washington
-11552962		road	US:AR:Washington
-11552963		road	US:AR:Washington
-11552964		road	US:AR:Washington
-11552965		road	US:AR:Washington
-11552966		road	US:AR:Washington
-11552967		road	US:AR:Washington
-11552968		road	US:AR:Washington
-11552969		road	US:AR:Washington
-11552970		road	US:AR:Washington
-11552971		road	US:AR:Washington
-11582342		road	US:I
-11582343		road	US:I
-11768541		railway	
-11768937		railway	
-11909992	Tunnel Vision-Downunder Connector	mtb	lcn
-11909993	Landline	mtb	lcn
-11910044	Bamboozled	mtb	lcn
-11910063	Sugar Bridge	mtb	lcn
-11910085	Danger Will Robinson	mtb	lcn
-11910142	Down Under	mtb	lcn
-11910202	Lago Vista-East	mtb	lcn
-11910251	Technical Difficulties	mtb	lcn
-11910275	Up Hill Both Ways	mtb	lcn
-11917865	Cub Trail Loop	mtb	
-11917866	Wolf Trail Loop	mtb	
-11957692		road	US:AR:Washington
-11957696		road	US:OK:Adair
-11957698		road	US:AR:Washington
-12105465	Rock Soft	mtb	lcn
-12121934	Rendezvous	mtb	lcn
-12121935	Return Trail North	mtb	lcn
-12121936	Invasion	mtb	lcn
-12121937	Air Raid	mtb	lcn
-12121938	Tango Whiskey	mtb	lcn
-12121947	Shock & Awe	mtb	lcn
-12121948	Huntley Up Hill-Connector	mtb	lcn
-12121949	Return Trail-South	mtb	lcn
-12139242	Oscar to Homestead-Connector	mtb	lcn
-12139243	Esther-Homestead Connector	mtb	lcn
-12139244	Water Tower Access	mtb	lcn
-12139370	Good Vibrations	mtb	lcn
-12144776	Ravine Trail	mtb	lcn
-12144887	North Forest Trail	bicycle	
-12144921	The Masterpiece	mtb	lcn
-12161119	Good-Oscar Connector	mtb	lcn
-12162585	Wolf Crossing	mtb	
-12166398	ROGERS EXP	bus	
-12166420	GRAND	bus	
-12166434	ROGERS SC	bus	
-12166492	MIDLAND	bus	
-12166500	TOWSON	bus	
-12166516	JENNY LIND	bus	
-12180533	Amtrak Texas Eagle: Los Angeles => Chicago	train	Amtrak
-12180534	Amtrak Texas Eagle: Chicago => Los Angeles	train	Amtrak
-12180535	Amtrak Texas Eagle: San Antonio => Chicago	train	Amtrak
-12190655	Champion Cypress Tree Trail	hiking	lwn
-12215977	Oscar-Copperhead Connector	mtb	lcn
-12222222	Oscars-Johnny Connector	mtb	lcn
-12245706	Esther's Slalom	mtb	lcn
-12246302	Wolf-Cub Crossing	mtb	
-12246303	Wolf Trail-Feature	mtb	
-12246345	Appleblossom Trail	bicycle	lcn
-12249321	Oscar's Northgate Access	mtb	lcn
-12249393	Homestead Lane Connector	bicycle	lcn
-12249923	Esther-Family Connector	mtb	lcn
-12261996	Hammer Down	mtb	lcn
-12261997	Hammer-Ozone Connector	mtb	lcn
-12274371	Park Springs North Access	mtb	lcn
-12288352	Apple Dumpling	mtb	lcn
-12339542	Route 1	bus	
-12340222	Metro Streetcar Green Line: Markham & Spring → River Market	tram	Rock Region Metro
-12340223	Metro Streetcar Green Line: River Market → Markham & Spring	tram	Rock Region Metro
-12340224	Metro Streetcar Green Line: Markham & Spring → Presidential Library	tram	Rock Region Metro
-12340225	Metro Streetcar Green Line: Presidential Library → Markham & Spring	tram	Rock Region Metro
-12340226	Metro Streetcar Blue Line: Bishop Lindsey Avenue → River Market	tram	Rock Region Metro
-12340227	Metro Streetcar Blue Line: River Market → Bishop Lindsey Avenue	tram	Rock Region Metro
-12340228	Metro Streetcar Blue Line: Presidential Library → Bishop Lindsey Avenue	tram	Rock Region Metro
-12342437	Route 2	bus	
-12342453	Route 3	bus	
-12342737	Route 7	bus	
-12342808	Route 8	bus	
-12366745		bus	
-12366746	Route 1	bus	
-12366877	Route 2	bus	
-12367026	Route 3	bus	
-12392747	Central	bus	JET
-12393906	West	bus	JET
-12393939		bus	JET
-12394035	Industrial-Southeast	bus	JET
-12394097	Northeast	bus	JET
-12423380	Blakely Dam Road	road	
-12426494		railway	
-12513422		road	US:AR
-12525911		road	US:AR:Washington
-12613771	Valley View	mtb	lcn
-12613772	Thunder Chicken	mtb	lcn
-12613773	Praire Dog	mtb	lcn
-12613774	Leaning Elm	mtb	lcn
-12613775	Thunder Chicken MTB Park	mtb	lcn
-12613776	Valley View-Skill	mtb	lcn
-12613777	Praire-Elm-Connector	mtb	lcn
-12615983	Basket Case	mtb	lcn
-12615985	Junk Drawer	mtb	lcn
-12615986	Learner's Permit	mtb	lcn
-12615987	Pop Rocks	mtb	lcn
-12616847	Owl Creek MTB Trail	mtb	lcn
-12616848	Dave Clark Trail	bicycle	
-12617226	Holcomb Bicycle Course	mtb	lcn
-12617883	Morning Light	mtb	lcn
-12617884	Tailwind	mtb	lcn
-12617885	Rolling Thunder	mtb	lcn
-12617886	Skills Course	mtb	lcn
-12617888	Pump Track	mtb	lcn
-12617996	Freshman Experience	mtb	lcn
-12638607		road	US:AR
-12638817	World Cup #1	mtb	lcn
-12638818	World Cup #2	mtb	lcn
-12638819	World Cup #3	mtb	lcn
-12638820	World Cup #4	mtb	lcn
-12638821	World Cup #5	mtb	lcn
-12639039	Chunky	mtb	lcn
-12639040	Chunky-Alt	mtb	lcn
-12639041	Chunky-Connector	mtb	lcn
-12639042	Red Rum	mtb	lcn
-12639043	Red Rum-Alt	mtb	lcn
-12639044	Captain Fantastic	mtb	lcn
-12639045	Hail Mary	mtb	lcn
-12639046	Hail Mary-Alt	mtb	lcn
-12639047	Chase-WC Connector	mtb	lcn
-12639048	Chasing Gold	mtb	lcn
-12639049	Chasing Gold to Pond	mtb	lcn
-12639050	Chasing Gold-Alt	mtb	lcn
-12639051	WC-to-Chasing Connect	mtb	lcn
-12639377	Route 61 (Northbound)	bus	ORT
-12639565	Route 10	bus	ORT
-12640114	ROUTE 62	bus	ORT
-12641415	Route 490	bus	ORT
-12642645	Junk-Trav-Connector	mtb	lcn
-12642646	World Cup #4 - Alt	mtb	lcn
-12642647	Basket Case Traverse-Connector	mtb	lcn
-12642648	Basket Case Junk-Connector	mtb	lcn
-12642649	World Cup #1 - Alt	mtb	lcn
-12642650	Learning Junk-Connector	mtb	lcn
-12764667	Frisco Trail	mtb	lcn
-12764670	Scout Loop Trail	mtb	lcn
-12764672	Paw Paw Lane Trail	mtb	lcn
-12764673	Groms Trail	mtb	lcn
-12764675	Controlled Burn (Blue)	mtb	lcn
-12764677	Chert Row	mtb	lcn
-12764685	Shadow Ridge Trail	mtb	lcn
-12820690	Elm Tree MTB Trail L2	mtb	lcn
-12820691	Elm Tree MTB Trail L1	mtb	lcn
-12922494	Free Time-Ladder Bridge	mtb	
-12922872	Phase 2 West-Connector (North)	mtb	
-12922873	Scott Allen Alley	mtb	
-12922874	Unnamed	mtb	
-12922875	Brewer Circle-Access	mtb	
-12925590	Phase 2 West-Connector (Central)	mtb	
-12940568	Blowing Springs Connector	mtb	lcn
-12941487	Manchester Drive-Connector	mtb	lcn
-12941488	Blowing Springs Loop-Shortcut	mtb	lcn
-12941489	Cooper Connector	mtb	lcn
-12941554	Cooper Connector-Feature	mtb	lcn
-12946626	Schroen Train	mtb	
-12946696	Unnamed	mtb	
-13040493		power	
-13044218		power	
-13044219		power	
-13044220		power	
-13044268		power	
-13044269		power	
-13044270		power	
-13044271		power	
-13044272		power	
-13044273		power	
-13044274		power	
-13044275		power	
-13044276		power	
-13044277		power	
-13044278		power	
-13044279		power	
-13044280		power	
-13044281		power	
-13049184	TransAmerica Trail Main Route	road	
-13075809		road	US:AR:Washington
-13075810		road	US:AR:Washington
-13075811		road	US:AR:Washington
-13076139		road	US:AR:Benton
-13076567		road	US:AR:Benton
-13076568		road	US:AR:Benton
-13076585		road	US:AR:Benton
-13076892		road	US:AR:Washington
-13077026		road	US:AR:Benton
-13077027		road	US:AR:Benton
-13079526		road	US:AR:Benton
-13079551		road	US:AR:Benton
-13171883		road	US:AR:Benton
-13171884		road	US:AR:Benton
-13171885		road	US:AR:Benton
-13171886		road	US:AR:Benton
-13171887		road	US:AR:Benton
-13171888		road	US:AR:Benton
-13308568	Holt MTB Trail	mtb	lcn
-13381273	Traverse Loop	mtb	lcn
-13381274	My Hero Zero	mtb	lcn
-13381275	Sufferin' til Sufferage	mtb	lcn
-13381276	Northern Traverse	mtb	lcn
-13381277	Interplanet Janet	mtb	lcn
-13381340	The Body Machine	mtb	lcn
-13381341	Mother Necessity	mtb	lcn
-13381342	School House Rock	mtb	lcn
-13381343	No More Kings	mtb	lcn
-13381345	Interjections (Unnamed)	mtb	lcn
-13381346	Victim of Gravity	mtb	lcn
-13381347	Do the Circulation	mtb	lcn
-13381348	Conjunction Junction	mtb	lcn
-13381349	Oakbrooke-Connector	mtb	lcn
-13381350	Traverse the Traverse-Connector	mtb	lcn
-13381351	Beau Terre-Connector	mtb	lcn
-13383073	Price Coffee-Connector	mtb	lcn
-13395669	BV AoG Connector	mtb	lcn
-13395670	Lake Avalon View	mtb	lcn
-13403147	Staggerwing	mtb	lcn
-13403148	Ruth's Revenge	mtb	lcn
-13403149	Long Shadow	mtb	lcn
-13403150	Long Shadow Connector	mtb	lcn
-13403151	Caldwell Climb	mtb	lcn
-13403152	Immortal Amanda	mtb	lcn
-13403153	Sister Rosetta	mtb	lcn
-13403155	Silent Hattie	mtb	lcn
-13403361	Lago Vista-West	mtb	lcn
-13405609	Huntley Gravity Zone Downhill Connector	mtb	lcn
-13405715	Bella Vista Street Dept Connector	mtb	lcn
-13405875	Bamboozled Gravity Trail	mtb	lcn
-13406428	Lake Avalon Vista	mtb	lcn
-13406486	Back 40-Sugar Connector	mtb	lcn
-13418533	Fresh Tunics	mtb	lcn
-13418534	Dragon Scales	mtb	lcn
-13418693	Catapult	mtb	lcn
-13418694	Medieval	mtb	lcn
-13418997	Uwabami	mtb	lcn
-13422431	Slaughter Pen Access Road Connector	mtb	lcn
-13422735	Jesse's Last Stand	mtb	lcn
-13422736	Tatamagouche Cut-through	mtb	lcn
-13422737	Armadillo-Tatamagouche Connector	mtb	lcn
-13422747	Medusa Alternate	mtb	lcn
-13422748	Tatamagouche-Medusa Connector	mtb	lcn
-13422749	Tatamagouche-Medusa Powerline Connector	mtb	lcn
-13423145	All-American Skill Line	mtb	lcn
-13423146	Slaughter Pen Phase 1 Access Central	mtb	lcn
-13423147	Tatamagouche Skill Route	mtb	lcn
-13423149	NW A Connector	mtb	lcn
-13423150	Boneyard Ditch	mtb	lcn
-13423430	Skid Marks	mtb	lcn
-13423431	The Bone Yard Drops	mtb	lcn
-13423432	The Bone Yard Drops Bonus Line	mtb	lcn
-13423433	Creekside	mtb	lcn
-13423541	Master Plan South	mtb	
-13426735	Black Apple Creek Trail-Slaughter Pen	mtb	lcn
-13426737	The Bone Yard Ridge	mtb	lcn
-13426738	The Boneyard Sent	mtb	lcn
-13426827	Jesse's Armadillo Access	mtb	lcn
-13426828	Jesse's Armadillo Connector	mtb	lcn
-13426829	Armadillo's Last Stand Connector	mtb	lcn
-13427318	Greenway Connector Phase 1 South	mtb	lcn
-13427440	Access Road Connector	mtb	lcn
-13429144	All-American Heros Phase 1	mtb	lcn
-13429145	All-American Heros Phase 2	mtb	lcn
-13429311	Bush Push Connector	mtb	lcn
-13429312	Oaklawn Connector	mtb	lcn
-13429586	Berm Creek	mtb	
-13429587	Angus Chute Gully	mtb	lcn
-13429950	All-American Heros Phase 3	mtb	lcn
-13429952	All American Connector Crystal Bridges South	mtb	lcn
-13430411	Tatamagouche-Medusa West Connector	mtb	lcn
-13430504	Armadillo Tatamagouche Cutthrough	mtb	lcn
-13430585	Free Time Drop Line	mtb	lcn
-13430599	Razorback Regional Greenway I-49 Temp	bicycle	
-13430676	All American Armadillo Connector	mtb	lcn
-13432494	Razorback Regional Greenway-Impacted South	bicycle	US:AR:NW:Greenway
-13442420	Blowing Springs Loop-South Upper	mtb	lcn
-13442421	Blowing Springs Loop-Low Rider Connector	mtb	lcn
-13442422	Blowing Springs Connector-South-Alt	mtb	lcn
-13442424	Blowing Springs-Back 40 East Connector	mtb	lcn
-13442425	Blowing Springs-Back 40 North Connector	mtb	lcn
-13442426	Blowing Springs-Back 40 North Alternative Connector	mtb	lcn
-13446426	Lake Fayetteville Loop Connector	bicycle	lcn
-13446427	Memorial Park Loop	bicycle	lcn
-13446428	Lake Fayetteville Loop Non-RRG	bicycle	lcn
-13446429	Last Call	mtb	lcn
-13446430	Terrapin Station	mtb	lcn
-13446431	Terrapin Station Connector	mtb	lcn
-13446432	Chinkapin Oak Trail	mtb	lcn
-13446433	Chinkapin Oak Trail Alternate	mtb	lcn
-13446434	Crazy Mary	mtb	lcn
-13446435	Trent Trail	mtb	lcn
-13446436	Trent Trail Connector	mtb	lcn
-13446437	Spellbound	mtb	lcn
-13446438	Western Myth	mtb	lcn
-13446439	Eggbeater	mtb	lcn
-13446440	Wino Trail	mtb	lcn
-13446885	Saddle Up	mtb	lcn
-13446886	Serpentine	mtb	lcn
-13446887	Goat Trail	mtb	lcn
-13446888	Rock City	mtb	lcn
-13446889	Fayetteville Traverse Connector	mtb	lcn
-13446890	Rock City-Traverse Connector	mtb	lcn
-13446892	Flight Training	mtb	lcn
-13446893	Flight Traverse Connector	mtb	lcn
-13446895	Fayetteville Traverse Regional Park Connector	mtb	lcn
-13446896	Fayetteville Traverse Parallel	mtb	lcn
-13446897	Fayetteville Traverse Cato Connector	mtb	lcn
-13447328	North Bentonville Trail non-RRG	bicycle	lcn
-13447469	Lake Bella Vista Trail non-RRG	bicycle	lcn
-13447955	Railyard Loop No-RRG	bicycle	lcn
-13449645	Fayetteville Traverse Centennial Kessler Connector	bicycle	
-13452308	Clabber Creek Trail Accessibility Route	bicycle	
-13452309	Rupple Clabber Connector	bicycle	lcn
-13452310	Clabber Creek Detour	bicycle	
-13452311	Clabber Creek Connector	bicycle	
-13452356	Niokaska Greenway Sharrow Connector	bicycle	
-13452478	Vandergriff Connector	mtb	lcn
-13452479	Vandergriff Trail Lower Loop	mtb	lcn
-13452480	Vandergriff Trail Middle Loop	mtb	lcn
-13452481	Vandergriff Trail Upper Loop	mtb	lcn
-13452524	Dean's Trail	bicycle	
-13452525	RRG Maple St Connector	bicycle	
-13452526	Maple Street Cycle Route	bicycle	
-13452527	Holcomb Meadow Cycle Route	bicycle	
-13454336	Gene George Blvd Sidepath	bicycle	
-13454337	Elm Springs Sidepath	bicycle	
-13456373	Shiloh Trail	bicycle	
-13472826	Razorback Regional Greenway Long Term Detour	bicycle	rcn
-13472827	Razorback Regional Greenway - North Bentonville Separated	bicycle	
-13476500	Orchard Trail	bicycle	lcn
-13476501	Crystal Bridges Art Trail	bicycle	
-13482584	Rupple Road Sidepath Trail - East	bicycle	lcn
-13482620	Walker Park Greenway	bicycle	
-13482756	Greenway to Old Missouri Bike Lane	bicycle	
-13482788	Spring Creek Trail	bicycle	
-13482820	Lake Atalanta Trail Split	bicycle	
-13482863	Veteran's Park Connector	bicycle	
-13482977	Cambridge Trail Main	bicycle	
-13483089	Lincoln Loop Spur	bicycle	
-13483162	Razorback Greenway Road Detour	bicycle	
-13483177	Downtown Trail	bicycle	
-13492238	1st Street Sidepath	bicycle	
-13492239	Arkansas Street Sidepath	bicycle	
-13492240	Frisco Springs Trail	bicycle	
-13492241	Railyard Bike Park Loop	bicycle	
-13492242	Lake Atalanta Connector	bicycle	
-13492327	13th St Sidepath	bicycle	
-13492483	Cambridge Wetlands Trail	bicycle	
-13492485	Cambridge 37th St Connector	bicycle	
-13492486	Cambridge Easy Street West Connector	bicycle	
-13492487	Cambridge Trail Easy Street Connector East	bicycle	
-13492496	Easy Street Spur	bicycle	
-13492993	Enfield Trail	bicycle	
-13493075	Crystal Bridges Art Trail East	bicycle	
-13493451	Turtle Creek Trail Spur	bicycle	
-13496912	Mount Comfort Road	bicycle	
-13671281	City Lake Skills Beginnner Line	mtb	lcn
-13671282	City Lake Skills Intermediate Line	mtb	lcn
-13671283	City Lake Skills Advanced Line	mtb	lcn
-13671284	City Lake Skills Intermediate Alt Line	mtb	lcn
-13671285	City Lake Skills Advanced Alt Line	mtb	lcn
-13671322	Enchanted Forest	mtb	lcn
-13845322		road	US:AR:Sebastian
-13875924	Hidden Diversity Multi-Use Trail	hiking	
-13912757		road	US:AR:Washington
-13912758		road	US:AR:Washington
-13912759		road	US:AR:Washington
-13912760		road	US:AR:Washington
-14048708		road	US:AR
-14066788	Thaden MTB Trail	mtb	lcn
-14104746		road	US:I
-14104747		road	US:I
-14105391		road	US:US
-14105392		road	US:US
-14302531	Heading Home	mtb	lcn
-14302532	Tech Hub Connector	mtb	lcn
-14302533	Rim Trail	mtb	lcn
-14302554	Tech Gnar	mtb	lcn
-14302555	Tech Gnar Drop Line	mtb	lcn
-14302556	Walter's Whistler	mtb	lcn
-14302557	Highway to Heaven	mtb	lcn
-14302558	Flow Hub Connector	mtb	lcn
-14302566	Tech Gnar-Cry Baby Connector	mtb	lcn
-14375188		road	US:AR
-14556655	Tennessee Gas Pipeline - 100 System (Main Line)	pipeline	
-14585781	Eagle Rock Loop	hiking	rwn
-14603698		road	US:MO:Supplemental
-14607447		bicycle	ncn
-14660345		foot	
-14721027	ORT Bentonville DRT-NWACC	bus	ORT
-14723769	ORT Rogers DRT-NWACC	bus	ORT
-14723770	ORT Bentonville DRT-Forum	bus	ORT
-14723771	ORT Rogers DRT-Forum	bus	ORT
-14745445		foot	
-15000457	Loam Wolf	mtb	
-15000458	Climb Line	mtb	
-15000705	Walk/Bike Scenic Trail	bicycle	lcn
-15000706	Gravette Walk-Bike Main Loop	bicycle	lcn
-15006534	Hammer Pedal Connector	mtb	
-15006536	Rock Salad	mtb	lcn
-15006537	Pedal Assist	mtb	
-15006538	Esther's Slalom	mtb	lcn
-15006539	Here's Johnny Alt	mtb	lcn
-15006691	Oeste Vista	mtb	
-15006692	Shotgun	mtb	
-15006693	Bullet	mtb	
-15008915	Beginner XC	mtb	
-15008916	Beginner Downhill	mtb	
-15008917	Intermediate Downhill	mtb	
-15008918	Jumps	mtb	
-15008919	Drops	mtb	
-15008920	Rocks	mtb	
-15008921	Entrance	mtb	
-15008954	Fayetteville Traverse	mtb	lcn
-15014549	Skip Town Connector	mtb	lcn
-15014550	Skip Town	mtb	lcn
-15014551	Go Ride	mtb	lcn
-15027220	Snacks Attack	mtb	lcn
-15027221	Travistock Canyon	mtb	lcn
-15027222	Travistock Canyon Alt	mtb	lcn
-15080845	Talimena Scenic Drive	road	
-15082547	Sick A More	mtb	
-15082757	Gateway City Park Trail	mtb	
-15090098	The Nest	mtb	
-15090099	Z	mtb	
-15090163	Old Main	mtb	
-15090164	Bus-A-Move	mtb	
-15090165	McBroom	mtb	
-15092767	Railyard Downhill	mtb	
-15092768	Railyard Return	mtb	
-15092769	Cactus	mtb	
-15092770	Controlled Burn (Black)	mtb	
-15092771	Controlled Burn (Green)	mtb	
-15092772	Ridgerunner (Green)	mtb	
-15092773	Ridgerunner (Blue)	mtb	
-15092774	The Grove (Green)	mtb	
-15092775	The Grove (Blue)	mtb	
-15092776	The Grove (Black)	mtb	
-15092777	Billy Goat (Blue)	mtb	
-15092778	Billy Goat (Black)	mtb	
-15092779	Billy Goat (Green)	mtb	
-15092780	Billy Goat (Black)	mtb	
-15177405	Through the Looking Glass	mtb	
-15177406	Mad Hatter	mtb	
-15261708		road	US:I
-15273365	Leopard's Loop	mtb	
-15273366	The Catwalk	mtb	
-15343580	Route 48	bus	
-15353155	North Ark Bike Course	mtb	
-15396625	Devil's Racetrack	mtb	
-15396626	Gold Brick	mtb	
-15396627	Orville	mtb	
-15396628	Sparky	mtb	
-15396629	We Can Take It	mtb	
-15396630	All You Can Eat	mtb	
-15396631	Dollar A Day	mtb	
-15396633	Racer's Hill	mtb	
-15400112	Oeste Vista Connector	mtb	
-15410399	Hors d'Oeuvres	mtb	lcn
-15415194	Powell St Connector	mtb	lcn
-15426162	Route 13	bus	
-15445686	The Grouch	mtb	
-15488886	New HO Campus Greenway As Designed	bicycle	rcn
-15530531		fitness_trail	
-15533643	Nubbin Ridge Nature Trail	hiking	lwn
-15551454	Traverse Loop Connector	mtb	lcn
-15577383		running	
-15577384		running	
-15627026		road	US:AR:Benton
-15690459	Butterfield Hiking Trail	hiking	lwn
-15690741	Lake Trail	hiking	lwn
-15804332		road	US:MO:Supplemental
-15835180	Hernando Trail	bicycle	lcn
-15987313	Big Creek Loop	hiking	lwn
-15987314	Overlook Trail	hiking	lwn
-16088827	ANR Line 501	pipeline	
-16100694	TGT Main Line	pipeline	
-16110502	Fayetteville Lateral	pipeline	
-16118219	Ducks Unlimited Park Loop	hiking	lwn
-16122354		road	US:MO:Supplemental
-16124402	Energy Transfer Crude Oil Pipeline	pipeline	
-16127537	Fayetteville Express Pipeline	pipeline	
-16165036	Mississippi River Transmission	pipeline	
-16175094	Centennial Pipeline	pipeline	
-16195373	Mid-Valley Pipeline	pipeline	
-16203494	NuStar Ammonia System	pipeline	
-16261718	VBI - Helberg 161kV	power	
-16262064	Norfolk - Van Buren 161kV	power	
-16262242	Dardanelle Loop	power	
-16262243	Bull Shoals Loop	power	
-16262729	Norfolk - Idalia 161kV	power	
-16272592	Norfolk Dam - West Plains 69kV	power	
-16307121	TEPPCO Pipeline System	pipeline	
-16358468	Diamond Pipeline	pipeline	
-16371559		road	US:AR
-16658036	EZ Way	mtb	
-16658037	Trolls Trail	mtb	
-16658038	Creekside	mtb	
-16658039	Mule Barn	mtb	
-16658040	On Ya Left	mtb	
-16658041	The Nest	mtb	
-16658042	Trolls Trail Connector	mtb	
-16856734	US 78 (AR)	road	US:US
-16856927		road	US:US
-16862232		road	US:AR
-16862233		road	US:AR
-16862234		road	US:AR
-16862235		road	US:AR
-16862236		road	US:AR
-16862238		road	US:AR:Carroll
-16862239		road	US:AR
-16862240		road	US:AR
-16862398		road	US:AR
-16862399		road	US:AR
-16862400		road	US:AR
-16862401		road	US:AR
-16862402	Arkansas Highway 980 (Cross County)	road	US:AR
-16862447		road	US:AR
-16862448		road	US:AR
-16862449		road	US:AR
-16862450		road	US:AR
-16862451		road	US:AR
-16862474		road	US:AR
-16862475		road	US:AR
-16862476		road	US:AR
-16862477		road	US:AR
-16888956		road	US:AR
-16888960		road	US:AR
-17036062		road	US:AR
-17189475		road	
-17327062		road	US:AR
-17351999		road	US:AR
-17362982		road	US:AR
-17368153	51 (Arkansas)	bicycle	ncn
-17381577	Route 08 - Rdney Parham - Outbound	bus	Rock Region Metro
-17381578	Route 08 - Rodney Parham - Inbound	bus	Rock Region Metro
-17411964		road	US:AR
-17415546		road	US:AR
-17422935	Route 02 - South Main	bus	Rock Region Metro
-17435786		road	US:AR
-17459785		road	US:AR
-17459928		road	US:AR
-17459977		road	US:AR
-17460044		road	US:AR
-17460054		road	US:AR
-17460090		road	US:AR
-17478386	Arkansas River Trail (eastbound)	hiking	
-17491971		road	US:US:Business
-17811130	ORT Route 20	bus	ORT
-17821089		road	US:AR:Benton
-17832871		ref	US:AR:Washington
-17832872		road	US:AR:Washington
-17832873		road	US:AR:Washington
-17832874		road	US:AR:Washington
-17832875		road	US:AR:Washington
-17836395		ref	US:AR:Washington
-17841351		road	US:AR:Washington
-17841352		road	US:AR:Washington
-17841353		road	US:AR:Washington
-17841354		road	US:AR:Washington
-17841355		road	US:AR:Washington
-17841356		road	US:AR:Washington
-17841357		road	US:AR:Washington
-17841358		road	US:AR:Washington
-17841359		road	US:AR:Washington
-17841360		road	US:AR:Washington
-17841361		road	US:AR:Washington
-17845638	Sulphur Creek Trail	bicycle	lcn
-17860003	Garland Avenue Sidepath	bicycle	lcn
-17875801		bicycle	lcn
-17875802		bicycle	lcn
-17875803		bicycle	lcn
-17875804		bicycle	lcn
-17883304		bicycle	lcn
-17883305		bicycle	lcn
-17883306		bicycle	lcn
-17884102		bicycle	lcn
-17884297		bicycle	lcn
-17884298		bicycle	lcn
-17917225	Searcy Bike and Walking Trail	bicycle	lcn
-18022836		road	US:AR:Benton
-18022837		road	US:AR:Benton
-18022838		road	US:AR:Benton
-18022839		road	US:AR:Benton
-18039144		road	US:AR:Washington:Residential
-18039145		road	US:AR:Washington
-18039146		road	US:AR:Washington
-18039147		road	US:AR:Washington
-18039148		road	US:AR:Washington
-18039158		road	US:AR:Johnson
-18039159		road	US:AR:Johnson:Private
-18039160		road	US:AR:Johnson
-18039161		road	US:AR:Johnson
-18039162		road	US:AR:Johnson
-18039163		road	US:AR:Johnson
-18039164		road	US:AR:Johnson:Private
-18039165		road	US:AR:Johnson
-18039166		road	US:AR:Johnson
-18039167		road	US:AR:Johnson
-18039168		road	US:AR:Johnson
-18039169		road	US:AR:Johnson
-18181665		road	US:AR:Washington
-18182022		road	US:AR:Carroll
-18182023		road	US:AR:Carroll
-18182024		road	US:AR:Carroll
-18182025		road	US:AR:Carroll
-18185976		road	US:AR:Benton
-18213499		road	US:AR:Carroll
-18213500		road	US:AR:Carroll
-18213501		road	US:AR:Carroll
-18214210		road	US:AR:Carroll
-18214211		road	US:AR:Carroll
-18214212		road	US:AR:Carroll
-18214532		road	US:AR:Carroll
-18214543		road	US:AR:Carroll
-18216174		road	US:AR:Carroll
-18216634		road	US:AR:Carroll
-18216635		road	US:AR:Carroll
-18216636		road	US:AR:Carroll
-18216677		road	US:AR:Carroll
-18216678		road	US:AR:Carroll
-18218475		road	US:AR:Carroll
-18218476		road	US:AR:Carroll
-18218477		road	US:AR:Carroll
-18218569		road	US:AR:Carroll
-18219134		road	US:AR:Carroll
-18219190		road	US:AR:Carroll
-18219207		road	US:AR:Carroll
-18219208		road	US:AR:Carroll
-18219209		road	US:AR:Carroll
-18320458	I 57 (AR)	road	US:I
-18320459		road	US:I
-18345543	Caddo Bend Trail	hiking	lwn
-18346205	Sunset Trail	hiking	lwn
-18346206	Gulpha Gorge Trail	hiking	lwn
-18346207	Oertel Trail	hiking	lwn
-18346208	Hot Springs Mountain Trail	hiking	lwn
-18346209	Goat Rock Trail	hiking	lwn
-18380214	Turtle Creek Track	bicycle;foot	lcn;lwn
-18380215	Craighead Forest Path	bicycle;foot	lcn;lwn
-18380216	AState Link	bicycle;foot	lcn;lwn
-18467561	Craighead Forest Lake Loop	foot	lwn
-18471508	Southwest Trail	road	US:AR:heritage_trail
-18504213	North Sylamore Creek Trail	hiking	lwn
-18507081	Buffalo River Trail	hiking	lwn
-18507317	Old River Trail	horse	lhn
-18511599	Mirror Lake Trail	hiking	lwn
-18514216	Ozarks Keystone Trail	hiking	lwn
-18546433	Razorback Greenway Detour (Phase 1 - 2025)	bicycle	lcn
-18613338	Snowbird	mtb	lcn
-18613339	Rabit Hole Loop	mtb	lcn
-18613340	All-American Bella Vista	mtb	lcn
-18613370	Seed Tick Shuffle	mtb	lcn
-18613371	Firnas	mtb	lcn
-18613372	Boneyard Connector	mtb	lcn
-18613373	Milk Run	mtb	lcn
-18613374	Moo Moo	mtb	lcn
-18613375	Zeppelin	mtb	lcn
-18613379	Thunder Rolls	mtb	lcn
-18613380	Ester's From the Dome	mtb	lcn
-18613381	Hard Way to the Cafe	mtb	lcn
-18613382	Dirt Therapy	mtb	lcn
-18640232	Bentonville-Rogers Connector (Eastbound)	bus	ORT
-18640233	Bentonville-Rogers Connector (Westbound)	bus	ORT
-18640288	Route 14	bus	ORT
-18640289	Route 53 (Southbound)	bus	ORT
-18640290	Route 53 (Northbound)	bus	ORT
-18640291	Route 54	bus	ORT
-18642390	Route 12 (Westbound)	bus	ORT
-18642391	Route 12 (Eastbound)	bus	ORT
-18644295	Route 61 (Southbound)	bus	ORT
-18687188	Craighead Forest Main Loop	bicycle;foot	lcn;lwn
-18702942	Habitats Trail	hiking	lwn
-18707524	Jack's Branch Loop	mtb	
-18707525	Bad Branch Loop	mtb	
-18707526	Scrappy Mountain	mtb	
-18707527	Bald Scrappy Loop	mtb	
-18707528	White River Bluff Loop	mtb	
-18715642	Bad-juju	mtb	
-18715643	Who Hash	mtb	
-18715644	Monster-T	mtb	
-18721004	Enders Fault North Loop	mtb	
-18721005	Enders Fault South Loop	mtb	
-18721006	Enders Fault	mtb	
-18998593		bicycle	ncn
-19044056		road	US:I:Business:Loop
-19051013		road	US:I:Business:Loop
-19175357		road	US:AR:Washington
-19175358		road	US:AR:Washington
-19175359		road	US:AR:Benton
-19175360		road	US:AR:Washington
-19175361		road	US:AR:Washington
-19175436		road	US:AR:Carroll
-19175472		road	US:AR:Carroll
-19175473		road	US:AR:Carroll
-19175474		road	US:AR:Carroll
-19175475		road	US:AR:Carroll
-19175484		road	US:AR:Carroll
-19175485		road	US:AR:Carroll
-19298656	River Corridor Trail	hiking	lwn
-19366885	Womble Trail	mtb	
-19412750	Devil's Den Trail	hiking	
-19455451	path	mtb	lcn
-19559595	Trail of Tears National Historic Trail		US:NHT
-19675094	Bentonville Red Route	bicycle	lcn
-19710080	Abandoned interchange	road	
-19745838	Bentonville Green Route	bicycle	lcn
-19745857	Bentonville Black Route	bicycle	lcn
-19793380	Delta Heritage Trail (Southern Corridor)	bicycle	rcn
-19793381	Delta Heritage Trail		rcn
-19815894	Ferris Wheel	mtb	lcn
-19857448	Red Wolf 2	bus	JET
-19857641	Red Wolf 1	bus	JET
-19858045	Central	bus	JET
-19869689	Northeast	bus	JET
-19948058		road	US:I:Future
-19948059		road	US:I:Future
-19988448	"US 64 (AR, unsigned)"	road	US:US
-19988449	"US 64 (AR, defacto)"	road	US:US
-19988460	"US 61 (AR, unsigned)"	road	US:US
-19988461	"US 70 (AR, unsigned)"	road	US:US
-19988477	"US 79 (AR, unsigned)"	road	US:US
-19988478	AR 77 (unsigned)	road	US:AR
-19992414	"US 67 (AR, unsigned)"	road	US:US
-20033627	Lor-Axe West Loop	mtb	lcn
-20033631	Lor-Axe South Loop	mtb	lcn
-20044747	Wildlife Trail	hiking	lwn
-20044824	Hidden Pond Trail	foot	lwn
-20044832	Tonawanda Base Trail	hiking	lwn
-20045635	Summit Trail	hiking	lwn
-20045636	Vanguard Trail	mtb	lcn
-20054180	Bridal Veils Falls Trail	hiking	lwn
-20153309		road	
+@id	network	ref	direction	name	route
+23147	US:US	64			road
+23148	US:US	70			road
+62134	US:MO	37			road
+69950	US:MO	59			road
+70401	US:MO	43			road
+139340	US:I	40	west		road
+198113	US:I	630			road
+198162	US:I	430			road
+403156	US:I	40	west		road
+411978	US:TX:Loop	151		Texas State Highway Loop 151	road
+444953	US:US	278			road
+446120	US:MO	101			road
+448257	US:US	49			road
+448274	US:MO	125			road
+448804	US:US	61			road
+450774	US:US	425			road
+452577	US:US	165			road
+452621	US:US	167			road
+452676	US:US	371			road
+1319490	US:NHS High Priority Corridors			NHS High Priority Corridor 8	road
+1322931	US:NHS High Priority Corridors			NHS High Priority Corridor 39	road
+1323040	US:NHS High Priority Corridors			NHS High Priority Corridor 55	road
+1323043	US:NHS High Priority Corridors			NHS High Priority Corridor 52	road
+1388617	US:AR	59			road
+1394448	US:AR	43			road
+1457803				Heavener Subdivision	railway
+1457805				Fort Smith Branch	railway
+1457807				Shreveport Subdivision	railway
+1536260	US:AR	22			road
+1536947	US:AR	378			road
+1536959	US:AR	96			road
+1537017	US:AR	255			road
+1537233	US:AR	45			road
+1537257	US:AR	303			road
+1537469	US:AR	252			road
+1537473	US:AR	253			road
+1538129	US:AR	10S			road
+1538209	US:AR	10			road
+1538449	US:AR	217			road
+1538455	US:AR	60			road
+1538473	US:AR	348			road
+1538513	US:AR	162			road
+1538516	US:AR	215			road
+1538518	US:AR	220			road
+1538522	US:AR	400			road
+1538526	US:AR	282			road
+1538527	US:AR	282S			road
+1578251	US:AR	112			road
+1628551	US:US	271			road
+1629635	US:US	79			road
+1629641	US:US	70		US 70 (AR)	road
+1629650	US:US	79			road
+1629672	US:US	59			road
+1629675	US:US	79		US 79 (AR)	road
+1629681	US:US	82			road
+1630663	US:US	65			road
+1669658	US:AR	1			road
+1672308	US:AR	309			road
+1686321	US:I	440			road
+1695586	US:I	530			road
+1713162	US:AR	11			road
+1713163	US:AR	13			road
+1713164	US:AR	130			road
+1713165	US:AR	130S			road
+1713166	US:AR	144			road
+1713167	US:AR	146			road
+1713168	US:AR	146S			road
+1713169	US:AR	152			road
+1713170	US:AR	153			road
+1713171	US:AR	169			road
+1713172	US:AR	17			road
+1713173	US:AR	1B			road
+1713174	US:AR	1S			road
+1713175	US:AR	276			road
+1713176	US:AR	276S			road
+1713177	US:AR	33			road
+1713178	US:AR	33S			road
+1713179	US:AR	343			road
+1713180	US:AR	44			road
+1713221	US:AR	133			road
+1713222	US:AR	133S			road
+1713223	US:AR	133T			road
+1713224	US:AR	14			road
+1713225	US:AR	160			road
+1713226	US:AR	173			road
+1713227	US:AR	189			road
+1713228	US:AR	209			road
+1713229	US:AR	263			road
+1713230	US:AR	52			road
+1713231	US:AR	8			road
+1713257	US:AR	101			road
+1713258	US:AR	126			road
+1713259	US:AR	177			road
+1713260	US:AR	178			road
+1713261	US:AR	201			road
+1713262	US:AR	201S			road
+1713263	US:AR	202			road
+1713264	US:AR	341			road
+1713265	US:AR	342			road
+1713266	US:AR	345			road
+1713267	US:AR	5			road
+1713304	US:AR	102			road
+1713305	US:AR	102B			road
+1713306	US:AR	12			road
+1713307	US:AR	127			road
+1713308	US:AR	16			road
+1713309	US:AR	16S			road
+1713310	US:AR	244			road
+1713311	US:AR	264			road
+1713312	US:AR	265			road
+1713313	US:AR	279			road
+1713314	US:AR	340			road
+1713315	US:AR	37			road
+1713316	US:AR	59B			road
+1713317	US:AR	59S			road
+1713318	US:AR	72			road
+1713319	US:AR	94			road
+1713320	US:AR	94S			road
+1713331	US:AR	103			road
+1713332	US:AR	143			road
+1713333	US:AR	187			road
+1713334	US:AR	21			road
+1713335	US:AR	221			road
+1713336	US:AR	23			road
+1713337	US:AR	311			road
+1713338	US:AR	123			road
+1713339	US:AR	206			road
+1713340	US:AR	281			road
+1713341	US:AR	392			road
+1713342	US:AR	396			road
+1713343	US:AR	397			road
+1713344	US:AR	7			road
+1713347	US:AR	125			road
+1713348	US:AR	235			road
+1713349	US:AR	235S			road
+1713350	US:AR	268			road
+1714084	US:AR	175			road
+1714085	US:AR	223			road
+1714086	US:AR	289			road
+1714087	US:AR	395			road
+1714088	US:AR	87			road
+1714089	US:AR	9			road
+1714097	US:AR	115			road
+1714098	US:AR	175S			road
+1714099	US:AR	230			road
+1714100	US:AR	354			road
+1714101	US:AR	56			road
+1714102	US:AR	58			road
+1714103	US:AR	58E			road
+1714112	US:AR	166			road
+1714113	US:AR	231			road
+1714114	US:AR	251			road
+1714115	US:AR	304			road
+1714116	US:AR	304N			road
+1714117	US:AR	328			road
+1714118	US:AR	34			road
+1714119	US:AR	361			road
+1714120	US:AR	90			road
+1714121	US:AR	93			road
+1714145	US:AR	119			road
+1714146	US:AR	135			road
+1714147	US:AR	139			road
+1714148	US:AR	141			road
+1714149	US:AR	211			road
+1714150	US:AR	280			road
+1714151	US:AR	280S			road
+1714634	US:AR	142			road
+1714635	US:AR	159			road
+1714636	US:AR	208			road
+1714637	US:AR	257			road
+1714638	US:AR	293			road
+1714639	US:AR	35			road
+1714662	US:AR	138			road
+1714663	US:AR	1Y			road
+1714664	US:AR	212			road
+1714665	US:AR	277			road
+1714666	US:AR	4			road
+1714667	US:AR	4S			road
+1714668	US:AR	54			road
+1714670	US:AR	238			road
+1714671	US:AR	238S			road
+1714672	US:AR	241			road
+1714673	US:AR	302			road
+1714674	US:AR	362			road
+1714675	US:AR	366			road
+1714676	US:AR	39			road
+1714679	US:AR	39S			road
+1714680	US:AR	86			road
+1714694	US:AR	185			road
+1714695	US:AR	20			road
+1714696	US:AR	20S			road
+1714697	US:AR	242			road
+1714698	US:AR	243			road
+1714699	US:AR	243S			road
+1714700	US:AR	316			road
+1714701	US:AR	318			road
+1714702	US:AR	85			road
+1714737	US:AR	121			road
+1714738	US:AR	131			road
+1714739	US:AR	259			road
+1714740	US:AR	261			road
+1714741	US:AR	334			road
+1714742	US:AR	78			road
+1714743	US:AR	78S			road
+1714762	US:AR	149			road
+1714763	US:AR	193			road
+1714764	US:AR	284			road
+1714765	US:AR	306			road
+1714766	US:AR	357			road
+1714767	US:AR	38			road
+1714768	US:AR	50			road
+1714769	US:AR	75			road
+1714781	US:US	278			road
+1715094	US:AR	118			road
+1715095	US:AR	147			road
+1715096	US:AR	184			road
+1715097	US:AR	191			road
+1715098	US:AR	218			road
+1715099	US:AR	42			road
+1715100	US:AR	77			road
+1715265	US:AR	119Y			road
+1715266	US:AR	120			road
+1715267	US:AR	136			road
+1715268	US:AR	137			road
+1715273	US:AR	140			road
+1715274	US:AR	148			road
+1715275	US:AR	150			road
+1715276	US:AR	150S			road
+1715277	US:AR	151			road
+1715278	US:AR	158			road
+1715279	US:AR	18			road
+1715280	US:AR	181			road
+1715281	US:AR	18B			road
+1715282	US:AR	198			road
+1715283	US:AR	239			road
+1715284	US:AR	239S			road
+1715285	US:AR	297			road
+1715286	US:AR	308			road
+1715287	US:AR	312			road
+1715288	US:AR	325			road
+1715333	US:AR	168			road
+1715334	US:AR	228			road
+1715335	US:AR	351			road
+1715336	US:AR	358			road
+1715337	US:AR	69			road
+1715391	US:AR	163			road
+1715392	US:AR	18S			road
+1715393	US:AR	226			road
+1715395	US:AR	349			road
+1715396	US:AR	463			road
+1715397	US:AR	91			road
+1715459	US:AR	145			road
+1715460	US:AR	157			road
+1715461	US:AR	224			road
+1715462	US:AR	267			road
+1715463	US:AR	367			road
+1715464	US:AR	384			road
+1715465	US:AR	384S			road
+1715466	US:AR	69S			road
+1715477	US:AR	214			road
+1715478	US:AR	308B			road
+1715479	US:AR	308S			road
+1715480	US:AR	322			road
+1715481	US:AR	373			road
+1715494	US:AR	350			road
+1715495	US:AR	364			road
+1715514	US:AR	16S			road
+1715515	US:AR	156			road
+1715516	US:AR	170			road
+1715517	US:AR	180			road
+1715519	US:AR	74			road
+1716073	US:AR	248			road
+1716074	US:AR	250			road
+1716075	US:AR	272			road
+1716076	US:AR	28			road
+1716077	US:AR	80			road
+1716140	US:AR	246			road
+1716141	US:AR	370			road
+1716142	US:AR	375			road
+1716143	US:AR	84			road
+1716144	US:AR	88			road
+1716216	US:AR	234			road
+1716217	US:AR	24			road
+1716218	US:AR	27			road
+1716219	US:AR	317			road
+1716220	US:AR	329			road
+1716221	US:AR	399			road
+1716222	US:AR	41			road
+1716232	US:AR	108			road
+1716233	US:AR	108S			road
+1716234	US:AR	32			road
+1716235	US:AR	32B			road
+1716236	US:AR	380			road
+1716244	US:AR	108			road
+1716245	US:AR	134			road
+1716246	US:AR	196			road
+1716251	US:AR	237			road
+1716252	US:AR	245			road
+1716253	US:AR	296			road
+1716259	US:AR	29			road
+1716260	US:AR	313			road
+1716261	US:AR	360			road
+1716262	US:AR	53			road
+1716272	US:AR	19			road
+1716273	US:AR	344			road
+1716274	US:AR	355			road
+1716275	US:AR	57			road
+1716276	US:AR	98			road
+1716277	US:AR	98B			road
+1716358	US:AR	129			road
+1716359	US:AR	129B			road
+1716360	US:AR	172			road
+1716362	US:AR	275			road
+1716363	US:AR	335			road
+1716364	US:AR	7B			road
+1716365	US:AR	7S			road
+1716848	US:AR	203			road
+1716849	US:AR	205			road
+1716850	US:AR	274			road
+1716851	US:AR	332			road
+1716852	US:AR	368			road
+1716853	US:AR	376			road
+1716854	US:AR	387			road
+1716855	US:AR	76			road
+1716878	US:AR	530			road
+1716879	US:AR	83			road
+1716880	US:AR	83S			road
+1716969	US:AR	200			road
+1716970	US:AR	299			road
+1716971	US:AR	372			road
+1716972	US:AR	73			road
+1716977	US:AR	174			road
+1716978	US:AR	195			road
+1716979	US:AR	29B			road
+1716980	US:AR	353			road
+1716987	US:AR	26			road
+1716988	US:AR	27B			road
+1716989	US:AR	369			road
+1716998	US:AR	301			road
+1716999	US:AR	379			road
+1717003	US:AR	182			road
+1717004	US:AR	188			road
+1717005	US:AR	240			road
+1717006	US:AR	298			road
+1717013	US:AR	154			road
+1717014	US:AR	155			road
+1717015	US:AR	307			road
+1717016	US:AR	314			road
+1717038	US:AR	109			road
+1717039	US:AR	116			road
+1717040	US:AR	197			road
+1717041	US:AR	288			road
+1717042	US:AR	393			road
+1717043	US:AR	398			road
+1717046	US:AR	179			road
+1717047	US:AR	186			road
+1717048	US:AR	219			road
+1717049	US:AR	352			road
+1717056	US:AR	295			road
+1717077	US:AR	260			road
+1717078	US:AR	262			road
+1717079	US:AR	269			road
+1717080		339			road
+1717081	US:AR	33B			road
+1717623	US:AR	117			road
+1717624	US:AR	117S			road
+1717625	US:AR	25			road
+1718757	US:AR	106			road
+1718758	US:AR	106S			road
+1718759	US:AR	122			road
+1718760	US:AR	14S			road
+1718761	US:AR	233			road
+1718762	US:AR	25S			road
+1718763	US:AR	394			road
+1718764	US:AR	69B			road
+1718795	US:AR	9S			road
+1718849	US:AR	110			road
+1718850	US:AR	382			road
+1718851	US:AR	66			road
+1718887	US:AR	107			road
+1718888	US:AR	124			road
+1718889	US:AR	210			road
+1718890	US:AR	225			road
+1718891	US:AR	25B			road
+1718892	US:AR	310			road
+1718893	US:AR	336			road
+1718894	US:AR	337			road
+1718895	US:AR	356			road
+1718896	US:AR	92			road
+1718941	US:AR	258			road
+1718942	US:AR	267S			road
+1718943	US:AR	305			road
+1718944	US:AR	31			road
+1718945	US:AR	320			road
+1718946	US:AR	321			road
+1718947	US:AR	321S			road
+1718948	US:AR	323			road
+1718949	US:AR	36			road
+1718950	US:AR	367S			road
+1718951	US:AR	385			road
+1718994	US:AR	266			road
+1718995	US:AR	285			road
+1718996	US:AR	286			road
+1718997	US:AR	287			road
+1718998	US:AR	319			road
+1718999	US:AR	365			road
+1719000	US:AR	60S			road
+1719001	US:AR	89			road
+1719008	US:AR	113			road
+1719009	US:AR	216			road
+1719010	US:AR	247			road
+1719011	US:AR	300			road
+1719012	US:AR	324			road
+1719013	US:AR	132			road
+1719014	US:AR	213			road
+1719015	US:AR	95			road
+1719016	US:AR	95S			road
+1719017	US:AR	9B			road
+1719067	US:AR	254			road
+1719068	US:AR	330			road
+1719079	US:AR	105			road
+1719080	US:AR	164			road
+1719082	US:AR	331			road
+1719083	US:AR	333			road
+1719084	US:AR	363			road
+1719085	US:AR	7T			road
+1719091	US:AR	374			road
+1719092	US:AR	377			road
+1720420	US:AR	327			road
+1720454	US:AR	128			road
+1720455	US:AR	26S			road
+1720456	US:AR	283			road
+1720457	US:AR	346			road
+1720458	US:AR	390			road
+1720459	US:AR	51			road
+1720490	US:AR	207			road
+1720491	US:AR	229			road
+1720492	US:AR	273			road
+1720493	US:AR	46			road
+1720494	US:AR	48			road
+1720671	US:AR	114			road
+1720672	US:AR	97			road
+1720708	US:AR	11B			road
+1720709	US:AR	199			road
+1720710	US:AR	388			road
+1720899	US:AR	104			road
+1720900	US:AR	15			road
+1720901	US:AR	190			road
+1720902	US:AR	256			road
+1720903	US:AR	365S			road
+1720904	US:AR	81			road
+1720905	US:AR	81S			road
+1720935	US:AR	222			road
+1720936	US:AR	291			road
+1720938	US:AR	171			road
+1720939	US:AR	347			road
+1720956	US:AR	192			road
+1720957	US:AR	227			road
+1720958	US:AR	290			road
+1721002	US:AR	111			road
+1721003	US:AR	183			road
+1721004	US:AR	249			road
+1721118	US:AR	164S			road
+1721119	US:AR	292			road
+1721120	US:AR	315			road
+1721121	US:AR	359			road
+1721672	US:AR	161			road
+1721673	US:AR	232			road
+1721674	US:AR	236			road
+1721675	US:AR	294			road
+1721676	US:AR	381			road
+1721677	US:AR	386			road
+1721678	US:AR	89S			road
+1721771	US:AR	100			road
+1721772	US:AR	176			road
+1721773	US:AR	176Y			road
+1721774	US:AR	338			road
+1721775	US:AR	391			road
+1722164	US:AR	600			road
+1756991				Winona Scenic Drive	road
+1765490	rcn			Arkansas River Trail	bicycle
+1781854	ncn	MRT		Mississippi River Trail (Arkansas)	bicycle
+1783089	US:GRR			Great River Road (Arkansas)	road
+1784816	US:GRR				road
+1786388	rcn			Arkansas Connector	bicycle
+1930296	US:US	165B			road
+1930297	US:US	167B			road
+1930298	US:US	167B			road
+1930299	US:US	270B			road
+1930300	US:US	270B			road
+1930301	US:US	278B			road
+1930302	US:US	278B			road
+1930303	US:US	278B			road
+1930305	US:US	412B			road
+1930306	US:US	412B			road
+1930307	US:US	49B			road
+1930308	US:US	49B			road
+1930309	US:US	49B			road
+1930310	US:US	62B			road
+1930311	US:US	62B			road
+1930312	US:US	62B			road
+1930313	US:US	62B			road
+1930314	US:US	62S			road
+1930315	US:US	62S			road
+1930316	US:US	63B			road
+1930317	US:US	63B			road
+1930318	US:US	63B			road
+1930319	US:US	63B			road
+1930322	US:US	63B			road
+1930323	US:US	63B			road
+1930324	US:US	64B			road
+1930325	US:US	64B			road
+1930326	US:US	64B			road
+1930327	US:US	64B			road
+1930328	US:US	64B			road
+1930329	US:US	64B			road
+1930330	US:US	64B			road
+1930331	US:US	64B			road
+1930332	US:US	64S			road
+1930333	US:US	65B			road
+1930334	US:US	65B			road
+1930335	US:US	65B			road
+1930336	US:US	65B			road
+1930337	US:US	65B			road
+1930339	US:US	67B			road
+1930340	US:US	67B			road
+1930341	US:US	67B			road
+1930342	US:US	67B			road
+1930343	US:US	67Y			road
+1930344	US:US	70B			road
+1930345	US:US	70B			road
+1930346	US:US	70B			road
+1930348	US:US	71B			road
+1930349	US:US	71B			road
+1930350	US:US	71B			road
+1930351	US:US	79B			road
+1930352	US:US	79B			road
+1930353	US:US	79B			road
+1930354	US:US	79B			road
+1930355	US:US	79B			road
+1930356	US:US	79B			road
+1930357	US:US	79B			road
+1930358	US:US	79B			road
+1930359	US:US	82B			road
+1930361	US:US	82B			road
+1968153	US:TX:FM	249			road
+2182835	inland waterways	M 40		McClellan-Kerr Arkansas River Navigation System	boat
+2182837	inland waterways	M 55		Lower Mississippi River	waterway
+2183782	inland waterways			Ouachita-Black Rivers	boat
+2184037	inland waterways			White River	boat
+2193959	rcn	RRG		Razorback Regional Greenway	bicycle
+2209325				McGehee Subdivision	railway
+2209330				Shreveport Subdivision	railway
+2210305				Armorel Branch	railway
+2210307				Brinkley Subdivision	railway
+2210309				Conway Industrial Lead	railway
+2210310				Cypress Bend Branch	railway
+2210311				DK&S Industrial Lead	railway
+2210312				El Dorado Subdivision	railway
+2210313				Gurdon Industrial Lead	railway
+2210314				Helena Subdivision	railway
+2210315				Hot Springs Industrial Lead	railway
+2210316				Hoxie Subdivision	railway
+2210317				Hulbert Branch	railway
+2210318				Jacksonville Branch	railway
+2210319				Jonesboro Subdivision	railway
+2210320				Little Rock Subdivision	railway
+2210321				Memphis Subdivision	railway
+2210322				Nashville Subdivision	railway
+2210324				Pine Bluff Subdivision	railway
+2210325				River Subdivision	railway
+2210326				Rock Street Industrial Lead	railway
+2210328				Stuttgart Industrial Lead	railway
+2210329				Tenark Industrial Lead	railway
+2210330				Thayer South Subdivision	railway
+2210331				Van Buren Subdivision	railway
+2210332				White Bluff Industrial Lead	railway
+2210333				White Bluff Subdivision	railway
+2210334				Wynne Subdivision	railway
+2304866	US:US	61		US 61 (AR)	road
+2304869	US:US	61			road
+2304870	US:US	63			road
+2304877	US:US	67			road
+2307589	US:I	30			road
+2310342	US:US	62			road
+2310347	US:US	64		US 64 (AR)	road
+2310384	US:US	270			road
+2310576	US:US	78			road
+2310731	US:US	82			road
+2319882					road
+2320024					road
+2320025					road
+2322039	US:I	55	north		road
+2322040	US:I	55	south		road
+2329203	US:I				road
+2795760	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => San Antonio	train
+2928982	US:AR	151			road
+3013705	US:OK	20			road
+3506785	US:OK	120			road
+3506793	US:OK	116			road
+3508931	US:OK	101			road
+3520629	US:OK	83			road
+3797680	US:LA	3			road
+3838499	rwn	OT		Ouachita National Recreation Trail	hiking
+3846855				"Chicago, Rock Island and Pacific Railroad"	historic
+3846892				Little Rock and Western Railway	railway
+3847076					
+3847225					railway
+4788274	Rock Region Metro	Blue		Metro Streetcar Blue Line: Bishop Lindsey Avenue → Presidential Library	tram
+5559331	US:I	40	east	Purple Heart Trail	road
+5570921		35		Route 35	bus
+5570936		44		Route 44	bus
+5570987		26		Route 26	bus
+5573421		17		Route 17	bus
+5573426		21		Route 21	bus
+5573450		11		Route 11	bus
+5576482		33		Route 33	bus
+6186773	US:US:Bypass	412			road
+6195191	US:AR	980			road
+6605882	lcn			Harper's Loop	bicycle
+6650953					power
+6691528				Missouri and Northern Arkansas Railroad	railway
+6708224	lhn			Yellow Trail	horse
+6708372	lcn			Southeast Trail	bicycle
+6843700	US:I	40	east		road
+6897152	US:I	30			road
+6908170	US:I	55			road
+6908171	US:I	55			road
+6915355	lwn			border of the park	foot
+7017932	lcn				bicycle
+7499713	US:US	64	east		road
+7499714	US:US	64	west		road
+7524690				Wagoner Subdivision	railway
+7593080	lcn			Hoxie to Walport Trail	bicycle
+7707321	US:US:Business	167B			road
+8318009	US:AR	612			road
+8415611					power
+9038960	US:US	412	east		road
+9038961	US:US	412	west		road
+9069150	US:US	62B			road
+9069225	US:I	49	south		road
+9069226	US:I	49	north		road
+9069246	US:US	71	south		road
+9069248	US:US	71	north		road
+9226751				Fort Smith Railroad	railway
+9226791					railway
+9226796					railway
+9470177					railway
+9470178					railway
+9470179					railway
+9470220					railway
+9472480				Waldron Branch	railway
+9719328	rcn			Delta Heritage Trail (Northern Corridor)	bicycle
+10255185	US:LA	558			road
+10394139	US:LA	591			road
+10460925				Eagar Street	road
+10472623	US:LA	142			road
+10517394	US:US:Bypass	278			road
+10525752	US:I	555			road
+10535569	US:AR	917			road
+10535603	US:AR	980			road
+10664643	US:AR:Yell	49			road
+10718127	lcn			Warthog	mtb
+10719266	lcn	LBV		Lake Bella Vista Trail	bicycle
+10721600	lcn	Gold		Bentonville Gold Route	bicycle
+10722532	lcn	WST		Wishing Springs Trail	bicycle
+10722533	lcn	NBT		North Bentonville Trail	bicycle
+10722534	lcn	JT		Jefferson Trail	bicycle
+10722535	lcn	LL		Lincoln Loop	bicycle
+10722537	lcn	Blue		Bentonville Blue Route	bicycle
+10722807	lcn	CP		Cambridge Park Trail	bicycle
+10722808	lcn	NWACC		NWACC Trail	bicycle
+10722809	lcn	A&M		Arkansas Missouri Trail	bicycle
+10722810	lcn	MP		Members Place Trail	bicycle
+10722811	lcn	ML		Moberly Lane Sidepath	bicycle
+10722812	lcn	MPF		Memorial Park Fitness Trail	bicycle
+10722814	lcn	JD		John DeSheilds Trail	bicycle
+10722815	lcn	HT-C		Heritage Trail - Central	bicycle
+10722816	lcn	JSt-E		J Street Sidepath East	bicycle
+10722817	lcn	Orange		Bentonville Orange Route	bicycle
+10736728	lcn	Teal		Bentonville Teal Route	bicycle
+10736844	lcn	Pink		Bentonville Pink Route	bicycle
+10736845	lcn	Yellow		Bentonville Yellow Route	bicycle
+10736873	lcn	T2C		Trail of Two Cities	bicycle
+10736942	lcn	BB		Blackbird	mtb
+10741496	lcn	NWT		North Walton Trail	bicycle
+10741497	lcn	HT-I		Heratage Trail - I Street	bicycle
+10741498	lcn	CP		Citizens Park Trail	bicycle
+10741499	lcn	BSt		B Street Trail	bicycle
+10741500	lcn	SB		South Bentonville Trail	bicycle
+10741529	lcn	FF		Foxfire Trail	bicycle
+10741530	lcn	RR		Railyard Loop	bicycle
+10741531	lcn	TC		Turtle Creek Trail	bicycle
+10741532	lcn	RRSP		Rogers Regional Sports Park Loop	bicycle
+10741533	lcn	FP		Foerster Park Loop	bicycle
+10741534	lcn	Mountie		Mountie Trail	bicycle
+10741535	lcn	WE		War Eagle Trail	bicycle
+10741536	lcn	BW		Blossom Way Trail	bicycle
+10742508	lcn	LA		Lake Atlanta Trail	bicycle
+10742509	lcn	LA-Loop		Lake Atlanta Loop	bicycle
+10742510	lcn	VPL		Veterans Park Loop	bicycle
+10742511	lcn	VPL-Alt		Veterans Park Loop - Alternate	bicycle
+10744543	lcn	HT-E		Heritage Trail - Eastside	bicycle
+10744816	lcn	OW		Old Wire Trail	bicycle
+10745388	lcn	PR		Perry Road Trail	bicycle
+10745389	lcn	26th		26th Street Trail	bicycle
+10745390	lcn	24th		24th Street Trail	bicycle
+10745391	lcn	AC-Loop		Aquatic Center Trail Loop	bicycle
+10745392	lcn	Hampton		Hampton Trail	bicycle
+10745393	lcn	PH		Pinnacle Hills Trail	bicycle
+10745394	lcn	AMP		AMP Trail	bicycle
+10745395	lcn	AMP-Spur		AMP Trail Spur	bicycle
+10745419	lcn	PH		Pinnacle Hills Trail	bicycle
+10745420	lcn	PG		Pleasant Grove Trail	bicycle
+10745421	lcn	BR		Bellview Road Trail	bicycle
+10745422	lcn	GR		Garrett Road Trail	bicycle
+10745423	lcn	B-TH		Bellview Trailhead	bicycle
+10745766	lcn	TC		Turtle Creek Trail	bicycle
+10745767	lcn	AWC-Loop		Adult Wellness Center Loop	bicycle
+10745768	lcn	13th		13th Street Trail	bicycle
+10745805	lcn	PR		Pleasant Ridge Trail	bicycle
+10745808		VotC-Loop		Villiage on the Creek Loop	foot
+10749713	lcn	JBH		J.B. Hunt Park Loop	bicycle
+10749714	lcn	LS		Lake Springdale Loop	bicycle
+10772523	lcn	LF-Loop		Lake Fayetteville Loop	bicycle
+10772524	lcn	LF-Spur		Lake Fayetteville Spur	bicycle
+10772525	lcn	LF-MTB		Lake Fayetteville Nature & MTB Trail	mtb
+10772526	lcn	KC		Kitty Creek Trail	bicycle
+10772527	lcn	MC		Mud Creek Trail	bicycle
+10772528	lcn	NC		Niokaska Creek Trail	bicycle
+10772746	lcn	TB		Town Branch Trail	bicycle
+10772747	lcn	TLG		Tsa-La-Gi Trail	bicycle
+10773227	lcn	Frisco		Frisco Trail	bicycle
+10773228	lcn	WP-Loop		Walker Park Trail	bicycle
+10773229	lcn	CS		Cato Springs Trail	bicycle
+10773230	lcn	RegPark		Regional Park Trail	bicycle
+10773282	lcn	GP-Loop		Gulley Park Trail Loop	bicycle
+10773283	lcn	GP-Spur		Gully Park Spur	bicycle
+10773284	lcn	WP-Loop		Wilson Park Trail Loop	bicycle
+10773285	lcn	MV		Meadow Valley Trail	bicycle
+10773286	lcn	HC		Hamestring Creek Trail	bicycle
+10775790	lcn	OR		Oak Ridge Trail	bicycle
+10775791	lcn	CC		Clabber Creek Trail	bicycle
+10775792	lcn	CC		Clear Creek Trail	bicycle
+10775793	lcn	SC		Scull Creek Trail	bicycle
+10775794	lcn	CC		Clabber Creek Trail	bicycle
+10775795	lcn	SC-Alt		Skull Creek Trail - Alternative	bicycle
+10775970	lcn	R-SP		Razorback Sidepath Trail	bicycle
+10775971	lcn	G-SP		Garland Sidepath	bicycle
+10775972	lcn	Rupple		Rupple Road Sidepath	bicycle
+10790329	lcn	GreenN-C		Greenway Slaughter Pen North Connector	mtb
+10790330	lcn	DhC		Downhill Connector	mtb
+10790331	lcn	Med		Medusa	mtb
+10790332	lcn	Tata		Tatamagouche	mtb
+10790333	lcn	ALS		Armadillo's Last Stand	mtb
+10790449				Urban Trail	mtb
+10790450				Razorback Ridge	mtb
+10790451		AC		Angus Chute	mtb
+10790452				Angus Chute Connector	mtb
+10790453		MP-N		Master Plan North	mtb
+10792202		BP		The President Bush Push	mtb
+10792203		BC-Return		Berm Creek Return	mtb
+10792204	lcn	Ozone		Ozone	mtb
+10792205				Urban Trail Connector	mtb
+10792687		FT		Free Time	mtb
+10792689		RockyR		Rocky Ridge	mtb
+10792690				Berkeley's Holler	mtb
+10792691		ST-Down		Schroen Train-Downhill Only	mtb
+10792692				2 Stacks	mtb
+10809471	lcn	BS-Loop-NU		Blowing Springs Loop-North Upper	mtb
+10809472	lcn	Blowing		Blowing Springs Greenway	bicycle
+10809548	lcn	Flo		Flo Ride	mtb
+10809599		PC		Pinyon Creek	mtb
+10809654	lcn	Rago		Rago	mtb
+10809742	lcn	SBAT		SBAT	mtb
+10809772	lcn	Summit		Summit School	mtb
+10809781	lcn	TH		Taylor Homestead	mtb
+10809797	lcn	B40		Back 40	mtb
+10809798	lcn	B-Cut		Buckingham Cutoff	mtb
+10810659	lcn	B40-Access		Back 40 Access Path	mtb
+10810660	lcn	Mull		Mulligan	mtb
+10810661	lcn	Ledge		The Ledges	mtb
+10810662	lcn	BS-B40		Blowing Springs-Back 40 Connector Loop	bicycle
+10810663	lcn	Bomb		Bomb Diggity	mtb
+10810665	lcn	LR		Low Ride	mtb
+10810666	lcn	CM-Spur		Cooper MTB Spur	mtb
+10810667	lcn	BS-C-S		Blowing Springs Connector-South	mtb
+10810668	lcn	TT		Tower Trail	mtb
+10810669	lcn	CM-Alt		Cooper MTB Spur Alt	mtb
+10811070	lcn	TV		Tunnel Vision	mtb
+10813428	lcn	TB		Tweety Bird	mtb
+10814185	lcn	Sally		Sally	mtb
+10814186	lcn	SR		Smuggler's Run	mtb
+10816431	lcn	CR		Copperhead Road	mtb
+10819667	lcn	OL		Oscar's Loop	mtb
+10824173	lcn	RSolid		Rock Solid	mtb
+10824302	lcn	AT		Apple Turnover	mtb
+10824304	lcn	RL		Rock Ledge Trail	mtb
+10824306	lcn	BB		Boo Boo	mtb
+10824307	lcn	RH		Rocking Horse	mtb
+10824308	lcn	CC		Choo Choo	mtb
+10824310	lcn	CB		Cry Baby	mtb
+10825931	lcn	AD-Return		Apple Dumpling-Return & Connector	mtb
+10825967	lcn	CB-Access		Cry Baby Access Path	bicycle
+10838904	lcn	TT		Tristan's Trail	mtb
+10838905	lcn	TT		Tristan's Trail	bicycle
+10838906	lcn	RB		Red Barn	mtb
+10848080	lcn	BB		Barn Burner	mtb
+10848081	lcn	BA-Loop		Burns Arboretum Loop Trail	mtb
+10848084	lcn	OC		Oak Connector	mtb
+10848085	lcn	BAC		Black Apple Creek Trail	mtb
+10848167	lcn	RttC		Rotten to the Core	mtb
+10851139	lcn	BY-Drop		The Boneyard Drop	mtb
+10851140	lcn	BY-Return		Boneyard Return	mtb
+10853279	lcn	C&D		Cease and Desist	mtb
+10853405	lcn	DtH		Drop the Hammer	mtb
+10855608	lcn	TD-L		Thunder Dome Left	mtb
+10855609	lcn	TD-R		Thunder Dome Right	mtb
+10855610	lcn	TD-U		Up Thunder dome	mtb
+10855611	lcn	Johnny		Here's Johnny	mtb
+10855727	lcn	FF-Return		Family Flow Return	mtb
+10868744	rwn	OHT		Ozark Highlands Trail	hiking
+10876993	lcn	FF		Family Flow	mtb
+10876994	lcn	Esthers		Esther's	mtb
+10885214	lcn	Esters-Alt		Esther's Alt Route	mtb
+10887413	rwn	BRT		Buffalo River Trail	hiking
+10925263	lcn	OL-Access		Oscar's Loop Access	mtb
+10946324	lcn	WRSLL		White Rock - Shores Lake Loop	hiking
+11295601					railway
+11502769	Rock Region Metro	01		Route 01 - Pulaski Heights - Outbound	bus
+11502798	Rock Region Metro	01		Route 01 - Pulaski Heights - Inbound	bus
+11503031	Rock Region Metro	02		Route 02 - South Main - Outbound	bus
+11503182	Rock Region Metro	02		Route 02 - South Main - Inbound	bus
+11503267	Rock Region Metro	03		Route 03 - Baptist Medical Center - Outbound	bus
+11503585	Rock Region Metro	03		Route 03 - Baptist Medical Center - Inbound	bus
+11512962	Rock Region Metro	04		Route 04 - Levy/Amboy - Outbound	bus
+11512963	Rock Region Metro	04		Route 04 - Levy / Amboy - Inbound	bus
+11513169	Rock Region Metro	05		Route 05 - West Markham - Outbound	bus
+11513225	Rock Region Metro	05		Route 05 - West Markham - Inbound	bus
+11513305	Rock Region Metro	06		Route 06 - Granite Mountain - Outbound	bus
+11513360	Rock Region Metro	06		Route 06 - Granite Mountain - Inbound	bus
+11513492	Rock Region Metro	07		Riute 07 - Shorter College - Outbound	bus
+11515582	Rock Region Metro	07		Route 07 - Shorter College - Inbound	bus
+11516056	Rock Region Metro	10		Route - 10 - McCain Mall - Outbound	bus
+11516198	Rock Region Metro	10		Route 10 - McCain Mall - Inbound	bus
+11516334	Rock Region Metro	12		Route 12 - Clinton Center / Airport - Outbound	bus
+11516358	Rock Region Metro	12		Route 12 - Clinton Center / Airport - Inbound	bus
+11516686	Rock Region Metro	11		Route 11 - Dr. M.L. K. Jr. Drive - Outbound	bus
+11516730	US:AR:Clay	547			road
+11516731	US:AR:Clay	549			road
+11516732	US:AR:Clay	551			road
+11516733	US:AR:Clay	555			road
+11516734	US:AR:Clay	552			road
+11516735	US:AR:Clay	556			road
+11516736	US:AR:Clay	557			road
+11518250	US:AR:Greene	430			road
+11518251	US:AR:Greene	805			road
+11518252	US:AR:Greene	439			road
+11518253	US:AR:Greene	434			road
+11518254	US:AR:Greene	433			road
+11518255	US:AR:Greene	803			road
+11518256	US:AR:Greene	812			road
+11518257	US:AR:Greene				road
+11518258	US:AR:Greene	801			road
+11518259	US:AR:Greene	854			road
+11518260	US:AR:Clay	506			road
+11518261	US:AR:Clay	428			road
+11518262	US:AR:Greene	415			road
+11518263	US:AR:Clay	503			road
+11518264	US:AR:Clay	508			road
+11518265	US:AR:Clay	505			road
+11518266	US:AR:Clay	509			road
+11518267	US:AR:Clay	483			road
+11518268	US:AR:Clay	513			road
+11518269	US:AR:Clay	510			road
+11518270	US:AR:Clay	528			road
+11518271	US:AR:Clay	480			road
+11518272	US:AR:Clay	484			road
+11518273	US:AR:Clay	530			road
+11518274	US:AR:Clay	532			road
+11518275	US:AR:Clay	478			road
+11518276	US:AR:Clay	476			road
+11518277	US:AR:Clay	536			road
+11518278	US:AR:Clay	538			road
+11518279	US:AR:Clay	474			road
+11518280	US:AR:Clay	544			road
+11518281	US:AR:Clay	543			road
+11518355	US:AR:Greene	514			road
+11518356	US:AR:Greene	845			road
+11518357	US:AR:Greene	818			road
+11518358	US:AR:Greene	849			road
+11518359	US:AR:Greene	518			road
+11518360	US:AR:Greene	841			road
+11518361	US:AR:Greene	835			road
+11518362	US:AR:Greene	523			road
+11518363	US:AR:Greene	550			road
+11518364	US:AR:Greene	865			road
+11518365	US:AR:Greene	808			road
+11518366	US:AR:Greene	810			road
+11518367	US:AR:Greene	522			road
+11518368	US:AR:Greene	823			road
+11518369	US:AR:Greene	814			road
+11518370	US:AR:Greene	820			road
+11518371	US:AR:Greene	509			road
+11518372	US:AR:Greene	842			road
+11518373	US:AR:Greene	505			road
+11518490	Rock Region Metro	11		Rout 11 - 11 - Dr. M.L. K. Jr. Drive - Inbound	bus
+11518506	Rock Region Metro	13		Route 13 - Pulaski Technical College - Outbound	bus
+11518532	Rock Region Metro	13		Route 13 - Pulaski Technical College - Inbound	bus
+11518641	Rock Region Metro	14		Route 14 - Rosedale - Outbound	bus
+11518730	Rock Region Metro	14		Route 14 - Rosedale - Inbound	bus
+11519111	Rock Region Metro	16		Route 16 - Little Rock - Outbound	bus
+11519112	Rock Region Metro	16		Route 16 - Little Rock - Inbound	bus
+11519269	Rock Region Metro	17		Route 17 - Mabelvale / Downtown - Outbound	bus
+11519313	Rock Region Metro	17		Route 17 - Mabelvale / Downtown - Inbound	bus
+11519404	Rock Region Metro	18		Route 18 - McAlmont - Outbound	bus
+11521368	Rock Region Metro	18		Route 18 - McAlmont - Inbound	bus
+11521453	Rock Region Metro	19		Route 19 - Hensley Express - Outbound	bus
+11521496	Rock Region Metro	19		Route 19 - Hensley Express - Inbound	bus
+11521648	Rock Region Metro	20		Route 20 - Hanger Hill/College Station - Outbound	bus
+11521694	Rock Region Metro	20		Route 20 - Hanger Hill/College Station - Inbound	bus
+11522130	Rock Region Metro	22		Route 22 - University/Mabelvale - Outbound	bus
+11522476	Rock Region Metro	22		Route 22 - University/Mabelvale - Inbound	bus
+11522610	Rock Region Metro	23		Route 23 - Baseline/Southwest - Outbound	bus
+11524756	US:AR:Greene	931			road
+11524757	US:AR:Greene	940			road
+11524758	US:AR:Greene	751			road
+11524759	US:AR:Greene	825			road
+11524760	US:AR:Greene	749			road
+11524761	US:AR:Greene	752			road
+11524762	US:AR:Greene	921			road
+11524763	US:AR:Greene	765			road
+11524764	US:AR:Greene	729			road
+11524765	US:AR:Greene	925			road
+11524766	US:AR:Greene	730			road
+11524767	US:AR:Greene	727			road
+11524932	Rock Region Metro	23		Route 23 - Baseline/Southwest - Inbound	bus
+11525082	Rock Region Metro	25		Route 25 - Pinnacle Mountain Express - Outbound	bus
+11525137	Rock Region Metro	25		Route 25 - Inbound	bus
+11525436	Rock Region Metro	26		Route 26 - Maumelle/Oak Grove Express - AM	bus
+11525672	Rock Region Metro	26		Route 26 - Maumelle/Oak Grove Express - PM	bus
+11525866	Rock Region Metro	36		Route 36 - Jacksonville / Sherwood Express - Outbound	bus
+11526161	Rock Region Metro	36		Route 36 - Jacksonville/Sherwood Express - Inbound	bus
+11528024	US:AR:Craighead	7676			road
+11528025	US:AR:Craighead	792			road
+11528026	US:AR:Craighead	960			road
+11528027	US:AR:Craighead	968			road
+11528028	US:AR:Craighead	967			road
+11528029	US:AR:Craighead	966			road
+11528030	US:AR:Craighead	964			road
+11528031	US:AR:Craighead	761			road
+11532556	US:AR:Craighead	476			road
+11532557	US:AR:Craighead	537			road
+11532558	US:AR:Craighead	912			road
+11532559	US:AR:Craighead	701			road
+11532560	US:AR:Craighead	928			road
+11532561	US:AR:Craighead	702			road
+11532562	US:AR:Craighead	768			road
+11532563	US:AR:Craighead	706			road
+11532565	US:AR:Craighead	741			road
+11532566	US:AR:Craighead	740			road
+11532567	US:AR:Craighead	739			road
+11532568	US:AR:Craighead	7625			road
+11532569	US:AR:Craighead	762			road
+11532570	US:AR:Craighead	7670			road
+11536680	US:AR:Craighead	452			road
+11536681	US:AR:Craighead	476			road
+11536682	US:AR:Craighead	433			road
+11536683	US:AR:Craighead	433			road
+11536684	US:AR:Craighead	406			road
+11536685	US:AR:Craighead	402			road
+11536686	US:AR:Craighead	428			road
+11536687	US:AR:Craighead	407			road
+11536700	US:AR	163S			road
+11536727	US:AR:Craighead	160			road
+11536774	US:AR:Craighead	60			road
+11536775	US:AR:Craighead	538			road
+11541919	US:AR:Washington	58			road
+11541920	US:AR:Washington	3805			road
+11541921	US:AR:Washington	855			road
+11541922	US:AR:Washington	852			road
+11541923	US:AR:Washington	851			road
+11541924	US:AR:Benton	102			road
+11541925	US:AR:Benton	105			road
+11541926	US:AR:Benton	195			road
+11542013	US:AR:Washington	884			road
+11542014	US:AR:Washington	84			road
+11542015	US:AR:Washington	856			road
+11542016	US:AR:Washington	905			road
+11542017	US:AR:Washington	31			road
+11542018	US:AR:Washington	853			road
+11547307	US:AR:Washington	845			road
+11547308	US:AR:Washington	432			road
+11547309	US:AR:Washington	2161			road
+11547310	US:AR:Washington	675			road
+11547311	US:AR:Washington	301			road
+11547312	US:AR:Washington	4062			road
+11547313	US:AR:Washington	1116			road
+11547314	US:AR:Washington	3502			road
+11547315	US:AR:Washington	3326			road
+11547316	US:AR:Washington	4304			road
+11547317	US:AR:Washington	3324			road
+11549606	US:AR:Washington	6			road
+11549607	US:AR:Washington	151			road
+11549608	US:AR:Washington	3329			road
+11549609	US:AR:Washington	603			road
+11549610	US:AR:Washington	3120			road
+11549611	US:AR:Washington	3408			road
+11549612	US:AR:Washington	571			road
+11549613	US:AR:Washington	574			road
+11549614	US:AR:Washington	570			road
+11549615	US:AR:Washington	3514			road
+11549616	US:AR:Washington	4815			road
+11549617	US:AR:Washington	3605			road
+11549618	US:AR:Washington	3633			road
+11549619	US:AR:Washington	335			road
+11549620	US:AR:Washington	926			road
+11549621	US:AR:Washington	3811			road
+11549622	US:AR:Washington	3810			road
+11549623	US:AR:Washington	3542			road
+11549624	US:AR:Washington	67			road
+11549625	US:AR:Washington	333			road
+11549626	US:AR:Washington	57			road
+11549627	US:AR:Washington	226			road
+11549628	US:AR:Washington	3310			road
+11549629	US:AR:Washington	8			road
+11549630	US:AR:Washington	2			road
+11549631	US:AR:Washington	3416			road
+11549632	US:AR:Washington	3232			road
+11549633	US:AR:Washington	932			road
+11549634	US:AR:Washington	2106			road
+11549635	US:AR:Washington	662			road
+11549636	US:AR:Washington	658			road
+11551225	US:AR:Washington	2190			road
+11551226	US:AR:Washington	2177			road
+11551227	US:AR:Washington	123			road
+11551228	US:AR:Washington	1613			road
+11551229	US:AR:Washington	2138			road
+11551230	US:AR:Washington	2066			road
+11551231	US:AR:Washington	4231			road
+11551232	US:AR:Washington	2163			road
+11551233	US:AR:Washington	1412			road
+11551234	US:AR:Washington	4085			road
+11551235	US:AR:Washington	2102			road
+11551236	US:AR:Washington	2100			road
+11552961	US:AR:Washington	889			road
+11552962	US:AR:Washington	841			road
+11552963	US:AR:Washington	3293			road
+11552964	US:AR:Washington	38			road
+11552965	US:AR:Washington	563			road
+11552966	US:AR:Washington	69			road
+11552967	US:AR:Washington	25			road
+11552968	US:AR:Washington	558			road
+11552969	US:AR:Washington	885			road
+11552970	US:AR:Washington	881			road
+11552971	US:AR:Washington	1401			road
+11582342	US:I	540	south		road
+11582343	US:I	540	north		road
+11768541					railway
+11768937					railway
+11909992	lcn	TV		Tunnel Vision-Downunder Connector	mtb
+11909993	lcn	LL		Landline	mtb
+11910044	lcn	BB		Bamboozled	mtb
+11910063	lcn	SB		Sugar Bridge	mtb
+11910085	lcn	DWR		Danger Will Robinson	mtb
+11910142	lcn	DU		Down Under	mtb
+11910202	lcn	LV-E		Lago Vista-East	mtb
+11910251	lcn	TD		Technical Difficulties	mtb
+11910275	lcn	UHBW		Up Hill Both Ways	mtb
+11917865		Cub		Cub Trail Loop	mtb
+11917866		Wolf		Wolf Trail Loop	mtb
+11957692	US:AR:Washington	1022			road
+11957696	US:OK:Adair	E0820			road
+11957698	US:AR:Washington	464			road
+12105465	lcn	RSoft		Rock Soft	mtb
+12121934	lcn	Rend		Rendezvous	mtb
+12121935	lcn	Return-N		Return Trail North	mtb
+12121936	lcn	Invade		Invasion	mtb
+12121937	lcn	AR		Air Raid	mtb
+12121938	lcn	TW		Tango Whiskey	mtb
+12121947	lcn	S&A		Shock & Awe	mtb
+12121948	lcn	UH-Connect		Huntley Up Hill-Connector	mtb
+12121949	lcn	RT-S		Return Trail-South	mtb
+12139242	lcn	Oscar-Connect		Oscar to Homestead-Connector	mtb
+12139243	lcn	Esther-Connect		Esther-Homestead Connector	mtb
+12139244	lcn	WT-Connect		Water Tower Access	mtb
+12139370	lcn	Good		Good Vibrations	mtb
+12144776	lcn	Ravine		Ravine Trail	mtb
+12144887				North Forest Trail	bicycle
+12144921	lcn	Master		The Masterpiece	mtb
+12161119	lcn	G-O-Connector		Good-Oscar Connector	mtb
+12162585		Wolf-Xing		Wolf Crossing	mtb
+12166398		1		ROGERS EXP	bus
+12166420		2		GRAND	bus
+12166434		3		ROGERS SC	bus
+12166492		4		MIDLAND	bus
+12166500		5		TOWSON	bus
+12166516		6		JENNY LIND	bus
+12180533	Amtrak	Texas Eagle		Amtrak Texas Eagle: Los Angeles => Chicago	train
+12180534	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => Los Angeles	train
+12180535	Amtrak	Texas Eagle		Amtrak Texas Eagle: San Antonio => Chicago	train
+12190655	lwn			Champion Cypress Tree Trail	hiking
+12215977	lcn	O-C-Connect		Oscar-Copperhead Connector	mtb
+12222222	lcn	O-J-Connect		Oscars-Johnny Connector	mtb
+12245706	lcn	Esthers-Slalom		Esther's Slalom	mtb
+12246302		Wolf-Cub-Xing		Wolf-Cub Crossing	mtb
+12246303		Wolf-Feature		Wolf Trail-Feature	mtb
+12246345	lcn	Apple		Appleblossom Trail	bicycle
+12249321	lcn	Oscar-Access		Oscar's Northgate Access	mtb
+12249393	lcn	Homestead Ln		Homestead Lane Connector	bicycle
+12249923	lcn	E-FF-Connect		Esther-Family Connector	mtb
+12261996	lcn	HammerD		Hammer Down	mtb
+12261997	lcn	H-O-Connect		Hammer-Ozone Connector	mtb
+12274371	lcn	PS-N-Access		Park Springs North Access	mtb
+12288352	lcn	AD		Apple Dumpling	mtb
+12339542		1		Route 1	bus
+12340222	Rock Region Metro	Green		Metro Streetcar Green Line: Markham & Spring → River Market	tram
+12340223	Rock Region Metro	Green		Metro Streetcar Green Line: River Market → Markham & Spring	tram
+12340224	Rock Region Metro	Green		Metro Streetcar Green Line: Markham & Spring → Presidential Library	tram
+12340225	Rock Region Metro	Green		Metro Streetcar Green Line: Presidential Library → Markham & Spring	tram
+12340226	Rock Region Metro	Blue		Metro Streetcar Blue Line: Bishop Lindsey Avenue → River Market	tram
+12340227	Rock Region Metro	Blue		Metro Streetcar Blue Line: River Market → Bishop Lindsey Avenue	tram
+12340228	Rock Region Metro	Blue		Metro Streetcar Blue Line: Presidential Library → Bishop Lindsey Avenue	tram
+12342437		2		Route 2	bus
+12342453		3		Route 3	bus
+12342737		7		Route 7	bus
+12342808		8		Route 8	bus
+12366745					bus
+12366746		1		Route 1	bus
+12366877		2		Route 2	bus
+12367026		3		Route 3	bus
+12392747	JET	17		Central	bus
+12393906	JET	27		West	bus
+12393939	JET	43			bus
+12394035	JET	43		Industrial-Southeast	bus
+12394097	JET	53		Northeast	bus
+12423380				Blakely Dam Road	road
+12426494					railway
+12513422	US:AR	926			road
+12525911	US:AR:Washington	651			road
+12613771	lcn	VV		Valley View	mtb
+12613772	lcn	Thunder		Thunder Chicken	mtb
+12613773	lcn	PD		Praire Dog	mtb
+12613774	lcn	Elm		Leaning Elm	mtb
+12613775	lcn			Thunder Chicken MTB Park	mtb
+12613776	lcn	VV-Skill		Valley View-Skill	mtb
+12613777	lcn	PD-Elm-Connect		Praire-Elm-Connector	mtb
+12615983	lcn	Basket		Basket Case	mtb
+12615985	lcn	Junk		Junk Drawer	mtb
+12615986	lcn	Permit		Learner's Permit	mtb
+12615987	lcn	Pop		Pop Rocks	mtb
+12616847	lcn	Owl		Owl Creek MTB Trail	mtb
+12616848				Dave Clark Trail	bicycle
+12617226	lcn	Holcomb		Holcomb Bicycle Course	mtb
+12617883	lcn	ML		Morning Light	mtb
+12617884	lcn	Tail		Tailwind	mtb
+12617885	lcn	RT		Rolling Thunder	mtb
+12617886	lcn	{Abbreviation]		Skills Course	mtb
+12617888	lcn	Pump		Pump Track	mtb
+12617996	lcn	Fresh		Freshman Experience	mtb
+12638607	US:AR	11S			road
+12638817	lcn	WC1		World Cup #1	mtb
+12638818	lcn	WC2		World Cup #2	mtb
+12638819	lcn	WC3		World Cup #3	mtb
+12638820	lcn	WC4		World Cup #4	mtb
+12638821	lcn	WC5		World Cup #5	mtb
+12639039	lcn	Chunky		Chunky	mtb
+12639040	lcn	Chunky-Alt		Chunky-Alt	mtb
+12639041	lcn	Chunky-Connect		Chunky-Connector	mtb
+12639042	lcn	RR		Red Rum	mtb
+12639043	lcn	RR-Alt		Red Rum-Alt	mtb
+12639044	lcn	CptF		Captain Fantastic	mtb
+12639045	lcn	HM		Hail Mary	mtb
+12639046	lcn	HM-Alt		Hail Mary-Alt	mtb
+12639047	lcn	Chase-WC-Connector		Chase-WC Connector	mtb
+12639048	lcn	CG		Chasing Gold	mtb
+12639049	lcn	CG-to-Pond		Chasing Gold to Pond	mtb
+12639050	lcn	CG-Alt		Chasing Gold-Alt	mtb
+12639051	lcn	WC-to-Chase-Connect		WC-to-Chasing Connect	mtb
+12639377	ORT	61		Route 61 (Northbound)	bus
+12639565	ORT	10		Route 10	bus
+12640114	ORT	62		ROUTE 62	bus
+12641415	ORT	490		Route 490	bus
+12642645	lcn	JT-Connect		Junk-Trav-Connector	mtb
+12642646	lcn	WC4-Alt		World Cup #4 - Alt	mtb
+12642647	lcn	BC-Traverse-Connect		Basket Case Traverse-Connector	mtb
+12642648	lcn	BC-Junk-Connect		Basket Case Junk-Connector	mtb
+12642649	lcn	WC1-Alt		World Cup #1 - Alt	mtb
+12642650	lcn	LP-Junk-Connect		Learning Junk-Connector	mtb
+12764667	lcn	Frisco		Frisco Trail	mtb
+12764670	lcn	Scout		Scout Loop Trail	mtb
+12764672	lcn	PawPaw		Paw Paw Lane Trail	mtb
+12764673	lcn	Groms		Groms Trail	mtb
+12764675	lcn	Burn		Controlled Burn (Blue)	mtb
+12764677	lcn	Chert		Chert Row	mtb
+12764685	lcn	Shadow		Shadow Ridge Trail	mtb
+12820690	lcn	ET-L2		Elm Tree MTB Trail L2	mtb
+12820691	lcn	ET-L1		Elm Tree MTB Trail L1	mtb
+12922494		FT-Ladder		Free Time-Ladder Bridge	mtb
+12922872		Ph2W-Connect(N)		Phase 2 West-Connector (North)	mtb
+12922873		SAA		Scott Allen Alley	mtb
+12922874		NoName		Unnamed	mtb
+12922875		Brewer-Access		Brewer Circle-Access	mtb
+12925590		Ph2W-Connect(C)		Phase 2 West-Connector (Central)	mtb
+12940568	lcn	BS-Connect		Blowing Springs Connector	mtb
+12941487	lcn	MD-Connect		Manchester Drive-Connector	mtb
+12941488	lcn	BS-Short		Blowing Springs Loop-Shortcut	mtb
+12941489	lcn	Cooper-C		Cooper Connector	mtb
+12941554	lcn	CC-Feature		Cooper Connector-Feature	mtb
+12946626		ST		Schroen Train	mtb
+12946696		NoName		Unnamed	mtb
+13040493					power
+13044218					power
+13044219					power
+13044220					power
+13044268					power
+13044269					power
+13044270					power
+13044271					power
+13044272					power
+13044273					power
+13044274					power
+13044275					power
+13044276					power
+13044277					power
+13044278					power
+13044279					power
+13044280					power
+13044281					power
+13049184				TransAmerica Trail Main Route	road
+13075809	US:AR:Washington	1009			road
+13075810	US:AR:Washington	809			road
+13075811	US:AR:Washington	74			road
+13076139	US:AR:Benton	393			road
+13076567	US:AR:Benton	506			road
+13076568	US:AR:Benton	507			road
+13076585	US:AR:Benton	404			road
+13076892	US:AR:Washington	4805			road
+13077026	US:AR:Benton	313			road
+13077027	US:AR:Benton	24			road
+13079526	US:AR:Benton	6			road
+13079551	US:AR:Benton	8			road
+13171883	US:AR:Benton	403			road
+13171884	US:AR:Benton	406			road
+13171885	US:AR:Benton	405B			road
+13171886	US:AR:Benton	30D			road
+13171887	US:AR:Benton	410			road
+13171888	US:AR:Benton	405			road
+13308568	lcn	Holt		Holt MTB Trail	mtb
+13381273	lcn	TL		Traverse Loop	mtb
+13381274	lcn	Hero0		My Hero Zero	mtb
+13381275	lcn	StS		Sufferin' til Sufferage	mtb
+13381276	lcn	NT		Northern Traverse	mtb
+13381277	lcn	Janet		Interplanet Janet	mtb
+13381340	lcn	Body		The Body Machine	mtb
+13381341	lcn	MN		Mother Necessity	mtb
+13381342	lcn	Rock		School House Rock	mtb
+13381343	lcn	NoKing		No More Kings	mtb
+13381345	lcn	NoName		Interjections (Unnamed)	mtb
+13381346	lcn	Vic		Victim of Gravity	mtb
+13381347	lcn	Circ		Do the Circulation	mtb
+13381348	lcn	Conj		Conjunction Junction	mtb
+13381349	lcn	Oak-C		Oakbrooke-Connector	mtb
+13381350	lcn	TT-C		Traverse the Traverse-Connector	mtb
+13381351	lcn	Beau-C		Beau Terre-Connector	mtb
+13383073	lcn	PC-C		Price Coffee-Connector	mtb
+13395669	lcn	BVAoG-C		BV AoG Connector	mtb
+13395670	lcn	Avalon		Lake Avalon View	mtb
+13403147	lcn	SW		Staggerwing	mtb
+13403148	lcn	Ruth		Ruth's Revenge	mtb
+13403149	lcn	LS		Long Shadow	mtb
+13403150	lcn	LS-C		Long Shadow Connector	mtb
+13403151	lcn	CC		Caldwell Climb	mtb
+13403152	lcn	IA		Immortal Amanda	mtb
+13403153	lcn	SR		Sister Rosetta	mtb
+13403155	lcn	SH		Silent Hattie	mtb
+13403361	lcn	LV-W		Lago Vista-West	mtb
+13405609	lcn	Down		Huntley Gravity Zone Downhill Connector	mtb
+13405715	lcn	BVSt-C		Bella Vista Street Dept Connector	mtb
+13405875	lcn	BB-g		Bamboozled Gravity Trail	mtb
+13406428	lcn	LAV		Lake Avalon Vista	mtb
+13406486	lcn	B40S-C		Back 40-Sugar Connector	mtb
+13418533	lcn	FT		Fresh Tunics	mtb
+13418534	lcn	Dragon		Dragon Scales	mtb
+13418693	lcn	Cata		Catapult	mtb
+13418694	lcn	Medi		Medieval	mtb
+13418997	lcn	Uwa		Uwabami	mtb
+13422431	lcn	SPAR-C		Slaughter Pen Access Road Connector	mtb
+13422735	lcn	JLS		Jesse's Last Stand	mtb
+13422736	lcn	Tata-Cut		Tatamagouche Cut-through	mtb
+13422737	lcn	ALSTata-C		Armadillo-Tatamagouche Connector	mtb
+13422747	lcn	Med-Alt		Medusa Alternate	mtb
+13422748	lcn	TaMed-C		Tatamagouche-Medusa Connector	mtb
+13422749	lcn	TaMedP-C		Tatamagouche-Medusa Powerline Connector	mtb
+13423145	lcn	AA-Skill		All-American Skill Line	mtb
+13423146	lcn	SP-C-A		Slaughter Pen Phase 1 Access Central	mtb
+13423147	lcn	Tata-Skill		Tatamagouche Skill Route	mtb
+13423149	lcn	NW_A-C		NW A Connector	mtb
+13423150	lcn	BY-Ditch		Boneyard Ditch	mtb
+13423430	lcn	Skid		Skid Marks	mtb
+13423431	lcn	BY-Ds		The Bone Yard Drops	mtb
+13423432	lcn	BY-Ds+		The Bone Yard Drops Bonus Line	mtb
+13423433	lcn	Creek		Creekside	mtb
+13423541		MP-N		Master Plan South	mtb
+13426735	lcn	BAC		Black Apple Creek Trail-Slaughter Pen	mtb
+13426737	lcn	BY-Ridge		The Bone Yard Ridge	mtb
+13426738	lcn	BY-Sent		The Boneyard Sent	mtb
+13426827	lcn	JA-Access		Jesse's Armadillo Access	mtb
+13426828	lcn	JA-C		Jesse's Armadillo Connector	mtb
+13426829	lcn	ALS-C		Armadillo's Last Stand Connector	mtb
+13427318	lcn	GreenS-C		Greenway Connector Phase 1 South	mtb
+13427440	lcn	AR-C		Access Road Connector	mtb
+13429144	lcn	AA-Phs1		All-American Heros Phase 1	mtb
+13429145	lcn	AA-Phs2		All-American Heros Phase 2	mtb
+13429311	lcn	BP-C		Bush Push Connector	mtb
+13429312	lcn	Oak-C		Oaklawn Connector	mtb
+13429586		BC		Berm Creek	mtb
+13429587	lcn	ACG		Angus Chute Gully	mtb
+13429950	lcn	AA-Phs3		All-American Heros Phase 3	mtb
+13429952	lcn	AA-C		All American Connector Crystal Bridges South	mtb
+13430411	lcn	TaMedW-C		Tatamagouche-Medusa West Connector	mtb
+13430504	lcn	ALSTata-Cut		Armadillo Tatamagouche Cutthrough	mtb
+13430585	lcn	FT-Drop		Free Time Drop Line	mtb
+13430599				Razorback Regional Greenway I-49 Temp	bicycle
+13430676	lcn	AAALS-C		All American Armadillo Connector	mtb
+13432494	US:AR:NW:Greenway	RRG		Razorback Regional Greenway-Impacted South	bicycle
+13442420	lcn	BS-Loop-SU		Blowing Springs Loop-South Upper	mtb
+13442421	lcn	BSLR-C		Blowing Springs Loop-Low Rider Connector	mtb
+13442422	lcn	BS-C-S-Alt		Blowing Springs Connector-South-Alt	mtb
+13442424	lcn	BSB40-E-C		Blowing Springs-Back 40 East Connector	mtb
+13442425	lcn	BSB40-N-C		Blowing Springs-Back 40 North Connector	mtb
+13442426	lcn	BSB40-N-Alt-C		Blowing Springs-Back 40 North Alternative Connector	mtb
+13446426	lcn	LF-Loop-C		Lake Fayetteville Loop Connector	bicycle
+13446427	lcn	Memorial-Loop		Memorial Park Loop	bicycle
+13446428	lcn	LF-Loop-NoRRG		Lake Fayetteville Loop Non-RRG	bicycle
+13446429	lcn	LC		Last Call	mtb
+13446430	lcn	TerraS		Terrapin Station	mtb
+13446431	lcn	TerraS-C		Terrapin Station Connector	mtb
+13446432	lcn	CO		Chinkapin Oak Trail	mtb
+13446433	lcn	CO-Alt		Chinkapin Oak Trail Alternate	mtb
+13446434	lcn	CM		Crazy Mary	mtb
+13446435	lcn	Trent		Trent Trail	mtb
+13446436	lcn	Trent-C		Trent Trail Connector	mtb
+13446437	lcn	Spell		Spellbound	mtb
+13446438	lcn	WMyth		Western Myth	mtb
+13446439	lcn	EggB		Eggbeater	mtb
+13446440	lcn	Wino		Wino Trail	mtb
+13446885	lcn	SU		Saddle Up	mtb
+13446886	lcn	Serpent		Serpentine	mtb
+13446887	lcn	Goat		Goat Trail	mtb
+13446888	lcn	RockC		Rock City	mtb
+13446889	lcn	Traverse		Fayetteville Traverse Connector	mtb
+13446890	lcn	RockTrav-C		Rock City-Traverse Connector	mtb
+13446892	lcn	Flight		Flight Training	mtb
+13446893	lcn	FT-C		Flight Traverse Connector	mtb
+13446895	lcn	Traverse-C		Fayetteville Traverse Regional Park Connector	mtb
+13446896	lcn	Traverse-Parallel		Fayetteville Traverse Parallel	mtb
+13446897	lcn	Traverse		Fayetteville Traverse Cato Connector	mtb
+13447328	lcn	NBT		North Bentonville Trail non-RRG	bicycle
+13447469	lcn	LBV		Lake Bella Vista Trail non-RRG	bicycle
+13447955	lcn	RR		Railyard Loop No-RRG	bicycle
+13449645		Traverse		Fayetteville Traverse Centennial Kessler Connector	bicycle
+13452308		CC-A11y		Clabber Creek Trail Accessibility Route	bicycle
+13452309	lcn	CCRR-C		Rupple Clabber Connector	bicycle
+13452310		CC-Detour		Clabber Creek Detour	bicycle
+13452311		CC-C		Clabber Creek Connector	bicycle
+13452356		RRGNio-Road-C		Niokaska Greenway Sharrow Connector	bicycle
+13452478	lcn	Vang-C		Vandergriff Connector	mtb
+13452479	lcn	Vang		Vandergriff Trail Lower Loop	mtb
+13452480	lcn	Vang		Vandergriff Trail Middle Loop	mtb
+13452481	lcn	Vang		Vandergriff Trail Upper Loop	mtb
+13452524		Deans		Dean's Trail	bicycle
+13452525		RRGMaple-C		RRG Maple St Connector	bicycle
+13452526		Maple		Maple Street Cycle Route	bicycle
+13452527		HolMead-Rd		Holcomb Meadow Cycle Route	bicycle
+13454336		GG		Gene George Blvd Sidepath	bicycle
+13454337		ElmS		Elm Springs Sidepath	bicycle
+13456373		Shiloh		Shiloh Trail	bicycle
+13472826	rcn	RRG		Razorback Regional Greenway Long Term Detour	bicycle
+13472827				Razorback Regional Greenway - North Bentonville Separated	bicycle
+13476500	lcn	Orchard		Orchard Trail	bicycle
+13476501		CBArt		Crystal Bridges Art Trail	bicycle
+13482584	lcn	RR-E		Rupple Road Sidepath Trail - East	bicycle
+13482620		WP-Green		Walker Park Greenway	bicycle
+13482756		GreenOldMO		Greenway to Old Missouri Bike Lane	bicycle
+13482788		Spring		Spring Creek Trail	bicycle
+13482820				Lake Atalanta Trail Split	bicycle
+13482863		Vet-C		Veteran's Park Connector	bicycle
+13482977				Cambridge Trail Main	bicycle
+13483089		LL-Spur		Lincoln Loop Spur	bicycle
+13483162		RRG-Rd-Detour		Razorback Greenway Road Detour	bicycle
+13483177		Downtown		Downtown Trail	bicycle
+13492238		1stSt		1st Street Sidepath	bicycle
+13492239		ArSt		Arkansas Street Sidepath	bicycle
+13492240		Frisco		Frisco Springs Trail	bicycle
+13492241				Railyard Bike Park Loop	bicycle
+13492242		LA-C		Lake Atalanta Connector	bicycle
+13492327				13th St Sidepath	bicycle
+13492483				Cambridge Wetlands Trail	bicycle
+13492485				Cambridge 37th St Connector	bicycle
+13492486				Cambridge Easy Street West Connector	bicycle
+13492487				Cambridge Trail Easy Street Connector East	bicycle
+13492496				Easy Street Spur	bicycle
+13492993		Enfield		Enfield Trail	bicycle
+13493075		CBArt-East		Crystal Bridges Art Trail East	bicycle
+13493451		TCT-Spur		Turtle Creek Trail Spur	bicycle
+13496912				Mount Comfort Road	bicycle
+13671281	lcn			City Lake Skills Beginnner Line	mtb
+13671282	lcn			City Lake Skills Intermediate Line	mtb
+13671283	lcn			City Lake Skills Advanced Line	mtb
+13671284	lcn			City Lake Skills Intermediate Alt Line	mtb
+13671285	lcn			City Lake Skills Advanced Alt Line	mtb
+13671322	lcn			Enchanted Forest	mtb
+13845322	US:AR:Sebastian	188			road
+13875924				Hidden Diversity Multi-Use Trail	hiking
+13912757	US:AR:Washington	199			road
+13912758	US:AR:Washington	698			road
+13912759	US:AR:Washington	3601			road
+13912760	US:AR:Washington	4803			road
+14048708	US:AR	915-2A			road
+14066788	lcn	Thaden		Thaden MTB Trail	mtb
+14104746	US:I	49	north		road
+14104747	US:I	49	south		road
+14105391	US:US	59	south		road
+14105392	US:US	59	north		road
+14302531	lcn	HHome		Heading Home	mtb
+14302532	lcn	Tech		Tech Hub Connector	mtb
+14302533	lcn	Rim		Rim Trail	mtb
+14302554	lcn	TGnar		Tech Gnar	mtb
+14302555	lcn	TGnar-Drop		Tech Gnar Drop Line	mtb
+14302556	lcn	WW		Walter's Whistler	mtb
+14302557	lcn	H2H		Highway to Heaven	mtb
+14302558	lcn	Flow		Flow Hub Connector	mtb
+14302566	lcn	TG-Cry-C		Tech Gnar-Cry Baby Connector	mtb
+14375188	US:AR	549			road
+14556655				Tennessee Gas Pipeline - 100 System (Main Line)	pipeline
+14585781	rwn			Eagle Rock Loop	hiking
+14603698	US:MO:Supplemental	E			road
+14607447	ncn	80			bicycle
+14660345					foot
+14721027	ORT			ORT Bentonville DRT-NWACC	bus
+14723769	ORT			ORT Rogers DRT-NWACC	bus
+14723770	ORT			ORT Bentonville DRT-Forum	bus
+14723771	ORT			ORT Rogers DRT-Forum	bus
+14745445					foot
+15000457		Loam		Loam Wolf	mtb
+15000458				Climb Line	mtb
+15000705	lcn	WBS		Walk/Bike Scenic Trail	bicycle
+15000706	lcn	WBM		Gravette Walk-Bike Main Loop	bicycle
+15006534				Hammer Pedal Connector	mtb
+15006536	lcn	RSalad		Rock Salad	mtb
+15006537		Assist		Pedal Assist	mtb
+15006538	lcn	EsthersS		Esther's Slalom	mtb
+15006539	lcn	Johnny-Alt		Here's Johnny Alt	mtb
+15006691		OV		Oeste Vista	mtb
+15006692		Shot		Shotgun	mtb
+15006693		Bullet		Bullet	mtb
+15008915		XC1		Beginner XC	mtb
+15008916		Down1		Beginner Downhill	mtb
+15008917		Down2		Intermediate Downhill	mtb
+15008918		Jump		Jumps	mtb
+15008919		Drop		Drops	mtb
+15008920		Rocks		Rocks	mtb
+15008921		Entry		Entrance	mtb
+15008954	lcn	Traverse		Fayetteville Traverse	mtb
+15014549	lcn	ST-C		Skip Town Connector	mtb
+15014550	lcn	ST		Skip Town	mtb
+15014551	lcn	Go		Go Ride	mtb
+15027220	lcn	Snack		Snacks Attack	mtb
+15027221	lcn	TraviC		Travistock Canyon	mtb
+15027222	lcn	TraviC-Alt		Travistock Canyon Alt	mtb
+15080845				Talimena Scenic Drive	road
+15082547				Sick A More	mtb
+15082757				Gateway City Park Trail	mtb
+15090098		Nest		The Nest	mtb
+15090099		Z		Z	mtb
+15090163		OLD		Old Main	mtb
+15090164		BAM		Bus-A-Move	mtb
+15090165		McB		McBroom	mtb
+15092767		RaDo		Railyard Downhill	mtb
+15092768		RaRe		Railyard Return	mtb
+15092769		Cac		Cactus	mtb
+15092770				Controlled Burn (Black)	mtb
+15092771		CBG		Controlled Burn (Green)	mtb
+15092772				Ridgerunner (Green)	mtb
+15092773				Ridgerunner (Blue)	mtb
+15092774				The Grove (Green)	mtb
+15092775				The Grove (Blue)	mtb
+15092776				The Grove (Black)	mtb
+15092777				Billy Goat (Blue)	mtb
+15092778				Billy Goat (Black)	mtb
+15092779				Billy Goat (Green)	mtb
+15092780				Billy Goat (Black)	mtb
+15177405		TLG		Through the Looking Glass	mtb
+15177406		MadHat		Mad Hatter	mtb
+15261708	US:I	530			road
+15273365				Leopard's Loop	mtb
+15273366				The Catwalk	mtb
+15343580		48		Route 48	bus
+15353155				North Ark Bike Course	mtb
+15396625		DeRa		Devil's Racetrack	mtb
+15396626		GoBr		Gold Brick	mtb
+15396627		Orv		Orville	mtb
+15396628		Spar		Sparky	mtb
+15396629		WCTI		We Can Take It	mtb
+15396630		AYCE		All You Can Eat	mtb
+15396631		DOLLA		Dollar A Day	mtb
+15396633		RaceHi		Racer's Hill	mtb
+15400112		OV-C		Oeste Vista Connector	mtb
+15410399	lcn	HdO		Hors d'Oeuvres	mtb
+15415194	lcn	Powell-C		Powell St Connector	mtb
+15426162		13		Route 13	bus
+15445686				The Grouch	mtb
+15488886	rcn			New HO Campus Greenway As Designed	bicycle
+15530531					fitness_trail
+15533643	lwn			Nubbin Ridge Nature Trail	hiking
+15551454	lcn	TL-C		Traverse Loop Connector	mtb
+15577383					running
+15577384					running
+15627026	US:AR:Benton	38			road
+15690459	lwn			Butterfield Hiking Trail	hiking
+15690741	lwn			Lake Trail	hiking
+15804332	US:MO:Supplemental	F			road
+15835180	lcn			Hernando Trail	bicycle
+15987313	lwn			Big Creek Loop	hiking
+15987314	lwn			Overlook Trail	hiking
+16088827		501		ANR Line 501	pipeline
+16100694				TGT Main Line	pipeline
+16110502				Fayetteville Lateral	pipeline
+16118219	lwn			Ducks Unlimited Park Loop	hiking
+16122354	US:MO:Supplemental	BB			road
+16124402				Energy Transfer Crude Oil Pipeline	pipeline
+16127537				Fayetteville Express Pipeline	pipeline
+16165036				Mississippi River Transmission	pipeline
+16175094				Centennial Pipeline	pipeline
+16195373				Mid-Valley Pipeline	pipeline
+16203494				NuStar Ammonia System	pipeline
+16261718				VBI - Helberg 161kV	power
+16262064				Norfolk - Van Buren 161kV	power
+16262242				Dardanelle Loop	power
+16262243				Bull Shoals Loop	power
+16262729				Norfolk - Idalia 161kV	power
+16272592				Norfolk Dam - West Plains 69kV	power
+16307121				TEPPCO Pipeline System	pipeline
+16358468				Diamond Pipeline	pipeline
+16371559	US:AR	8S			road
+16658036				EZ Way	mtb
+16658037				Trolls Trail	mtb
+16658038				Creekside	mtb
+16658039				Mule Barn	mtb
+16658040				On Ya Left	mtb
+16658041				The Nest	mtb
+16658042				Trolls Trail Connector	mtb
+16856734	US:US	78		US 78 (AR)	road
+16856927	US:US	412B			road
+16862232	US:AR	980			road
+16862233	US:AR	980			road
+16862234	US:AR	980			road
+16862235	US:AR	980			road
+16862236	US:AR	980			road
+16862238	US:AR:Carroll	308			road
+16862239	US:AR	980			road
+16862240	US:AR	980			road
+16862398	US:AR	980			road
+16862399	US:AR	980			road
+16862400	US:AR	980			road
+16862401	US:AR	980			road
+16862402	US:AR			Arkansas Highway 980 (Cross County)	road
+16862447	US:AR	980			road
+16862448	US:AR	980			road
+16862449	US:AR	980			road
+16862450	US:AR	980			road
+16862451	US:AR	980			road
+16862474	US:AR	980			road
+16862475	US:AR	980			road
+16862476	US:AR	980			road
+16862477	US:AR	980			road
+16888956	US:AR	226S			road
+16888960	US:AR	226B			road
+17036062	US:AR	AR 18			road
+17189475					road
+17327062	US:AR	23W			road
+17351999	US:AR	75S			road
+17362982	US:AR	127S			road
+17368153	ncn	51		51 (Arkansas)	bicycle
+17381577	Rock Region Metro	08		Route 08 - Rdney Parham - Outbound	bus
+17381578	Rock Region Metro	08		Route 08 - Rodney Parham - Inbound	bus
+17411964	US:AR	242S			road
+17415546	US:AR	270			road
+17422935	Rock Region Metro	02		Route 02 - South Main	bus
+17435786	US:AR	326			road
+17459785	US:AR	902			road
+17459928	US:AR	922			road
+17459977	US:AR	933			road
+17460044	US:AR	946			road
+17460054	US:AR	949			road
+17460090	US:AR	956			road
+17478386				Arkansas River Trail (eastbound)	hiking
+17491971	US:US:Business	412B			road
+17811130	ORT	20		ORT Route 20	bus
+17821089	US:AR:Benton	298			road
+17832871	US:AR:Washington	904			ref
+17832872	US:AR:Washington	3804			road
+17832873	US:AR:Washington	3806			road
+17832874	US:AR:Washington	870			road
+17832875	US:AR:Washington	88			road
+17836395	US:AR:Washington	904			ref
+17841351	US:AR:Washington	2104			road
+17841352	US:AR:Washington	2103			road
+17841353	US:AR:Washington	891			road
+17841354	US:AR:Washington	892			road
+17841355	US:AR:Washington	54			road
+17841356	US:AR:Washington	893			road
+17841357	US:AR:Washington	90			road
+17841358	US:AR:Washington	883			road
+17841359	US:AR:Washington	887			road
+17841360	US:AR:Washington	2041			road
+17841361	US:AR:Washington	888			road
+17845638	lcn			Sulphur Creek Trail	bicycle
+17860003	lcn	AR 112		Garland Avenue Sidepath	bicycle
+17875801	lcn				bicycle
+17875802	lcn				bicycle
+17875803	lcn				bicycle
+17875804	lcn				bicycle
+17883304	lcn				bicycle
+17883305	lcn				bicycle
+17883306	lcn				bicycle
+17884102	lcn				bicycle
+17884297	lcn				bicycle
+17884298	lcn				bicycle
+17917225	lcn			Searcy Bike and Walking Trail	bicycle
+18022836	US:AR:Benton	576			road
+18022837	US:AR:Benton	577			road
+18022838	US:AR:Benton	576			road
+18022839	US:AR:Benton	574			road
+18039144	US:AR:Washington:Residential	3701			road
+18039145	US:AR:Washington	2026			road
+18039146	US:AR:Washington	893			road
+18039147	US:AR:Washington	90			road
+18039148	US:AR:Washington	84			road
+18039158	US:AR:Johnson	4100			road
+18039159	US:AR:Johnson:Private	3141			road
+18039160	US:AR:Johnson	3161			road
+18039161	US:AR:Johnson	3201			road
+18039162	US:AR:Johnson	3190			road
+18039163	US:AR:Johnson	3101			road
+18039164	US:AR:Johnson:Private	3095			road
+18039165	US:AR:Johnson	3080			road
+18039166	US:AR:Johnson	3078			road
+18039167	US:AR:Johnson	3081			road
+18039168	US:AR:Johnson	3151			road
+18039169	US:AR:Johnson	3060			road
+18181665	US:AR:Washington	27			road
+18182022	US:AR:Carroll	924			road
+18182023	US:AR:Carroll	920			road
+18182024	US:AR:Carroll	995			road
+18182025	US:AR:Carroll	5451			road
+18185976	US:AR:Benton	581			road
+18213499	US:AR:Carroll	912			road
+18213500	US:AR:Carroll	811			road
+18213501	US:AR:Carroll	914			road
+18214210	US:AR:Carroll	807			road
+18214211	US:AR:Carroll	809			road
+18214212	US:AR:Carroll	910			road
+18214532	US:AR:Carroll	805			road
+18214543	US:AR:Carroll	916			road
+18216174	US:AR:Carroll	813			road
+18216634	US:AR:Carroll	860			road
+18216635	US:AR:Carroll	204			road
+18216636	US:AR:Carroll	803			road
+18216677	US:AR:Carroll	902			road
+18216678	US:AR:Carroll	9021			road
+18218475	US:AR:Carroll	828			road
+18218476	US:AR:Carroll	802			road
+18218477	US:AR:Carroll	21			road
+18218569	US:AR:Carroll	938			road
+18219134	US:AR:Carroll	960			road
+18219190	US:AR:Carroll	659			road
+18219207	US:AR:Carroll	9062			road
+18219208	US:AR:Carroll	956			road
+18219209	US:AR:Carroll	906			road
+18320458	US:I	57	north	I 57 (AR)	road
+18320459	US:I	57	south		road
+18345543	lwn			Caddo Bend Trail	hiking
+18346205	lwn			Sunset Trail	hiking
+18346206	lwn			Gulpha Gorge Trail	hiking
+18346207	lwn			Oertel Trail	hiking
+18346208	lwn			Hot Springs Mountain Trail	hiking
+18346209	lwn			Goat Rock Trail	hiking
+18380214	lcn;lwn			Turtle Creek Track	bicycle;foot
+18380215	lcn;lwn			Craighead Forest Path	bicycle;foot
+18380216	lcn;lwn			AState Link	bicycle;foot
+18467561	lwn			Craighead Forest Lake Loop	foot
+18471508	US:AR:heritage_trail			Southwest Trail	road
+18504213	lwn			North Sylamore Creek Trail	hiking
+18507081	lwn			Buffalo River Trail	hiking
+18507317	lhn			Old River Trail	horse
+18511599	lwn			Mirror Lake Trail	hiking
+18514216	lwn			Ozarks Keystone Trail	hiking
+18546433	lcn			Razorback Greenway Detour (Phase 1 - 2025)	bicycle
+18613338	lcn	SNOW		Snowbird	mtb
+18613339	lcn	RH		Rabit Hole Loop	mtb
+18613340	lcn	AA-BV		All-American Bella Vista	mtb
+18613370	lcn	STS		Seed Tick Shuffle	mtb
+18613371	lcn	Fir		Firnas	mtb
+18613372	lcn			Boneyard Connector	mtb
+18613373	lcn	Milk		Milk Run	mtb
+18613374	lcn	Moo		Moo Moo	mtb
+18613375	lcn	Zep		Zeppelin	mtb
+18613379	lcn	TR		Thunder Rolls	mtb
+18613380	lcn	EsthersD		Ester's From the Dome	mtb
+18613381	lcn	HardWay		Hard Way to the Cafe	mtb
+18613382	lcn	Dirt		Dirt Therapy	mtb
+18640232	ORT	BRC		Bentonville-Rogers Connector (Eastbound)	bus
+18640233	ORT	BRC		Bentonville-Rogers Connector (Westbound)	bus
+18640288	ORT	14		Route 14	bus
+18640289	ORT	53		Route 53 (Southbound)	bus
+18640290	ORT	53		Route 53 (Northbound)	bus
+18640291	ORT	54		Route 54	bus
+18642390	ORT	12		Route 12 (Westbound)	bus
+18642391	ORT	12		Route 12 (Eastbound)	bus
+18644295	ORT	61		Route 61 (Southbound)	bus
+18687188	lcn;lwn			Craighead Forest Main Loop	bicycle;foot
+18702942	lwn			Habitats Trail	hiking
+18707524				Jack's Branch Loop	mtb
+18707525				Bad Branch Loop	mtb
+18707526				Scrappy Mountain	mtb
+18707527				Bald Scrappy Loop	mtb
+18707528				White River Bluff Loop	mtb
+18715642				Bad-juju	mtb
+18715643				Who Hash	mtb
+18715644				Monster-T	mtb
+18721004				Enders Fault North Loop	mtb
+18721005				Enders Fault South Loop	mtb
+18721006				Enders Fault	mtb
+18998593	ncn	251			bicycle
+19044056	US:I:Business:Loop	I 57 Business			road
+19051013	US:I:Business:Loop	I 57 Business			road
+19175357	US:AR:Washington	93			road
+19175358	US:AR:Washington	1132			road
+19175359	US:AR:Benton	609			road
+19175360	US:AR:Washington	91			road
+19175361	US:AR:Washington	575			road
+19175436	US:AR:Carroll	310			road
+19175472	US:AR:Carroll	2152			road
+19175473	US:AR:Carroll	215			road
+19175474	US:AR:Carroll	408			road
+19175475	US:AR:Carroll	404			road
+19175484	US:AR:Carroll	3082			road
+19175485	US:AR:Carroll	3084			road
+19298656	lwn			River Corridor Trail	hiking
+19366885				Womble Trail	mtb
+19412750				Devil's Den Trail	hiking
+19455451	lcn			path	mtb
+19559595	US:NHT			Trail of Tears National Historic Trail	
+19675094	lcn	Red		Bentonville Red Route	bicycle
+19710080				Abandoned interchange	road
+19745838	lcn	Green		Bentonville Green Route	bicycle
+19745857	lcn	Black		Bentonville Black Route	bicycle
+19793380	rcn			Delta Heritage Trail (Southern Corridor)	bicycle
+19793381	rcn			Delta Heritage Trail	
+19815894	lcn			Ferris Wheel	mtb
+19857448	JET	RW2		Red Wolf 2	bus
+19857641	JET	RW1		Red Wolf 1	bus
+19858045	JET	17		Central	bus
+19869689	JET	53		Northeast	bus
+19948058	US:I:Future	42	east		road
+19948059	US:I:Future	42	west		road
+19988448	US:US			"US 64 (AR, unsigned)"	road
+19988449	US:US	64		"US 64 (AR, defacto)"	road
+19988460	US:US			"US 61 (AR, unsigned)"	road
+19988461	US:US			"US 70 (AR, unsigned)"	road
+19988477	US:US			"US 79 (AR, unsigned)"	road
+19988478	US:AR			AR 77 (unsigned)	road
+19992414	US:US			"US 67 (AR, unsigned)"	road
+20033627	lcn			Lor-Axe West Loop	mtb
+20033631	lcn			Lor-Axe South Loop	mtb
+20044747	lwn			Wildlife Trail	hiking
+20044824	lwn			Hidden Pond Trail	foot
+20044832	lwn			Tonawanda Base Trail	hiking
+20045635	lwn			Summit Trail	hiking
+20045636	lcn			Vanguard Trail	mtb
+20054180	lwn			Bridal Veils Falls Trail	hiking
+20153309					road

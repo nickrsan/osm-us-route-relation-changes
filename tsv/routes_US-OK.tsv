@@ -1,0 +1,4252 @@
+@id	network	ref	direction	name	route
+69695	US:US:Alternate	69			road
+70405	US:US:Business	60			road
+76814	US:MO	76			road
+94008	US:KS	7			road
+139340	US:I	40	west		road
+228590	US:KS:Turnpike			Kansas Turnpike	road
+365568	US:TX:Spur	30		Texas State Highway Spur 30	road
+450419	US:US	62			road
+452037	US:US	266			road
+1202588	lcn			Creek Turnpike Trail	bicycle
+1202589	lcn			River Parks West Bank Trail	bicycle
+1202590	lcn			Mingo Trail	bicycle
+1202591	lcn			River Parks East Bank Trail	bicycle
+1203534	lcn			Jenks Aquarium Trail	bicycle
+1203621	lcn			KATY Trail	bicycle
+1203739	lcn			Liberty Parkway Trail	bicycle
+1203767	lcn			Tuckabache Trail	bicycle
+1203791	lcn			Newblock Park Trail	bicycle
+1203965	lcn			Osage Prairie Trail	bicycle
+1203977	lcn			River City Trail	bicycle
+1204120	lcn			Riverwalk Trail	bicycle
+1225838	US:TX	152			road
+1250814	US:I	44	east		road
+1250815	US:I	44	west		road
+1251959	US:OK	117A			road
+1319488	US:NHS High Priority Corridors			NHS High Priority Corridor 3	road
+1319490	US:NHS High Priority Corridors			NHS High Priority Corridor 8	road
+1322911	US:NHS High Priority Corridors			NHS High Priority Corridor 38	road
+1323042	US:NHS High Priority Corridors			NHS High Priority Corridor 51	road
+1379672	US:I		west	I 444 (westbound)	road
+1379674	US:I		east	I 444 (eastbound)	road
+1379699	US:I	244	west	"Martin Luther King, Junior Memorial Expressway"	road
+1379700	US:I	244	east	"Martin Luther King, Junior Memorial Expressway"	road
+1391290	US:TX	91			road
+1394448	US:AR	43			road
+1414913	US:TX	79			road
+1414956	lcn			Main Street Linkage	bicycle
+1414958	lcn			Archer Street	bicycle
+1414961	lcn				bicycle
+1414978	lcn			3rd-4th Bike Boulevard	bicycle
+1414979	lcn			Delaware Bike Boulevard	bicycle
+1415924	lcn			L L Tisdale Parkway Trail	bicycle
+1416546	lcn			Cherry Creek Trail	bicycle
+1416564	lcn			Skelly Bypass Trail	bicycle
+1416565	lcn			LaFortune Trail	bicycle
+1416567	lcn			Owasso-Mohawk Trail	bicycle
+1416586	lcn			Fry Creek Trail	bicycle
+1416603	lcn			36th Street Linkage Distributor	bicycle
+1416604	lcn			36th Street Linkage	bicycle
+1416605	lcn			56th Street Linkage	bicycle
+1420815				Boise City Subdivision	railway
+1421823	rcn	66		Historic Route 66 Bike Trail	bicycle
+1427184	lcn				bicycle
+1427199	lcn				bicycle
+1428042	lcn			Tulsa North/South Linkage	bicycle
+1428089	lcn				bicycle
+1428115	lcn			Avery Drive Linkage	bicycle
+1431040				Pratt Subdivision	railway
+1431146				Wagoner Subdivision	railway
+1431148				Cherokee Subdivision	railway
+1431430				Panhandle Subdivision	railway
+1440476	lcn				bicycle
+1440477	lcn				bicycle
+1451445				Red Rock Subdivision	railway
+1457803				Heavener Subdivision	railway
+1457805				Fort Smith Branch	railway
+1457807				Shreveport Subdivision	railway
+1458473				Duncan Subdivision	railway
+1458475				Choctaw Subdivision	railway
+1458515				Madill Subdivision	railway
+1481230	US:TX	37			road
+1491551	US:NM	410			road
+1492126	US:NM	456			road
+1550587	US:TX	33			road
+1567525	US:KS	1		KS 1	road
+1578058	US:KS	8S		KS 8 (South)	road
+1582092	rcn			Bicycle Western Oklahoma	bicycle
+1595200	US:I	40	west		road
+1628524	US:US	259			road
+1628528	US:US	283			road
+1628530	US:US	385			road
+1628532	US:US	281			road
+1628535	US:US	385			road
+1628537	US:US	287			road
+1628541	US:US	183			road
+1628542	US:US	277			road
+1628549	US:US	283			road
+1628550	US:US	385			road
+1628551	US:US	271			road
+1628558	US:US	283			road
+1628565	US:US	287			road
+1628567	US:US	377			road
+1629634	US:US	81			road
+1629641	US:US	70		US 70 (AR)	road
+1629672	US:US	59			road
+1629680	US:US	62			road
+1629687	US:US	70			road
+1629691	US:US	77	south		road
+1629694	US:US	60			road
+1629695	US:US	69	north		road
+1629703	US:US	81			road
+1629705	US:US	83			road
+1671845	US:OK	3	west		road
+1681604	US:TX	15			road
+1713231	US:AR	8			road
+1713310	US:AR	244			road
+1714666	US:AR	4			road
+1715515	US:AR	156			road
+1716076	US:AR	28			road
+1716144	US:AR	88			road
+1716216	US:AR	234			road
+1716232	US:AR	108			road
+1716234	US:AR	32			road
+1716236	US:AR	380			road
+1796340	US:US:Historic	66			road
+1796821	US:KS	66		KS 66	road
+1796822	US:US:Historic	66		Historic US 66 (KS)	road
+1937383	US:US:Alternate	169			road
+1937386	US:US:Alternate	75			road
+1941511	US:US:Business	271			road
+1941521	US:US:Business	59			road
+1941929	US:I:Business:Loop	40		"I 40 Business (Henryetta, OK)"	road
+1941931	US:US:Business	60			road
+1941932	US:US:Business	60			road
+1941939	US:US:Business	62			road
+1941940	US:US:Business	62			road
+1941941	US:US:Business	62			road
+1941944	US:US:Business	64			road
+1941946	US:US:Business	69			road
+1941948	US:US:Business	69			road
+1941952	US:US:Business	75			road
+1942176	US:US:Business	271			road
+1942177	US:US:Business	70			road
+1944101	US:US:Business	270			road
+1944102	US:US:Business	270			road
+1944103	US:US:Business	270			road
+1944105	US:US:Business	281			road
+1944297	US:US:Bypass	70			road
+1952603	local			City Ride Circuit	bus
+1952945	lcn			Joe Creek Trail	bicycle
+1965834	US:TX:FM	120			road
+1969130	US:TX:FM	338			road
+2063723	US:TX:FM	2586			road
+2090118					power
+2090119					power
+2090120					power
+2090121					power
+2096800					power
+2096801					power
+2182835	inland waterways	M 40		McClellan-Kerr Arkansas River Navigation System	boat
+2191267				Oklahoma River	boat
+2207000	lcn	fire department		Norwood Rural Volunteer Fire Department	bicycle
+2214819				Cherokee Subdivision	railway
+2234475	US:TX:FM	2677			road
+2248195	US:OK	70A			road
+2253246	US:OK	1			road
+2253836	US:OK	2			road
+2253879	US:OK	2			road
+2254050	US:OK	3W	west		road
+2254081	US:OK	3E	west		road
+2254522	US:OK:Turnpike		east	Cherokee Turnpike	road
+2255330	US:OK:Turnpike		west	Cherokee Turnpike	road
+2261344	US:OK:Turnpike	301		Chickasaw Turnpike	road
+2304453	US:US	59			road
+2307474	US:OK	130			road
+2308448	US:US	412			road
+2308449	US:US	412			road
+2309420	US:US	56			road
+2309421	US:US	56			road
+2310342	US:US	62			road
+2310348	US:US	64			road
+2310384	US:US	270			road
+2310386	US:US	270			road
+2310875	US:OK	76			road
+2319874					road
+2335783	US:I	35	north		road
+2335784	US:I	35	south		road
+2335811	US:I	35	north		road
+2335812	US:I	35	south		road
+2406356	US:I:Business:Loop	40		"I 40 Business (Weatherford, OK)"	road
+2409091	US:I:Business:Loop	40		"I 40 Business (Clinton, OK)"	road
+2409092	US:I:Business:Loop	40			road
+2409093	US:I:Business:Loop	40		"I 40 Business (Elk City, OK)"	road
+2409094	US:I:Business:Loop	40			road
+2416848	US:I:Business:Loop	40		"I 40 Business (Erick, OK)"	road
+2416849	US:US:Spur	281			road
+2838398	US:OK	4			road
+2840762	US:OK	4			road
+2840802	US:OK	5			road
+2845255	US:OK	5			road
+2845256	US:OK	5A			road
+2845257	US:OK	5B			road
+2845258	US:OK	5C			road
+2855448	US:OK	6			road
+2863164	US:OK	7A			road
+2863165	US:OK	7D			road
+2887865	US:OK	8			road
+2887866	US:OK	8B			road
+2887867	US:OK	8A		Roman Nose State Parkway	road
+2889070	US:OK:Business	9			road
+2890912	US:OK:Business	9			road
+2993896	US:TX:FM	1454			road
+2993908	US:TX:FM	2124			road
+2993913	US:TX:RM	2248		Ranch to Market Road 2248	road
+2993926	US:TX:FM	2741			road
+2993927	US:TX:RM	2758		Ranch to Market Road 2758	road
+3002997	lcn			Creek Turnpike Trail	bicycle
+3006413	US:OK	48			road
+3006577	US:OK	48A			road
+3013705	US:OK	20			road
+3081565	US:OK:Tulsa:Tulsa	LL		Reverend L. L. Tisdale Parkway	road
+3108517	US:OK	266			road
+3108562	US:OK	51		"42nd ""Rainbow"" Infantry Division Memorial Highway"	road
+3110246	US:OK	165			road
+3110314	US:OK	82			road
+3131307	US:OK	97			road
+3139345				Red Trail	mtb
+3139346	lwn			Red Trail	hiking
+3140234	US:OK	38			road
+3140247	US:OK	45			road
+3140248	US:OK	58			road
+3140257	US:OK	50			road
+3140272	US:OK	125			road
+3140273	US:OK	85			road
+3140274	US:OK	85A			road
+3140334	US:OK	34			road
+3147219	US:OK:Loop	56			road
+3149627	US:OK	16			road
+3177571				Blue Trail	mtb
+3177573	lwn			Blue Trail	hiking
+3177654	lcn			131st Street	bicycle
+3189327	US:OK:Turnpike		west	Turner Turnpike (west)	road
+3193554	US:OK	113			road
+3193555	US:OK	147			road
+3193556	US:OK	17A			road
+3193559	US:OK	33			road
+3193560	US:OK	49			road
+3193561	US:OK	58			road
+3193563	US:OK	93			road
+3221238		Green Route		Green Route	bus
+3221764	US:OK	22			road
+3221765	US:OK	31			road
+3221766	US:OK	31A			road
+3221767	US:OK	63			road
+3221768	US:OK	99		Veteran's Memorial Highway	road
+3221943	US:OK	43			road
+3221944	US:OK	71			road
+3221980		Purple Route		Purple Route	bus
+3222041	US:OK	136			road
+3222042	US:OK	15			road
+3222043	US:OK	171			road
+3222044	US:OK	23			road
+3222045	US:OK	325			road
+3222046	US:OK	46			road
+3222048	US:OK	94			road
+3222049	US:OK	95			road
+3223639	US:OK	98			road
+3223724	US:OK	36			road
+3223725	US:OK	53			road
+3223726	US:OK	54			road
+3223727	US:OK	65			road
+3223775	US:OK	55			road
+3234405	US:OK:Spur	7			road
+3245836	US:OK	74			road
+3245896	US:OK	37			road
+3250246	US:OK	44			road
+3250247	US:OK	54			road
+3250361	US:OK	146			road
+3283224	US:US:Historic	66			road
+3283241	US:US:Historic	66			road
+3283242	US:US:Historic	66			road
+3283243	US:US:Historic	66			road
+3284844	US:OK	151			road
+3286535	US:OK	9A			road
+3305460	US:OK	108			road
+3307852	US:OK	74E			road
+3309393	US:OK	104			road
+3309394	US:OK	51B			road
+3309395	US:OK	72			road
+3315963	US:OK	51A			road
+3319405	lcn			7th Street	bicycle
+3319406	lcn			Highland Avenue	bicycle
+3319407	lcn			Monument Road	bicycle
+3321374	lcn	1		Centennial Trail	bicycle
+3321434	lcn	22		East Side Boulevard Linkage	bicycle
+3321451		24		Arline-Elgin Linkage	bicycle
+3321452	lcn	25		Broadway Street Linkage	bicycle
+3329435	US:OK:Turnpike		east	Will Rogers Turnpike	road
+3329436	US:OK:Turnpike		west	Will Rogers Turnpike	road
+3368229	US:OK:Turnpike		east	Cimarron Turnpike (eastbound)	road
+3368230	US:OK:Turnpike		west	Cimarron Turnpike (westbound)	road
+3385569	US:OK	91			road
+3385642	US:OK	131			road
+3445472	US:OK	10			road
+3445473	US:OK	28			road
+3495746	US:OK	127			road
+3496474	lcn			Enid Trail System	bicycle
+3504711	US:OK	412B			road
+3504712	US:OK	412A			road
+3504716	US:OK	281A			road
+3504717	US:OK	271A			road
+3504722	US:OK	270			road
+3504746	US:OK	251A			road
+3504749	US:OK	209			road
+3504799	US:OK	167			road
+3504809	US:OK	166			road
+3504933	US:OK	164			road
+3504939	US:OK	162			road
+3504960	US:OK	156			road
+3504961	US:OK	153			road
+3505013	US:OK	150			road
+3505019	US:OK	149			road
+3505033	US:OK	145			road
+3505062	US:OK	144			road
+3505133	US:OK	142			road
+3505176	US:OK	141			road
+3505186	US:OK	137			road
+3505217	US:OK	135			road
+3505220	US:OK	133			road
+3505222	US:OK	132			road
+3506752	US:OK	128			road
+3506780	US:OK	123			road
+3506785	US:OK	120			road
+3506788	US:OK	117			road
+3506793	US:OK	116			road
+3506804	US:OK	115			road
+3506910	US:OK	112			road
+3506953	US:OK	110			road
+3506971	US:OK	109			road
+3507050	US:OK	105			road
+3508834	US:OK	102			road
+3508931	US:OK	101			road
+3508948	US:OK	100			road
+3518636	US:OK	99A			road
+3518658	US:OK	99A			road
+3518683	US:OK	99B			road
+3518686	US:OK	99C			road
+3518721	US:OK	96			road
+3518864	US:OK	92			road
+3518870	US:OK	92			road
+3518954	US:OK	89			road
+3519022	US:OK	88			road
+3519155	US:OK	87			road
+3519172	US:OK	86			road
+3520623	US:OK	84			road
+3520629	US:OK	83			road
+3520724	US:OK	82			road
+3523916	US:OK	82A			road
+3523973	US:OK	80			road
+3523976	US:OK	80A			road
+3523978	US:OK	79			road
+3523983	US:OK	78			road
+3537459	US:OK	15			road
+3544344	US:OK	74B			road
+3544351	US:OK	74C			road
+3544356	US:OK	74D			road
+3544392	US:OK	74F			road
+3544401	US:OK	73			road
+3544504	US:OK	70A			road
+3544519	US:OK	70B			road
+3544571	US:OK	70D			road
+3544578	US:OK	70E			road
+3546514	US:OK	69A			road
+3546560	US:OK	69A			road
+3546575	US:OK	67			road
+3546777	US:OK	66B			road
+3546872	US:OK	64B			road
+3546873	US:OK	64D			road
+3548660	US:OK	63A			road
+3552640	lcn	Kameoka		Kameoka Trail	bicycle
+3552641		Red Trail		Lake McMurtry Red Trail	mtb
+3552643		Yellow		Lake McMurtry Yellow Trail	mtb
+3552648				Lake McMurtry Blue Route	mtb
+3552657	lwn				hiking
+3561445	US:OK	59			road
+3561484	US:OK	59B			road
+3561485	US:OK	59A			road
+3563293	US:OK	58A			road
+3571442	US:OK	56			road
+3576729	US:OK	54A			road
+3576730	US:OK	54B			road
+3581452	US:OK	52			road
+3581508	US:OK:Spur	51			road
+3581545	US:OK	50B			road
+3581546	US:OK	50A			road
+3597736	US:OK	47			road
+3597737	US:OK	47A			road
+3597993	US:OK	44A			road
+3600757	US:OK	42			road
+3600828	US:OK	39			road
+3604028	US:OK	37			road
+3632353	US:OK	34C			road
+3632355	US:OK	34B			road
+3639051	US:OK	32			road
+3647620	US:OK	10A			road
+3647621	US:OK	77S			road
+3647622	US:OK	77S			road
+3647623	US:OK	77S			road
+3647624	US:OK	9A			road
+3647625	US:OK	9A			road
+3647722	US:OK	10C			road
+3647753	US:OK	11A			road
+3647991	US:OK	14			road
+3649879	US:OK	31B			road
+3649890	US:OK	30			road
+3650855	US:OK	17			road
+3651350	US:OK	18B			road
+3652359	US:OK	18A			road
+3652386	US:OK	29			road
+3652438	US:OK	29A			road
+3652687	US:OK	28A			road
+3653334	US:OK	27			road
+3653381	US:OK	26			road
+3653438	US:OK	25			road
+3653449	US:OK	25			road
+3669802	US:OK	19C			road
+3669969	US:OK	19D			road
+3670085	US:OK	24			road
+3672357	US:MO:Supplemental	O			road
+3672484	US:OK:Truck	33			road
+3672506	US:OK	35			road
+3672515	US:OK	40A			road
+3697678		1A		Hatbox Loop Connection	bicycle
+3704225				Robison Park Trail	foot
+3778347	lcn			Hatbox loop connection	bicycle
+3797694	US:I	235	north		road
+3797695	US:I	235	south		road
+3802971	US:I	240	east		road
+3802972	US:I	240	west		road
+3838499	rwn	OT		Ouachita National Recreation Trail	hiking
+3838875				"Beaver, Meade and Englewood Railroad"	railway
+3838941				"Chicago, Rock Island and Pacific Railroad"	railway
+3840826	lcn			John Hope Franklin Bike Boulevard	bicycle
+3840999				"Enid, Oklahoma to Frederick, Oklahoma"	railway
+3841010				Farmrail Railroad	railway
+3841012				"Clinton, Oklahoma to Elmer, Oklahoma"	railway
+3842962					railway
+3843638				Arkansas-Oklahoma Railroad	railway
+3844731					railway
+3845049					railway
+3845050				AT&L	railway
+3845051				Oklahoma City Subdivision	railway
+3845079				Oklahoma City Subdivision	railway
+3846855				"Chicago, Rock Island and Pacific Railroad"	historic
+3899669	US:OK	77H		Pearl Harbor/USS Oklahoma Memorial Highway	road
+4069015	US:I	44	east		road
+4069016	US:I	44	west		road
+4069017	US:I	44	east		road
+4069018	US:I	44	west		road
+4098558				Meridian Technology Trail	foot
+4117702	US:OK	364	west		road
+4222204		Scarlet Route		Scarlet Route	bus
+4222205		Blue Route		Blue Route	bus
+4222206	The Bus	Brown Route		Brown Route	bus
+4222207		Black_North Route		Black North Route	bus
+4222208		Gold Route		Gold Route	bus
+4222209		Gray Route		Gray Route	bus
+4222210		Gray_Summer Route		Gray_Summer Route	bus
+4222211		Orange Route		Orange Route	bus
+4222212	The Bus	White Route		White Route	bus
+4251992	lcn				bicycle
+4654208				7th Street linkage	bicycle
+4664761				Quartz Mountain	hiking
+4677571	lwn			Orange Route	hiking
+5339276	lcn			Norman Bike Route	bicycle
+5339585	US:OK	259A			road
+5373084	lcn			Proposed Norman Bicycle Route	bicycle
+5381532		110		Main Street	bus
+5384785		120		West Norman Link	bus
+5384996		112		Lindsey West	bus
+5385522		111		Lindsey East	bus
+5385570		121		Alameda/E. Norman	bus
+5386861	CART	32		Apartment Loop	bus
+5386940	CART	40		Lloyd Noble Center Shuttle	bus
+5387592	CART	42		Research Route	bus
+5387838	CART	52		Campus Loop	bus
+5387889	CART	43		Lloyd Noble and Research	bus
+5501457	lcn				bicycle
+5549607	lcn				bicycle
+5559331	US:I	40	east	Purple Heart Trail	road
+5559332	US:I	40	west	Purple Heart Trail	road
+5747234	US:OK	51C			road
+5827680	US:I:Business:Loop	40		"Interstate 40 Business (Sallisaw, Oklahoma)"	road
+6080335	US:OK:Turnpike		north	Harry E. Bailey Turnpike (north)	road
+6080336	US:OK:Turnpike		south	Harry E. Bailey Turnpike (south)	road
+6080337	US:OK:Turnpike		east	Harry E. Bailey Turnpike Spur (east)	road
+6080338	US:OK:Turnpike		west	Harry E. Bailey Turnpike Spur (west)	road
+6102636	US:OK:Turnpike		east	Turner Turnpike (east)	road
+6225940	lcn				bicycle
+6289410				Lake McMurtry Green Trail	mtb
+6315541				Cameron Connector	bicycle
+6315542	lcn			Elmer Thomas Connector	bicycle
+6315543	lcn			Elmer Thomas Park Loop	bicycle
+6315544	lcn			Fort Sill Extension	bicycle
+6315545	lcn			McClung to Post Extension	bicycle
+6315546	lcn			Rock Island Connector	bicycle
+6370352		Sandborn Lake		Sandborn Lake Trail	"mtb,_foot,_hiking,_fitness_trail,"
+6403693	lcn			18th and Yorktown Linkage	bicycle
+6477408	lcn			Bently Park Trail	bicycle
+6477590	lcn				bicycle
+6548954	lcn	Lakeview		Lakeview Trail	bicycle
+6548999	US:US	54	east		road
+6549000	US:US	54	west		road
+6549195	US:US	75	north		road
+6549197	US:US	75	south		road
+6550439	US:US:Historic	66			road
+6554137	lwn	Orange Trail		Orange Trail	foot
+6554138	lwn	White Trail		White Trail	hiking
+6650746				Norman Public Paths	
+6688113	lwn			Original Loop	mtb
+6720995					power
+6720996					power
+6720997					power
+6721089					power
+6721090					power
+6721091					power
+6721092					power
+6843509	US:I	40	east		road
+6972032	lcn			56th Street Linkage (Church Spur)	bicycle
+7021942					power
+7021943					power
+7021944					power
+7021945					power
+7021953					power
+7092146	lcn			Jenks Riverwalk	bicycle
+7092279	lcn			South Elm Street	road
+7092280	lcn			West 101st South Street	bicycle
+7092339	lcn			West 103rd South Street	road
+7092358	lcn				bicycle
+7092962	lcn			Western Trail	bicycle
+7113511	US:US	69	south		road
+7210002	lcn			Spirit Trails	bicycle
+7228819	US:US	169	north		road
+7228820	US:US	169	south		road
+7251917	US:OK	364	east		road
+7285478	lcn			Lake Stanley Draper Trail	bicycle
+7291076	lcn			South Grand Trail	bicycle
+7303465	lcn			"Martin Luther King, Junior Linkage"	bicycle
+7304519	lcn			4th Street Linkage	bicycle
+7307000	lcn			Lake Overholser (East) Trail	bicycle
+7307001	lcn			West River Trail	bicycle
+7307002	lcn			Hefner-Overholser Trail	bicycle
+7307003	lcn			Bert Cooper Trails	bicycle
+7315499	lcn			KATY Trail	bicycle
+7315508	lcn	ORT		Oklahoma River Trail	bicycle
+7315727	lcn			Eagle Lake Trail	bicycle
+7324342	lcn			Tinker/Draper Trail	bicycle
+7403379				Chickasha Subdivision	railway
+7403380				Chickasha Subdivision	railway
+7430406	lcn			North Peoria Avenue East	bicycle
+7454974				Avard Subdivision	railway
+7479404	US:OK	19	east		road
+7479405	US:OK	19	west		road
+7480153				Kiamichi Railroad	railway
+7480329	US:US	277	north		road
+7480330	US:US	277	south		road
+7480390	US:US	281	north		road
+7480391	US:US	281	south		road
+7489414	lcn			Washington County Bikeway	bicycle
+7499713	US:US	64	east		road
+7499714	US:US	64	west		road
+7502790	US:OK	9	east		road
+7502791	US:OK	9	west		road
+7507551	US:OK	66	east		road
+7507587	US:OK	66	west		road
+7524523				Enid Subdivision	railway
+7524690				Wagoner Subdivision	railway
+7524753					railway
+7600948	lcn				bicycle
+7606255	lcn			Northeast 6th Street	bicycle
+7616711	lcn			Hefner Road	bicycle
+7618786	lcn			Mickey Mantle Drive	bicycle
+7621529	lcn			4th Street	bicycle
+7625779	lcn			Broadway Extension	bicycle
+7637667				California Avenue	bicycle
+7637799	lcn			Sheridan Avenue	bicycle
+7637801	lcn			Walker Avenue	bicycle
+7637808	lcn			Main Street	bicycle
+7637814	lcn			5th Street	bicycle
+7652569	lcn			Agnew-Villa Bike Route	bicycle
+7657088	lcn			36th Street	bicycle
+7657643	lcn			Lindsey Street	bicycle
+7670086				Guthrie to Chandler	railway
+7671442				Guthrie to Fairmont	railway
+7672071				Northwestern District	railway
+7672636	lcn			South Central Avenue	bicycle
+7675564	First Capitol Trolley			Guthrie-Langston Shuttle	bus
+7706345				Walters Branch	railway
+7706625				Lawton Branch	railway
+7706905				Bridgeport to Andarko	railway
+7707099				Mangum Line	railway
+7707286				Midland Valley Railroad	railway
+7708778				Enid to Arkansas City	railway
+7712038	lcn			Rock Creek Road	bicycle
+7741235	lcn			Robinson Avenue	bicycle
+7741331	lcn			Oklahoma Avenue	bicycle
+7745753	lcn			Cameron to Post Connector	bicycle
+7745782	lcn			Saint Louis Avenue	bicycle
+7745836	lcn			Lake Hefner/Grand Boulevard Trail	bicycle
+7750711	lcn			Bryant Avenue	bicycle
+7750718	lcn			Shartel Avenue	bicycle
+7750814	lcn			Harvey Avenue	bicycle
+7753338	lcn			Dean A McGee Avenue	bicycle
+7755126	lcn			12th Street	bicycle
+7755127	lcn			Indiana Avenue	bicycle
+7765393	lcn			18th Street/Shartel Avenue	bicycle
+7767800	lcn			111th Street	bicycle
+7781628				El Reno Heritage Express	tram
+7803426	lcn			Old Lakeshore Drive	bicycle
+7820538	lcn			Lakeview Drive	bicycle
+8033836	US:US	77	north		road
+8040032	lcn			MLK/Eastern	bicycle
+8055165	US:OK:Turnpike		west	John Kilpatrick Turnpike	road
+8055166	US:OK:Turnpike		east	John Kilpatrick Turnpike	road
+8080142	lcn			Tulsa Avenue	bicycle
+8126246	lcn			15th Street	bicycle
+8126247	lcn			High Avenue	bicycle
+8166768	lcn			Zeigler Park Trail	bicycle
+8166792	lcn			North 43rd West Avenue	bicycle
+8166808	lcn			South 54th West Avenue	bicycle
+8166955	lcn			Highway 97 Bridge Trail	bicycle
+8166964	lcn			River Parks Linkage	bicycle
+8166965	lcn			West 23rd Linkage	bicycle
+8167041	lcn			North 38th West Avenue	bicycle
+8167078	lcn			Sand Springs Lake Trail	bicycle
+8192153	lcn			Grand Boulevard	bicycle
+8210442	US:OK	74	south		road
+8210443	US:OK	74	north		road
+8244815	lcn			Lake Hefner Drive	bicycle
+8272342	US:OK	11	west		road
+8272343	US:OK	11	east		road
+8293399	US:US	271	north		road
+8293400	US:US	271	south		road
+8305546	US:US	177	north		road
+8305547	US:US	177	south		road
+8332500	US:OK	351	west	Muskogee Turnpike	road
+8332501	US:OK	351	east	Muskogee Turnpike	road
+8333394	US:OK	70F			road
+8335781	US:OK	3	east		road
+8335782	US:OK	3E	east		road
+8335783	US:OK	3W	east		road
+8335784	US:OK	3	east		road
+8335791	US:OK	3	west		road
+8335863	US:OK:Turnpike		south	Indian Nation Turnpike (southbound)	road
+8335864	US:OK:Turnpike		north	Indian Nation Turnpike (northbound)	road
+8340831	US:US:Business	69	north		road
+8340832	US:US:Business	69	south		road
+8415609					power
+8415610					power
+8415611					power
+8415612					power
+8415613					power
+8415614					power
+8415615					power
+8415616				Neosho - Delaware	power
+8428268				Hunter - Woodring	power
+8428269				Sooner - Woodring	power
+8428273					power
+8428274				Sooner - Rose Hill south	power
+8428275					power
+8428278					power
+8443645	US:OK	7	west		road
+8443646	US:OK	7	east		road
+8498549	ncn	66		66 (Kansas)	bicycle
+8503473	lcn			East 31st Street	bicycle
+8538711				Durant to Denison	railway
+8671836	US:OK:Osage	5501			road
+8671837	US:OK:Osage	5511			road
+8671838	US:OK:Osage	5245			road
+8671839	US:OK:Osage	5511			road
+8671840	US:OK:Osage	2130			road
+8717985	US:OK	199	west		road
+8717986	US:OK	199	east		road
+8732523					pipeline
+8739434	US:OK:Comanche	CR E1740			road
+8739435	US:OK:Comanche	E1750			road
+8739436	US:OK:Comanche	E1770			road
+8739437	US:OK:Cotton	E1780			road
+8739438	US:OK:Cotton	N2580			road
+8739439	US:OK:Cotton	N2600			road
+8739440	US:OK:Cotton	N2610			road
+8740558	US:OK:Garfield	E0310			road
+8740559	US:OK:Garfield	E0360			road
+8740560	US:OK:Garfield	E0370			road
+8740561	US:OK:Garfield	E0380			road
+8740562	US:OK:Garfield	E0320			road
+8740563	US:OK:Garfield	E0325			road
+8740564	US:OK:Garfield	E0330			road
+8740565	US:OK:Garfield	E0340			road
+8740566	US:OK:Garfield	E0350			road
+8741285	US:OK:Garfield	N2850			road
+8741286	US:OK:Grant	E0250			road
+8741287	US:OK:Grant	E0260			road
+8741288	US:OK:Grant	N2930			road
+8741290	US:OK:Grant	E0270			road
+8741291	US:OK:Grant	N2910			road
+8741292	US:OK:Grant	E0280			road
+8741293	US:OK:Grant	N2900			road
+8741294	US:OK:Grant	N2890			road
+8741295	US:OK:Garfield	E0290			road
+8741296	US:OK:Garfield	N2870			road
+8741297	US:OK:Garfield	N2860			road
+8741881	US:OK:Grant	750			road
+8741882	US:OK:Grant	760			road
+8741883	US:OK:Grant	770			road
+8741884	US:OK:Grant	780			road
+8741885	US:OK:Grant	790			road
+8741887	US:OK:Grant	800			road
+8741888	US:OK:Grant	810			road
+8741889	US:OK:Grant	820			road
+8741890	US:OK:Grant	830			road
+8741891	US:OK:Grant	840			road
+8741892	US:OK:Grant	860			road
+8741893	US:OK:Grant	870			road
+8741894	US:OK:Grant	N2880			road
+8741910	US:OK:Alfalfa	E0180			road
+8741911	US:OK:Alfalfa	740			road
+8741912	US:OK:Alfalfa	E0210			road
+8755950					power
+8758919					power
+8758920				Lawton Eastside - Oklaunion	power
+8758921				Lawton Eastside - Sunnyside	power
+8758922				Pittsburg - Sunnyside 345kV	power
+8758923					power
+8758924					power
+8758925					power
+8758926					power
+8758927					power
+8758952					power
+8803640				Afton Subdivision	railway
+8810771					railway
+8816479					railway
+9045335	US:OK	412P			road
+9050808	US:US:Alternate	412	west		road
+9050809	US:US:Alternate	412	east		road
+9142249	US:OK	152	west		road
+9142250	US:OK	152	east		road
+9161443	Amtrak	Heartland Flyer		Amtrak Heartland Flyer: Oklahoma City => Fort Worth	train
+9161444	Amtrak	Heartland Flyer		Amtrak Heartland Flyer: Fort Worth => Oklahoma City	train
+9370681	lcn				bicycle
+9391297					railway
+9470177					railway
+9470178					railway
+9472480				Waldron Branch	railway
+9480216					railroad
+9526062				Avard Subdivision (2nd)	railway
+9539681					railway
+9585195					railway
+9696217	US:US	69	north		road
+9696218	US:US	69	south		road
+9717718	lwn			Old Military Road Trail	hiking
+9724073	lcn			Will Rogers Trail	bicycle
+10104369	lcn			Main Street	bicycle
+10223874	lcn			Union Avenue	bicycle
+10223878	lcn			Southwest Boulevard	bicycle
+10420994	lcn			Lake Draper Trail	bicycle
+10429024	lcn			Bomber Trail	bicycle
+10433877	lcn			Oklahoma Greenway Trail (Preliminary)	bicycle
+10459392	lcn			Southeast 29th St Trail	bicycle
+10632022				Lake McMurtry Orange Trail	mtb
+10745604	US:OK:Muskogee	E0780			road
+10745605	US:OK:Muskogee	E0790			road
+10745606	US:OK:Muskogee	N4320			road
+10745607	US:OK:Muskogee	N4310			road
+10745608	US:OK:Muskogee	N4300			road
+10745609	US:OK:Muskogee	E0770			road
+10745610	US:OK:Muskogee	E0750			road
+10745611	US:OK:Muskogee	E0748			road
+10745612	US:OK:Muskogee	E760			road
+10745613	US:OK:Grady	2760			road
+10745614	US:OK:Caddo	N2750			road
+10745615	US:OK:Caddo	E1330			road
+10745616	US:OK:Caddo	N2740			road
+10745620	US:OK:Caddo	E1470			road
+10745621	US:OK:Caddo	N2680			road
+10745622	US:OK:Caddo	E1480			road
+10745623	US:OK:Caddo	N2610			road
+10745624	US:OK:Caddo	E1190			road
+10745625	US:OK:Caddo	N2620			road
+10745626	US:OK:Caddo	N2630			road
+10745627	US:OK:Caddo	N2640			road
+10745628	US:OK:Caddo	E1180			road
+10745629	US:OK:Caddo	N2650			road
+10745630	US:OK:Cotton	E1900			road
+10745631	US:OK:Cotton	E1880			road
+10745632	US:OK:Cotton	N2570			road
+10745637	US:OK:Osage	5005			road
+10745686	US:OK:Muskogee	E0960			road
+10745736	US:OK:Seminole	N3550			road
+10745737	US:OK:Seminole	N3560			road
+10745738	US:OK:Seminole	E1370			road
+10745739	US:OK:Seminole	E1380			road
+10745753	US:OK:Seminole	E1350			road
+10745754	US:OK:Seminole	E1360			road
+10749694	US:OK:Adair	E0590			road
+10749695	US:OK:Adair	E0594			road
+10749696	US:OK:Adair	E0601			road
+10749697	US:OK:Adair	N4738			road
+10749698	US:OK:Adair	E0617			road
+10749699	US:OK:Adair	N4740			road
+10749700	US:OK:Adair	E0638			road
+10751398		2		Coltrane	bus
+10751450				003 - N KELLY	bus
+10751451				003 - N KELLY	bus
+10751700		5		Memorial Rd	bus
+10752440	US:OK:Canadian	N2830			road
+10754334	COTPA	7		N MAY	bus
+10754545		8		N Penn/NW 63	bus
+10755595		9		W Reno Crosstown	bus
+10755626	COTPA	10		N Portland	bus
+10760327	COTPA	11		29 Crosstown	bus
+10760481	COTPA	12		S May	bus
+10760564	COTPA	13		S Western/I-240	bus
+10760687	COTPA	13N		S Western	bus
+10777538				South Shartel Avenue	road
+10779129	COTPA	14		SE Bryant	bus
+10780871		15		Midwest City	bus
+10781279	COTPA	16		S Penn	bus
+10781352	COTPA	18		Lincoln	bus
+10786666	COTPA	19		Spencer	bus
+10786716	COTPA	22		Martin Luther King	bus
+10786748	COTPA	23		23 Crosstown	bus
+10788215	COTPA	23N		23 Crosstown Night	bus
+10789961	COTPA	24		Norman Express	bus
+10790069	COTPA	38		NW 10 Crosstown	bus
+10790103	COTPA	40		S Walker	bus
+10790166	COTPA	050		CIRC	bus
+10807408	US:OK:McCurtain	N4660			road
+10807554	US:OK:LeFlore	D1600			road
+10807591	US:OK:Pushmataha	D4235			road
+10807755	US:OK:Custer	N2380			road
+10807756	US:OK:Custer	E0880			road
+10807757	US:OK:Custer	N2370			road
+10809505	COTPA	124		Sooner Express	bus
+10811203	US:OK:Adair	D4668			road
+10811204	US:OK:Adair	D4675			road
+10811205	US:OK:Adair	D4673			road
+10817738	US:OK:Woodward	E0410			road
+10817739	US:OK:Woodward	E0420			road
+10817764	US:OK:Logan	62			road
+10819909	US:OK:Stephens	N2970			road
+10819910	US:OK:Stephens	N2960			road
+10819911	US:OK:Stephens	N2930			road
+10819912	US:OK:Stephens	N2940			road
+10819913	US:OK:Stephens	N2920			road
+10819914	US:OK:Stephens	N2910			road
+10819915	US:OK:Stephens	N2905			road
+10819916	US:OK:Stephens	N2890			road
+10819917	US:OK:Stephens	N2880			road
+10819918	US:OK:Stephens	N2870			road
+10819919	US:OK:Stephens	N2900			road
+10834111	US:OK:Dewey	E0610			road
+10834112	US:OK:Dewey	N2300			road
+10834113	US:OK:Dewey	E0620			road
+10834114	US:OK:Dewey	N2310			road
+10834115	US:OK:Dewey	N2320			road
+10834116	US:OK:Dewey	N2330			road
+10834117	US:OK:Dewey	E0650			road
+10834118	US:OK:Dewey	N2350			road
+10834119	US:OK:Dewey	E0660			road
+10834120	US:OK:Dewey	N2340			road
+10834121	US:OK:Dewey	E0640			road
+10852682	US:OK:Wagoner	N4200			road
+10852683	US:OK:Wagoner	N4210			road
+10852686	US:OK:Wagoner	N4240			road
+10852687	US:OK:Wagoner	N4260			road
+10852688	US:OK:Wagoner	N4270			road
+10852689	US:OK:Wagoner	N4280			road
+10853080	US:OK:Creek	E0760			road
+10853101	US:OK:Creek	N3710			road
+10854058	US:OK:Grady	2890			road
+10854184	US:OK:Wagoner	E0780			road
+10854185	US:OK:Wagoner	E0770			road
+10854186	US:OK:Wagoner	N4140			road
+10854187	US:OK:Wagoner	E0750			road
+10854188	US:OK:Wagoner	N4170			road
+10855676	US:OK:Mayes	E0530			road
+10855677	US:OK:Mayes	N4260			road
+10855678	US:OK:Mayes	N4270			road
+10855679	US:OK:Mayes	N4280			road
+10855680	US:OK:Mayes	N4290			road
+10855681	US:OK:Mayes	N4300			road
+10856958	US:OK:Mayes	N4270			road
+10856959	US:OK:Mayes	N4260			road
+10856960	US:OK:Mayes	E0370			road
+10856961	US:OK:Rogers	E0370			road
+10856974	US:OK:Grady	N2920			road
+10856975	US:OK:Grady	N2930			road
+10856976	US:OK:Grady	N2940			road
+10856977	US:OK:Grady	E1170			road
+10857223	US:OK:Pottawatomie	E1170			road
+10857224	US:OK:Pottawatomie	E1200			road
+10857225	US:OK:Pottawatomie	E1210			road
+10857226	US:OK:Pottawatomie	E1230			road
+10857227	US:OK:Pottawatomie	E1240			road
+10857228	US:OK:Pottawatomie	E1250			road
+10857229	US:OK:Pottawatomie	E1260			road
+10857230	US:OK:Pottawatomie	E1265			road
+10857234	US:OK:Rogers	E0320			road
+10857235	US:OK:Rogers	E0300			road
+10857236	US:OK:Rogers	E3100			road
+10857237	US:OK:Rogers	E0320			road
+10857238	US:OK:Rogers	E0330			road
+10857239	US:OK:Rogers	E0340			road
+10857240	US:OK:Rogers	S4120			road
+10857241	US:OK:Rogers	E0350			road
+10857245	US:OK:Rogers	E0390			road
+10857389	US:OK:Rogers	E0460			road
+10857390	US:OK:Rogers	E0470			road
+10857391	US:OK:Rogers	E0480			road
+10857392	US:OK:Rogers	E0520			road
+10857393	US:OK:Rogers	S4230			road
+10857813	US:OK:Mayes	N4260			road
+10857814	US:OK:Mayes	N4270			road
+10857815	US:OK:Mayes	N4280			road
+10857816	US:OK:Mayes	N4282.5			road
+10857817	US:OK:Mayes	N4290			road
+10857818	US:OK:Mayes	N4300			road
+10857819	US:OK:Mayes	E0430			road
+10857820	US:OK:Mayes	N4310			road
+10865474	US:OK:Rogers	S4195			road
+10865475	US:OK:Rogers	S4190			road
+10865476	US:OK:Rogers	S4180			road
+10865477	US:OK:Rogers	S4170			road
+10865478	US:OK:Rogers	S4160			road
+10865479	US:OK:Rogers	E0580			road
+10865511	US:OK:Noble	E53			road
+10865512	US:OK:Payne	E0540			road
+10865514	US:OK:Payne	E0560			road
+10865515	US:OK:Payne	E0570			road
+10865516	US:OK:Payne	E0580			road
+10865517	US:OK:Payne	N3320			road
+10867064	US:OK:Nowata	E4230			road
+10867065	US:OK:Nowata	E0280			road
+11035537	US:OK:Carter	N3300			road
+11035678	US:OK:Canadian	N2870			road
+11038715	US:US:Business	81	south		road
+11038716	US:US:Business	81	north		road
+11038719	US:OK:Grady	E1530			road
+11038721	US:OK:Grady	N2820			road
+11038722	US:OK:Grady	E1550			road
+11038723	US:OK:Grady	E1560			road
+11038724	US:OK:Grady	E1570			road
+11038725	US:OK:Grady	E1580			road
+11038726	US:OK:Grady	E1590			road
+11038727	US:OK:Grady	E1600			road
+11038728	US:OK:Stephens	E1610			road
+11041365				Clinton and Oklahoma Western Railway	railway
+11045233	US:OK:Marshall	N3570			road
+11045264	US:OK:Carter	N3220			road
+11045568	US:OK:Sequoyah	E1110			road
+11045569	US:OK:Sequoyah	N4810			road
+11045570	US:OK:Sequoyah	N4780			road
+11045573	US:OK:Sequoyah	N4770			road
+11045574	US:OK:Sequoyah	N4760			road
+11045575	US:OK:Sequoyah	N4750			road
+11046120	US:OK:Delaware	S520			road
+11046121	US:OK:Delaware	S510			road
+11046122	US:OK:Delaware	CR E0550			road
+11046123	US:OK:Delaware	S507			road
+11046124	US:OK:Delaware	N4500			road
+11046125	US:OK:Delaware	S490			road
+11046126	US:OK:Mayes	N4485			road
+11046127	US:OK:Mayes	N4480			road
+11046128	US:OK:Mayes	N4470			road
+11046129	US:OK:Mayes	N4460			road
+11046130	US:OK:Mayes	N4450			road
+11046131	US:OK:Mayes	N4440			road
+11046132	US:OK:Mayes	E0550			road
+11046133	US:OK:Mayes	N4430			road
+11046134	US:OK:Mayes	N4425			road
+11046135	US:OK:Mayes	N4420			road
+11046136	US:OK:Mayes	N4410			road
+11046137	US:OK:Mayes	N4400			road
+11046138	US:OK:Mayes	N4392			road
+11046139	US:OK:Mayes	N4390			road
+11046140	US:OK:Mayes	N4380			road
+11046141	US:OK:Mayes	N4370			road
+11046142	US:OK:Mayes	D0582			road
+11046143	US:OK:Mayes	E0570			road
+11061671	US:OK:Canadian	E0890			road
+11061746	US:OK:Pontotoc	E1585			road
+11061747	US:OK:Pontotoc	E1590			road
+11061748	US:OK:Pontotoc	E1600			road
+11061749	US:OK:Pontotoc	E1610			road
+11101987	US:OK:Alfalfa	E0340			road
+11101988	US:OK:Alfalfa	E0350			road
+11101989	US:OK:Alfalfa	E0360			road
+11101990	US:OK:Alfalfa	N2730			road
+11101991	US:OK:Alfalfa	E0370			road
+11101992	US:OK:Alfalfa	N2750			road
+11101993	US:OK:Garfield	N2760			road
+11101994	US:OK:Garfield	N2770			road
+11101995	US:OK:Garfield	N2780			road
+11101996	US:OK:Garfield	N2790			road
+11111064	US:OK:Mayes	E0580			road
+11111288	US:OK:Mayes	E0360			road
+11138623	US:OK:Mayes	E0430			road
+11138645	US:OK:Wagoner	N4260			road
+11138718	US:OK:Rogers	E0340			road
+11138719	US:OK:Rogers	E0350			road
+11138720	US:OK:Rogers	S4210			road
+11138736	US:OK:Osage	2131			road
+11138737	US:OK:Osage	3425			road
+11138757	US:OK:Osage	2365			road
+11139536	US:OK:Osage	2470			road
+11139537	US:OK:Osage	2401			road
+11139915	US:OK:Rogers	S4110			road
+11139952	US:OK:Mayes	E0350			road
+11142383	US:OK:Rogers	E0580			road
+11142395	US:OK:Washington	W2400			road
+11142449	US:OK:Okmulgee	N3970			road
+11142601	US:OK:Creek	N3760			road
+11142602	US:OK:Creek	E0930			road
+11160532	US:OK:Osage	4001			road
+11160533	US:OK:Osage	4920			road
+11160534	US:OK:Osage	3809			road
+11160535	US:OK:Osage	4910			road
+11160536	US:OK:Osage	4780			road
+11160751	US:OK:Beckham	E1220			road
+11160752	US:OK:Beckham	E1230			road
+11160753	US:OK:Beckham	E1250			road
+11163720	US:OK:Greer	E1470			road
+11163749	US:OK:Greer	E1430			road
+11163750	US:OK:Greer	E1440			road
+11163751	US:OK:Greer	E1450			road
+11163752	US:OK:Greer	E1460			road
+11166353	US:OK:Jackson	N2020			road
+11166354	US:OK:Jackson	N2010			road
+11166355	US:OK:Jackson	E1540			road
+11172759	US:OK:Jackson	E1670			road
+11172760	US:OK:Jackson	E1630			road
+11172761	US:OK:Jackson	E1620			road
+11172762	US:OK:Jackson	E2015			road
+11172763	US:OK:Jackson	E1600			road
+11172764	US:OK:Jackson	E1580			road
+11178431	US:OK:Caddo	E1360			road
+11178936	US:OK:Tillman	N2190			road
+11178937	US:OK:Tillman	N2200			road
+11178938	US:OK:Tillman	N2210			road
+11178939	US:OK:Tillman	N2220			road
+11178940	US:OK:Tillman	N2230			road
+11178941	US:OK:Tillman	N2240			road
+11178942	US:OK:Tillman	N2250			road
+11178943	US:OK:Tillman	N2260			road
+11178944	US:OK:Tillman	N2270			road
+11178945	US:OK:Tillman	N2280			road
+11178946	US:OK:Tillman	N2290			road
+11178947	US:OK:Tillman	N2310			road
+11178948	US:OK:Tillman	N2320			road
+11178949	US:OK:Tillman	N2330			road
+11178950	US:OK:Tillman	N2340			road
+11178951	US:OK:Tillman	N2350			road
+11178952	US:OK:Tillman	E1910			road
+11178953	US:OK:Tillman	E1920			road
+11178954	US:OK:Tillman	N2360			road
+11178955	US:OK:Tillman	N2370			road
+11181370	US:OK:Caddo	E1040			road
+11181371	US:OK:Caddo	E1050			road
+11184460	US:OK:Rogers	S4110			road
+11184569	US:OK:Rogers	E520			road
+11184570	US:OK:Rogers	N4186			road
+11184571	US:OK:Rogers	E522			road
+11184572	US:OK:Rogers	N4188			road
+11184580	US:OK:Caddo	D2588			road
+11184581	US:OK:Caddo	N2590			road
+11184582	US:OK:Caddo	D2593			road
+11184692	US:OK:Washington	N4040			road
+11187780	US:OK:Love	N3300			road
+11187781	US:OK:Love	E2250			road
+11187971	US:OK:Pawnee	E5750			road
+11188001	US:OK:Blaine	N2480			road
+11188002	US:OK:Blaine	E0930			road
+11188025	US:OK:Washington	E0210			road
+11188026	US:OK:Washington	N3946			road
+11190899	US:OK:Blaine	E0920			road
+11190900	US:OK:Blaine	N2590			road
+11191222	US:OK:Grady	E1213			road
+11191223	US:OK:Grady	N2940			road
+11191224	US:OK:Grady	E1212			road
+11191225	US:OK:Grady	E1214			road
+11191869	US:OK:Caddo	E1060			road
+11191870	US:OK:Caddo	N2610			road
+11191871	US:OK:Caddo	N2620			road
+11194646	US:OK:Love	E2230			road
+11194647	US:OK:Love	N3280			road
+11194761	US:OK:Grady	N2810			road
+11212863	US:OK:Rogers	S4230			road
+11212864	US:OK:Rogers	E380			road
+11215316	US:OK:Garvin	E1490			road
+11215447	US:OK:Grady	E1440			road
+11215448	US:OK:Grady	N2970			road
+11215674	US:OK:Grady	E1410			road
+11216216	US:OK:Caddo	E1300			road
+11216218	US:OK:Caddo	N2640			road
+11216305	US:OK:Garfield	E0300			road
+11242956	US:OK:Sequoyah	N4640			road
+11242957	US:OK:Sequoyah	D1093			road
+11242971	US:OK:Delaware	E0260			road
+11242972	US:OK:Delaware	E0270			road
+11242973	US:OK:Delaware	E0280			road
+11244986	US:OK:Texas	N0840			road
+11244987	US:OK:Texas	E0240			road
+11244988	US:OK:Texas	N0830			road
+11244989	US:OK:Texas	E0250			road
+11244990	US:OK:Texas	N0820			road
+11244991	US:OK:Texas	E0620			road
+11244992	US:OK:Texas	N0810			road
+11244993	US:OK:Texas	N0800			road
+11244994	US:OK:Texas	E0270			road
+11244995	US:OK:Texas	E0280			road
+11244996	US:OK:Texas	N0790			road
+11244997	US:OK:Texas	E0290			road
+11244998	US:OK:Texas	N0770			road
+11244999	US:OK:Texas	N0780			road
+11245000	US:OK:Texas	N0760			road
+11245001	US:OK:Texas	E0300			road
+11245002	US:OK:Texas	N0750			road
+11245003	US:OK:Texas	N0730			road
+11245004	US:OK:Texas	E0330			road
+11245005	US:OK:Texas	N0710			road
+11245006	US:OK:Texas	N0700			road
+11245007	US:OK:Texas	D0345			road
+11245008	US:OK:Texas	E0340			road
+11245584	US:OK:Texas	N0870			road
+11245629	US:OK:Texas	N0890			road
+11245657	US:OK:Texas	E0185			road
+11245658	US:OK:Texas	E0170			road
+11245659	US:OK:Texas	N0920			road
+11245693	US:OK:Texas	N0930			road
+11245787	US:OK:Texas	E0150			road
+11245788	US:OK:Texas	N0950			road
+11245796	US:OK:Texas	E0140			road
+11245797	US:OK:Texas	N0960			road
+11245800	US:OK:Texas	E0130			road
+11245801	US:OK:Texas	N0970			road
+11245806	US:OK:Texas	E0120			road
+11245807	US:OK:Texas	N0980			road
+11245808	US:OK:Texas	N0990			road
+11245870	US:OK:Texas	N1010			road
+11245871	US:OK:Texas	N1000			road
+11245872	US:OK:Texas	E0110			road
+11250658	US:OK:Texas	N1070			road
+11250659	US:OK:Texas	N1060			road
+11250660	US:OK:Texas	E0050			road
+11250661	US:OK:Texas	E0060			road
+11250662	US:OK:Texas	N1050			road
+11250663	US:OK:Texas	N1040			road
+11250664	US:OK:Texas	N1030			road
+11250665	US:OK:Texas	E0080			road
+11250666	US:OK:Texas	N1020			road
+11250667	US:OK:Texas	E0090			road
+11268222	US:OK:Osage	2015			road
+11268223	US:OK:Osage	2708			road
+11268224	US:OK:Osage	2702			road
+11268225	US:OK:Osage	2019			road
+11268226	US:OK:Osage	2712			road
+11268227	US:OK:Osage	2700			road
+11268228	US:OK:Osage	2690			road
+11268229	US:OK:Osage	2670			road
+11268230	US:OK:Osage	2001			road
+11293234	US:OK:Logan	N3050			road
+11293235	US:OK:Logan	N3060			road
+11293236	US:OK:Logan	N3090			road
+11293237	US:OK:Logan	N3100			road
+11293238	US:OK:Logan	N3120			road
+11293239	US:OK:Logan	N3130			road
+11293240	US:OK:Logan	N3140			road
+11293241	US:OK:Logan	N3150			road
+11293242	US:OK:Payne	N3170			road
+11293243	US:OK:Logan	N3160			road
+11293609	US:OK:Seminole	EW121			road
+11293610	US:OK:Seminole	NS358			road
+11293611	US:OK:Seminole	NS359			road
+11293612	US:OK:Seminole	NS360			road
+11293736	US:OK:Seminole	EW123			road
+11294128	US:OK:Lincoln	E0860			road
+11294374	US:OK:Hughes	E1468			road
+11294388	US:OK:Stephens	E1840			road
+11341526	lcn			11th Bike Boulevard	bicycle
+11363431	US:OK:Rogers	S4120			road
+11378067	US:OK:Custer	N2392			road
+11378068	US:OK:Custer	E1010			road
+11378069	US:OK:Custer	E1000			road
+11378072	US:OK:Custer	E0990			road
+11378073	US:OK:Custer	E0980			road
+11378074	US:OK:Custer	E0970			road
+11378075	US:OK:Custer	E0960			road
+11378076	US:OK:Custer	E0950			road
+11378077	US:OK:Custer	E0940			road
+11378078	US:OK:Custer	E0930			road
+11378079	US:OK:Custer	E0920			road
+11378080	US:OK:Custer	E0910			road
+11378081	US:OK:Custer	E0900			road
+11378082	US:OK:Custer	E0890			road
+11378083	US:OK:Custer	E0880			road
+11378086	US:OK:Custer	E0875			road
+11378087	US:OK:Custer	N2100			road
+11378272	US:OK:Alfalfa	N2510			road
+11378273	US:OK:Alfalfa	N2520			road
+11378275	US:OK:Alfalfa	N2540			road
+11378276	US:OK:Alfalfa	N2550			road
+11378277	US:OK:Alfalfa	N2560			road
+11378278	US:OK:Alfalfa	N2570			road
+11378279	US:OK:Alfalfa	N2600			road
+11378280	US:OK:Alfalfa	N2580			road
+11378281	US:OK:Alfalfa	N2590			road
+11378348	US:OK:Greer	N2020			road
+11378349	US:OK:Greer	E1340			road
+11378350	US:OK:Kiowa	E1340			road
+11378351	US:OK:Kiowa	E1330			road
+11378352	US:OK:Kiowa	E1320			road
+11378353	US:OK:Beckham	E1310			road
+11378354	US:OK:Washita	E1310			road
+11378355	US:OK:Beckham	E1300			road
+11378356	US:OK:Beckham	E1290			road
+11378358	US:OK:Washita	E1280			road
+11378359	US:OK:Beckham	E1280			road
+11480572	US:OK:Rogers	N4135			road
+11488806	US:OK:Sequoyah	N4570			road
+11488807	US:OK:Sequoyah	N4580			road
+11488816	US:OK:Sequoyah	N4590			road
+11488817	US:OK:Sequoyah	N4595			road
+11488818	US:OK:Sequoyah	N4610			road
+11488830	US:OK:Sequoyah	N4650			road
+11488834	US:OK:Sequoyah	E1040			road
+11488835	US:OK:Sequoyah	E1050			road
+11488836	US:OK:Sequoyah	E1070			road
+11491040	US:OK:Sequoyah	E1060			road
+11491041	US:OK:Sequoyah	E1062			road
+11491530	US:OK:Sequoyah	E1082			road
+11491667	US:OK:LeFlore	1205			road
+11512038	US:OK:Rogers	S4060			road
+11540862	US:OK:Rogers	S4160			road
+11540863	US:OK:Rogers	E0510			road
+11569769	US:OK:Muskogee	N4400			road
+11569825	US:OK:Beckham	N1720			road
+11576341	US:OK:Greer	E1440			road
+11579178	US:OK:Blaine	N2590			road
+11579179	US:OK:Blaine	E0790			road
+11579180	US:OK:Blaine	E0780			road
+11579181	US:OK:Blaine	E0800			road
+11579182	US:OK:Blaine	E0820			road
+11579183	US:OK:Blaine	N2575			road
+11579184	US:OK:Blaine	N2580			road
+11579196	US:OK:Caddo	E1205			road
+11579197	US:OK:Caddo	N2660			road
+11579198	US:OK:Caddo	N2670			road
+11579199	US:OK:Caddo	N2690			road
+11579200	US:OK:Caddo	E1200			road
+11579201	US:OK:Caddo	E1210			road
+11579202	US:OK:Caddo	E1220			road
+11579203	US:OK:Caddo	N1230			road
+11579271	US:OK:Grady	E1420			road
+11579272	US:OK:Grady	E1460			road
+11579273	US:OK:Grady	E1470			road
+11579274	US:OK:Grady	E1490			road
+11579275	US:OK:Grady	N2830			road
+11579276	US:OK:Grady	E1500			road
+11579277	US:OK:Grady	E1510			road
+11582342	US:I	540	south		road
+11582343	US:I	540	north		road
+11582344	US:OK:LeFlore	N4780			road
+11582462	US:OK:Rogers	N4070			road
+11585172	US:OK:Rogers	S4130			road
+11586919	US:OK:Pushmataha	N4440			road
+11586975	US:OK:Major	N2298			road
+11586976	US:OK:Major	N2299			road
+11589156	US:OK:Craig	E0260			road
+11589157	US:OK:Craig	E0269			road
+11589158	US:OK:Craig	S4410			road
+11589159	US:OK:Craig	E0280			road
+11589160	US:OK:Craig	S400			road
+11589161	US:OK:Craig	E0270			road
+11589969	US:OK:Pittsburg	N4060			road
+11589970	US:OK:Pittsburg	E1470			road
+11589971	US:OK:Pittsburg	E1468			road
+11590003	US:OK:Pittsburg	E1410			road
+11593489	US:OK:Pittsburg	N4120			road
+11593490	US:OK:Pittsburg	D413			road
+11593491	US:OK:Pittsburg	E1390			road
+11593494	US:OK:Pittsburg	N4035			road
+11612897	US:OK:Logan	N1365			road
+11612898	US:OK:Logan	N3140			road
+11612991	US:OK:Garfield	E0430			road
+11623651	US:OK:Coal	E1680			road
+11623652	US:OK:Coal	E1650			road
+11625539	US:OK:Grady	N3010			road
+11625540	US:OK:Grady	N3000			road
+11625541	US:OK:Grady	N2990			road
+11625542	US:OK:Grady	E1480			road
+11625543	US:OK:Grady	N2970			road
+11625544	US:OK:Grady	N2960			road
+11625545	US:OK:Grady	N2940			road
+11625546	US:OK:Grady	E1450			road
+11625547	US:OK:Grady	N2920			road
+11625548	US:OK:Grady	N2910			road
+11625549	US:OK:Grady	N2900			road
+11625550	US:OK:Grady	E1430			road
+11625551	US:OK:Grady	N2890			road
+11625552	US:OK:Grady	N2870			road
+11625553	US:OK:Grady	N2864			road
+11625554	US:OK:Grady	N2860			road
+11628124	US:OK:Rogers	E470			road
+11642329	US:OK:Caddo	E1270			road
+11645075	US:OK:Kiowa	N2190			road
+11645076	US:OK:Kiowa	N2200			road
+11645077	US:OK:Kiowa	E1590			road
+11645346	US:OK:Kiowa	N2350			road
+11645347	US:OK:Kiowa	N2340			road
+11645348	US:OK:Kiowa	N2330			road
+11645349	US:OK:Kiowa	N2320			road
+11645350	US:OK:Washita	N2350			road
+11645351	US:OK:Washita	N2340			road
+11645352	US:OK:Washita	N2330			road
+11645353	US:OK:Washita	N2320			road
+11645355	US:OK:Washita	E1290			road
+11645356	US:OK:Washita	E1300			road
+11645357	US:OK:Kiowa	E1310			road
+11645358	US:OK:Kiowa	E1320			road
+11648511	US:OK:Stephens	N2940			road
+11648512	US:OK:Jefferson	N2940			road
+11648629	US:OK:Jefferson	N2930			road
+11648630	US:OK:Jefferson	E1910			road
+11651501	US:OK:Rogers	S4250			road
+11653348	US:OK:Washita	N2370			road
+11653349	US:OK:Washita	N2380			road
+11653350	US:OK:Washita	E1140			road
+11653954	US:OK:Coal	E1610			road
+11653955	US:OK:Coal	N3800			road
+11656801	US:OK:Tillman	E1890			road
+11656802	US:OK:Tillman	E1880			road
+11656803	US:OK:Tillman	E1870			road
+11657049	US:OK:Pushmataha	D1826			road
+11661488	US:OK:Pushmataha	N4335			road
+11661508	US:OK:Caddo	N2580			road
+11661509	US:OK:Caddo	E1260			road
+11661510	US:OK:Caddo	N2590			road
+11661673	US:OK:Harmon	E1650			road
+11661674	US:OK:Harmon	N1690			road
+11663936	US:OK:Kiowa	N2200			road
+11663937	US:OK:Kiowa	E1620			road
+11663938	US:OK:Jackson	E1610			road
+11663939	US:OK:Jackson	N2190			road
+11664100	US:OK:Cimarron	N0420			road
+11664101	US:OK:Cimarron	E0230			road
+11664102	US:OK:Cimarron	N0400			road
+11664269	US:OK:Garfield	E0400			road
+11664450	US:OK:Lincoln	N3520			road
+11664451	US:OK:Lincoln	E1020			road
+11664614	US:OK:Cimarron	E0190			road
+11664615	US:OK:Cimarron	N0410			road
+11664792	US:OK:Garfield	E0540			road
+11664793	US:OK:Garfield	N3000			road
+11668908	US:OK:Harper	E0080			road
+11669643	US:OK:Tillman	E1900			road
+11670325	US:OK:Pontotoc	N3410			road
+11670326	US:OK:Garvin	E1590			road
+11670382	US:OK:Noble	E0320			road
+11670383	US:OK:Noble	N3318			road
+11670384	US:OK:Noble	280			road
+11670581	US:OK:Harmon	N1670			road
+11671082	US:OK:Okfuskee	E1180			road
+11673898	US:OK:Cherokee	N4450			road
+11673923	US:OK:Washita	N2180			road
+11673924	US:OK:Washita	E1300			road
+11673925	US:OK:Washita	N2190			road
+11673957	US:OK:Cimarron	D0138			road
+11673958	US:OK:Cimarron	D0171			road
+11674026	US:OK:Texas	E0220			road
+11674043	US:OK:Harmon	E1660			road
+11679937	US:OK:Caddo	E1270			road
+11679938	US:OK:Caddo	E1260			road
+11679939	US:OK:Caddo	N2700			road
+11679975	US:OK:Delaware	D0492			road
+11680194	US:OK:Ottawa	E200			road
+11680898	US:OK:Beaver	N1300			road
+11680899	US:OK:Beaver	E0290			road
+11680905	US:OK:Pittsburg	E1440			road
+11680906	US:OK:Pittsburg	N3910			road
+11683984	US:OK:Caddo	N2700			road
+11683985	US:OK:Caddo	E1240			road
+11684582	US:OK:Mayes	E0640			road
+11684583	US:OK:Mayes	N4270			road
+11684949	US:OK:Garvin	E1580			road
+11687640	US:OK:Okmulgee	N3950			road
+11700276	US:OK:Roger_Mills	E0920			road
+11700489	US:OK:Nowata	E0150			road
+11700577	US:OK:Okfuskee	E1030			road
+11700578	US:OK:Okfuskee	N3700			road
+11700876	US:OK:Kiowa	N2220			road
+11700877	US:OK:Kiowa	N2225			road
+11700878	US:OK:Kiowa	E1585			road
+11719313	US:OK:Kiowa	E1380			road
+11719314	US:OK:Kiowa	E1340			road
+11719317	US:OK:Kiowa	E1350			road
+11719318	US:OK:Kiowa	E1360			road
+11719321	US:OK:Kiowa	E1370			road
+11719436	US:OK:Jefferson	N2990			road
+11719437	US:OK:Jefferson	E1930			road
+11721932	US:OK:Washita	E1240			road
+11721933	US:OK:Washita	N2100			road
+11722381	US:OK:Comanche	N2550			road
+11725744	US:OK:Okmulgee	N4090			road
+11725745	US:OK:Okmulgee	E0915			road
+11729995	US:OK:Muskogee	N4370			road
+11747483	US:OK:Coal	E1750			road
+11762369	US:OK:Woods	E0200			road
+11762505	US:OK:Lincoln	N3480			road
+11762506	US:OK:Lincoln	E0750			road
+11762522	US:OK:McIntosh	N4120			road
+11765246	US:OK:McClain	N3020			road
+11765492	US:OK:Beaver	N1240			road
+11765493	US:OK:Beaver	E0280			road
+11765494	US:OK:Beaver	E0300			road
+11765495	US:OK:Beaver	N1220			road
+11765496	US:OK:Beaver	E0310			road
+11765497	US:OK:Beaver	N1230			road
+11765498	US:OK:Beaver	E0320			road
+11765499	US:OK:Beaver	E0330			road
+11765500	US:OK:Beaver	E0340			road
+11765501	US:OK:Beaver	E0350			road
+11768548	US:OK:Roger_Mills	N1710			road
+11768549	US:OK:Roger_Mills	N1690			road
+11768550	US:OK:Roger_Mills	N1680			road
+11768736	US:OK:Roger_Mills	E0840			road
+11768737	US:OK:Roger_Mills	E0850			road
+11768738	US:OK:Roger_Mills	E0860			road
+11768739	US:OK:Roger_Mills	E0880			road
+11768740	US:OK:Roger_Mills	E0890			road
+11768741	US:OK:Roger_Mills	E0900			road
+11768742	US:OK:Roger_Mills	E0910			road
+11768743	US:OK:Roger_Mills	E0930			road
+11768864	US:OK:Dewey	N2070			road
+11768865	US:OK:Dewey	E0600			road
+11768866	US:OK:Dewey	N2060			road
+11768867	US:OK:Dewey	N2050			road
+11768868	US:OK:Dewey	N2040			road
+11768869	US:OK:Dewey	N2030			road
+11769205	US:OK:Blaine	N2480			road
+11769207	US:OK:Blaine	N2470			road
+11769208	US:OK:Dewey	E0800			road
+11769209	US:OK:Blaine	E0800			road
+11769210	US:OK:Blaine	N2460			road
+11769211	US:OK:Blaine	E0790			road
+11769212	US:OK:Dewey	E0790			road
+11769213	US:OK:Dewey	E0780			road
+11769214	US:OK:Dewey	N2440			road
+11769215	US:OK:Dewey	E0770			road
+11769216	US:OK:Dewey	N2430			road
+11769217	US:OK:Dewey	N2420			road
+11769218	US:OK:Dewey	E0750			road
+11769219	US:OK:Dewey	E0748			road
+11769220	US:OK:Dewey	E0740			road
+11769221	US:OK:Dewey	N2410			road
+11769222	US:OK:Dewey	E0730			road
+11769223	US:OK:Dewey	N2400			road
+11769224	US:OK:Dewey	E0720			road
+11769225	US:OK:Dewey	E0710			road
+11769226	US:OK:Dewey	E0700			road
+11769228	US:OK:Dewey	N2360			road
+11769229	US:OK:Dewey	E0670			road
+11769367	US:OK:Dewey	E0830			road
+11769368	US:OK:Custer	E0850			road
+11769369	US:OK:Custer	N2430			road
+11773575	US:OK:Garfield	E0310			road
+11776466	US:OK:Coal	N3730			road
+11781164	US:OK:Noble	N3180			road
+11781165	US:OK:Noble	70			road
+11781166	US:OK:Noble	60			road
+11781167	US:OK:Noble	30			road
+11781168	US:OK:Noble	20			road
+11781169	US:OK:Noble	50			road
+11781170	US:OK:Garfield	N3110			road
+11796380	US:OK:Marshall	N3435			road
+11796381	US:OK:Marshall	N3430			road
+11797534	US:OK:Garvin	N3270			road
+11797777	US:OK:Seminole	N3550			road
+11797778	US:OK:Seminole	E1420			road
+11797779	US:OK:Seminole	N3545			road
+11797780	US:OK:Seminole	N3540			road
+11797781	US:OK:Seminole	E1430			road
+11797782	US:OK:Seminole	N3530			road
+11797783	US:OK:Seminole	N3520			road
+11797784	US:OK:Seminole	E1420			road
+11797785	US:OK:Seminole	N3510			road
+11797786	US:OK:Seminole	N3500			road
+11797787	US:OK:Seminole	E1410			road
+11797788	US:OK:Pottawatomie	E1410			road
+11805092	US:OK:Greer	E1370			road
+11810117	US:OK:Beckham	N1880			road
+11818327	US:OK:Love	E3275			road
+11818328	US:OK:Love	E2060			road
+11818329	US:OK:Love	E2070			road
+11818330	US:OK:Love	E2095			road
+11818331	US:OK:Love	E2105			road
+11818333	US:OK:Love	E2150			road
+11818334	US:OK:Love	E2180			road
+11818335	US:OK:Love	N3300			road
+11818336	US:OK:Love	E2240			road
+11821161	US:OK:Pittsburg	E1520			road
+11821162	US:OK:Pittsburg	D1520			road
+11821163	US:OK:Pittsburg	D4030			road
+11821164	US:OK:Pittsburg	E1540			road
+11821165	US:OK:Pittsburg	N4000			road
+11821166	US:OK:Pittsburg	E1560			road
+11821167	US:OK:Pittsburg	E1570			road
+11824933	US:OK:Lincoln	E0990			road
+11824934	US:OK:Lincoln	N3480			road
+11826465	US:OK:Pottawatomie	E1330			road
+11837203	US:TX:Collingsworth	J4		Collingsworth County Road J4	road
+11838147	US:OK:Washita	N2210			road
+11838171	US:OK:Washita	N2090			road
+11841789	US:OK:Sequoyah	E0993			road
+11841979	US:OK:Washita	N2170			road
+11873670	US:OK:Pittsburg	E1445			road
+11877221		3		N Kelley	bus
+11883187	US:OK:Hughes	N3900			road
+11883188	US:OK:Hughes	E1230			road
+11889315	US:OK:Ottawa	E0220			road
+11901695		44		Social Security Administraton	bus
+11904691		144		Social Security	bus
+11951015	US:OK:Muskogee	N4100			road
+11954261	US:OK:Lincoln	E0770			road
+11957684	US:OK:Adair	N4720			road
+11957685	US:OK:Adair	D4720			road
+11957686	US:OK:Adair	N4723			road
+11957687	US:OK:Adair	N4730			road
+11957688	US:OK:Adair	D0821			road
+11957689	US:OK:Adair	N4745			road
+11957690	US:OK:Adair	D0820			road
+11957691	US:OK:Adair	N4755			road
+11957693	US:OK:Adair	N4757			road
+11957694	US:OK:Adair	N4765			road
+11957695	US:OK:Adair	N4770			road
+11957696	US:OK:Adair	E0820			road
+11957697	US:OK:Adair	N4775			road
+11957698	US:AR:Washington	464			road
+11957855	US:OK:Adair	E0778			road
+11957856	US:OK:Adair	E0785			road
+11957857	US:OK:Adair	E0810			road
+11957858	US:OK:Adair	E0814			road
+11957861	US:OK:Adair	E0840			road
+11957862	US:OK:Adair	E0845			road
+11957863	US:OK:Adair	D0850			road
+11957864	US:OK:Adair	E0850			road
+11957865	US:OK:Adair	E0856			road
+11957866	US:OK:Adair	E0857			road
+11957867	US:OK:Adair	E0860			road
+11957877	US:OK:Adair	D4696			road
+11957878	US:OK:Adair	N4700			road
+11958055	US:OK:Adair	E0770			road
+11958056	US:OK:Adair	N4620			road
+11958057	US:OK:Adair	N4630			road
+11958058	US:OK:Adair	E0780			road
+11958059	US:OK:Adair	E0790			road
+11958060	US:OK:Adair	N4652			road
+11958061	US:OK:Adair	N4660			road
+11958062	US:OK:Adair	D4670			road
+11958063	US:OK:Adair	E0808			road
+11958176	US:OK:Cherokee	N545			road
+11958177	US:OK:Adair	S543			road
+11958178	US:OK:Cherokee	N4560			road
+11958179	US:OK:Cherokee	S562			road
+11958180	US:OK:Cherokee	S573			road
+11958181	US:OK:Cherokee	S580			road
+11958182	US:OK:Cherokee	N580			road
+11958407	US:OK:Cherokee	N4520			road
+11958540	US:OK:Wagoner	N4330			road
+11958541	US:OK:Wagoner	N4320			road
+11958542	US:OK:Wagoner	D4335			road
+11958543	US:OK:Cherokee	N4340			road
+11958544	US:OK:Cherokee	N357			road
+11958551	US:OK:Cherokee	E0750			road
+11958552	US:OK:Cherokee	N370			road
+11958553	US:OK:Cherokee	N4380			road
+11958554	US:OK:Cherokee	S400			road
+11958555	US:OK:Cherokee	N4410			road
+11958556	US:OK:Cherokee	S430			road
+11958557	US:OK:Cherokee	W760			road
+11958558	US:OK:Cherokee	N470			road
+11960449	US:OK:Cherokee	N4300			road
+11961171	US:OK:Wagoner	N4180			road
+11961174	US:OK:Wagoner	E0730			road
+11961175	US:OK:Wagoner	N4240			road
+11961176	US:OK:Wagoner	N4250			road
+11963932	US:OK:Adair	D0782			road
+11964018	US:OK:Atoka	N3830			road
+11964019	US:OK:Atoka	E1950			road
+11968676	US:OK:McIntosh	N4210			road
+11991518	US:OK:Sequoyah	N4760			road
+11993697	US:OK:Creek	D0620			road
+11998563	US:OK:Lincoln	E1060			road
+12001456	US:OK:Kingfisher	N2950			road
+12001457	US:OK:Kingfisher	E0770			road
+12001739	US:OK:Caddo	N2650			road
+12005169	US:OK:Washita	N2420			road
+12014444	US:OK:Kay	N3310			road
+12014688	US:OK:Carter	N3292			road
+12019730	US:OK:Washita	N2430			road
+12029082	US:OK:Stephens	E1850			road
+12029083	US:OK:Stephens	N2990			road
+12029151	US:OK:Ellis	N1890			road
+12030224	US:OK:Pontotoc	E1580			road
+12030225	US:OK:Pontotoc	N3420			road
+12037548	US:OK:Stephens	E1860			road
+12037549	US:OK:Stephens	N2960			road
+12044403	US:OK:Haskell	E1335			road
+12044404	US:OK:Haskell	E1348			road
+12045640	US:OK:Atoka	N3850			road
+12045641	US:OK:Atoka	N3841			road
+12045642	US:OK:Atoka	N3840			road
+12045643	US:OK:Atoka	N3830			road
+12045644	US:OK:Atoka	N3820			road
+12045645	US:OK:Atoka	N3810			road
+12045976	US:OK:Ellis	N1910			road
+12045977	US:OK:Ellis	E0440			road
+12045978	US:OK:Ellis	N1900			road
+12045979	US:OK:Ellis	N1890			road
+12045980	US:OK:Ellis	E0450			road
+12045981	US:OK:Ellis	N1880			road
+12045982	US:OK:Ellis	N1870			road
+12045983	US:OK:Ellis	E0455			road
+12045984	US:OK:Ellis	E0460			road
+12045985	US:OK:Ellis	N1860			road
+12045986	US:OK:Ellis	E0470			road
+12045987	US:OK:Ellis	E0490			road
+12045988	US:OK:Ellis	E0480			road
+12045989	US:OK:Ellis	N1830			road
+12046136	US:OK:Okfuskee	N3800			road
+12046137	US:OK:Okfuskee	N3790			road
+12048411	US:OK:Pottawatomie	E132			road
+12048470	US:OK:Custer	N2205			road
+12089753	US:OK:Noble	190			road
+12089754	US:OK:Noble	E0320			road
+12098372	Tulsa Transit	700		AERO Peoria	bus
+12102307	Tulsa Transit	700		AERO Peoria	bus
+12165155	US:OK:Carter	E1950			road
+12165156	US:OK:Carter	E1930			road
+12165157	US:OK:Carter	E1920			road
+12165158	US:OK:Carter	E1910			road
+12166233	US:OK:Grady	N2860			road
+12166234					
+12166358	US:OK:Caddo	E1450			road
+12166359	US:OK:Caddo	E1440			road
+12166360	US:OK:Caddo	E1430			road
+12166361	US:OK:Caddo	E1420			road
+12166362	US:OK:Caddo	E1410			road
+12166363	US:OK:Caddo	E1400			road
+12223755	lcn			6th Street Bicycle Boulevard	bicycle
+12250713	US:OK:Texas	E0312			road
+12255490	US:OK:Muskogee	N4130			road
+12255491	US:OK:Wagoner	N4130			road
+12255492	US:OK:Wagoner	E0830			road
+12255493	US:OK:Wagoner	N4150			road
+12255494	US:OK:Wagoner	E0820			road
+12255495	US:OK:Wagoner	N4160			road
+12255496	US:OK:Wagoner	E0810			road
+12255497	US:OK:Wagoner	E0800			road
+12256639	US:OK:Beaver	E0030			road
+12284249	US:OK:Woods	E0300			road
+12284250	US:OK:Alfalfa	E0300			road
+12284761	US:OK:Woods	N2460			road
+12284762	US:OK:Woods	N2470			road
+12284763	US:OK:Woods	N2480			road
+12284764	US:OK:Woods	N2490			road
+12284765	US:OK:Woods	N2500			road
+12284766	US:OK:Alfalfa	N2530			road
+12284767	US:OK:Alfalfa	N2540			road
+12287465	US:OK:Woods	E0290			road
+12287466	US:OK:Woods	N2440			road
+12287467	US:OK:Woods	N2450			road
+12288294	Tulsa Transit	110		MLK/Hartford	bus
+12288329	MetroLink Tulsa	110		MLK/Hartford	bus
+12288603	Tulsa Transit	114		Charles Page/Sand Springs	bus
+12288614	Tulsa Transit	114		Sand Springs/Charles Page	bus
+12292968	Tulsa Transit	117		Union/Southwest Boulevard	bus
+12292975	Tulsa Transit	117		Union/Southwest Boulevard	bus
+12293101	Tulsa Transit	130		Admiral	bus
+12293116	Tulsa Transit	130		Admiral	bus
+12297340	Tulsa Transit	140		11th Street	bus
+12297370	Tulsa Transit	140		11th Street	bus
+12301511	Tulsa Transit	150		21st Street	bus
+12301548	Tulsa Transit	150		21st Street	bus
+12305023	US:OK:Cherokee	N460			road
+12305024	US:OK:Cherokee	W710			road
+12305479	Tulsa Transit	201		Pine/Memorial	bus
+12310171	Tulsa Transit	201		Pine/Memorial	bus
+12312898	MetroLink Tulsa	300		31st Street	bus
+12313340	MetroLink Tulsa	300		31st Street	bus
+12317338	MetroLink Tulsa	401		North/Northeast	bus
+12317359	MetroLink Tulsa	401		North/Northeast	bus
+12322254	lcn				bicycle
+12327588	MetroLink Tulsa	440		Harvard	bus
+12331090	MetroLink Tulsa	440		Harvard	bus
+12332131	MetroLink Tulsa	450		Yale	bus
+12332190	MetroLink Tulsa	450		Yale	bus
+12340867	MetroLink Tulsa	470		Garnett	bus
+12346869	MetroLink Tulsa	470		Garnett	bus
+12350204	COTPA			OKC Streetcar Bricktown Loop	tram
+12350205	COTPA			OKC Streetcar Downtown Loop	tram
+12361554	MetroLink Tulsa	490		West Tulsa/71st Street	bus
+12369894	LATS	1		Blue Route	bus
+12371999	LATS	2		Green Route	bus
+12372014	LATS	3		Orange Route	bus
+12375914	LATS	4		Red Route	bus
+12375957	LATS	5		Yellow Route	bus
+12378491	MetroLink Tulsa	490		West Tulsa/71st Street	bus
+12379082	MetroLink Tulsa	500		Jenks Connector	bus
+12379087	MetroLink Tulsa	500		Jenks Connector	bus
+12409948	lcn			Elgin Avenue Bike Boulevard	bicycle
+12423370	lcn			15th Street Bicycle Boulevard	bicycle
+12438587					railway
+12438588					railway
+12438589					railway
+12442123	US:US:Historic	66			road
+12449783	US:OK:Turnpike		south	Kickapoo Turnpike	road
+12449784	US:OK:Turnpike		north	Kickapoo Turnpike	road
+12455478	US:OK:McIntosh	N4010			road
+12455482	US:OK:McIntosh	E1220			road
+12455483	US:OK:McIntosh	N4000			road
+12455484	US:OK:McIntosh	E1240			road
+12455485	US:OK:McIntosh	E1250			road
+12455486	US:OK	52			road
+12460022	US:OK:Love	E2210			road
+12460031	US:OK:Osage	3575			road
+12475397	US:OK:Pontotoc	N3530			road
+12475398	US:OK:Pontotoc	351			road
+12475399	US:OK:Pontotoc	N3500			road
+12475400	US:OK:Pontotoc	3495			road
+12475401	US:OK:Pontotoc	3492			road
+12475402	US:OK:Pontotoc	3475			road
+12475403	US:OK:Pontotoc	N3463			road
+12475404	US:OK:Pontotoc	N3465			road
+12475405	US:OK:Pontotoc	E1540			road
+12475406	US:OK:Pontotoc	3487			road
+12475407	US:OK:Pontotoc	349			road
+12475408	US:OK:Pontotoc	348			road
+12475409	US:OK:Pontotoc	346			road
+12475410	US:OK:Pontotoc	345			road
+12475548	US:OK:Muskogee	E0995			road
+12475549	US:OK:Muskogee	E1000			road
+12475550	US:OK:Muskogee	E0960			road
+12475551	US:OK:Muskogee	N4240			road
+12475552	US:OK:Muskogee	N4230			road
+12475553	US:OK:Muskogee	E0980			road
+12475554	US:OK:Muskogee	N4220			road
+12475776	US:OK:Grady	1190			road
+12475777	US:OK:Grady	2870			road
+12475778	US:OK:Grady	1180			road
+12513631	US:OK:Mayes	S4430			road
+12626174	US:OK:Jackson	E1560			road
+12626175	US:OK:Jackson	E1570			road
+12626176	US:OK:Jackson	E1585			road
+12626177	US:OK:Jackson	E1605			road
+12626178	US:OK:Jackson	E1610			road
+12629015	US:OK:Jackson	E1660			road
+12629016	US:OK:Jackson	E1680			road
+12629020	US:OK:Jackson	E1690			road
+12629021	US:OK:Jackson	E1710			road
+12629022	US:OK:Jackson	E1700			road
+12629023	US:OK:Jackson	E1720			road
+12629024	US:OK:Jackson	E1730			road
+12629025	US:OK:Jackson	E1740			road
+12629026	US:OK:Jackson	E1750			road
+12629027	US:OK:Jackson	E1760			road
+12629440	US:OK:Harper	E0100			road
+12629441	US:OK:Harper	E0090			road
+12629442	US:OK:Harper	E0070			road
+12629443	US:OK:Harper	E0050			road
+12629444	US:OK:Harper	E0060			road
+12629445	US:OK:Harper	E0040			road
+12629446	US:OK:Harper	E0030			road
+12629447	US:OK:Harper	E0020			road
+12630007	US:OK:Harper	E0190			road
+12630008	US:OK:Harper	E0140			road
+12630009	US:OK:Harper	E0130			road
+12634196	US:OK:Cimarron	E0200			road
+12634197	US:OK:Cimarron	N0280			road
+12634198	US:OK:Cimarron	E0205			road
+12634199	US:OK:Cimarron	N0275			road
+12634200	US:OK:Cimarron	N0270			road
+12634201	US:OK:Cimarron	E0210			road
+12634202	US:OK:Cimarron	N0260			road
+12634203	US:OK:Cimarron	N0255			road
+12634204	US:OK:Cimarron	E0220			road
+12634205	US:OK:Cimarron	N0250			road
+12634206	US:OK:Cimarron	N0230			road
+12634207	US:OK:Cimarron	N0220			road
+12634208	US:OK:Cimarron	N0190			road
+12634209	US:OK:Cimarron	N0160			road
+12634210	US:OK:Cimarron	E0290			road
+12634211	US:OK:Cimarron	E0300			road
+12634212	US:OK:Cimarron	N0130			road
+12634215	US:OK:Cimarron	N0120			road
+12634216	US:OK:Cimarron	N0110			road
+12634217	US:OK:Cimarron	E0310			road
+12634218	US:OK:Cimarron	N0100			road
+12634219	US:OK:Cimarron	N0090			road
+12634220	US:OK:Cimarron	N0070			road
+12634221	US:OK:Cimarron	N0040			road
+12634222	US:OK:Cimarron	E0330			road
+12664290	US:OK:Cimarron	N0272			road
+12664291	US:OK:Cimarron	E0072			road
+12664962	US:OK:Custer	E0880			road
+12664963	US:OK:Custer	N2420			road
+12683993	US:OK:Pontotoc	N3670			road
+12693141	US:OK:Ellis	E0360			road
+12700056	US:OK:Grady	D1441			road
+12700057	US:OK:Grady	D1440			road
+12707092	US:OK:Woodward	N2030			road
+12707236	US:OK:Logan	N3140			road
+12727709	US:OK:Noble	E0420			road
+12727710	US:OK:Noble	E0430			road
+12727711	US:OK:Noble	E0440			road
+12727712	US:OK:Noble	E0450			road
+12727713	US:OK:Noble	E0455			road
+12727714	US:OK:Noble	E0480			road
+12727715	US:OK:Noble	E0490			road
+12727716	US:OK:Noble	E0520			road
+12727717	US:OK:Noble	E0530			road
+12727718	US:OK:Noble	E0560			road
+12737876	US:OK:Cimarron	N0100			road
+12760743	US:OK:Muskogee	E0850			road
+12764376	US:OK:Grady	N2970			road
+12764377	US:OK:Grady	E1180			road
+12765113	US:OK:Lincoln	E1040			road
+12765114	US:OK:Lincoln	N3500			road
+12765115	US:OK:Lincoln	N3510			road
+12795901	US:OK:Lincoln	E0810			road
+12795959	US:OK:Noble	N3220			road
+12800809	lcn			Pine Street	bicycle
+12803909	US:OK:Grady	2973			road
+12813023	US:OK:Texas	E0270			road
+12813024	US:OK:Texas	E0290			road
+12835483	lcn			Edison Street Bike Boulevard	bicycle
+12835485	lcn			Charles Page Boulevard	bicycle
+12884231	US:OK:Pushmataha	N4320			road
+12884304	US:OK:Canadian	E1000			road
+12884305	US:OK:Canadian	E1010			road
+12892727	US:OK:Rogers	N4076			road
+12893009	US:OK:Stephens	N2950			road
+12893010	US:OK:Stephens	N2940			road
+12893011	US:OK:Stephens	N2930			road
+12893012	US:OK:Stephens	N2920			road
+12893013	US:OK:Stephens	N2910			road
+12893014	US:OK:Stephens	N2900			road
+12893015	US:OK:Stephens	N2890			road
+12893016	US:OK:Stephens	N2880			road
+12907569	US:OK:Bryan	E2100			road
+12907570	US:OK:Bryan	N3700			road
+12908988	US:OK:Bryan	E2090			road
+12928014	US:OK:Garfield	E0410			road
+12928015	US:OK:Garfield	N3000			road
+12928377	US:OK:Seminole	E1430			road
+12928933	US:OK:Garvin	E1600			road
+12931527	US:OK:Logan	N3030			road
+12931528	US:OK:Logan	71			road
+12931660	US:OK:Payne	N3480			road
+12931661	US:OK:Payne	E0690			road
+12991751					bus
+12994327	US:OK:Kingfisher	E0880			road
+12998745	US:OK:Kingfisher	N2820			road
+12998746	US:OK:Kingfisher	E0830			road
+13004821	US:OK:Kingfisher	N2760			road
+13008236	US:OK:Pontotoc	E1560			road
+13008237	US:OK:Pontotoc	N3450			road
+13018721	US:OK:Woodward	E0570			road
+13018722	US:OK:Woodward	N2240			road
+13019127	US:OK:Bryan	E2110			road
+13029898	US:OK:Payne	E0660			road
+13029899	US:OK:Payne	N3390			road
+13029960	US:OK:Garfield	E0480			road
+13029961	US:OK:Garfield	N2880			road
+13029975	US:OK:Garfield	E0550			road
+13029976	US:OK:Garfield	N2870			road
+13039821					power
+13039822				Hugo-Valliant	power
+13039823				Hugo-Sunnyside	power
+13039824					power
+13069845	US:OK:Seminole	E1270			road
+13069846	US:OK:Seminole	N3610			road
+13070391	US:OK:Blaine	N2560			road
+13070392	US:OK:Blaine	N2540			road
+13070393	US:OK:Blaine	N2530			road
+13070394	US:OK:Blaine	N2520			road
+13070395	US:OK:Blaine	N2500			road
+13070396	US:OK:Dewey	N2380			road
+13070455	US:OK:Okfuskee	E1100			road
+13073510	US:OK:Love	N3290			road
+13073511	US:OK:Love	D3297			road
+13075771	US:OK:Logan	E0865			road
+13075811	US:AR:Washington	74			road
+13080749	US:OK:Noble	E0550			road
+13084271	US:OK:Caddo	E1380			road
+13090473	US:OK:Texas	E0330			road
+13090474	US:OK:Texas	E0340			road
+13090475	US:OK:Texas	E0350			road
+13090874	US:OK:Noble	N3170			road
+13090875	US:OK:Noble	N3160			road
+13090876	US:OK:Noble	20			road
+13090877	US:OK:Noble	N3130			road
+13090878	US:OK:Noble	40			road
+13090879	US:OK:Garfield	N3110			road
+13092726	US:OK:Cotton	E1970			road
+13092727	US:OK:Cotton	E1980			road
+13092728	US:OK:Cotton	D1990			road
+13092729	US:OK:Cotton	E1990			road
+13092731	US:OK:Cotton	N2510			road
+13092732	US:OK:Cotton	E2000			road
+13092767	US:OK	18	south		road
+13092768	US:OK	18	north		road
+13092900	US:OK:Ottawa	N4570			road
+13093281	US:OK:Rogers	S4210			road
+13093282	US:OK:Rogers	S4215			road
+13093283	US:OK:Rogers	S4220			road
+13093284	US:OK:Rogers	N4240			road
+13093285	US:OK:Mayes	N4250			road
+13093286	US:OK:Mayes	N4260			road
+13093287	US:OK:Mayes	N4270			road
+13093584	US:OK:Grady	2810			road
+13093585	US:OK:Grady	1430			road
+13093586	US:OK:Grady	2800			road
+13093587	US:OK:Grady	1428			road
+13093588	US:OK:Grady	2800			road
+13093589	US:OK:Grady	2790			road
+13094228	US:OK:Caddo	N2690			road
+13094229	US:OK:Caddo	N2720			road
+13094230	US:OK:Caddo	N2730			road
+13097693	US:NFSR:Ouachita:FR	6038			road
+13097694	US:OK:LeFlore	D1643			road
+13097695	US:OK:LeFlore	D1650			road
+13097696	US:OK:LeFlore	D4675			road
+13097710	US:OK:Harper	E0250			road
+13097711	US:OK:Harper	E0260			road
+13103896	US:OK:Lincoln	E0780			road
+13103897	US:OK:Lincoln	N3430			road
+13105334	US:OK:Cimarron	N0350			road
+13105336	US:OK:Cimarron	N0360			road
+13121302	US:OK:Harper	E0220			road
+13121330	US:OK:Texas	E0020			road
+13121331	US:OK:Texas	E0010			road
+13121332	US:OK:Texas	E0030			road
+13121333	US:OK:Texas	E0040			road
+13121334	US:OK:Texas	E0070			road
+13121335	US:OK:Texas	E0100			road
+13121336	US:OK:Texas	E0110			road
+13121337	US:OK:Texas	E0120			road
+13121338	US:OK:Texas	E0130			road
+13121339	US:OK:Texas	E0140			road
+13121340	US:OK:Texas	E0160			road
+13124888	US:OK:Major	E0440			road
+13124889	US:OK:Major	N2660			road
+13124890	US:OK:Major	E0470			road
+13124892	US:OK:Major	E0500			road
+13124893	US:OK:Major	N2640			road
+13124894	US:OK:Major	E0420			road
+13124895	US:OK:Major	E0410			road
+13124896	US:OK:Major	E0400			road
+13124897	US:OK:Major	CR E0390			road
+13124898	US:OK:Alfalfa	N2660			road
+13124899	US:OK:Major	E0380			road
+13124900	US:OK:Alfalfa	N2664			road
+13124901	US:OK:Alfalfa	E0360			road
+13124964	US:OK:Major	N2700			road
+13124976	US:OK:Pittsburg	E1390			road
+13124977	US:OK:Pittsburg	E1380			road
+13125045	US:OK:Woods	E0180			road
+13125046	US:OK:Woods	E0190			road
+13125047	US:OK:Woods	E0210			road
+13125048	US:OK:Woods	E0220			road
+13125049	US:OK:Woods	E0230			road
+13125050	US:OK:Woods	E0240			road
+13125142	US:OK:Pawnee	E0555			road
+13125143	US:OK:Pawnee	N3760			road
+13125144	US:OK:Pawnee	N3750			road
+13125145	US:OK:Pawnee	D3735			road
+13125146	US:OK:Pawnee	N3740			road
+13127260	US:OK:Woodward	E0510			road
+13127261	US:OK:Woodward	E0515			road
+13127287	US:OK:Woodward	E0420			road
+13127288	US:OK:Woodward	N1960			road
+13127289	US:OK:Woodward	E0410			road
+13127290	US:OK:Woodward	E0400			road
+13132095	US:OK:Sequoyah	D4445			road
+13145422	US:OK:Bryan	E0250			road
+13149814	US:OK:Carter	N3360			road
+13160124	US:OK:Seminole	E1290			road
+13160125	US:OK:Seminole	E1330			road
+13160126	US:OK:Seminole	E1340			road
+13160127	US:OK:Seminole	E1385			road
+13160128	US:OK:Seminole	E1390			road
+13160129	US:OK:Seminole	E1395			road
+13160130	US:OK:Seminole	E1400			road
+13171775	US:OK:Pottawatomie	E1310			road
+13171776	US:OK:Pottawatomie	N3480			road
+13171777	US:OK:Pottawatomie	N3470			road
+13171778	US:OK:Pottawatomie	N3450			road
+13171779	US:OK:Pottawatomie	N3460			road
+13171780	US:OK:Pottawatomie	N3440			road
+13171781	US:OK:Pottawatomie	N3430			road
+13171782	US:OK:Pottawatomie	E1340			road
+13171886	US:AR:Benton	30D			road
+13171887	US:AR:Benton	410			road
+13171888	US:AR:Benton	405			road
+13176680	US:OK:Seminole	E1210			road
+13176681	US:OK:Seminole	E1190			road
+13176682	US:OK:Seminole	E1170			road
+13176683	US:OK:Seminole	E1160			road
+13176684	US:OK:Seminole	E1130			road
+13176685	US:OK:Seminole	E1120			road
+13176686	US:OK:Pottawatomie	E1110			road
+13176687	US:OK:Pottawatomie	E1100			road
+13176688	US:OK:Lincoln	E1070			road
+13176689	US:OK:Lincoln	N3550			road
+13176690	US:OK:Pottawatomie	N3550			road
+13176691	US:OK:Lincoln	E1060			road
+13176800	US:OK:Carter	N3110			road
+13176801	US:OK:Carter	E1850			road
+13176802	US:OK:Carter	N3130			road
+13176803	US:OK:Carter	N3264			road
+13216576					railway
+13222618				Cowboy Subdivision	railway
+13237372	US:OK:Love	E2220			road
+13237480	US:OK:Delaware	E318			road
+13237481	US:OK:Delaware	S603			road
+13237482	US:OK:Delaware	S602			road
+13237487	US:OK:Kingfisher	E0810			road
+13237499	US:OK:Stephens	N2880			road
+13253210	US:OK:Grady	E1197			road
+13253211	US:OK:Grady	E1200			road
+13253212	US:OK:Grady	E1220			road
+13253213	US:OK:Grady	E1226			road
+13253214	US:OK:Grady	E1230			road
+13253215	US:OK:Grady	N2960			road
+13266075	lcn			Boulevard/Eastern	bicycle
+13268951	US:OK:Harmon	N1690			road
+13268952	US:OK:Harmon	N1688			road
+13268963	US:OK:Harmon	N1705			road
+13268964	US:OK:Harmon	N1700			road
+13269009	US:OK:Harmon	N1770			road
+13269010	US:OK:Harmon	N1760			road
+13269011	US:OK:Harmon	N1748			road
+13269012	US:OK:Harmon	N1745			road
+13269013	US:OK:Harmon	N1740			road
+13269014	US:OK:Harmon	N1735			road
+13269015	US:OK:Harmon	N1730			road
+13272566	US:OK:Greer	N1820			road
+13272567	US:OK:Harmon	N1810			road
+13272568	US:OK:Harmon	N1800			road
+13272569	US:OK:Harmon	N1780			road
+13272611	US:OK:Greer	N1460			road
+13272612	US:OK:Greer	N1940			road
+13272613	US:OK:Greer	E1470			road
+13272614	US:OK:Greer	N1930			road
+13272615	US:OK:Greer	N1920			road
+13272616	US:OK:Greer	N1900			road
+13272617	US:OK:Greer	N1890			road
+13272618	US:OK:Greer	N1880			road
+13272619	US:OK:Greer	N1870			road
+13272620	US:OK:Greer	N1860			road
+13272621	US:OK:Greer	N1850			road
+13272622	US:OK:Greer	N1840			road
+13272623	US:OK:Greer	N1830			road
+13272633	US:OK:Harmon	N1750			
+13279461	US:OK:Greer	E1450			road
+13284434	US:OK:Greer	N2010			road
+13284435	US:OK:Greer	N2000			road
+13284436	US:OK:Greer	N1995			road
+13284437	US:OK:Greer	N1990			road
+13284438	US:OK:Greer	N1980			road
+13284439	US:OK:Greer	N1970			road
+13284440	US:OK:Greer	N1960			road
+13284563	US:OK:Kiowa	N2100			road
+13284564	US:OK:Kiowa	N2080			road
+13284565	US:OK:Kiowa	N2090			road
+13284566	US:OK:Kiowa	E1400			road
+13284567	US:OK:Greer	N2070			road
+13284568	US:OK:Kiowa	N2060			road
+13284569	US:OK:Kiowa	N2050			road
+13284570	US:OK:Greer	N2030			road
+13284571	US:OK:Greer	E1420			road
+13284694	US:OK:Kiowa	N2170			road
+13284695	US:OK:Kiowa	N2160			road
+13284696	US:OK:Kiowa	N2150			road
+13284697	US:OK:Kiowa	N2140			road
+13284826					
+13284827	US:OK:Kiowa	N2190			road
+13284899	US:OK:Kiowa	N2300			road
+13284900	US:OK:Kiowa	N2290			road
+13284901	US:OK:Kiowa	N2270			road
+13284902	US:OK:Kiowa	N2280			road
+13284903	US:OK:Kiowa	N2260			road
+13284904	US:OK:Kiowa	N2250			road
+13284905	US:OK:Kiowa	N2240			road
+13286436	US:OK:Kiowa	N2370			road
+13286437	US:OK:Kiowa	N2360			road
+13286438	US:OK:Kiowa	E1340			road
+13286439	US:OK:Kiowa	E1330			road
+13287193	US:OK:Kiowa	N2380			road
+13287201	US:OK:Kiowa	N2440			road
+13287202	US:OK:Kiowa	N2430			road
+13287203	US:OK:Kiowa	N2420			road
+13287204	US:OK:Kiowa	N2410			road
+13287205	US:OK:Kiowa	N2400			road
+13287261	US:OK:Caddo	E1330			road
+13287309	US:OK:Caddo	E1320			road
+13287832	US:OK:Woodward	N2240			road
+13287833	US:OK:Woodward	N2230			road
+13287834	US:OK:Woodward	N2220			road
+13287835	US:OK:Woodward	E0400			road
+13287836	US:OK:Woodward	N2210			road
+13287837	US:OK:Woodward	N2200			road
+13287838	US:OK:Woodward	N2190			road
+13287839	US:OK:Woodward	N2180			road
+13287840	US:OK:Woodward	N2170			road
+13287841	US:OK:Woodward	N2160			road
+13287842	US:OK:Woodward	N2150			road
+13287843	US:OK:Woodward	N2140			road
+13287844	US:OK:Woodward	E0410			road
+13308177	US:OK:LeFlore	E1350			road
+13320897	US:OK:Creek	E0840			road
+13320898	US:OK:Creek	E0845			road
+13320899	US:OK:Creek	E0850			road
+13320900	US:OK:Creek	E0860			road
+13320901	US:OK:Creek	E0865			road
+13320902	US:OK:Creek	E0870			road
+13320903	US:OK:Creek	E0880			road
+13320904	US:OK:Creek	E0890			road
+13320905	US:OK:Creek	E0930			road
+13320906	US:OK:Creek	E0920			road
+13320907	US:OK:Creek	E0940			road
+13320908	US:OK:Creek	E0950			road
+13320909	US:OK:Okfuskee	E0960			road
+13320910	US:OK:Okfuskee	E0970			road
+13320911	US:OK:Okfuskee	E0980			road
+13320912	US:OK:Okfuskee	E0990			road
+13320913	US:OK:Okfuskee	E1000			road
+13320914	US:OK:Okfuskee	E1005			road
+13320915	US:OK:Okfuskee	E1010			road
+13320916	US:OK:Okfuskee	E1020			road
+13320917	US:OK:Okfuskee	E1040			road
+13344315	US:OK:Creek	N3640			road
+13344316	US:OK:Creek	D3635			road
+13344317	US:OK:Creek	D3620			road
+13344318	US:OK:Creek	D0752			road
+13344319	US:OK:Creek	D0720			road
+13344370	US:OK:Okmulgee	N3920			road
+13344371	US:OK:Okmulgee	N3915			road
+13353421	US:OK:Woodward	N2000			road
+13353422	US:OK:Woodward	E0380			road
+13353423	US:OK:Woodward	N1990			road
+13353424	US:OK:Woodward	N1980			road
+13353425	US:OK:Woodward	E0370			road
+13353426	US:OK:Woodward	E0360			road
+13353429	US:OK:Woodward	E0334			road
+13365590	US:OK:Woodward	N2040			road
+13366016	US:OK:Dewey	E0590			road
+13366017	US:OK:Woodward	E0580			road
+13366018	US:OK:Woodward	E0560			road
+13366019	US:OK:Woodward	N2070			road
+13366020	US:OK:Woodward	E0550			road
+13366021	US:OK:Woodward	E0540			road
+13366022	US:OK:Woodward	E0530			road
+13366023	US:OK:Woodward	E0520			road
+13366024	US:OK:Woodward	E0500			road
+13366025	US:OK:Woodward	E0490			road
+13366026	US:OK:Woodward	E0480			road
+13366027	US:OK:Woodward	N2060			road
+13366028	US:OK:Woodward	E0470			road
+13366029	US:OK:Woodward	N2050			road
+13366030	US:OK:Woodward	E0460			road
+13366031	US:OK:Woodward	E0450			road
+13366032	US:OK:Woodward	E0440			road
+13366651	US:OK:Dewey	N2040			road
+13366652	US:OK:Dewey	E0800			road
+13366653	US:OK:Dewey	E0780			road
+13366654	US:OK:Dewey	N2050			road
+13366655	US:OK:Dewey	E0760			road
+13366656	US:OK:Dewey	N2060			road
+13366657	US:OK:Dewey	E0750			road
+13366658	US:OK:Dewey	N2075			road
+13366659	US:OK:Dewey	E0710			road
+13366661	US:OK:Dewey	E0650			road
+13366662	US:OK:Dewey	E0640			road
+13366663	US:OK:Dewey	E0630			road
+13366664	US:OK:Dewey	E0610			road
+13366755	US:OK:Roger_Mills	E0960			road
+13366756	US:OK:Custer	E0960			road
+13366763	US:OK:Custer	E0940			road
+13366764	US:OK:Roger_Mills	E0940			road
+13366765	US:OK:Roger_Mills	E0930			road
+13366766	US:OK:Roger_Mills	N2030			road
+13366767	US:OK:Custer	E0920			road
+13366768	US:OK:Custer	E0910			road
+13366769	US:OK:Custer	E0900			road
+13366770	US:OK:Custer	N2040			road
+13366771	US:OK:Custer	E0870			road
+13366772	US:OK:Custer	E0860			road
+13366773	US:OK:Custer	E0850			road
+13366774	US:OK:Custer	E0840			road
+13366775	US:OK:Custer	E0830			road
+13366776	US:OK:Dewey	E0820			road
+13366778	US:OK:Custer	E0890			road
+13366779	US:OK:Custer	E0880			road
+13368249	US:OK:Roger_Mills	N1730			road
+13368250	US:OK:Roger_Mills	E0940			road
+13368251	US:OK:Roger_Mills	E0950			road
+13368252	US:OK:Roger_Mills	N1740			road
+13368253	US:OK:Roger_Mills	E0970			road
+13368254	US:OK:Roger_Mills	E0990			road
+13368255	US:OK:Roger_Mills	E1020			road
+13368256	US:OK:Roger_Mills	E1030			road
+13370701	US:OK:Custer	E0990			road
+13370702	US:OK:Roger_Mills	E0990			road
+13370703	US:OK:Roger_Mills	E0980			road
+13370704	US:OK:Roger_Mills	E0970			road
+13370705	US:OK:Custer	E0970			road
+13370751	US:OK:Beckham	E1040			road
+13370752	US:OK:Roger_Mills	E1030			road
+13370753	US:OK:Roger_Mills	E1026			road
+13370754	US:OK:Roger_Mills	E1023			road
+13372697	US:OK:Beckham	E1157			road
+13372698	US:OK:Beckham	E1153			road
+13372817	US:OK:Beckham	N2020			road
+13372818	US:OK:Beckham	E1250			road
+13372819	US:OK:Beckham	N2010			road
+13373413	US:OK:Beckham	E1270			road
+13373414	US:OK:Washita	E1270			road
+13373529	US:OK:Greer	E1390			road
+13373530	US:OK:Greer	E1380			road
+13373531	US:OK:Greer	E1360			road
+13373626	US:OK:Greer	E1480			road
+13373627	US:OK:Greer	E1470			road
+13373628	US:OK:Greer	E1465			road
+13378762	US:OK:Greer	E1520			road
+13378763	US:OK:Greer	N2030			road
+13378764	US:OK:Greer	E1510			road
+13378765	US:OK:Greer	E1500			road
+13378766	US:OK:Greer	N2020			road
+13378804	US:OK:Jackson	E1530			road
+13378817	US:OK:Jackson	E1550			road
+13383537	US:OK:Roger_Mills	N1740			road
+13383538	US:OK:Roger_Mills	N1750			road
+13383539	US:OK:Roger_Mills	N1760			road
+13383540	US:OK:Roger_Mills	N1770			road
+13383541	US:OK:Roger_Mills	N1780			road
+13383542	US:OK:Roger_Mills	N1790			road
+13383543	US:OK:Roger_Mills	N1800			road
+13383544	US:OK:Roger_Mills	N1810			road
+13395593	US:OK:Bryan	E2110			road
+13397949	US:OK:Lincoln	N3330			road
+13398467	US:OK:Lincoln	N3350			road
+13398468	US:OK:Lincoln	E0990			road
+13398469	US:OK:Lincoln	E0980			road
+13398470	US:OK:Lincoln	N3390			road
+13398471	US:OK:Lincoln	N3400			road
+13398472	US:OK:Lincoln	N3420			road
+13398473	US:OK:Lincoln	E0960			road
+13398474	US:OK:Lincoln	N3430			road
+13398475	US:OK:Lincoln	N3440			road
+13398476	US:OK:Lincoln	E0950			road
+13398477	US:OK:Lincoln	N3450			road
+13398478	US:OK:Lincoln	N3470			road
+13398479	US:OK:Lincoln	E0940			road
+13398480	US:OK:Lincoln	N3480			road
+13398481	US:OK:Lincoln	E0930			road
+13398482	US:OK:Lincoln	N3500			road
+13398483	US:OK:Lincoln	N3510			road
+13398484	US:OK:Lincoln	E0920			road
+13398485	US:OK:Lincoln	N3520			road
+13398486	US:OK:Lincoln	E0910			road
+13398487	US:OK:Lincoln	N3540			road
+13398488	US:OK:Lincoln	N3550			road
+13398489	US:OK:Lincoln	E0900			road
+13399087	US:OK:Lincoln	N3310			road
+13399088	US:OK:Lincoln	E0960			road
+13399090	US:OK:Lincoln	N3380			road
+13399092		E0930			road
+13399094	US:OK:Lincoln	N3430			road
+13399797	US:OK:Seminole	N3510			road
+13399798	US:OK:Seminole	E1180			road
+13415508	US:OK:Pontotoc	E1620			road
+13415509	US:OK:Pontotoc	E1630			road
+13415510	US:OK:Pontotoc	N3580			road
+13415528	US:OK:Cotton	N2540			road
+13415529	US:OK:Cotton	N2530			road
+13415637	US:OK:Blaine	N2600			road
+13415638	US:OK:Blaine	N2610			road
+13415639	US:OK:Blaine	N2627			road
+13415640	US:OK:Blaine	N2635			road
+13415641	US:OK:Blaine	N2650			road
+13425782	US:OK:Kay	E0130			road
+13429674	US:OK:Washita	E1120			road
+13429675	US:OK:Washita	E1110			road
+13429677	US:OK:Custer	CR E1060			road
+13429678	US:OK:Custer	E1050			road
+13429679	US:OK:Custer	N2040			road
+13429680	US:OK:Custer	E1040			road
+13429681	US:OK:Roger_Mills	N2020			road
+13429682	US:OK:Roger_Mills	E1020			road
+13429683	US:OK:Custer	N2030			road
+13431446	US:OK:Blaine	E0835			road
+13431453	US:OK:Blaine	N2570			road
+13431454	US:OK:Blaine	E0850			road
+13431455	US:OK:Blaine	E0860			road
+13431456	US:OK:Blaine	N2580			road
+13431457	US:OK:Blaine	E0880			road
+13431458	US:OK:Blaine	E0885			road
+13431459	US:OK:Blaine	E0890			road
+13431460	US:OK:Blaine	N2600			road
+13431461	US:OK:Blaine	N2600			road
+13431462	US:OK:Blaine	E0900			road
+13431463	US:OK:Blaine	E0910			road
+13431464	US:OK:Blaine	E0930			road
+13431465	US:OK:Blaine	E0940			road
+13434373	US:OK:Kingfisher	N2830			road
+13434374	US:OK:Kingfisher	E0715			road
+13439343	US:OK:McCurtain	N4460			road
+13439344	US:OK:McCurtain	N4475			road
+13439345	US:OK:McCurtain	N4480			road
+13439346	US:OK:McCurtain	N4490			road
+13439347	US:OK:McCurtain	E2085			road
+13441623					power
+13441624					power
+13441625					power
+13442142					power
+13442143					power
+13442144					power
+13442145					power
+13442146					power
+13442147					power
+13442148					power
+13442149					power
+13442308	US:OK:Ellis	N1800			road
+13442309	US:OK:Ellis	N1810			road
+13442310	US:OK:Ellis	N1780			road
+13442311	US:OK:Ellis	N1770			road
+13442510					power
+13442511					power
+13442512					power
+13442513					power
+13442514					power
+13442515					power
+13442516					power
+13442537					power
+13442664					power
+13442665					power
+13442666					power
+13444328	US:OK:Payne	N3530			road
+13444329	US:OK:Payne	N3520			road
+13444330	US:OK:Payne	E0620			road
+13444331	US:OK:Payne	N3510			road
+13444499	US:OK:Bryan	N3700			road
+13479907	US:OK:Cimarron	E0190			road
+13479908	US:OK:Cimarron	N0250			road
+13479909	US:OK:Cimarron	N0240			road
+13479910	US:OK:Cimarron	N0210			road
+13479911	US:OK:Cimarron	N0200			road
+13479912	US:OK:Cimarron	N0163			road
+13479914	US:OK:Cimarron	E0190			road
+13479915	US:OK:Cimarron	N0120			road
+13479916	US:OK:Cimarron	D0132			road
+13479917	US:OK:Cimarron	E0094			road
+13479918	US:OK:Cimarron	D0085			road
+13479919	US:OK:Cimarron	D0073			road
+13479920	US:OK:Cimarron	D0068			road
+13479921	US:OK:Cimarron	D0054			road
+13479922	US:OK:Cimarron	D0048			road
+13479923	US:OK:Cimarron	D0073			road
+13489249	US:OK:Custer	E1030			road
+13489250	US:OK:Custer	E1020			road
+13489251	US:OK:Custer	N2140			road
+13489252	US:OK:Custer	E1010			road
+13489253	US:OK:Custer	E1000			road
+13489254	US:OK:Custer	N2150			road
+13489255	US:OK:Custer	CR E0990			road
+13489256	US:OK:Custer	E0980			road
+13489257	US:OK:Custer	E0970			road
+13489258	US:OK:Custer	E0960			road
+13489259	US:OK:Custer	N2130			road
+13489260	US:OK:Custer	E0955			road
+13489382	US:OK:Custer	N2035			road
+13489383	US:OK:Custer	N2040			road
+13489384	US:OK:Custer	N2050			road
+13489385	US:OK:Custer	N2060			road
+13489386	US:OK:Custer	N2070			road
+13489387	US:OK:Custer	N2090			road
+13489388	US:OK:Custer	N2110			road
+13489594	US:OK:Custer	E0840			road
+13489595	US:OK:Custer	N2440			road
+13489596	US:OK:Blaine	N2450			road
+13489597	US:OK:Blaine	E0820			road
+13489704	US:OK:Okmulgee	E0800			road
+13489705	US:OK:Okmulgee	E0830			road
+13489706	US:OK:Okmulgee	N3900			road
+13490371	US:OK:Creek	N3670			road
+13490372	US:OK:Creek	N3680			road
+13503619	US:OK:Payne	N3560			road
+13503620	US:OK:Payne	N3540			road
+13503621	US:OK:Payne	N3530			road
+13503622	US:OK:Payne	N3520			road
+13503623	US:OK:Payne	N3510			road
+13507615	US:OK:Kingfisher	N2860			road
+13507616	US:OK:Kingfisher	N2880			road
+13507617	US:OK:Kingfisher	N2890			road
+13507618	US:OK:Kingfisher	N2900			road
+13507619	US:OK:Kingfisher	N2910			road
+13507620	US:OK:Kingfisher	N2920			road
+13507621	US:OK:Kingfisher	E0800			road
+13507622	US:OK:Kingfisher	N2940			road
+13507623	US:OK:Kingfisher	N2930			road
+13507624	US:OK:Kingfisher	N2950			road
+13507625	US:OK:Kingfisher	N2960			road
+13507626	US:OK:Kingfisher	N2970			road
+13523732	US:OK:Logan	N3170			road
+13523733	US:OK:Logan	E0760			road
+13523734	US:OK:Logan	E0750			road
+13523735	US:OK:Logan	N3190			road
+13523736	US:OK:Logan	N3200			road
+13523737	US:OK:Logan	N3210			road
+13523741	US:OK:Logan	N3230			road
+13523742	US:OK:Logan	E0730			road
+13523746	US:OK:Payne	N3240			road
+13523747	US:OK:Payne	E0720			road
+13523748	US:OK:Payne	N3270			road
+13523749	US:OK:Payne	N3260			road
+13523750	US:OK:Payne	N3280			road
+13523751	US:OK:Payne	N3290			road
+13523752	US:OK:Payne	N3300			road
+13523753	US:OK:Payne	N3310			road
+13523754	US:OK:Payne	N3320			road
+13523755	US:OK:Payne	N3330			road
+13527541	US:OK:LeFlore	N4812			road
+13546462	US:OK:Rogers	D4179			road
+13547684	US:OK:Kay	N3200			road
+13547685	US:OK:Kay	E0100			road
+13547686	US:OK:Kay	N3190			road
+13547687	US:OK:Kay	N3180			road
+13548283	US:OK:Caddo	E1310			road
+13548284	US:OK:Caddo	N2680			road
+13548285	US:OK:Caddo	N2670			road
+13548286	US:OK:Caddo	E1290			road
+13548287	US:OK:Caddo	E1270			road
+13548288	US:OK:Caddo	E1260			road
+13566177	US:OK:Muskogee	E0800			road
+13566179	US:OK:Wagoner	E0790			road
+13566183	US:OK:Wagoner	E0760			road
+13569055	US:OK:Muskogee	E0860			road
+13569056	US:OK:Muskogee	E0870			road
+13569057	US:OK:Muskogee	N4160			road
+13569058	US:OK:Muskogee	N4150			road
+13569060	US:OK:Muskogee	E0840			road
+13569061	US:OK:Muskogee	N4090			road
+13569062	US:OK:Muskogee	E0830			road
+13569063	US:OK:Muskogee	E0810			road
+13569065	US:OK:Wagoner	N4100			road
+13569066	US:OK:Muskogee	E0820			road
+13624372	lcn				bicycle
+13628053	US:OK:Muskogee	N4130			road
+13628470	US:OK:Muskogee	E0930			road
+13628471	US:OK:Muskogee	E0890			road
+13628472	US:OK:Muskogee	E0885			road
+13628473	US:OK:Muskogee	N4140			road
+13628530	US:OK:Muskogee	E0920			road
+13628531	US:OK:Muskogee	E0910			road
+13628532	US:OK:Muskogee	E0900			road
+13634441	US:OK:Muskogee	N4130			road
+13636475	US:OK:Muskogee	E0970			road
+13636476	US:OK:Muskogee	E0960			road
+13636477	US:OK:Muskogee	E0950			road
+13640837	US:OK:Muskogee	N4130			road
+13640838	US:OK:Muskogee	E0990			road
+13640845	US:OK:McIntosh	N4135			road
+13640846	US:OK:McIntosh	N4140			road
+13642159	US:OK:McIntosh	N4170			road
+13642160	US:OK:McIntosh	N4180			road
+13642161	US:OK:McIntosh	E1060			road
+13642162	US:OK:McIntosh	N4150			road
+13642163	US:OK:McIntosh	E1050			road
+13644426	US:OK:McIntosh	N4190			road
+13655640	US:OK:McIntosh	N4160			road
+13655641	US:OK:McIntosh	E1040			road
+13655642	US:OK:McIntosh	E1030			road
+13655643	US:OK:McIntosh	E1020			road
+13655821	US:OK:McIntosh	E1050			road
+13655822	US:OK:McIntosh	N4220			road
+13655823	US:OK:McIntosh	N4200			road
+13655824	US:OK:McIntosh	E1030			road
+13655825	US:OK:McIntosh	N4210			road
+13655826	US:OK:McIntosh	E1020			road
+13659191	US:OK:McIntosh	N4200			road
+13661502	US:OK:McIntosh	E1140			road
+13661505	US:OK:McIntosh	E1130			road
+13661506	US:OK:McIntosh	E1120			road
+13661507	US:OK:McIntosh	E1100			road
+13661508	US:OK:McIntosh	E1110			road
+13661511	US:OK:McIntosh	E1080			road
+13661512	US:OK:McIntosh	E1070			road
+13687750	US:OK:McIntosh	N4180			road
+13697893	US:OK:Pushmataha	N4417			road
+13716752	US:OK:Muskogee	N4310			road
+13716753	US:OK:Muskogee	N4320			road
+13716754	US:OK:Muskogee	E1070			road
+13716755	US:OK:Muskogee	N4340			road
+13716756	US:OK:Muskogee	E1040			road
+13716757	US:OK:Muskogee	E1060			road
+13716758	US:OK:Muskogee	N4330			road
+13736687	lcn			74th Avenue East	bicycle
+13736771	US:OK:Payne	N3290			road
+13736812	US:OK:Rogers	E0500			road
+13736930	US:OK:Rogers	E0510			road
+13737076	US:OK:Muskogee	N4430			road
+13741388	US:OK:Washita	E1080			road
+13741429	US:OK:Washita	N2130			road
+13741430	US:OK:Washita	N2150			road
+13741431	US:OK:Washita	N2160			road
+13741471	US:OK:Pittsburg	E1430			road
+13741472	US:OK:Pittsburg	N4115			road
+13741473	US:OK:Pittsburg	E1440			road
+13741568	US:OK:Ellis	E0470			road
+13741569	US:OK:Ellis	E0500			road
+13741570	US:OK:Ellis	N1825			road
+13741571	US:OK:Ellis	E0510			road
+13741572	US:OK:Ellis	N1820			road
+13741573	US:OK:Ellis	N1840			road
+13741722	US:OK:Craig	S4440			road
+13741723	US:OK:Craig	S4430			road
+13741818	US:OK:Sequoyah	N4510			road
+13741821	US:OK:Sequoyah	E1040			road
+13743546	US:OK:Ottawa	S603			road
+13743547	US:OK:Ottawa	S594			road
+13743548	US:OK:Ottawa	E165			road
+13743549	US:OK:Ottawa	E170			road
+13743550	US:OK:Ottawa	E175			road
+13743551	US:OK:Ottawa	E180			road
+13743552	US:OK:Ottawa	S600			road
+13743553	US:OK:Ottawa	S590			road
+13743554	US:OK:Ottawa	S580			road
+13743622	US:OK:Pontotoc	E1640			road
+13743721	US:OK:Texas	N1123			road
+13757883	US:OK:Pottawatomie	E113			road
+13759898	US:OK:LeFlore	E1415			road
+13759899	US:OK:LeFlore	N4600			road
+13761477	US:OK:Pawnee	N3750			road
+13761478	US:OK:Pawnee	N3765			road
+13761643	US:OK:Grady	N2850			road
+13761644	US:OK:Grady	N2860			road
+13767280	US:OK:Garvin	E1520			road
+13767281	US:OK:Garvin	E1530			road
+13767282	US:OK:Garvin	N3290			road
+13767283	US:OK:Garvin	N3300			road
+13767497	US:OK:Kingfisher	N2880			road
+13767498	US:OK:Kingfisher	N2890			road
+13767499	US:OK:Kingfisher	N2900			road
+13767500	US:OK:Kingfisher	N2910			road
+13767501	US:OK:Kingfisher	N2920			road
+13767502	US:OK:Kingfisher	N2940			road
+13767632	US:OK:Osage	4981			road
+13767633	US:OK:Osage	4915			road
+13767634	US:OK:Osage	4901			road
+13767635	US:OK:Osage	6101			road
+13767688	US:OK:Pottawatomie	N3380			road
+13767689	US:OK:Pottawatomie	N3390			road
+13767690	US:OK:Pottawatomie	N3400			road
+13767934	US:OK:Caddo	E1340			road
+13767935	US:OK:Caddo	N2560			road
+13767936	US:OK:Caddo	N2570			road
+13767937	US:OK:Caddo	N2580			road
+13767938	US:OK:Caddo	E1360			road
+13767939	US:OK:Caddo	N2590			road
+13767940	US:OK:Caddo	N2600			road
+13767941	US:OK:Caddo	E1350			road
+13768131	US:OK:McCurtain	E2078			road
+13768135	US:OK:McCurtain	N4470			road
+13768136	US:OK:McCurtain	D4465			road
+13770802	US:OK:Kingfisher	E0790			road
+13770803	US:OK:Logan	N2990			road
+13770804	US:OK:Logan	N3000			road
+13794663	US:OK:Lincoln	E1060			road
+13794724	US:OK:Pushmataha	N4210			road
+13794725	US:OK:Pushmataha	E1870			road
+13794726	US:OK:Pushmataha	N4190			road
+13794727	US:OK:Pushmataha	N4180			
+13794728	US:OK:Pushmataha	N4175			road
+13794729	US:OK:Pushmataha	E1880			road
+13794730	US:OK:Pushmataha	E1890			road
+13794731	US:OK:Pushmataha	E1900			road
+13794732	US:OK:Pushmataha	N4170			road
+13794804	US:OK:Pushmataha	D4250			road
+13794805	US:OK:Pushmataha	D4245			road
+13794806	US:OK:Pushmataha	N4230			road
+13812706	US:OK:Pittsburg	N4238			road
+13812707	US:OK:Pittsburg	N4217			road
+13812708	US:OK:Pittsburg	N4213			road
+13812709	US:OK:Pittsburg	N4200			road
+13812710	US:OK:McIntosh	N4180			road
+13812711	US:OK:McIntosh	E1210			road
+13830890	US:OK:Haskell	E1240			road
+13830941	US:OK:Pittsburg	N4235			road
+13831465	US:OK:Pittsburg	E1285			road
+13831466	US:OK:Haskell	E1260			road
+13831467	US:OK:Haskell	E1250			road
+13831640	US:OK:Pittsburg	N4290			road
+13831641	US:OK:Pittsburg	E1308			road
+13831642	US:OK:Pittsburg	E1310			road
+13831643	US:OK:Pittsburg	N4280			road
+13831644	US:OK:Pittsburg	E1290			road
+13831669	US:OK:Haskell	E1350			road
+13831674	US:OK:Latimer	D1395			road
+13836848	US:OK:Pushmataha	N4330			road
+13837234	US:OK:LeFlore	E1260			road
+13837243	US:OK:LeFlore	E1250			road
+13837244	US:OK:LeFlore	E1240			road
+13837245	US:OK:LeFlore	E1235			road
+13837246	US:OK:LeFlore	N4695			road
+13837247	US:OK:LeFlore	E1230			road
+13837248	US:OK:LeFlore	E1220			road
+13837249	US:OK:LeFlore	N4690			road
+13839575	US:OK:LeFlore	E1320			road
+13839576	US:OK:LeFlore	D4703			road
+13839577	US:OK:LeFlore	E1315			road
+13839578	US:OK:LeFlore	D4700			road
+13839579	US:OK:LeFlore	E1300			road
+13839582	US:OK:LeFlore	E1290			road
+13839783	US:OK:Jackson	N2070			road
+13839788	US:OK:Haskell	D1171			road
+13847875	US:OK:Pushmataha	N4345			road
+13848185	US:OK:Rogers	E410			road
+13848186	US:OK:Rogers	S4090			road
+13848187	US:OK:Washington	W800			road
+13848188	US:OK:Garfield	N3010			road
+13849796	US:OK:Pushmataha	E1620			road
+13849797	US:OK:LeFlore	E1580			road
+13849798	US:OK:LeFlore	E1570			road
+13849799	US:OK:LeFlore	D4485			road
+13849801	US:OK:Pushmataha	N4455			road
+13849802	US:OK:Pushmataha	E1642			road
+13849803	US:OK:Pushmataha	N4430			road
+13849804	US:OK:Pushmataha	N4415			road
+13849805	US:OK:Pushmataha	D1650			road
+13849806	US:OK:Pushmataha	N4390			road
+13849807	US:OK:Pushmataha	N4380			road
+13849808	US:OK:Pushmataha	E1654			road
+13849809	US:OK:Pushmataha	E1652			road
+13849810	US:OK:Pushmataha	N4358			road
+13849811	US:OK:Pushmataha	E1655			road
+13849812	US:OK:Pushmataha	N4355			road
+13849813	US:OK:Pushmataha	N4350			road
+13849814	US:OK:Pushmataha	N4340			road
+13855773	US:OK:Washington	W2225			road
+13855788	US:OK:Payne	N3300			road
+13857717	US:OK:Logan	E0660			road
+13857718	US:OK:Payne	E0660			road
+13872280	US:OK:Pittsburg	E1480			road
+13872281	US:OK:Pittsburg	E1470			road
+13872282	US:OK:Latimer	E1470			road
+13872533	US:OK:Pittsburg	E1490			road
+13912761	US:OK:Adair	N4750			road
+13912762	US:OK:Adair	E0660			road
+13912763	US:OK:Adair	N4740			road
+13912764	US:OK:Adair	N4730			road
+13912765	US:OK:Adair	E0670			road
+13912766	US:OK:Adair	N4710			road
+13912767	US:OK:Adair	E0680			road
+13912768	US:OK:Adair	N4700			road
+13912769	US:OK:Adair	N4690			road
+13912770	US:OK:Adair	D0682			road
+13912771	US:OK:Adair	E0693			road
+13912772	US:OK:Adair	D0698			road
+13912773	US:OK:Adair	D4645			road
+13912774	US:OK:Adair	E0724			road
+13912775	US:OK:Adair	D4620			road
+13912776	US:OK:Cherokee	D0724			road
+13912777	US:OK:Cherokee	D0728			road
+13912778	US:OK:Cherokee	E0788			road
+13912779	US:OK:Wagoner	N4220			road
+13912780	US:OK:Wagoner	N4200			road
+13914793	US:OK:Jackson	N2110			road
+13920695	US:OK	53A			road
+13925181	US:OK:Washita	N2140			road
+13925182	US:OK:Washita	N2130			road
+13925183	US:OK:Washita	N2120			road
+13925186	US:OK:Washita	N2080			road
+13925187	US:OK:Washita	N2070			road
+13925188	US:OK:Washita	N2060			road
+13925189	US:OK:Washita	N2050			road
+13925190	US:OK:Washita	N2040			road
+13925191	US:OK:Beckham	N2000			road
+13925192	US:OK:Beckham	N1990			road
+13925193	US:OK:Beckham	N1970			road
+13925194	US:OK:Beckham	N1980			road
+13925195	US:OK:Beckham	N1960			road
+13927160	US:OK:Washita	N2150			road
+13927161	US:OK:Washita	E1250			road
+13928019	US:OK:Osage	5715			road
+13999646	US:OK:Ottawa	E50			road
+13999648	US:OK:Ottawa	S592			road
+13999649	US:OK:Ottawa	S600			road
+13999650	US:OK:Ottawa	E40			road
+13999651	US:OK:Ottawa	S610			road
+13999652	US:OK:Ottawa	S614			road
+13999653	US:OK:Ottawa	S620			road
+13999654	US:OK:Ottawa	E30			road
+13999655	US:OK:Ottawa	E20			road
+13999656	US:OK:Ottawa	S630			road
+13999657	ncn	66	west		bicycle
+14000095	US:OK:Ottawa	N452			road
+14000096	US:OK:Delaware	N4520			road
+14000097	US:OK:Ottawa	E210			road
+14000098	US:OK:Ottawa	E190			road
+14000099	US:OK:Ottawa	E180			road
+14000100	US:OK:Ottawa	E160			road
+14000101	US:OK:Ottawa	E140			road
+14000102	US:OK:Ottawa	E150			road
+14000103	US:OK:Ottawa	S530			road
+14000104	US:OK:Ottawa	E130			road
+14000105	US:OK:Ottawa	S540			road
+14000106	US:OK:Ottawa	E120			road
+14000107	US:OK:Ottawa	S545			road
+14000123	US:OK:Delaware	E0240			road
+14000124	US:OK:Ottawa	N450			road
+14000167	US:OK:Craig	S460			road
+14000168	US:OK:Craig	S470			road
+14000169	US:OK:Craig	S480			road
+14000170	US:OK:Craig	S490			road
+14000171	US:OK:Delaware	E260			road
+14000172	US:OK:Delaware	E250			road
+14001463	US:OK:Craig	S420			road
+14001464	US:OK:Craig	S440			road
+14005165	US:OK:Craig	S370			road
+14005166	US:OK:Craig	S380			road
+14005167	US:OK:Craig	S385			road
+14005168	US:OK:Craig	S390			road
+14005270	US:OK:Craig	S360			road
+14005293	US:OK:Craig	S4310			road
+14005294	US:OK:Rogers	E0310			road
+14005295	US:OK:Craig	E310			road
+14005296	US:OK:Craig	S320			road
+14005297	US:OK:Craig	E300			road
+14005298	US:OK:Craig	E290			road
+14005299	US:OK:Craig	S330			road
+14005300	US:OK:Craig	E280			road
+14005301	US:OK:Craig	S340			road
+14008998	US:OK:Rogers	S4260			road
+14008999	US:OK:Rogers	S4280			road
+14009000	US:OK:Rogers	S4290			road
+14009001	US:OK:Rogers	E0320			road
+14009002	US:OK:Rogers	S4300			road
+14009058	US:OK:Rogers	E360			road
+14009059	US:OK:Rogers	S4240			road
+14009060	US:OK:Rogers	E340			road
+14009157	US:OK:Rogers	S4200			road
+14009158	US:OK:Rogers	E410			road
+14009159	US:OK:Rogers	E390			road
+14009160	US:OK:Rogers	E385			road
+14009161	US:OK:Rogers	S4218			road
+14009162	US:OK:Rogers	S4220			road
+14012834	US:OK:Rogers	E450			road
+14012835	US:OK:Rogers	E440			road
+14012836	US:OK:Rogers	E430			road
+14012837	US:OK:Rogers	E420			road
+14012838	US:OK:Rogers	S4150			road
+14012839	US:OK:Rogers	S4160			road
+14012840	US:OK:Rogers	S4170			road
+14012841	US:OK:Rogers	S4180			road
+14015829	US:OK:Bryan	E2140			road
+14017481	US:OK:Rogers	S4151			road
+14018799	US:OK:Bryan	N3710			road
+14026956	US:OK:Rogers	S4050			road
+14026957	US:OK:Rogers	S4070			road
+14026974	US:OK:Rogers	S4090			road
+14026975	US:OK:Rogers	S4120			road
+14026976	US:OK:Rogers	S4130			road
+14026977	US:OK:Rogers	N4140			road
+14026978	US:OK:Rogers	E530			road
+14026979	US:OK:Rogers	E520			road
+14030213	US:OK:Creek	E0740			road
+14033881	US:OK:Creek	E0750			road
+14034098	US:OK:Creek	D3743			road
+14046947	US:OK:Creek	E0770			road
+14048892	US:OK:Creek	E0800			road
+14048893	US:OK:Creek	N3720			road
+14048894	US:OK:Creek	E0790			road
+14048895	US:OK:Creek	N3730			road
+14049076	US:OK:Creek	N3710			road
+14053022	ncn	66	east		bicycle
+14105994	US:OK:Okfuskee	N3850			road
+14105995	US:OK:Okfuskee	E1160			road
+14105996	US:OK:Okfuskee	E1140			road
+14105997	US:OK:Okfuskee	N3820			road
+14106055	US:OK:Okfuskee	E1120			road
+14106056	US:OK:Okfuskee	N3790			road
+14106057	US:OK:Okfuskee	E1110			road
+14106058	US:OK:Okfuskee	N3780			road
+14106708	US:OK:Kiowa	N2250			road
+14106709	US:OK:Kiowa	E1610			road
+14106710	US:OK:Kiowa	E1599			road
+14106711	US:OK:Kiowa	E1596			road
+14106712	US:OK:Kiowa	N2255			road
+14106713	US:OK:Kiowa	E1590			road
+14106714	US:OK:Kiowa	E1580			road
+14113380	US:OK:Mayes	N4290			road
+14113381	US:OK:Mayes	E0620			road
+14113382	US:OK:Mayes	D4293			road
+14113383		E0650			road
+14113384	US:OK:Wagoner	E0660			road
+14113859	US:OK:Muskogee	N4410			road
+14113860	US:OK:Muskogee	N4425			road
+14118631	lcn			Lindsey Street	bicycle
+14118632	lcn			Biloxi Drive	bicycle
+14122438	US:OK:Blaine	N2545			road
+14145190				Creek Subdivision	railway
+14161943	US:OK:Stephens	N2800			road
+14161944	US:OK:Stephens	N2790			road
+14161945	US:OK:Stephens	N2780			road
+14162208	US:OK:Garfield	E0340			road
+14162209	US:OK:Garfield	E0360			road
+14162210	US:OK:Garfield	E0370			road
+14162211	US:OK:Grant	E0290			road
+14162212	US:OK:Garfield	E0350			road
+14162213	US:OK:Garfield	E0380			road
+14162214	US:OK:Garfield	N2810			road
+14162279	US:OK:Ellis	E0440			road
+14171153	US:OK:Garvin	N3400			road
+14171154	US:OK:Garvin	N3410			road
+14171155	US:OK:Pontotoc	N3420			road
+14171864	US:OK:Garvin	N3320			road
+14171865	US:OK:Garvin	N3340			road
+14171866	US:OK:Garvin	N3350			road
+14171867	US:OK:Garvin	N3360			road
+14171868	US:OK:Garvin	N3370			road
+14171869	US:OK:Garvin	N3380			road
+14176213	US:OK:Garvin	N3150			road
+14176214	US:OK:Garvin	E1520			road
+14176215	US:OK:Garvin	N3160			road
+14176216	US:OK:Garvin	N3165			road
+14176217	US:OK:Garvin	E1530			road
+14176218	US:OK:Garvin	N3170			road
+14176219	US:OK:Garvin	E1550			road
+14176220	US:OK:Garvin	N3200			road
+14176221	US:OK:Garvin	E1580			road
+14176222	US:OK:Garvin	E1570			road
+14176223	US:OK:Garvin	E1560			road
+14176224	US:OK:Garvin	N3210			road
+14176693	US:OK:Garvin	N3050			road
+14176694	US:OK:Garvin	N3060			road
+14176695	US:OK:Garvin	N3080			road
+14176696	US:OK:Garvin	N3120			road
+14196090	lcn				bicycle
+14208399	US:OK:Payne	N3330			road
+14219514	US:OK:Carter	N3140			road
+14219515	US:OK:Carter	E1960			road
+14219516	US:OK:Carter	N3120			road
+14219519	US:OK:Carter	N3110			road
+14222335	US:OK:Kay	N3340			road
+14222605	US:OK:Kay	N3320			road
+14222606	US:OK:Bryan	N3710			road
+14222671	US:OK:Bryan	N3690			road
+14222703	US:OK:Garfield	N2910			road
+14243409	lcn			Jardot Road	bicycle
+14243410	US:OK:Payne	N3350			road
+14245507	lcn			Kings Street	bicycle
+14245809	lcn			12th Avenue	bicycle
+14245810	lcn			Western Road	bicycle
+14259559	US:OK:Custer	N2275			road
+14259560	US:OK:Custer	E1035			road
+14283569	US:OK:Muskogee	N4360			road
+14296542	US:OK:Atoka	N3980			road
+14296543	US:OK:Atoka	N4000			road
+14296544	US:OK:Atoka	N4010			road
+14296545	US:OK:Atoka	N4015			road
+14296546	US:OK:Atoka	N4020			road
+14297175	US:OK			Duncan Bypass	road
+14297740	US:OK:Pittsburg	N4250			road
+14297741	US:OK:Pittsburg	N4200			road
+14297742	US:OK:Pittsburg	E1350			road
+14297782	US:OK:Caddo	E1320			road
+14297950	US:OK:Garvin	E1500			road
+14315002	US:OK:Woodward	S203			road
+14315054	US:OK:Osage	4302			road
+14315055	US:OK:Osage	4621			road
+14315056	US:OK:Osage	4020			road
+14315057	US:OK:Osage	4030			road
+14316319	US:OK:McClain	E1400			road
+14316390	US:OK:Pawnee	N3510			road
+14316391	US:OK:Pawnee	N3500			road
+14316392	US:OK:Pawnee	E0350			road
+14316393	US:OK:Pawnee	N3480			road
+14316394	US:OK:Pawnee	E0360			road
+14316395	US:OK:Pawnee	E0370			road
+14316396	US:OK:Pawnee	E0380			road
+14316397	US:OK:Pawnee	E0390			road
+14316398	US:OK:Pawnee	E0400			road
+14316399	US:OK:Pawnee	E0410			road
+14316500	US:OK:Kay	E0290			road
+14316501	US:OK:Noble	E0330			road
+14316502	US:OK:Noble	E0340			road
+14316503	US:OK:Noble	E0350			road
+14316504	US:OK:Noble	E0370			road
+14316567	US:OK:Carter	F3150			road
+14317505	lcn			North 129th East Avenue	bicycle
+14319415	US:OK:Osage	5790			road
+14319416	US:OK:Osage	5305			road
+14319417	US:OK:Osage	2350			road
+14319418	US:OK:Osage	2350			road
+14319419	US:OK:Osage	5045			road
+14319420	US:OK:Osage	5270			road
+14319421	US:OK:Osage	5408			road
+14319422	US:OK:Osage	N3710			road
+14319423	US:OK:Osage	2800			road
+14319424	US:OK:Osage	D0393			road
+14320019	US:OK:Grant	N2925			road
+14323090	US:OK:Pushmataha	E1920			road
+14323091	US:OK:Pushmataha	E1920			road
+14323092	US:OK:Pushmataha	E1910			road
+14323523	US:OK:Pushmataha	N4310			road
+14323524	US:OK:Pushmataha	N4300			road
+14323525	US:OK:Pushmataha	N4220			road
+14323526	US:OK:Pushmataha	D4200			road
+14323527	US:OK:Pushmataha	D4171			road
+14323621	US:OK:Pawnee	E0503			road
+14323622	US:OK:Pawnee	E0520			road
+14323623	US:OK:Pawnee	E0530			road
+14323624	US:OK:Pawnee	E0540			road
+14323625	US:OK:Pawnee	E5500			road
+14341876	US:OK:Garvin	E1639			road
+14341877	US:OK:Garvin	N3270			road
+14341878	US:OK:Garvin	E1630			road
+14343679	US:OK:Bryan	N3650			road
+14343680	US:OK:Bryan	N3540			road
+14343683	US:OK:Bryan	N3620			road
+14343684	US:OK:Bryan	N3630			road
+14343685	US:OK:Bryan	N3640			road
+14343690	US:OK:Bryan	N3670			road
+14343691	US:OK:Bryan	N3660			road
+14343692	US:OK:Bryan	N3680			road
+14346312	US:OK:Kiowa	E1340			road
+14346313	US:OK:Kiowa	E1350			road
+14346314	US:OK:Kiowa	E1360			road
+14346315	US:OK:Kiowa	E1370			road
+14346316	US:OK:Kiowa	E1380			road
+14346317	US:OK:Kiowa	E1390			road
+14346318	US:OK:Kiowa	E1400			road
+14346319	US:OK:Kiowa	E1410			road
+14346320	US:OK:Kiowa	N2390			road
+14346321	US:OK:Kiowa	E1420			road
+14346322	US:OK:Kiowa	E1460			road
+14346323	US:OK:Kiowa	E1470			road
+14346324	US:OK:Kiowa	N2400			road
+14346325	US:OK:Kiowa	E1480			road
+14346326	US:OK:Kiowa	N2410			road
+14347948	US:OK:Bryan	N3735			road
+14348894	US:OK:Canadian	E1020			road
+14348979	US:OK:Osage	4151			road
+14348980	US:OK:Osage	4901			road
+14348981	US:OK:Osage	3851			road
+14348982	US:OK:Osage	3615			road
+14363472	US:OK:McCurtain	E2050			road
+14363501	US:OK:McCurtain	E1998			road
+14367465	US:OK:Kay	N3360			road
+14367466	US:OK:Kay	N3370			road
+14370270	US:OK:Payne	E0600			road
+14370495	US:OK	344	north	OK 344 (north)	road
+14370496	US:OK	344	south	OK 344 (south)	road
+14375583	US:OK:LeFlore	N4570			road
+14375584	US:OK:LeFlore	N4580			road
+14375585	US:OK:LeFlore	N4590			road
+14375586	US:OK:LeFlore	N4610			road
+14379945	US:OK:Kay	E0090			road
+14379946	US:OK:Kay	E0120			road
+14380211	US:OK:Kiowa	E1420			road
+14380212	US:OK:Kiowa	E1430			road
+14380213	US:OK:Kiowa	E1440			road
+14380214	US:OK:Kiowa	E1450			road
+14380215	US:OK:Kiowa	E1460			road
+14380216	US:OK:Kiowa	E1470			road
+14380604	US:OK:Washita	E1170			road
+14383359	US:OK:McClain	N2990			road
+14383360	US:OK:Grady	N2980			road
+14383560	US:OK:Grady	N2980			road
+14383561	US:OK:Grady	E1180			road
+14384052	US:OK:Grady	E1180			road
+14384053	US:OK:Grady	E1170			road
+14393727	US:OK:Pottawatomie	N331			road
+14398228	US:OK:LeFlore	N4760			road
+14398314	US:OK:Love	E2195			road
+14404227	US:OK:Stephens	N2850			road
+14404228	US:OK:Stephens	E1650			road
+14404229	US:OK:Stephens	N2480			road
+14404451	US:OK:Ellis	N1810			road
+14404452	US:OK:Ellis	N1800			road
+14404809	US:OK:Kingfisher	E0807			road
+14404852	US:OK:Delaware	E301			road
+14488222	US:OK:Payne	E0610			road
+14514815	US:OK:Pawnee	N3770			road
+14600121	US:OK:Kiowa	E1630			road
+14600122	US:OK:Kiowa	N2230			road
+14600123	US:OK:Kiowa	N2240			road
+14600124	US:OK:Kiowa	N2260			road
+14600125	US:OK:Kiowa	N2270			road
+14600126	US:OK:Kiowa	N2280			road
+14612107	US:OK:Jefferson	N2780			road
+14612108	US:OK:Jefferson	E1900			road
+14622334	US:OK:Grant	E0130			road
+14622335	US:OK:Grant	N2970			road
+14622336	US:OK:Grant	E0120			road
+14622337	US:OK:Grant	E0110			road
+14622338	US:OK:Grant	N2980			road
+14622339	US:OK:Grant	E0100			road
+14622340	US:OK:Grant	N2990			road
+14622341	US:OK:Grant	E0090			road
+14622342	US:OK:Grant	N3000			road
+14622343	US:OK:Grant	E0080			road
+14622344	US:OK:Grant	E0070			road
+14622345	US:OK:Grant	E0060			road
+14622346	US:OK:Grant	E0050			road
+14622347	US:OK:Grant	N3010			road
+14622348	US:OK:Grant	E0040			road
+14622349	US:OK:Grant	N3020			road
+14622350	US:OK:Grant	E0030			road
+14622351	US:OK:Grant	E0020			road
+14622881	US:OK:Grant	E0145			road
+14622882	US:OK:Grant	N2963			road
+14622883	US:OK:Grant	E0142			road
+14622884	US:OK:Grant	E0150			road
+14623413	US:OK:Grant	E0240			road
+14623415	US:OK:Grant	E0235			road
+14623416	US:OK:Grant	E0230			road
+14623417	US:OK:Grant	E0210			road
+14623418	US:OK:Grant	N2920			road
+14623419	US:OK:Grant	E0200			road
+14623420	US:OK:Grant	E0190			road
+14623421	US:OK:Grant	E0180			road
+14623422	US:OK:Grant	E0170			road
+14623423	US:OK:Grant	E0160			road
+14623424	US:OK:Grant	N2940			road
+14623425	US:OK:Grant	N2960			road
+14623449	US:OK:Grant	N2950			road
+14624287	US:OK:Garfield	E0400			road
+14638672	US:OK:Pawnee	E0560			road
+14638680	US:OK:Pawnee	N3680			road
+14638681	US:OK:Pawnee	N3670			road
+14638683	US:OK:Major	N2280			road
+14638684	US:OK:Major	E0560			road
+14638688	US:OK:Garvin	E1528			road
+14638773	US:OK:Kingfisher	E0720			road
+14642108	US:OK:Greer	N1956			road
+14642109	US:OK:Greer	E1490			road
+14644883	US:OK:Grady	N2830			road
+14645450	US:OK:Garfield	E0490			road
+14645451	US:OK:Garfield	E0500			road
+14645456	US:OK:Garfield	E0510			road
+14645458	lcn				bicycle
+14695263	US:OK:Caddo	N2710			road
+14695264	US:OK:Caddo	N2740			road
+14699662	US:OK:Caddo	N2730			road
+14699663	US:OK:Caddo	N2720			road
+14699664	US:OK:Caddo	E1300			road
+14706251	US:OK:Delaware	E0390			road
+14706253	US:OK:Delaware	D0403			road
+14706254	US:OK:Delaware	E0403			road
+14706255	US:OK:Delaware	D0411			road
+14719460				Midcontinent Express Pipeline	pipeline
+14761336	US:OK:LeFlore	N4740			road
+14772637	US:OK:Choctaw	E1980			road
+14772638	US:OK:Pushmataha	E1970			road
+14772639	US:OK:Choctaw	N4208			road
+14933185	lcn			Boulder Avenue	bicycle
+15055117	US:OK:Cimarron	E0050			road
+15055118	US:OK:Cimarron	E0075			road
+15055119	US:OK:Cimarron	D0263			road
+15055120	US:OK:Cimarron	E0130			road
+15055121	US:OK:Cimarron	E0140			road
+15055122	US:OK:Cimarron	E0150			road
+15055123	US:OK:Cimarron	E0160			road
+15055124	US:OK:Cimarron	E0170			road
+15055125	US:OK:Cimarron	E0180			road
+15055126	US:OK:Cimarron	N0185			road
+15055127	US:OK:Cimarron	E0200			road
+15055128	US:OK:Cimarron	N0300			road
+15055129	US:OK:Cimarron	N0310			road
+15055130	US:OK:Cimarron	E0220			road
+15055131	US:OK:Cimarron	N0320			road
+15055132	US:OK:Cimarron	E0250			road
+15055133	US:OK:Cimarron	E0260			road
+15055134	US:OK:Cimarron	N0370			road
+15055135	US:OK:Cimarron	E0350			road
+15080845				Talimena Scenic Drive	road
+15087442	US:OK:Canadian	N2710			road
+15255547	US:OK:Woods	N2430			road
+15255548	US:OK:Woods	N2420			road
+15255549	US:OK:Woods	N2400			road
+15255550	US:OK:Woods	N2393			road
+15255551	US:OK:Woods	N2380			road
+15258259	US:OK:Cherokee	E750			road
+15258263	US:OK:Cherokee	E0745			road
+15317579	US:OK:LeFlore	E1265			road
+15317580	US:OK:LeFlore	E1260			road
+15320788	US:OK:LeFlore	N4625			road
+15355992	US:OK:Woodward	N2265			road
+15355993	US:OK:Woodward	E0580			road
+15355994	US:OK:Major	N2270			road
+15355995	US:OK:Woodward	N2250			road
+15355996	US:OK:Woodward	N2230			road
+15355997	US:OK:Woodward	N2220			road
+15355998	US:OK:Woodward	E0560			road
+15355999	US:OK:Woodward	N2210			road
+15397560	US:OK	375	north	Indian Nation Turnpike	road
+15397561	US:OK	375	south	Indian Nation Turnpike	road
+15421598	US:Byway			Cherokee Hills Byway	road
+15437617	US:OK:Rogers	E490			road
+15437618	US:OK:Rogers	S4140			road
+15437619	US:OK:Rogers	S4120			road
+15437620	US:OK:Rogers	S4060			road
+15437621	US:OK:Rogers	S4050			road
+15446170	US:OK:Craig	E320			road
+15446171	US:OK:Craig	N4369			road
+15446172	US:OK:Craig	E310			road
+15466123	lcn				bicycle
+15507382	US:OK:Seminole	E1280			road
+15507383	US:OK:Seminole	N3620			road
+15507384	US:OK:Seminole	N3630			road
+15537313	US:OK:Sequoyah	N4735			road
+15537314	US:OK:Sequoyah	E1120			road
+15583479	US:OK:Beckham	N1675			road
+15583480	US:OK:Beckham	E1240			road
+15583481	US:OK:Beckham	N1680			road
+15583482	US:OK:Beckham	N1670			road
+15583483	US:TX:Wheeler	CR 30			road
+15583602		E0240			US:OK:Harper
+15583603	US:OK:Harper	D1883			road
+15613798	lcn			North Prospect Avenue	bicycle
+15613799	lcn			63rd Street	bicycle
+15619968	lcn			South Berry Road	bicycle
+15621362	US:OK			Former OK 21	road
+15621409	US:BIA:Choctaw	144			road
+15624673	lcn				bicycle
+15624674	lcn				bicycle
+15626492	US:OK:Rogers	E495			road
+15626493	US:OK:Rogers	S4200			road
+15658160	US:OK	59B			road
+15669889	US:OK:Sequoyah	N4802			road
+15713643	US:OK:Turnpike		north	Gilcrease Expressway (north)	road
+15713644	US:OK:Turnpike		south	Gilcrease Expressway (south)	road
+15735160	US:OK:Turnpike			Cimarron Turnpike Spur	road
+15767420	US:OK:Turnpike			Creek Turnpike	road
+15848595	US:OK:Kay	E0250			road
+15848596	US:OK:Noble	E0290			road
+15848597	US:OK:Kay	E0290			road
+15848598	US:OK:Noble	170			road
+15848599	US:OK:Noble	160			road
+15848600	US:OK:Noble	150			road
+15848601	US:OK:Noble	140			road
+15848602	US:OK:Noble	130			road
+15848603	US:OK:Noble	120			road
+15896097	Tulsa Transit	410		Lewis	bus
+15896098	Tulsa Transit	410		Lewis	bus
+16018964	rcn	344			bicycle
+16035580	US:OK:Lincoln	N3480			road
+16059473	US:OK:Ottawa	E060			road
+16074056	US:OK:Custer	E1060			road
+16095599	US:OK:Kay	N3330			road
+16099130	lcn				bicycle
+16099610	US:OK:Jefferson	N2800			road
+16102615	US:OK:Rogers	E520			road
+16140846	US:OK:Rogers	S4070			road
+16144263	US:OK:Rogers	E510			road
+16156365	Tulsa Transit	250		Crosstown	bus
+16156370	Tulsa Transit	250		Crosstown	bus
+16164332	MetroLink Tulsa	320		Sheridan	bus
+16164333	MetroLink Tulsa	320		Sheridan	bus
+16177317	Tulsa Transit	900		Broken Arrow Express	bus
+16177319	Tulsa Transit	900		Broken Arrow Express	bus
+16283708	US:OK:Rogers	S4050			road
+16289436	US:OK:Kay	E0180			road
+16358468				Diamond Pipeline	pipeline
+16408975	lcn			Mingo Road	bicycle
+16436222		I 40		Purple Heart Trail	road
+16453707	lcn			Creekside	bicycle
+16453708	lcn			Concord	bicycle
+16453709	lcn			Woodcreek	bicycle
+16453710	lcn			Oakhurst	bicycle
+16453711	lcn			Imhoff	bicycle
+16453712	lcn			Classen	bicycle
+16453713	lcn			12th	bicycle
+16453714	lcn			Alameda	bicycle
+16453715	lcn			24th	bicycle
+16453716	lcn			Brandywine	bicycle
+16453717	lcn			Shiloh	bicycle
+16453718	lcn			Vicksburg	bicycle
+16453719	lcn			Boyd	bicycle
+16453720	lcn			Sunrise	bicycle
+16453721	lcn			Beaumont	bicycle
+16498261	US:OK:Kingfisher	E0715			road
+16498262	US:OK:Kingfisher	N2855			road
+16498263	US:OK:Kingfisher	N2860			road
+16498264	US:OK:Kingfisher	E0710			road
+16499215	US:OK:Spur	7	south	OK 7 Spur (south)	road
+16499216	US:OK:Spur	7	north	OK 7 Spur (north)	road
+16623143	US:OK:Osage	N3340			road
+16640085	US:OK:Noble	220			road
+16658386	lcn			Cruce Street	bicycle
+16658387	lcn			Pickard Avenue	bicycle
+16658932	lcn			McElroy Road	bicycle
+16665506	lcn			Garnett Road	bicycle
+16684504	US:OK:Haskell	1270			road
+16691471	US:OK:Rogers	S4060			road
+16691474	lcn			86th Street	bicycle
+16694465	lcn			76th Street North	bicycle
+16757014	lcn			Westport Drive	bicycle
+16757016	lcn			Bishop Creeks Drive	bicycle
+16758370	lcn			Willow Branch Road	bicycle
+16758371				Cherry Creek Drive	bicycle
+16758372	lcn			Westernview Drive	bicycle
+16758373	lcn			Willowbend Drive	bicycle
+16758374				Crestmont Street	bicycle
+16758375	lcn			24th Avenue	bicycle
+16758376	lcn			Asp Avenue	bicycle
+16758492	lcn			Ponca Avenue	bicycle
+16758493	lcn			Claremont Drive	bicycle
+16758557	lcn			48th Avenue Northeast	bicycle
+16758875	lcn			Oak Tree Avenue	bicycle
+16758876	lcn			12th Avenue	bicycle
+16762617	lcn			Sherry Avenue	bicycle
+16789379	US:OK:Canadian	E1020			road
+16831343	lcn				bicycle
+16831344	lcn			Chicago Avenue	bicycle
+16831347	lcn			Shawnee Street	bicycle
+16833568	US:OK:Pontotoc	N3610			road
+16834741	US:OK:Muskogee	N4380			road
+16834742	US:OK:Muskogee	N4385			road
+16834743	US:OK:Muskogee	N4390			road
+16834744	US:OK:Muskogee	D4428			road
+16834745	US:OK:Cherokee	W840			road
+16834746	US:OK:Cherokee	S444			road
+16834747	US:OK:Cherokee	S470			road
+16834748	US:OK:Cherokee	W835			road
+16834749	US:OK:Cherokee	W797			road
+16834750	US:OK:Cherokee	W796			road
+16834751	US:OK:Cherokee	W749			road
+16834752	US:OK:Cherokee	S512			road
+16834753	US:OK:Cherokee	S511			road
+16835029	US:OK:Muskogee	S370			road
+16837934	US:OK:Rogers	N4040			road
+16838098	US:OK:Mayes	N4350			road
+16844719	lcn			Lawrence Avenue	bicycle
+16847126	lcn				road
+16849757	US:OK:Noble	E0500			road
+16850150	US:OK:McIntosh	N4230			road
+16850151	US:OK:McIntosh	N4240			road
+16850152	US:OK:McIntosh	N4250			road
+16850153	US:OK:McIntosh	N4260			road
+16850154	US:OK:McIntosh	N4270			road
+16850167	US:OK:Kay	E0220			road
+16850168	US:OK:Custer	N2270			road
+16862498	US:OK:Choctaw	E2130			road
+16862499	US:OK:Choctaw	N4220			road
+16862500	US:OK:Choctaw	E2140			road
+16867032				3rd/4th Avenue	bicycle
+16867033	lcn			19th Avenue	bicycle
+16867034	lcn				bicycle
+16867043	lcn			McFarland Avenue	bicycle
+16867044	lcn			Farm Road	bicycle
+16867045	lcn			University Avenue	bicycle
+16867046	lcn				bicycle
+16867047	lcn			Hall of Fame Avenue	bicycle
+16867116	lcn				bicycle
+16867117	lcn			Western Road	bicycle
+16867118	lcn			9th Avenue	bicycle
+16867119	lcn			Monroe Street	bicycle
+16867120	lcn			Husband Street	bicycle
+16867124	lcn			Hester Street	bicycle
+16867125	lcn			Washington Street	bicycle
+16867126	lcn			Maple Avenue	bicycle
+16867132	lcn			Jardot Road	bicycle
+16867133	lcn			McElroy Road	bicycle
+16867134	lcn			Stallard Street	bicycle
+16867135	lcn			Skyline Street	bicycle
+16875377	US:OK:Garvin	E1500			road
+16885771	US:OK:Garvin	N3200			road
+16885772	US:OK:Garvin	E1530			road
+16911707	US:OK:Noble	E0360			road
+16911708	US:OK:Noble	E0390			road
+16911709	US:OK:Noble	E0400			road
+16911710	US:OK:Noble	E0630			road
+16911711	US:OK:Payne	E0650			road
+16911712	US:OK:Payne	E0670			road
+16911713	US:OK:Payne	E0680			road
+16911714	US:OK:Payne	E0690			road
+16911715	US:OK:Logan	E0730			road
+16911716	US:OK:Logan	E0750			road
+16911717	US:OK:Logan	E0880			road
+16950194	lcn			Dorchester Drive	bicycle
+16950195	lcn			Highland Parkway	bicycle
+16951162	lcn			Berry Road	bicycle
+16951163	lcn			Acres Street	bicycle
+16951384	lcn			Cedar Lane Road	bicycle
+16997643	lcn			Ponca Avenue	bicycle
+16997644	lcn			Duffy Street	bicycle
+16998435	lcn			9th Street	bicycle
+17000977				Black Gold	bicycle
+17000978				Boom Town	bicycle
+17008078	lcn				bicycle
+17008079	lcn			Camden Way	bicycle
+17008113	lcn			Brooks Street	bicycle
+17081919	US:OK:Rogers	E470			road
+17091018	US:OK:Pontotoc	E1520			road
+17091063	US:OK:Rogers	N4040			road
+17092547	US:OK:Grady	N2848			road
+17092643	US:OK:Pontotoc	N3625			road
+17092662	lcn			Havenbrook Street	bicycle
+17093978	US:OK:Pontotoc	N3590			road
+17094509	lcn			Kickingbird Road	bicycle
+17094530	lcn				bicycle
+17145545	US:OK:Lincoln	N3418			road
+17145546	US:OK:Lincoln	E0975			road
+17145865	US:OK:Lincoln	E1010			road
+17145866	US:OK:Lincoln	E1025			road
+17145868	US:OK:Lincoln	E1030			road
+17148290	US:OK:Lincoln	E0970			road
+17149883	US:OK:Lincoln	E0930			road
+17149884	US:OK:Lincoln	E0925			road
+17149885	US:OK:Lincoln	N3565			road
+17150947	US:OK:Lincoln	N3530			road
+17150948	US:OK:Lincoln	N3550			road
+17150949	US:OK:Lincoln	E0740			road
+17150950	US:OK:Lincoln	E0750			road
+17150951	US:OK:Lincoln	E0760			road
+17150952	US:OK:Lincoln	E0770			road
+17150953	US:OK:Lincoln	E0780			road
+17150954	US:OK:Lincoln	E0790			road
+17150955	US:OK:Lincoln	E0800			road
+17150956	US:OK:Lincoln	E0810			road
+17150957	US:OK:Lincoln	E0820			road
+17150958	US:OK:Creek	N3590			road
+17150959	US:OK:Lincoln	E0840			road
+17160559	US:OK:Lincoln	N3472			road
+17171570	US:OK:Lincoln	E1050			road
+17171571	US:OK:Lincoln	N3430			road
+17186521	US:OK:Lincoln	E0970			road
+17186522	US:OK:Lincoln	N3475			road
+17186523	US:OK:Lincoln	E0980			road
+17186524	US:OK:Lincoln	E1020			road
+17186525	US:OK:Lincoln	E1025			road
+17188306	US:OK:Lincoln	E0930			road
+17188307	US:OK:Lincoln	N3460			road
+17188339	US:OK:Lincoln	E0920			road
+17189730	US:OK:Atoka	E1880			road
+17189731	US:OK:Atoka	E1890			road
+17189732	US:OK:Bryan	N3810			road
+17189733	US:OK:Bryan	N3790			road
+17189734	US:OK:Bryan	E1990			road
+17189735	US:OK:Bryan	N3760			road
+17189736	US:OK:Bryan	N3750			road
+17189737	US:OK:Bryan	E2055			road
+17189738	US:OK:Bryan	E2060			road
+17189739	US:OK:Bryan	E2160			road
+17189740	US:OK:Bryan	N3653			road
+17192430	US:OK:Custer	N2263			road
+17193091	US:OK:Beckham	N1950			road
+17193092	US:OK:Beckham	N1970			road
+17193097	US:OK:Beckham	N2000			road
+17233233	US:OK:Osage	2025			road
+17235433	US:OK:Osage	5909			road
+17235434	US:OK:Osage	5907			road
+17235435	US:OK:Osage	5905			road
+17235436	US:OK:Osage	5901			road
+17235437	US:OK:Osage	5410			road
+17235438	US:OK:Osage	5412			road
+17235439	US:OK:Osage	5759			road
+17235440	US:OK:Osage	5753			road
+17235441	US:OK:Osage	5717			road
+17235442	US:OK:Osage	5320			road
+17235443	US:OK:Osage	5695			road
+17235444	US:OK:Osage	5675			road
+17235445	US:OK:Osage	5645			road
+17235446	US:OK:Osage	5575			road
+17235447	US:OK:Osage	5260			road
+17235448	US:OK:Osage	5451			road
+17235449	US:OK:Osage	5250			road
+17235450	US:OK:Osage	5455			road
+17235451	US:OK:Osage	5229			road
+17245584	lcn				bicycle
+17245736	lcn			Denison Drive	bicycle
+17246077	lcn				bicycle
+17246104	lcn				bicycle
+17263133	lcn			Kansas Street	bicycle
+17263134	lcn			University Boulevard	bicycle
+17269533	US:OK:Pontotoc	1538			road
+17269534	US:OK:Pontotoc	3541			road
+17269535	US:OK:Pontotoc	1549			road
+17269536	US:OK:Pontotoc	3542			road
+17269537	US:OK:Pontotoc	3543			road
+17269538	US:OK:Pontotoc	1548			road
+17269550	US:OK:Pontotoc	3544			road
+17269554	US:OK:Pontotoc	E1550			road
+17298352	US:OK:Tulsa:Tulsa	G		Gilcrease Expressway	road
+17357152	lcn			116th Street	bicycle
+17384712	US:OK:Bryan	E2060			road
+17386436	US:OK:Bryan	N3320			road
+17386437	US:OK:Payne	E0610			road
+17402179	US:OK:Mayes	E0460			road
+17407508	US:OK:Mayes	N4390			road
+17407510	US:OK:Mayes	0540			road
+17407511	US:OK:Mayes	E0550			road
+17415391	lwn			Black Trail	foot
+17415392	lwn			Green Trail	foot
+17416947	lwn			Red Trail	foot
+17417030	lwn			Orange Trail	foot
+17417031	lwn			Blue Trail	foot
+17417032	lwn			Yellow Trail	foot
+17431081	US:OK:Cherokee	W660			road
+17431082	US:OK:Cherokee	N450			road
+17431083	US:OK	82C			road
+17434766	US:OK:Mayes	E0440			road
+17434767	US:OK:Mayes	E0420			road
+17442649	US:OK:Pontotoc	170			road
+17442650	US:OK:Pontotoc	1705			road
+17442651	US:OK:Pontotoc	172			road
+17451427	US:OK:Pontotoc	354			road
+17468067	US:OK:Garvin	N3220			road
+17469743	US:OK:Bryan	N3710			road
+17469793	US:OK:Pontotoc	N3585			road
+17470069	US:OK:Garvin	3250			road
+17470141	US:OK:Bryan	N3670			road
+17470333	US:OK:Muskogee	N4380			road
+17470334	US:OK:Muskogee	E0940			road
+17470451	US:OK:Pontotoc	3			road
+17483110	US:OK:Stephens	E1810			road
+17487837	US:OK:Adair	D4675			road
+17543410	US:OK:McIntosh	E1180			road
+17551146	US:OK:Cotton	N2610			road
+17551147	US:OK:Cotton	E1910			road
+17551148	US:OK:Cotton	E1950			road
+17631153	US:OK:Jefferson	N2790			road
+17631154	US:OK:Jefferson	N2780			road
+17631180	US:OK:Lincoln	N3370			road
+17631389	US:OK:Okmulgee	E1060			road
+17631390	US:OK:Okmulgee	N3990			road
+17632513	lcn			36th Avenue	bicycle
+17632514	lcn			Tecumseh Road	bicycle
+17634031	US:OK:Harmon	E1492			road
+17634032	US:OK:Harmon	E1500			road
+17634033	US:OK:Harmon	E1510			road
+17634034	US:OK:Harmon	E1520			road
+17634035	US:OK:Harmon	E1530			road
+17634036	US:OK:Harmon	E1540			road
+17634037	US:OK:Harmon	E1550			road
+17634038	US:OK:Harmon	E1560			road
+17634039	US:OK:Harmon	E1570			road
+17634040	US:OK:Harmon	E1580			road
+17634041	US:OK:Harmon	E1590			road
+17634042	US:OK:Harmon	E1600			road
+17637921	US:OK:Caddo	N2600			road
+17637922	US:OK:Caddo	N2585			road
+17637923	US:OK:Caddo	N2560			road
+17637924	US:OK:Caddo	N2530			road
+17637925	US:OK:Caddo	N2515			road
+17637926	US:OK:Caddo	N2500			road
+17637927	US:OK:Caddo	N2490			road
+17637928	US:OK:Caddo	N2480			road
+17637929	US:OK:Caddo	E1022			road
+17637930	US:OK:Caddo	N2590			road
+17637940	US:OK:Caddo	E1030			road
+17637989	US:OK:RogerMills	E0970			road
+17637990	US:OK:RogerMills	E0980			road
+17637991	US:OK:RogerMills	E1010			road
+17637992	US:OK:RogerMills	E1020			road
+17644113	US:OK:Dewey	N2090			road
+17644114	US:OK:Dewey	N2110			road
+17644115	US:OK:Dewey	N2120			road
+17644116	US:OK:Dewey	N2140			road
+17644117	US:OK:Dewey	N2150			road
+17644118	US:OK:Dewey	N2160			road
+17644119	US:OK:Dewey	N2170			road
+17644120	US:OK:Dewey	N2180			road
+17644121	US:OK:Dewey	N2190			road
+17644122	US:OK:Dewey	N2200			road
+17644123	US:OK:Dewey	N2210			road
+17644124	US:OK:Dewey	N2220			road
+17644125	US:OK:Dewey	N2230			road
+17644126	US:OK:Dewey	N2240			road
+17644127	US:OK:Dewey	N2250			road
+17644128	US:OK:Dewey	N2260			road
+17644132	US:OK:Major	N2280			road
+17644133	US:OK:Dewey	N2280			road
+17644136	US:OK:Dewey	N2290			road
+17644137	US:OK:Dewey	E0590			road
+17644138	US:OK:Dewey	E0600			road
+17644903	US:OK:Pittsburg	N4090			road
+17644908	US:OK:Pittsburg	N4035			road
+17647844	US:OK:Payne	E0630			road
+17647845	US:OK:Payne	E0640			road
+17647846	US:OK:Payne	E0650			road
+17647847	US:OK:Payne	E0660			road
+17647848	US:OK:Payne	E0670			road
+17647849	US:OK:Payne	E0680			road
+17648023	US:OK:Jackson	N1920			road
+17648024	US:OK:Jackson	E1723			road
+17648064	US:OK:LeFlore	E1400			road
+17648065	US:OK:LeFlore	N4770			road
+17729426	US:OK:Adair	N4660			road
+17729427	US:OK:Adair	D0885			road
+17729428	US:OK:Adair	D0943			road
+17729429	US:OK:Sequoyah	D4602			road
+17729872	lcn			Duck Street	bicycle
+17743532	US:OK:Logan	N3290			road
+17743533	US:OK:Payne	190			road
+17744752	lcn			81st Street	bicycle
+17745050	US:OK:Lincoln	N3290			road
+17792534	US:OK:Harmon	N1720			road
+17800457	US:OK:Pontotoc	351			road
+17800458	US:OK:Pontotoc	152			road
+17800459	US:OK:Pontotoc	350			road
+17810492	US:OK:Rogers	S4230			road
+17810493	US:OK:Rogers	S4200			road
+17810494	US:OK:Rogers	S4140			road
+17810495	US:OK:Rogers	S4130			road
+17810496	US:OK:Rogers	S4120			road
+17810497	US:OK:Rogers	N4150			road
+17810515	US:OK:Rogers	S4240			road
+17810573	US:OK:Mayes	N4260			road
+17814135	US:OK:Delaware	D572			road
+17814136	US:OK:Delaware	S600			road
+17814137	US:OK:Delaware	S590			road
+17814138	US:OK:Delaware	S590			road
+17814139	US:OK:Delaware	S580			road
+17814140	US:OK:Delaware	S570			road
+17814141	US:OK:Delaware	S560			road
+17814142	US:OK:Delaware	S550			road
+17814143	US:OK:Delaware	S540			road
+17814144	US:OK:Mayes	D0563			road
+17814145	US:OK:Mayes	N4425			road
+17814146	US:OK:Mayes	E0570			road
+17814147	US:OK:Mayes	N4340			road
+17814148	US:OK:Mayes	N4335			road
+17814149	US:OK:Mayes	N4320			road
+17814150	US:OK:Mayes	N4310			road
+17814151	US:OK:Mayes	N4300			road
+17814152	US:OK:Rogers	N4250			road
+17814406	US:OK:Delaware	667			road
+17814407	US:OK:Delaware	S663			road
+17814408	US:OK:Delaware	S735			road
+17814409	US:OK:Delaware	N4725			road
+17814410	US:OK:Delaware	S720			road
+17814411	US:OK:Delaware	S715			road
+17814412	US:OK:Delaware	S712			road
+17814413	US:OK:Delaware	S705			road
+17814414	US:OK:Delaware	S700			road
+17814415	US:OK:Delaware	S690			road
+17814416	US:OK:Delaware	D578			road
+17814417	US:OK:Delaware	S680			road
+17814418	US:OK:Delaware	660			road
+17814419	US:OK:Delaware	E573			road
+17867907	US:OK:Delaware	E580			road
+17867908	US:OK:Delaware	E570			road
+17867909	US:OK:Delaware	E550			road
+17867910	US:OK:Delaware	E540			road
+17867911	US:OK:Delaware	E532			road
+17908005	lcn			North-South Trail	bicycle
+17909718	US:OK:Ottawa	N4703			road
+17910005	US:OK:Delaware	N4700			road
+17911205	US:OK:Sequoyah	N4740			road
+17911206	US:OK:Sequoyah	E983			road
+17925431	lcn				bicycle
+17976928	US:OK:Lincoln	E0890			road
+18011425	US:OK:Muskogee	N4210			road
+18011558	lcn				bicycle
+18011559	US:OK:Muskogee	N4190			road
+18014982	US:OK:Jackson	E1610			road
+18021238	US:OK:Sequoyah	E1023			road
+18048649	US:OK:Pittsburg	N4110			road
+18048650	US:OK:Pittsburg	E1570			road
+18048933	US:OK:Pittsburg	E1520			road
+18049227	US:OK:Pittsburg	E1480			road
+18049379	US:OK:Pittsburg	E1500			road
+18049519	US:OK:Pittsburg	E1550			road
+18055270	US:OK:Lincoln	N3330			road
+18055271	US:OK:Lincoln	E0890			road
+18055272	US:OK:Lincoln	E0880			road
+18055273	US:OK:Lincoln	E0900			road
+18055274	US:OK:Lincoln	N3320			road
+18055315	US:OK:Okmulgee	N3880			road
+18055316	US:OK:Okmulgee	E0980			road
+18055335	US:OK:McIntosh	N4120			road
+18055336	US:OK:McIntosh	E1220			road
+18055337	US:OK:McIntosh	E1210			road
+18055455	US:OK:McIntosh	N4130			road
+18055456	US:OK:McIntosh	N4110			road
+18070713	US:OK:Blaine	E0990			road
+18070733	US:OK:Blaine	N2590			road
+18070822	US:OK:Blaine	N2590			road
+18070823	US:OK:Blaine	E0720			road
+18070824	US:OK:Blaine	E0710			road
+18070825	US:OK:Blaine	E0695			road
+18070826	US:OK:Blaine	N2600			road
+18070827	US:OK:Blaine	E0700			road
+18071424	US:OK:Blaine	N2610			road
+18071425	US:OK:Blaine	E0710			road
+18071426	US:OK:Blaine	N2620			road
+18071427	US:OK:Blaine	E0740			road
+18085596	US:OK:Canadian	E0950			road
+18085602	US:OK:Blaine	E0950			road
+18085713	US:OK:Caddo	N2720			road
+18085720	US:OK:Sequoyah	N4490			road
+18085721	US:OK:Sequoyah	E1070			road
+18085724	US:OK:Blaine	E0800			road
+18085756	US:OK:Caddo	N2510			road
+18085930	US:OK:Caddo	N2690			road
+18085931	US:OK:Caddo	E1140			road
+18085953	US:OK:Caddo	E1050			road
+18085954	US:OK:Caddo	N2550			road
+18085955	US:OK:Caddo	N2570			road
+18085991	US:OK:Blaine	E0960			road
+18085992	US:OK:Blaine	N2580			road
+18085993	US:OK:Blaine	N2590			road
+18086067	US:OK:Blaine	E0940			road
+18086297	US:OK:Greer	E1415			road
+18086381	US:OK:Caddo	E1040			road
+18086440	US:OK:Caddo	N2710			road
+18086441	US:OK:Caddo	E1190			road
+18086442	US:OK:Caddo	E1180			road
+18086443	US:OK:Caddo	E1170			road
+18086444	US:OK:Caddo	E1150			road
+18086445	US:OK:Caddo	E1140			road
+18086717	US:OK:Blaine	N2680			road
+18086718	US:OK:Blaine	E0850			road
+18086719	US:OK:Blaine	E0840			road
+18086720	US:OK:Blaine	E0830			road
+18086721	US:OK:Blaine	E0820			road
+18086722	US:OK:Blaine	E0780			road
+18086723	US:OK:Blaine	E0770			road
+18086724	US:OK:Blaine	N2670			road
+18086725	US:OK:Blaine	E0820			road
+18088469	US:OK:Caddo	N2680			road
+18088470	US:OK:Caddo	E1130			road
+18088635	US:OK:Caddo	N2740			road
+18088636	US:OK:Caddo	E1210			road
+18088637	US:OK:Caddo	E1190			road
+18088638	US:OK:Caddo	E1180			road
+18088639	US:OK:Caddo	E1140			road
+18093830	US:OK:Blaine	E0950			road
+18093831	US:OK:Blaine	E0920			road
+18093832	US:OK:Blaine	E0910			road
+18093833	US:OK:Blaine	E0890			road
+18093834	US:OK:Blaine	E0870			road
+18093835	US:OK:Blaine	E0860			road
+18093836	US:OK:Blaine	E0840			road
+18093837	US:OK:Blaine	E0830			road
+18093838	US:OK:Blaine	E0820			road
+18093839	US:OK:Blaine	N2550			road
+18093840	US:OK:Blaine	N2550			road
+18093841	US:OK:Blaine	N2560			road
+18110770	US:OK:Blaine	N2640			road
+18110771	US:OK:Blaine	E0760			road
+18110772	US:OK:Blaine	N2650			road
+18110773	US:OK:Blaine	E0750			road
+18110774	US:OK:Blaine	N2620			road
+18143427	US:OK:Blaine	E0840			road
+18143428	US:OK:Blaine	N2560			road
+18145169	US:OK:Blaine	E0670			road
+18145170	US:OK:Blaine	E0660			road
+18145171	US:OK:Blaine	E0680			road
+18145172	US:OK:Blaine	N2650			road
+18145173	US:OK:Blaine	N2660			road
+18145174	US:OK:Blaine	E0650			road
+18145175	US:OK:Blaine	N2650			road
+18145176	US:OK:Blaine	N2670			road
+18145177	US:OK:Blaine	E0690			road
+18145178	US:OK:Kingfisher	E0670			road
+18145179	US:OK:Kingfisher	N2690			road
+18145180	US:OK:Blaine	E0660			road
+18147640	US:OK:Nowata	N4130			road
+18156509	lcn				bicycle
+18156510	lcn				bicycle
+18156998	lcn				bicycle
+18156999	lcn				bicycle
+18159820	lcn				bicycle
+18185085	US:OK:Atoka	E1940			road
+18185102	US:OK:McCurtain	E2170			road
+18185103	US:OK:McCurtain	N4700			road
+18185138	lcn				bicycle
+18233317	US:OK:Caddo	N2700			road
+18237839	US:OK:Blaine	N2530			road
+18241253					
+18265038	US:OK:Blaine	E0970			road
+18265039	US:OK:Blaine	N2545			road
+18265040	US:OK:Blaine	N2520			road
+18265041	US:OK:Blaine	N2550			road
+18265079	US:OK:Blaine	N2620			road
+18265080	US:OK:Blaine	N2610			road
+18265352	US:OK:Blaine	N2560			road
+18265353	US:OK:Blaine	E0995			road
+18265355	US:OK:Blaine	E1000			road
+18270545	US:OK:Tillman	N2370			road
+18270546	US:OK:Tillman	E1860			road
+18270547	US:OK:Tillman	N2360			road
+18270548	US:OK:Tillman	N2355			road
+18270549	US:OK:Tillman	E1870			road
+18275626	US:OK:Okmulgee	S360			road
+18275627	US:OK:Okmulgee	N360			road
+18275635	US:OK:Muskogee	S380			road
+18275636	US:OK:Muskogee	N380			road
+18275640	US:OK:Muskogee	N370			road
+18278296	US:OK:Okmulgee	N340			road
+18278297	US:OK:Okmulgee	S340			road
+18278312	US:OK:Okmulgee	S350			road
+18278313	US:OK:Okmulgee	N350			road
+18286613	US:OK:Pottawatomie	E1290			road
+18290709	US:OK:Okmulgee	S300			road
+18290710	US:OK:Okmulgee	N300			road
+18290711	US:OK:Okmulgee	S310			road
+18290712	US:OK:Okmulgee	N310			road
+18290840	US:OK:Okmulgee	N290			road
+18290841	US:OK:Okmulgee	S290			road
+18291037	US:OK:Okmulgee	S280			road
+18291038	US:OK:Okmulgee	N280			road
+18291654	US:OK:Okmulgee	N260			road
+18291655	US:OK:Okmulgee	CR S260			road
+18291656	US:OK:Okmulgee	S270			road
+18291657	US:OK:Okmulgee	N270			road
+18293885	US:OK:Okmulgee	N281			road
+18320551	US:OK:Beckham	E1090			road
+18320552	US:OK:Beckham	N2010			road
+18330844	US:OK:Pawnee	N3610			road
+18342481	US:OK:Pontotoc	1570			road
+18342482	US:OK:Pontotoc	3480			road
+18342483	US:OK:Pontotoc	3482			road
+18351606	US:OK:Ottawa	S450			road
+18351607	US:OK:Ottawa	S449			road
+18351647	US:OK:Logan	N3110			road
+18390042	US:OK:Okmulgee	S255			road
+18391731	US:OK:Pontotoc	166			road
+18391817	US:OK:Washington	W1000			road
+18391818	US:OK:Washington	N3970			road
+18391819	US:OK:Washington	W850			road
+18391820	US:OK:Washington	W700			road
+18391821	US:OK:Washington	W670			road
+18392571	US:OK:Washington	N3940			road
+18392572	US:OK:Washington	W300			road
+18392573	US:OK:Washington	W600			road
+18416369	US:OK:Okmulgee	E0930			road
+18457455	US:OK:Grady	2923			road
+18473571	US:OK:Creek	E0860			road
+18480095	US:OK:Lincoln	N3380			road
+18480096	US:OK:Lincoln	N3340			road
+18480097	US:OK:Creek	E0810			road
+18480098	US:OK:Creek	E0850			road
+18480099	US:OK:Creek	E0870			road
+18480100	US:OK:Creek	N3610			road
+18480102	US:OK:Lincoln	N3460			road
+18480940	US:OK:Creek	N3770			road
+18480941	US:OK:Lincoln	N3490			road
+18480942	US:OK:Lincoln	N3510			road
+18480943	US:OK:Lincoln	N3480			road
+18482508	US:OK:Canadian	N2830			road
+18482509	US:OK:Canadian	E1130			road
+18487195	US:OK:Kingfisher	N2860			road
+18487196	US:OK:Kingfisher	2850			road
+18487259	US:OK:Canadian	E1040			road
+18491501	US:OK:Okmulgee	E0830			road
+18491600	US:OK:Okmulgee	E0810			road
+18491805	US:OK:Okmulgee	E0800			road
+18494658	US:OK:Canadian	N2830			road
+18498509	US:OK:Canadian	N2800			road
+18498510	US:OK:Canadian	N2810			road
+18503987	US:OK:Okmulgee	N3950			road
+18507088	US:OK:Okmulgee	N3990			road
+18507089	US:OK:Okmulgee	N3940			road
+18517299	US:OK:Wagoner	E764			road
+18524579	US:OK:Osage	2193			road
+18524580	US:OK:Osage	2131			road
+18524581	US:OK:Osage	3503			road
+18524582	US:OK:Osage	3505			road
+18524583	US:OK:Osage	2425			road
+18528907	US:OK:Okfuskee	E1100			road
+18539264	US:OK:Sequoyah	N4670			road
+18539265	US:OK:Sequoyah	N4680			road
+18543268	US:OK:Sequoyah	N4630			road
+18544388	US:OK:McIntosh	N4290			road
+18547140	US:OK:Adair	E0630			road
+18572068	US:OK:Blaine	N2620			road
+18572069	US:OK:Blaine	N2660			road
+18578319	US:OK:Stephens	N2810			road
+18578984	US:OK:Garvin	N3250			road
+18586565	US:OK:Okmulgee	N346			road
+18586698	US:OK:Blaine	N2560			road
+18586699	US:OK:Blaine	E0620			road
+18589649	US:OK:Blaine	E0600			road
+18589650	US:OK:Blaine	N2580			road
+18589651	US:OK:Blaine	N2570			road
+18589652	US:OK:Blaine	E0590			road
+18589653	US:OK:Blaine	N2550			road
+18589654	US:OK:Blaine	E0595			road
+18589655	US:OK:Blaine	N2586			road
+18589656	US:OK:Blaine	E0599			road
+18589657	US:OK:Blaine	E0597			road
+18589658	US:OK:Blaine	N2588			road
+18589659	US:OK:Blaine	N2590			road
+18591282	US:OK:Blaine	E0640			road
+18591283	US:OK:Blaine	N2610			road
+18591284	US:OK:Major	N2590			road
+18593998	US:OK:Garfield	E0580			road
+18593999	US:OK:Major	E0580			road
+18594000	US:OK:Garfield	N2750			road
+18594001	US:OK:Garfield	N2760			road
+18594002	US:OK:Garfield	N2770			road
+18594003	US:OK:Garfield	N2780			road
+18594004	US:OK:Garfield	N2800			road
+18594005	US:OK:Garfield	N2820			road
+18594006	US:OK:Garfield	N2840			road
+18594007	US:OK:Garfield	N2850			road
+18594008	US:OK:Garfield	N2880			road
+18594009	US:OK:Garfield	N2890			road
+18594010	US:OK:Garfield	N2910			road
+18594011	US:OK:Garfield	N2920			road
+18594012	US:OK:Garfield	N2930			road
+18594013	US:OK:Kingfisher	N2830			road
+18594014	US:OK:Garfield	E0570			road
+18595079	US:OK:Seminole	N3650			road
+18595080	US:OK:Seminole	E1370			road
+18595081	US:OK:Seminole	E1360			road
+18595082	US:OK:Seminole	E1350			road
+18595083	US:OK:Seminole				road
+18595084	US:OK:Seminole	E1330			road
+18595085	US:OK:Seminole	E1320			road
+18595086	US:OK:Seminole	E1310			road
+18595087	US:OK:Seminole	N3660			road
+18607947	US:OK:Cherokee	N4580			road
+18608406	US:OK:Garfield	E0530			road
+18608407	US:OK:Garfield	E0520			road
+18608408	US:OK:Garfield	E0460			road
+18608409	US:OK:Garfield	E0470			road
+18608805	US:OK:Garfield	E0560			road
+18609020	US:OK:Garfield	N2930			road
+18609021	US:OK:Garfield	N2950			road
+18609022	US:OK:Garfield	N2970			road
+18609023	US:OK:Garfield	N2980			road
+18609024	US:OK:Garfield	N2990			road
+18609025	US:OK:Garfield	N3010			road
+18609026	US:OK:Garfield	N3020			road
+18609027	US:OK:Garfield	N3030			road
+18609028	US:OK:Garfield	N3050			road
+18609029	US:OK:Garfield	N3060			road
+18609030	US:OK:Garfield	N3070			road
+18609031	US:OK:Garfield	N3080			road
+18609032	US:OK:Garfield	N3110			road
+18609033	US:OK:Noble	E0500			road
+18609034	US:OK:Garfield	E0490			road
+18618170	US:OK:Garfield	E0570			road
+18618171	US:OK:Garfield	E0500			road
+18618172	US:OK:Garfield	E0490			road
+18623237	US:OK:Kingfisher	E0590			road
+18626613	US:OK:Kingfisher	E0795			road
+18626614	US:OK:Kingfisher	N2690			road
+18626958	US:OK:Noble	E0520			road
+18626959	US:OK:Noble	240			road
+18627302	US:OK:Payne	E0550			road
+18651822	US:OK:Garvin	E1540			road
+18651823	US:OK:Pontotoc	343			road
+18681827	US:OK:Garvin	N3030			road
+18681828	US:OK:Garvin	N3170			road
+18681829	US:OK:Garvin	N3180			road
+18681904	US:OK:Garvin	N3380			road
+18681905	US:OK:Garvin	E1500			road
+18690462	US:OK:Garvin	N3395			road
+18690463	US:OK:Garvin	E1510			road
+18690464	US:OK:Garvin	E1520			road
+18704963	US:OK:Pontotoc	N3415			road
+18704964	US:OK:Pontotoc	E1502			road
+18704965	US:OK:Pontotoc	N3420			road
+18704966	US:OK:Pontotoc	E1500			road
+18728654	US:OK:Washita	E1130			road
+18728656	US:OK:Washita	E1150			road
+18740911	US:OK:Washita	N2400			road
+18740912	US:OK:Washita	N2410			road
+18740913	US:OK:Washita	E1180			road
+18742717	US:OK:Washita	N2280			road
+18742761	US:OK:Washita	N2360			road
+18745009	US:OK:Washita	N2450			road
+18745029	US:OK:Caddo	E1130			road
+18745030	US:OK:Caddo	E1110			road
+18745031	US:OK:Washita	E1100			road
+18745032	US:OK:Caddo	E1100			road
+18745033	US:OK:Washita	E1090			road
+18745034	US:OK:Caddo	E1090			road
+18745035	US:OK:Caddo	E1230			road
+18745172	US:OK:Caddo	E1180			road
+18745173	US:OK:Caddo	E1170			road
+18745174	US:OK:Caddo	E1160			road
+18745704	US:OK:Caddo	N2450			road
+18745705	US:OK:Caddo	E1240			road
+18745706	US:OK:Washita	E1220			road
+18745707	US:OK:Caddo	E1280			road
+18745708	US:OK:Caddo	E1200			road
+18745709	US:OK:Washita	E1200			road
+18746931	US:OK:Washita	N2200			road
+18747147	US:OK:Caddo	E1260			road
+18747148	US:OK:Washita	E1260			road
+18747175	US:OK:Washita	N2230			road
+18747176	US:OK:Washita	E1230			road
+18747177	US:OK:Washita	N2220			road
+18747197	US:OK:Washita	E1210			road
+18747198	US:OK:Washita	N2240			road
+18748640	US:OK:Pontotoc	E1520			road
+18749431	US:OK:Custer	E0850			road
+18749432	US:OK:Custer	N2140			road
+18749433	US:OK:Custer	N2160			road
+18749434	US:OK:Custer	N2170			road
+18749435	US:OK:Custer	N2180			road
+18749436	US:OK:Custer	N2200			road
+18749437	US:OK:Custer	N2100			road
+18749438	US:OK:Custer	N2200			road
+18749439	US:OK:Custer	N2250			road
+18749440	US:OK:Custer	N2270			road
+18749441	US:OK:Custer	N2280			road
+18749442	US:OK:Custer	N2290			road
+18749443	US:OK:Custer	N2300			road
+18749444	US:OK:Custer	N2310			road
+18749445	US:OK:Custer	N2320			road
+18749446	US:OK:Custer	N2330			road
+18749447	US:OK:Custer	N2340			road
+18749448	US:OK:Custer	N2350			road
+18749449	US:OK:Custer	E0860			road
+18752395	US:OK:Pontotoc	N3440			road
+18752827	US:OK:Pontotoc	150			road
+18752828	US:OK:Pontotoc	345			road
+18752829	US:OK:Pontotoc	344			road
+18752830	US:OK:Pontotoc	346			road
+18752831	US:OK:Pontotoc	346			road
+18752832	US:OK:Pontotoc	148			road
+18752833	US:OK:Pontotoc	347			road
+18752834	US:OK:Pontotoc	349			road
+18752835	US:OK:Pontotoc	149			road
+18752902	US:OK:Pontotoc	345			road
+18752903	US:OK:Pontotoc	160			road
+18752997	US:OK:Pontotoc	346			road
+18753534	US:OK:Pontotoc	343			road
+18753535	US:OK:Pontotoc	147			road
+18753536	US:OK:Pontotoc	146			road
+18756459	US:OK:Pontotoc	343			road
+18756460	US:OK:Pontotoc	165			road
+18756532	US:OK:Pontotoc	151			road
+18756533	US:OK:Pontotoc	357			road
+18756534	US:OK:Pontotoc	3577			road
+18756935	US:OK:Pontotoc	3572			road
+18756936	US:OK:Pontotoc	149			road
+18756937	US:OK:Pontotoc	358			road
+18756965	US:OK:Pontotoc	347			road
+18760193	US:OK	183A			road
+18760194	US:OK:Washita	E1160			road
+18760195	US:OK:Washita	N2250			road
+18760971	US:OK:Pontotoc	156			road
+18762730	US:OK:Washita	E1070			road
+18762731	US:OK:Custer	E1070			road
+18763056	US:OK:Washita	N2390			road
+18763089	US:OK:Washita	N2300			road
+18763090	US:OK:Washita	N2310			road
+18763092	US:OK:Washita	N2290			road
+18763096	US:OK:Washita	N2270			road
+18770239	US:OK:Washita	E1105			road
+18770240	US:OK:Washita	N2183			road
+18772071	US:OK:Washita	N2110			road
+18772085	US:OK:Washita	N2030			road
+18772104	US:OK:Washita	N2440			road
+18773928	US:OK:Washita	E1216			road
+18773929	US:OK:Washita	E1125			road
+18773935	US:OK:Washita	E1215			road
+18783709	US:OK:Washita	E1294			road
+18788906	US:OK:Dewey	E0800			road
+18803260	US:OK:Choctaw	N4250			road
+18932991	US:OK:Lincoln	E0760			road
+18937415	US:OK:LeFlore	E1340			road
+18937416	US:OK:LeFlore	N4740			road
+18961489	US:OK:Beaver	N1590			road
+18961552	US:OK:Jackson	N2130			road
+18963010	US:OK:Major	E0360			road
+18963011	US:OK:Major	E0380			road
+18963012	US:OK:Major	N2323			road
+18963013	US:OK:Major	N2330			road
+18963014	US:OK:Major	E0370			road
+18963015	US:OK:Major	N2300			road
+18963016	US:OK:Dewey	E0590			road
+18963017	US:OK:Dewey	N2130			road
+18963018	US:OK:Dewey	E0590			road
+18973568	lcn			Pathfinder Parkway	bicycle
+18981248	US:OK:Payne	E0590			road
+18981249	US:OK:Payne	E0600			road
+18981250	US:OK:Payne	E0610			road
+18981270	US:OK:Payne	E0540			road
+18981271	US:OK:Payne	E0560			road
+18981272	US:OK:Payne	E0570			road
+18991409	US:OK:Seminole	N3520			road
+18996474	US:OK:Cherokee	S530			road
+19008978	US:OK:Ellis	E0610			road
+19019021	US:OK:Alfalfa	E0270			road
+19019026	US:OK:Alfalfa	E0260			road
+19019027	US:OK:Alfalfa	E0250			road
+19019028	US:OK:Alfalfa	E0280			road
+19019412	US:OK:Muskogee	N4110			road
+19019762	US:OK:Muskogee	E0900			road
+19019763	US:OK:Muskogee	N4120			road
+19019764	US:OK:Muskogee	E0910			road
+19019777	US:OK:Muskogee	E0930			road
+19019778	US:OK:Muskogee	E0940			road
+19019793	US:OK:Muskogee	E0960			road
+19020070	US:OK:Muskogee	E0980			road
+19020071	US:OK:Muskogee	E1000			road
+19020072	US:OK:Muskogee	E1000			road
+19020073	US:OK:Muskogee	N4140			road
+19020074	US:OK:Muskogee	N4150			road
+19020075	US:OK:Muskogee	N4170			road
+19020076	US:OK:Muskogee	N4180			road
+19020137	US:OK:McIntosh	N4160			road
+19020138	US:OK:McIntosh	E1010			road
+19020143	US:OK:McIntosh	E1030			road
+19020232	US:OK:McIntosh	N4230			road
+19020321	US:OK:McIntosh	N4240			road
+19020322	US:OK:McIntosh	N4250			road
+19020351	US:OK:McIntosh	N4260			road
+19020352	US:OK:McIntosh	D1084			road
+19020376	US:OK:McIntosh	N4280			road
+19020377	US:OK:McIntosh	E1090			road
+19020388	US:OK:Muskogee	E1100			road
+19020400	US:OK:McIntosh	E1110			road
+19020401	US:OK:Muskogee	E1110			road
+19020402	US:OK:Muskogee	N4330			road
+19020412	US:OK:Muskogee	N4340			road
+19022126	US:OK:Muskogee	N4360			road
+19022135	US:OK:Muskogee	E1130			road
+19022138	US:OK:Muskogee	E1150			road
+19022155	US:OK:Muskogee	E1160			road
+19022169	US:OK:Muskogee	E1175			road
+19022171	US:OK:Muskogee	E1180			road
+19022218	US:OK:Muskogee	N4370			road
+19022219	US:OK:Muskogee	E1185			road
+19022220	US:OK:Muskogee	E1200			road
+19022453	US:OK:Haskell	E1230			road
+19022477	US:OK:Haskell	E1260			road
+19023027	US:OK:Haskell	E1300			road
+19023202	US:OK:Haskell	E1305			road
+19023203	US:OK:Haskell	N4370			road
+19023204	US:OK:Haskell	E1315			road
+19023205	US:OK:Haskell	N4360			road
+19023206	US:OK:Haskell	N4355			road
+19023207	US:OK:Haskell	E1318			road
+19023208	US:OK:Haskell	N4350			road
+19023609	US:OK:Haskell	N4340			road
+19085360	US:OK:Major	E0510			road
+19102251	US:OK:Alfalfa	N2720			road
+19102252	US:OK:Garfield	E0390			road
+19104045	US:OK:Alfalfa	E0310			road
+19104046	US:OK:Alfalfa	E0320			road
+19104047	US:OK:Alfalfa	E0310			road
+19104048	US:OK:Alfalfa	E0290			road
+19104049	US:OK:Alfalfa	E0290			road
+19104050	US:OK:Alfalfa	E0290			road
+19108197	US:OK:Alfalfa	N2700			road
+19108198	US:OK:Alfalfa	N2690			road
+19108199	US:OK:Alfalfa	E0320			road
+19108466	US:OK:Alfalfa	N2680			road
+19109003	US:OK:Alfalfa	N2580			road
+19109004	US:OK:Alfalfa	E0340			road
+19109005	US:OK:Alfalfa	N2710			road
+19109006	US:OK:Alfalfa	E0340			road
+19109007	US:OK:Alfalfa	N2650			road
+19109008	US:OK:Alfalfa	N2640			road
+19109568	US:OK:Alfalfa	N2730			road
+19126660	US:OK:Creek	N3620			road
+19126661	US:OK:Creek	E0650			road
+19131207	US:OK:Garfield	E0460			road
+19148390	US:OK:Osage	2145			road
+19150205	US:OK:Muskogee	N4160			road
+19150542	US:OK:Muskogee	N4200			road
+19150543	US:OK:Muskogee	N4280			road
+19150544	US:OK:Okmulgee	N4100			road
+19150545	US:OK:Okmulgee	E1000			road
+19153435	US:OK:Blaine	N2630			road
+19153436	US:OK:Blaine	E0730			road
+19159550	US:OK:Blaine	N2680			road
+19160300	US:OK:Blaine	E0640			road
+19160301	US:OK:Blaine	E0630			road
+19163344	US:OK:Kingfisher	N2690			road
+19163345	US:OK:Kingfisher	E0650			road
+19163346	US:OK:Kingfisher	N2700			road
+19163347	US:OK:Kingfisher	E0660			road
+19163348	US:OK:Kingfisher	N2710			road
+19163349	US:OK:Blaine	E0650			road
+19163350	US:OK:Kingfisher	E0860			road
+19163351	US:OK:Kingfisher	N2720			road
+19163352	US:OK:Kingfisher	N2730			road
+19163353	US:OK:Kingfisher	N2740			road
+19166364	US:OK:Greer	N2040			road
+19166365	US:OK:Greer	N2030			road
+19167456	US:OK:Jackson	N2050			road
+19176696	US:OK:Hughes	D137			road
+19176697	US:OK:Hughes	D138			road
+19178461	US:OK:Blaine	E0660			road
+19178464	US:OK:Blaine	N2353			road
+19180904	US:OK:Blaine	N2540			road
+19180905	US:OK:Blaine	N2530			road
+19180906	US:OK:Blaine	E0985			road
+19181002	US:OK:Custer	N2290			road
+19181024	US:OK:Custer	N2390			road
+19190774	US:OK:Blaine	E1000			road
+19190775	US:OK:Blaine	N2620			road
+19211404	US:OK:Custer	E0920			road
+19214070	US:OK:Custer	N2420			road
+19268950	US:TX:Sherman	15			road
+19275757	lcn				bicycle
+19277659	US:OK:Pittsburg	E1390			road
+19291915	US:OK:Woodward	205			road
+19308482	US:OK:Rogers	S4100			road
+19308515	US:OK:Rogers	S4110			road
+19315649	US:OK:Rogers	S4160			road
+19317993	US:OK:Ottawa	S672			road
+19318396	US:OK:McCurtain	E1830			road
+19318397	US:OK:McCurtain	E1808			road
+19322689	US:OK:Garvin	E1730			road
+19325025	US:OK:Carter	E1960			road
+19328911	US:OK:Grady	2970			road
+19328912	US:OK:Grady	1260			road
+19329091		1560			US:OK:Coal
+19331475	US:OK:Mayes	S442			road
+19331511	US:OK:Mayes	E560			road
+19331834	US:OK:Lincoln	E0930			road
+19331887	US:OK:Sequoyah	E1060			road
+19332282	US:OK:McCurtain	CR E1750			road
+19352776	US:OK:Sequoyah	E1000			road
+19429828	lcn				bicycle
+19437165	US:I	344			road
+19437166	US:I	344			road
+19437181	US:OK	312			road
+19437193	US:I	335	south		road
+19437194	US:I	335	north		road
+19468934	lcn			South Grand Connection	bicycle
+19544060	US:OK:Logan	76			road
+19545556	US:OK:Logan	77			road
+19549262	US:OK:Logan	75			road
+19549480	US:OK:Logan	78			road
+19568233	lwn			University Trail	hiking
+19568234	lcn			University Trail	bicycle
+19568235	lwn			Liberty Parkway Trail	foot
+19568347	lwn			Creek Turnpike Trail	foot
+19568348	lcn			Mingo Trail	bicycle
+19568349	lwn			Mingo Trail	foot
+19569336	lcn			Fly Creek Ditch Trail	bicycle
+19569337	lcn			Fly Creek Ditch East Trail	bicycle
+19569338	lcn			NSU Loop	bicycle
+19569339	lwn			NSU Loop	foot
+19569340	lcn			Country Aire Trail	bicycle
+19569341	lwn			Country Aire Trail	foot
+19569342	lwn			Forest Ridge Trail	foot
+19569343	lcn			Forest Ridge Trail	bicycle
+19617914	US:OK:Choctaw	N4080			road
+19617929	US:OK:Choctaw	E2060			road
+19617930	US:OK:Choctaw	N4070			road
+19617948	US:OK:Choctaw	N4060			road
+19617981	US:OK:Choctaw	N4050			road
+19618024	US:OK:Choctaw	N4040			road
+19618185	US:OK:Choctaw	N4030			road
+19618406	US:OK:Choctaw	N4020			road
+19622154	US:OK:Choctaw	N4010			road
+19622215	US:OK:Choctaw	N4000			road
+19622268	US:OK:Choctaw	N3990			road
+19622287	US:OK:Choctaw	N3980			road
+19622288	US:OK:Bryan	N3970			road
+19622424	US:OK:Bryan	N3960			road
+19622555	US:OK:Bryan	N3950			road
+19622633	US:OK:Bryan	N3940			road
+19622671	US:OK:Bryan	E2070			road
+19648667	lcn	8		Coody Creek Trail	bicycle
+19648668	lwn	2		Border Trail	foot
+19655010	US:OK:Okmulgee	N4000			road
+19682924	US:NM:Scenic			Santa Fe Trail National Scenic Byway	road
+19682925	US:NHT			Santa Fe National Historic Trail Auto Tour Route	road
+19694236	US:OK:Lincoln	E0890			road
+19694237	US:OK:Lincoln	S3405			road
+19695323	US:OK:McCurtain	N4610			road
+19700751	lcn			Shartel Avenue	bicycle
+19700752	lcn			Western Avenue	bicycle
+19708561	lcn			General Pershing Boulevard	bicycle
+19715947	lcn			3rd Street	bicycle
+19745906	US:OK:Harper	E0160			road
+19745907	US:OK:Harper	N1910			road
+19745908	US:OK:Harper	N1900			road
+19842320	US:OK:Craig	E310			road
+19842321	US:OK:Craig	S4420			road
+19871028	lcn			Ayers Street	bicycle
+19872766	lwn			Boardstand Trail	hiking
+19874805					
+19874806	lcn			Boulevard Street	bicycle
+19874807	lcn			Main Street	bicycle
+19919715	US:OK:Atoka	N3970			road
+19919716	US:OK:Atoka	N3972			road
+19921474	US:OK:Osage	4551			road
+19921475	US:OK:Osage	5701			road
+19921476	US:OK:Osage	4495			road
+19921477	US:OK:Osage	5515			road
+19921478	US:OK:Osage	5501			road
+19921479	US:OK:Osage	4461			road
+19921480	US:OK:Osage	5305			road
+19921481	US:OK:Osage	5902			road
+19921482	US:OK:Osage	5205			road
+19921483	US:OK:Osage	4275			road
+19921484	US:OK:Osage	5990			road
+19921485	US:OK:Osage	4251			road
+19946258	US:OK:Pittsburg	N4000			road
+19948058	US:I:Future	42	east		road
+19948059	US:I:Future	42	west		road
+19956641	US:OK:Major	N2750			road
+19956642	US:OK:Major	N2740			road
+19956643	US:OK:Major	N2730			road
+19956644	US:OK:Major	N2720			road
+19958448	US:OK:Pontotoc	N3500			road
+19958528	US:OK:Kingfisher	E0850			road
+19958532	US:OK:Kingfisher	E0840			road
+19958573	US:OK:Kingfisher	E0820			road
+19959042	US:OK:Pontotoc	N3510			road
+19959043	US:OK:Pontotoc	161			road
+19959236	lcn				bicycle
+19961367	US:OK:Kingfisher	E0680			road
+19961854	US:OK:Seminole	E1180			road
+19968337	US:OK:Choctaw	N4400			road
+19968409	US:OK:Choctaw	N4080			road
+19986904	US:OK:Noble	E0510			road
+20016952	US:OK:Adair	S4710			road
+20017005	US:OK:Sequoyah	E1026			road
+20017033	US:OK:Sequoyah	E1045			road
+20017386	US:OK:Sequoyah	E1028			road
+20017674	nwn			Santa Fe Trail	foot
+20018273	US:OK:Major	N2690			road
+20018274	US:OK:Major	N2680			road
+20018511	US:OK:Major	N2710			road
+20018759	US:OK:Wagoner	S275			road
+20018760	US:OK:Wagoner	E758			road
+20040180	US:OK:Coal	E1590			road
+20040181	US:OK:Coal	N3760			road
+20040213	US:OK:Coal	E1550			road
+20041221	US:OK:Choctaw	N4100			road
+20041222	US:OK:Choctaw	N4100			road
+20050433	US:OK:Coal	E1780			road
+20050434	US:OK:Coal	N3790			road
+20172733	US:OK:Delaware	S630			road
+20172741	US:OK:Payne	E0700			road
+20172743	US:OK:Payne	N3370			road
+20175390	US:OK:Rogers	S4070			road
+20175391	US:OK:Rogers	S4072			road
+20178425	US:OK:Grady	E1465			road
+20178434	US:OK:Grant	850			road
