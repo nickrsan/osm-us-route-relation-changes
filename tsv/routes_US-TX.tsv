@@ -11782,7 +11782,7 @@
 19020350	US:TX:Loop	195		Texas State Highway Loop 195	road
 19020409	US:TX:Spur	99		Texas State Highway Spur 99 (1981-1984;former)	road
 19020418				Laredo Outer Loop	road
-19020815	US:TX:Loop	9		Texas State Highway Loop 9	road
+19020815	US:TX:CCOL			Collin County Outer Loop	road
 19020816	US:TX:Loop	9		Texas State Highway Loop 9	road
 19024181	US:TX:Loop	590		Texas State Highway Loop 590 (former)	road
 19027421	US:TX:Loop	295		Texas State Highway Loop 295	road
@@ -11859,3 +11859,4 @@
 20185036				International Parkway	road
 20200280	lcn			DORBA Trail Short	mtb
 20200281	lwn			DORBA Trail Short	hiking
+20217480	lcn			Corpus Christi Bicycle Network	bicycle
