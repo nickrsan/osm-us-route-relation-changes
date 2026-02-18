@@ -949,20 +949,20 @@
 8621260					power
 8664995	MetroBus	2	north	2 Red: Brentwood I-64 Transit Center → Rock Road Transit Center	bus
 8664996	MetroBus	1	east	1 Gold: Mallinckrodt Center → Central West End Transit Center	bus
-8665138	MetroBus	16		City Limits	bus
+8665138	MetroBus	16	north	16 City Limits: Shrewsbury-Lansdowne I-44 Transit Center → Riverview Transit Center	bus
 8665140	MetroBus	13	south	13 Union: Union & West Florissant → Central West End Transit Center	bus
-8665141	MetroBus	11	east	11 Chippewa: Shrewsbury-Lansdowne Transit Center → Civic Center Transit Center	bus
+8665141	MetroBus	11	east	11 Chippewa: Shrewsbury-Lansdowne I-44 Transit Center → Civic Center Transit Center	bus
 8665142	MetroBus	8	north	8 Shaw-Cherokee: Catalan Loop Transit Center → Central West End Transit Center	bus
 8665143	MetroBus	4	east	4 Natural Bridge: North Hanley Transit Center → Civic Center Transit Center	bus
 8665144	MetroBus	5	clockwise	5 Green: Mallinckrodt Center → Mallinckrodt Center	bus
-8669551	MetroBus	21		Watson Road	bus
+8669551	MetroBus	21	east	21 Watson Road: SSM Health St. Clare Hospital → Shrewsbury-Lansdowne I-44 Transit Center	bus
 8669553	MetroBus	19	east	19 St. Louis Ave: Rock Road Transit Center → Civic Center Transit Center	bus
 8669554	MetroBus	18	north	18 Taylor: Central West End Transit Center → Pope & West Florissant	bus
 8669555	MetroBus	17		MetroBus 17 Oakville	bus
 8669734	MetroBus	33		Midland	bus
 8669735	MetroBus	32	east	32 Dr. ML King: Rock Road Transit Center → Civic Center Transit Center	bus
 8669736	MetroBus	31	east	31 Chouteau: Brentwood I-64 Transit Center → Civic Center Transit Center	bus
-8669737	MetroBus	30	east	30 Arsenal: Shrewsbury-Lansdowne Transit Center → Civic Center Transit Center	bus
+8669737	MetroBus	30	east	30 Arsenal: Shrewsbury-Lansdowne I-44 Transit Center → Civic Center Transit Center	bus
 8671223	MetroBus	39		MetroBus 39 Berkeley-Florissant	bus
 8671225	MetroBus	38		MetroBus 38 Hazelwood	bus
 8671226	MetroBus	37		MetroBus 37 Hanley-Graham	bus
@@ -985,7 +985,7 @@
 8671864	MetroBus	59	east	59 Oakland: Highland Terrace & Richmond Ctr → Central West End Transit Center	bus
 8671866	MetroBus	58		Chesterfield Valley	bus
 8671867	MetroBus	57		Manchester	bus
-8671868	MetroBus	56		Kirkwood-Webster	bus
+8671868	MetroBus	56	east	56 Kirkwood-Webster: STLCC Meramec → Shrewsbury-Lansdowne I-44 Transit Center	bus
 8671901	MetroBus	72		MetroBus 72 Monarch	bus
 8671902	MetroBus	71		Patterson-Redman	bus
 8671903	MetroBus	70		70 Grand	bus
@@ -1385,7 +1385,7 @@
 12403412	JEFFTRAN	Hutton Lane		Hutton Lane Tripper	bus
 12438591					railway
 12438592					railway
-12448061	MetroBus	9	north	Oakville	bus
+12448061	MetroBus	9	north	9 Oakville: Telegraph & Baumgartner → Shrewsbury-Lansdowne I-44 Transit Center	bus
 12456912	MetroBus	60		Shepley-Lilac	bus
 12460168	MetroBus	76		McDonnell-Waterford	bus
 12460406	MetroBus	78		Bellefontaine	bus
@@ -2928,7 +2928,7 @@
 19067388	lcn			Compton Avenue	bicycle
 19070371	lcn			Perche Creek Trail	bicycle
 19085244	MetroBus	8	south	8 Shaw-Cherokee: Central West End Transit Center → Catalan Loop Transit Center	bus
-19091209	MetroBus	9	south	Oakville	bus
+19091209	MetroBus	9	south	9 Oakville: Shrewsbury-Lansdowne I-44 Transit Center → Telegraph & Baumgartner	bus
 19100299	US:MO:Supplemental	DD		Missouri Route DD (Wright County)	road
 19100300	US:MO:Supplemental	M		MIssouri Route M (Webster County)	road
 19100301	US:MO:Supplemental	M		Missouri Route M (Wright County)	road
@@ -2962,7 +2962,7 @@
 19188178	US:MO:Supplemental	O			road
 19206107	lcn			Riverview Boulevard	bicycle
 19209389	US:MO:Supplemental	D		Missouri Route D (Jackson County)	road
-19217528	MetroBus	11	west	11 Chippewa: Civic Center Transit Center → Shrewsbury-Lansdowne Transit Center	bus
+19217528	MetroBus	11	west	11 Chippewa: Civic Center Transit Center → Shrewsbury-Lansdowne I-44 Transit Center	bus
 19253753	lcn			7th Street	bicycle
 19270526	US:MO:Supplemental	T		Missouri Route T (Henry County)	road
 19278586	lcn			Shaw Boulevard	bicycle

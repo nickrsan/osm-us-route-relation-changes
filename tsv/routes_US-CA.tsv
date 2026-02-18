@@ -21,7 +21,7 @@
 32478	lcn	16			bicycle
 38692	lcn			Channing Bicycle Boulevard	bicycle
 38693	lcn			Milvia Bicycle Boulevard	bicycle
-53029	lcn	T03		Highway 87 Trail	bicycle
+53029	lcn	H87		Highway 87 Bikeway	bicycle
 53566	lcn	19		I-880 Corridor	bicycle
 53567	lcn				bicycle
 53568	lcn				bicycle
@@ -1602,7 +1602,7 @@
 3501967	lcn	X-G03		Oregon/Page Mill Expressway	bicycle
 3502001	lcn	X-G08		Almaden Expressway	bicycle
 3502008	lcn	X-G21		Capitol Expressway	bicycle
-3504713	rcn	CCT		Coyote Creek Trail	bicycle
+3504713	lcn	COY		Coyote Creek Trail	bicycle
 3504729	lcn	21		I-680 Corridor to Silver Creek	bicycle
 3504754	lcn	17		I-880/I-680 Corridor	bicycle
 3508222	Wheels	15		Wheels 15: Livermore Transit Center => Scenic & Vasco	bus
@@ -1833,7 +1833,7 @@
 5283180				Flow	mtb
 5321889	lcn	FA		Fay Avenue Bike Path	bicycle
 5322426	lcn	SWB		Sweetwater Bike Route	bicycle
-5322545	rcn	GRT		Guadalupe River Trail	bicycle
+5322545	lcn	GUA		Guadalupe River Trail	bicycle
 5324611	VTA	61		VTA 61: Good Samaritan Hospital => Union & Lantz => Berryessa BART	bus
 5324612	VTA	61		VTA 61: Good Samaritan Hospital => Bascom & Camden => Berryessa BART => Sierra & Piedmont	bus
 5324923	VTA	64A		VTA 64A: Ohlone/Chynoweth => San Jose Diridon => McKee & White	bus
@@ -2103,7 +2103,7 @@
 6742549				Warm Springs Subdivision	railway
 6742550				Granite Rock Industrial Lead	railway
 6742855				Sunkist Lead	railway
-6742940	rcn			Penitencia Creek Trail	bicycle
+6742940	rcn	PEN		Penitencia Creek Trail	bicycle
 6744924				Carson and Colorado Railroad	railway
 6744925				Bodie & Benton Railway	railway
 6746811				Vacaville	railway
@@ -3734,8 +3734,8 @@
 9650482	SolTrans	8		SolTrans 8: Vallejo Transit Center => Hogan Middle School	bus
 9650483	SolTrans	6		SolTrans 6: Hogan Middle School => Vallejo Transit Center	bus
 9650484	SolTrans	6		SolTrans 6: Vallejo Transit Center => Hogan Middle School	bus
-9653176	lcn	5WT		Five Wounds Trail	bicycle
-9653177	rcn	3CT		Three Creeks Trail	bicycle
+9653176	lcn	FIV		Five Wounds Trail	
+9653177	lcn	3CR		Three Creeks Trail	bicycle
 9653384	County Connection	14		County Connection 14: Walnut Creek BART => Pleasant Hill BART => Concord BART	bus
 9653427	County Connection	14		County Connection 14: Concord BART => Pleasant Hill BART => Walnut Creek BART	bus
 9653485	County Connection	11		County Connection 11: Concord BART => Pleasant Hill BART	bus
@@ -7445,3 +7445,23 @@
 20192437	US:CA:Express	60	west		road
 20195345	US:CA:Old	111			road
 20197947				Los Angeles and Salt Lake Railroad	railway
+20229409	lcn	ALB		Albertson Parkway	bicycle
+20229410	lcn	237		Highway 237 Bikeway	bicycle
+20229411	lcn	BAR		Barberry Lane Parkway	bicycle
+20229412	lcn	CAL		Calero Creek Trail	bicycle
+20229413	lcn	DOE		Doerr Parkway	bicycle
+20229414	lcn	EVR		Evergreen Creek Trail	bicycle
+20229415	lcn	FOW		Fowler Creek Trail	
+20229416	lcn	GUC		Guadalupe Creek Trail	bicycle
+20229417	lcn	LKC		Lake Cunningham Trail	bicycle
+20229418	lcn	LAC		Los Alamitos Creek Trail	bicycle
+20229419	lcn	SCL		Lower Silver Creek Trail	bicycle
+20229420	lcn	MON		Montgomery Hill Trail	bicycle
+20229421	lcn	ODM		Odette Morrow Trail	bicycle
+20229422	lcn	RIV		River Oaks Parkway	bicycle
+20229423	lcn	SCV		Silver Creek Valley Trail	bicycle
+20229424	lcn	THO		Thompson Creek Trail	bicycle
+20229425	lcn	UMB		Umbarger Road Parkway	bicycle
+20229426	lcn	SCU		Upper Silver Creek Trail	bicycle
+20232196	rwn	CMT11		California Mission Trail - Mission San Miguel Arcangel to Mission San Antonio de Padua	hiking
+20232391	rwn	CMT12		Cailfornia Mission Trail - 12 - Mission San Antonio de Padua to Mission Nuestra Senora de la Soledad	hiking

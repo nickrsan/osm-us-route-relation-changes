@@ -8014,7 +8014,6 @@
 14369619	lcn			Farragut Road (proposed)	bicycle
 14369620	lcn			New York Avenue	bicycle
 14369621	lcn			Brooklyn Avenue	bicycle
-14369622	lcn			Albany Avenue	bicycle
 14369624	lcn			Schenectady Avenue	bicycle
 14369625	lcn			Beverley Road	bicycle
 14369628	lcn			Snyder Av	bicycle
@@ -11260,3 +11259,4 @@
 20183984	Kiryas Joel Area Transit	D		Route D	bus
 20183985	Kiryas Joel Area Transit	D		Route D	bus
 20184048	US:I:Express	95			road
+20231862	lcn			East 17th Street	bicycle
