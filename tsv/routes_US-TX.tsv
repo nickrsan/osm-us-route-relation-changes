@@ -1211,7 +1211,6 @@
 1951547	US:TX:Spur	234		Texas State Highway Spur 234	road
 1952879	US:TX:Spur			Texas State Highway Spur 172 (unsigned)	road
 1953370	US:TX:Spur	108		Texas State Highway Spur 108	road
-1953492	US:TX:Spur			Texas State Highway Spur 97	road
 1954010	US:TX:Spur	50		Texas State Highway Spur 50	road
 1954011	US:TX:Spur	54		Texas State Highway Spur 54	road
 1954698	US:TX:Toll	1		Texas State Highway Loop 1 Toll	road
@@ -3824,6 +3823,7 @@
 2913591	US:TX:FM	832			road
 2913592	US:TX:FM	745			road
 2913595	US:TX:FM	2865			road
+2913756		A		Línea A	tracks
 2914822	US:TX:FM	922			road
 2914985	US:TX:FM	1204			road
 2915004	US:TX:FM	730			road
@@ -11856,9 +11856,11 @@
 20104127		TOL		Temple Outer Loop	road
 20106308				Northwest Highway	road
 20180149	MX:MEX	2		Carretera Cd. Acuña - Presa de La Amistad	road
-20185036				International Parkway	road
+20185036	US:TX:NTTA			International Parkway	road
 20200280	lcn			DORBA Trail Short	mtb
 20200281	lwn			DORBA Trail Short	hiking
 20217480	lcn			Corpus Christi Bicycle Network	bicycle
 20225837	lhn			Red Trail	horse
 20225838	lwn			Red Trail	hiking
+20234083	US:TX:Spur	97	south	Texas State Highway Spur 97 (south)	road
+20234084	US:TX:Spur	97	north	Texas State Highway Spur 97 (north)	road

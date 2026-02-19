@@ -1602,7 +1602,7 @@
 3501967	lcn	X-G03		Oregon/Page Mill Expressway	bicycle
 3502001	lcn	X-G08		Almaden Expressway	bicycle
 3502008	lcn	X-G21		Capitol Expressway	bicycle
-3504713	lcn	COY		Coyote Creek Trail	bicycle
+3504713	rcn	CCT		Coyote Creek Trail	bicycle
 3504729	lcn	21		I-680 Corridor to Silver Creek	bicycle
 3504754	lcn	17		I-880/I-680 Corridor	bicycle
 3508222	Wheels	15		Wheels 15: Livermore Transit Center => Scenic & Vasco	bus
@@ -7465,3 +7465,4 @@
 20229426	lcn	SCU		Upper Silver Creek Trail	bicycle
 20232196	rwn	CMT11		California Mission Trail - Mission San Miguel Arcangel to Mission San Antonio de Padua	hiking
 20232391	rwn	CMT12		Cailfornia Mission Trail - 12 - Mission San Antonio de Padua to Mission Nuestra Senora de la Soledad	hiking
+20232935	lcn	COY		Coyote Creek Trail	bicycle
