@@ -959,7 +959,7 @@
 8669553	MetroBus	19	east	19 St. Louis Ave: Rock Road Transit Center → Civic Center Transit Center	bus
 8669554	MetroBus	18	north	18 Taylor: Central West End Transit Center → Pope & West Florissant	bus
 8669555	MetroBus	17		MetroBus 17 Oakville	bus
-8669734	MetroBus	33		Midland	bus
+8669734	MetroBus	33	east	33 Midland: Dorsett & Progress Parkway → Clayton Transit Center	bus
 8669735	MetroBus	32	east	32 Dr. ML King: Rock Road Transit Center → Civic Center Transit Center	bus
 8669736	MetroBus	31	east	31 Chouteau: Brentwood I-64 Transit Center → Civic Center Transit Center	bus
 8669737	MetroBus	30	east	30 Arsenal: Shrewsbury-Lansdowne I-44 Transit Center → Civic Center Transit Center	bus
@@ -969,7 +969,6 @@
 8671227	MetroBus	34		Earth City	bus
 8671754	MetroBus	49		Lindbergh	bus
 8671755	MetroBus	48		MetroBus 48 South Lindbergh	bus
-8671756	MetroBus	47		Hanley	bus
 8671757	MetroBus	46		Tesson Ferry	bus
 8671758	MetroBus	42	north	42 Sarah: Central West End Transit Center → Pope & West Florissant	bus
 8671759	MetroBus	41	north	41 Lee: Civic Center Transit Center → Riverview Transit Center	bus
@@ -983,26 +982,24 @@
 8671768	US:MO:Supplemental	H			road
 8671769	US:MO:Supplemental	D			road
 8671864	MetroBus	59	east	59 Oakland: Highland Terrace & Richmond Ctr → Central West End Transit Center	bus
-8671866	MetroBus	58		Chesterfield Valley	bus
+8671866	MetroBus	58	east	58 Chesterfield Valley: St. Louis Premium Outlets → Clayton Transit Center	bus
 8671867	MetroBus	57		Manchester	bus
 8671868	MetroBus	56	east	56 Kirkwood-Webster: STLCC Meramec → Shrewsbury-Lansdowne I-44 Transit Center	bus
 8671901	MetroBus	72		MetroBus 72 Monarch	bus
 8671902	MetroBus	71		Patterson-Redman	bus
-8671903	MetroBus	70		70 Grand	bus
+8671903	MetroBus	70	north	70 Grand: Loughborough Commons → North Broadway Transit Center	bus
 8671904	MetroBus	68		MetroBus 68 Big Bend	bus
 8671906	MetroBus	64		Lucas-Hunt	bus
 8671907	MetroBus	61		Chambers Road	bus
 8672127	MetroBus	90		Hampton	bus
 8672129	MetroBus	79		Ferguson	bus
-8672130	MetroBus	78		MetroBus 78 Larimore	bus
 8672131	MetroBus	77		Village Square	bus
 8672132	MetroBus	76		MetroBus 76 Waterford	bus
 8672133	MetroBus	74	north	74 Florissant: Civic Center Transit Center → North County Transit Center	bus
 8672134	MetroBus	73	north	73 Carondelet: South County Mall → Civic Center Transit Center	bus
 8674532	MetroBus	95	north	95 Kingshighway: Gravois-Hampton Transit Center → North Broadway Transit Center	bus
 8674533	MetroBus	94		Bus 94: Civic Center Transit Center => Lackland & Altom Court	bus
-8674534	MetroBus	91		Olive	bus
-8682098	MetroBus	65		Outer Forty	bus
+8674534	MetroBus	91	east	91 Olive: Chesterfield City Hall → Delmar Loop Transit Center	bus
 8682099	MetroBus	210		MetroBus 210 Fenton-Gravois Bluffs	bus
 8682103	MetroBus	98		Ballas-North Hanley	bus
 8682104	MetroBus	97	east	97 Delmar: Clayton Transit Center → Civic Center Transit Center	bus

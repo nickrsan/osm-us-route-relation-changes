@@ -99,8 +99,8 @@
 109571	US:CA	85	south	85 (southbound)	road
 109668	US:CA:San_Francisco:49_Mile_Scenic_Drive			49 Mile Scenic Drive	road
 136154	US:I	405	north		road
-146933	US:I:Truck	5	south	I 5 (CA truck southbound)	road
-146934	US:I:Truck	5	north	I 5 (CA truck northbound)	road
+146933	US:I:Truck	5	south		road
+146934	US:I:Truck	5	north		road
 149407	lcn	01		Highway 101 Corridor	bicycle
 151621	US:CA	57	north		road
 151622	US:CA	57	south		road
@@ -170,8 +170,8 @@
 158178	US:CA	92			road
 158200	US:CA	13			road
 158220	US:CA	58		Route 58	road
-158669	US:CA	210	E	210 (eastbound)	road
-158671	US:CA	210	W	210 (westbound)	road
+158669	US:CA	210	east		road
+158671	US:CA	210	west		road
 161078	US:CA	299			road
 161694	US:CA	17	north	SR 17 (northbound)	road
 162119	US:CA	255			road
@@ -7378,7 +7378,6 @@
 20033878	lwn			San Gabriel River Trail - Eastern Bank	hiking
 20033893	US:CA:Express	14	north		road
 20033894	US:CA:Express	14	south		road
-20033910	US:I:Express	5		Route 5 Express Lanes	road
 20034054	County Connection	99X			bus
 20034055	County Connection	99X			bus
 20034056	County Connection	99X			bus
@@ -7409,7 +7408,6 @@
 20067498	Sonoma County Transit	20X		Sonoma County Transit 20X: Monte Rio => Downtown Santa Rosa	bus
 20070904	Sonoma County Transit	26		Sonoma County Transit 26: Sonoma State University => Forestville	bus
 20070905	Sonoma County Transit	26		Sonoma County Transit 26: Sebastopol => Sonoma State University	bus
-20071601	US:I:Business:Loop	15		Interstate 15 Ring Road	road
 20071859	SCMTD		east	SCMTD 1: Riverfront TC => Watsonville TC	bus
 20079827	US:US:Business	101		US 101 Business	road
 20085601	US:CA:Historic	CA 163 Hist		Historic State Route 163	road
@@ -7466,3 +7464,5 @@
 20232196	rwn	CMT11		California Mission Trail - Mission San Miguel Arcangel to Mission San Antonio de Padua	hiking
 20232391	rwn	CMT12		Cailfornia Mission Trail - 12 - Mission San Antonio de Padua to Mission Nuestra Senora de la Soledad	hiking
 20232935	lcn	COY		Coyote Creek Trail	bicycle
+20237535	US:CA:Express	210	west		road
+20237536	US:CA:Express	210	east		road
