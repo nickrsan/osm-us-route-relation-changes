@@ -958,18 +958,14 @@
 8669551	MetroBus	21	east	21 Watson Road: SSM Health St. Clare Hospital → Shrewsbury-Lansdowne I-44 Transit Center	bus
 8669553	MetroBus	19	east	19 St. Louis Ave: Rock Road Transit Center → Civic Center Transit Center	bus
 8669554	MetroBus	18	north	18 Taylor: Central West End Transit Center → Pope & West Florissant	bus
-8669555	MetroBus	17		MetroBus 17 Oakville	bus
 8669734	MetroBus	33	east	33 Midland: Dorsett & Progress Parkway → Clayton Transit Center	bus
 8669735	MetroBus	32	east	32 Dr. ML King: Rock Road Transit Center → Civic Center Transit Center	bus
 8669736	MetroBus	31	east	31 Chouteau: Brentwood I-64 Transit Center → Civic Center Transit Center	bus
 8669737	MetroBus	30	east	30 Arsenal: Shrewsbury-Lansdowne I-44 Transit Center → Civic Center Transit Center	bus
-8671223	MetroBus	39		MetroBus 39 Berkeley-Florissant	bus
 8671225	MetroBus	38		MetroBus 38 Hazelwood	bus
-8671226	MetroBus	37		MetroBus 37 Hanley-Graham	bus
 8671227	MetroBus	34		Earth City	bus
 8671754	MetroBus	49		Lindbergh	bus
 8671755	MetroBus	48		MetroBus 48 South Lindbergh	bus
-8671757	MetroBus	46		Tesson Ferry	bus
 8671758	MetroBus	42	north	42 Sarah: Central West End Transit Center → Pope & West Florissant	bus
 8671759	MetroBus	41	north	41 Lee: Civic Center Transit Center → Riverview Transit Center	bus
 8671761	MetroBus	40	north	40 Broadway-Halls Ferry: Civic Center Transit Center → North County Transit Center	bus
@@ -985,22 +981,18 @@
 8671866	MetroBus	58	east	58 Chesterfield Valley: St. Louis Premium Outlets → Clayton Transit Center	bus
 8671867	MetroBus	57		Manchester	bus
 8671868	MetroBus	56	east	56 Kirkwood-Webster: STLCC Meramec → Shrewsbury-Lansdowne I-44 Transit Center	bus
-8671901	MetroBus	72		MetroBus 72 Monarch	bus
-8671902	MetroBus	71		Patterson-Redman	bus
 8671903	MetroBus	70	north	70 Grand: Loughborough Commons → North Broadway Transit Center	bus
 8671904	MetroBus	68		MetroBus 68 Big Bend	bus
-8671906	MetroBus	64		Lucas-Hunt	bus
-8671907	MetroBus	61		Chambers Road	bus
+8671906	MetroBus	64	north	64 Lucas-Hunt: Rock Road Transit Center → Riverview Transit Center	bus
+8671907	MetroBus	61	east	61 Chambers Road: North Hanley Transit Center → Riverview Transit Center	bus
 8672127	MetroBus	90	north	90 Hampton: Gravois-Hampton Transit Center → Riverview Transit Center	bus
 8672129	MetroBus	79		Ferguson	bus
 8672131	MetroBus	77		Village Square	bus
-8672132	MetroBus	76		MetroBus 76 Waterford	bus
 8672133	MetroBus	74	north	74 Florissant: Civic Center Transit Center → North County Transit Center	bus
 8672134	MetroBus	73	north	73 Carondelet: South County Mall → Civic Center Transit Center	bus
 8674532	MetroBus	95	north	95 Kingshighway: Gravois-Hampton Transit Center → North Broadway Transit Center	bus
 8674533	MetroBus	94		Bus 94: Civic Center Transit Center => Lackland & Altom Court	bus
 8674534	MetroBus	91	east	91 Olive: Chesterfield City Hall → Delmar Loop Transit Center	bus
-8682099	MetroBus	210		MetroBus 210 Fenton-Gravois Bluffs	bus
 8682103	MetroBus	98		Ballas-North Hanley	bus
 8682104	MetroBus	97	east	97 Delmar: Clayton Transit Center → Civic Center Transit Center	bus
 8729901					pipeline
@@ -1230,12 +1222,6 @@
 10605235	lcn			Vivian Road Trail	bicycle
 10626960				Hannibal Sub (S)	railway
 10815765				TRRA North Belt Subdivision	railway
-11015324	SCAT	Orange Route			bus
-11016056	SCAT	Blue Route			bus
-11016177	SCAT	Green Route			bus
-11016265	SCAT	Red Route			bus
-11019258	SCAT			SCAT: MetroLink North Hanley Station --> Cave Springs Commuter Lot --> SSM Health St. Joseph Hospital	bus
-11019259	SCAT			SCAT: SSM Health St. Joseph Hospital --> Cave Springs Commuter Lot --> MetroLink North Hanley Station	bus
 11058953	lcn			Blue River Trail	bicycle
 11059057	lcn			Jumping Branch Trail	bicycle
 11059100	rcn			Smithville Lake Trails	bicycle
@@ -1383,9 +1369,9 @@
 12438591					railway
 12438592					railway
 12448061	MetroBus	9	north	9 Oakville: Telegraph & Baumgartner → Shrewsbury-Lansdowne I-44 Transit Center	bus
-12456912	MetroBus	60		Shepley-Lilac	bus
+12456912	MetroBus	60	north	60 Shepley-Lilac: Riverview Transit Center → North County Transit Center	bus
 12460168	MetroBus	76		McDonnell-Waterford	bus
-12460406	MetroBus	78		Bellefontaine	bus
+12460406	MetroBus	78	north	78 Bellefontaine: Riverview Transit Center → North County Transit Center	bus
 12461626	MetroBus	100		Hazelwood	bus
 12493188				Cole Creek Trail	bicycle
 12508629	RideKC	PMAX		Prospect MAX	bus

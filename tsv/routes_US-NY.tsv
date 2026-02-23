@@ -8037,11 +8037,11 @@
 14392348				RIOC Red Bus (Shopper's Bus)	bus
 14395357	US:US	4	north		road
 14395359	US:US	4	west		road
-14396564	NYC Ferry	STG		St. George	ferry
-14396565	NYC Ferry	RWS		Rockaway-Soundview	ferry
-14396566	NYC Ferry	SBK		South Brooklyn	ferry
-14396567	NYC Ferry	ER		East River Local	ferry
-14397507	NYC Ferry	AST		Astoria	ferry
+14396564	NYC Ferry	STG	southbound	St. George	ferry
+14396565	NYC Ferry	RWS	northbound	Rockaway-Soundview	ferry
+14396566	NYC Ferry	SBK	northbound	South Brooklyn	ferry
+14396567	NYC Ferry	ER	northbound	East River Local	ferry
+14397507	NYC Ferry	AST	northbound	Astoria	ferry
 14429181	NYC Transit	SIM2		NYCB - SIM2 Downtown --> Tottenville	bus
 14442624	US:NY				road
 14444613				Main Slope	piste
@@ -11165,8 +11165,8 @@
 19932007				Strang Trail	hiking;biking
 19933842				Woodlands Trail	hiking;biking
 19933843				Hunter Brook Trail	hiking;biking
-19935138	NYC Ferry	ERA		East River A	ferry
-19935139	NYC Ferry	ERB		East River B	ferry
+19935138	NYC Ferry	ERA	northbound	East River A	ferry
+19935139	NYC Ferry	ERB	northbound	East River B	ferry
 19980670				Yellow Trail	hiking;horse
 19988679	US:NY:Franklin	5		County Road 5	road
 19990598	NJ Transit	109		NJTB - 109	bus
@@ -11275,3 +11275,18 @@
 20249401	lwn			Hedgehog Pond Trail	hiking
 20249402				Gilbert Tract Ski Trail	piste
 20249419	lwn			Darning Needle Pond Trail	hiking
+20252284	NYC Ferry	ERB	southbound	East River B	ferry
+20252285	NYC Ferry	ERA	southbound	East River A	ferry
+20252286	NYC Ferry	AST	southbound	Astoria	ferry
+20252287	NYC Ferry	ER	southbound	East River Local	ferry
+20252288	NYC Ferry	SBK	southbound	South Brooklyn	ferry
+20252289	NYC Ferry	RWS	southbound	Rockaway-Soundview	ferry
+20252290	NYC Ferry	STG	northbound	St. George	ferry
+20252312	lwn			Coney Mountain Trail	hiking
+20252313	lwn			Trout Pond Trail	hiking
+20252314	lwn			Otter Brook Trail	hiking
+20252396	lwn			Moore Trail	hiking
+20252397	lwn			Bear Mountain Trail	hiking
+20252398	lwn			Campground Trail	hiking
+20252438	lwn			Cat Mountain Trail	hiking
+20252439	lwn			Sand Lake Trail	hiking
