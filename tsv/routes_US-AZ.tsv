@@ -1008,6 +1008,7 @@
 9626390	Sun Tran	440		Sun Tran Route 440 San Xavier	bus
 9626391	Sun Tran	430		Sun Tran Route 430 Tucson Estates	bus
 9626392	Sun Tran	421		Sun Tran Route 421 Green Valley/Sahuarita	bus
+9712624	US:US:Historic	Historic US 80		Historic US 80 (Super)	road
 9712655	US:US:Historic	80		Historic US 80 (CA)	road
 9727775	lcn			Grand Canyon East Rim Drive Path	bicycle
 9727776	lcn			Grand Canyon Village Greenway	bicycle
@@ -1698,3 +1699,4 @@
 20206559	US:I:Express	17	north		road
 20206648	US:I:Express	17	south		road
 20206649	US:I	17			road
+20255386	lcn			9th St-7th St Bike Blvd	bicycle

@@ -821,6 +821,7 @@
 5501493	Pace	367		University Park – Park Forest	bus
 5503188	Pace	379	west	Bus 379: Midway CTA Orange Line Station => Herion/Wheeler	bus
 5510275	Pace	381	west	Bus 381: 95th/Dan Ryan CTA Station => Moraine Valley Community College	bus
+5552101	ncn	36			bicycle
 5558873	CTA	120	north	Bus 120: Ogilvie Transit Center -> Fairbanks/Chicago	bus
 5558934	CTA	121	south	Bus 121: McClurg/Huron -> Union Station	bus
 5558943	CTA	135	south	Bus 135: Clarendon/Sunnyside -> Adams/Wacker	bus
@@ -3097,3 +3098,4 @@
 20228174	US:IL:Jasper			County Highway 14	road
 20232621	Pace	379	east	Bus 379: Fedex => Midway CTA Orange Line Station	bus
 20232622	Pace	379	west	Bus 379: Midway CTA Orange Line Station => Fedex	bus
+20255813				Main Trail	piste
