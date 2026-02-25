@@ -106,8 +106,8 @@
 151622	US:CA	57	south		road
 151628	US:CA	91	west		road
 151632	US:CA	91	east		road
-151658	US:CA	22	east	22 (eastbound)	road
-151665	US:CA	22	W	22 (westbound)	road
+151658	US:CA	22	east		road
+151665	US:CA	22	west		road
 151671	US:CA	55	N	55 (northbound)	road
 151673	US:CA	55	S	55 (southbound)	road
 151682	US:CA	133	N	133 (northbound)	road
@@ -1123,7 +1123,7 @@
 2444876	US:I	215 Truck	south		road
 2444877	US:I	405 Truck	north		road
 2444878	US:I	405 Truck	south		road
-2453566	US:CA	1		1 (Dana Point - Oxnard)	road
+2453566	US:CA	1			road
 2453569	US:CA	1		1 (Las Cruces - San Francisco)	road
 2453570	US:CA	1		1 (Sausalito - Leggett)	road
 2453571	US:CA	1		1 (State Beaches - Seacliff)	road
@@ -4352,7 +4352,7 @@
 11547114		North		Bellflower Bus North Route	bus
 11549746	Anaheim Resort Transit	19		Extension of Canyon Line	bus
 11593786					
-11593787					train
+11593787					
 11601203					road
 11609071				Switchbacks Trail	hiking
 11628437	rwn	BSL		Big SEKI Loop	hiking
@@ -5443,8 +5443,8 @@
 14471056	Visalia Transit	12B		Route 12B	bus
 14471057	Visalia Transit	12A		Route 12A	bus
 14487636					bicycle
-14508061	California High Speed Rail			Bakersfield - Merced	train
-14508062	California High Speed Rail			Merced - Bakersfield	train
+14508061	California High Speed Rail			Bakersfield - Merced	
+14508062	California High Speed Rail			Merced - Bakersfield	
 14508608	Omnitrans	380		380 - ONT Connect	bus
 14525476	US:US:Historic	99		Historic U.S. Route 99	road
 14526703	Omnitrans	300		SB Connect: Arrow Rail - Downtown San Bernardino	bus
