@@ -7006,7 +7006,7 @@
 19291047	Vacaville City Coach	6		Vacaville City Coach 6: Vacaville Transit Plaza => Vacaville Transportation Center via Markham Avenue	bus
 19336234				Wabash Boulevard	road
 19336300	US:I:Future	15 EXPR		Future I-15 Express Lanes	road
-19336301	US:I:Express	15		I-15 Express Lanes	road
+19336301	US:I:Express	15			road
 19336311	US:I:Truck	15			road
 19349068					road
 19389980	Muni	6		Muni 6 outbound: Civic Center => Inner Sunset	trolleybus
@@ -7411,7 +7411,7 @@
 20071859	SCMTD		east	SCMTD 1: Riverfront TC => Watsonville TC	bus
 20079827	US:US:Business	101		US 101 Business	road
 20085601	US:CA:Historic	CA 163 Hist		Historic State Route 163	road
-20085637	US:US:Historic	US 395 Hist		Historic US Route 395	road
+20085637	US:US:Historic	395		Historic US Route 395	road
 20085992	US:US:Historic			80 (unsigned)	road
 20085994	US:US:Hist	99			road
 20086281	US:CA:CHL	CHL #784		El Camino Real	historic
@@ -7469,3 +7469,5 @@
 20246014	US:NFSR:Mendocino:FR	18N34		Forest Road 18N34	road
 20255603	lcn			Willow Creek Trail	bicycle
 20255604	lcn			Humbug Trail	bicycle
+20259139	US:CA:Bypass	56	west		road
+20259140	US:CA:Bypass	56	east		road
