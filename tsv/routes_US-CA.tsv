@@ -6271,7 +6271,7 @@
 17928094	lwn			Garden to Sky Trail	hiking
 17944534	SacRT	105 PM	west	105 Elsie	bus
 17944535	SacRT	129 PM	east	129 Arden Commuter	bus
-17946816				Brannon Street Bike Route	bicycle
+17946816				Brannan Street Bike Route	bicycle
 17946824				Potrero Avenue Bike Route	bicycle
 17950275	SacRT	F20 AM	counterclockwise	FSL 20	bus
 17950276	SacRT	134 AM	west	134 McKinley Commuter	bus
@@ -7411,7 +7411,7 @@
 20071859	SCMTD		east	SCMTD 1: Riverfront TC => Watsonville TC	bus
 20079827	US:US:Business	101		US 101 Business	road
 20085601	US:CA:Historic	CA 163 Hist		Historic State Route 163	road
-20085637	US:US:Historic	395		Historic US Route 395	road
+20085637	US:US:Historic	395			road
 20085992	US:US:Historic			80 (unsigned)	road
 20085994	US:US:Hist	99			road
 20086281	US:CA:CHL	CHL #784		El Camino Real	historic
@@ -7471,3 +7471,9 @@
 20255604	lcn			Humbug Trail	bicycle
 20259139	US:CA:Bypass	56	west		road
 20259140	US:CA:Bypass	56	east		road
+20267754	US:US:Historic			395 (unsigned)	road
+20267758				Escondido Expressway	road
+20270728	lwn			Trail of the Sequoias	hiking
+20270729	lwn			Giant Forest-Alta Trail	hiking
+20270730	lwn			Tharp's Log Trail	hiking
+20270731	lwn			Wolverton Cutoff Trail	hiking
