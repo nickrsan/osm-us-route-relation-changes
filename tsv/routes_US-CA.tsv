@@ -1216,7 +1216,7 @@
 2630081	AC Transit	51B		AC Transit 51B: Berkeley Marina => Rockridge BART	bus
 2630160	AC Transit	52		AC Transit 52: University Village => U.C. Campus	bus
 2630161	AC Transit	52		AC Transit 52: U.C. Campus => University Village	bus
-2631626	AC Transit	18		AC Transit 18: University Village => Lake Merritt BART	bus
+2631626	AC Transit	18		AC Transit 18: University Village => Montclair	bus
 2631627	AC Transit	18		AC Transit 18: Montclair => University Village	bus
 2633608				Redwood Grove Apartments wheelchair accessibility	hiking
 2633641	lhn			Graduate student housing wheelchair accessibility	hiking
@@ -1235,8 +1235,8 @@
 2643325				Loma Industrial Lead	railway
 2643408	AC Transit	12		AC Transit 12: Oakland Amtrak => Northwest Berkeley	bus
 2643409	AC Transit	12		AC Transit 12: Northwest Berkeley => Oakland Amtrak	bus
-2643555	AC Transit	7		AC Transit 7: El Cerrito del Norte BART => Emeryville Amtrak	bus
-2643556	AC Transit	7		AC Transit 7: Emeryville Amtrak => El Cerrito del Norte BART	bus
+2643555	AC Transit	7		AC Transit 7: El Cerrito del Norte BART => Public Market Emeryville	bus
+2643556	AC Transit	7		AC Transit 7: Public Market Emeryville => El Cerrito del Norte BART	bus
 2643867	AC Transit	1T		AC Transit Tempo 1T: San Leandro BART => Uptown Oakland	bus
 2644811	US:CA:CR	J38			road
 2649385	lcn	125Z			bicycle
@@ -3010,7 +3010,7 @@
 8541256	Yolobus	211		Yolobus 211 West Woodland Local	bus
 8543593	Yolobus	240		Yolobus 240 West Sacramento/Sacramento Shuttle	bus
 8543596	Yolobus	230		Yolobus 230 West Davis/Sacramento Express	bus
-8543638	AC Transit	10		AC Transit 10: San Leandro BART => Hayward BART	bus
+8543638	AC Transit	9		AC Transit 9: San Leandro BART => Union City BART	bus
 8543639	AC Transit	6		AC Transit 6: Downtown Berkeley => Downtown Oakland	bus
 8546704	AC Transit	21		AC Transit 21: Dimond District => Harbor Bay Ferry Terminal => Oakland International Airport (mornings)	bus
 8546705	AC Transit	20		AC Transit 20: Dimond District => Downtown Oakland	bus
@@ -3494,7 +3494,7 @@
 9489445	WestCAT	Lynx		WestCAT Lynx: San Francisco => Alfred Nobel Drive => Rodeo (mornings)	bus
 9489447	WestCAT	Lynx		WestCAT Lynx: San Francisco => Hercules (midday and evenings)	bus
 9489448	WestCAT	Lynx		WestCAT Lynx: Hercules => San Francisco (midday)	bus
-9496063	AC Transit	10		AC Transit 10: Hayward BART => San Leandro BART	bus
+9496063	AC Transit	9		AC Transit 9: Union City BART => San Leandro BART	bus
 9496064	AC Transit	99		AC Transit 99: Hayward BART => Fremont BART	bus
 9496065	AC Transit	801		AC Transit 801: Fremont BART => San Leandro BART	bus
 9498938	AC Transit	21		AC Transit 21: Dimond District => Oakland International Airport	bus
@@ -3847,7 +3847,6 @@
 9712120	Bear Transit	N		Bear Transit N: Downtown Berkeley BART => Hearst Mining Circle => Downtown Berkeley BART	bus
 9712288	Bear Transit	RFS		Bear Transit RFS: El Cerrito => Regatta Facility => Hearst Mining Circle => Regatta Facility	
 9712292	Bear Transit	RFS		Bear Transit RFS: Regatta Facility => Hearst Mining Circle => Regatta Facility	
-9712624	US:US:Historic	Historic US 80		Historic US 80 (Super)	road
 9712655	US:US:Historic	80		Historic US 80 (CA)	road
 9716110	lcn			Miner's Ravine Trail	bicycle
 9718177	CSUEB	CV		CSU East Bay Castro Valley Shuttle: Castro Valley BART => CSU East Bay (Fridays)	bus
@@ -7477,3 +7476,8 @@
 20270729	lwn			Giant Forest-Alta Trail	hiking
 20270730	lwn			Tharp's Log Trail	hiking
 20270731	lwn			Wolverton Cutoff Trail	hiking
+20273170	US:BIA	12			road
+20273171	US:BIA	10			road
+20273172	US:BIA	15			road
+20273204	US:BIA	14			road
+20273361	US:BIA	57			road

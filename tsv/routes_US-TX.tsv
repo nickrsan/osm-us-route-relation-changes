@@ -4798,7 +4798,6 @@
 3992301	US:I	69W	north		road
 3999349	Metro	23		Metro 23 Clay - West 43rd	bus
 3999657	Metro	79		Metro 79 Irvington	bus
-4042903	US:US	75		US 75 HOV Lanes	road
 4043073	US:I:Express:Toll	635		635 TEXpress	road
 4069017	US:I	44	east		road
 4069018	US:I	44	west		road
@@ -11789,8 +11788,8 @@
 19062028				Katy Trail	foot
 19064597	lcn				bicycle
 19064598	lcn				bicycle
-19073338	US:TX	6	south	South State Highway 6	road
-19073339	US:TX	6	north	North State Highway 6	road
+19073338	US:TX	6	south	State Highway 6 South	road
+19073339	US:TX	6	north	State Highway 6 North	road
 19095965	US:US:Business	83		83	road
 19115747	rcn	CEN		CentrePort Trail	bicycle
 19160449	US:US:Business			77	road
