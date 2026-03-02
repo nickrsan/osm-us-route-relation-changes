@@ -554,7 +554,7 @@
 8330979	MBTA	83		"83 - Rindge Avenue - Central Square, Cambridge"	bus
 8330980	MBTA	80		80 - Arlington Center - Lechmere Station	bus
 8330982	MBTA	78		78 - Arlmont Village - Harvard Station	bus
-8330983	MBTA	77		77 - Arlington Heights - Harvard Station	bus
+8330983	MBTA	77		77 Inbound: Arlington Heights => Harvard Station	bus
 8330984	MBTA	62/76		62/76 - Bedford VA Hospital - Alewife Station via Hanscom Airport	bus
 8330985	MBTA	76		MBTA 76	bus
 8330986	MBTA	75		75 - Belmont Center - Harvard via Huron Avenue	bus
@@ -1790,3 +1790,4 @@
 20158345				The Flats/John Hart Track	piste
 20172230				Jack & Betty Valentine Trail	foot
 20266883	lcn			Sandwich Service Road Trail	bicycle
+20277144	MBTA	77		77 Outbound: Harvard Station => Arlington Heights	bus
