@@ -478,7 +478,7 @@
 553865	US:TX	276			road
 554490	US:TX	495			road
 554510	US:TX	OSR		Texas State Highway OSR	road
-554515	US:TX:NASA	1		Texas NASA Road 1	road
+554515	US:TX:NASA	1		Texas State Highway NASA Road 1	road
 554554	US:TX	361			road
 554563	US:TX	360			road
 557009	US:TX:RM	1431		Ranch to Market Road 1431	road
@@ -5108,7 +5108,7 @@
 7531494	US:TX:Wood:PR	7922		Wood County Private Road 7922	road
 7540487	US:TX:San_Patricio	3161		San Patricio County Road 3161	road
 7540490	US:TX:San_Patricio	2200		San Patricio County Road 2200	road
-7546633	US:TX:Loop	338		TX Loop 338	road
+7546633	US:TX:Loop	338		Texas State Highway Loop 338	road
 7555027	US:TX:Wood	3820		Wood County Road 3820	road
 7555028	US:TX:Wood	3824		Wood County Road 3824	road
 7560076	US:TX:Wood	2503		Wood County Road 2503	road
@@ -8510,7 +8510,7 @@
 13855429	US:US:Business	277			road
 13857117	US:US:Business	175			road
 13905546	Denton County Transportation Authority	7		Bus 7: Rayzor Park -> DDTC	bus
-13928303	US:TX:Loop	267		Texas State Loop 267	road
+13928303	US:TX:Loop	267		Texas State Highway Loop 267	road
 14084247	US:TX:Brazoria	185		Brazoria County Road 185	road
 14084248	US:TX:Brazoria	424		Brazoria County Road 424	road
 14084249	US:TX:Brazoria	110		Brazoria County Road 110	road
@@ -11788,8 +11788,8 @@
 19062028				Katy Trail	foot
 19064597	lcn				bicycle
 19064598	lcn				bicycle
-19073338	US:TX	6	south	State Highway 6 South	road
-19073339	US:TX	6	north	State Highway 6 North	road
+19073338	US:TX	6	south	Texas State Highway 6 South	road
+19073339	US:TX	6	north	Texas State Highway 6 North	road
 19095965	US:US:Business	83		83	road
 19115747	rcn	CEN		CentrePort Trail	bicycle
 19160449	US:US:Business			77	road
@@ -11872,3 +11872,4 @@
 20246476	lcn			Portland Texas Bikeways	bicycle
 20246478	lcn				bicycle
 20271068				Former US 75 (TX 1950)	road
+20279496	US:TX	OSR		Texas State Highway OSR	road
