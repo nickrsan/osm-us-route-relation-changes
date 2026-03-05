@@ -159,8 +159,8 @@
 157986	US:CA	134	east		road
 157987	US:CA	118	W	118 (westbound)	road
 157988	US:CA	118	E	118 (eastbound)	road
-157989	US:CA	14	S	14 (southbound)	road
-157990	US:CA	14	N	14 (northbound)	road
+157989	US:CA	14	south		road
+157990	US:CA	14	north		road
 157999	US:CA	23	south		road
 158000	US:CA	23	north		road
 158001	US:CA	54	west	54 (westbound)	road
@@ -962,8 +962,8 @@
 2320400	US:STRAHNET				road
 2320404					road
 2320405	US:I	80U		Interstate 80 (STRAHNET)	road
-2326065	US:I	5	north		road
-2326066	US:I	5	south		road
+2326065	US:I	5	north	Purple Heart Trail	road
+2326066	US:I	5	south	Purple Heart Trail	road
 2350199				Keddie Wye	railway
 2351005	Metro Rail	A		Metro A Line: Downtown Long Beach → Pomona North	light_rail
 2351006	Metro Rail	E		Metro E Line: Atlantic → Downtown Santa Monica	light_rail
@@ -1225,8 +1225,8 @@
 2640395	AC Transit	51B		AC Transit 51B: Rockridge BART => Berkeley Amtrak	bus
 2640396	AC Transit	51B		AC Transit 51B: Berkeley Amtrak => Rockridge BART	bus
 2640886				Exeter Subdivision	railway
-2641673	AC Transit	88		AC Transit 88: Lake Merritt BART => Downtown Berkeley	bus
-2641674	AC Transit	88		AC Transit 88: Downtown Berkeley => Lake Merritt BART	bus
+2641673	AC Transit	88		AC Transit 88: Piedmont => Downtown Berkeley	bus
+2641674	AC Transit	88		AC Transit 88: Downtown Berkeley => Piedmont	bus
 2641700	AC Transit	65		AC Transit 65: Lawrence Hall of Science => Downtown Berkeley	bus
 2641701	AC Transit	65		AC Transit 65: Senior Avenue Loop => Downtown Berkeley (weekdays)	bus
 2641702	AC Transit	65		AC Transit 65: Downtown Berkeley => Senior Avenue Loop (weekdays)	bus
@@ -1248,8 +1248,8 @@
 2672916	lcn	12A		South of I-280 Corridor	bicycle
 2690781				Engineering wheelchair accessibility	hiking
 2705394				Science Hill wheelchair accessibility	hiking
-2713104	AC Transit	72		AC Transit 72: Jack London Square => Hilltop Mall	bus
-2713105	AC Transit	72		AC Transit 72: Hilltop Mall => Jack London Square	bus
+2713104	AC Transit	72		AC Transit 72: Jack London Square => Contra Costa College	bus
+2713105	AC Transit	72		AC Transit 72: Contra Costa College => Jack London Square	bus
 2713181	AC Transit	72M		AC Transit 72M: Point Richmond => Jack London Square	bus
 2713182	AC Transit	72M		AC Transit 72M: Jack London Square => Point Richmond	bus
 2713253	AC Transit	57		AC Transit 57: Foothill Square => Public Market Emeryville	bus
@@ -2340,10 +2340,8 @@
 7935312	Metro Rail	D		Metro D Line: Union Station → Wilshire/Western	subway
 7935321	Metro Rail	B		Metro B Line: Union Station → North Hollywood	subway
 7937987	lhn			Pogonip Equestrian	horse
-7945779	AC Transit	33		AC Transit 33: Montclair => Inverleith Terrace & Estates Drive => Piedmont (weekdays)	bus
 7953300	lcn	42Z			bicycle
 7953324	lcn	218L			bicycle
-8030629	AC Transit	33		AC Transit 33: Piedmont => Montclair	bus
 8032900	AC Transit	29		AC Transit 29: Christie Avenue & 64th Street => Lakeshore Avenue & Mandana Boulevard	bus
 8033734	AC Transit	96		AC Transit 96: Dimond District => Alameda Point	bus
 8033784	AC Transit	96		AC Transit 96: Alameda Point => Dimond District	bus
@@ -2980,7 +2978,7 @@
 8538805	SacRT	26		26 Fulton	bus
 8538864	SacRT	56		56 Meadowview	bus
 8538867	SacRT	51		51 Stockton/Broadway	bus
-8538869	SacRT	38		38 Tahoe Park	bus
+8538869	SacRT	38	west	38 Tahoe Park	bus
 8538870	SacRT	134 PM	east	134 McKinley Commmuter	bus
 8538924				Former US 80 Freeway - San Diego	road
 8538925				Former US 80 (CA 1955)	road
@@ -2995,9 +2993,9 @@
 8540514	SacRT	93		93 Hillsdale	bus
 8540515	SacRT	88		88 West El Camino	bus
 8540516	SacRT	87		87 Howe	bus
-8540517	SacRT	86		86 Grand	bus
+8540517	SacRT	86	north	86 Grand	bus
 8540518	SacRT	82		82 Northrop/Morse	bus
-8540519	SacRT	84		84 Watt	bus
+8540519	SacRT	84	north	Bus 84: Watt & Manlove => Watt & Elverta	bus
 8540789	SacRT	177		177 Rancho CordoVan - Villages	bus
 8540790	SacRT	176		176 Rancho CordoVan-Anatolia	bus
 8540791	SacRT	175		175 Rancho CordoVan-Sunridge Park	bus
@@ -3030,13 +3028,13 @@
 8548665	AC Transit	40		AC Transit 40: Bay Fair BART => Eastmont Transit Center => Downtown Oakland	bus
 8548666	AC Transit	339		AC Transit 339: Chabot Space and Science Center => Fruitvale BART	bus:suspended
 8548667	AC Transit	39		AC Transit 39: Fruitvale BART => Skyline High School	bus
-8548883	AC Transit	70		AC Transit 70: Richmond Parkway Transit Center => Richmond BART	bus
+8548883	AC Transit	70		AC Transit 70: Richmond Parkway Transit Center => El Cerrito del Norte BART	bus
 8548884	AC Transit	60		AC Transit 60: South Hayward BART => Cal State East Bay	bus
 8549567	AC Transit	80		AC Transit 80: El Cerrito Plaza BART => Claremont District	bus:suspended
 8549569	AC Transit	76		AC Transit 76: Richmond Parkway Transit Center => El Cerrito del Norte BART	bus
 8549570	AC Transit	74		AC Transit 74: El Sobrante => Marina Bay	bus
 8549571	AC Transit	73		AC Transit 73: Oakland International Airport => Eastmont Transit Center	bus
-8549572	AC Transit	72R		AC Transit 72R: Contra Costa College => Jack London Square	bus
+8549572	AC Transit	72L		AC Transit 72L: Contra Costa College => Jack London Square	bus
 8549573	AC Transit	802		AC Transit 802: Downtown Oakland => Berkeley Amtrak	bus
 8549877	AC Transit	99		AC Transit 99: Fremont BART => Hayward BART	bus
 8549878	AC Transit	98		AC Transit 98: Eastmont Transit Center => Coliseum BART	bus
@@ -3058,11 +3056,9 @@
 8552410	rcn	PBW		Peninsula Bikeway	bicycle
 8555531	AC Transit	805		AC Transit 805: Downtown Oakland => Oakland International Airport	bus
 8555532	AC Transit	801		AC Transit 801: San Leandro BART => Fremont BART	bus
-8555534	AC Transit	376		"AC Transit 376: El Cerrito del Norte BART => Fitzgerald Drive, Pinole"	bus
 8555535	AC Transit	356		"AC Transit 356: Palo Vista Gardens => E.E. Cleveland Senior Center => South Shore Center (one trip daily, Mo/We/Fr only)"	bus:suspended
 8555536	AC Transit	314		"AC Transit 314: West Oakland Post Office => Hegenberger Road & Edgewater Drive (one trip daily, Tu/Th only)"	bus:suspended
 8555877	AC Transit	M		AC Transit M: Hillsdale Shopping Center => Vintage Park => Hayward BART (evenings)	
-8555878	AC Transit	LA		AC Transit LA: Salesforce Transit Center => Hilltop Park and Ride (evenings)	bus
 8555880	AC Transit	L		AC Transit L: Salesforce Transit Center => Princeton Plaza Shopping Center (evenings)	bus
 8555881	AC Transit	J		AC Transit J: Salesforce Transit Center => University Avenue & Acton Street (evenings)	bus
 8555882	AC Transit	E		AC Transit E: Salesforce Transit Center => Caldecott Lane (evenings)	bus
@@ -3440,7 +3436,7 @@
 9426157	Long Beach Transit	171		Long Beach Transit 171 PCH to Cabrillo	bus
 9426935	Long Beach Transit	23		Long Beach Transit 23 Southbound	bus
 9427063	AC Transit	80		AC Transit 80: Claremont District => El Cerrito Plaza BART	bus:suspended
-9448962	AC Transit	72R		AC Transit 72R: Jack London Square => Contra Costa College	bus
+9448962	AC Transit	72L		AC Transit 72L: Jack London Square => Contra Costa College	bus
 9463377	PresidiGo	DT		PresidiGo Downtown Shuttle: Main & Howard => Presidio Transit Center	bus
 9465754	AC Transit	6		AC Transit 6: Downtown Oakland => Downtown Berkeley	bus
 9466653				"California High Speed Rail Proposal, Phase 1 South"	railway
@@ -3484,7 +3480,6 @@
 9486757	AC Transit	V		AC Transit V: Broadway & College Avenue => Salesforce Transit Center (mornings)	bus
 9488757	AC Transit	J		AC Transit J: Sacramento Street & University Avenue => Salesforce Transit Center (mornings)	bus
 9488896	AC Transit	L		AC Transit L: Princeton Plaza Shopping Center => Salesforce Transit Center (mornings)	bus
-9488897	AC Transit	LA		AC Transit LA: Hilltop Park and Ride => Salesforce Transit Center (mornings)	bus
 9488950	AC Transit	802		AC Transit 802: Berkeley Amtrak => Downtown Oakland	bus
 9489030	AC Transit	805		AC Transit 805: Oakland International Airport => Downtown Oakland	bus
 9489128	City of Oakland	BSD		Oakland Broadway Shuttle (Day): Jack London Square => Grand Avenue	bus:suspended
@@ -3508,16 +3503,14 @@
 9499202	AC Transit	339		AC Transit 339: Fruitvale BART => Chabot Space and Science Center	bus:suspended
 9499352	AC Transit	47		AC Transit 47: Fruitvale BART => Maxwell Park	bus:suspended
 9499355	AC Transit	54		AC Transit 54: Merritt College => Fruitvale BART	bus
-9499497	AC Transit	70		AC Transit 70: Richmond BART => Richmond Parkway Transit Center	bus
+9499497	AC Transit	70		AC Transit 70: El Cerrito del Norte BART => Richmond Parkway Transit Center	bus
 9499728	AC Transit	76		AC Transit 76: El Cerrito del Norte BART => Richmond Parkway Transit Center	bus
 9500036	AC Transit	74		AC Transit 74: Hilltop Mall => Marina Bay (weekends)	bus
 9500037	AC Transit	74		AC Transit 74: Marina Bay => Hilltop Mall (weekends)	bus
 9500038	AC Transit	74		AC Transit 74: Marina Bay => El Sobrante	bus
-9501670	AC Transit	376		"AC Transit 376: Fitzgeralt Drive, Pinole => El Cerrito del Norte BART"	bus
 9501718	AC Transit	356		"AC Transit 356: South Shore Center => Palo Vista Gardens => E.E. Cleveland Senior Center (one trip daily, Mo/We/Fr only)"	bus:suspended
 9501719	AC Transit	314		"AC Transit 314: Hegenberger Road & Edgewater Drive => West Oakland Post Office (one trip daily, Tu/Th only)"	bus:suspended
 9502010	AC Transit	45		AC Transit 45: Eastmont Transit Center => Foothill Square	bus
-9502033	AC Transit	33		AC Transit 33: Montclair => Piedmont	bus
 9502454	AC Transit	73		AC Transit 73: Eastmont Transit Center => Oakland International Airport	bus
 9502517	AC Transit	46		AC Transit 46: Coliseum BART => Oakland Zoo	bus:suspended
 9502518	AC Transit	46L		AC Transit 46L: Grass Valley => Coliseum BART	bus
@@ -3854,7 +3847,6 @@
 9718185	CSUEB	CL		CSU East Bay Campus Loop Shuttle: CSU East Bay => University Village => CSU East Bay	bus
 9718186	CSUEB	H		CSU East Bay Hayward Shuttle: Hayward BART => CSU East Bay (Mondays-Thursdays)	bus
 9718187	CSUEB	H		CSU East Bay Hayward Shuttle: CSU East Bay => Hayward BART (Mondays-Thursdays)	bus
-9721107	AC Transit	33		AC Transit 33: Inverleith Terrace & Estates Drive => Piedmont => Montclair (weekdays)	
 9721124	AC Transit	35		AC Transit 35: Juvenile Justice Center => Bay Fair BART => Foothill Square (weekends)	
 9723856	AC Transit	800		AC Transit 800: Market & Van Ness => Richmond BART	bus
 9726341	ACS	BF		Alameda County Sustainability Bay Fair Shuttle: Bay Fair BART => Juvenile Justice Center	bus
@@ -7070,7 +7062,7 @@
 19573448	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Solano Town Center	bus
 19596379	lwn	15E17		Hell Hole Trail	hiking
 19624589				Singh Walkway	foot
-19627979		AC Transit 18:			bus
+19627979	AC Transit	AC Transit 18:			bus
 19630493	US:CA:Business	99		California 99 Business (Bakersfield)	road
 19630520	US:CA:Business	99		California 99 Business (Merced)	road
 19630523	US:CA:Business	99		California 99 Business (Lodi)	road
@@ -7483,3 +7475,7 @@
 20273361	US:BIA	57			road
 20274162	County Connection	316			bus
 20274163	County Connection	316			bus
+20284402	SacRT	84	south	Bus 84: Watt & Elverta => Watt & Manlove	bus
+20287128	SacRT	38	east	38 Tahoe Park	bus
+20287579	lwn			Pioneer Mail Trail	hiking
+20288406	SacRT	86	south	86 Grand	bus

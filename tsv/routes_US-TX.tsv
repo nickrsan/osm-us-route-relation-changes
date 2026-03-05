@@ -6065,8 +6065,6 @@
 9720708	lcn			Brownsville Historic Battlefield Trail	bicycle
 9774486	Sun Metro	1		Sun Metro Route 1 Eastside Express	bus
 9775031	Sun Metro	4		Sun Metro Route 4 Union Plaza Circulator	bus
-9775032	Sun Metro	3		Sun Metro Route 3 Ysleta Express	bus
-9775770	Sun Metro	20		Sun Metro Route 20 Sunland Park Circulator	bus
 9775771	Sun Metro	19		Sun Metro Route 19 Resler Circulator	bus
 9775772	Sun Metro	17		Sun Metro Route 17 Three Hills/NWEPCC	bus
 9775773	Sun Metro	16		Sun Metro Route 16 Upper Valley Circulator	bus
@@ -6081,7 +6079,6 @@
 9776037	Sun Metro	30		Sun Metro Route 30 Fort Bliss via Pleasonton	bus
 9776038	Sun Metro	25		Sun Metro Route 25 University Medical Center	bus
 9776039	Sun Metro	24		Sun Metro Route 24 Delta via Second Ward	bus
-9776040	Sun Metro	22		Sun Metro Route 22 Chelmont via Chelsea	bus
 9776041	Sun Metro	21		Sun Metro Route 21 Chelmont via Raynolds	bus
 9789265	Sun Metro	36		Sun Metro Route 36 Beaumont via Highland	bus
 9789266	Sun Metro	35		Sun Metro Route 35 Northgate via Dyer	bus
@@ -11873,3 +11870,5 @@
 20246478	lcn				bicycle
 20271068				Former US 75 (TX 1950)	road
 20279496	US:TX	OSR		Texas State Highway OSR	road
+20286439	lwn			Duck Pond Trail	hiking
+20286440	lwn			Plum Valley Trail	hiking
