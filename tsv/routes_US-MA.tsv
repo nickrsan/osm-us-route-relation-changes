@@ -551,7 +551,7 @@
 8330831	MBTA	57A		57A - Oak Square - Kenmore Station	bus:suspended
 8330833	MBTA	57		57 - Watertown Yard - Kenmore Station	bus
 8330977	MBTA	85		85 Inbound: Spring Hill => Kendall/MIT Station	bus
-8330979	MBTA	83		"83 - Rindge Avenue - Central Square, Cambridge"	bus
+8330979	MBTA	83		83 Inbound: Rindge Avenue => Central Square	bus
 8330980	MBTA	80		80 - Arlington Center - Lechmere Station	bus
 8330982	MBTA	78		78 - Arlmont Village - Harvard Station	bus
 8330983	MBTA	77		77 Inbound: Arlington Heights => Harvard Station	bus
@@ -1791,3 +1791,4 @@
 20172230				Jack & Betty Valentine Trail	foot
 20266883	lcn			Sandwich Service Road Trail	bicycle
 20277144	MBTA	77		77 Outbound: Harvard Station => Arlington Heights	bus
+20293226	MBTA	83		83 Outbound: Central Square => Rindge Ave	bus

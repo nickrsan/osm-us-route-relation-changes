@@ -1263,7 +1263,6 @@
 2716239	AC Transit	800		AC Transit 800: Richmond BART => Market & Van Ness	bus
 2717779	AC Transit	851		AC Transit 851: Fruitvale BART => Downtown Berkeley	bus
 2717780	AC Transit	851		AC Transit 851: Downtown Berkeley => Fruitvale BART	bus
-2717935	AC Transit	29		AC Transit 29: Lakeshore Avenue & Mandana Boulevard => Christie Avenue & 64th Street	bus
 2718359	AC Transit	F		AC Transit F: U.C. Campus => Salesforce Transit Center	bus
 2718360	AC Transit	F		AC Transit F: Salesforce Transit Center => U.C. Campus	bus
 2719463	AC Transit	62		AC Transit 62: West Oakland BART => Fruitvale BART	bus
@@ -1461,7 +1460,7 @@
 3395857				1926-1934 US 66/US 99 concurrency (Foothill Boulevard)	road
 3395858				1926-1934 US 66/US 99 concurrency (Colorado Boulevard)	road
 3395859				1926-1934 US 66/US 99 concurrency (4th Street)	road
-3397031				US 99 in 1930 (CA)	road
+3397031					road
 3406508	Muni	30		Muni 30 outbound: Caltrain => The Marina (8pm-midnight)	trolleybus
 3406515	Muni	8		Muni 8 inbound: City College => Fisherman's Wharf	bus
 3406516	Muni	8		Muni 8 outbound: Fisherman's Wharf => City College	bus
@@ -2342,7 +2341,6 @@
 7937987	lhn			Pogonip Equestrian	horse
 7953300	lcn	42Z			bicycle
 7953324	lcn	218L			bicycle
-8032900	AC Transit	29		AC Transit 29: Christie Avenue & 64th Street => Lakeshore Avenue & Mandana Boulevard	bus
 8033734	AC Transit	96		AC Transit 96: Dimond District => Alameda Point	bus
 8033784	AC Transit	96		AC Transit 96: Alameda Point => Dimond District	bus
 8037436	AC Transit	NL		AC Transit NL: Salesforce Transit Center => Eastmont Transit Center	bus
@@ -5391,7 +5389,7 @@
 14250651	lcn	LCR		Los Carneros Route	bicycle
 14250652	lcn	FHR		Foothill Route	bicycle
 14250653	lcn	CSR		Castillo Route	bicycle
-14277014				Greenway Trail	bicycle
+14277014				Whittier Greenway Trail	bicycle
 14280619	Kanan Shuttle	Kanan		Kanan Shuttle	bus
 14283830	Thousand Oaks Transit	40		40 - Newbury Park	bus
 14287489	Thousand Oaks Transit	41		41 - Midtown A	bus
@@ -5938,7 +5936,7 @@
 16520579	E-Tran	17		E 17	bus
 16520580	E-Tran	18		E 18	bus
 16520581	E-Tran	19		E 19	bus
-16527403	E-Tran	110		E 110	bus
+16527403	E-Tran	E110	north	Bus E110: Sky River Casino -> Cosumnes River College	bus
 16527404	E-Tran	111		E 111	bus
 16527405	E-Tran	112		E 112	bus
 16527406	E-Tran	113		E 113	bus
@@ -7479,3 +7477,6 @@
 20287128	SacRT	38	east	38 Tahoe Park	bus
 20287579	lwn			Pioneer Mail Trail	hiking
 20288406	SacRT	86	south	86 Grand	bus
+20291802	E-Tran	E110	south	Bus E110: Cosumnes River College -> Sky River Casino	bus
+20293143	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley via Downtown Oakland	bus
+20293144	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District via Downtown Oakland	bus
