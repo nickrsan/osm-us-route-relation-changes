@@ -58,7 +58,7 @@
 57485	lcn				bicycle
 57486	lcn				bicycle
 57487	lcn	229			bicycle
-57489	lcn				bicycle
+57489	lcn			Skyline Boulevard	bicycle
 60198	rcn	JWC		John W. Christian Greenbelt	bicycle
 61291	lcn	1			bicycle
 61292	lcn	2			bicycle
@@ -7402,7 +7402,6 @@
 20085601	US:CA:Historic	CA 163 Hist		Historic State Route 163	road
 20085637	US:US:Historic	395			road
 20085992	US:US:Historic			80 (unsigned)	road
-20085994	US:US:Hist	99			road
 20086281	US:CA:CHL	CHL #784		El Camino Real	historic
 20086438	US:US:Old	80		Old U.S. Route 80	road
 20104192	US:CA:Express	170	north		road
@@ -7480,3 +7479,6 @@
 20291802	E-Tran	E110	south	Bus E110: Cosumnes River College -> Sky River Casino	bus
 20293143	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley via Downtown Oakland	bus
 20293144	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District via Downtown Oakland	bus
+20296004	AC Transit	27		AC Transit 27: Emeryville Amtrak => El Cerrito Plaza BART via Downtown Berkeley	bus
+20296005	AC Transit	27		AC Transit 27: El Cerrito Plaza BART => Emeryville Amtrak via Downtown Berkeley	bus
+20297161	US:US:Historic	99			road
