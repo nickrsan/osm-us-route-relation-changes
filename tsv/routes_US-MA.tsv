@@ -544,7 +544,7 @@
 8330632	MBTA	24		24 Inbound: Wakefield Avenue & Truman Parkway => Ashmont Station	bus
 8330825	MBTA	66		66 Inbound: Harvard Square => Allston => Nubian Station	bus
 8330826	MBTA	65		65 Inbound: Brighton Center => Kenmore Station	bus
-8330827	MBTA	64		64 - Oak Square - University Park or Kendall/MIT Station	bus
+8330827	MBTA	64		64 Inbound: Oak Square => Kendall/MIT	bus
 8330828	MBTA	62		62 Inbound: Bedford VA Hospital=> Alewife Station	bus
 8330829	MBTA	60		60 - Chestnut Hill - Kenmore Station	bus
 8330830	MBTA	59		59 - Needham Junction - Watertown Square	bus
@@ -1792,3 +1792,4 @@
 20266883	lcn			Sandwich Service Road Trail	bicycle
 20277144	MBTA	77		77 Outbound: Harvard Station => Arlington Heights	bus
 20293226	MBTA	83		83 Outbound: Central Square => Rindge Ave	bus
+20300474	MBTA			64 Outbound: Kendall/MIT => Oak Square	bus

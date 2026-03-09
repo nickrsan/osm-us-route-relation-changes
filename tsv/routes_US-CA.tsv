@@ -3009,9 +3009,9 @@
 8543638	AC Transit	9		AC Transit 9: San Leandro BART => Union City BART	bus
 8543639	AC Transit	6		AC Transit 6: Downtown Berkeley => Downtown Oakland	bus
 8546704	AC Transit	21		AC Transit 21: Dimond District => Harbor Bay Ferry Terminal => Oakland International Airport (mornings)	bus
-8546705	AC Transit	20		AC Transit 20: Dimond District => Downtown Oakland	bus
+8546705	AC Transit	30		AC Transit 30: Dimond District => Downtown Oakland	bus
 8546706	AC Transit	19		AC Transit 19: Fruitvale BART => Downtown Oakland	bus
-8546742	AC Transit	36		AC Transit 36: West Oakland BART => U.C. Campus	bus
+8546742	AC Transit	36		AC Transit 36: West Oakland BART => Rockridge BART	bus
 8546743	AC Transit	35		AC Transit 35: Bay Fair BART => Foothill Square	bus
 8546744	AC Transit	34		AC Transit 34: Foothill Square => Hayward BART	bus
 8546745	AC Transit	28		AC Transit 28: San Leandro BART => Hayward BART	bus
@@ -3062,7 +3062,7 @@
 8555882	AC Transit	E		AC Transit E: Salesforce Transit Center => Caldecott Lane (evenings)	bus
 8555883	AC Transit	CB		AC Transit CB: Salesforce Transit Center => Broadway Terrace (evenings)	bus:suspended
 8555885	AC Transit	B		AC Transit B: Salesforce Transit Center => Trestle Glen (evenings)	bus:suspended
-8555934	AC Transit	OX		AC Transit OX: Salesforce Transit Center => Bay Farm Island (evenings)	bus
+8555934	AC Transit	OX		AC Transit OX: Salesforce Transit Center => Bay Farm Island (evenings)	
 8555935	AC Transit	O		AC Transit O: Salesforce Transit Center => Fruitvale BART	bus
 8555936	AC Transit	NXC		AC Transit NXC: Salesforce Transit Center => Castro Valley Park and Ride (evenings)	bus:suspended
 8555937	AC Transit	NX4		AC Transit NX4: Salesforce Transit Center => Castro Valley Park and Ride (evenings)	bus:suspended
@@ -3071,7 +3071,7 @@
 8555940	AC Transit	NX		AC Transit NX: Salesforce Transit Center => MacArthur Boulevard & Millsbrae Avenue (evenings)	bus
 8555941	AC Transit	NX		AC Transit NX: MacArthur Boulevard & Seminary Avenue => Salesforce Transit Center (mornings)	bus
 8556752	Dumbarton Express	DB1		Dumbarton Express DB1: Union City BART => VA Hospital => Stanford Research Park	bus
-8556754	AC Transit	W		AC Transit W: Salesforce Transit Center => Blanding Avenue & Broadway (evenings)	bus
+8556754	AC Transit	W		AC Transit W: Salesforce Transit Center => Bay Farm Island (evenings)	bus
 8556755	AC Transit	V		AC Transit V: Salesforce Transit Center => Broadway & College Avenue (evenings)	bus
 8556756	Dumbarton Express	DB		Dumbarton Express DB: Stanford Campus Oval => Union City BART	bus
 8556757	AC Transit	SB		AC Transit SB: Salesforce Transit Center => Cedar Boulevard & Stevenson Boulevard (evenings)	bus:suspended
@@ -3161,7 +3161,7 @@
 8640231	US:CA:Nevada	878		CR 878	road
 8640232	US:NFSR:Tahoe:NFH	11		NFH 11	road
 8640233	US:CA:Sierra	260		CR 260	road
-8759933	AC Transit	79		AC Transit 79: El Cerrito Plaza BART => Rockridge BART	bus
+8759933	AC Transit	79		AC Transit 79: El Cerrito Plaza BART => Rockridge BART	
 8759977	City of Oakland	BSN		Oakland Broadway Shuttle (Night): 27th Street => Jack London Square	bus:suspended
 8759989	City of Oakland	BSD		Oakland Broadway Shuttle (Day): Grand Avenue => Jack London Square	bus:suspended
 8796239				SMF Automated People Mover	tram
@@ -3406,7 +3406,7 @@
 9368834	Flixbus	2000		Flixbus 2000: El Cerrito del Norte BART => Los Angeles (University of Southern California)	bus
 9368964	Flixbus	N2006		Flixbus N2006: Reno => Los Angeles	
 9368965	Flixbus	N2006		Flixbus N2006: Los Angeles => Reno	
-9371293	AC Transit	79		AC Transit 79: Rockridge BART => El Cerrito Plaza BART	bus
+9371293	AC Transit	79		AC Transit 79: Rockridge BART => El Cerrito Plaza BART	
 9372586	Torrance Transit	1		Torrance Transit 1 →Harbor Freeway	bus
 9372944	Flixbus	2062		Flixbus 2062: Sacramento => San Francisco	bus
 9372945	Flixbus	2062		Flixbus 2062: San Francisco => Sacramento	bus
@@ -3442,7 +3442,7 @@
 9466655				"California High Speed Rail Proposal, Phase 2 North"	railway
 9466656				"California High Speed Rail Proposal, Phase 1 North"	railway
 9466950	ACE			Altamont Corridor Express Extension Proposal	
-9470650	AC Transit	36		AC Transit 36: U.C. Campus => West Oakland BART	bus
+9470650	AC Transit	36		AC Transit 36: Rockridge BART => West Oakland BART	bus
 9477588	AC Transit	1T		AC Transit Tempo 1T: Uptown Oakland => San Leandro BART	bus
 9477645	AC Transit	40		AC Transit 40: Eastmont Transit Center => Downtown Oakland	bus
 9477646	AC Transit	40		AC Transit 40: Downtown Oakland => Eastmont Transit Center	bus
@@ -3467,8 +3467,8 @@
 9481042	Long Beach Transit	1		Long Beach Transit 1 westbound to Cal State Dominguez Hills	bus
 9483712	AC Transit	NX3		AC Transit NX3: Marlow Drive & Foothill Boulevard => Salesforce Transit Center (mornings)	bus
 9483713	AC Transit	NX4		AC Transit NX4: Castro Valley Park and Ride => Salesforce Transit Center (mornings)	bus:suspended
-9486446	AC Transit	OX		AC Transit OX: Bay Farm Island => Salesforce Transit Center (mornings)	bus
-9486447	AC Transit	W		AC Transit W: Broadway & Blanding Avenue => Salesforce Transit Center (mornings)	bus
+9486446	AC Transit	OX		AC Transit OX: Bay Farm Island => Salesforce Transit Center (mornings)	
+9486447	AC Transit	W		AC Transit W:Bay Farm Island => Salesforce Transit Center (mornings)	bus
 9486487	AC Transit	S		AC Transit S: Hesperian Boulevard & West Winton Avenue => Salesforce Transit Center (mornings)	bus:suspended
 9486488	AC Transit	SB		AC Transit SB: Cedar Boulevard & Stevenson Boulevard => Salesforce Transit Center (mornings)	bus:suspended
 9486599	AC Transit	E		AC Transit E: Caldecott Lane => Salesforce Transit Center (mornings)	bus
@@ -3492,10 +3492,10 @@
 9496065	AC Transit	801		AC Transit 801: Fremont BART => San Leandro BART	bus
 9498938	AC Transit	21		AC Transit 21: Dimond District => Oakland International Airport	bus
 9498939	AC Transit	21		AC Transit 21: Oakland International Airport => Dimond District	bus
-9498940	AC Transit	20		AC Transit 20: Dimond District => South Shore Center (late nights)	bus
-9498941	AC Transit	20		AC Transit 20: South Shore Center => Dimond District (late nights)	bus
+9498940	AC Transit	30		AC Transit 30: Dimond District => South Shore Center (late nights)	bus
+9498941	AC Transit	30		AC Transit 30: South Shore Center => Dimond District (late nights)	bus
 9498944	AC Transit	19		AC Transit 19: Downtown Oakland => Fruitvale BART	bus
-9498945	AC Transit	20		AC Transit 20: Downtown Oakland => Dimond District	bus
+9498945	AC Transit	30		AC Transit 30: Downtown Oakland => Dimond District	bus
 9498946	AC Transit	21		AC Transit 21: Oakland International Airport => Harbor Bay Ferry Terminal => Dimond District (evenings)	bus
 9499201	AC Transit	39		AC Transit 39: Skyline High School => Fruitvale BART	bus
 9499202	AC Transit	339		AC Transit 339: Fruitvale BART => Chabot Space and Science Center	bus:suspended
@@ -7479,6 +7479,6 @@
 20291802	E-Tran	E110	south	Bus E110: Cosumnes River College -> Sky River Casino	bus
 20293143	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley via Downtown Oakland	bus
 20293144	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District via Downtown Oakland	bus
-20296004	AC Transit	27		AC Transit 27: Emeryville Amtrak => El Cerrito Plaza BART via Downtown Berkeley	bus
-20296005	AC Transit	27		AC Transit 27: El Cerrito Plaza BART => Emeryville Amtrak via Downtown Berkeley	bus
+20296004	AC Transit	27		AC Transit 27: Emeryville Amtrak => El Cerrito Plaza BART	bus
+20296005	AC Transit	27		AC Transit 27: El Cerrito Plaza BART => Emeryville Amtrak	bus
 20297161	US:US:Historic	99			road
