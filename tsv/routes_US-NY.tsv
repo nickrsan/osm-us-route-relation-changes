@@ -10110,7 +10110,6 @@
 18101844	lwn	19B		Vanished Village Trail	hiking
 18102885	lwn			Yellow Brick Road	foot
 18111171	lwn			Brown Trail	hiking
-18117256				PS.158	foot
 18123072		T4040-2		B-R #4 - Revere Copper & Brass Tap	power
 18123073		T4040-1		B-R #4 - Madison Tap	power
 18123074		T4040		Boonville - Rome #4	power
@@ -11043,8 +11042,8 @@
 19511458	lwn			Blue Trail	hiking
 19511459	lwn			Orange Trail	hiking
 19511460	lwn			Green Trail	hiking
-19511461				Red Trail	hiking
-19511469				Yellow Trail	hiking
+19511461	lwn			Red Trail	hiking
+19511469	lwn			Yellow Trail	hiking
 19514870	lcn			LaSalle Recreation Trail	bicycle
 19523618				Moose Pond Carry	portage
 19523619				Lake Flower Dam Carry	portage

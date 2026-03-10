@@ -395,7 +395,7 @@
 5694592	lwn	E		ACROSS Lexington Route E	hiking
 5694627	lcn			Minuteman-Battle Road Connector	bicycle
 5694655	lwn	F		ACROSS Lexington Route F	hiking
-5760881	MBTA	70		70 - Market Place Drive or Waltham Center - University Park	bus
+5760881	MBTA	70		70 Inbound: Market Place Dr => University Park	bus
 5810262	lwn	WG		Western Greenway	hiking
 6021160				Algonquin Gas Transmission	pipeline
 6209144	local			MacMillan Pier/Beech Forest	bicycle
@@ -568,7 +568,7 @@
 8331139	MBTA	90		90 - Davis Station - Assembly Row	bus
 8331140	MBTA	89		89 - Clarendon Hill or Davis Station - Sullivan Square Station	bus
 8331141	MBTA	88		88 - Clarendon Hill - Lechmere Station	bus
-8331142	MBTA	87		87 - Clarendon Hill or Arlington Center - Lechmere Station	bus
+8331142	MBTA	87		87 Inbound: Arlington Center => Lechmere	bus
 8333226	MBTA	116		116 Outbound: Maverick Station => Wonderland Station	bus
 8333227	MBTA	114		114 Inbound: Market Basket => Maverick Station	bus
 8333228	MBTA	112		112 Inbound: Wellington Station => Wood Island Station	bus
@@ -1793,3 +1793,4 @@
 20277144	MBTA	77		77 Outbound: Harvard Station => Arlington Heights	bus
 20293226	MBTA	83		83 Outbound: Central Square => Rindge Ave	bus
 20300474	MBTA			64 Outbound: Kendall/MIT => Oak Square	bus
+20303498	MBTA	87		87 Outbound: Lechmere => Arlington Center	bus

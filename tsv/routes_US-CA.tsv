@@ -223,7 +223,6 @@
 313324	US:I	505	north		road
 319436	US:CA	110	south		road
 319437	US:CA	110	north		road
-319538	US:CA	2		Route 2	road
 319600	US:CA	3			road
 319745	US:CA	36			road
 324392	US:CA	27			road
@@ -3008,7 +3007,7 @@
 8543596	Yolobus	230		Yolobus 230 West Davis/Sacramento Express	bus
 8543638	AC Transit	9		AC Transit 9: San Leandro BART => Union City BART	bus
 8543639	AC Transit	6		AC Transit 6: Downtown Berkeley => Downtown Oakland	bus
-8546704	AC Transit	21		AC Transit 21: Dimond District => Harbor Bay Ferry Terminal => Oakland International Airport (mornings)	bus
+8546704	AC Transit	31		AC Transit 31: Chabot Space and Science Center => Bay Farm Island	bus
 8546705	AC Transit	30		AC Transit 30: Dimond District => Downtown Oakland	bus
 8546706	AC Transit	19		AC Transit 19: Fruitvale BART => Downtown Oakland	bus
 8546742	AC Transit	36		AC Transit 36: West Oakland BART => Rockridge BART	bus
@@ -3025,7 +3024,7 @@
 8548664	AC Transit	840		AC Transit 840: Downtown Oakland => Eastmont Transit Center	bus
 8548665	AC Transit	40		AC Transit 40: Bay Fair BART => Eastmont Transit Center => Downtown Oakland	bus
 8548666	AC Transit	339		AC Transit 339: Chabot Space and Science Center => Fruitvale BART	bus:suspended
-8548667	AC Transit	39		AC Transit 39: Fruitvale BART => Skyline High School	bus
+8548667	AC Transit	39		AC Transit 39: Fruitvale BART => Skyline High School	
 8548883	AC Transit	70		AC Transit 70: Richmond Parkway Transit Center => El Cerrito del Norte BART	bus
 8548884	AC Transit	60		AC Transit 60: South Hayward BART => Cal State East Bay	bus
 8549567	AC Transit	80		AC Transit 80: El Cerrito Plaza BART => Claremont District	bus:suspended
@@ -3490,14 +3489,12 @@
 9496063	AC Transit	9		AC Transit 9: Union City BART => San Leandro BART	bus
 9496064	AC Transit	99		AC Transit 99: Hayward BART => Fremont BART	bus
 9496065	AC Transit	801		AC Transit 801: Fremont BART => San Leandro BART	bus
-9498938	AC Transit	21		AC Transit 21: Dimond District => Oakland International Airport	bus
-9498939	AC Transit	21		AC Transit 21: Oakland International Airport => Dimond District	bus
 9498940	AC Transit	30		AC Transit 30: Dimond District => South Shore Center (late nights)	bus
 9498941	AC Transit	30		AC Transit 30: South Shore Center => Dimond District (late nights)	bus
 9498944	AC Transit	19		AC Transit 19: Downtown Oakland => Fruitvale BART	bus
 9498945	AC Transit	30		AC Transit 30: Downtown Oakland => Dimond District	bus
-9498946	AC Transit	21		AC Transit 21: Oakland International Airport => Harbor Bay Ferry Terminal => Dimond District (evenings)	bus
-9499201	AC Transit	39		AC Transit 39: Skyline High School => Fruitvale BART	bus
+9498946	AC Transit	31		AC Transit 31: Bay Farm Island => Dimond District	bus
+9499201	AC Transit	39		AC Transit 39: Skyline High School => Fruitvale BART	
 9499202	AC Transit	339		AC Transit 339: Fruitvale BART => Chabot Space and Science Center	bus:suspended
 9499352	AC Transit	47		AC Transit 47: Fruitvale BART => Maxwell Park	bus:suspended
 9499355	AC Transit	54		AC Transit 54: Merritt College => Fruitvale BART	bus
@@ -7482,3 +7479,7 @@
 20296004	AC Transit	27		AC Transit 27: Emeryville Amtrak => El Cerrito Plaza BART	bus
 20296005	AC Transit	27		AC Transit 27: El Cerrito Plaza BART => Emeryville Amtrak	bus
 20297161	US:US:Historic	99			road
+20301356	AC Transit	31		AC Transit 31: Bay Farm Island => Skyline High School	bus
+20301357	AC Transit	31		AC Transit 31: Bay Farm Island => Chabot Space and Science Center	bus
+20301358	AC Transit	31		AC Transit 31: Skyline High School => Bay Farm Island	bus
+20304907	lwn			Live Oak Springs Trail	hiking
