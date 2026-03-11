@@ -26,7 +26,7 @@
 1483097	US:NM	53			road
 1492992	US:AZ	101			road
 1492993	US:AZ	303			road
-1493241	US:AZ	64		AZ 64	road
+1493241	US:AZ	64		Williams–Grand Canyon–Cameron Highway	road
 1493242	US:AZ	61		AZ 61	road
 1493243	US:AZ	68		Bullhead City–Kingman Highway	road
 1493244	US:AZ	66		AZ 66	road
@@ -117,7 +117,6 @@
 2306277	US:US	191			road
 2306490	US:US	95			road
 2310324	US:US	60			road
-2317123	US:I	15	south		road
 2319876					road
 2319897	US:NHS High Priority Corridors			STRAHNET route: Phoenix - Las Vegas	road
 2334045	US:I	15	north		road
@@ -670,7 +669,7 @@
 6770048		59		County Highway 59	road
 6775680		259		Forest Road 259	road
 6783819	Valley Metro	DASH WB		bus DASH WB	bus
-6785046	US:US:Old	66		Old US 66	road
+6785046	US:US:Old	66			road
 6785930			east	Northern Parkway	road
 6785931			west	Northern Parkway	road
 6786049	US:AZ	51	north	Piestewa Freeway	road
@@ -990,7 +989,7 @@
 9623151	Sun Tran	105X		Sun Tran Route 105X Foothills-Downtown Express	bus
 9623152	Sun Tran	104X		Sun Tran Route 104X Marana-Downtown Express	bus
 9623153	Sun Tran	103X		Sun Tran Route 103X Northwest-Downtown Express	bus
-9623154	Sun Tran	102X		Sun Tran Route 102X Northwest-UA Express	bus
+9623154	Sun Tran	102X (PM)		Sun Tran Route 102X Northwest-UA Express Southbound	bus
 9623155	Sun Tran	101X		Sun Tran Route 101X Golf Links-Downtown Express	bus
 9623315	Sun Tran	204X		Sun Tran Route 204X Northwest-Aero Park Express	bus
 9623316	Sun Tran	203X		Sun Tran Route 203X Oro Valley-Aero Park Express	bus
@@ -1259,7 +1258,7 @@
 11606064				Former State Route 95	road
 11638106	lcn			Tempe Canal Path	bicycle
 11640039	lcn			Kyrene Canal Path	bicycle
-11642653	US:US:Old	66		Old US 66 in Arizona ('30s to '40s)	road
+11642653					road
 11695192	lcn			Pedal	bicycle
 11695413	lcn			Brake	bicycle
 11695695	lcn			Handlebars	bicycle
@@ -1706,3 +1705,11 @@
 20303834	US:BIA	4		Indian Route 4	road
 20303835	US:BIA	5		Indian Route 5	road
 20303836	US:AZ:Mohave	353		County Highway 353	road
+20305062	Sun Tran	102X (AM)		Sun Tran Route 102X Northwest-UA Express Northbound	bus
+20308448	US:AZ:Coconino	73		County Road 73	road
+20308449	US:AZ:Coconino	74		Frenchy Springs Road	road
+20308579	US:NFSR:Kaibab:FR	51A		Mountain Man Trail	road
+20308580	US:NFSR:Kaibab:FR	108		National Forest Road 108	road
+20309265	US:NFSR:Kaibab:FR	9211B		National Forest Road 9211B	road
+20309266	US:NFSR:Kaibab:FR	6		National Forest Road 6	road
+20309267	US:NFSR:Kaibab:FR	6E		National Forest Road 6E	road

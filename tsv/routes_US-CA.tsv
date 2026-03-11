@@ -88,7 +88,6 @@
 93126	lcn	32			bicycle
 93127	lcn	51			bicycle
 93128	lcn	20			bicycle
-93155	US:US:Historic	66		Historic US 66 (super)	road
 93835	US:I	380	west		road
 102127	US:I	280	south		road
 105445	US:CA:CR	G3			road
@@ -737,6 +736,7 @@
 1862254	US:I			I 305 (CA)	road
 1874943	lcn	59			bicycle
 1922654				Ladera Ranch Trails	mtb
+1933537	US:I:Business:Loop	8		"I 8 Business (Yuma, AZ)"	road
 1945794	Muni	30		Muni 30 inbound: The Marina => Caltrain (8pm-midnight)	trolleybus
 1954847				Sacramento Subdivision	railway
 1957753	lcn	PEG		Pacific Electric Greenway	bicycle
@@ -951,8 +951,6 @@
 2306823	US:US	101			road
 2308402	US:US	6		Route 6	road
 2313084	US:I	5	north		road
-2317122	US:I	15	north		road
-2317123	US:I	15	south		road
 2317944	US:NHS High Priority Corridors			NHS High Priority Corridor 69	road
 2319881				STRAHNET route: Los Angeles - Mojave	road
 2320393					road
@@ -961,8 +959,6 @@
 2320400	US:STRAHNET				road
 2320404					road
 2320405	US:I	80U		Interstate 80 (STRAHNET)	road
-2326065	US:I	5	north	Purple Heart Trail	road
-2326066	US:I	5	south	Purple Heart Trail	road
 2350199				Keddie Wye	railway
 2351005	Metro Rail	A		Metro A Line: Downtown Long Beach → Pomona North	light_rail
 2351006	Metro Rail	E		Metro E Line: Atlantic → Downtown Santa Monica	light_rail
@@ -1790,6 +1786,7 @@
 4659185				Riverbank Subdivision	railway
 4668742	Amtrak	San Joaquins	north	Amtrak San Joaquins: Bakersfield => Oakland	train
 4668743	Amtrak	San Joaquins	south	Amtrak San Joaquins: Oakland => Bakersfield	train
+4681322	US:AZ:Business			State Business Route 8	road
 4710692				Santa Cruz Branch	railway
 4710708				"Santa Cruz, Big Trees & Pacific Railway"	railway
 4710758				California Western Railroad	railway
@@ -2121,6 +2118,7 @@
 6773744				Oakdale Branch	railway
 6775759				Milpitas Industrial Lead	railway
 6776914	lwn			Picacho Stamp Mill Trail	hiking
+6785046	US:US:Old	66			road
 6790916				Winters Branch	railway
 6794233				San Anselmo to Sausalito	railway
 6794234				Larkspur to Tiburon	railway
@@ -3313,6 +3311,7 @@
 9101203				M-Line	railway
 9101353				W-Line	railway
 9101590				Y-Line	railway
+9133248				Former US 80 (AZ 1977)	road
 9134492				Tesla Test Track	road
 9147154	lcn			Ocean Boulevard	bicycle
 9147261	lcn			6th Street	bicycle
@@ -4349,7 +4348,7 @@
 11629925	US:I:Business:Loop	5		"I 5 Business (Weed, CA)"	road
 11629991	US:I:Business:Loop	5		"I 5 Business (Yreka, CA)"	road
 11630010	lcn			Cross-Alameda Trail	bicycle
-11642653	US:US:Old	66		Old US 66 in Arizona ('30s to '40s)	road
+11642653					road
 11654262	lcn				bicycle
 11701376		R		Bus R: P704 -> Central Campus Station	bus
 11702902	MAX	21		Route 21	bus
@@ -4561,7 +4560,6 @@
 12126814	Metro Local	258		Metro 258 Northbound (late-night): Cal State LA → Highland Park	bus
 12126815	Metro Local	258		Metro 258 Southbound (late-night): Highland Park → Cal State LA	bus
 12126816	Metro Local	258		Metro 258 Northbound: Paramount Town Center → Highland Park	bus
-12140029	US:OR:Named			Pacific Highway	road
 12149115	lwn			Mount Wilson Toll Road	hiking
 12166768	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (Sunday mornings)	bus
 12166769	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (Sunday mornings)	bus
@@ -7065,10 +7063,8 @@
 19640356	County Connection	17			bus
 19653479	County Connection	18			bus
 19653480	County Connection	18			bus
-19654818	Flixbus	2008	north		bus
 19654819	Flixbus	2008	north		bus
 19654820	Flixbus	2008	south		bus
-19654821	Flixbus	2008	south		bus
 19664626				Red Range Trail	hiking
 19664627				White Range Trail	hiking
 19664810				Sun Trail	foot
@@ -7483,3 +7479,4 @@
 20301357	AC Transit	31		AC Transit 31: Bay Farm Island => Chabot Space and Science Center	bus
 20301358	AC Transit	31		AC Transit 31: Skyline High School => Bay Farm Island	bus
 20304907	lwn			Live Oak Springs Trail	hiking
+20307608	lcn			Dry Creek Parkway Trail	bicycle
