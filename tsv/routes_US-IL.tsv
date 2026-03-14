@@ -124,8 +124,8 @@
 1102328	Pace	230	north	Bus 230: Rosemont CTA Station -> Algonquin/Linneman	bus
 1112542	US:IN	154			road
 1120669	Pace	209	north	Bus 209: Cumberland CTA Station -> Des Plaines Metra Station	bus
-1122360	Pace	234	south	Wheeling-Des Plaines	bus
-1128443	Pace	226	west	Oakton Street	bus
+1122360	Pace	234	south	Bus 234: Buffalo Grove Metra Station => Des Plaines Metra Station	bus
+1128443	Pace	226	west	Bus 226: Jeff Park Transit Center => Oakton/Diane	bus
 1128648	US:IL	47			road
 1165267	US:I	155	south		road
 1171505	US:IA	92		IA 92	road
@@ -2997,14 +2997,14 @@
 19828733	Pace	230	south	South Des Plaines P Trips	bus
 19828734	Pace	230	north	South Des Plaines L Trips	bus
 19828735	Pace	230	south	Bus 230: Algonquin/Linneman -> Rosemont CTA Station	bus
-19828737	Pace	226	east	Oakton Street	bus
-19828738	Pace	226	west	Oakton Street	bus
-19828739	Pace	226	east	Oakton Street	bus
-19828844	Pace	234	north	Wheeling-Des Plaines	bus
-19828845	Pace	234	north	Wheeling-Des Plaines	bus
-19828846	Pace	234	south	Wheeling-Des Plaines	bus
-19828847	Pace	234	south	Wheeling-Des Plaines	bus
-19828850	Pace	234	north	Wheeling-Des Plaines	bus
+19828737	Pace	226	east	Bus 226: Oakton/Diane => Jeff Park Transit Center L Trips	bus
+19828738	Pace	226	west	Bus 226: Jeff Park Transit Center => Oakton/Harlem	bus
+19828739	Pace	226	east	Bus 226: Oakton/Diane => Jeff Park Transit Center	bus
+19828844	Pace	234	north	Bus 234: Des Plaiens Metra Station => Dundee/Wolf	bus
+19828845	Pace	234	north	Bus 234: Des Plaiens Metra Station => 920 Deerfield Pkwy	bus
+19828846	Pace	234	south	Bus 234: Dundee/Wolf => Des Plaines Metra Station	bus
+19828847	Pace	234	south	Bus 234: 920 Deerfield Pkwy => Des Plaines Metra Station	bus
+19828850	Pace	234	north	Bus 234: Des Plaiens Metra Station => Buffalo Grove Metra Station	bus
 19836166	Pace	357	east	Bus 357: Lawrence Manor -> Woodlawn & 13th Place	bus
 19903058	rcn				bicycle
 19958581	Pace	359	north	Bus 359: Advocate South Suburban Hospital -> 95th Dan/Ryan CTA Station	bus

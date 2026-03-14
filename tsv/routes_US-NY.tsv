@@ -2775,7 +2775,7 @@
 3231545	US:NY:Ulster	54		Ulster County Route 54	road
 3231934	NYC Transit	Q70 SBS		NYCB - Q70 SBS LGA --> Woodside LIRR	bus
 3231960	NYC Transit	B32		NYCB - B32 Long Island City --> Williamsburg Bridge Plaza	bus
-3232072	NYC Transit	B84		NYCB - B84	bus
+3232072	Metropolitan Transportation Authority	B84		Bus B84: SEAVIEW AV/ERSKINE ST => LIVONIA AV/ASHFORD ST	bus
 3235900	US:NY:Dutchess	12		Dutchess County Route 12	road
 3235901	US:NY:Dutchess	13		Dutchess County Route 13	road
 3235902	US:NY:Dutchess	14		Dutchess County Route 14	road
@@ -5442,8 +5442,7 @@
 8288676	NYC Transit	X28		NYCB - X28	bus
 8288677	NYC Transit	X37		NYCB - X37	bus
 8288678	NYC Transit	X27		NYCB - X27	bus
-8288679	NYC Transit	BM5		NYCB - BM5	bus
-8288681	NYC Transit	BM3		NYCB - BM3	bus
+8288679	Metropolitan Transportation Authority	BM5		Bus BM5: E 57 ST / 2 AV => SEAVIEW AV / PENNSYLVANIA AV	bus
 8288682	NYC Transit	BM2		NYCB - BM2	bus
 8288683	NYC Transit	BM1		NYCB - BM1	bus
 8288684	NYC Transit	B44 SBS		NYCB - B44 SBS Sheepshead Bay --> Williamsburg Bridge Plaza	bus
@@ -6596,6 +6595,7 @@
 9969152	SBU Transit	R1		Railroad Route 1	bus
 9969153	SBU Transit	R2		Railroad Route 2	bus
 9973114	rcn	EST		Hudson Valley Rail Trail [EST] [cycling]	bicycle
+9973398	rcn	EST		"Empire State Trail (NYC - Kingston, bike)"	bicycle
 9973411	rcn	EST		Walkway over the Hudson - cycling	bicycle
 9975709	rcn			Kosciuszko Bridge	bicycle
 9975997	SBU Transit	OB		Outer Loop B	bus
@@ -7988,10 +7988,8 @@
 14268493	NYC Transit	B68		NYCB - B68: Coney Island => Windsor Terrace	bus
 14304922	US:NY:Dutchess	50		Dutchess County Route 50	road
 14304956	US:NY:Dutchess	114		Dutchess County Route 114	road
-14305605	NYC Transit	BM4		NYCB - BM4	bus
 14305606	NYC Transit	BM4		NYCB - BM4	bus
 14305607	NYC Transit	BM4		NYCB - BM4	bus
-14305608	NYC Transit	BM4		NYCB - BM4	bus
 14310987	lcn			Underhill Avenue Bike Boulevard	bicycle
 14313672	US:US:Alternate	6			road
 14326353	lcn			Williams Street	bicycle
@@ -8068,8 +8066,6 @@
 14480145	NYC Transit	BxM18		NYCB - BxM18	bus
 14489615	NYC Transit	QM3		NYCB - QM3	bus
 14507812	Local	CVT		Champlain Valley Trail (Albany to Waterford)	hiking
-14507859	NYC Transit	BM3		NYCB - BM3	bus
-14507860	NYC Transit	BM3		NYCB - BM3	bus
 14507861	NYC Transit	BM3		NYCB - BM3	bus
 14507862	NYC Transit	BM3		NYCB - BM3	bus
 14507867	Local	CVT		Champlain Valley Trail (Halfmoon to Schuylerville)	hiking
@@ -8115,7 +8111,6 @@
 14533868	Local	HVGT		"Hudson Valley Greenway Trail (The Battery, NYC to Inwood)"	hiking
 14533869	Local	HVGT		Hudson Valley Greenway Trail (Inwood to The Bronx)	hiking
 14534489	NYC Transit	BM3		NYCB - BM3	bus
-14534490	NYC Transit	BM3		NYCB - BM3	bus
 14534639	NYC Transit	BM2		NYCB - BM2	bus
 14534640	NYC Transit	BM2		NYCB - BM2	bus
 14534641	NYC Transit	BM2		NYCB - BM2	bus
@@ -8124,8 +8119,6 @@
 14539863	NYC Transit	BM1		NYCB - BM1	bus
 14539864	NYC Transit	BM1		NYCB - BM1	bus
 14539865	NYC Transit	BM1		NYCB - BM1	bus
-14539866	NYC Transit	BM1		NYCB - BM1	bus
-14539867	NYC Transit	BM1		NYCB - BM1	bus
 14540136	NYC Transit	BxM7		NYCB - BxM7	bus
 14540137	NYC Transit	BxM7		NYCB - BxM7	bus
 14540332	NYC Transit	BxM1		NYCB - BxM1	bus
@@ -8567,8 +8560,6 @@
 16152030	lwn			Rod's Pond Loop	hiking
 16160013	lcn			Fort George Avenue	bicycle
 16193939	lwn			Nature Trail	foot
-16200876	NYC Transit	B15		NYCB - B15 Spring Creek --> Bedford Stuyvesant	bus
-16200877	NYC Transit	B15		NYCB - B15 Bedford Stuyvesant --> Spring Creek	bus
 16233955	NYC Transit	B20		NYCB - B20 Spring Creek --> Broadway Junction	bus
 16233956	NYC Transit	B20		NYCB - B20 Broadway Junction --> Spring Creek	bus
 16233957	NYC Transit	B20		NYCB - B20 Fresh Pond --> Spring Creek	bus
@@ -8576,17 +8567,12 @@
 16246184	NYC Transit	B6		NYCB - B6: East New York --> Bath Beach	bus
 16246188	NYC Transit	B6		NYCB - B6: Bath Beach --> East New York	bus
 16256011	NYC Transit	B24		NYCB - B24 Kingsland Avenue -> Manhattan Avenue	bus
-16269641	NYC Transit	B31		NYCB - B31 Stuart Street & Fillmore Avenue --> Gerritsen Avenue & Gerritsen Beach	bus
 16270798	US:NY			NY 914A	road
 16277520	US:NY			NY 930W	road
 16278029	NYC Transit	B35		NYCB - B35 Brownsville --> McDonald Avenue	bus
 16278030	NYC Transit	B35		NYCB - B35 Brownsville --> Sunset Park	bus
-16278031	NYC Transit	B35		NYCB - B35-LTD Brownsville --> Sunset Park	bus
 16278032	NYC Transit	B35		NYCB - B35 McDonald Avenue --> Brownsville	bus
-16278033	NYC Transit	B35		NYCB - B35 Kings Highway --> McDonald Avenue	bus
-16278034	NYC Transit	B35		NYCB - B35-LTD Sunset Park --> Brownsville	bus
 16283228	NYC Transit	B36		NYCB - B36 Coney Island --> Surf Avenue & Stillwell Avenue	bus
-16283229	NYC Transit	B36		NYCB - B36 Nostrand Avenue & Avenue X --> West 33rd Street & Neptune Avenue	bus
 16283473	lwn				hiking
 16283474	lwn				hiking
 16283475	lwn			Village Vista Trail	hiking
@@ -8598,8 +8584,6 @@
 16289391	ipn	NFCT		Northern Forest Canoe Trail	canoe
 16299582	US:NY			NY 911G	road
 16299583	US:NY			NY 990H	road
-16300237	NYC Transit	B38		NYCB - B38-LTD Downtown Brooklyn --> Seneca Avenue & Cornelia Street	bus
-16300238	NYC Transit	B38		NYCB - B38-LTD Seneca Avenue & Cornelia Street --> Downtown Brooklyn	bus
 16311914	US:NY:Truck	14		NY 14 Truck (Elmira)	road
 16312150	US:NY			NY 951V	road
 16315433	lcn				bicycle
@@ -8622,23 +8606,7 @@
 16366939	US:NY			NY 930F	road
 16368626	US:NY			NY 940H	road
 16371458					road
-16380906	NYC Transit	B41		NYCB - B41 Sheepshead Bay --> Flatbush Junction	bus
 16380907	NYC Transit	B41		NYCB - B41 Flatlands --> Prospect Park	bus
-16380908	NYC Transit	B41		NYCB - B41-LTD Prospect Park --> Kings Plaza	bus
-16380909	NYC Transit	B41		NYCB - B41-LTD Prospect Park --> Bergen Beach	bus
-16380910	NYC Transit	B41		NYCB - B41 Prospect Park --> Bergen Beach	bus
-16380911	NYC Transit	B41		NYCB - B41 Flatbush Junction --> Bergen Beach	bus
-16380912	NYC Transit	B41		NYCB - B41-LTD Kings Plaza --> Prospect Park	bus
-16380913	NYC Transit	B41		NYCB - B41 Kings Plaza --> Prospect Park	bus
-16380914	NYC Transit	B41		NYCB - B41-LTD Kings Plaza --> Downtown Brooklyn	bus
-16380915	NYC Transit	B41		NYCB - B41 Flatbush --> Bergen Beach	bus
-16380916	NYC Transit	B41		NYCB - B41-LTD Bergen Beach --> Prospect Park	bus
-16380917	NYC Transit	B41		NYCB - B41 Bergen Beach --> Prospect Park	bus
-16380918	NYC Transit	B41		NYCB - B41-LTD Bergen Beach --> Downtown Brooklyn	bus
-16380919	NYC Transit	B41		NYCB - B41 Bergen Beach --> Flatbush Junction	bus
-16380920	NYC Transit	B41		NYCB - B41 Bergen Beach --> Flatbush	bus
-16380921	NYC Transit	B41		NYCB - B41-LTD Downtown Brooklyn --> Kings Plaza	bus
-16380922	NYC Transit	B41		NYCB - B41-LTD Downtown Brooklyn --> Bergen Beach	bus
 16382706	lwn			Loggers Loop	hiking
 16382707	lwn			Big Rock Trail	hiking
 16382708	lwn			Flynn Trail	hiking
@@ -11310,3 +11278,9 @@
 20308590				White Trail	hiking
 20314024	Metropolitan Transportation Authority	Bx6-SBS		Bus Bx6-SBS: RIVERSIDE DR WEST/157-10 RIVERSIDE DR => FOOD CENTER DR/TERMINAL	bus
 20314025	Metropolitan Transportation Authority	Bx6-SBS		Bus Bx6-SBS: Food Center Drive => Riverside Drive West	bus
+20319907	Metropolitan Transportation Authority	B44-SBS		Bus B44-SBS: Williamsburg Bridge Plaza => Sheepshead Bay	bus
+20319908	Metropolitan Transportation Authority	B44-SBS		Bus B44-SBS: Sheepshead Bay => Williamsburg Bridge Plaza	bus
+20319931	Metropolitan Transportation Authority	B46-SBS		Bus B46-SBS: MALCOLM X BLVD/DE KALB AV => KINGS PLAZA	bus
+20319932	Metropolitan Transportation Authority	B46-SBS		Bus B46-SBS: KINGS PLAZA/AVENUE U => MALCOLM X BLVD/DE KALB AV	bus
+20320049	Metropolitan Transportation Authority	B84		Bus B84: LIVONIA AV/ASHFORD ST => SEAVIEW AV/ERSKINE ST	bus
+20320063	Metropolitan Transportation Authority	BM5		Bus BM5: SEAVIEW AV / PENNSYLVANIA AV => E 57 ST / 3 AV	bus
