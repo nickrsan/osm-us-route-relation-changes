@@ -7466,8 +7466,8 @@
 20287579	lwn			Pioneer Mail Trail	hiking
 20288406	SacRT	86	south	86 Grand	bus
 20291802	E-Tran	E110	south	Bus E110: Cosumnes River College -> Sky River Casino	bus
-20293143	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley via Downtown Oakland	bus
-20293144	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District via Downtown Oakland	bus
+20293143	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley	bus
+20293144	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District	bus
 20296004	AC Transit	27		AC Transit 27: Emeryville Amtrak => El Cerrito Plaza BART	bus
 20296005	AC Transit	27		AC Transit 27: El Cerrito Plaza BART => Emeryville Amtrak	bus
 20297161	US:US:Historic	99			road
@@ -7479,3 +7479,6 @@
 20313964	US:US:Historic	91			road
 20314052	US:US:Historic	466			road
 20314094	US:US:Historic	91			road
+20333527	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley	bus
+20333528	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District	bus
+20333529	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District	bus
