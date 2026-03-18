@@ -956,7 +956,7 @@
 2320399					road
 2320400	US:STRAHNET				road
 2320404					road
-2320405	US:I	80U		Interstate 80 (STRAHNET)	road
+2320405	US:I	80		Interstate 80 (STRAHNET)	road
 2350199				Keddie Wye	railway
 2351005	Metro Rail	A		Metro A Line: Downtown Long Beach → Pomona North	light_rail
 2351006	Metro Rail	E		Metro E Line: Atlantic → Downtown Santa Monica	light_rail
@@ -993,11 +993,11 @@
 2377528	US:CA:CR	A28			road
 2377529	US:CA:CR	A29			road
 2377530	US:CA:CR	A3			road
-2377531	US:CA:CR	A5			road
+2377531	US:CA:CR	CR A5			road
 2377532	US:CA:CR	A6			road
 2377533	US:CA:CR	A7			road
-2377534	US:CA:CR	A8			road
-2377535	US:CA:CR	A9			road
+2377534	US:CA:CR	CR A8			road
+2377535	US:CA:CR	CR A9			road
 2377536	US:CA:CR	B2			road
 2377537	US:CA:CR	D1			road
 2377538	US:CA:CR	D2			road
