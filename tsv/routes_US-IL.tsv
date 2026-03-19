@@ -841,7 +841,7 @@
 5683330	Pace	421		Bus 421: Linden CTA Station -> Northfield Plaza	bus
 5683349	Pace	305	west	Bus 305: Cicero CTA Blue Line Station -> Forest Park CTA Blue Line Station	bus
 5683441	Pace	314	south	Bus 314: Lake/Cuyler -> Morton College	bus
-5683594	Pace	315	south	Bus 315: Lake/Austin -> Morton College	bus
+5683594	Pace	315	south	Bus 315: Lake/Austin -> Midway CTA Station	bus
 5683612	Pace	316	south	Bus 316: Cicero CTA Blue Line Station -> Morton College	bus
 5688204	Pace	422		Linden CTA/Glenview/Northbrook Court	bus
 5688241	Pace	423		Linden CTA-The Glen-Harlem CTA	bus
@@ -2213,9 +2213,9 @@
 14444513	CTA	151	north	Bus 151: Union Station -> Belmont/Halsted	bus
 14444514	CTA	151	south	Bus 151: Belmont/Halsted -> Union Station	bus
 14444632	Pace	697	north	Bus 697: Pace Northwest Transportation Center => Harper College	bus
-14451296	CTA	54B	south	Bus 54B: Cermak/Kenton -> Ford City Mall	bus
-14451297	CTA	54B	north	Bus 54B: Ford City Mall -> Cermak/Kenton	bus
-14456883	CTA	54B	south	Bus 54B: Cermak/Kenton -> Solo Cup	bus
+14451296	CTA	54B	south	Bus 54B: 54th/Cermak Pink Line Station -> Ford City Mall	bus
+14451297	CTA	54B	north	Bus 54B: Ford City Mall -> 54th/Cermak Pink Line Station	bus
+14456883	CTA	54B	south	Bus 54B: 54th/Cermak Pink Line Station -> Solo Cup	bus
 14496362				Mowery Valley Lane	road
 14506662	CTA	X4	south	Bus X4: Columbus/Randolph -> 95th/Dan Ryan Red Line Station	bus
 14506663	CTA	X4	north	Bus X4: 95th/Dan Ryan Red Line Station -> Columbus & Randolph	bus
@@ -2397,7 +2397,7 @@
 15628932	lcn				bicycle
 15648413				North Witt Street	road
 15649428	lcn				bicycle
-15654561	CTA	54B	north	Bus 54B: Solo Cup -> Cermak/Kenton	bus
+15654561	CTA	54B	north	Bus 54B: Solo Cup -> 54th/Cermak Pink Line Station	bus
 15681495	CTA	7	west	Bus 7: Sacramento/Polk -> Central/Harrison	bus
 15726620	lcn				bicycle
 15738294		I 39 ALT		Interstate 39 Alternate	detour
@@ -2961,7 +2961,7 @@
 19739978				55th Street Access to Lakefront Trail	bicycle
 19739979	lcn			Marquette Road Access to Lakefront Trail	bicycle
 19742303	lcn			51th Street Access to Lakefront Trail	bicycle
-19753540	Pace	315	north	Bus 315: Morton College -> Lake/Austin	bus
+19753540	Pace	315	north	Bus 315: Midway CTA Station -> Lake/Austin	bus
 19759244				270N	road
 19763828	Pace	311	north	Bus 311: 47th/Lawndale -> North/Narragansett	bus
 19776477				County Road 2	road
