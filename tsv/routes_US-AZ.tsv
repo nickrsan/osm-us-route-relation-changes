@@ -849,7 +849,7 @@
 8643071	lwn	19		Navajo Trail #19	hiking
 8643138	nwn	GWT		Great Western Trail - Arizona	hiking
 8643363	lwn			Whitmore Trail	hiking
-8643414	lcn			The Plateau Passage (Incomplete)	mtb
+8643414	lcn			The Plateau Passage	mtb
 8643444	lwn			Liberty Bell Arch Trail	hiking
 8643445	lwn			White Rock Canyon Trail	hiking
 8643464	lwn	35		Jacob Canyon Route #35	hiking
@@ -1713,3 +1713,11 @@
 20309265	US:NFSR:Kaibab:FR	9211B		National Forest Road 9211B	road
 20309266	US:NFSR:Kaibab:FR	6		National Forest Road 6	road
 20309267	US:NFSR:Kaibab:FR	6E		National Forest Road 6E	road
+20360234	US:AZ:Mohave	5		County Highway 5	road
+20360235	US:BLM	1007		BLM Road 1007	road
+20360236	US:BLM	1003			road
+20360237	US:AZ:Mohave	111		County Highway 111	road
+20360238	US:BLM	1069			road
+20360239	US:BLM	1033			road
+20360240	US:AZ:Mohave	101		County Highway 101	road
+20360241	US:BLM	1004			road
