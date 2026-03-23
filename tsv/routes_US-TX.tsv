@@ -6088,9 +6088,7 @@
 9797798	Sun Metro	45		Sun Metro Route 45 Transmountain/EPCC Circulator	bus
 9797799	Sun Metro	44		Sun Metro Route 44 Sean Haggerty via McCombs	bus
 9797800	Sun Metro	43		Sun Metro Route 43 Montalvo Park via Dyer	bus
-9797802	Sun Metro	41		Sun Metro Route 41 Northgate via Piedras	bus
 9797803	Sun Metro	40		Sun Metro Route 40 North Hills via Rushing	bus
-9798138	Sun Metro	55		Sun Metro Route 55 Eastside Terminal	bus
 9798139	Sun Metro	53		Sun Metro Route 53 Montwood	bus
 9798140	Sun Metro	52		Sun Metro Route 52 Pebble Hills	bus
 9798141	Sun Metro	51		Sun Metro Route 51 Edgemere	bus
@@ -11874,3 +11872,4 @@
 20310921	US:I:Future	69C	south		road
 20311014	US:US:Business	281	north		road
 20311015	US:US:Business	281	south		road
+20361107	Sun Metro Brio	Brio Dyer		Brio Dyer	bus
