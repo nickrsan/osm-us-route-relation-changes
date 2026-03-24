@@ -410,7 +410,7 @@
 1715277	US:AR	151			road
 1715280	US:AR	181			road
 1723650				Hamburg Trail	hiking
-1737996	MetroLink	Blue		MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
+1737996	MetroLink	B	east	MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
 1737997	MetroLink	Red		MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
 1782082	ncn	MRT		Mississippi River Trail (Missouri)	bicycle
 1783090	US:GRR			Great River Road (Illinois - National Route)	road
@@ -1235,7 +1235,7 @@
 11175705					
 11250806	lcn			KCI Corridor Trail	bicycle
 11366426	MetroLink	Red		MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
-11366427	MetroLink	Blue		MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
+11366427	MetroLink	B	west	MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
 11494318					railway
 11525813	The Bus	35		Industrial Express - Purple	bus
 11525948	The Bus	14		Atlantic - Brown	bus

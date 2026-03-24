@@ -186,8 +186,8 @@
 191006				Victoria Park Ln South	
 196155				Archibald Ave North	
 196156				Archibald Ave South	
-215634	US:US	50	west	Route 50	road
-215646	US:US	50	east	Route 50	road
+215634	US:US	50	west		road
+215646	US:US	50	east		road
 215654	US:I	238	south		road
 215655	US:I	205	E		road
 215656	US:I	205	W		road
@@ -247,7 +247,7 @@
 331087	US:CA	193			road
 331088	US:CA	63			road
 331093	US:CA	137			road
-331103	US:CA	89			road
+331103	US:CA	89		State Route 89	road
 331114	US:CA	44			road
 331392	US:CA	20			road
 331488	US:CA	174			road
@@ -6287,7 +6287,7 @@
 17985181	SacRT	210 AM	west	210 La Riviera	bus
 17985182	SacRT	211 AM	west	211 College Greens	bus
 17985183	SacRT	211 PM	east	211 College Greens	bus
-17994681	Amtrak Thruway	20C		20C - South Lake Tahoe - Sacramento	bus
+17994681	Amtrak Thruway	20C		South Lake Tahoe–Sacramento	bus
 17999232	lwn			"Bellweather Central Loop, Short"	foot
 17999233	lwn			"Bellweather Central Loop, Long"	foot
 17999234	lwn			House Creek Loop	hiking
@@ -7482,3 +7482,6 @@
 20333527	AC Transit	22		AC Transit 22: Grand Lake District => Downtown Berkeley	bus
 20333528	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District	bus
 20333529	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District	bus
+20367968	US:CA:CR	99W		County Road 99W	road
+20367969	US:CA:CR	98		County Road 98	road
+20367970	US:CA:CR	18		County Road 18	road

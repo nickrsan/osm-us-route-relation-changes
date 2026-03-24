@@ -430,7 +430,7 @@
 1665342	Amtrak	Wolverine		Amtrak Wolverine: Chicago => Pontiac	train
 1687374	Amtrak	Blue Water		Amtrak Blue Water: Chicago => Port Huron	train
 1690525	US:I	474			road
-1737996	MetroLink	Blue		MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
+1737996	MetroLink	B	east	MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
 1737997	MetroLink	Red		MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
 1744233	lcn	NAT		Nature Trail	bicycle
 1745358	lcn	DM		Delyte W. Morris Trail	bicycle
@@ -1449,7 +1449,7 @@
 11360024	CTA	106	east	Bus 106: 95th/Dan Ryan Red Line Station -> 103rd/Stony Island	bus
 11360025	CTA	106	west	Bus 106: 103rd/Stony Island -> 95th/Dan Ryan Red Line Station	bus
 11366426	MetroLink	Red		MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
-11366427	MetroLink	Blue		MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
+11366427	MetroLink	B	west	MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
 11371574	lcn			Lombard Bike Routes	bicycle
 11373819	Pace	834	north	Bus 834: Joliet Metra → Lewis University → Branding/Finley	bus
 11375628	CTA	47	west	Bus 47: 47th/Lake Park -> Midway Orange Line Station	bus
@@ -3123,3 +3123,4 @@
 20286833	US:IL:DuPage	9			road
 20295219	US:US:Historic	6			road
 20296443	lcn			Rockford Bicycle Routes	bicycle
+20367557	lcn			Lake Street	bicycle
