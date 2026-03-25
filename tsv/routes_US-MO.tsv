@@ -1171,8 +1171,8 @@
 10056062				Hoot Owl Trail	mtb
 10056064				Bobcat	mtb
 10056065				Bobcat	mtb
-10056066				Rock Ledges Loop	mtb
-10056067				Upper Rock Ledges	mtb
+10056066				Lower Rock Ledges Loop	mtb
+10056067				Upper Rock Ledges Loop	mtb
 10056068				Prickly Pear Loop	mtb
 10058075	lwn			Blue Line	mtb
 10058076	lwn			Yellow Loop	mtb
@@ -1323,7 +1323,7 @@
 11952393	lwn			Shin-Ga-Wa-Sa Nature Trail	hiking
 11955996	lwn			Sandstone Canyon Trail	hiking
 11965331	lwn			Tcha-To-Ga Nature Trail	hiking
-11985857	lwn			Rock Ledges	hiking;mtb
+11985857	lwn			Rock Ledges	mtb
 12015796	lwn;lcn			"Eight Track, Hoot Owl, and Bobcat Loop"	hiking;mtb
 12015797	lwn			Prickly Pear Loop	hiking;mtb
 12097908	lwn			Augie Loop	hiking;mtb
@@ -3112,3 +3112,6 @@
 20145215	US:MO:Supplemental	A			road
 20219474				Zigzag Bridge	foot
 20300897	US:auto_trail			Jefferson Highway Heritage Byway	road
+20371982				Lower Rock Ledges Loop	hiking
+20371983				Rock Ledges	hiking
+20371984				Upper Rock Ledges Loop	hiking

@@ -1657,7 +1657,7 @@
 3006209	lcn			6th Avenue	bicycle
 3006210	lcn			9th Ave/Hudson	bicycle
 3007368	lcn			Clarkson / Carmine	bicycle
-3007370	lcn	Montgomery		Montgomery Street	bicycle
+3007370	lcn			Montgomery Street	bicycle
 3007371	lcn			North Cove	bicycle
 3007372	lcn	BPCG		Battery Park City Greenway	bicycle
 3007373	lcn			Clinton Street	bicycle
@@ -11288,3 +11288,4 @@
 20352753	lcn			Canadice Lake Cycling	bicycle
 20353043				Nimham Trail	hiking
 20360954				Red Trail (Little Stony Point)	hiking
+20369990	ncn	ECG		East Coast Greenway—UN Esplanade	bicycle
