@@ -2313,7 +2313,7 @@
 7714228	US:CA	140	west	140 (westbound)	road
 7717108				Riverview Spur	railway
 7723958	lwn			Mount Whitney Mountaineer's Route	hiking
-7739486				Sierra Subdivision	railway
+7739486				Sierra Subdivision	
 7739743					foot
 7739744					foot
 7751714		MB-TS		Matterhorn Bobsleds (Tomorrowland Side)	railway
@@ -2325,7 +2325,7 @@
 7782875	lcn	493			bicycle
 7782876	lcn	293L			bicycle
 7782877	lcn	391			bicycle
-7873796				BART Silicon Valley Phase II	railway
+7873796				BART Silicon Valley Phase II	
 7873797				BART Silicon Valley Phase I	railway
 7916804				Peninsula Subdivision	railway
 7935052	Metro Rail	C		Metro C Line: Norwalk → LAX/Metro Transit Center	light_rail
@@ -7051,7 +7051,6 @@
 19573448	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Solano Town Center	bus
 19596379	lwn	15E17		Hell Hole Trail	hiking
 19624589				Singh Walkway	foot
-19627979	AC Transit	AC Transit 18:			bus
 19630493	US:CA:Business	99		California 99 Business (Bakersfield)	road
 19630520	US:CA:Business	99		California 99 Business (Merced)	road
 19630523	US:CA:Business	99		California 99 Business (Lodi)	road

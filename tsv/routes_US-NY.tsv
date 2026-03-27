@@ -1278,7 +1278,7 @@
 2298948	US:US	9W			road
 2301105	US:US	15			road
 2307090	US:US	202			road
-2308405	US:US	6			road
+2308405	US:US	6		Grand Army of the Republic Highway	road
 2309142	US:US	44			road
 2310345	US:US	62			road
 2319877					road
@@ -4857,8 +4857,8 @@
 6811118	lwn			McKeags Meadow Trail	hiking
 6817067	US:NY:Warren	33		Warren County Route 33	road
 6817126	US:NY:Warren	37		Warren County Route 37	road
-6826139	US:US	6	west		road
-6826140	US:US	6	east		road
+6826139	US:US	6	west	Grand Army of the Republic Highway	road
+6826140	US:US	6	east	Grand Army of the Republic Highway	road
 6843773				Oak Point Link	railway
 6845012	lcn	Onderdonk		Onderdonk Avenue	bicycle
 6845835	lcn			Irving Avenue	bicycle
