@@ -41,7 +41,7 @@
 1165214	US:KS	58		KS 58	road
 1165215	US:KS	249		KS 249	road
 1165274	US:KS	92		KS 92	road
-1165303	US:KS	20		KS 20	road
+1165303	US:KS	20			road
 1319488	US:NHS High Priority Corridors			NHS High Priority Corridor 3	road
 1320630	US:NHS High Priority Corridors			NHS High Priority Corridor 23	road
 1322985	US:NHS High Priority Corridors			NHS High Priority Corridor 48	road
@@ -389,7 +389,7 @@
 3144991	US:KS:Douglas	1055		CR 1055	road
 3144992	US:KS:Douglas	1057		CR 1057	road
 3144993	US:KS:Douglas	1061		CR 1061	road
-3164283	US:KS	137		KS 137	road
+3164283	US:KS	137			road
 3221768	US:OK	99		Veteran's Memorial Highway	road
 3222041	US:OK	136			road
 3222044	US:OK	23			road
@@ -1360,3 +1360,6 @@
 19745908	US:OK:Harper	N1900			road
 20082384	lcn				bicycle
 20379107	lcn			Sugar Loop	mtb
+20395676	US:KS	136			road
+20395677	US:KS	238			road
+20396385	US:KS	246			road
