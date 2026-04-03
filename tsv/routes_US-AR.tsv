@@ -1128,11 +1128,10 @@
 12366746		1		Route 1	bus
 12366877		2		Route 2	bus
 12367026		3		Route 3	bus
-12392747	JET	17		Central	bus
-12393906	JET	27		West	bus
-12393939	JET	43			bus
-12394035	JET	43		Industrial-Southeast	bus
-12394097	JET	53		Northeast	bus
+12392747	GOJO	17			bus
+12393906	GOJO	BLE		Blue Route	bus
+12394035	GOJO	RD		Red Route	bus
+12394097	GOJO	53			bus
 12423380				Blakely Dam Road	road
 12426494					railway
 12513422	US:AR	926			road
@@ -1758,10 +1757,10 @@
 19793380	rcn			Delta Heritage Trail (Southern Corridor)	bicycle
 19793381	rcn			Delta Heritage Trail	
 19815894	lcn			Ferris Wheel	mtb
-19857448	JET	RW2		Red Wolf 2	bus
-19857641	JET	RW1		Red Wolf 1	bus
-19858045	JET	17		Central	bus
-19869689	JET	53		Northeast	bus
+19857448	GOJO	RW1		Red Wolf 1	bus
+19857641	GOJO	RW1		Red Wolf 1	bus
+19858045	GOJO	17			bus
+19869689	GOJO	53			bus
 19948058	US:I:Future	42	east		road
 19948059	US:I:Future	42	west		road
 19988448	US:US			"US 64 (AR, unsigned)"	road

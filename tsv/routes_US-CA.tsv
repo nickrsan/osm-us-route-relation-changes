@@ -2060,7 +2060,7 @@
 6653470	Wheels	70X		Wheels 70X: Pleasant Hill BART => Walnut Creek BART => East Dublin/Pleasanton BART (mornings)	bus
 6656826				Pasadena Subdivision	railway
 6660772				Madera Spur	railway
-6666780				LAX Automated People Mover	
+6666780				LAX Automated People Mover	monorail
 6673810				Kentucky House Branch	railway
 6680339				San Jose Industrial Lead	railway
 6680490				Lick Branch	railway
@@ -7483,3 +7483,7 @@
 20367968	US:CA:CR	99W		County Road 99W	road
 20367969	US:CA:CR	98		County Road 98	road
 20367970	US:CA:CR	18		County Road 18	road
+20404563	lwn			Lewis Creek Trail	hiking
+20404564	lwn			Happy Gap Trail	hiking
+20404565	lwn			Deer Cove Trail	hiking
+20404680				World Way	road

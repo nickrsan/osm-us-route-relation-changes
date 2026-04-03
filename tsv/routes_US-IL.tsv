@@ -795,7 +795,7 @@
 4764516	Pace	318	west	Bus 318: Forest Park CTA Station -> Northlake Commons	bus
 4764580	Pace	319		Grand Avenue	bus
 5199610	Pace	322		Cermak Road - 22nd Street	bus
-5199812	Pace	330		Mannheim - LaGrange Roads	bus
+5199812	Pace	330		Bus 330: Summit -> O'Hare	bus
 5200006	Pace	331		Cumberland - 5th Avenue	bus
 5226313	lwn			Chicago Riverwalk	foot
 5309452	US:I	41			road
@@ -3125,3 +3125,4 @@
 20296443	lcn			Rockford Bicycle Routes	bicycle
 20367557	lcn			Lake Street	bicycle
 20390113				Chain of Rocks Portage	portage
+20404876	Pace	330		Bus 330: O'Hare -> Summit	bus

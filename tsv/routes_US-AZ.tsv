@@ -1623,7 +1623,6 @@
 19020837				Beale Street	road
 19034647	US:I:Future	11	north		road
 19034648	US:I:Future	11	south		road
-19034649	US:I:Future	11		Future I-11	road
 19100780	US:AZ				road
 19119454	US:BIA	64		Navajo Route 64	road
 19119495	US:BIA	7		Navajo Route 7	road
@@ -1632,7 +1631,7 @@
 19173922				Canyon Coaster	railway
 19174298	US:US:Future	93			road
 19175278	US:US:Historic	89A		Old US 89A	road
-19186931	US:I:Future	40		Future I-40	road
+19186931	US:I:Future	40E		Future I-40	road
 19198179	US:AZ:Mohave	259		Mohave County Highway 259	road
 19198183	US:AZ:Mohave	157		Mohave County Route 157	road
 19236098	Valley Metro	A		Light Rail A Line Westbound	light_rail
@@ -1721,3 +1720,4 @@
 20360240	US:AZ:Mohave	101		County Highway 101	road
 20360241	US:BLM	1004			road
 20371463	US:I:Express	10	east		road
+20404284	US:AZ:Mohave	145		County Highway 145	road
