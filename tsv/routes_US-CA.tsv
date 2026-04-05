@@ -5066,7 +5066,6 @@
 13790706	Tulare County Regional Transit Agency	10		North County	bus
 13790904	Tulare County Regional Transit Agency	50		Dinuba - London - Traver - Delft Colony	bus
 13791837	Kings Area Regional Transit	15		Route 15 Visalia	bus
-13800353	MX:MX	2D		Carretera Federal 2D	road
 13800903	Kings Area Regional Transit	3		Route 3 – Purple Line	bus
 13800926	Kings Area Regional Transit	4		Route 4 – Brown Line	bus
 13801082	Kings Area Regional Transit	5		Route 5 – Pink Line	bus
@@ -7487,3 +7486,4 @@
 20404564	lwn			Happy Gap Trail	hiking
 20404565	lwn			Deer Cove Trail	hiking
 20404680				World Way	road
+20405179	MX:MEX:Spur	2D		Carretera Federal 2D (Ramal)	road

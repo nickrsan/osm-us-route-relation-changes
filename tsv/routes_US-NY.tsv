@@ -4260,7 +4260,7 @@
 4565372	CA:QC:R	209		R 209	road
 4572337				Westwind Loop	piste
 4573314				Scott Mine Spur	railway
-4600806	LIRR	Hempstead		LIRR Hempstead Branch: Atlantic Terminal <=> Jamaica <=> Hempstead	train
+4600806	LIRR	Hempstead		LIRR Hempstead Branch: Atlantic Terminal => Jamaica => Hempstead	train
 4605292	US:NY:Monroe	174		Monroe County Route 174	road
 4605293	US:NY:Monroe	190		Monroe County Route 190	road
 4605294	US:NY:Monroe	151		Monroe County Route 151	road
@@ -5444,7 +5444,7 @@
 8288678	NYC Transit	X27		NYCB - X27	bus
 8288679	Metropolitan Transportation Authority	BM5		Bus BM5: E 57 ST / 2 AV => SEAVIEW AV / PENNSYLVANIA AV	bus
 8288682	NYC Transit	BM2		NYCB - BM2	bus
-8288683	NYC Transit	BM1		NYCB - BM1	bus
+8288683	NYC Transit	BM1		NYCB - BM1: Midtown -> Mill Basin	bus
 8288684	NYC Transit	B44 SBS		NYCB - B44 SBS Sheepshead Bay --> Williamsburg Bridge Plaza	bus
 8297987	NYC Transit	X9		NYCB - X9	bus
 8297988	NYC Transit	SIM5		NYCB - SIM5	bus
@@ -7988,8 +7988,7 @@
 14268493	NYC Transit	B68		NYCB - B68: Coney Island => Windsor Terrace	bus
 14304922	US:NY:Dutchess	50		Dutchess County Route 50	road
 14304956	US:NY:Dutchess	114		Dutchess County Route 114	road
-14305606	NYC Transit	BM4		NYCB - BM4	bus
-14305607	NYC Transit	BM4		NYCB - BM4	bus
+14305607	Metropolitan Transportation Authority	BM4		Bus BM4: Midtown Manhattan -> Gerritsen Beach	bus
 14310987	lcn			Underhill Avenue Bike Boulevard	bicycle
 14313672	US:US:Alternate	6			road
 14326353	lcn			Williams Street	bicycle
@@ -8066,8 +8065,8 @@
 14480145	NYC Transit	BxM18		NYCB - BxM18	bus
 14489615	NYC Transit	QM3		NYCB - QM3	bus
 14507812	Local	CVT		Champlain Valley Trail (Albany to Waterford)	hiking
-14507861	NYC Transit	BM3		NYCB - BM3	bus
-14507862	NYC Transit	BM3		NYCB - BM3	bus
+14507861	NYC Transit	BM3		NYCB - BM3: Midtown -> Brooklyn	bus
+14507862	NYC Transit	BM3		NYCB - BM3: Brooklyn -> Midtown	bus
 14507867	Local	CVT		Champlain Valley Trail (Halfmoon to Schuylerville)	hiking
 14507868	Local	CVT		Champlain Valley Trail (Peebles Island State Park to Halfmoon)	hiking
 14507904	Local	CVT		Champlain Valley Trail (Schuylerville to Fort Miller)	hiking
@@ -8110,15 +8109,15 @@
 14533510	Local	HVGT		Hudson Valley Greenway Trail (Elmsford to New Castle)	hiking
 14533868	Local	HVGT		"Hudson Valley Greenway Trail (The Battery, NYC to Inwood)"	hiking
 14533869	Local	HVGT		Hudson Valley Greenway Trail (Inwood to The Bronx)	hiking
-14534489	NYC Transit	BM3		NYCB - BM3	bus
-14534639	NYC Transit	BM2		NYCB - BM2	bus
-14534640	NYC Transit	BM2		NYCB - BM2	bus
-14534641	NYC Transit	BM2		NYCB - BM2	bus
-14534642	NYC Transit	BM2		NYCB - BM2	bus
-14534643	NYC Transit	BM2		NYCB - BM2	bus
-14539863	NYC Transit	BM1		NYCB - BM1	bus
-14539864	NYC Transit	BM1		NYCB - BM1	bus
-14539865	NYC Transit	BM1		NYCB - BM1	bus
+14534489	NYC Transit	BM3		NYCB - BM3: Downtown -> Brooklyn	bus
+14534639	NYC Transit	BM2		NYCB - BM2: Brooklyn -> Midtown	bus
+14534640	NYC Transit	BM2		NYCB - BM2: Brooklyn -> Midtown	bus
+14534641	NYC Transit	BM2		NYCB - BM2: Midtown -> Brooklyn	bus
+14534642	NYC Transit	BM2		NYCB - BM2: Brooklyn -> Downtown	bus
+14534643	NYC Transit	BM2		NYCB - BM2: Downtown -> Brooklyn	bus
+14539863	NYC Transit	BM1		NYCB - BM1: Brooklyn -> Midtown	bus
+14539864	NYC Transit	BM1		NYCB - BM1: Brooklyn -> Downtown	bus
+14539865	NYC Transit	BM1		NYCB - BM1: Brooklyn -> Midtown	bus
 14540136	NYC Transit	BxM7		NYCB - BxM7	bus
 14540137	NYC Transit	BxM7		NYCB - BxM7	bus
 14540332	NYC Transit	BxM1		NYCB - BxM1	bus
@@ -11308,3 +11307,7 @@
 20404037	lcn			Arthur Schiller Bicycle Path	bicycle
 20404038	lcn			Stonytown Road Shared-Use Path	bicycle
 20404039	lcn	VFH		Village of Flower Hill Bikeway	bicycle
+20407104	Metropolitan Transportation Authority	BM4		Bus BM4: Gerritsen Beach -> FiDi Manhattan	bus
+20407105	Metropolitan Transportation Authority	BM4		Bus BM4: Gerritsen Beach -> Midtown Manhattan	bus
+20407140	Metropolitan Transportation Authority	BM4		Bus BM4: FiDi Manhattan -> Gerritsen Beach	bus
+20411634	Metropolitan Transportation Authority	BM5		Bus BM5: E 57 ST / 3 AV => SEAVIEW AV / PENNSYLVANIA AV	bus

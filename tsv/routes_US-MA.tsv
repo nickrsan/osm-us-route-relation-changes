@@ -234,7 +234,7 @@
 1412947				East Village Branch	railway
 1412948				Newton Lower Falls Branch	railway
 1412949				Saxonville Branch	railway
-1590059	MBTA	CT2		CT2 Inbound: Sullivan Square => Ruggles (Weekdays)	bus
+1590059	MBTA	85		85 Inbound: Assembly => Ruggles (Weekdays)	bus
 1600269	MBTA	Blue		MBTA Blue Line: Bowdoin → Wonderland	subway
 1600276	MBTA	Orange		MBTA Orange Line: Oak Grove → Forest Hills	subway
 1600292	MBTA	Red		MBTA Red Line: Alewife → Ashmont	subway
@@ -551,7 +551,6 @@
 8330830	MBTA	59		59 - Needham Junction - Watertown Square	bus
 8330831	MBTA	57A		57A - Oak Square - Kenmore Station	bus:suspended
 8330833	MBTA	57		57 - Watertown Yard - Kenmore Station	bus
-8330977	MBTA	85		85 Inbound: Spring Hill => Kendall/MIT Station	bus
 8330979	MBTA	83		83 Inbound: Rindge Avenue => Central Square	bus
 8330980	MBTA	80		80 - Arlington Center - Lechmere Station	bus
 8330982	MBTA	78		78 - Arlmont Village - Harvard Station	bus
@@ -1371,7 +1370,6 @@
 16020662	lwn			Blue Spur Trail	hiking
 16054021				Worcester and Shrewsbury Railroad	railway
 16066371	MBTA	69		69 Outbound: Lechmere Station => Harvard Square	bus
-16066885	MBTA	85		85 Outbound: Kendall/MIT Station => Spring Hill	bus
 16067046	MBTA	1		1 Outbound: Nubian Station => Harvard Square	bus
 16067264	MBTA	4		4 Inbound: North Station => South Station => Design Center	bus
 16067316	MBTA	4		4 Inbound: North Station => Design Center	bus
@@ -1413,7 +1411,7 @@
 16172998	MBTA	501		501 Outbound: Federal Street & Franklin Street => Cambridge Street => Brighton Center	bus
 16173354	MBTA	501		501 Inbound: Brighton Center => Cambridge Street => Federal Street & Franklin Street	bus
 16173406	MBTA	501		501 Outbound: Federal Street & Franklin Street => Brighton Center	bus
-16177269	MBTA	CT2		CT2 Outbound: Ruggles => Sullivan Square (Weekdays)	bus
+16177269	MBTA	85		85 Outbound: Ruggles => Assembly (Weekdays)	bus
 16187276	MBTA	558		558 Outbound: Newton Corner => Riverside	bus
 16190922	MBTA	CT3		CT3 Outbound: Andrew Station => Ave Louis Pasteur (Weekdays)	bus
 16190923	MBTA	CT3		CT3 Outbound: Andrew Station => Beth Israel Deaconess Hospital (Weekdays)	bus
