@@ -11283,7 +11283,7 @@
 20319931	Metropolitan Transportation Authority	B46-SBS		Bus B46-SBS: MALCOLM X BLVD/DE KALB AV => KINGS PLAZA	bus
 20319932	Metropolitan Transportation Authority	B46-SBS		Bus B46-SBS: KINGS PLAZA/AVENUE U => MALCOLM X BLVD/DE KALB AV	bus
 20320049	Metropolitan Transportation Authority	B84		Bus B84: LIVONIA AV/ASHFORD ST => SEAVIEW AV/ERSKINE ST	bus
-20320063	Metropolitan Transportation Authority	BM5		Bus BM5: SEAVIEW AV / PENNSYLVANIA AV => E 57 ST / 3 AV	bus
+20320063	Metropolitan Transportation Authority	BM5		"Bus BM5: Midtown, Manhattan => Spring Creek, Brooklyn"	bus
 20352753	lcn			Canadice Lake Cycling	bicycle
 20353043				Nimham Trail	hiking
 20360954				Red Trail (Little Stony Point)	hiking
@@ -11310,5 +11310,5 @@
 20407104	Metropolitan Transportation Authority	BM4		Bus BM4: Gerritsen Beach -> FiDi Manhattan	bus
 20407105	Metropolitan Transportation Authority	BM4		Bus BM4: Gerritsen Beach -> Midtown Manhattan	bus
 20407140	Metropolitan Transportation Authority	BM4		Bus BM4: FiDi Manhattan -> Gerritsen Beach	bus
-20411634	Metropolitan Transportation Authority	BM5		Bus BM5: E 57 ST / 3 AV => SEAVIEW AV / PENNSYLVANIA AV	bus
+20411634	Metropolitan Transportation Authority	BM5		"Bus BM5: Spring Creek, Brooklyn => Midtown, Manhattan"	bus
 20414996				Hilltop Loop	hiking

@@ -1274,8 +1274,6 @@
 14573802	Amtrak	Northeast Regional		Amtrak Northeast Regional: Washington => Boston	train
 14573803	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
 14573804	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Richmond	train
-14573805	Amtrak	Northeast Regional		Amtrak Northeast Regional: Newport News => New York	train
-14573806	Amtrak	Northeast Regional		Amtrak Northeast Regional: Newport News => New York	train
 14573807	Amtrak	Northeast Regional		Amtrak Northeast Regional: Norfolk => Boston	train
 14603325				North Brookfield Railroad	railway
 14615832				Hampden Railroad	railway
@@ -1800,3 +1798,5 @@
 20395565	lcn			Higgins Crowell Road Shared Use Path	bicycle
 20399458				Worcester Consolidated Streetcar Southbridge Branch	railway
 20403463				Canal Line	railway
+20417732	MBTA	716		716 Inbound: Cobbs Corner => Mattapan Station (via Canton Junction)	bus
+20417733	MBTA	716		716 Outbound: Mattapan Station => Cobbs Corner (via Canton Junction)	bus
