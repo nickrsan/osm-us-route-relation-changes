@@ -3001,10 +3001,10 @@
 19828738	Pace	226	west	Bus 226: Jeff Park Transit Center => Oakton/Harlem	bus
 19828739	Pace	226	east	Bus 226: Oakton/Diane => Jeff Park Transit Center	bus
 19828844	Pace	234	north	Bus 234: Des Plaiens Metra Station => Dundee/Wolf	bus
-19828845	Pace	234	north	Bus 234: Des Plaiens Metra Station => 920 Deerfield Pkwy	bus
+19828845	Pace	234	north	Bus 234: Des Plaines Metra Station => 920 Deerfield Pkwy	bus
 19828846	Pace	234	south	Bus 234: Dundee/Wolf => Des Plaines Metra Station	bus
 19828847	Pace	234	south	Bus 234: 920 Deerfield Pkwy => Des Plaines Metra Station	bus
-19828850	Pace	234	north	Bus 234: Des Plaiens Metra Station => Buffalo Grove Metra Station	bus
+19828850	Pace	234	north	Bus 234: Des Plaines Metra Station => Buffalo Grove Metra Station	bus
 19836166	Pace	357	east	Bus 357: Lawrence Manor -> Woodlawn & 13th Place	bus
 19903058	rcn				bicycle
 19958581	Pace	359	north	Bus 359: Advocate South Suburban Hospital -> 95th Dan/Ryan CTA Station	bus
@@ -3128,3 +3128,5 @@
 20404876	Pace	330		Bus 330: O'Hare -> Summit	bus
 20418806	Pace	241	south	Bus 241: Golf Mill Mall -> Talcott -> Cumberland CTA Station (T Trips)	bus
 20418807	Pace	241	south	Bus 241: Cumberland CTA Station -> Talcott -> Golf Mill Mall (T Trips)	bus
+20424003				Lake Michigan Water Trail	canoe
+20424004				Calumet Harbor Breakwater Portage	portage

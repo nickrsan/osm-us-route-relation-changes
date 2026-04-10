@@ -1121,7 +1121,7 @@
 2453570	US:CA	1		1 (Sausalito - Leggett)	road
 2453571	US:CA	1		1 (State Beaches - Seacliff)	road
 2457594				U-Con	mtb
-2462121	US:CA	65		65 (south segment)	road
+2462121	US:CA	65			road
 2465559	US:CA	96			road
 2465909		22		22 - SOUTH SHORE SERVICE & LAKE EXPRESS DAILY	bus
 2466005	US:CA	124			road
@@ -3078,7 +3078,6 @@
 8589502	SamTrans	278		SamTrans 278: Redwood City Transit Center => Jefferson & Alameda => Cañada College (afternoons)	bus
 8589504	SamTrans	270		SamTrans 270: Redwood City Transit Center => Florence & 17th Avenue => Redwood City Transit Center	bus
 8589505	SamTrans	276		SamTrans 276: Redwood City Transit Center => Bohannon & Campbell	bus
-8589506	SamTrans	260		SamTrans 260: College of San Mateo => Youth Detention Center => Gateway Community School => San Carlos Caltrain (pm)	bus
 8589508	SamTrans	251		SamTrans 251: Hillsdale Shopping Center => Foster City => Hillsdale Shopping Center	bus
 8589509	SamTrans	250		SamTrans 250: San Mateo Caltrain => College of San Mateo	bus
 8589571	SamTrans	ECR Rapid		SamTrans ECR Rapid: Daly City BART => Redwood City Transit Center	bus:suspended
@@ -3910,13 +3909,8 @@
 9765353	SamTrans	280		SamTrans 280: Purdue & Fordham => Palo Alto	bus
 9765612	SamTrans	295		SamTrans 295: Hillsdale Mall => Cordilleras Center => Redwood City Transit Center (mornings)	bus
 9765613	SamTrans	295		SamTrans 295: Redwood City Transit Center => Hillsdale Mall	bus
-9766456	SamTrans	260		SamTrans 260: San Carlos Caltrain => Polhemus & De Anza (weekends)	bus
-9766457	SamTrans	260		SamTrans 260: Polhemus & De Anza => San Carlos Caltrain (weekends)	bus
-9766458	SamTrans	260		SamTrans 260: San Carlos Caltrain => College of San Mateo	bus
-9766459	SamTrans	260		SamTrans 260: San Carlos Caltrain => Gateway Community School => College of San Mateo (am)	bus
-9766460	SamTrans	260		SamTrans 260: College of San Mateo => San Carlos Caltrain	bus
-9766461	SamTrans	260		SamTrans 260: College of San Mateo => Youth Detention Center => San Carlos Caltrain (pm)	bus
-9766462	SamTrans	260		SamTrans 260: San Carlos Caltrain => Youth Detention Center => College of San Mateo (am)	bus
+9766458	SamTrans	260		SamTrans 260: San Carlos Caltrain => Carlmont Village	bus
+9766460	SamTrans	260		SamTrans 260: Carlmont Village => San Carlos Caltrain	bus
 9768480	SamTrans	250		SamTrans 250: College of San Mateo => San Mateo Caltrain	bus
 9769085	SamTrans	276		SamTrans 276: Bohannon & Campbell => Redwood City Transit Center	bus
 9769172	SamTrans	278		SamTrans 278: Cañada College => Redwood City Transit Center (afternoons)	bus
@@ -6030,7 +6024,7 @@
 17068946				Pacific Electric El Prado Bridge	railway
 17068947	Pacific Electric Railway			San Pedro-Via Gardena Line	railway
 17077216	Beeline	6		Beeline 6 Westbound	bus
-17077217	Beeline	6		Beeline 6 Eastbound	bus
+17077217	Beeline	6	east		bus
 17077505	Beeline	4		Beeline 4 Southbound	bus
 17077506	Beeline	4		Beeline 4 Northbound	bus
 17079589	lwn			Shadow Creek Trail	hiking
@@ -6615,7 +6609,7 @@
 19066771	lwn			Woodchuck Lake Loop	hiking
 19066772	lwn			Crown Valley Trail	hiking
 19066773	lwn			Woodchuck Trail	hiking
-19066774	lwn			Woodchuck Cutoff	hiking
+19066774	lwn			Halfmoon Cutoff	hiking
 19066775	lwn			Crown Basin Trail	hiking
 19070313	lwn			Golden Trout Lake Trail	hiking
 19070314	lwn			L Lake Trail	hiking
@@ -7487,3 +7481,5 @@
 20404565	lwn			Deer Cove Trail	hiking
 20404680				World Way	road
 20405179	MX:MEX:Spur	2D		Carretera Federal 2D (Ramal)	road
+20425494	US:I			Colorado Street Freeway Extension	road
+20425745	US:CA				road
