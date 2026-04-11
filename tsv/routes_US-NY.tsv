@@ -49,7 +49,7 @@
 183839	US:I	84			road
 184099	US:NJ:GSP	GSP		Garden State Parkway	road
 190215	lcn	East Aurora Bicycle Race (FKA Toyfest)		East Aurora Bicycle Race (FKA Toyfest)	bicycle
-207401	New Jersey Transit	North Jersey Coast		NJ Transit North Jersey Coast Line: New York <=> Bay Head	train
+207401	NJ Transit	North Jersey Coast		NJ Transit North Jersey Coast Line: New York <=> Bay Head	train
 229716	US:I	90	west		road
 233149	US:I	481	north		road
 233150	US:I	481	south		road
@@ -6889,7 +6889,7 @@
 11364343	NFTA	Metro		NFTA Metro Rail: University → DL&W	light_rail
 11366018	rwn			Crystal Hills Trail	hiking
 11370193	lcn	MT		Maybrook Trailway (Putnam Trailway - CT Border)	bicycle
-11382193	lcn	110th St E		110th Street Eastbound	bicycle
+11382193	lcn			110th Street	bicycle
 11382220	lcn	110th St W		110th Street Westbound	bicycle
 11480218	lwn			June Bug Trail	hiking
 11480219	lwn			Triad Trail	hiking

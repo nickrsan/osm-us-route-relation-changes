@@ -732,7 +732,7 @@
 1839496				Brookwood Shortcut	mtb
 1841709	lcn	214			bicycle
 1855761	rwn	STTS		Skyline To The Sea Trail	hiking
-1862254	US:I			I 305 (CA)	road
+1862254	US:I			Interstate 305	road
 1874943	lcn	59			bicycle
 1922654				Ladera Ranch Trails	mtb
 1945794	Muni	30		Muni 30 inbound: The Marina => Caltrain (8pm-midnight)	trolleybus
@@ -7483,3 +7483,31 @@
 20405179	MX:MEX:Spur	2D		Carretera Federal 2D (Ramal)	road
 20425494	US:I			Colorado Street Freeway Extension	road
 20425745	US:CA				road
+20429109	US:CA:Business	99	south		road
+20429110	US:CA:Business	99	north		road
+20433272	lwn			Ramshaw Meadow Trail	hiking
+20433273	lwn			Bakeoven Trail	hiking
+20433274	lwn			Old Jordan Dennison Road	hiking
+20433275	lwn			Long Canyon Trail	hiking
+20433276	lwn			Casa Vieja Cutoff	hiking
+20433278	lwn			Snake Creek Trail	hiking
+20433279	lwn			Granite/Broder Cutoff	hiking
+20433280	lwn			Blackrock Mountain Trail	hiking
+20433281	lwn			Granite/Broder Trail	hiking
+20433282	lwn			Jackass Peak Trail	hiking
+20433283	lwn			Jackass Creek Trail	hiking
+20433284	lwn			Albanita Trail	hiking
+20433285	lwn			Lost Meadow Trail	hiking
+20433286	lwn			Haiwee Trail	hiking
+20433287	lwn			Haiwee Pass Trail	hiking
+20433288	lwn			Wildrose Trail	hiking
+20433289	lwn			Deer Mountain Trail	hiking
+20433290	lwn			Honey Bee Trail	hiking
+20433291	lwn			Olancha Pass Trail	hiking
+20433292	lwn			Bear Trap Meadow Trail	hiking
+20433521	US:CA		north	CA 99 (unsigned) (north)	road
+20433522				I Street	road
+20433523				J Street	road
+20433524				Kiline Street	road
+20433525				Jibboom Street	road
+20433526	US:CA		south	CA 99 (unsigned) (south)	road
