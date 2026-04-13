@@ -3372,7 +3372,7 @@
 9222982	lcn	CMP		Compton Creek Bike Path	bicycle
 9223004	lcn			Dolores Street Bike Lane	bicycle
 9223005	lcn			Eubank Avenue Bike Lane	bicycle
-9237928	RABA	1		Route 1	bus
+9237928	RABA	1			bus
 9248935				Patata Industrial Lead	railway
 9282711	US:NFSR:Tahoe:NFR	301-075		NFR 301-075	road
 9282718	Metro Rapid	G		Metro G Line: Canoga → North Hollywood	bus
@@ -4568,7 +4568,7 @@
 12172740	RABA	14		Route 14	bus
 12172866	RABA	18		18 - Crosstown Express	bus
 12172893	RABA	17		17- Shasta View/ Shasta College	bus
-12172932	RABA	299X		299x - Burney Express	bus
+12172932	RABA	299X		Burney Express	bus
 12174464	YCAT	5		Blue	bus
 12180533	Amtrak	Texas Eagle		Amtrak Texas Eagle: Los Angeles => Chicago	train
 12180534	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => Los Angeles	train
@@ -4718,7 +4718,7 @@
 12411024	rhn	SJT		Sunny Jim Trail	horse
 12411025	rhn	HLT		Horseshoe Loop Trail	horse
 12412683	lhn	SVE		San Vicente Equestrian	horse
-12415204		28		EAST SHORE EXPRESS	bus
+12415204	TTD	28		East Shore Express	bus
 12415263		50		50 - SOUTH SHORE DAILY	bus
 12415669		55		55 - SOUTH SHORE DAILY	bus
 12417806	NCTD	399		SPRINTER: Escondido => Oceanside	light_rail
@@ -7511,3 +7511,23 @@
 20433524				Kiline Street	road
 20433525				Jibboom Street	road
 20433526	US:CA		south	CA 99 (unsigned) (south)	road
+20436244	lwn			Little Whitney to Big Whitney Meadow Trail	hiking
+20437014	SamTrans	130B		SamTrans 130B: Oyster Point => Daly City BART	bus
+20437015	SamTrans	130B		SamTrans 130B: Daly City BART => Oyster Point	bus
+20437256	SamTrans	138		SamTrans 138: Colma BART => Safe Harbor Shelter	bus
+20437257	SamTrans	138		SamTrans 138: Safe Harbor Shelter => Colma BART	bus
+20437258	SamTrans	138		SamTrans 138: Airport & Linden => Safe Harbor Shelter	bus
+20437259	SamTrans	138		SamTrans 138: Safe Harbor Shelter => Airport & Linden	bus
+20441039					bicycle
+20441351	US:CA:CR	83		Couty Road 83	road
+20441352	US:CA:CR	82		Blacks Canyon Road	road
+20441353	US:NFSR:Modoc:FR	43N16		Blacks Canyon Road	road
+20441354	US:CA:CR	162			road
+20441355	US:CA:CR	161		Canby Street	road
+20441356	US:CA:CR	234		Williams Street	road
+20441357	US:CA:CR	167		County Road 167	road
+20441358	US:CA:CR	163		County Road 163	road
+20441359	US:CA:CR	69		County Road 69	road
+20441360	US:CA:CR	175		County Road 175	road
+20441361	US:CA:CR	54		County Road 54	road
+20441362	US:BIA	76			road
