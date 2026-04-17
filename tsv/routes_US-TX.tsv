@@ -13,6 +13,7 @@
 70930	US:TX:FM	1472			road
 70935	US:TX	255			road
 70962	US:TX:Loop	20		Texas State Highway Loop 20	road
+71232	US:US	59		US 59 (TX)	road
 71423	lcn	25			bicycle
 71424	lcn	52			bicycle
 71425	lcn	23			bicycle
@@ -11876,3 +11877,4 @@
 20361107	Sun Metro Brio	Brio Dyer		Brio Dyer	bus
 20411808	US:TX:Wood	3164		Wood County Road 3164	road
 20418631				Anthills	mtb
+20449825	US:TX:Loop	88			road

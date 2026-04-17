@@ -2060,7 +2060,7 @@
 6653470	Wheels	70X		Wheels 70X: Pleasant Hill BART => Walnut Creek BART => East Dublin/Pleasanton BART (mornings)	bus
 6656826				Pasadena Subdivision	railway
 6660772				Madera Spur	railway
-6666780				LAX Automated People Mover	monorail
+6666780				SkyLink	monorail
 6673810				Kentucky House Branch	railway
 6680339				San Jose Industrial Lead	railway
 6680490				Lick Branch	railway
@@ -2907,7 +2907,7 @@
 8499740	GET	83		GET 83 Half Moon / South Union	bus
 8499741	GET	81		GET 81 Valley Plaza / Bakersfield College	bus
 8499742	GET	62		GET 62 Akers Panama / Valley Plaza	bus
-8499743	GET	61		GET 61 Stine Harris / Bakersfield College	bus
+8499743	GET	61		Stine Harris/Bakersfield College	bus
 8503551	Kern Transit	100		Kern Transit 100	bus
 8505072	Kern Transit	120		Kern Transit 120	bus
 8505073	Kern Transit	115		Kern Transit 115	bus
@@ -2918,7 +2918,7 @@
 8506357	Kern Transit	240		Kern Transit 240	bus
 8506358	Kern Transit	230		Kern Transit 230	bus
 8506359	Kern Transit	145		Kern Transit 145	bus
-8506360	Kern Transit	140		Kern Transit 140	bus
+8506360	Kern Transit	140			bus
 8506655	Kern Transit	227		227 - Lake Isabella - Onyx - Ridgecrest	bus
 8506656	Kern Transit	225		Kern Transit 225	bus
 8506657	Kern Transit	223		Kern Transit 223	bus
@@ -7545,3 +7545,16 @@
 20445171	lwn			The Needles Trail	hiking
 20445177	lwn			Schaeffer Trail	hiking
 20445178	lwn			Cedar Canyon Trail	hiking
+20449031	lwn			Jacobson Trail	hiking
+20449652				China Grade Loop	road
+20449653				Mount Vernon Avenue	road
+20449687	lwn			Mosquito Lakes Trail	hiking
+20449688	lwn			Eagle Lake Trail	hiking
+20449689	lwn			White Chief Trail	hiking
+20456768	lwn			Barigan Stringer Trail	hiking
+20458451	lwn			Mitchell Peak Trail	hiking
+20458467	lwn			Twin Lakes Trail	hiking
+20458468	lwn			Wuksachi Trail	hiking
+20458924	lwn			Tuohy Cutoff	hiking
+20458925	lwn			Evelyn Lake Trail	hiking
+20458926	lwn			Cahoon Rock Trail	hiking
