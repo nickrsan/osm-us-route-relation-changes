@@ -2706,7 +2706,7 @@
 8455078	Foothill Transit	690		Foothill Transit 690	bus
 8455079	Foothill Transit	499		Foothill Transit 499	bus
 8455080	Foothill Transit	498		Foothill Transit 498	bus
-8455081	Foothill Transit	497		Foothill Transit 497	bus
+8455081	Foothill Transit	497			bus
 8455082	Foothill Transit	495		Foothill Transit 495	bus
 8455083	Foothill Transit	493		Foothill Transit 493	bus
 8455084	Foothill Transit	492		Foothill Transit 492	bus
@@ -7407,8 +7407,6 @@
 20173544				Red Route	bus
 20173680			east	Willow Creek Route	bus
 20178474					bus
-20192436	US:CA:Express	60	east		road
-20192437	US:CA:Express	60	west		road
 20195345	US:CA:Old	111			road
 20197947				Los Angeles and Salt Lake Railroad	railway
 20229409	lcn	ALB		Albertson Parkway	bicycle
@@ -7558,3 +7556,8 @@
 20458924	lwn			Tuohy Cutoff	hiking
 20458925	lwn			Evelyn Lake Trail	hiking
 20458926	lwn			Cahoon Rock Trail	hiking
+20459486	MST	34		Line 34	bus
+20459487				Broadway	
+20498567	US:CA:Express	57	south		road
+20498568	US:CA:Alternate	60	west		road
+20498569	US:CA:Express	57	north		road

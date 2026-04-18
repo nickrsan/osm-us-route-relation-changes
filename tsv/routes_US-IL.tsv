@@ -767,7 +767,7 @@
 4480377	Pace	290	west	290: Howard CTA Station -> Cumberland CTA Station	bus
 4499116	Pace	301		Roosevelt Road	bus
 4499412	Pace	302		Ogden-Stanley	bus
-4513501	Pace	303		Forest Park - Rosemont	bus
+4513501	Pace	303	north	Bus 303: Forest Park CTA Station -> Rosemont CTA Station	bus
 4515846	Pace	307	south	Bus 307: Grand/Nordica -> Bridgeview Transit Center	bus
 4551459	Pace	308	west	Bus 308: Forest Park CTA Station -> Medical Center	bus
 4555753	rcn	US 30 Bikeway			bicycle
@@ -795,7 +795,7 @@
 4764516	Pace	318	west	Bus 318: Forest Park CTA Station -> Northlake Commons	bus
 4764580	Pace	319		Grand Avenue	bus
 5199610	Pace	322		Cermak Road - 22nd Street	bus
-5199812	Pace	330		Bus 330: Summit -> O'Hare	bus
+5199812	Pace	330	north	Bus 330: Archer/Harlem -> O'Hare MMF	bus
 5200006	Pace	331		Cumberland - 5th Avenue	bus
 5226313	lwn			Chicago Riverwalk	foot
 5309452	US:I	41			road
@@ -3125,7 +3125,7 @@
 20296443	lcn			Rockford Bicycle Routes	bicycle
 20367557	lcn			Lake Street	bicycle
 20390113				Chain of Rocks Portage	portage
-20404876	Pace	330		Bus 330: O'Hare -> Summit	bus
+20404876	Pace	330	south	Bus 330: O'Hare MMF -> Archer/Harlem	bus
 20418806	Pace	241	south	Bus 241: Golf Mill Mall -> Talcott -> Cumberland CTA Station (T Trips)	bus
 20418807	Pace	241	south	Bus 241: Cumberland CTA Station -> Talcott -> Golf Mill Mall (T Trips)	bus
 20424003				Lake Michigan Water Trail	canoe
@@ -3144,3 +3144,8 @@
 20457173				Kimball Street Dam Portage	portage
 20457190				Algonquin Dam Portage	portage
 20458406					foot
+20498692	US:NHT			Trail of Tears National Historic Trail Auto Tour Route	road
+20498693	US:NHT			Trail of Tears National Historic Trail Auto Route	road
+20498701	Pace	303	north	Bus 303: Winston Plaza -> Forest Park CTA Blue Line Station	bus
+20498702	Pace	303	north	Bus 303: Forest Park CTA Station -> Winston Plaza	bus
+20498703	Pace	303	south	Bus 303: Rosemont CTA Station -> Forest Park CTA Station	bus
