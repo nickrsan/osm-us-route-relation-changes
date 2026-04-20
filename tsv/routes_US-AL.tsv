@@ -499,6 +499,7 @@
 3488833		44			bus
 3488903		45		Bessemer	bus
 3497765		90		Blue Line North/South	bus
+4264377	ncn	90		90 (Florida)	bicycle
 4524305				Lookout Mountain Parkway	road
 4633136	US:AL	55			road
 4645637	US:AL	605			road
@@ -1146,3 +1147,12 @@
 20501830				Alberta-Five Points (westbound)	bus
 20504243				McKenzie/Stillman Route (outbound)	bus
 20504330				McKenzie/Stillman Route (inbound)	bus
+20507536				Greensboro Avenue Route (northbound)	bus
+20507537				Greensboro Avenue Route (Ollie's to TJ Maxx)	bus
+20507538				Greensboro Avenue Route (southbound)	bus
+20508898	US:AL:Dale	47			road
+20508905				Skyland Route (inbound)	bus
+20508906				Skyland Route (outbound)	bus
+20509088	US:AL:Dale	9			road
+20509164				Shelton State (northbound)	bus
+20509165				Shelton State (southbound)	bus

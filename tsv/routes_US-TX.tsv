@@ -9166,13 +9166,11 @@
 15518879	DART	306		Bus 306: Southwestern Medical District/Parkland Station -> Akard Station -> Glenn Heights Park & Ride	bus
 15521333	DART	232		Bus 232: CityLine/Bush Station -> Trinity Mills Station	bus
 15521334	DART	232		Bus 232: Trinity Mills Station -> CityLine/Bush Station	bus
-15521582	DART	883		Bus 883: Comet Cruiser East Express	bus
-15521583	DART	883		Bus 883: Comet Cruiser East Express	bus
-15521584	DART	883		Bus 883: Comet Cruiser West Extension	bus
-15521585	DART	883		Bus 883: Comet Cruiser West	bus
-15521586	DART	883		Bus 883: Comet Cruiser West	bus
-15521587	DART	883		Bus 883: Comet Cruiser East	bus
-15521588	DART	883		Bus 883: Comet Cruiser East	bus
+15521584	DART	883W		Bus 883W: Comet Cruiser West Extension	bus
+15521585	DART	883W		Bus 883W: Comet Cruiser West	bus
+15521586	DART	883W		Bus 883W: Comet Cruiser West	bus
+15521587	DART	883E		Bus 883E: Comet Cruiser East	bus
+15521588	DART	883E		Bus 883E: Comet Cruiser East	bus
 15521710	DART	226		Bus 226: 8th & Corinth Station -> Tyler/Vernon Station -> Cockrell Hill TL	bus
 15521711	DART	226		Bus 226: Cockrell Hill TL -> Tyler/Vernon Station -> 8th & Corinth Station	bus
 15521784	DART	231		S Belt Line	bus
@@ -11878,3 +11876,5 @@
 20411808	US:TX:Wood	3164		Wood County Road 3164	road
 20418631				Anthills	mtb
 20449825	US:TX:Loop	88			road
+20506137	DART	244		Bus 244: Arapaho Center Station -> UT Dallas Station	bus
+20506138	DART	244		Bus 244: UT Dallas Station -> Arapaho Center Station	bus
