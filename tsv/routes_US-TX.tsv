@@ -2430,7 +2430,6 @@
 2385972	US:TX:FM	2185			road
 2385973	US:TX:FM	2809			road
 2385974	US:TX:FM	1523			road
-2385975	US:TX:RM	1108		Ranch to Market Road 1108	road
 2385976	US:TX:RM	1165		Ranch to Market Road 1165	road
 2385977	US:TX:RM	2424		Ranch to Market Road 2424	road
 2423115	US:TX:RM	1837		Ranch to Market Road 1837	road
@@ -5524,7 +5523,6 @@
 8417799	Trinity Metro	111		Trinity Metro 111 Bell Helicopter Shuttle	bus
 8417809	Trinity Metro	60		Trinity Metro 60 Eastside Express	bus
 8523601	US:I:Express:Toll	30		I-30 TEXpress	road
-8534013	US:US	80			road
 8538711				Durant to Denison	railway
 8551149				Karankawa Trail	hiking
 8551150				Lady Bird Trail	hiking
@@ -9092,8 +9090,6 @@
 15432109	DART	308		Bus 308: Northwest Plano Park & Ride -> Downtown Dallas -> Cedars Station	bus
 15433694	DART	234		Bus 234: Parker Road Station -> Northwest Plano Park & Ride	bus
 15433695	DART	234		Bus 234: Northwest Plano Park & Ride -> Parker Road Station	bus
-15437154	DART	240		Bus 240: Addison Transit Center -> Arapaho Center Station	bus
-15437155	DART	240		Bus 240: Arapaho Center Station -> Addison Transit Center	bus
 15457042	DART	57		Bus 57: SW Med Dist/Parkland Station -> Wheatland Station -> Kirnwood	bus
 15457043	DART	57		Bus 57: Kirnwood -> Wheatland Station -> SW Med Dist/Parkland Station	bus
 15457076	DART	221		Bus 221: Cockrell Hill TL -> Westmoreland Station	bus
@@ -9256,8 +9252,8 @@
 15550337	Denton County Transportation Authority	EOC		Bus EOC-B: The Retreat -> UNT Union	bus
 15550338	Denton County Transportation Authority	EOC		Bus EOC-A: UNT Union -> The Forum	bus
 15550339	Denton County Transportation Authority	EOC		Bus EOC-A: The Forum -> UNT Union	bus
-15551173	DART	250		Bus 250: Downtown Garland Station -> Spring Valley Station	bus
-15551174	DART	250		Bus 250: Spring Valley Station -> Downtown Garland Station	bus
+15551173	DART	250		Bus 250: Downtown Garland Station -> Spring Valley Station -> Addison Transit Center	bus
+15551174	DART	250		Bus 250: Addison Transit Center -> Spring Valley Station -> Downtown Garland Station	bus
 15553115	Trinity Metro	30		Bus 30: CentrePort Circulator (Amon Carter Loop)	bus
 15553116	Trinity Metro	30		Bus 30: CentrePort Circulator (East Loop)	bus
 15553540	Trinity Metro	31		Bus 31: CentrePort Station -> DFW Airport Terminal B	bus

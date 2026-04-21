@@ -130,7 +130,6 @@
 2751722				Leslie Canyon Road	road
 2804113	nwn	AZT		Arizona Trail	hiking
 2805662	lwn	Fisher Point Trail		Fisher Point Trail	hiking
-2808849				Former US 80 (AZ 1951)	road
 2810627	lwn	KMT		Kendrick Mountain Trail	hiking
 2810663	lwn	KPPT		Pumpkin Trail #39	hiking
 2811171		FSMT		Flagstaff Sedona MTB Trail	mtb
@@ -425,7 +424,6 @@
 4717133	rwn			Prescott Circle Trail	hiking
 4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
 4740475				Apache Railway (Snowflake - McNary - Maverick section)	railway
-4772591				Former US 80 (AZ 1927)	road
 4848173	lwn			Bear Flat Trail #178	hiking
 4848941	lwn	270B		Crest Trail #270B	hiking
 4848942	lwn	221		Monte Vista Trail #221	hiking
@@ -838,7 +836,6 @@
 8503489				AZ 989	road
 8503555	US:AZ	79		AZ 79	road
 8507235	US:AZ:Maricopa				road
-8534013	US:US	80			road
 8633477	lwn			Schmutz Spring Trail	hiking
 8633478	lwn			Brady Hollow Trail	hiking
 8633490	lwn			Saddle Horse Loop	hiking
@@ -941,7 +938,7 @@
 9133248				Former US 80 (AZ 1977)	road
 9137569					railway
 9137637				Port of Tucson Railway	railway
-9230611	US:US:Historic	80		Historic U.S. Route 80	road
+9230611	US:US:Historic	80			road
 9277951	Sun Tran	10 NB		Sun Tran Route 10 Ruthrauff (northbound)	bus
 9277952	Sun Tran	10 SB		Sun Tran Route 10 Ruthrauff (southbound)	bus
 9331232	Flixbus	2201		Flixbus 2201: Los Angeles => Tucson	bus
@@ -1006,8 +1003,6 @@
 9626390	Sun Tran	440		Sun Tran Route 440 San Xavier	bus
 9626391	Sun Tran	430		Sun Tran Route 430 Tucson Estates	bus
 9626392	Sun Tran	421		Sun Tran Route 421 Green Valley/Sahuarita	bus
-9712624	US:US:Historic	Historic US 80		Historic US 80 (Super)	road
-9712655	US:US:Historic	80		Historic US 80 (CA)	road
 9727775	lcn			Grand Canyon East Rim Drive Path	bicycle
 9727776	lcn			Grand Canyon Village Greenway	bicycle
 9728113	lcn			Cañada del Oro	bicycle

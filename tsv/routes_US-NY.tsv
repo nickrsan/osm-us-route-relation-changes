@@ -4808,7 +4808,7 @@
 6747556	lwn			Blue Trail	hiking
 6749265	lwn			Blue Trail	hiking
 6749266	lwn			Yellow Trail	hiking
-6752513	lwn			Overlook Trail	hiking
+6752513				Overlook Trail	hiking
 6762139				Ithaca-Auburn Short Line	railway
 6779021	lcn	4			bicycle
 6784029	lwn			Red Back Hike Trail	hiking
@@ -11319,3 +11319,7 @@
 20449019				Red Trail	hiking
 20452067	lcn			W 72nd St & Riverside Dr	bicycle
 20454441				Notch Trail (blue)	hiking
+20512825				Purple Trail	hiking
+20512826				Red Trail	hiking
+20512835				Blue Trail	hiking
+20512915				Yellow Trail	hiking

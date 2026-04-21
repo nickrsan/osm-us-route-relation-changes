@@ -784,14 +784,14 @@
 4652182	rwn	R2R		River to River Segment 7 - Alto Pass to Devil's Backbone	hiking
 4652234	rwn	R2R-A		River to River Segment A - Battery Rock Alternate	hiking
 4683396	Pace	309	west	Bus 309: Lake/Austin -> Elmhurst Metra Station	bus
-4683450	Pace	310		Madison Street - Hillside	bus
+4683450	Pace	310	west	Bus 310: Forest Park CTA Station -> Harrison/Wolf	bus
 4683493	Pace	311	south	Bus 311: North/Narragansett -> 47th/Lawndale	bus
 4683612	Pace	313		St. Charles Road	bus
 4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
 4732506	US:IL:Macon	28			road
 4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
 4744150	Amtrak	Carl Sandburg/Illinois Zephyr		Amtrak Carl Sandburg/Illinois Zephyr: Chicago => Quincy	train
-4764509	Pace	317		Westchester	bus
+4764509	Pace	317	west	Bus 317: Forest Park CTA Station -> Canterbury/Balmoral	bus
 4764516	Pace	318	west	Bus 318: Forest Park CTA Station -> Northlake Commons	bus
 4764580	Pace	319		Grand Avenue	bus
 5199610	Pace	322		Cermak Road - 22nd Street	bus
@@ -3151,3 +3151,5 @@
 20498703	Pace	303	south	Bus 303: Rosemont CTA Station -> Forest Park CTA Station	bus
 20500957				Oregon Dam Portage	portage
 20500958				Rockton Dam Portage	portage
+20513004	Pace	317	east	Bus 317: Canterbury/Balmoral -> Forest Park CTA Station	bus
+20513012	Pace	310	east	Bus 310: Harrison/Wolf -> Forest Park CTA Station	bus

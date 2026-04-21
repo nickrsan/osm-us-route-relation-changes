@@ -1134,25 +1134,27 @@
 19437083	US:AL	308			road
 19437084	US:AL	307			road
 19437085	US:AL	306			road
-19609164	University Shuttle Route	6		University Shuttle Route	bus
-19644752	V.A./University Mall			V.A./University Mall	bus
+19609164	Tuscaloosa Trolley	University Shuttle		University Shuttle (eastbound)	bus
+19644752	Tuscaloosa Trolley			V.A. Route (eastbound)	bus
 19692663	lcn			Pelham Greenway Trail	bicycle
 19789829				Old Springville Road Detour	detour
 19913031	US:AL:Hale	42			road
 19913032	US:AL:Hale	36			road
 20068411	iwn			Eastern Continental Trail (Alabama roadwalk)	hiking
 20409173	US:FL				road
-20501445				Alberta/Five Points (eastbound)	bus
-20501650				Alberta-Five Points (Fresh Value to Crescent East)	bus
-20501830				Alberta-Five Points (westbound)	bus
-20504243				McKenzie/Stillman Route (outbound)	bus
-20504330				McKenzie/Stillman Route (inbound)	bus
-20507536				Greensboro Avenue Route (northbound)	bus
-20507537				Greensboro Avenue Route (Ollie's to TJ Maxx)	bus
-20507538				Greensboro Avenue Route (southbound)	bus
+20501445	Tuscaloosa Trolley	Alberta/5 Points		Alberta/Five Points (eastbound)	bus
+20501650	Tuscaloosa Trolley	Alberta/5 Points		Alberta-Five Points (Fresh Value to Crescent East)	bus
+20501830	Tuscaloosa Trolley	Alberta/5 Points		Alberta-Five Points (westbound)	bus
+20504243	Tuscaloosa Trolley	McKenzie Court		McKenzie/Stillman Route (outbound)	bus
+20504330	Tuscaloosa Trolley			McKenzie/Stillman Route (inbound)	bus
+20507536	Tuscaloosa Trolley	Greensboro		Greensboro Avenue Route (northbound)	bus
+20507537	Tuscaloosa Trolley	Greensboro		Greensboro Avenue Route (Ollie's to TJ Maxx)	bus
+20507538	Tuscaloosa Trolley	Greensboro		Greensboro Avenue Route (southbound)	bus
 20508898	US:AL:Dale	47			road
-20508905				Skyland Route (inbound)	bus
-20508906				Skyland Route (outbound)	bus
+20508905	Tuscaloosa Trolley	Skyland		Skyland Route (inbound)	bus
+20508906	Tuscaloosa Trolley	Skyland		Skyland Route (outbound)	bus
 20509088	US:AL:Dale	9			road
-20509164				Shelton State (northbound)	bus
-20509165				Shelton State (southbound)	bus
+20509164	Tuscaloosa Trolley	Shelton State		Shelton State (northbound)	bus
+20509165	Tuscaloosa Trolley	Shelton State		Shelton State (southbound)	bus
+20512523	Tuscaloosa Trolley	University Shuttle		University Shuttle (westbound)	bus
+20513006	Tuscaloosa Trolley	V.A.		V.A. Route (westbound)	bus

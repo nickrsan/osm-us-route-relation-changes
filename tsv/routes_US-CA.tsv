@@ -1848,7 +1848,6 @@
 5408760	VTA	51		VTA 51: West Valley College => Moffett Field/Ames Center	bus
 5408761	VTA	21		VTA 21: Santa Clara Transit Center => Stanford Shopping Center	bus
 5411075	VTA	25		VTA 25: De Anza College => Santa Clara Valley Medical Center => Alum Rock	bus
-5451645				Former US 80 (CA 1942)	road
 5459500	VTA	23		VTA 23: De Anza College => Alum Rock	bus
 5459980	VTA	31		VTA 31: Eastridge Transit Center => Evergreen Valley College	bus
 5473954	Commute.org	NB		Commute.org North Burlingame Shuttle: Millbrae => Mills-Peninsula Medical Center => Sisters of Mercy => Millbrae (mornings)	bus
@@ -2937,7 +2936,6 @@
 8511331	VTA	39		VTA 39: The Villages => Eastridge Transit Center	bus
 8512370	VTA	57		VTA 57: West Valley College => Great America	bus
 8512372	VTA	53		VTA 53: Santa Clara Transit Center => Sunnyvale Transit Center	bus
-8531674				Former US 80 (CA 1949)	road
 8531719	VTA	77		VTA 77: Milpitas BART => Eastridge Transit Center	bus
 8531720	VTA	71		VTA 71: Milpitas BART => Capitol	bus
 8535417	VTA	104		VTA 104: Stanford Research Park => Milpitas Bart (evenings)	bus
@@ -2973,7 +2971,6 @@
 8538869	SacRT	38	west	38 Tahoe Park	bus
 8538870	SacRT	134 PM	east	134 McKinley Commmuter	bus
 8538924				Former US 80 Freeway - San Diego	road
-8538925				Former US 80 (CA 1955)	road
 8538996	SacRT	75		75 Mather	bus
 8538998	SacRT	72		72 Rosemont	bus
 8538999	SacRT	68		68 Oak Park	bus
@@ -3829,7 +3826,7 @@
 9712120	Bear Transit	N		Bear Transit N: Downtown Berkeley BART => Hearst Mining Circle => Downtown Berkeley BART	bus
 9712288	Bear Transit	RFS		Bear Transit RFS: El Cerrito => Regatta Facility => Hearst Mining Circle => Regatta Facility	
 9712292	Bear Transit	RFS		Bear Transit RFS: Regatta Facility => Hearst Mining Circle => Regatta Facility	
-9712655	US:US:Historic	80		Historic US 80 (CA)	road
+9712655	US:US:Historic	80			road
 9716110	lcn			Miner's Ravine Trail	bicycle
 9718177	CSUEB	CV		CSU East Bay Castro Valley Shuttle: Castro Valley BART => CSU East Bay (Fridays)	bus
 9718178	CSUEB	CV		CSU East Bay Castro Valley Shuttle: CSU East Bay => Castro Valley BART (Fridays)	bus
@@ -7381,7 +7378,6 @@
 20079827	US:US:Business	101		US 101 Business	road
 20085601	US:CA:Historic	CA 163 Hist		Historic State Route 163	road
 20085637	US:US:Historic	395			road
-20085992	US:US:Historic			80 (unsigned)	road
 20086281	US:CA:CHL	CHL #784		El Camino Real	historic
 20086438	US:US:Old	80		Old U.S. Route 80	road
 20104192	US:CA:Express	170	north		road
