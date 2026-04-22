@@ -8833,7 +8833,6 @@
 14103186	US:TX:Morris	2307			road
 14103207	US:TX:Winkler	302			road
 14103208	US:TX:Winkler	301			road
-14103209	US:TX:Winkler	103			road
 14103210	US:TX:Winkler	105			road
 14103211	US:TX:Winkler	107			road
 14103212	US:TX:Winkler	109			road
@@ -11874,3 +11873,4 @@
 20449825	US:TX:Loop	88			road
 20506137	DART	244		Bus 244: Arapaho Center Station -> UT Dallas Station	bus
 20506138	DART	244		Bus 244: UT Dallas Station -> Arapaho Center Station	bus
+20517123				Longhorn Army Ammunition Plant	railway

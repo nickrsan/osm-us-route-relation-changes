@@ -1336,8 +1336,8 @@
 2877814	lcn	Chilco		Chilco Street	bicycle
 2877815	lcn	Willow		Willow	bicycle
 2895830		29M			mtb
-2913090	US:CA	86	north	86 (northbound)	road
-2913091	US:CA	86	south	86 (southbound)	road
+2913090	US:CA	86	north		road
+2913091	US:CA	86	south		road
 2913115	lcn	SJC		San Juan Creek Trail	bicycle
 2913863				Visalia District	railway
 2926455				Stockton Subdivision	railway
@@ -1453,7 +1453,6 @@
 3395857				1926-1934 US 66/US 99 concurrency (Foothill Boulevard)	road
 3395858				1926-1934 US 66/US 99 concurrency (Colorado Boulevard)	road
 3395859				1926-1934 US 66/US 99 concurrency (4th Street)	road
-3397031					road
 3406508	Muni	30		Muni 30 outbound: Caltrain => The Marina (8pm-midnight)	trolleybus
 3406515	Muni	8		Muni 8 inbound: City College => Fisherman's Wharf	bus
 3406516	Muni	8		Muni 8 outbound: Fisherman's Wharf => City College	bus
@@ -2849,8 +2848,8 @@
 8477987	RTA	79		79 - Hemet - Winchester - Temecula	bus
 8477988	RTA	74		74 - Hemet - Winchester - Menifee - Sun City	bus
 8479677	RTA	208		RTA 208	bus
-8479678	RTA	206		RTA 206	bus
-8479679	RTA	205		RTA 205	bus
+8479678	RTA	206			bus
+8479679	RTA	205			bus
 8479680	RTA	204		204 - UCR - Downtown Riverside - Ontario Mills Mall - Montclair Transcenter	bus
 8480249	Omnitrans	10		10 - Fontana - Baseline - San Bernardino	bus
 8480250	Omnitrans	8		8 - San Bernardino - Mentone - Crafton Hills College	bus
@@ -3175,17 +3174,17 @@
 8890535	MTS	4		MTS 4	bus
 8890536	MTS	3		MTS 3	bus
 8890537	MTS	2		MTS 2	bus
-8890538	MTS	1		MTS 1	bus
+8890538	MTS	1			bus
 8897588	MTS	18		MTS 18	bus
 8897589	MTS	14		MTS 14	bus
 8897590	MTS	13		MTS 13	bus
 8897591	MTS	12		MTS 12	bus
 8897593	MTS	11			bus
-8897594	MTS	10		MTS 10	bus
+8897594	MTS	10			bus
 8897595	MTS	9		MTS 9	bus
 8897596	MTS	9A		MTS 9A	bus
 8897597	MTS	8		Bus 8: Old Town Transit Center => Balboa Avenue Transit Center	bus
-8897598	MTS	7		MTS 7	bus
+8897598	MTS	7			bus
 8897815	MTS	28		MTS 28	bus
 8897816	MTS	27		Bus 27: Pacific Beach => Kearny Mesa	bus
 8897817	MTS	25		MTS 25	bus
@@ -3198,18 +3197,18 @@
 8902829	MTS	88		MTS 88	bus
 8902830	MTS	84		MTS 84	bus
 8902831	MTS	83		MTS 83	bus
-8902832	MTS	60		MTS 60	bus
+8902832	MTS	60			bus
 8902972				Boring Test Tunnel	railway
 8903430	MTS	115A		MTS 115A	bus
 8903431	MTS	115		MTS 115	bus
 8903432	MTS	110		MTS 110	bus
 8903525	MTS	225		MTS 225	bus
-8903526	MTS	215		MTS 215	bus
+8903526	MTS	215			bus
 8903527	MTS	204		Bus 204	bus
 8906796	MTS	290		MTS 290	bus
 8906797	MTS	280		MTS 280	bus
 8906798	MTS	237		MTS 237	bus
-8906799	MTS	235		MTS 235	bus
+8906799	MTS	235			bus
 8906899	MTS	709L		MTS 709L (to H Street Transit Center)	bus
 8906900	MTS	709L		MTS 709L (to Southwestern College)	bus
 8907867	MTS	875		MTS 875	bus
@@ -3224,7 +3223,7 @@
 8907876	MTS	851		MTS 851	bus
 8907877	MTS	848A		MTS 848A	bus
 8907878	MTS	848		MTS 848	bus
-8907879	MTS	838		MTS 838	bus
+8907879	MTS	838			bus
 8907880	MTS	834		MTS 834	bus
 8907881	MTS	833		MTS 833	bus
 8907882	MTS	832		MTS 832	bus
@@ -3246,7 +3245,7 @@
 8909761	MTS	973		MTS 973	bus
 8909762	MTS	972		MTS 972	bus
 8909763	MTS	968		968- 8th Street Transit Center - Plaza Bonita	bus
-8909764	MTS	965		MTS 965	bus
+8909764	MTS	965			bus
 8909765	MTS	964		MTS 964	bus
 8909766	MTS	963		MTS 963	bus
 8909767	MTS	962		962 - Spring Valley - 8th Street Trolley	bus
@@ -7376,7 +7375,7 @@
 20070905	Sonoma County Transit	26		Sonoma County Transit 26: Sebastopol => Sonoma State University	bus
 20071859	SCMTD		east	SCMTD 1: Riverfront TC => Watsonville TC	bus
 20079827	US:US:Business	101		US 101 Business	road
-20085601	US:CA:Historic	CA 163 Hist		Historic State Route 163	road
+20085601	US:CA:Historic	163		Historic State Route 163	road
 20085637	US:US:Historic	395			road
 20086281	US:CA:CHL	CHL #784		El Camino Real	historic
 20086438	US:US:Old	80		Old U.S. Route 80	road
@@ -7558,3 +7557,17 @@
 20498568	US:CA:Alternate	60	west		road
 20498569	US:CA:Express	57	north		road
 20504259	US:I:Business:Loop	15			road
+20520127	lwn			Baker Summit Trail	hiking
+20520128	lwn			Logging Flat Trail	hiking
+20520129	lwn			South Fork Big Pine Creek Trail	hiking
+20520130	lwn			Sixth Lake Hiker Trail	hiking
+20520131	lwn			Fourth Lake Cutoff	hiking
+20520132	lwn			Black Lake Trail	hiking
+20520133	lwn			North Fork Big Pine Creek Trail	hiking
+20520134	lwn			Palisade Glacier Trail	hiking
+20524061	lwn			Birch Lake Trail	hiking
+20524379	US:CA:Alternate	91	west		road
+20524462	US:CA:Alternate	91	west		road
+20524473	US:BIA	101			road
+20524888	US:BLM	67113			road
+20542221				Center Drive/Spring Street	road

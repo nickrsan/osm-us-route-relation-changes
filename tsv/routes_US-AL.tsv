@@ -1146,7 +1146,7 @@
 20501650	Tuscaloosa Trolley	Alberta/5 Points		Alberta-Five Points (Fresh Value to Crescent East)	bus
 20501830	Tuscaloosa Trolley	Alberta/5 Points		Alberta-Five Points (westbound)	bus
 20504243	Tuscaloosa Trolley	McKenzie Court		McKenzie/Stillman Route (outbound)	bus
-20504330	Tuscaloosa Trolley			McKenzie/Stillman Route (inbound)	bus
+20504330	Tuscaloosa Trolley	McKenzie Court		McKenzie/Stillman Route (inbound)	bus
 20507536	Tuscaloosa Trolley	Greensboro		Greensboro Avenue Route (northbound)	bus
 20507537	Tuscaloosa Trolley	Greensboro		Greensboro Avenue Route (Ollie's to TJ Maxx)	bus
 20507538	Tuscaloosa Trolley	Greensboro		Greensboro Avenue Route (southbound)	bus
@@ -1158,3 +1158,5 @@
 20509165	Tuscaloosa Trolley	Shelton State		Shelton State (southbound)	bus
 20512523	Tuscaloosa Trolley	University Shuttle		University Shuttle (westbound)	bus
 20513006	Tuscaloosa Trolley	V.A.		V.A. Route (westbound)	bus
+20572587	US:AL:Houston	22			road
+20572588	US:AL:Henry	22			road
