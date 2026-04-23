@@ -1374,8 +1374,8 @@
 3001322	Muni	19		Muni 19 outbound: Fisherman's Wharf => Hunters Point	bus
 3002740	Muni	23		Muni 23 inbound: SF Zoo => Bayview	bus
 3002741	Muni	23		Muni 23 outbound: Bayview => SF Zoo	bus
-3015375	US:CA	111		111 (northbound)	road
-3015376	US:CA	111		111 (southbound)	road
+3015375	US:CA	111	north		road
+3015376	US:CA	111	south		road
 3015377	US:CA:Business	111		"CA 111 Business (Palm Springs, CA)"	road
 3029014	lwn			Ivan Dickson Trail	hiking
 3069154	lcn	623			bicycle
@@ -2969,7 +2969,6 @@
 8538867	SacRT	51		51 Stockton/Broadway	bus
 8538869	SacRT	38	west	38 Tahoe Park	bus
 8538870	SacRT	134 PM	east	134 McKinley Commmuter	bus
-8538924				Former US 80 Freeway - San Diego	road
 8538996	SacRT	75		75 Mather	bus
 8538998	SacRT	72		72 Rosemont	bus
 8538999	SacRT	68		68 Oak Park	bus
@@ -4721,7 +4720,7 @@
 12422723	Metro Rapid	J		Metro J Line: Harbor Gateway → El Monte	bus
 12422724	Metro Rapid	J		Metro J Line: San Pedro → El Monte	bus
 12471816				Yosemite Valley Railroad	railway
-12484795	US:I:Business:Loop	8		"I 8 Business (El Centro, CA)"	road
+12484795	US:I:Business:Loop	8			road
 12484901	US:I:Business:Loop	8		"I 8 Business (El Cajon, CA)"	road
 12493481	DASH	Crenshaw		DASH Crenshaw Counterclockwise	bus
 12493482	DASH	Crenshaw		DASH Crenshaw Clockwise	bus
@@ -5718,7 +5717,6 @@
 15972849	Santa Maria Regional Transit	12x		12X - Broadway / Orcutt Express	bus
 15973369	network:wikidata=Q16982191	94		94 Carmel	bus
 15976505	Santa Maria Regional Transit	2		"2 - Transit Center - Pioneer Valley High School  via Western Avenue, Donovan Road"	bus
-15976607				Línea UA	tracks
 15976777	Torrance Transit	9		Torrance Transit 9 →Plaza Del Amo	bus
 15976806	Torrance Transit	R3		Torrance Transit Rapid 3	bus
 15981302	Visalia Transit	4B		Route 4B	bus
@@ -7571,3 +7569,18 @@
 20524473	US:BIA	101			road
 20524888	US:BLM	67113			road
 20542221				Center Drive/Spring Street	road
+20573098	US:CA:Scenic			Scenic US 101	road
+20573099	US:CA:Scenic			Scenic Route 151	road
+20573100	US:CA:CR:Scenic			Scenic County Road A18	road
+20573101	US:CA:Scenic			Scenic Route 116	road
+20575762				Centennial Walkway	foot
+20576013	US:CA:Future	111			road
+20576020	US:CA:Scenic			Scenic Route 12	road
+20576038	US:CA:Scenic			Scenic Route 160	road
+20576040	US:CA:CR	6		County Road 6	road
+20576044	US:CA:Scenic			Scenic Route 84	road
+20576143	US:CA:Scenic			Scenic Interstate 680	road
+20576144	US:CA:Scenic			Scenic Interstate 680	road
+20576145	US:CA:Scenic			Scenic Interstate 680	road
+20576162	US:CA:Scenic			Scenic Route 24	road
+20576208	US:CA:Scenic			Scenic Interstate 580	road

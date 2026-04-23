@@ -963,8 +963,8 @@
 8669736	MetroBus	31	east	31 Chouteau: Brentwood I-64 Transit Center → Civic Center Transit Center	bus
 8669737	MetroBus	30	east	30 Arsenal: Shrewsbury-Lansdowne I-44 Transit Center → Civic Center Transit Center	bus
 8671225	MetroBus	38		MetroBus 38 Hazelwood	bus
-8671227	MetroBus	34		Earth City	bus
-8671754	MetroBus	49		Lindbergh	bus
+8671227	MetroBus	34		34 Earth City: North Hanley Transit Center → North Hanley Transit Center	bus
+8671754	MetroBus	49	north	49 Lindbergh: South County Mall → North Hanley Transit Center	bus
 8671755	MetroBus	48		MetroBus 48 South Lindbergh	bus
 8671758	MetroBus	42	north	42 Sarah: Central West End Transit Center → Pope & West Florissant	bus
 8671759	MetroBus	41	north	41 Lee: Civic Center Transit Center → Riverview Transit Center	bus
