@@ -4806,8 +4806,8 @@
 6747553	lwn			Green Trail	hiking
 6747554	lwn			Orange Trail	hiking
 6747556	lwn			Blue Trail	hiking
-6749265	lwn			Blue Trail	hiking
-6749266	lwn			Yellow Trail	hiking
+6749265				Blue Trail	hiking
+6749266				Dry Brook Trail	hiking
 6752513				Overlook Trail	hiking
 6762139				Ithaca-Auburn Short Line	railway
 6779021	lcn	4			bicycle
@@ -6577,10 +6577,10 @@
 9965553	lwn			Sleeping Beauty spur	hiking
 9965554	lwn			Sleeping Beauty Trail	hiking
 9965555	lhn			Bumps Pond Trail	hiking
-9965810				Old Erie Path Rail-Trail	bicycle
+9965810	lcn			Old Erie Path Rail-Trail	bicycle
 9965812				Old Erie Path Rail-Trail	hiking
 9965931				Raymond G. Esposito Trail	hiking
-9965932				Raymond G. Esposito Trail	bicycle
+9965932	lcn			Raymond G. Esposito Trail	bicycle
 9967855	SBU Transit	OA		Outer Loop A	bus
 9968097	SBU Transit	I		Inner Loop	bus
 9968098	SBU Transit	S		Southampton Shuttle	
@@ -6801,7 +6801,7 @@
 11181706	lwn			Bird Watching Loop	hiking
 11181707	lwn			1825 Erie Canal Towpath	hiking
 11201549	TCAT	15		TCAT 15 Inbound Southside Shopper	bus
-11215605	rcn			Shared Use Path of the Gov. Mario M. Cuomo Tappan Zee Bridge	bicycle
+11215605	rcn			Tappan Zee Bridge Path	bicycle
 11224546				60th Street Tunnel Connection	railway
 11231386	lwn			No-Tan-Takto Trail	hiking
 11231388	lwn			Backbone Trail	hiking
@@ -6918,8 +6918,6 @@
 11592527	lwn			Beaverflow Trail	hiking
 11592924				Hudson River Brickyard Trail	hiking;bicycle;foot;running
 11598233	US:NY			LaSalle Expressway	road
-11609634	lcn			Old Erie Path Rail Trail	bicycle
-11609635	lcn			Esposito Trail	bicycle
 11618862	NJ Transit	126		NJTB - 126 - Hoboken Terminal to New York via Washington Street	bus
 11618863	NJ Transit	126		NJTB - 126 - New York to Hamilton Park via Hoboken	bus
 11618864	NJ Transit	126		NJTB - 126 - Hoboken to New York via Clinton Street	bus
@@ -11198,7 +11196,7 @@
 20080106				Hillside School Trail	hiking
 20080109				Middle Earth Trail	hiking
 20083299				Saw Mill River Trail	hiking
-20124431	rcn			Governor Mario M. Cuomo Bridge Side Path	bicycle
+20124431	rcn			Tappan Zee Bridge Side Path	bicycle
 20127894				Lakeside Overlook Trail	hiking
 20138402				Cornish Connector Trail	hiking
 20138487				Approach Road to Cornish Mansion	road

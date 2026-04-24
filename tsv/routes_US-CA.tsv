@@ -2442,7 +2442,7 @@
 8438500	Metro Local	120		Metro 120	bus
 8438501	Metro Local	117		Metro 117	bus
 8438502	Metro Local	115		Metro 115	bus
-8438643				OC Streetcar	railway
+8438643	OC Streetcar			OC Streetcar	railway
 8438653	Metro Local	169		Metro 169	bus
 8438654	Metro Local	167		Metro 167	bus
 8438656	Metro Local	166		Metro 166	bus
@@ -4246,7 +4246,7 @@
 11015071				Viewpoint Trail	hiking
 11015072				Lake Loop Trail	hiking
 11015073				Serpentine Trail	hiking
-11018231	rwn	CMT01		California Mission Trail - stage 01 Mission San Diego de Alcalá (1769) to Mission San Luis Rey (1798)	hiking
+11018231	rwn	CMT01		California Mission Trail	hiking
 11026315	lcn			Winnetka Connector	bicycle
 11026326	lcn			Tampa Connector	bicycle
 11030368	rwn	CMT02		California Mission Trail - stage 02 Mission San Luis Rey to Mission San Juan Capistrano	hiking
@@ -7375,7 +7375,7 @@
 20079827	US:US:Business	101		US 101 Business	road
 20085601	US:CA:Historic	163		Historic State Route 163	road
 20085637	US:US:Historic	395			road
-20086281	US:CA:CHL	CHL #784		El Camino Real	historic
+20086281	US:CA:CHL	784		El Camino Real	road
 20086438	US:US:Old	80		Old U.S. Route 80	road
 20104192	US:CA:Express	170	north		road
 20104193	US:CA:Express	170	south		road
@@ -7584,3 +7584,11 @@
 20576145	US:CA:Scenic			Scenic Interstate 680	road
 20576162	US:CA:Scenic			Scenic Route 24	road
 20576208	US:CA:Scenic			Scenic Interstate 580	road
+20576982	US:CA:Scenic			Scenic Route 152	road
+20576983	US:CA:Scenic			Scenic Interstate 5	road
+20576984	US:CA:Scenic			Scenic Interstate 580	road
+20582215	US:CA:Scenic			Scenic Interstate 280	road
+20582245	US:CA:Scenic			Scenic Route 1	road
+20582249	US:CA:Scenic			Scenic Route 156	road
+20582269	US:CA:Scenic			Scenic Route 168	road
+20582273	US:CA:CR:Scenic			Scenic County Road G20	road
