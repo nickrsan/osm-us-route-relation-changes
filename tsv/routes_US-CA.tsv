@@ -1929,7 +1929,6 @@
 6176689				Trona Railway	railway
 6176837				Lone Pine Subdivision	railway
 6177218				Stockton Branch	railway
-6180426				CCT Abandoned	railway
 6180566	Metro Local	267		Metro 267 (southbound)	bus
 6181176	Metro Local	267		Metro 267 (northbound)	bus
 6184196				North Main	railway
@@ -7592,3 +7591,4 @@
 20582249	US:CA:Scenic			Scenic Route 156	road
 20582269	US:CA:Scenic			Scenic Route 168	road
 20582273	US:CA:CR:Scenic			Scenic County Road G20	road
+20586728	US:I:Express	105	east		road
