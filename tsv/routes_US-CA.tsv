@@ -2349,7 +2349,7 @@
 8099943	SolTrans	3		SolTrans 3: Vallejo Transit Center => Beverly Hills	bus
 8100132				Travel Town Railway	railway
 8100133				Griffith Park Railway	railway
-8127942				BART to Antioch	railway
+8127942				eBART	railway
 8129097	BART	Yellow		BART Yellow Line: Millbrae => SFO Airport => Antioch	light_rail
 8129284				Jolly Trolly	railway
 8137872				San Ysidro	railway
@@ -4311,8 +4311,8 @@
 11508978	Big Blue Bus	Rapid 12		Big Blue Bus Rapid 12 Northbound: Palms => UCLA	bus
 11518039				Eucalyptus Trail	hiking
 11518040				Batiquitos Lagoon Nature Trail	hiking
-11520635	VTA	101		VTA 101: Camden & Highway 85 => Stanford Research Park (mornings)	bus
-11520636	VTA	101		VTA 101: Stanford Research Park => Camden & Highway 85 (evenings)	bus
+11520635	VTA	101	north	VTA 101: Camden & Highway 85 => Stanford Research Park (mornings)	bus
+11520636	VTA	101	south	VTA 101: Stanford Research Park => Camden & Highway 85 (evenings)	bus
 11521490	lcn	NCT		North Coast Bike Trail	bicycle
 11524050	US:US:Historic	101		Historic U.S. Route 101	road
 11544169					bus
@@ -6186,7 +6186,7 @@
 17765028		22S26		Corral Meadow Road	road
 17780169	Metro Local	217		Metro 217 Northbound (early weekends)	bus
 17788197	Metro Local	460		Metro 460 Southbound	bus
-17788198	Metro Local	460		Metro 460 Northbound	bus
+17788198	Metro Local	460	north		bus
 17814864	SacRT	1		1 Greenback	bus
 17820920	SacRT	11		11 Natomas/Land Park	bus
 17822120	US:I:Express	405	south	I 405 Express Lanes (Southbound)	road
@@ -7592,3 +7592,4 @@
 20582269	US:CA:Scenic			Scenic Route 168	road
 20582273	US:CA:CR:Scenic			Scenic County Road G20	road
 20586728	US:I:Express	105	east		road
+20586914	US:I:Express	105	west		road
