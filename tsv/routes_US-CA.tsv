@@ -3033,7 +3033,7 @@
 8549885	AC Transit	83		AC Transit 83: South Hayward BART => Hayward BART	bus:suspended
 8551366	lcn	VBB		Venice Boulevard Designated Bicycle Route	bicycle
 8551413	lcn	MYR		Maria Ygnacio Route	bicycle
-8552374	AC Transit	232		AC Transit 232: Fremont BART => NewPark Mall	bus
+8552374	AC Transit	281		AC Transit 281: Union City BART => NewPark Mall	bus
 8552375	AC Transit	216		AC Transit 216: Union City BART => Ohlone College Newark Campus (weekdays)	bus
 8552376	AC Transit	215		AC Transit 215: Benicia Street & Auburn Street => Northport Loop => Fremont BART (evenings)	bus:suspended
 8552377	AC Transit	212		AC Transit 212: NewPark Mall => Pacific Commons => Fremont BART (weekdays)	bus
@@ -3515,7 +3515,7 @@
 9507357	AC Transit	41		AC Transit 41: Union Landing Transit Center => Hayward BART	bus
 9507358	AC Transit	56		AC Transit 56: Union Landing Transit Center => Hayward BART	bus
 9509700	AC Transit	210		AC Transit 210: Ohlone College => Union Landing Transit Center	bus
-9509860	AC Transit	232		AC Transit 232: NewPark Mall => Fremont BART	bus
+9509860	AC Transit	281		AC Transit 281: NewPark Mall => Union City BART	bus
 9509861	AC Transit	239		AC Transit 239: Fremont BART => Milmont Drive & Kato Road	bus:suspended
 9510085	AC Transit	217		AC Transit 217: Hopkins Junior High School => Mission Boulevard & South Grimmer Boulevard (school days only)	bus:suspended
 9510086	AC Transit	217		AC Transit 217: Mission Boulevard & South Grimmer Boulevard => Hopkins Junior High School (school days only)	bus:suspended
