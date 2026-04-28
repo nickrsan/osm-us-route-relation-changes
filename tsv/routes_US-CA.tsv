@@ -4332,7 +4332,6 @@
 11629925	US:I:Business:Loop	5		"I 5 Business (Weed, CA)"	road
 11629991	US:I:Business:Loop	5		"I 5 Business (Yreka, CA)"	road
 11630010	lcn			Cross-Alameda Trail	bicycle
-11642653					road
 11654262	lcn				bicycle
 11701376		R		Bus R: P704 -> Central Campus Station	bus
 11702902	MAX	21		Route 21	bus
@@ -6243,6 +6242,7 @@
 17950276	SacRT	134 AM	west	134 McKinley Commuter	bus
 17952455				East Mojave Heritage Trail	road
 17956711	SacRT	137 PM	south	137 UCDMC	bus
+17959566				Avenue of the Stars	road
 17961622		DVRR		Death Valley Railroad	railway
 17961663				West Side Lumber Company railway	railway
 17978806	SacRT	205 AM	north	205 Fruitridge/Freeport	bus
@@ -7593,3 +7593,5 @@
 20582273	US:CA:CR:Scenic			Scenic County Road G20	road
 20586728	US:I:Express	105	east		road
 20586914	US:I:Express	105	west		road
+20597032				Blackstone Avenue	road
+20597033				Stanislaus Street	road
