@@ -47,7 +47,7 @@
 1501310	US:AZ	87		State Route 87	road
 1501387	US:AZ	88		AZ 88	road
 1501388	US:AZ	89		State Route 89	road
-1501389	US:AZ	89A		AZ 89A	road
+1501389	US:AZ	89A		State Route 89 Alternate	road
 1501738	US:AZ	90		AZ 90	road
 1501739	US:AZ	92		AZ 92	road
 1501935	US:AZ	95		AZ 95	road
@@ -57,7 +57,7 @@
 1501989	US:AZ	99		AZ 99	road
 1502005	US:AZ	169		AZ 169	road
 1502009	US:AZ	177		AZ 177	road
-1502062	US:AZ	179		AZ 179	road
+1502062	US:AZ	179		State Route 179	road
 1502063	US:AZ	186		AZ 186	road
 1502064	US:AZ	188		AZ 188	road
 1502065	US:AZ	189		AZ 189	road
@@ -102,7 +102,7 @@
 1933525	US:I:Business:Loop	10		"I 10 Business (Willcox, AZ)"	road
 1933527	US:I:Business:Loop	19		"I 19 Business (Nogales, AZ)"	road
 1933528	US:I:Business:Loop	40		"I 40 Business (Ash Fork, AZ)"	road
-1933529	US:I:Business:Loop	40		"I 40 Business (Flagstaff, AZ)"	road
+1933529	US:I:Business:Loop	40			road
 1933530	US:I:Business:Loop	40		"I 40 Business (Holbrook, AZ)"	road
 1933531	US:I:Business:Loop	40		"I 40 Business (Joseph City, AZ)"	road
 1933532	US:I:Business:Loop	40		"I 40 Business (Seligman, AZ)"	road
@@ -1428,7 +1428,7 @@
 14700309					power
 14700310					power
 14700311					power
-14735837	rcn			Coconino 250 MTB Route	mtb
+14735837	rcn	250		Coconino Loop	mtb
 14865111				Original Southern Pacific Railroad Phoenix Subdivision Alignment	railway
 14865112				Arizona Eastern Railroad Phoenix Division	railway
 14933899	lcn	a		a	bicycle
@@ -1715,3 +1715,4 @@
 20371463	US:I:Express	10	east		road
 20404284	US:AZ:Mohave	145		County Highway 145	road
 20418231	US:AZ:Truck	189			road
+20601099	US:AZ:Coconino	394		County Highway 394	road

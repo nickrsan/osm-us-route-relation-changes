@@ -7148,7 +7148,6 @@
 19797546					foot
 19801328	US:NFSR	3N47			road
 19816166	US:CA				road
-19819349				Old Route 66 in California	road
 19848010					ferry
 19848011					ferry
 19848012					ferry
@@ -7334,7 +7333,7 @@
 20029631	lhn			Rio Hondo San Gabriel River Trail Connector	horse
 20029632	lcn			Rio Hondo San Gabriel River Trail Connector	mtb
 20029633	lwn			Rio Hondo San Gabriel River Trail Connector	hiking
-20030979	US:US:Old	66			road
+20030979	US:US:Old	66		Old Highway 66	road
 20033876	lhn			San Gabriel River Trail - Eastern Bank	horse
 20033877	lcn			San Gabriel River Trail - Eastern Bank	mtb
 20033878	lwn			San Gabriel River Trail - Eastern Bank	hiking
@@ -7400,7 +7399,6 @@
 20173680			east	Willow Creek Route	bus
 20178474					bus
 20195345	US:CA:Old	111			road
-20197947				Los Angeles and Salt Lake Railroad	railway
 20229409	lcn	ALB		Albertson Parkway	bicycle
 20229410	lcn	237		Highway 237 Bikeway	bicycle
 20229411	lcn	BAR		Barberry Lane Parkway	bicycle
@@ -7595,3 +7593,10 @@
 20586914	US:I:Express	105	west		road
 20597032				Blackstone Avenue	road
 20597033				Stanislaus Street	road
+20600090				Sawtelle Boulevard	road
+20600159				Cesar E Chavez Avenue	road
+20600475	US:BLM	NS114			road
+20600476				Robertson Boulevard	road
+20600636				Beverly Drive	road
+20600656				Doheny Drive	road
+20601093				Fairfax Avenue	road

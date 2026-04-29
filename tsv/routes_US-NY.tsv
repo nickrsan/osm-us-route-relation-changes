@@ -5441,7 +5441,7 @@
 8288676	NYC Transit	X28		NYCB - X28	bus
 8288677	NYC Transit	X37		NYCB - X37	bus
 8288678	NYC Transit	X27		NYCB - X27	bus
-8288679	Metropolitan Transportation Authority	BM5		Bus BM5: E 57 ST / 2 AV => SEAVIEW AV / PENNSYLVANIA AV	bus
+8288679	NYC Transit	BM5		Bus BM5: E 57 ST / 2 AV => SEAVIEW AV / PENNSYLVANIA AV	bus
 8288682	NYC Transit	BM2		NYCB - BM2	bus
 8288683	NYC Transit	BM1		NYCB - BM1: Midtown -> Mill Basin	bus
 8288684	NYC Transit	B44 SBS		NYCB - B44 SBS Sheepshead Bay --> Williamsburg Bridge Plaza	bus
@@ -7985,7 +7985,7 @@
 14268493	NYC Transit	B68		NYCB - B68: Coney Island => Windsor Terrace	bus
 14304922	US:NY:Dutchess	50		Dutchess County Route 50	road
 14304956	US:NY:Dutchess	114		Dutchess County Route 114	road
-14305607	Metropolitan Transportation Authority	BM4		Bus BM4: Midtown Manhattan -> Gerritsen Beach	bus
+14305607	NYC Transit	BM4		Bus BM4: Midtown Manhattan -> Gerritsen Beach	bus
 14310987	lcn			Underhill Avenue Bike Boulevard	bicycle
 14313672	US:US:Alternate	6			road
 14326353	lcn			Williams Street	bicycle
@@ -11280,7 +11280,7 @@
 20319931	Metropolitan Transportation Authority	B46-SBS		Bus B46-SBS: MALCOLM X BLVD/DE KALB AV => KINGS PLAZA	bus
 20319932	Metropolitan Transportation Authority	B46-SBS		Bus B46-SBS: KINGS PLAZA/AVENUE U => MALCOLM X BLVD/DE KALB AV	bus
 20320049	Metropolitan Transportation Authority	B84		Bus B84: LIVONIA AV/ASHFORD ST => SEAVIEW AV/ERSKINE ST	bus
-20320063	Metropolitan Transportation Authority	BM5		"Bus BM5: Midtown, Manhattan => Spring Creek, Brooklyn"	bus
+20320063	NYC Transit	BM5		"Bus BM5: Midtown, Manhattan => Spring Creek, Brooklyn"	bus
 20352753	lcn			Canadice Lake Cycling	bicycle
 20353043				Nimham Trail	hiking
 20360954				Red Trail (Little Stony Point)	hiking
@@ -11304,10 +11304,10 @@
 20404037	lcn			Arthur Schiller Bicycle Path	bicycle
 20404038	lcn			Stonytown Road Shared-Use Path	bicycle
 20404039	lcn	VFH		Village of Flower Hill Bikeway	bicycle
-20407104	Metropolitan Transportation Authority	BM4		Bus BM4: Gerritsen Beach -> FiDi Manhattan	bus
-20407105	Metropolitan Transportation Authority	BM4		Bus BM4: Gerritsen Beach -> Midtown Manhattan	bus
-20407140	Metropolitan Transportation Authority	BM4		Bus BM4: FiDi Manhattan -> Gerritsen Beach	bus
-20411634	Metropolitan Transportation Authority	BM5		"Bus BM5: Spring Creek, Brooklyn => Midtown, Manhattan"	bus
+20407104	NYC Transit	BM4		Bus BM4: Gerritsen Beach -> FiDi Manhattan	bus
+20407105	NYC Transit	BM4		Bus BM4: Gerritsen Beach -> Midtown Manhattan	bus
+20407140	NYC Transit	BM4		Bus BM4: FiDi Manhattan -> Gerritsen Beach	bus
+20411634	NYC Transit	BM5		"Bus BM5: Spring Creek, Brooklyn => Midtown, Manhattan"	bus
 20414996				Hilltop Loop	hiking
 20438113	lwn				hiking
 20438114	lwn				hiking
@@ -11330,3 +11330,4 @@
 20584654				Yellow Trail	hiking
 20584655				Blue Trail	hiking
 20592466				Floodwood Pond Loop	canoe
+20599916				Yellow Trail	hiking;horse
