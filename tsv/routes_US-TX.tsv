@@ -794,7 +794,6 @@
 1485114	US:NM	133			road
 1485116	US:NM	128			road
 1485119	US:NM	132			road
-1490871	US:NM	225			road
 1491017	US:NM	273			road
 1491026	US:NM	262			road
 1492111	US:NM	498			road
@@ -2416,7 +2415,7 @@
 2320398					road
 2320401				STRAHNET: Van Horn-San Antonio	road
 2320402				STRAHNET route: Victoria - Longview	road
-2329203	US:I				road
+2329203	US:I	69			road
 2335783	US:I	35	north		road
 2335784	US:I	35	south		road
 2340911	lcn	31			bicycle

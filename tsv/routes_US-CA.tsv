@@ -7012,12 +7012,12 @@
 19547560	County Connection	314			bus
 19547571	County Connection	314			bus
 19550882	lcn			Huyya Anós (Tree West)	mtb
-19550883	lcn			Toróma (Wildcat)	mtb
-19550884	lcn			Toróma Watis (Wildcat South)	mtb
+19550883	lcn			Toróma (Wildcat) Trail North	mtb
+19550884	lcn			Toróma watis (Wildcat South)	mtb
 19550885	lcn			Huyya (Tree) Toróma (Wildcat) Connector	mtb
 19550886	lcn			Huyya Awetka (Tree East)	mtb
 19550887	lcn			Káknu (Hawk) Trail Parking	mtb
-19550898	lwn			Toróma (Wildcat) Trail	foot
+19550898	lwn			Toróma (Wildcat) Trail Loop	foot
 19550899	lwn			Huyya (Tree) Toróma (Wildcat) Connector	foot
 19550900	lwn			Huyya (Tree) Trail	foot
 19550901	lwn			Káknu (Hawk) Trail	foot
@@ -7600,3 +7600,6 @@
 20600636				Beverly Drive	road
 20600656				Doheny Drive	road
 20601093				Fairfax Avenue	road
+20604174				Laurel Canyon Boulevard	road
+20605170				Arrowhead Auto Trail	historic
+20605171		Arrowhead		Arrowhead Trail	road

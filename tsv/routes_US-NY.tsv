@@ -470,6 +470,7 @@
 443689	US:NY:Schenectady	19		Schenectady County Route 19	road
 443767	US:NY:Saratoga	95		Saratoga County Route 95	road
 443768	US:NY:Saratoga	99		Saratoga County Route 99	road
+443940	US:US	6			road
 444111	US:NY:Albany	156		Albany County Route 156	road
 444516	US:NY	218			road
 444524	US:NY	318			road
@@ -4856,8 +4857,6 @@
 6811118	lwn			McKeags Meadow Trail	hiking
 6817067	US:NY:Warren	33		Warren County Route 33	road
 6817126	US:NY:Warren	37		Warren County Route 37	road
-6826139	US:US	6	west		road
-6826140	US:US	6	east		road
 6843773				Oak Point Link	railway
 6845012	lcn	Onderdonk		Onderdonk Avenue	bicycle
 6845835	lcn			Irving Avenue	bicycle
@@ -4997,8 +4996,7 @@
 7246187				Fremont Industrial Track	railway
 7248211	lwn			Yard Mountain Trail	hiking
 7248212	lwn			The Brothers Trail	hiking
-7248775	US:US	15	north		road
-7248776	US:US	15	south		road
+7248775	US:US	15			road
 7251573	lcn			Classon Avenue	bicycle
 7252551	lwn			Owls Head Lookout Trail	hiking
 7252552	lwn			North Trail	hiking
@@ -6660,7 +6658,7 @@
 10117845	lwn			Coyote Trail	hiking
 10117846	lwn			Old Farm Road	hiking
 10121340	lwn			Tulip Tree Trail	hiking
-10121341	lwn			River View Trail	hiking
+10121341				River View Trail	hiking
 10121342	lwn			Jack-in-the-Pulpit Trail	hiking
 10125323				Lakeside Loop	hiking
 10125382				Teatown-Kitchawan Trail	hiking
