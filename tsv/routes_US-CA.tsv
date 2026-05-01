@@ -7602,4 +7602,7 @@
 20601093				Fairfax Avenue	road
 20604174				Laurel Canyon Boulevard	road
 20605170				Arrowhead Auto Trail	historic
-20605171		Arrowhead		Arrowhead Trail	road
+20605171	US:Auto:Trail	Arrowhead		Arrowhead Trail	road
+20605411	US:CA:Unconstructed	81			road
+20608295	US:CA:Business:Loop	60		"CA 60 Business (Riverside, CA)"	road
+20609319	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Pomona–Ontario, CA)"	road

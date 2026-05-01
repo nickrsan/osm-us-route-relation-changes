@@ -29,7 +29,7 @@
 149800	lcn	BBC Hamburg TT Race Course		BBC Hamburg TT Race Course	bicycle
 149807	lcn	Hamburg Criterium Race Course		Hamburg Criterium Race Course	bicycle
 157589	US:NY	32			road
-161599	US:US	9		U.S. Route 9 (NY)	road
+161599	US:US	9			road
 165109	US:I	90	east		road
 165312	lcn	BBC West Tillen Hill Climb TT		BBC West Tillen Hill Climb TT	bicycle
 169111	US:I	99			road
@@ -1272,7 +1272,7 @@
 2273559				Harlem River Branch	railway
 2273561				Beacon Line	railway
 2297230	US:US	1			road
-2297234	US:US	1		U.S. Route 1 (NY)	road
+2297234	US:US	1			road
 2298942	US:US	209			road
 2298943	US:US	209			road
 2298945	US:US	9			road
@@ -6657,9 +6657,9 @@
 10117844	lwn			Hemlock Spring Trail	hiking
 10117845	lwn			Coyote Trail	hiking
 10117846	lwn			Old Farm Road	hiking
-10121340	lwn			Tulip Tree Trail	hiking
+10121340				Tulip Tree Trail	hiking
 10121341				River View Trail	hiking
-10121342	lwn			Jack-in-the-Pulpit Trail	hiking
+10121342				Jack-in-the-Pulpit Trail	hiking
 10125323				Lakeside Loop	hiking
 10125382				Teatown-Kitchawan Trail	hiking
 10125383	lwn			Cliffdale-Teatown Trail	hiking
@@ -7816,7 +7816,7 @@
 13305278	lcn			East 14th Street (proposed)	bicycle
 13305280	lcn			East 17th Street	bicycle
 13305281	lcn			East 18th Street	bicycle
-13314354	US:US	4	south		road
+13314354	US:US	4			road
 13320877	US:US	4	east		road
 13340238	rcn	347		NY Green Route 347	bicycle
 13340367	lcn			Aqueduct Walk	bicycle
@@ -8027,7 +8027,6 @@
 14392346				RIOC Red Bus (Northbound)	bus
 14392347				RIOC Red Bus (Octagon Express)	bus
 14392348				RIOC Red Bus (Shopper's Bus)	bus
-14395357	US:US	4	north		road
 14395359	US:US	4	west		road
 14396564	NYC Ferry	STG	southbound	St. George	ferry
 14396565	NYC Ferry	RWS	northbound	Rockaway-Soundview	ferry
@@ -11307,10 +11306,10 @@
 20407140	NYC Transit	BM4		Bus BM4: FiDi Manhattan -> Gerritsen Beach	bus
 20411634	NYC Transit	BM5		"Bus BM5: Spring Creek, Brooklyn => Midtown, Manhattan"	bus
 20414996				Hilltop Loop	hiking
-20438113	lwn				hiking
+20438113				Blue Trail	hiking
 20438114	lwn				hiking
 20438115	lwn				hiking
-20438116	lwn				hiking
+20438116				White Trail	hiking
 20444577	lcn			Grand Army Plaza	bicycle
 20449019				Red Trail	hiking
 20452067	lcn			W 72nd St & Riverside Dr	bicycle
