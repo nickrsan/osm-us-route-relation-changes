@@ -1203,7 +1203,7 @@
 13149510				North Central Pathway	bicycle
 13149511				North Central Pathway	bicycle
 13159681				Amesbury Branch	railway
-13159791				Newburyport Branch	historic_railway
+13159791				Newburyport Branch	railway
 13217564	lwn			West Trail Loop	hiking
 13217565	lwn			South Loop Trail	hiking
 13217566	lwn			Sunrise Hill Trail	hiking
@@ -1639,7 +1639,7 @@
 18458519	MBTA	121		121 Inbound: Eagle Square => Maverick Station	bus
 18469016	MBTA	120		120 Outbound: Maverick Station => Orient Heights Station	bus
 18469017	MBTA	120		120 Inbound: Orient Heights Station => Maverick Station via Jefferies Point	bus
-18491656	US:MA	128		Old Alignment of Route 128	historic
+18491656	US:MA	128		Former Circumferential Highway Alignment	historic
 18508440	MBTA	119		119 Outbound: Beachmont Station => Northgate	bus
 18508441	MBTA	119		119 Inbound: Northgate => Beachmont Station	bus
 18522321				Yankee Doodle Bike Path	
@@ -1808,3 +1808,9 @@
 20582080	rwn			B.A.A. Half	running
 20582085				Boston Athletic Association	running
 20596183	rcn	CRT		Cochituate Rail Trail	bicycle
+20613248				Kristen Crowley Trail	bicycle
+20613249				Danvers Rail Trail	bicycle
+20613250				Wenham Rail Trail	bicycle
+20613251				Topsfield Linear Common	bicycle
+20613277				Georgetown-Byfield Rail Trail	bicycle
+20613285				Georgetown Branch	railway

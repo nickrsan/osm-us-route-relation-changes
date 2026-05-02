@@ -53,10 +53,9 @@
 2297232	US:US	1			road
 2297233	US:US	1			road
 2307086	US:US	2			road
-2307087	US:US	2		Theodore Roosevelt International Highway	road
+2307087	US:US	2			road
 2307092	US:US	202			road
 2307094	US:US	202			road
-2308400	US:US	4			road
 2317544	rwn	MMT		Metacomet - Monadnock Trail	hiking
 2406007	US:ME	16			road
 2406125	US:ME	26			road
@@ -642,8 +641,6 @@
 13297559	lcn				bicycle
 13311355	rcn			Rockingham Recreational Trail Fremont Branch	bicycle
 13311361	lcn			Old Railroad Trail	bicycle
-13319059	US:US	4	east		road
-13320877	US:US	4	east		road
 13364441	lwn			Camp Trail	hiking
 13364668	lwn			Castor Pond Loop Trail	hiking
 13364669	lwn			Fisk Hill - Spring Trail	hiking
@@ -678,8 +675,8 @@
 14392754	lwn			Mt. Rowe Trail	hiking
 14392755	lwn			Benjamin Weeks Trail	hiking
 14392756	lwn			North Spur Trail	hiking
-14395358	US:US	4	west		road
-14395359	US:US	4	west		road
+14395358	US:US	4			road
+14395359	US:US	4			road
 14581763				Beebe River Railroad	railway
 14582303				W. D. Veazey Railroad	railway
 14582320				Woodstock and Thornton Gore Railroad	railway

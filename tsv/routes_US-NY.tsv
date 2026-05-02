@@ -7817,7 +7817,6 @@
 13305280	lcn			East 17th Street	bicycle
 13305281	lcn			East 18th Street	bicycle
 13314354	US:US	4			road
-13320877	US:US	4	east		road
 13340238	rcn	347		NY Green Route 347	bicycle
 13340367	lcn			Aqueduct Walk	bicycle
 13357726	lcn			Broadway	bicycle
@@ -7958,7 +7957,7 @@
 14044396	US:NY:Ontario	10		Ontario County Route 10	road
 14056556	lcn			Rogers Place	bicycle
 14056557	lcn			166th Street	bicycle
-14056892	lcn			Kingsland Avenue	bicycle
+14056892	lcn			Kingsland Avenue (proposed)	bicycle
 14056893	lcn			Monitor Street	bicycle
 14075877	lcn			42nd Street	bicycle
 14113195	lcn			Menands Bike and Pedestrian Connector Broadway to Mohawk Hudson Bike Trail	bicycle
@@ -8027,7 +8026,7 @@
 14392346				RIOC Red Bus (Northbound)	bus
 14392347				RIOC Red Bus (Octagon Express)	bus
 14392348				RIOC Red Bus (Shopper's Bus)	bus
-14395359	US:US	4	west		road
+14395359	US:US	4			road
 14396564	NYC Ferry	STG	southbound	St. George	ferry
 14396565	NYC Ferry	RWS	northbound	Rockaway-Soundview	ferry
 14396566	NYC Ferry	SBK	northbound	South Brooklyn	ferry
@@ -11328,3 +11327,4 @@
 20584655				Blue Trail	hiking
 20592466				Floodwood Pond Loop	canoe
 20599916				Yellow Trail	hiking;horse
+20612391	lcn			Kingsland Avenue	bicycle

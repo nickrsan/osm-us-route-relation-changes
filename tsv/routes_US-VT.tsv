@@ -68,7 +68,7 @@
 2227917	lcn			Upper Valley Loop Trail	bicycle
 2295505	US:US	5			road
 2295508	US:US	7			road
-2307087	US:US	2		Theodore Roosevelt International Highway	road
+2307087	US:US	2			road
 2328456	rcn	CB		Champlain Bikeway / Route Champlain	bicycle
 2525566					bus
 2750828	rcn	XVT		Cross Vermont Trail	bicycle
@@ -438,7 +438,6 @@
 13266007	lwn			Mad Brook Trail	hiking
 13266008	lwn			Telegraph Trail	hiking
 13284574	US:VT:Town	16			road
-13320877	US:US	4	east		road
 13427493	US:VT:Town	36			road
 13440719				Out 'n Back	mtb
 13440720				Postal Route	mtb
@@ -480,7 +479,7 @@
 14247946				MTB Bolton Valley	mtb
 14255315				MTB Cochran	mtb
 14361437				Upper Coos Recreational Rail Trail	hiking
-14395359	US:US	4	west		road
+14395359	US:US	4			road
 14503543				Upper Dutchman	piste
 14503544				Flying Dutchman	piste
 14503545				Route 100 South	piste

@@ -5454,7 +5454,7 @@
 14713304				Parade Route	road
 14728551	Metrolink	Arrow		Metrolink Arrow: San Bernardino–Downtown => Redlands–University	train
 14747247				Redlands Loop	railway
-14757833				Capital Subdivision	railway
+14757833				Capitol Subdivision	railway
 14764484	Golden Gate Ferry			Golden Gate Ferry: San Francisco => Sausalito	ferry
 14764485				Golden Gate Ferry: Sausalito => San Francisco	ferry
 14764486	Golden Gate Ferry			Golden Gate Ferry: San Francisco => Larkspur	ferry
@@ -7606,3 +7606,5 @@
 20605411	US:CA:Unconstructed	81			road
 20608295	US:CA:Business:Loop	60		"CA 60 Business (Riverside, CA)"	road
 20609319	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Pomona–Ontario, CA)"	road
+20611598	US:I:Business:Loop	10		"I 10 Business (Blythe, CA)"	road
+20611863	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Colton–Fontana, CA)"	road
