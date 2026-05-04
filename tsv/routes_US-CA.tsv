@@ -7605,7 +7605,7 @@
 20605171	US:Auto:Trail	Arrowhead		Arrowhead Trail	road
 20605411	US:CA:Unconstructed	81			road
 20608295	US:CA:Business:Loop	60		"CA 60 Business (Riverside, CA)"	road
-20609319	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Pomona–Ontario, CA)"	road
+20609319	US:I:Business:Loop	10		"I 10 Business (Pomona–Ontario, CA)"	road
 20611598	US:I:Business:Loop	10		"I 10 Business (Blythe, CA)"	road
 20611863	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Colton–Fontana, CA)"	road
 20618228	lcn			West Little Llagas Creek Trail	bicycle

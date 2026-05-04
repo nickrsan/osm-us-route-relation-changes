@@ -528,8 +528,7 @@
 537683	US:NY	425			road
 539833				Enlarged Erie Canal	derelict_canal
 545877	US:NY	147			road
-546032	US:NY				road
-550593	US:NY			NY 911F	road
+546032	US:NY			NY 914V	road
 551717	US:NJ:CR	515			road
 557314	US:NY:Saratoga	45		Saratoga County Route 45	road
 557317	US:NY:Saratoga	52		Saratoga County Route 52	road
@@ -1966,7 +1965,7 @@
 3121959	US:NY:Montgomery	108		Montgomery County Route 108	road
 3121997	US:NY:Herkimer	21		Herkimer County Route 21	road
 3121998	US:NY:Montgomery	109		Montgomery County Route 109	road
-3122025	US:NY:Reference			New York State Route 920P	road
+3122025	US:NY			NY 920P	road
 3122026	US:NY:Montgomery	112		Montgomery County Route 112	road
 3122027	US:NY:Montgomery	110		Montgomery County Route 110	road
 3122028	US:NY:Montgomery	111		Montgomery County Route 111	road
@@ -2084,7 +2083,7 @@
 3123013	US:NY:Warren	59		Warren County Route 59	road
 3123014	US:NY:Warren	51		Warren County Route 51	road
 3123015	US:NY:Warren	38		Warren County Route 38	road
-3123016	US:NY:Reference			New York State Route 917A	road
+3123016	US:NY			NY 917A	road
 3123037	US:NY:Saratoga	2		Saratoga County Route 2	road
 3123054	US:NY:Saratoga	40		Saratoga County Route 40	road
 3123055	US:NY:Saratoga	338		Saratoga County Route 338	road
@@ -2162,8 +2161,8 @@
 3125869	US:NY:Washington	27		Washington County Route 27	road
 3125932	US:NY:Warren	45		Warren County Route 45	road
 3126419	US:NY	196			road
-3126433	US:NY:Reference			New York State Route 911U	road
-3126434	US:NY:Reference			New York State Route 915J	road
+3126433	US:NY:former			NY 911U (former)	road
+3126434	US:NY			NY 915J	road
 3126632	US:NY	80			road
 3128235	US:NY:Saint_Lawrence	103		County Road 103	road
 3128236	US:NY:Saint_Lawrence	133		County Road 133	road
@@ -7243,7 +7242,7 @@
 12271604	lwn			Ridge Trail	hiking
 12271605	lwn			Hickory Trail	hiking
 12272573					road
-12272574	US:NY			Reference Route 980F	road
+12272574	US:NY			NY 980F	road
 12272575					road
 12272577					road
 12272578					road
@@ -7864,12 +7863,12 @@
 13572751	NYC Transit	Q39		NYCB - Q39 Ridgewood --> Long Island City	bus
 13594342	ncn	9-11		9-11 Trail (New York Manhattan)	bicycle
 13599210				Climb Blue MB Trail	bicycle
-13603865	US:NY			New York State Reference Route 907W	road
-13603866	US:NY			New York State Reference Route 987D	road
-13603867	US:NY			New York State Reference Route 987H	road
-13603868	US:NY			New York State Reference Route 987F	road
-13603904	US:NY			New York State Reference Route 987G	road
-13613552	US:NY			New York State Reference Route 987E	road
+13603865	US:NY			NY 907W	road
+13603866	US:NY			NY 987D	road
+13603867	US:NY			NY 987H	road
+13603868	US:NY			NY 987F	road
+13603904	US:NY			NY 987G	road
+13613552	US:NY			NY 987E	road
 13631687	ncn	9-11		9-11 Trail (New Jersey Newark Spur)	bicycle
 13647827				Inner Sanctum Trail	foot
 13647828				Caves and Falls Hike Trail	foot
@@ -7885,13 +7884,13 @@
 13741102	Gloversville Transit System			Amsterdam Route	bus
 13764040	US:NY:Ontario	7			road
 13794560	US:NY:Seneca	101		Seneca County Route 101	road
-13797745	US:NY			New York State Reference Route 987C	road
-13797785	US:NY			New York State Reference Route 907V	road
-13797788	US:NY			New York State Reference Route 907A	road
-13800536	US:NY			New York State Reference Route 907K	road
+13797745	US:NY			NY 987C	road
+13797785	US:NY			NY 907V	road
+13797788	US:NY			NY 907A	road
+13800536	US:NY			NY 907K	road
 13801179	US:NY:Parkway:NYC	HR		Hutchinson River Parkway	road
-13801180	US:NY			New York State Reference Route 908A	road
-13801205	US:NY			New York State Reference Route 907H	road
+13801180	US:NY			NY 908A	road
+13801205	US:NY			NY 907H	road
 13801206	US:NY:Parkway:NYC	BR		Bronx River Parkway	road
 13818313	Gloversville Transit System			GHS/GMS Morning Shuttle	bus
 13857084				Pioneer Fitness Trail	hiking
@@ -7923,7 +7922,7 @@
 13928502				CLIMB Black Trail	mtb
 13928503				CLIMB Red Trail	mtb
 13937687	US:NY:STE			Southern Tier Expressway	road
-13957177	US:NY			New York State Reference Route 984C	road
+13957177	US:NY			NY 984C	road
 13957178	US:I:Future	86			road
 13959639	lcn			Trinity Avenue	bicycle
 13959640	lcn			161st Street	bicycle
@@ -8581,7 +8580,7 @@
 16315433	lcn				bicycle
 16330799	US:NY			NY 911V	road
 16336391	Nassau Inter-County Express	ELFX		NICE Elmont Flexi	bus
-16338148	US:NY			New York State Reference Route 900P	road
+16338148	US:NY			NY 900P	road
 16338762	US:NY			NY 900F	road
 16340774	US:NY			NY 906D	road
 16340775	US:NY			NY 906C	road
@@ -8683,8 +8682,8 @@
 16615147	US:NY			NY 913T	road
 16622873	US:NY			NY 948A	road
 16629200	US:NY			NY 958A	road
-16629256	US:NY			New York State Reference Route 908H	road
-16639218	US:NY			New York State Reference Route 981G	road
+16629256	US:NY			NY 908H	road
+16639218	US:NY			NY 981G	road
 16639570	US:NY:Westchester			Playland Parkway	road
 16648220	US:NY			NY 910D	road
 16648236	US:NY			NY 913V	road
@@ -8745,7 +8744,7 @@
 16736019				Bronx River Blueway	canoe
 16750955		NBSRWT		Northern Branch Susquehanna River Water Trail - Pennsylvania Great Bend	canoe
 16758013	lwn			Tusten Mountain Trail	hiking
-16766326				JFK Expressway	road
+16766326	US:NY	JFK		JFK Expressway	road
 16770958				Floodwood Mountain Trail	hiking
 16792361	lcn			Edward L. Grant Highway	bicycle
 16792362	lcn			Jerome Avenue	bicycle
@@ -10360,15 +10359,15 @@
 18739420	US:NY:Allegany	13A			road
 18739421	US:NY:Allegany	13B			road
 18739422	US:NY:Allegany	14			road
-18746623	US:NY			New York State Reference Route 987A	road
+18746623	US:NY			NY 987A	road
 18747401	US:PIPC			Arden Valley Road	road
 18747402	US:PIPC			Tiorati Brook Road	road
 18754259				Sackets Harbor and Saratoga Railroad	railway
-18754988	US:NY			New York State Reference Route 908F	road
+18754988	US:NY			NY 908F	road
 18756686	lwn			blue	hiking
 18756702	lwn			Yellow Trail	hiking
-18759363	US:NY			New York State Reference Route 907F	road
-18763059	US:NY			New York State Reference Route 908T	road
+18759363	US:NY			NY 907F	road
+18763059	US:NY			NY 908T	road
 18779405				Stewarts Bridge Dam Portage	portage
 18779406				Rockwell Falls Portage	portage
 18781797					portage
@@ -11329,3 +11328,83 @@
 20599916				Yellow Trail	hiking;horse
 20612391	lcn			Kingsland Avenue	bicycle
 20614811				Portage Trail	foot
+20621935	US:NY			NY 915Q	road
+20621936	US:NY			NY 915P	road
+20621937	US:NY			NY 915M	road
+20621938	US:NY			NY 915K	road
+20621939	US:NY				road
+20621940	US:NY				road
+20621941	US:NY			NY 915D	road
+20621942	US:NY			NY 915C	road
+20621943	US:NY			NY 914T	road
+20621944	US:NY			NY 914F	road
+20621945	US:NY			NY 914E	road
+20621946	US:NY			NY 914D	road
+20621947	US:NY			NY 914B	road
+20621948	US:NY			NY 913M	road
+20621949	US:NY			NY 913H	road
+20621950	US:NY			NY 913J	road
+20621951	US:NY			NY 913G	road
+20621952	US:NY			NY 913E	road
+20621953	US:NY			NY 913D	road
+20621954	US:NY			NY 913C	road
+20621955	US:NY			NY 913B	road
+20621956	US:NY			NY 912W	road
+20621957	US:NY			NY 912Q	road
+20621958	US:NY			NY 912M	road
+20621959	US:NY			NY 912G	road
+20621960	US:NY			NY 912F	road
+20621961	US:NY			NY 911T	road
+20621962	US:NY			NY 911P	road
+20621963	US:NY			NY 911H	road
+20621964	US:NY			NY 910U	road
+20621965	US:NY			NY 910P	road
+20621966	US:NY			NY 910M	road
+20621967	US:NY			NY 910J	road
+20621968	US:NY			NY 910G	road
+20621969	US:NY			NY 910F	road
+20621970	US:NY			NY 910B	road
+20622127	US:NY			NY 947A	road
+20622128	US:NY				road
+20622129	US:NY				road
+20622130	US:NY				road
+20622131	US:NY				road
+20622132	US:NY				road
+20622133	US:NY				road
+20622134	US:NY				road
+20622135	US:NY				road
+20622136	US:NY			NY 940U	road
+20622137	US:NY			NY 940J	road
+20622138	US:NY			NY 940D	road
+20622139	US:NY			NY 936F	road
+20622140	US:NY			NY 936E	road
+20622141	US:NY			NY 936D	road
+20622142	US:NY			NY 936C	road
+20622143	US:NY			NY 936B	road
+20622144	US:NY			NY 936A	road
+20622145	US:NY			NY 931P	road
+20622146	US:NY			NY 931M	road
+20622147	US:NY			NY 931L	road
+20622148	US:NY			NY 931K	road
+20622149	US:NY			NY 931J	road
+20622150	US:NY			NY 931H	road
+20622151	US:NY			NY 930Q	road
+20622152	US:NY			NY 930P	road
+20622153	US:NY			NY 930J	road
+20622154	US:NY			NY 930C	road
+20622155	US:NY			NY 930B	road
+20622156	US:NY			NY 926A	road
+20622157	US:NY			NY 922E	road
+20622158	US:NY			NY 922B	road
+20622159	US:NY			NY 922A	road
+20622160	US:NY			NY 921W	road
+20622161	US:NY			NY 921T	road
+20622162	US:NY			NY 921P	road
+20622163	US:NY			NY 921G	road
+20622164	US:NY			NY 921E	road
+20622165	US:NY			NY 921D	road
+20622166	US:NY			NY 921C	road
+20622167	US:NY			NY 921B	road
+20622168	US:NY			NY 920T	road
+20622169	US:NY			NY 920D	road
+20622170	US:NY			NY 920A	road
