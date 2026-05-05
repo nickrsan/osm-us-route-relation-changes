@@ -6914,7 +6914,7 @@
 11592526	lwn			Sagamore Lake Trail	hiking
 11592527	lwn			Beaverflow Trail	hiking
 11592924				Hudson River Brickyard Trail	hiking;bicycle;foot;running
-11598233	US:NY			LaSalle Expressway	road
+11598233	US:NY			NY 951A (LaSalle Expressway)	road
 11618862	NJ Transit	126		NJTB - 126 - Hoboken Terminal to New York via Washington Street	bus
 11618863	NJ Transit	126		NJTB - 126 - New York to Hamilton Park via Hoboken	bus
 11618864	NJ Transit	126		NJTB - 126 - Hoboken to New York via Clinton Street	bus
@@ -7259,7 +7259,7 @@
 12275986					road
 12275987					road
 12275988					road
-12275989	US:NY			Victory Boulevard	road
+12275989				Victory Boulevard	road
 12276460	US:NY:Clinton	58			road
 12276486	lwn			Green Trail	hiking
 12276487	lwn			Red Trail	hiking
@@ -7353,7 +7353,7 @@
 12305054	NYC Transit	B63		NYCB - B63 Bay Ridge --> Cobble Hill	bus
 12305083	NYC Transit	B45		NYCB - B45 Crown Heights Ralph Avenue --> Downtown Brooklyn Court Street	bus
 12308260	US:NY:Inner_Loop			Inner Loop	road
-12308261	US:NY			Beaver Island Parkway	road
+12308261	US:NY			NY 957B (Beaver Island Parkway)	road
 12309531	US:PIPC			Seven Lakes Drive	road
 12312948				Patterson Trail	piste
 12312949				Sweetwater Trail	piste
@@ -7399,7 +7399,7 @@
 12325874				Ocean Parkway	road
 12325875	US:NY:Parkway:NYC			Shore Front Parkway	road
 12325876	US:NY:Parkway:LI	O		Ocean Parkway	road
-12325877	US:NY			Bay Parkway	road
+12325877	US:NY			NY 909E (Bay Parkway)	road
 12325879				Whiteface Trail	piste
 12326155				Rockaway Boulevard	road
 12326769				Aries	piste
@@ -7731,7 +7731,7 @@
 12904240	rwn	LIGT		Long Island Greenbelt Trail	hiking
 12906971	lcn	NRT		Northport Rail Trail	bicycle
 12907124	Regional Transit Service	70	north	RTS 70 Seabreeze (N)	bus
-12911313	US:NY			Old NY 148;NY 54	road
+12911313				Old NY 148;NY 54	road
 12911382	US:NY			NY 920J	road
 12911384				Lincoln Street	road
 12913009	RTS Ontario	250		RTS 250 Canandaigua Transit Hub - VA Hospital	bus
@@ -8617,7 +8617,7 @@
 16408593	lwn			Dabes Diversion Loop	hiking
 16408594	lwn			Virgil Mt. Loop	hiking
 16412411	US:NY			NY 913Q	road
-16412465	US:NY			NY 950G	road
+16412465	US:NY			NY 950J	road
 16412855				Olean Bradford and Warren Narrow Gauge	railway
 16436246	US:NY			NY 960H	road
 16439946	US:NY			NY 984A	road
@@ -10609,7 +10609,6 @@
 19264231				Fairchild Hill - Rods Pond	horse
 19264232				Fairchild Hill - Smiths Field	horse
 19267267	lhn			Stoney Pond State Forest	horse
-19275151	lcn			Hamilton Avenue	bicycle
 19281663				Tappans Trail	horse
 19281664				Chestnut Trail	horse
 19281665				Gericke Farm Trail	hiking
@@ -11408,3 +11407,146 @@
 20622168	US:NY			NY 920T	road
 20622169	US:NY			NY 920D	road
 20622170	US:NY			NY 920A	road
+20622567	US:NY			NY 957C	road
+20622568	US:NY			NY 957A	road
+20622569	US:NY			NY 955C	road
+20622570	US:NY			NY 955B	road
+20622571	US:NY			NY 955A	road
+20622572	US:NY			NY 954V	road
+20622573	US:NY			NY 954P	road
+20622574	US:NY			NY 954K	road
+20622575	US:NY			NY 954F	road
+20622576	US:NY			NY 954E	road
+20622577	US:NY			NY 953C	road
+20622578	US:NY			NY 953B	road
+20622579	US:NY			NY 953A	road
+20622580	US:NY			NY 952W	road
+20622581	US:NY			NY 952V	road
+20622582	US:NY			NY 952T	road
+20622583	US:NY			NY 952P	road
+20622584	US:NY			NY 952M	road
+20622585	US:NY			NY 952J	road
+20622586	US:NY			NY 952H	road
+20622587	US:NY			NY 952G	road
+20622588	US:NY			NY 951M	road
+20622589	US:NY			NY 951L	road
+20622590	US:NY			NY 951K	road
+20622591	US:NY			NY 951J	road
+20622592	US:NY			NY 951H	road
+20622593	US:NY			NY 951E	road
+20622594	US:NY			NY 951B	road
+20622595	US:NY			NY 950U	road
+20622596	US:NY			NY 950E	road
+20622597	US:NY			NY 950D	road
+20622598	US:NY			NY 950C	road
+20627197	US:NY			NY 984P	road
+20627198	US:NY			NY 984D	road
+20627199	US:NY			NY 983W	road
+20627200	US:NY			NY 983G	road
+20627201	US:NY			NY 982P	road
+20627202	US:NY			NY 982L	road
+20627203	US:NY			NY 982K	road
+20627204	US:NY			NY 982Q	road
+20627205	US:NY			NY 982J	road
+20627206	US:NY			NY 982H	road
+20627207	US:NY			NY 982E	road
+20627208	US:NY			NY 982C	road
+20627209	US:NY			NY 982B	road
+20627210	US:NY			NY 981V	road
+20627211	US:NY			NY 981U	road
+20627212	US:NY			NY 983F	road
+20627213	US:NY			NY 981M	road
+20627214	US:NY			NY 981L	road
+20627215	US:NY			NY 981J	road
+20627216	US:NY			NY 981H	road
+20627217	US:NY				road
+20627218	US:NY			NY 980W	road
+20627219	US:NY			NY 980U	road
+20627220	US:NY			NY 984K	road
+20627221	US:NY			NY 980T	road
+20627222	US:NY			NY 980P	road
+20627223	US:NY			NY 980E	road
+20627224	US:NY			NY 980C	road
+20627225	US:NY			NY 972E	road
+20627226	US:NY			NY 972D	road
+20627227	US:NY			NY 972B	road
+20627228	US:NY			NY 972A	road
+20627229	US:NY			NY 971V	road
+20627230	US:NY			NY 971U	road
+20627231	US:NY			NY 971T	road
+20627232	US:NY			NY 971P	road
+20627233	US:NY			NY 971K	road
+20627234	US:NY			NY 971B	road
+20627235	US:NY			NY 971A	road
+20627236	US:NY			NY 970T	road
+20627237	US:NY			NY 970L	road
+20627238	US:NY			NY 970K	road
+20627239	US:NY			NY 970J	road
+20627240	US:NY			NY 970H	road
+20627241	US:NY			NY 970G	road
+20627242	US:NY			NY 970F	road
+20627243	US:NY			NY 970E	road
+20627244	US:NY			NY 962G	road
+20627245	US:NY			NY 962F	road
+20627246	US:NY			NY 962E	road
+20627247	US:NY			NY 962C	road
+20627248	US:NY			NY 962B	road
+20627249	US:NY			NY 962A	road
+20627250	US:NY			NY 961T	road
+20627251	US:NY			NY 961Q	road
+20627252	US:NY			NY 961M	road
+20627253	US:NY			NY 961L	road
+20627254	US:NY			NY 961J	road
+20627255	US:NY			NY 961H	road
+20627256	US:NY			NY 961G	road
+20627257	US:NY			NY 961A	road
+20627258	US:NY			NY 960U	road
+20627259	US:NY			NY 960M	road
+20627260	US:NY			NY 960J	road
+20627261	US:NY			NY 960B	road
+20628227				White Trail	hiking
+20628768	US:NY			NY 909G	road
+20628769	US:NY			NY 909D	road
+20628770	US:NY			NY 909C	road
+20628771	US:NY			NY 908M	road
+20628772	US:NY			NY 908L	road
+20628773	US:NY			NY 908K	road
+20628774	US:NY			NY 908J	road
+20628775	US:NY			NY 908G	road
+20628776	US:NY			NY 908E	road
+20628777	US:NY			NY 908C	road
+20628778	US:NY			NY 908B	road
+20628779	US:NY			NY 907P	road
+20628780	US:NY			NY 907M	road
+20628781	US:NY			NY 907L	road
+20628782	US:NY			NY 907J	road
+20628783	US:NY			NY 907E	road
+20628784	US:NY			NY 907D	road
+20628785	US:NY			NY 907C	road
+20628786	US:NY			NY 907B	road
+20628787	US:NY			NY 901C	road
+20628788	US:NY			NY 901B	road
+20628789	US:NY			NY 901A	road
+20628790	US:NY			NY 900J	road
+20628791	US:NY			NY 900G	road
+20628792	US:NY			NY 900D	road
+20628793	US:NY			NY 900C	road
+20628794	US:NY			NY 900A	road
+20628795	US:NY			NY 992Q	road
+20628796	US:NY			NY 992P	road
+20628797	US:NY			NY 992L	road
+20628798	US:NY			NY 992K	road
+20628799	US:NY			NY 992J	road
+20628800	US:NY			NY 992H	road
+20628801	US:NY			NY 992E	road
+20628802	US:NY			NY 991T	road
+20628803	US:NY			NY 991L	road
+20628804	US:NY			NY 991J	road
+20628805	US:NY			NY 991H	road
+20628806	US:NY			NY 991F	road
+20628807	US:NY			NY 991D	road
+20628808	US:NY			NY 991A	road
+20628809	US:NY			NY 990T	road
+20628810	US:NY			NY 990J	road
+20628811	US:NY			NY 990G	road
+20628812	US:NY			NY 990F	road

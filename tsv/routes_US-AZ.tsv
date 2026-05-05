@@ -319,8 +319,8 @@
 4499183	Valley Metro	27 SB	south	bus 27 SB	bus
 4499184	Valley Metro	28 EB	east	bus 28 EB	bus
 4499185	Valley Metro	28 WB	west	bus 28 WB	bus
-4499186	Valley Metro	29 EB	east	bus 29 EB	bus
-4499187	Valley Metro	29 WB	west	bus 29 WB	bus
+4499186	Valley Metro	29	east		bus
+4499187	Valley Metro	29	west		bus
 4499188	Valley Metro	3 EB	east	Bus 3 - Van Buren Eastbound	bus
 4499189	Valley Metro	3 WB	west	Bus 3 - Van Buren Westbound	bus
 4499190	Valley Metro	30 WB	west	bus 30 WB	bus
@@ -416,7 +416,7 @@
 4681197	US:AZ:Business			AZ 40 Business	road
 4681221	US:I:Business:Spur	40		"I 40 Business Spur (Winslow, AZ)"	road
 4681322	US:AZ:Business			State Business Route 8	road
-4681385	US:AZ:Loop	303		AZ 303 Loop (North)	road
+4681385	US:AZ:Loop	303	north		road
 4682079				Historic US 80 Marsh Station Loop	road
 4683397				Tucson Cloverleaf Circa 1958	road
 4683731	US:US	163			road
@@ -835,7 +835,7 @@
 8307485	rwn			Hayduke Trail #9	hiking
 8503489				AZ 989	road
 8503555	US:AZ	79		AZ 79	road
-8507235	US:AZ:Maricopa				road
+8507235	US:AZ:Maricopa	85			road
 8633477	lwn			Schmutz Spring Trail	hiking
 8633478	lwn			Brady Hollow Trail	hiking
 8633490	lwn			Saddle Horse Loop	hiking
@@ -898,7 +898,7 @@
 8729959	Valley Metro	S		Tempe Streetcar WB	tram
 8803549					railway
 8803552					railway
-9090208	US:AZ:Loop	303		AZ 303 Loop (South)	road
+9090208	US:AZ:Loop	303	south		road
 9097924				Nogales Subdivision	railway
 9097925				UP Phoenix Subdivision	railway
 9098101				"Tucson, Cornelia and Gila Bend Railroad"	railway

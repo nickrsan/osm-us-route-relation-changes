@@ -4899,7 +4899,7 @@
 13271843	Eastern Sierra Transit	Yellow (Summer)		Mammoth Bike Park Shuttle (Summer only)	bus
 13272406	rcn	SMART		SMART Multi-Use Path	bicycle
 13354614				West Basin Lead	railway
-13370805	Eastern Sierra Transit	Tecopa to Pahrump		Tecopa to Pahrump	bus
+13370805	Eastern Sierra Transit				bus
 13370836	US:US:Business	101			road
 13370886	Eastern Sierra Transit	LPX		Lone Pine Express	bus
 13371483	YARTS	MAMMOTH - HWY 120/395		MAMMOTH LAKES HWY 120E/395	bus
@@ -4992,14 +4992,14 @@
 13566784	SunLine Transit Agency	1		Coachella Via Hwy 111 Palm Springs	bus
 13571185	Eastern Sierra Transit	395 SOUTH		Mammoth Lakes to Lancaster Route (395 SOUTH)	bus
 13571748	Ridgerunner Transit	L4		Inyokern/Joshua Tree L4	bus
-13579725	Ridgerunner Transit	Mid-Day Express		Mid-Day Express	bus
+13579725	Ridgerunner Transit			Mid-Day Express	bus
 13592133	Ridgerunner Transit	L3		Rattlesnake L3	bus
 13592238	Ridgerunner Transit	L1		Coyote L1	bus
 13603753	Mountain Transit	Red		Big Bear Red Line	bus
 13613880	Amtrak Thruway	19		Route 19 - Bakersfield • Pasadena • Riverside • San Bernadino	bus
 13618498	Eastern Sierra Transit	MMX		Mammoth Express	bus
 13625154	Eastern Sierra Transit	Reds Meadow Shuttle		REDS MEADOW - DEVILS POSTPILE  SHUTTLE	bus
-13625348	Ridgerunner Transit	L2		Roadrunner L2	bus
+13625348	Ridgerunner Transit	L2			bus
 13631763		Yellow (Winter)			bus
 13643533	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Bristol & Centinela (weekday evenings)	bus
 13643534	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (weekdays)	bus
@@ -7609,3 +7609,6 @@
 20611598	US:I:Business:Loop	10		"I 10 Business (Blythe, CA)"	road
 20611863	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Colton–Fontana, CA)"	road
 20618228	lcn			West Little Llagas Creek Trail	bicycle
+20626950	US:RM	143		Pinnacle Road	road
+20627276					road
+20627277	lwn			Sentinel Dome Trail	hiking
