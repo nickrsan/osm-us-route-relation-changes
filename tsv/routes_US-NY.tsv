@@ -450,6 +450,7 @@
 415934	US:NY:Saratoga	94		Saratoga County Route 94	road
 416026	US:NY:Saratoga	1345		Saratoga County Route 1345	road
 416027	US:NY:Saratoga	109		Saratoga County Route 109	road
+416338	US:US	11			road
 417195	US:US	202			road
 417534	US:NY	384			road
 418069	US:NY:Parkway			Niagara Scenic Parkway	road
@@ -4407,7 +4408,7 @@
 5540099					ferry
 5540100					ferry
 5552336				"Fonda, Gloversville & Johnstown Electric Railway"	railway
-5553228	Nassau Inter-County Express	n33		NICE n33	bus
+5553228	Nassau Inter-County Express	n33	west		bus
 5553431	Nassau Inter-County Express	n23		NICE n23	bus
 5553668					ferry
 5554133	Nassau Inter-County Express	n20H		NICE n20H	bus
@@ -7977,7 +7978,7 @@
 14260725	lcn			33rd Ave Bike Blvd	bicycle
 14263146				Siwanoy Trail	foot
 14264133	LIRR	Montauk		LIRR Montauk Branch: New York Penn <=> Jamaica <=> Montauk	train
-14266207	Nassau Inter-County Express	n33		NICE n33	bus
+14266207	Nassau Inter-County Express	n33	east		bus
 14268493	NYC Transit	B68		NYCB - B68: Coney Island => Windsor Terrace	bus
 14304922	US:NY:Dutchess	50		Dutchess County Route 50	road
 14304956	US:NY:Dutchess	114		Dutchess County Route 114	road
@@ -11550,3 +11551,11 @@
 20628810	US:NY			NY 990J	road
 20628811	US:NY			NY 990G	road
 20628812	US:NY			NY 990F	road
+20632125	US:NY:Nassau			CR 22 (unsigned)	road
+20632126	US:NY:Nassau			CR 231 (unsigned)	road
+20632226	US:US:Express			US 46 Express Lanes (NJ)	road
+20632227	US:US:Express	9		US 9 Express Lanes (NJ)	road
+20632228	US:US:Express	1		US 1 Express Lanes (NJ)	road
+20632449	US:CT			SR 850	road
+20632459	US:CT			SR 839	road
+20632472	US:CT			SR 813	road

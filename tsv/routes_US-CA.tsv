@@ -1448,7 +1448,6 @@
 3343709	lcn	126M			mtb
 3372485	US:CA	78	west		road
 3392118				HVDC Pacific Intertie	
-3392214				HVDC Intermountain	power
 3395856				1926-1934 US 66/US 99 concurrency (Altadena Drive)	road
 3395857				1926-1934 US 66/US 99 concurrency (Foothill Boulevard)	road
 3395858				1926-1934 US 66/US 99 concurrency (Colorado Boulevard)	road
@@ -7612,3 +7611,4 @@
 20626950	US:RM	143		Pinnacle Road	road
 20627276					road
 20627277	lwn			Sentinel Dome Trail	hiking
+20632703	lcn			Livermore 3rd Street Connector	bicycle
