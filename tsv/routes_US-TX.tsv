@@ -1067,7 +1067,7 @@
 1930445	US:TX:FM	2405			road
 1930446	US:TX:FM	1086			road
 1931843				"San Antonio, Fredericksburg, and Northern Railroad (Abandoned)"	railway
-1932069	US:TX:Fort_Bend:FBCTRA			Fort Bend Parkway Toll Road	road
+1932069	US:TX:Fort_Bend:FBCTRA	FBP		Fort Bend Parkway Toll Road	road
 1932070	US:TX:Harris:HCTRA			Fort Bend Toll Road	road
 1937797	US:TX	161			road
 1937798	US:TX:NTTA	PGBT		President George Bush Turnpike	road
@@ -2415,7 +2415,7 @@
 2320398					road
 2320401				STRAHNET: Van Horn-San Antonio	road
 2320402				STRAHNET route: Victoria - Longview	road
-2329203	US:I	69			road
+2329203	US:I:Future	69			road
 2335783	US:I	35	north		road
 2335784	US:I	35	south		road
 2340911	lcn	31			bicycle
@@ -11874,3 +11874,4 @@
 20506138	DART	244		Bus 244: UT Dallas Station -> Arapaho Center Station	bus
 20517123				Longhorn Army Ammunition Plant	railway
 20590974	US:US	HR 66		Original US 66	road
+20641244	lwn			Waller Creek Trail	foot

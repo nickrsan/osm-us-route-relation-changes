@@ -29,7 +29,7 @@
 149800	lcn	BBC Hamburg TT Race Course		BBC Hamburg TT Race Course	bicycle
 149807	lcn	Hamburg Criterium Race Course		Hamburg Criterium Race Course	bicycle
 157589	US:NY	32			road
-161599	US:US	9			road
+161599	US:US	9		U.S. Route 9 (NY)	road
 165109	US:I	90	east		road
 165312	lcn	BBC West Tillen Hill Climb TT		BBC West Tillen Hill Climb TT	bicycle
 169111	US:I	99			road
@@ -1272,7 +1272,7 @@
 2273559				Harlem River Branch	railway
 2273561				Beacon Line	railway
 2297230	US:US	1			road
-2297234	US:US	1			road
+2297234	US:US	1		U.S. Route 1 (NY)	road
 2298942	US:US	209			road
 2298943	US:US	209			road
 2298945	US:US	9			road
@@ -8745,7 +8745,7 @@
 16736019				Bronx River Blueway	canoe
 16750955		NBSRWT		Northern Branch Susquehanna River Water Trail - Pennsylvania Great Bend	canoe
 16758013	lwn			Tusten Mountain Trail	hiking
-16766326	US:NY	JFK		JFK Expressway	road
+16766326		JFK		JFK Expressway	road
 16770958				Floodwood Mountain Trail	hiking
 16792361	lcn			Edward L. Grant Highway	bicycle
 16792362	lcn			Jerome Avenue	bicycle
@@ -11553,9 +11553,6 @@
 20628812	US:NY			NY 990F	road
 20632125	US:NY:Nassau			CR 22 (unsigned)	road
 20632126	US:NY:Nassau			CR 231 (unsigned)	road
-20632226	US:US:Express			US 46 Express Lanes (NJ)	road
-20632227	US:US:Express	9		US 9 Express Lanes (NJ)	road
-20632228	US:US:Express	1		US 1 Express Lanes (NJ)	road
 20632449	US:CT			SR 850	road
 20632459	US:CT			SR 839	road
 20632472	US:CT			SR 813	road

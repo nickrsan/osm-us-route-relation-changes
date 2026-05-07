@@ -592,7 +592,7 @@
 2320025					road
 2322039	US:I	55	north		road
 2322040	US:I	55	south		road
-2329203	US:I	69			road
+2329203	US:I:Future	69			road
 2795760	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => San Antonio	train
 2928982	US:AR	151			road
 3013705	US:OK	20			road

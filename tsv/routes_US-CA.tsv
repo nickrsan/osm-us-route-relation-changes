@@ -3398,10 +3398,10 @@
 9372945	Flixbus	2062		Flixbus 2062: San Francisco => Sacramento	bus
 9373820	Flixbus	N2003		Flixbus N2003: San Francisco => San Diego	bus
 9373821	Flixbus	N2003		Flixbus N2003: San Diego => San Francisco	bus
-9374081	Flixbus	2009			bus
-9374082	Flixbus	2009			bus
-9374083	Flixbus	2009		Flixbus 2009: Los Angeles => Las Vegas/Henderson	bus
-9374084	Flixbus	2009		Flixbus 2009: Los Angeles/Anaheim => Las Vegas/Henderson	bus
+9374081	Flixbus	2009	west		bus
+9374082	Flixbus	2009	west		bus
+9374083	Flixbus	2009	east		bus
+9374084	Flixbus	2009	east		bus
 9374252	Flixbus	2016		Flixbus 2016: Las Vegas => San Diego	bus
 9374253	Flixbus	2016		Flixbus 2016: San Diego => Las Vegas	bus
 9377390	Chaminade			Blue Trail	foot
@@ -7606,9 +7606,10 @@
 20608295	US:CA:Business:Loop	60		"CA 60 Business (Riverside, CA)"	road
 20609319	US:I:Business:Loop	10		"I 10 Business (Pomona–Ontario, CA)"	road
 20611598	US:I:Business:Loop	10		"I 10 Business (Blythe, CA)"	road
-20611863	US:I:Business:Loop:Decommissioned	10		"I 10 Business (Colton–Fontana, CA)"	road
+20611863	US:I:Business:Loop	10		"I 10 Business (Colton–Fontana, CA)"	road
 20618228	lcn			West Little Llagas Creek Trail	bicycle
 20626950	US:RM	143		Pinnacle Road	road
 20627276					road
 20627277	lwn			Sentinel Dome Trail	hiking
 20632703	lcn			Livermore 3rd Street Connector	bicycle
+20633098	US:US:Historic	99			road
