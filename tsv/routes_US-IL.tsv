@@ -2726,7 +2726,7 @@
 18071233				Kenwood Branch	historic
 18071636				Chicago Junction Railway	historic
 18117018	lcn				bicycle
-18129481	lcn			Logan Boulavard	bicycle
+18129481	lcn	Logan		Logan Boulavard	bicycle
 18129482	lcn			Rockwell Street	bicycle
 18137078	lcn			The Garden Dirt Jumps	mtb
 18139768	lcn			Roscoe	bicycle
@@ -3225,3 +3225,5 @@
 20605172	US:IL			County Road 200 North	road
 20609282					detour
 20641261				Kimes Road	road
+20657859	lcn			Kedzie	bicycle
+20657860	lcn			Logan	bicycle
