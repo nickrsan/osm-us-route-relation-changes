@@ -4440,7 +4440,7 @@
 5621912				1777 E Trail	hiking
 5622148				Washburn Trail	hiking
 5622171	lcn			Breakneck Ridge Trail	hiking
-5622176				Wilkinson Memorial Trail (yellow)	hiking
+5622176				Wilkinson Memorial Trail	hiking
 5622186				Breakneck Ridge Trail (White)	hiking
 5622225				Nelsonville Trail	hiking
 5622235				Cornish Trail	hiking
@@ -4701,7 +4701,7 @@
 6309611				White Cross Trail	hiking
 6311232	lwn				hiking
 6330771	lwn			Carpenter Spur	hiking
-6335422	rwn			Highlands Trail	hiking
+6335422				Highlands Trail	hiking
 6338914				Kaaterskill High Peak Trail	lwn
 6340272	lwn			Rock Shelter Trail	hiking
 6342927	NYC Subway	S		NYCS - S Rockaway Park Shuttle: Broad Channel → Rockaway Park	subway
@@ -11556,3 +11556,4 @@
 20632449	US:CT			SR 850	road
 20632459	US:CT			SR 839	road
 20632472	US:CT			SR 813	road
+20660041				Highlands Trail	hiking

@@ -1295,7 +1295,7 @@
 2810528	US:US:Historic	6			road
 2810807	US:CA	14U			road
 2810818	Metro Rail	B		Metro B Line: North Hollywood → Union Station	subway
-2810819	Metro Rail	D		Metro D Line: Wilshire/Western → Union Station	subway
+2810819	Metro Rail	D		Metro D Line: Wilshire/La Cienega → Union Station	subway
 2812898	Amtrak	Pacific Surfliner		Amtrak Pacific Surfliner: San Diego => San Luis Obispo	train
 2812899	Metrolink	Orange County		Metrolink Orange County Line: Los Angeles => Oceanside	train
 2812900	Amtrak	Coast Starlight		Amtrak Coast Starlight: Seattle => Los Angeles	train
@@ -2326,7 +2326,7 @@
 7916804				Peninsula Subdivision	railway
 7935052	Metro Rail	C		Metro C Line: Norwalk → LAX/Metro Transit Center	light_rail
 7935165	lwn			River Trail Pedestrian	hiking
-7935312	Metro Rail	D		Metro D Line: Union Station → Wilshire/Western	subway
+7935312	Metro Rail	D		Metro D Line: Union Station → Wilshire/La Cienega	subway
 7935321	Metro Rail	B		Metro B Line: Union Station → North Hollywood	subway
 7937987	lhn			Pogonip Equestrian	horse
 7953300	lcn	42Z			bicycle
@@ -7604,9 +7604,9 @@
 20605171	US:Auto:Trail	Arrowhead		Arrowhead Trail	road
 20605411	US:CA:Unconstructed	81			road
 20608295	US:CA:Business:Loop	60		"CA 60 Business (Riverside, CA)"	road
-20609319	US:I:Business:Loop	10		"I 10 Business (Pomona–Ontario, CA)"	road
+20609319	US:I:Business:Loop:Old	10		"I 10 Business (Pomona–Ontario, CA)"	road
 20611598	US:I:Business:Loop	10		"I 10 Business (Blythe, CA)"	road
-20611863	US:I:Business:Loop	10		"I 10 Business (Colton–Fontana, CA)"	road
+20611863	US:I:Business:Loop:Old	10		"I 10 Business (Colton–Fontana, CA)"	road
 20618228	lcn			West Little Llagas Creek Trail	bicycle
 20626950	US:RM	143		Pinnacle Road	road
 20627276					road
