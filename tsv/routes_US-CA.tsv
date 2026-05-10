@@ -7604,12 +7604,11 @@
 20605171	US:Auto:Trail	Arrowhead		Arrowhead Trail	road
 20605411	US:CA:Unconstructed	81			road
 20608295	US:CA:Business:Loop	60		"CA 60 Business (Riverside, CA)"	road
-20609319	US:I:Business:Loop:Old	10		"I 10 Business (Pomona–Ontario, CA)"	road
 20611598	US:I:Business:Loop	10		"I 10 Business (Blythe, CA)"	road
-20611863	US:I:Business:Loop:Old	10		"I 10 Business (Colton–Fontana, CA)"	road
 20618228	lcn			West Little Llagas Creek Trail	bicycle
 20626950	US:RM	143		Pinnacle Road	road
 20627276					road
 20627277	lwn			Sentinel Dome Trail	hiking
 20632703	lcn			Livermore 3rd Street Connector	bicycle
 20633098	US:US:Historic	99			road
+20666964	US:I:Business:Loop	10		"I 10 Business (Indio, CA)"	road
