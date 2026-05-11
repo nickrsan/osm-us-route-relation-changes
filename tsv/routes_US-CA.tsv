@@ -1679,7 +1679,6 @@
 3871740	lwn			Cowell-Purisima Trail	hiking
 3912148	lwn			Camp Creek National Recreation Trail	hiking
 3914750				Historic Path of Chavez Ravine Road	road
-3914942				"Historic US 66 (CA, 1926)"	road
 3921621				Gerald Ford Drive	road
 3925077				Riverdale Subdivision	railway
 3936006				Oil City Subdivision	railway
@@ -7612,3 +7611,6 @@
 20632703	lcn			Livermore 3rd Street Connector	bicycle
 20633098	US:US:Historic	99			road
 20666964	US:I:Business:Loop	10		"I 10 Business (Indio, CA)"	road
+20670679	lwn			Johnson Falls Trail	hiking
+20670831	lwn;lcn			John Whelan Loop	foot
+20670832	lwn			The Graveyard Loop	foot
