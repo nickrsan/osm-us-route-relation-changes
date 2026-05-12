@@ -4224,8 +4224,8 @@
 10972874	VTA	26		VTA 26: Eastridge Transit Center => West Valley College	bus
 10975923	VTA	44		VTA 44: Milpitas BART => McCarthy Ranch	bus
 10975924	VTA	44		VTA 44: McCarthy Ranch => Milpitas BART	bus
-10979153	VTA	59		VTA 59: Valley Fair => Baypointe	bus
-10979154	VTA	59		VTA 59: Baypointe => Valley Fair	bus
+10979153	VTA	59		VTA 59: Valley Med => Baypoint	bus
+10979154	VTA	59		VTA 59: Baypointe => Valley Med	bus
 10979746	VTA	70		VTA 70: Berryessa BART => Eastridge Transit Center	bus
 10979747	VTA	70		VTA 70: Eastridge Transit Center => Berryessa BART	bus
 10982984	VTA	20		VTA 20: Sunnyvale Transit Center => Milpitas BART	bus
@@ -7614,3 +7614,6 @@
 20670679	lwn			Johnson Falls Trail	hiking
 20670831	lwn;lcn			John Whelan Loop	foot
 20670832	lwn			The Graveyard Loop	foot
+20674498	lwn;lcn			Infinity Hill	hiking;mtb
+20674499	lwn			Etna High School Cross Country Course	foot
+20674632	VTA				bus
