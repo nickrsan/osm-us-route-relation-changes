@@ -809,10 +809,10 @@
 5422694	Pace	354		Harvey - Oak Forest Loop	bus
 5432270	Pace	356	east	Bus 356: DeVry University => Pace Harvey Transportation Center	bus
 5446243	Pace	357	west	Bus 357: Woodlawn/13th Place -> Lawrence Manor	bus
-5454054	Pace	358		Torrence	bus
+5454054	Pace	358	south	Bus 358: Hegewisch South Shore Line Station => Pace Chicago Heights Terminal	bus
 5459488	Pace	359	south	Bus 359: 95th Dan/Ryan CTA Station -> Homewood Metra Station	bus
 5461486	Pace	364	west	Bus 364: Hegewisch South Shore Line Station => Herion/Wheeler	bus
-5461886	Pace	366		Park Forest - Chicago Heights	bus
+5461886	Pace	366	west	Bus 366: Pace Chicago Heights Terminal => Downtown Park Forest	bus
 5487235	US:NR			National Road (IN)	road
 5501426	US:IL:Will	6			road
 5501427	US:IL:Lake	W32			road
@@ -863,7 +863,7 @@
 6403777	Pace	472		Highland Park - Highwood	bus
 6445457	CTA	130	east	Bus 130: Ogilvie Transit Center -> Museum Campus	bus
 6498187	Pace	905	north	Bus 905: Pace Northwest Transportation Center => Renaissance Schaumburg Hotel and Convention Center	bus
-6518827	Pace	626		Skokie – Buffalo Grove Limited	bus
+6518827	Pace	626	north	Bus 626: Dempster-Skokie CTA Station => Lincolnshire Business Center	bus
 6573646	lcn	RC		Richland Creek Bikeway	bicycle
 6580415	rcn	RRT		Ramblin' River Bike Tour	bicycle
 6624741	lcn	MBL		Metro Bike Link Trail	bicycle
@@ -3228,3 +3228,10 @@
 20657859	lcn			Kedzie	bicycle
 20657860	lcn			Logan	bicycle
 20663087					road
+20684343	Pace	626	south	Bus 626: Lincolnshire Business Center => Dempster-Skokie CTA Station	bus
+20684410	Pace	358	north	Bus 358: Pace Chicago Heights Terminal => Hegewisch South Shore Line Station	bus
+20684466	Pace	366	east	Bus 366: Downtown Park Forest => Pace Chicago Heights Terminal	bus
+20684475	Pace	358	north	Bus 358: Pace Chicago Heights Terminal => River Oaks	bus
+20684476	Pace	358	south	Bus 358: River Oaks => Pace Chicago Heights Terminal	bus
+20685300	Pace	626	south	Bus 626: Buffalo Grove Metra Station => Dempster-Skokie CTA Station	bus
+20685301	Pace	626	north	Bus 626: Dempster-Skokie CTA Station => Buffalo Grove Metra Station	bus

@@ -7447,7 +7447,7 @@
 20293144	AC Transit	22		AC Transit 22: Downtown Berkeley => Grand Lake District	bus
 20296004	AC Transit	27		AC Transit 27: Emeryville Amtrak => El Cerrito Plaza BART	bus
 20296005	AC Transit	27		AC Transit 27: El Cerrito Plaza BART => Emeryville Amtrak	bus
-20297161	US:US:Historic	99			road
+20297161	US:US:Historic	99		Historic Route 99	road
 20301356	AC Transit	31		AC Transit 31: Bay Farm Island => Skyline High School	bus
 20301357	AC Transit	31		AC Transit 31: Bay Farm Island => Chabot Space and Science Center	bus
 20301358	AC Transit	31		AC Transit 31: Skyline High School => Bay Farm Island	bus
@@ -7617,3 +7617,4 @@
 20674498	lwn;lcn			Infinity Hill	hiking;mtb
 20674499	lwn			Etna High School Cross Country Course	foot
 20674632	VTA				bus
+20684514	lcn			Johnny Cash Trail	bicycle

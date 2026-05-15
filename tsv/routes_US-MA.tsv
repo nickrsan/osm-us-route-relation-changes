@@ -41,7 +41,7 @@
 1262921				Harborwalk Charlestown	foot
 1269021				Northeast Corridor	railway
 1272209				Forest Path	
-1343722	US:MA	1A		MA 1A	road
+1343722	US:MA	1A			road
 1343813	US:MA	228			road
 1343814	US:MA	286			road
 1343817	US:MA	240			road
@@ -58,14 +58,14 @@
 1344099	US:MA	187			road
 1344100	US:MA	189			road
 1344101	US:MA	186			road
-1344108	US:MA	177		MA 177	road
+1344108	US:MA	177			road
 1344109	US:MA	181			road
 1344110	US:MA	169			road
 1344111	US:MA	159			road
 1344112	US:MA	168			road
 1344166	US:MA	149			road
 1344167	US:MA	150			road
-1344168	US:MA	152		MA 152	road
+1344168	US:MA	152			road
 1344169	US:MA	151			road
 1344170	US:MA	148			road
 1344304	US:MA	147			road
@@ -78,7 +78,7 @@
 1345170	US:MA	140			road
 1345179	US:MA	139			road
 1345181	US:MA	25			road
-1345182	US:MA	24		MA 24	road
+1345182	US:MA	24			road
 1345183	US:MA	3			road
 1345184	US:MA	128			road
 1345212	US:MA	2			road
@@ -166,8 +166,8 @@
 1346787	US:MA	121			road
 1346788	US:MA	119			road
 1346795	US:MA	122A			road
-1346820	US:MA	122		MA 122	road
-1346840	US:MA	123		MA 123	road
+1346820	US:MA	122			road
+1346840	US:MA	123			road
 1346850	US:MA	125			road
 1346851	US:MA	124			road
 1346902	US:MA	129			road
@@ -188,7 +188,7 @@
 1347953	US:RI	98			road
 1347954	US:RI	96			road
 1347958	US:RI	103			road
-1347998	US:MA	114A		MA 114A	road
+1347998	US:MA	114A			road
 1348018	US:RI	120			road
 1348019	US:RI	121			road
 1348034	US:RI	126			road
@@ -467,7 +467,7 @@
 7699375	lwn			Groton Town Forest Race 3.4 Mile Loop	foot
 7699376	lwn			Town Forest Loop Trail	foot
 7767183				Patriot Corridor	railway
-7841987	US:MA	15		MA 15	road
+7841987	US:MA				road
 7874284	MBTA	Red		MBTA Red Line: Ashmont → Alewife	subway
 7874285	MBTA	Red		MBTA Red Line: Alewife → Braintree	subway
 7874286	MBTA	Red		MBTA Red Line: Braintree → Alewife	subway
@@ -1639,7 +1639,7 @@
 18458519	MBTA	121		121 Inbound: Eagle Square => Maverick Station	bus
 18469016	MBTA	120		120 Outbound: Maverick Station => Orient Heights Station	bus
 18469017	MBTA	120		120 Inbound: Orient Heights Station => Maverick Station via Jefferies Point	bus
-18491656	US:MA	128		Former Circumferential Highway Alignment	historic
+18491656	US:MA:old	128		Former Circumferential Highway Alignment	historic
 18508440	MBTA	119		119 Outbound: Beachmont Station => Northgate	bus
 18508441	MBTA	119		119 Inbound: Northgate => Beachmont Station	bus
 18522321				Yankee Doodle Bike Path	
@@ -1815,3 +1815,5 @@
 20613277				Georgetown-Byfield Rail Trail	bicycle
 20613285				Georgetown Branch	railway
 20614489				Wakefield Branch	railway
+20685191	US:RI				road
+20686625	US:MA				road
