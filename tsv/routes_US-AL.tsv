@@ -1,6 +1,5 @@
 @id	network	ref	direction	name	route
 23167	US:MS	12			road
-111060	US:I	22			road
 132290	US:I	65	north		road
 214808				Montevallo Saturday Ride	bicycle
 239393				VES Morning 00-05	bus
@@ -344,8 +343,8 @@
 1723609	US:FL			10 (mostly unsigned)	road
 1723612	US:FL				road
 1736288	US:FL			8 (unsigned)	road
-1745479	US:AL	21			road
-1745480	US:AL	21			road
+1745479	US:AL:Business	21			road
+1745480	US:AL:Bypass	21			road
 1745481	US:AL:Truck	47			road
 1783178	rcn	C1			bicycle
 1783179	rcn	C10			bicycle
@@ -917,7 +916,7 @@
 17138894	US:AL:Macon	69			road
 17141401	US:AL:Macon	26			road
 17350683					foot
-17609308	US:AL			County Road 22	road
+17609308	US:AL:Wilcox			County Road 22	road
 17702514	US:AL:Blount	15			road
 17702515	US:AL:Blount	19			road
 17751064	US:AL:Autauga	1			road
@@ -982,7 +981,7 @@
 18262417	US:AL:Macon	17			road
 18262418	US:AL:Macon	48			road
 18262419	US:AL:Macon	30			road
-18264657	US:AL:Macon	15			road
+18264657	US:AL:Macon	51			road
 18264658	US:AL:Macon	36			road
 18264659	US:AL:Macon	1			road
 18264660	US:AL:Macon	23			road
@@ -1191,3 +1190,4 @@
 20658920	US:AL:Geneva	45			road
 20658921	US:AL:Geneva	57			road
 20658922	US:AL:Geneva	34			road
+20690709	US:AL	304			road

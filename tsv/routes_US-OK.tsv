@@ -2957,8 +2957,8 @@
 14367465	US:OK:Kay	N3360			road
 14367466	US:OK:Kay	N3370			road
 14370270	US:OK:Payne	E0600			road
-14370495	US:OK	344	north	OK 344 (north)	road
-14370496	US:OK	344	south	OK 344 (south)	road
+14370495	US:OK	344	north	Gilcrease Expressway	road
+14370496	US:OK	344	south	Gilcrease Expressway	road
 14375583	US:OK:LeFlore	N4570			road
 14375584	US:OK:LeFlore	N4580			road
 14375585	US:OK:LeFlore	N4590			road
@@ -3137,8 +3137,6 @@
 15626493	US:OK:Rogers	S4200			road
 15658160	US:OK	59B			road
 15669889	US:OK:Sequoyah	N4802			road
-15713643	US:OK:Turnpike		north	Gilcrease Expressway (north)	road
-15713644	US:OK:Turnpike		south	Gilcrease Expressway (south)	road
 15735160	US:OK:Turnpike			Cimarron Turnpike Spur	road
 15767420	US:OK:Turnpike			Creek Turnpike	road
 15848595	US:OK:Kay	E0250			road
