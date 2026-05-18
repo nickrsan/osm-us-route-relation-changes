@@ -4818,7 +4818,6 @@
 12881965					bicycle
 12882298					bicycle
 12882307	lwn			Rays Gulch Trail	hiking
-12882309	lwn			Chilkoot Trail	hiking
 12882462	ncn	95	south		bicycle
 12885614					power
 12885615				SVM 115 kV Tranmission Line	power
@@ -7618,3 +7617,5 @@
 20674499	lwn			Etna High School Cross Country Course	foot
 20674632	VTA				bus
 20684514	lcn			Johnny Cash Trail	bicycle
+20701146	US:US:Business	101	north		road
+20701147	US:US:Business	101	south		road
