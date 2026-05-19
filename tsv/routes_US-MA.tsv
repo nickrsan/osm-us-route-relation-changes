@@ -1324,7 +1324,7 @@
 15690353		16		Atlantic-Pacific Connector	hiking
 15708799				Lowell & Lawrence Railroad	
 15750437				Holyoke Street Railway Amherst and Sunderland Division	railway
-15767046	lcn			Cape Cod Rail Trail Extension Phase 3	
+15767046	lcn	CCRT		Cape Cod Rail Trail Extension Phase 3	bicycle
 15930144	lwn			Red Trail	foot
 15930145	lwn			Blue Trail	foot
 15930147	lwn			White Trail	foot
@@ -1817,3 +1817,4 @@
 20614489				Wakefield Branch	railway
 20685191	US:RI				road
 20686625	US:MA				road
+20703468				Sunnyside Road	road

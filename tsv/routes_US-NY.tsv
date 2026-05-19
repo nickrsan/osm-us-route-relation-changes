@@ -1384,7 +1384,7 @@
 2881379				Richfield Springs Branch	
 2896665	US:NY	495		New York 495	road
 2904539	NYC Transit	Q1		NYCB - Q1 Jamaica Center --> Bellerose	bus
-2904543	NYC Transit	Q2		NYCB - Q2 Jamaica Bus Terminal --> Queens Village	bus
+2904543	NYC Transit	Q2		NYCB - Q2 Jamaica Bus Terminal --> UBS Arena	bus
 2904582	NYC Transit	Q3		NYCB - Q3 Hillside Av / 165 St --> JFK Terminal 5	bus
 2904637	NYC Transit	Q4		NYCB - Q4 Jamaica Center --> Cambria Heights	bus
 2904661	NYC Transit	Q5		NYCB - Q5 Jamaica Center --> Rosedale LIRR	bus
@@ -1413,7 +1413,7 @@
 2908806	NYC Transit	Q27		NYCB - Q27 Downtown Flushing --> Laurelton	bus
 2908810	NYC Transit	Q28		NYCB - Q28 Downtown Flushing --> Bay Terrace	bus
 2908824	NYC Transit	Q30		NYCB - Q30 Jamaica Center --> Little Neck Parkway	bus
-2908831	NYC Transit	Q31		NYCB - Q31 Jamaica Center --> 26 Av / Francis Lewis Bl	bus
+2908831	NYC Transit	Q31		NYCB - Q31 Jamaica Center --> 32 Av / Corporal Kennedy	bus
 2908840	NYC Transit	Q35		NYCB - Q35 Rockaway Beach --> CUNY Brooklyn College	bus
 2910759	NYC Transit	Q36		NYCB - Q36 Jamaica Bus Terminal --> Little Neck	bus
 2910796	NYC Transit	Q37		NYCB - Q37 Kew Gardens --> South Ozone Park	bus
@@ -1438,7 +1438,6 @@
 2916946	NYC Transit	Q88		NYCB - Q88 Queens Center Mall --> Queens Village	bus
 2916965	NYC Transit	Q110		NYCB - Q110 Jamaica Center --> Queens Village	bus
 2917006	NYC Transit	Q113 LTD		NYCB - Q113 LTD Jamaica Center --> Far Rockaway	bus
-2917007	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Rosedale	bus
 2917008	NYC Transit	Q114 LTD		NYCB - Q114 LTD Far Rockaway --> Jamaica Center	bus
 2917563	NYC Transit	Q112		NYCB - Q112	bus
 2918435				"Bradford, Eldred and Cuba Railroad"	
@@ -7164,10 +7163,10 @@
 12238359	Nassau Inter-County Express	n16		NICE n16 Rockville Centre --> Roosevelt Field Mall	bus
 12238496	NYC Transit	Bx29		NYCB - Bx29 City Island --> Pelham Bay	bus
 12241213	NYC Transit	Q13		NYCB - Q13 Bay Terrace --> Downtown Flushing	bus
-12241239	NYC Transit	Q31		NYCB - Q31 26 Av / Francis Lewis Bl --> Jamaica Center	bus
+12241239	NYC Transit	Q31		NYCB - Q31 Bayside High School --> Jamaica Center	bus
 12241508	NYC Transit	Q30		NYCB - Q30 Little Neck Parkway --> Jamaica Center	bus
-12241767	NYC Transit	Q1		NYCB - Q1 Queens Village LIRR --> Jamaica Center	bus
-12241768	NYC Transit	Q1		NYCB - Q1 Jamaica Center --> Queens Village LIRR	bus
+12241767	NYC Transit	Q1		NYCB - Q1 Springfield/Braddock --> Jamaica Center	bus
+12241768	NYC Transit	Q1		NYCB - Q1 Jamaica Center --> Springfield/Braddock	bus
 12241769	NYC Transit	Q1		NYCB - Q1 Bellerose --> Jamaica Center	bus
 12242329	NYC Transit	Q60		NYCB - Q60 East Midtown --> South Jamaica	bus
 12242377	NYC Transit	Q54		NYCB - Q54 Williamsburg Bridge Plz --> Jamaica Av / 170 St	bus
@@ -7306,10 +7305,8 @@
 12292748	NYC Transit	Q20B		NYCB - Q20B College Point --> Jamaica Center	bus
 12292749	NYC Transit	Q20A		NYCB - Q20A College Point --> Jamaica Center	bus
 12292850	NYC Transit	Q110		NYCB - Q110 Queens Village --> Jamaica Center	bus
-12294311	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Guy R Brewer Blvd/Farmers Blvd	bus
 12294312	NYC Transit	Q111		NYCB - Q111 Cedarhurst Peninsula Boulevard --> Jamaica Center	bus
 12294313	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Cedarhurst Peninsula Boulevard	bus
-12294314	NYC Transit	Q111		NYCB - Q111 Farmers Blvd/Guy R Brewer Blvd --> Jamaica Center	bus
 12294345	NYC Transit	Q42		NYCB - Q42 Sayres Av/180 St --> Jamaica Center	bus
 12294659	NYC Transit	Q83		NYCB - Q83 Cambria Heights --> Jamaica Center	bus
 12294660	NYC Transit	Q83		NYCB - Q83 Queens Village --> Jamaica Center	bus
@@ -7562,7 +7559,7 @@
 12389755	NYC Transit	Q15		NYCB - Q15 Beechhurst --> Downtown Flushing	bus
 12389836	NYC Transit	Q10		NYCB - Q10 LTD JFK --> Kew Gardens	bus
 12389837	NYC Transit	Q10		NYCB - Q10 JFK --> Kew Gardens	bus
-12389853	NYC Transit	Q2		NYCB - Q2 Queens Village --> Jamaica Bus Terminal	bus
+12389853	NYC Transit	Q2		NYCB - Q2 UBS Arena --> Jamaica Bus Terminal	bus
 12389882	NYC Transit	Q18		NYCB - Q18 Maspeth --> Astoria	bus
 12441881	lwn			Red Loop	hiking
 12441882	lwn			Yellow Loop	hiking
@@ -11559,3 +11556,13 @@
 20660041				Highlands Trail	hiking
 20684481	lcn			90th Avenue	bicycle
 20693187	lwn			Golden Stairs Nature Trail	foot
+20703246	NYC Transit	Q14		NYCB - Q14 Ridgewood --> Corona	bus
+20703247	NYC Transit	Q14		NYCB - Q14 Corona --> Ridgewood	bus
+20703465	NYC Transit	Q74		NYCB - Q74 QCC --> Forest Hills	bus
+20703466	NYC Transit	Q74		NYCB - Q74 Forest Hills --> QCC	bus
+20703712	NYC Transit	Q31		NYCB - Q31 Bay Terrace Shopping Center --> Jamaica Center	bus
+20703713	NYC Transit	Q31		NYCB - Q31 Jamaica Center --> Bay Terrace Shopping Center	bus
+20704052	NYC Transit	Q111		NYCB - Q111 Rosedale (Francis Lewis Blvd / 148th Ave) --> Jamaica Center	bus
+20704053	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Rosedale (Francis Lewis Blvd / 148 Av)	bus
+20704118	NYC Transit	Q115		NYCB - Q115 Springfield Blvd --> Jamaica Center	bus
+20704119	NYC Transit	Q115		NYCB - Q115 Jamaica Center --> Springfield Gardens	bus
