@@ -264,7 +264,7 @@
 4485206	nwn	GET		Grand Enchantment Trail	hiking
 4485386	lwn			Picketpost Mountain Summit Trail	hiking
 4492465	lwn			Spencer Trail	hiking
-4498657	Valley Metro	0 NB		Bus 0 - Central Avenue Northbound	bus
+4498657	Valley Metro	0	north		bus
 4498658	Valley Metro	0 SB		Bus 0 - Central Avenue Southbound	bus
 4498930	Valley Metro	39 NB	north	bus 39 NB	bus
 4498931	Valley Metro	39 SB	south	bus 39 SB	bus
@@ -313,8 +313,8 @@
 4499177	Valley Metro	186 WB	west	bus 186 WB	bus
 4499178	Valley Metro	19 NB	north	bus 19 NB	bus
 4499179	Valley Metro	19 SB	south	bus 19 SB	bus
-4499180	Valley Metro	SMWR IB		bus SMW Rapid IB	bus
-4499181	Valley Metro	SMWR SB		bus SMW Rapid OB	bus
+4499180	Valley Metro	451	inbound		bus
+4499181	Valley Metro	451	outbound		bus
 4499182	Valley Metro	27 NB	north	bus 27 NB	bus
 4499183	Valley Metro	27 SB	south	bus 27 SB	bus
 4499184	Valley Metro	28 EB	east	bus 28 EB	bus
@@ -441,7 +441,7 @@
 4849000	lwn	365		Jones Ridge Trail #365	hiking
 4849007	lwn	246		Snowshed Trail #246	hiking
 4849012	lwn	240		Burro Trail #240	hiking
-5509062	ncn	90		90 (Arizona)	bicycle
+5509062	ncn	90			bicycle
 5519054	lcn	MS 3		Mesa Route 3	bicycle
 5541148	lcn	MS 1		Mesa Route 1	bicycle
 5541149	lcn	MS 2		Mesa Route 2	bicycle
@@ -1359,7 +1359,7 @@
 14170055	rwn	647		Hitching Post Loop Trail	hiking
 14170056	rwn	646		Turkey Track Loop Trail	hiking
 14170057	rwn	654		Woodland Lake Trail	hiking
-14208015	lcn	PSB		Phoenix Sonoran Bikeway	bicycle
+14208015	lcn	PSB		Phoenix–Sonoran Bikeway	bicycle
 14222047	rwn	107		Blue Ridge Trail	hiking
 14222048	rwn	107A		Billy Creek Connector Trail	hiking
 14227425	lcn			Grindstone	mtb
@@ -1628,8 +1628,8 @@
 19198179	US:AZ:Mohave	259		Mohave County Highway 259	road
 19198183	US:AZ:Mohave	157		Mohave County Route 157	road
 19236098	Valley Metro	A		Light Rail A Line Westbound	light_rail
-19244495	Valley Metro	B		Light Rail B Line Northbound	light_rail
-19251454	Valley Metro	B		Light Rail B Line Southbound	light_rail
+19244495	Valley Metro Rail	B	north		light_rail
+19251454	Valley Metro Rail	B	south		light_rail
 19363110				Grand Avenue	road
 19477456				Bullhead Parkway	road
 19531245	US:NHT			Juan Bautista de Anza National Historic Trail Auto Tour Route	road
@@ -1719,3 +1719,4 @@
 20658042	US:BLM	7125			road
 20658043	US:BLM	7125F			road
 20658807	US:AZ	30		Tres Rios Freeway	road
+20712925	lcn			Dreamy Draw Bikeway	bicycle

@@ -953,7 +953,7 @@
 2319881				STRAHNET route: Los Angeles - Mojave	road
 2320393					road
 2320394					road
-2320399					road
+2320399	US:STRAHNET				road
 2320400	US:STRAHNET				road
 2320404					road
 2320405	US:I	80		Interstate 80 (STRAHNET)	road
@@ -1851,7 +1851,7 @@
 5483654				Porterville Subdivision	railway
 5489766	local			Skatin' Place	inline_skates
 5489769	lhn			Covered Bridge Equestrian	horse
-5509062	ncn	90		90 (Arizona)	bicycle
+5509062	ncn	90			bicycle
 5524170	Playa Vista	Beach		Beach Shuttle	bus
 5549623	rwn	TST		Theodore Solomons Trail	hiking
 5562367	US:CA	2	north		road
