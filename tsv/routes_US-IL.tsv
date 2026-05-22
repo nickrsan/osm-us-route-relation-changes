@@ -445,8 +445,8 @@
 1783092	US:GRR			Great River Road (Kentucky)	road
 1784814	US:GRR			Great River Road (Iowa)	road
 1784815	US:GRR			Great River Road (Missouri - National Route)	road
-1796334	US:US:Historic	66			road
-1796335	US:US:Historic	66			road
+1796334	US:US:Historic	66		Historic US 66 (IL) (1926-1930)	road
+1796335	US:US:Historic	66		Historic US 66 (IL) (1930-1940)	road
 1809794	Amtrak	Empire Builder		Amtrak Empire Builder: Chicago => Seattle	train
 1901658	lcn			Great Western Trail Connector	bicycle
 1909138	rcn			Pecatonica Prairie Path	bicycle
@@ -668,8 +668,8 @@
 3601152	lcn			Northbrook Bicycle Network	bicycle
 3601333	lcn			Palatine Bicycle Network	bicycle
 3731709	ncn	36		36 (Illinois)	bicycle
-3734410	US:US:Historic	66			road
-3734593	US:US:Historic	66			road
+3734410	US:US:Historic	66	west	Historic US 66 (IL) westbound	road
+3734593	US:US:Historic	66	east	Historic US 66 (IL) eastbound	road
 3734771					
 3773427	rcn			Sam Vadalabene Bike Trail	bicycle
 3783539	ncn	37		37 (Illinois)	bicycle
@@ -3240,3 +3240,12 @@
 20712252	lcn			Douglas Boulevard	bicycle
 20712253	lcn			Independance Boulevard	bicycle
 20712254	lcn			Sacramento	bicycle
+20727195	US:WI:Kenosha	WG		Kenosha County Trunk Highway WG	road
+20727247	US:IL:Madison	69		County Road 69	road
+20727248	US:IL:Madison	19		Wanda Road	road
+20728287	US:I:Express	294	north		road
+20728288	US:I:Express	294	south		road
+20728289	US:I:Express	294E	south		road
+20728290	US:I:Express	294W	south		road
+20728291	US:I	490	north		road
+20728292	US:I	490	south		road

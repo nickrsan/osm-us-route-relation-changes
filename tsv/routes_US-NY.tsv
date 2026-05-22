@@ -1338,8 +1338,8 @@
 2667215	NYC Transit	Q104		NYCB - Q104 Long Island City --> Sunnyside	bus
 2667216	NYC Transit	Q18		NYCB - Q18 Astoria --> Maspeth	bus
 2667217	NYC Transit	Q19		NYCB - Q19 - Downtown Flushing --> Astoria 2 Av	bus
-2667218	NYC Transit	Q33		NYCB - Q33	bus
-2667219	NYC Transit	Q48		NYCB - Q48 Downtown Flushing --> LGA East Elmhurst	bus
+2667218	NYC Transit	Q33		NYCB - Q33 LGA Marine Air Terminal --> Jackson Heights	bus
+2667219	NYC Transit	Q90		NYCB - Q90 Downtown Flushing --> LGA Terminal B	bus
 2667220	NYC Transit	Q66		NYCB - Q66 Long Island City --> Downtown Flushing	bus
 2667221	NYC Transit	Q69		NYCB - Q69 Long Island City --> East Elmhurst	bus
 2667222	NYC Transit	Q72		NYCB - Q72 LaGuardia Airport --> Rego Park	bus
@@ -1350,10 +1350,10 @@
 2671580	NYC Transit	Q29		NYCB - Q29 Jackson Heights --> Myrtle Avenue	bus
 2671581	NYC Transit	Q32		NYCB - Q32 Jackson Heights --> Penn Station	bus
 2671582	NYC Transit	Q39		NYCB - Q39 Long Island City --> Ridgewood	bus
-2671583	NYC Transit	Q47		NYCB - Q47 - Glendale to Marine Air Terminal	bus
+2671583	NYC Transit	Q47		NYCB - Q47 - Glendale to East Elmhurst	bus
 2671584	NYC Transit	Q49		NYCB - Q49	bus
 2671585	NYC Transit	Q55		NYCB - Q55 Ridgewood --> Richmond Hill	bus
-2671586	NYC Transit	Q59		NYCB - Q59 Horace Harding Exp/Queens Blvd --> Williamsburg	bus
+2671586	NYC Transit	Q59		NYCB - Q59 Rego Park --> Williamsburg	bus
 2671587	NYC Transit	Q60		NYCB - Q60 South Jamaica --> East Midtown	bus
 2671588	NYC Transit	Q67		NYCB - Q67 Qns Plz S --> Metropolitan Av / Fresh Pond Rd	bus
 2715254				Corning Secondary	railway
@@ -1418,19 +1418,18 @@
 2910759	NYC Transit	Q36		NYCB - Q36 Jamaica Bus Terminal --> Little Neck	bus
 2910796	NYC Transit	Q37		NYCB - Q37 Kew Gardens --> South Ozone Park	bus
 2915044	NYC Transit	Q38		NYCB - Q38 Corona --> Rego Park	bus
-2915091	NYC Transit	Q40		NYCB - Q40	bus
+2915091	NYC Transit	Q40		NYCB - Q40 Jamaica Center --> South Ozone Park	bus
 2915116	NYC Transit	Q41		NYCB - Q41 Jamaica Bus Terminal --> Howard Beach	bus
 2915178	NYC Transit	Q42		NYCB - Q42 Jamaica Center --> Sayres Av/180 St	bus
-2915202	NYC Transit	Q43		NYCB - Q43	bus
-2915240	NYC Transit	Q46		NYCB - Q46	bus
+2915202	NYC Transit	Q43		NYCB - Q43 Floral Park --> Jamaica Center	bus
+2915240	NYC Transit	Q46		NYCB - Q46 Forest Hills --> Lakeville Road	bus
 2915257	NYC Transit	Q50 LTD		NYCB - Q50 LTD Downtown Flushing --> Co-Op City	bus
-2915310	NYC Transit	Q54		NYCB - Q54 Jamaica Av / 170 St --> Williamsburg Bridge Plz	bus
+2915310	NYC Transit	Q54		NYCB - Q54 Jamaica Center --> Williamsburg Bridge Plz	bus
 2915337	NYC Transit	Q56		NYCB - Q56 Jamaica Center --> Broadway Junction	bus
 2915416	NYC Transit	Q64		NYCB - Q64 Forest Hills --> Electchester	bus
 2915428	NYC Transit	Q65		NYCB - Q65 Jamaica Center --> College Point	bus
 2916817	NYC Transit	Q76		NYCB - Q76 Jamaica Center --> College Point	bus
 2916846	NYC Transit	Q77		NYCB - Q77 Jamaica Bus Terminal --> Springfield Gardens	bus
-2916857	NYC Transit	Q83		NYCB - Q83 Jamaica Center --> Queens Village	bus
 2916858	NYC Transit	Q83		NYCB - Q83 Jamaica Center --> Cambria Heights	bus
 2916874	NYC Transit	Q84		NYCB - Q84 Jamaica Center --> Cambria Heights	bus
 2916922	NYC Transit	Q85		NYCB - Q85 Jamaica Center --> Rosedale 243 St	bus
@@ -4865,7 +4864,7 @@
 6846198	lcn	NSG		New Springville Greenway	bicycle
 6846205	lcn			Clove Road	bicycle
 6846213	lcn	Hunts Point		Hunts Point Avenue	bicycle
-6846217	lcn			New Springville Greenway Connections	bicycle
+6846217	lcn			New Springville—La Tourette Park Greenways Connection	bicycle
 6848073	lcn	Castle Hill		Castle Hill Avenue	bicycle
 6852070	lcn			Cooper Avenue	bicycle
 6855880	lcn			Van Duzer Street	bicycle
@@ -7169,7 +7168,7 @@
 12241768	NYC Transit	Q1		NYCB - Q1 Jamaica Center --> Springfield/Braddock	bus
 12241769	NYC Transit	Q1		NYCB - Q1 Bellerose --> Jamaica Center	bus
 12242329	NYC Transit	Q60		NYCB - Q60 East Midtown --> South Jamaica	bus
-12242377	NYC Transit	Q54		NYCB - Q54 Williamsburg Bridge Plz --> Jamaica Av / 170 St	bus
+12242377	NYC Transit	Q54		NYCB - Q54 Williamsburg Bridge Plz --> Jamaica Center	bus
 12242411	NYC Transit	Q6		NYCB - Q6 Jamaica Bus Terminal --> JFK Employee Parking	bus
 12242529	NYC Transit	Q3		NYCB - Q3 JFK Terminal 5 --> Hillside Av / 165 St	bus
 12243032	lwn			Wildflower Trail	hiking
@@ -7194,13 +7193,13 @@
 12256908	NYC Transit	Q11		NYCB - Q11 Queens Center Mall --> Old Howard Beach	bus
 12256932	NYC Transit	Q21		NYCB - Q21 Howard Beach --> Queens Center Mall	bus
 12262070	NYC Transit	B32		NYCB - B32 Williamsburg Bridge Plaza --> Long Island City	bus
-12262071	NYC Transit	Q59		NYCB - Q59 Williamsburg --> Horace Harding Exp/Queens Blvd	bus
+12262071	NYC Transit	Q59		NYCB - Q59 Williamsburg --> Rego Park	bus
 12262171	NYC Transit	B24		NYCB - B24 Williamsburg Bridge Plaza --> Greenpoint	bus
 12262229	NYC Transit	B39		NYCB - B39 Lower East Side --> Williamsburg Bridge Plaza	bus
 12262329	NYC Transit	B60		NYCB - B60 Canarsie --> Williamsburg Bridge Plz	bus
 12262386	NYC Transit	B43		NYCB - B43 Prospect Park --> Greenpoint	bus
 12262486	NYC Transit	B57		NYCB - B57 Maspeth --> Red Hook	bus
-12262514	NYC Transit	Q48		NYCB - Q48 East Elmhurst --> Downtown Flushing	bus
+12262514	NYC Transit	Q90		NYCB - Q90 LGA Terminal B --> Downtown Flushing	bus
 12263064	NYC Transit	Q64		NYCB - Q64 Electchester --> Forest Hills	bus
 12263118	NYC Transit	Q22		NYCB - Q22 Rockaway Beach --> Far Rockaway	bus
 12263326	NYC Transit	Q35		NYCB - Q35 CUNY Brooklyn College --> Rockaway Beach	bus
@@ -7309,7 +7308,6 @@
 12294313	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Cedarhurst Peninsula Boulevard	bus
 12294345	NYC Transit	Q42		NYCB - Q42 Sayres Av/180 St --> Jamaica Center	bus
 12294659	NYC Transit	Q83		NYCB - Q83 Cambria Heights --> Jamaica Center	bus
-12294660	NYC Transit	Q83		NYCB - Q83 Queens Village --> Jamaica Center	bus
 12294661	NYC Transit	Q4		NYCB - Q4 Cambria Heights --> Jamaica Center	bus
 12295218	NYC Transit	Q27		NYCB - Q27 Laurelton --> Downtown Flushing	bus
 12295219	NYC Transit	Q77		NYCB - Q77 Springfield Gardens --> Jamaica Bus Terminal	bus
@@ -7775,8 +7773,6 @@
 13075673	lwn			Old Barn Trail	hiking
 13075674	lwn			Ledge Trail	hiking
 13076289	NYC Transit	Q29		NYCB - Q29 Myrtle Avenue --> Jackson Heights	bus
-13076339	NYC Transit	Q36		NYCB - Q36 87 Road / 256 Street --> Jamaica Bus Terminal	bus
-13076340	NYC Transit	Q36		NYCB - Q36 Jamaica Bus Terminal --> 87th Road / 256 Street	bus
 13076341	NYC Transit	Q36		NYCB - Q36 Little Neck --> Jamaica Bus Terminal	bus
 13076491	NYC Transit	Q37		NYCB - Q37 South Ozone Park --> Kew Gardens	bus
 13123886	lcn			East 167th Street	bicycle
@@ -8005,7 +8001,7 @@
 14369624	lcn			Schenectady Avenue	bicycle
 14369625	lcn			Beverley Road	bicycle
 14369628	lcn			Snyder Av	bicycle
-14379076	NYC Transit	Q43		NYCB - Q43	bus
+14379076	NYC Transit	Q43		"NYCB - Q43 Jamaica Center --> Floral Park, Queens"	bus
 14383909				Beach Trail	hiking
 14383910				Canine Loop	hiking
 14383911				Fitness Trail	hiking
@@ -8018,7 +8014,7 @@
 14383918				Fox Trail	hiking
 14383919				Beaver Trail	hiking
 14390742	NYC Transit	Q49		NYCB - Q49	bus
-14391996	NYC Transit	Q47		NYCB - Q47 - Marine Air Terminal to Glendale	bus
+14391996	NYC Transit	Q47		NYCB - Q47 - East Elmhurst to Glendale	bus
 14392345	RIOC Red Bus			RIOC Red Bus (Southbound)	bus
 14392346				RIOC Red Bus (Northbound)	bus
 14392347				RIOC Red Bus (Octagon Express)	bus
@@ -8042,7 +8038,7 @@
 14456822	Nassau Inter-County Express	Mercy Medical		NICE Mercy Medical Shuttle	bus
 14460239	LIRR	Hempstead		LIRR Hempstead Branch: Atlantic Terminal <=> Jamaica <=> Hempstead	train
 14463141	lcn			North Bethlehem Park Loop	forward
-14469957	NYC Transit	Q33		NYCB - Q33	bus
+14469957	NYC Transit	Q33		NYCB - Q33 Jackson Heights --> LGA Marine Air Terminal	bus
 14472920	NYC Transit	X27		NYCB - X27	bus
 14479411	NYC Transit	X28		NYCB - X28	bus
 14479454	NYC Transit	X38		NYCB - X38	bus
@@ -8081,9 +8077,9 @@
 14529573	NYC Transit	BxM3		NYCB - BxM3	bus
 14529692	NYC Transit	BxM8		NYCB - BxM8	bus
 14529773	NYC Transit	BxM9		NYCB - BxM9	bus
-14530040	NYC Transit	Q46		NYCB - Q46	bus
-14530041	NYC Transit	Q46		NYCB - Q46	bus
-14530042	NYC Transit	Q46		NYCB - Q46	bus
+14530040	NYC Transit	Q48		NYCB - Q48 Forest Hills --> Little Neck Pkwy	bus
+14530041	NYC Transit	Q48		NYCB - Q48 260th Street --> Forest Hills	bus
+14530042	NYC Transit	Q46		NYCB - Q46 Lakeville Road --> Forest Hills	bus
 14531370	Local	HVGT		Hudson Valley Greenway Trail (Olana to Hudson)	hiking
 14531387	Local	HVGT		Hudson Valley Greenway Trail (Tivoli to Olana)	hiking
 14531422	Local	HVGT		Hudson Valley Greenway Trail (East Kingston to Tivoli)	hiking
@@ -11566,3 +11562,24 @@
 20704053	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Rosedale (Francis Lewis Blvd / 148 Av)	bus
 20704118	NYC Transit	Q115		NYCB - Q115 Springfield Blvd --> Jamaica Center	bus
 20704119	NYC Transit	Q115		NYCB - Q115 Jamaica Center --> Springfield Gardens	bus
+20724932				Quarry Loop	hiking
+20724933				Snake Hill Trail	hiking
+20724936				Grant Lookout	hiking
+20725072	NYC Transit	Q40		NYCB - Q40 South Ozone Park / Jamaica Center	bus
+20726294				Easy Way Trail	hiking
+20726295				Quarry Oak Trail	hiking
+20726308				Quarry Drive Trail	hiking
+20726346				Old Farm Trail	hiking
+20726365				High Quarry Trail	hiking
+20726375				Seminary Ridge Trail	hiking
+20726377				Turtle Pond Trail	hiking
+20726454				Hillside Trail	hiking
+20726503				Overlook Trail	hiking;horse
+20726795				Glacial Erratic Trail	hiking;horse
+20726796				Nature's Way Trail	hiking;horse
+20726932				Deer Run Trail	hiking;horse
+20726933				Brook Trail	hiking;horse
+20726940				Ridge Trail	hiking;horse
+20726952				Rock Wall Loop	hiking;horse
+20726953				Simental Trail	hiking;horse
+20726967				Brothers' Path	hiking;horse

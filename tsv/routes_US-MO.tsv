@@ -574,7 +574,7 @@
 3684220	US:MO:Supplemental	KK			road
 3684221	US:MO:Supplemental	WW			road
 3726448				Bootlegger's Run Trail	mtb
-3734593	US:US:Historic	66			road
+3734593	US:US:Historic	66	east	Historic US 66 (IL) eastbound	road
 3734770	US:US:Historic	66		Historic US 66 (MO)	road
 3734771					
 4042935	US:IA:CR	S50		Wayne County Road S50	road
@@ -3162,3 +3162,25 @@
 20712184	US:MO:Supplemental	CC			road
 20712185	US:MO:Supplemental	C			road
 20712186	US:MO:Supplemental	U			road
+20727206	US:MO:Supplemental	B			road
+20727207	US:MO:Supplemental	VV			road
+20727208	US:MO:Supplemental	Y			road
+20727209	US:MO:Supplemental	YY			road
+20727210	US:MO:Supplemental	C			road
+20727211	US:MO:Supplemental	KK			road
+20727212	US:MO:Supplemental	AJ			road
+20727213	US:MO:Supplemental	BB			road
+20727215	US:MO:Supplemental	EE			road
+20727216	US:MO:Supplemental	UU			road
+20727217	US:MO:Supplemental	AD			road
+20727218	US:MO:Supplemental	AB			road
+20727219	US:MO:Supplemental	WW			road
+20727220	US:MO:Supplemental	JJ			road
+20727221	US:MO:Supplemental	AF			road
+20727222	US:MO:Supplemental	WW			road
+20727223	US:MO:Supplemental	H			road
+20727224	US:MO:Supplemental	CC			road
+20727225	US:MO:Supplemental	AC			road
+20727226	US:MO:Supplemental	AN			road
+20727227	US:MO:Supplemental	AE			road
+20727228	US:MO:Supplemental	J			road
