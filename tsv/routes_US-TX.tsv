@@ -1193,7 +1193,7 @@
 1948143	US:I:Business:Loop	35		"I 35 Business (J - Kyle, TX)"	road
 1948145	US:I:Business:Loop	35		"I 35 Business (X - Sanger, TX)"	road
 1948146	US:I:Business:Loop	35		"I 35 Business (V - Alvarado, TX)"	road
-1948147	US:I:Business:Loop	40		"I 40 Business (A - Glenrio, TX)"	road
+1948147	US:I:Business:Spur	40		Business Interstate 40-A	road
 1948148	US:I:Business:Loop	40		"I 40 Business (B - Adrian, TX)"	road
 1948149	US:I:Business:Loop	40		"I 40 Business (C - Vega, TX)"	road
 1948150	US:I:Business:Loop	40		"I 40 Business (D - Amarillo, TX)"	road

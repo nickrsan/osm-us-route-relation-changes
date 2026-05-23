@@ -12,7 +12,6 @@
 382496	US:US	90			road
 382641	US:FL	97			road
 382643	US:FL	87			road
-382655	US:FL	83			road
 382668	US:FL	85			road
 386259	US:FL	71			road
 386261	US:FL	77			road
@@ -318,7 +317,7 @@
 1535765	US:AL	293			road
 1535766	US:AL	217			road
 1562698	US:TN			10 (unsigned)	road
-1562811	US:TN:primary	16		Tennessee State Route 16 (primary)	road
+1562811	US:TN:primary	16		16 (primary)	road
 1566450	US:TN:secondary	98			road
 1566451	US:TN:secondary	97			road
 1569024	US:TN:secondary	227			road
@@ -339,7 +338,6 @@
 1693963	US:I	165			road
 1695585	US:I	359			road
 1695587	US:I	565			road
-1723544	US:FL			83 (partly unsigned)	road
 1723609	US:FL			10 (mostly unsigned)	road
 1723612	US:FL				road
 1736288	US:FL			8 (unsigned)	road

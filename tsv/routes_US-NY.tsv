@@ -1402,14 +1402,14 @@
 2908102	NYC Transit	Q16		NYCB - Q16 Downtown Flushing --> Utopia Parkway --> Bay Terrace	bus
 2908103				Port Byron-Auburn Trolley	railway
 2908130	NYC Transit	Q17		NYCB - Q17 Jamaica Center --> Downtown Flushing	bus
-2908154	NYC Transit	Q20A		NYCB - Q20A Jamaica Center --> College Point	bus
+2908154	NYC Transit	Q20		NYCB - Q20 Jamaica Center --> College Point	bus
 2908155	NYC Transit	Q20B		NYCB - Q20B Jamaica Center --> College Point	bus
 2908156	NYC Transit	Q44 SBS		NYCB - Q44 SBS Bronx Zoo --> Jamaica Center	bus
 2908616	NYC Transit	Q22		NYCB - Q22 Far Rockaway --> Rockaway Beach	bus
 2908633	NYC Transit	Q24		NYCB - Q24 Jamaica Center --> Bushwick	bus
 2908715	NYC Transit	Q25		NYCB - Q25 Jamaica Center --> College Point	bus
 2908716	NYC Transit	Q34		NYCB - Q34 Jamaica Center --> Downtown Flushing	bus
-2908791	NYC Transit	Q26		NYCB - Q26 Cunningham Park --> Downtown Flushing	bus
+2908791	NYC Transit	Q26		NYCB - Q26 Cunningham Park --> College Point	bus
 2908806	NYC Transit	Q27		NYCB - Q27 Downtown Flushing --> Laurelton	bus
 2908810	NYC Transit	Q28		NYCB - Q28 Downtown Flushing --> Bay Terrace	bus
 2908824	NYC Transit	Q30		NYCB - Q30 Jamaica Center --> Little Neck Parkway	bus
@@ -1427,13 +1427,12 @@
 2915310	NYC Transit	Q54		NYCB - Q54 Jamaica Center --> Williamsburg Bridge Plz	bus
 2915337	NYC Transit	Q56		NYCB - Q56 Jamaica Center --> Broadway Junction	bus
 2915416	NYC Transit	Q64		NYCB - Q64 Forest Hills --> Electchester	bus
-2915428	NYC Transit	Q65		NYCB - Q65 Jamaica Center --> College Point	bus
+2915428	NYC Transit	Q65		NYCB - Q65 Jamaica Center --> Flushing	bus
 2916817	NYC Transit	Q76		NYCB - Q76 Jamaica Center --> College Point	bus
 2916846	NYC Transit	Q77		NYCB - Q77 Jamaica Bus Terminal --> Springfield Gardens	bus
 2916858	NYC Transit	Q83		NYCB - Q83 Jamaica Center --> Cambria Heights	bus
 2916874	NYC Transit	Q84		NYCB - Q84 Jamaica Center --> Cambria Heights	bus
 2916922	NYC Transit	Q85		NYCB - Q85 Jamaica Center --> Rosedale 243 St	bus
-2916923	NYC Transit	Q85		NYCB - Q85 Jamaica Center --> Green Acres Mall	bus
 2916946	NYC Transit	Q88		NYCB - Q88 Queens Center Mall --> Queens Village	bus
 2916965	NYC Transit	Q110		NYCB - Q110 Jamaica Center --> Queens Village	bus
 2917006	NYC Transit	Q113 LTD		NYCB - Q113 LTD Jamaica Center --> Far Rockaway	bus
@@ -1664,7 +1663,7 @@
 3007375	lcn			Hudson Street	bicycle
 3007376	lcn			Suffolk Street	bicycle
 3007377	lcn	Washington		Washington Street	bicycle
-3007378	rcn	Brooklyn Br		Brooklyn Bridge	bicycle
+3007378	rcn			Brooklyn Bridge	bicycle
 3007379	rcn	Manhattan Br		Manhattan Bridge Bike Path	bicycle
 3007380	rcn	Queensboro Br		Queensboro Bridge	bicycle
 3007381	rcn	Williamsburg Br		Williamsburg Bridge Bike Path	bicycle
@@ -7230,7 +7229,6 @@
 12270689	NYC Transit	Q5		NYCB - Q5 Jamaica Center --> Green Acres Mall	bus
 12270690	NYC Transit	Q5		NYCB - Q5 Rosedale LIRR --> Jamaica Center	bus
 12270917	NYC Transit	Q85		NYCB - Q85 Rosedale 243 St --> Jamaica Center	bus
-12270918	NYC Transit	Q85		NYCB - Q85 Green Acres Mall --> Jamaica Centerl	bus
 12271093	NYC Transit	Q104		NYCB - Q104 Sunnyside --> Long Island City	bus
 12271143	NYC Transit	Q100 LTD		NYCB - Q100 LTD Rikers Island --> Long Island City	bus
 12271144	NYC Transit	Q69		NYCB - Q69 East Elmhurst --> Long Island City	bus
@@ -7300,9 +7298,9 @@
 12292712	lwn	10A		Trillium Trail	hiking
 12292713		10A		Trillium Trail	piste
 12292746	NYC Transit	Q34		NYCB - Q34 Downtown Flushing --> Jamaica Center	bus
-12292747	NYC Transit	Q65		NYCB - Q65 College Point --> Jamaica Center	bus
+12292747	NYC Transit	Q65		NYCB - Q65 Flushing --> Jamaica Center	bus
 12292748	NYC Transit	Q20B		NYCB - Q20B College Point --> Jamaica Center	bus
-12292749	NYC Transit	Q20A		NYCB - Q20A College Point --> Jamaica Center	bus
+12292749	NYC Transit	Q20		NYCB - Q20 College Point --> Jamaica Center	bus
 12292850	NYC Transit	Q110		NYCB - Q110 Queens Village --> Jamaica Center	bus
 12294312	NYC Transit	Q111		NYCB - Q111 Cedarhurst Peninsula Boulevard --> Jamaica Center	bus
 12294313	NYC Transit	Q111		NYCB - Q111 Jamaica Center --> Cedarhurst Peninsula Boulevard	bus
@@ -7316,7 +7314,7 @@
 12295371	NYC Transit	Q17		NYCB - Q17 Downtown Flushing --> Jamaica Center	bus
 12295372	NYC Transit	Q88		NYCB - Q88 Queens Village --> Queens Center Mall	bus
 12295435	NYC Transit	Q12		NYCB - Q12 Little Neck --> Downtown Flushing	bus
-12296671	NYC Transit	Q26		NYCB - Q26 Downtown Flushing --> Cunningham Park	bus
+12296671	NYC Transit	Q26		NYCB - Q26 College Point --> Cunningham Park	bus
 12299332	NYC Transit	Q58		NYCB - Q58 Downtown Flushing --> Bushwick	bus
 12299725	NYC Transit	B54		NYCB - B54 Bushwick --> Downtown Brooklyn	bus
 12299824	lwn	17		Big Flats Trail	hiking
@@ -11298,8 +11296,8 @@
 20411634	NYC Transit	BM5		"Bus BM5: Spring Creek, Brooklyn => Midtown, Manhattan"	bus
 20414996				Hilltop Loop	hiking
 20438113	lwn				hiking
-20438114	lwn				hiking
-20438115	lwn				hiking
+20438114				Yellow Trail	hiking
+20438115				Orange Trail	hiking
 20438116				White Trail	hiking
 20444577	lcn			Grand Army Plaza	bicycle
 20449019				Red Trail	hiking
@@ -11583,3 +11581,12 @@
 20726952				Rock Wall Loop	hiking;horse
 20726953				Simental Trail	hiking;horse
 20726967				Brothers' Path	hiking;horse
+20731065	NYC Transit	Q86		NYCB - Q86 Rosedale --> Jamaica Center	bus
+20731066	NYC Transit	Q86		NYCB - Q86 Jamaica Center --> Rosedale	bus
+20732022				Old Railroad Bed Trail	hiking;biking
+20732026				County Lane	hiking;horse
+20732068				David's Loop	hiking;horse
+20732069				Buttermilk Hill Trail	hiking;horse
+20732070				Doc's Trail	hiking;horse
+20732090				Lucy's Loop	hiking;horse
+20732103				Peaceful Path	hiking;horse

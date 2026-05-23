@@ -1401,7 +1401,7 @@
 13492993		Enfield		Enfield Trail	bicycle
 13493075		CBArt-East		Crystal Bridges Art Trail East	bicycle
 13493451		TCT-Spur		Turtle Creek Trail Spur	bicycle
-13496912				Mount Comfort Road	bicycle
+13496912	lcn			Mount Comfort Road	bicycle
 13671281	lcn			City Lake Skills Beginnner Line	mtb
 13671282	lcn			City Lake Skills Intermediate Line	mtb
 13671283	lcn			City Lake Skills Advanced Line	mtb
@@ -1785,3 +1785,8 @@
 20607088	lwn			Observation Tower Trail	hiking
 20607231	lwn			Big Island Chute Trail	hiking
 20611255	lwn			Stinking Bay Island Walking Trail	hiking
+20732943	US:AR:Washington	892			road
+20732944	US:AR:Washington	707			road
+20732945	US:AR:Washington	94			road
+20732946	US:AR:Washington	894			road
+20732948	US:AR:Washington	890			road

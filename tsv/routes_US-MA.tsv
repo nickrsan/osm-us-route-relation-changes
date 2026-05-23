@@ -1239,7 +1239,7 @@
 14025599	lwn				hiking
 14025600	lwn				hiking
 14025601	lwn				hiking
-14098916	MBTA	F4		F4: Charlestown Navy Yard - Long Wharf South	ferry
+14098916	MBTA	F4		F4 Outbound: Long Wharf (South) -> Charlestown Ferry	ferry
 14098917	MBTA	F2H		F2H: Hingam - Hull - Logan Airport - Long Wharf	ferry
 14216971				Nauset Bicycle Trail	bicycle
 14216972				Buttonbush Trail	hiking
@@ -1818,3 +1818,15 @@
 20685191	US:RI				road
 20686625	US:MA				road
 20703468				Sunnyside Road	road
+20732854	MBTA	F4		F4 Inbound: Charlestorn Navy Yard -> Long Wharf (South)	ferry
+20732900		F10		F10: Harbor Loop (Weekday Mornings)	ferry
+20732901		F10		F10: Harbor Loop (Weekday Evening)	ferry
+20733001	MBTA	F3		F3 Inbound: Lewis Mall Wharf -> Long Wharf (North)	ferry
+20733002	MBTA	F3		F3 Outbound: Long Wharf (North) -> Lewis Mall Wharf	ferry
+20733062		F5		F5 Inbound: Blossom Street Pier -> Long Wharf (North)	ferry
+20733063		F5		F5 Outbound: Long Wharf (North) -> Blossom Street Pier	ferry
+20733154	MBTA	F8		F8: Winthrop/Quincy Ferry (Weekend)	ferry
+20733184	MBTA	F6		F6: Winthrop Ferry (Weekday Morning)	ferry
+20733185	MBTA	F6		F6: Winthrop Ferry (Weekday Afternoon)	ferry
+20733201	MBTA	F7		F7: Quincy Ferry (Weekday Morning)	ferry
+20733202	MBTA	F7		F7: Quincy Ferry (Weekday Afternoon)	ferry
