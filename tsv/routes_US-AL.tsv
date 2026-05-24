@@ -316,7 +316,7 @@
 1535764	US:AL	212			road
 1535765	US:AL	293			road
 1535766	US:AL	217			road
-1562698	US:TN			10 (unsigned)	road
+1562698	US:TN:primary			10 (unsigned primary)	road
 1562811	US:TN:primary	16		16 (primary)	road
 1566450	US:TN:secondary	98			road
 1566451	US:TN:secondary	97			road

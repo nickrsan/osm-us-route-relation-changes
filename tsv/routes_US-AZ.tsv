@@ -118,7 +118,7 @@
 2306490	US:US	95			road
 2310324	US:US	60			road
 2319876	US:STRAHNET				road
-2319897	US:NHS High Priority Corridors			STRAHNET route: Phoenix - Las Vegas	road
+2319897	US:NHS:STRAHNET				road
 2334045	US:I	15	north		road
 2334046	US:I	15	south		road
 2400426	Shuttle Bus			Eagle and Guano Points	bus
@@ -315,8 +315,8 @@
 4499179	Valley Metro	19 SB	south	bus 19 SB	bus
 4499180	Valley Metro	451	inbound		bus
 4499181	Valley Metro	451	outbound		bus
-4499182	Valley Metro	27 NB	north	bus 27 NB	bus
-4499183	Valley Metro	27 SB	south	bus 27 SB	bus
+4499182	Valley Metro	27	north		bus
+4499183	Valley Metro	27	south		bus
 4499184	Valley Metro	28 EB	east	bus 28 EB	bus
 4499185	Valley Metro	28 WB	west	bus 28 WB	bus
 4499186	Valley Metro	29	east		bus
@@ -1474,7 +1474,7 @@
 16194917	Camel Express	Purple		Purple Route - Quartzsite to Lake Havasu City	bus
 16243591	US:NFSR:Tonto:FR	204		Forest Route 204	road
 16246444	lwn	615		Overland Trail #615	hiking
-16247503	US:AZ:Scenic	Joshua Forest Scenic Road		Joshua Forest Scenic Road	road
+16247503	US:AZ:Scenic			Joshua Forest Scenic Byway	road
 16247519	US:AZ:Scenic	Apache Trail Historic Road		Apache Trail Historic Road	road
 16247554	US:AZ:Scenic	Desert to Tall Pines Scenic Road		Desert to Tall Pines Scenic Road	road
 16249074	US:AZ:Scenic	Gila Pinal Scenic Road		Gila Pinal Scenic Road	road
