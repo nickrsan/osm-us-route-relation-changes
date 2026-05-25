@@ -1666,10 +1666,10 @@
 12287465	US:OK:Woods	E0290			road
 12287466	US:OK:Woods	N2440			road
 12287467	US:OK:Woods	N2450			road
-12288294	Tulsa Transit	110		MLK/Hartford	bus
+12288294	MetroLink Tulsa	110		MLK/Hartford	bus
 12288329	MetroLink Tulsa	110		MLK/Hartford	bus
 12288603	Tulsa Transit	114		Charles Page/Sand Springs	bus
-12288614	Tulsa Transit	114		Sand Springs/Charles Page	bus
+12288614	Tulsa Transit	114		Charles Page/Sand Springs	bus
 12292968	Tulsa Transit	117		Union/Southwest Boulevard	bus
 12292975	Tulsa Transit	117		Union/Southwest Boulevard	bus
 12293101	Tulsa Transit	130		Admiral	bus
@@ -1680,8 +1680,8 @@
 12301548	Tulsa Transit	150		21st Street	bus
 12305023	US:OK:Cherokee	N460			road
 12305024	US:OK:Cherokee	W710			road
-12305479	Tulsa Transit	201		Pine/Memorial	bus
-12310171	Tulsa Transit	201		Pine/Memorial	bus
+12305479	Tulsa Transit	201		Airport/Pine	bus
+12310171	Tulsa Transit	201		Airport/Pine	bus
 12312898	MetroLink Tulsa	300		31st Street	bus
 12313340	MetroLink Tulsa	300		31st Street	bus
 12317338	MetroLink Tulsa	401		North/Northeast	bus

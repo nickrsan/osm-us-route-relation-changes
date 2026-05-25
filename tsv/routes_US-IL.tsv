@@ -794,7 +794,7 @@
 4764509	Pace	317	west	Bus 317: Forest Park CTA Station -> Canterbury/Balmoral	bus
 4764516	Pace	318	west	Bus 318: Forest Park CTA Station -> Northlake Commons	bus
 4764580	Pace	319		Grand Avenue	bus
-5199610	Pace	322		Cermak Road - 22nd Street	bus
+5199610	Pace	322	west	Bus 322: 54th/Cermak Pink Line Station => Yorktown Mall	bus
 5199812	Pace	330	north	Bus 330: Archer/Harlem -> O'Hare MMF	bus
 5200006	Pace	331		Cumberland - 5th Avenue	bus
 5226313	lwn			Chicago Riverwalk	foot
@@ -806,7 +806,7 @@
 5366604	Pace	352	south	Bus 352: 95th/Dan Ryan CTA Station => Pace Chicago Heights Terminal	bus
 5377996	GLCT	LMCT		Lake Michigan Circle Tour	road
 5422653	Pace	353	south	Bus 353: 95th Dan/Ryan CTA Station -> River Oaks	bus
-5422694	Pace	354		Harvey - Oak Forest Loop	bus
+5422694	Pace	354	clockwise	Bus 354: Harvey - Oak Forest Clockwise Loop	bus
 5432270	Pace	356	east	Bus 356: DeVry University => Pace Harvey Transportation Center	bus
 5446243	Pace	357	west	Bus 357: Woodlawn/13th Place -> Lawrence Manor	bus
 5454054	Pace	358	south	Bus 358: Hegewisch South Shore Line Station => Pace Chicago Heights Terminal	bus
@@ -3249,3 +3249,5 @@
 20728290	US:I:Express	294W	south		road
 20728291	US:I	490	north		road
 20728292	US:I	490	south		road
+20739159	Pace	354	anticlockwise	Bus 354: Harvey - Oak Forest Counterclockwise Loop	bus
+20739303	Pace	322	east	Bus 322: Yorktown Mall => 54th/Cermak Pink Line Station	bus

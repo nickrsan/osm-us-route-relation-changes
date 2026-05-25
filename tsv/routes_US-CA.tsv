@@ -7370,7 +7370,7 @@
 20079827	US:US:Business	101		US 101 Business	road
 20085601	US:CA:Historic	163		Historic State Route 163	road
 20085637	US:US:Historic	395			road
-20086281	US:CA:CHL	784		El Camino Real	road
+20086281	US:CA			El Camino Real	road
 20086438	US:US:Old	80		Old U.S. Route 80	road
 20104192	US:CA:Express	170	north		road
 20104193	US:CA:Express	170	south		road
@@ -7619,3 +7619,5 @@
 20684514	lcn			Johnny Cash Trail	bicycle
 20701146	US:US:Business	101	north		road
 20701147	US:US:Business	101	south		road
+20738727	mtb	SVMB		San Vicente Mountain Biking	mtb
+20738728	lwn	SVH		San Vicente Hiking	foot
