@@ -1629,8 +1629,8 @@
 12048470	US:OK:Custer	N2205			road
 12089753	US:OK:Noble	190			road
 12089754	US:OK:Noble	E0320			road
-12098372	Tulsa Transit	700		AERO Peoria	bus
-12102307	Tulsa Transit	700		AERO Peoria	bus
+12098372	MetroLink Tulsa	700		AERO Peoria	bus
+12102307	MetroLink Tulsa	700		AERO Peoria	bus
 12165155	US:OK:Carter	E1950			road
 12165156	US:OK:Carter	E1930			road
 12165157	US:OK:Carter	E1920			road
@@ -1668,10 +1668,10 @@
 12287467	US:OK:Woods	N2450			road
 12288294	MetroLink Tulsa	110		MLK/Hartford	bus
 12288329	MetroLink Tulsa	110		MLK/Hartford	bus
-12288603	Tulsa Transit	114		Charles Page/Sand Springs	bus
-12288614	Tulsa Transit	114		Charles Page/Sand Springs	bus
-12292968	Tulsa Transit	117		Union/Southwest Boulevard	bus
-12292975	Tulsa Transit	117		Union/Southwest Boulevard	bus
+12288603	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
+12288614	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
+12292968	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
+12292975	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
 12293101	Tulsa Transit	130		Admiral	bus
 12293116	Tulsa Transit	130		Admiral	bus
 12297340	Tulsa Transit	140		11th Street	bus
@@ -1684,8 +1684,6 @@
 12310171	Tulsa Transit	201		Airport/Pine	bus
 12312898	MetroLink Tulsa	300		31st Street	bus
 12313340	MetroLink Tulsa	300		31st Street	bus
-12317338	MetroLink Tulsa	401		North/Northeast	bus
-12317359	MetroLink Tulsa	401		North/Northeast	bus
 12322254	lcn				bicycle
 12327588	MetroLink Tulsa	440		Harvard	bus
 12331090	MetroLink Tulsa	440		Harvard	bus
