@@ -212,6 +212,7 @@
 1537886	US:IL:Kane	19		Kane County Highway 19	road
 1537895	US:IL:Kane	20		Kane County Highway 20	road
 1537896	US:IL:Kane	61		Kane County Highway 61	road
+1547855	US:KY	56			road
 1551762	US:IL	15			road
 1558425	US:IL:McHenry	V29		McHenry County Highway V29	road
 1558428	US:IL:McHenry	A50		McHenry County Highway A50	road
@@ -3252,3 +3253,5 @@
 20728292	US:I	490	south		road
 20739159	Pace	354	anticlockwise	Bus 354: Harvey - Oak Forest Counterclockwise Loop	bus
 20739303	Pace	322	east	Bus 322: Yorktown Mall => 54th/Cermak Pink Line Station	bus
+20749779	NICTD	SSL	north	NICTD South Shore Line: Munster/Dyer => Millennium Station	train
+20749780	NICTD	SSL	south	NICTD South Shore Line: Millennium Station => Munster/Dyer	train
