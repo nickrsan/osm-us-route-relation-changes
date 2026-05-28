@@ -1672,16 +1672,16 @@
 12288614	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
 12292968	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
 12292975	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
-12293101	Tulsa Transit	130		Admiral	bus
-12293116	Tulsa Transit	130		Admiral	bus
-12297340	Tulsa Transit	140		11th Street	bus
-12297370	Tulsa Transit	140		11th Street	bus
-12301511	Tulsa Transit	150		21st Street	bus
-12301548	Tulsa Transit	150		21st Street	bus
+12293101	MetroLink Tulsa	130		Admiral	bus
+12293116	MetroLink Tulsa	130		Admiral	bus
+12297340	MetroLink Tulsa	140		11th Street	bus
+12297370	MetroLink Tulsa	140		11th Street	bus
+12301511	MetroLink Tulsa	150		21st Street	bus
+12301548	MetroLink Tulsa	150		21st Street	bus
 12305023	US:OK:Cherokee	N460			road
 12305024	US:OK:Cherokee	W710			road
-12305479	Tulsa Transit	201		Airport/Pine	bus
-12310171	Tulsa Transit	201		Airport/Pine	bus
+12305479	MetroLink Tulsa	201		Airport/Pine	bus
+12310171	MetroLink Tulsa	201		Airport/Pine	bus
 12312898	MetroLink Tulsa	300		31st Street	bus
 12313340	MetroLink Tulsa	300		31st Street	bus
 12322254	lcn				bicycle
@@ -3157,12 +3157,12 @@
 16102615	US:OK:Rogers	E520			road
 16140846	US:OK:Rogers	S4070			road
 16144263	US:OK:Rogers	E510			road
-16156365	Tulsa Transit	250		Crosstown	bus
-16156370	Tulsa Transit	250		Crosstown	bus
+16156365	MetroLink Tulsa	250		Crosstown	bus
+16156370	MetroLink Tulsa	250		Crosstown	bus
 16164332	MetroLink Tulsa	320		Sheridan	bus
 16164333	MetroLink Tulsa	320		Sheridan	bus
-16177317	Tulsa Transit	900		Broken Arrow Express	bus
-16177319	Tulsa Transit	900		Broken Arrow Express	bus
+16177317	MetroLink Tulsa	900		Broken Arrow Express	bus
+16177319	MetroLink Tulsa	900		Broken Arrow Express	bus
 16283708	US:OK:Rogers	S4050			road
 16289436	US:OK:Kay	E0180			road
 16358468				Diamond Pipeline	pipeline

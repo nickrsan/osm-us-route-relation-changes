@@ -4216,7 +4216,6 @@
 10928411	lcn	471MZ			mtb
 10928412	lcn	371MZ			mtb
 10946017	Amtrak	Sunset Limited		Amtrak Sunset Limited: Los Angeles => New Orleans	train
-10959269				Culver Junction to Alla	railway
 10959274				El Segundo Branch	railway
 10959774	lcn			Folsom Parkway Rail Trail	bicycle
 10967238	ncn	50		50 (California)	bicycle
@@ -7622,3 +7621,9 @@
 20738727	mtb	SVMB		San Vicente Mountain Biking	mtb
 20738728	lwn	SVH		San Vicente Hiking	foot
 20742932				Moonlight Beach Trail	foot
+20769442	Sonoma County Transit	30		Sonoma County Transit 30: Coddingtown => Sonoma Plaza	bus
+20769443	Sonoma County Transit	30		Sonoma County Transit 30: Sonoma Plaza => Coddingtown	bus
+20769444	Sonoma County Transit	30		Sonoma County Transit 30: Hanna Boys Center => SSU via Sonoma Plaza	bus
+20769445	Sonoma County Transit	30		Sonoma County Transit 30: SSU => Coddingtown via Sonoma Plaza	bus
+20769447	Sonoma County Transit	30X		Sonoma County Transit 30X: Coddingtown => Sonoma Plaza	bus
+20769448	Sonoma County Transit	30X		Sonoma County Transit 30X: Sonoma Plaza => Downtown Santa Rosa	bus
