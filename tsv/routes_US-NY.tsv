@@ -11000,10 +11000,10 @@
 19561261				Yellow Trail	hiking
 19561262				Red Loop Trail	hiking
 19609459	lcn			Watts/Canal	bicycle
-19652371	lhn			Lower Loop	hiking;horse
+19652371				Lower Loop	hiking;horse
 19652372	lhn			Middle Trail	hiking;horse
-19652373	lhn			Rockwood Hall Brook Trail	horse
-19652374	lhn			Upper Trail	hiking;horse
+19652373				Rockwood Hall Brook Trail	hiking;horse
+19652374				Upper Trail	hiking;horse
 19652375	lhn			Foundation Loop	hiking;horse
 19672144	LIRR			Garden City-Mitchel Field Secondary	railway
 19672378	lwn			Rochambeau Ramble	hiking
@@ -11273,7 +11273,6 @@
 20369990	ncn	ECG		East Coast Greenway—UN Esplanade	bicycle
 20375186				Hudson and Boston Railroad	railway
 20375299				Chatham Branch	railway
-20375556	lcn			Saint Marks Place	bicycle
 20389828				NYO&W Delhi Branch	railway
 20395678				Green Trail	hiking
 20395679				Yellow Trail	hiking
@@ -11593,3 +11592,9 @@
 20743021				Orange Trail	hiking
 20758530	lcn			Astor Place	bicycle
 20765597	rcn			Nassau Expressway Shared Use Path	bicycle
+20772569				Blue Trail	hiking
+20772605				Red Trail	hiking
+20772606				Blue Trail	hiking
+20772621				White Trail	hiking
+20773090				Sylvan Glen Trail	hiking
+20773091				Ring Trail	hiking
