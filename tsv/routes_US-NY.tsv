@@ -7924,7 +7924,6 @@
 14026636					hiking
 14026637					hiking
 14026638					hiking
-14026639					hiking
 14037037	lcn	PCT		Putnam County Trailway - cycling	bicycle
 14037038	rcn	NCT		North County Trailway	bicycle
 14042927	US:NY:Allegany	2		Allegany County Route 2	road
@@ -10949,7 +10948,7 @@
 19460272	lwn			The Fern Trail	hiking
 19460273	lwn			Long Trail	hiking
 19463675	rhn			Wallkill Valley Rail Trail	horse
-19463681	lwn			Brookside Trail	hiking
+19463681				Brookside Trail	hiking
 19463682	lwn			Spruce Hill Trail	hiking
 19463685	rhn			Erie Canalway Trail	horse
 19469367				Spruce Grove Spur	horse

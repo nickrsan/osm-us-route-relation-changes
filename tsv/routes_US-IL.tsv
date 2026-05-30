@@ -1196,14 +1196,14 @@
 9100588					power
 9100589					power
 9100590					power
-9107798	Pace	850		North Bolingbrook - East Loop Express (Westbound)	bus
+9107798	Pace	850	west	Bus 850: Michigan/Superior => Pace Canterbury Park-N-Ride	bus
 9107893	GPTC	R4		Lakeshore South	bus
-9107991	Pace	851		South Bolingbrook - East Loop Express (Westbound)	bus
-9107992	Pace	855		Plainfield - East Loop Express (Westbound)	bus
+9107991	Pace	851	west	Bus 851: Michigan/Superior => Pace White Fence Farm Park-N-Ride	bus
+9107992	Pace	855	west	Bus 855: Michigan/Superior => Pace Plainfield Park-N-Ride	bus
 9137597	Pace	755	north	Bus 755: Pace Plainfield Park-N-Ride => Illinois Medical District => Chicago Union Station	bus
-9137598	Pace	855		Plainfield - East Loop Express (Eastbound)	bus
-9137659	Pace	851		South Bolingbrook - East Loop Express (Eastbound)	bus
-9141822	Pace	850		North Bolingbrook - East Loop Express (Eastbound)	bus
+9137598	Pace	855	east	Bus 855: Pace Plainfield Park-N-Ride =>Michigan/Superior	bus
+9137659	Pace	851	east	Bus 851: Pace White Fence Farm Park-N-Ride => Michigan/Superior	bus
+9141822	Pace	850	east	Bus 850: Pace Canterbury Park-N-Ride => Michigan/Superior	bus
 9161614	Amtrak	Hiawatha Service		Amtrak Hiawatha Service: Milwaukee => Chicago	train
 9187668	nwn	ADT G3		ADT - Indiana (North) - G - Seg 3	hiking
 9190075	nwn	ADT I1		ADT - Illinois - I - Seg 1	hiking
@@ -3254,3 +3254,5 @@
 20739303	Pace	322	east	Bus 322: Yorktown Mall => 54th/Cermak Pink Line Station	bus
 20749779	NICTD	SSL	north	NICTD South Shore Line: Munster/Dyer => Millennium Station	train
 20749780	NICTD	SSL	south	NICTD South Shore Line: Millennium Station => Munster/Dyer	train
+20775855				Whistling Point	mini_golf
+20775856				Thunder Falls	mini_golf
