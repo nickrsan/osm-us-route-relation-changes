@@ -94,7 +94,7 @@
 1567525	US:KS	1		KS 1	road
 1575424	US:KS	2		KS 2	road
 1575627	US:KS	3		KS 3	road
-1575841	US:KS	4		KS 4	road
+1575841	US:KS	4			road
 1578058	US:KS	8S		KS 8 (South)	road
 1578059	US:KS	8N		KS 8 (North)	road
 1578308	US:KS	173		KS 173	road
@@ -105,7 +105,7 @@
 1584395	US:KS	120			road
 1584483	US:KS	223		KS 223	road
 1584484	US:KS	123		KS 123	road
-1584485	US:KS	23		KS 23	road
+1584485	US:KS	23			road
 1586494	US:KS	25		KS 25	road
 1586544	US:KS	26		KS 26	road
 1586820	US:KS	27		KS 27	road
@@ -405,7 +405,7 @@
 3838941				"Chicago, Rock Island and Pacific Railroad"	railway
 3869984	US:NE	14			road
 3886813	US:KS	185		KS 185	road
-3886814	US:KS	138		KS 138	road
+3886814	US:KS	138			road
 3905607	US:NE	112		Nebraska Highway 112	road
 4057417				walking route indian hills 23rd street	foot
 4219623					power
@@ -1255,7 +1255,7 @@
 16179244	RideKC	101		"Bus 101: Downtown Kansas City, MO => Village West"	bus
 16246840	lcn			Turkey Creek Trail	bicycle
 16328652	US:KS:Spur	19		KS 19 Spur	road
-16331613	US:KS:Alt	23		KS 23 Alt	road
+16331613	US:KS:Alternate	23			road
 16332058	US:KS:Truck	32		KS 32 Truck	road
 16332274	US:KS	41		KS 41	road
 16332408	US:KS	43		KS 43	road
@@ -1271,7 +1271,7 @@
 16341402	US:KS	140		KS 140	road
 16341586	US:KS	146		KS 146	road
 16344873	US:KS	153		KS 153	road
-16344874	US:KS:Spur	153		KS 153 Spur	road
+16344874	US:KS:Spur	153			road
 16345263	US:KS	170		KS 170	road
 16345545	US:KS	179		KS 179	road
 16345936	US:KS	196		KS 196	road
@@ -1368,3 +1368,5 @@
 20732553	US:KS:Harvey	556			road
 20774013	US:KS:Truck	9			road
 20774014	US:KS:Truck	99			road
+20780291	US:KS:Alternate	4			road
+20780294	US:KS:Spur	23			road
