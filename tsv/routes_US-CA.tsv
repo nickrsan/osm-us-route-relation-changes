@@ -381,7 +381,6 @@
 1105801	Santa Barbara MTD	25	UCSB	Ellwood	bus
 1105824	Santa Barbara MTD	24x	Downtown SB	UCSB Express	bus
 1105825	Santa Barbara MTD	24x	Camino Real Marketplace	UCSB Express	bus
-1105826	Santa Barbara MTD	27		Isla Vista Shuttle	bus
 1105827	Santa Barbara MTD	27	Camino Real Marketplace	Isla Vista Shuttle	bus
 1105829	Santa Barbara MTD	36		Seaside Shuttle	bus
 1105831	Santa Barbara MTD	37	Eastside	Crosstown Shuttle	bus
@@ -7631,3 +7630,6 @@
 20781050				Convention Center to Chula Vista	ferry
 20781454	Santa Barbara MTD	27		Isla Vista Shuttle (IN)	bus
 20781455	Santa Barbara MTD	27		Isla Vista Shuttle (IN)	bus
+20786632	US:CA:IM	4800			road
+20786633	US:CA:KH	4800			road
+20786634	US:CA:EM	4800			road
