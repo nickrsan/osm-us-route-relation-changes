@@ -759,7 +759,7 @@
 1475876	Texas Trunk System			SH 158/US 87 Texas Trunk System corridor	road
 1475877	Texas Trunk System			US 59 Texas Trunk System corridor	road
 1475878	Texas Trunk System			US 277/US 82/US 83 Texas Trunk System corridor	road
-1475879	Texas Trunk System			US 83 Texas Trunk System corridor	road
+1475879	US:TX:Trunk	1		US 83 Texas Trunk System corridor	road
 1475919	US:TX	46			road
 1477094	US:TX	43			road
 1477436	US:TX:FM	490			road
@@ -8233,6 +8233,7 @@
 12180533	Amtrak	Texas Eagle		Amtrak Texas Eagle: Los Angeles => Chicago	train
 12180534	Amtrak	Texas Eagle		Amtrak Texas Eagle: Chicago => Los Angeles	train
 12180535	Amtrak	Texas Eagle		Amtrak Texas Eagle: San Antonio => Chicago	train
+12180885	US:I	2	west		road
 12180886	US:I	2	east		road
 12189772		00		Orange / Naranja	bus
 12190089		01		Red / Rojo	bus
@@ -9390,7 +9391,6 @@
 16405408	rwn			Trail Between The Lakes	hiking
 16407827	lwn			White Oak Trail	hiking
 16407828	local			Big Creek Trail	hiking
-16436222		I 40		Purple Heart Trail	road
 16441479				Purple Heart Trail	road
 16441846	US:TX			Texas Hill Country Trail	road
 16441913	US:TX:RM	RM 1050		Ranch to Market Road 1050	road
@@ -11873,11 +11873,16 @@
 20506137	DART	244		Bus 244: Arapaho Center Station -> UT Dallas Station	bus
 20506138	DART	244		Bus 244: UT Dallas Station -> Arapaho Center Station	bus
 20517123				Longhorn Army Ammunition Plant	railway
-20590974	US:US	HR 66		Original US 66	road
-20641244	lwn			Waller Creek Greenbelt Trail	foot
+20641244	lwn	WCGT		Waller Creek Greenbelt Trail	foot
 20687532				Natural Bridge Wildlife Ranch Safari	safari
 20734520	rwn	SCUT		Shoal Creek Urban Trail	foot
 20744100	US:US:Express	87	north		road
 20744101	US:I:Express	10	west		road
 20744102	US:US:Express	87	south		road
 20744103	US:I:Express	10	east		road
+20800473	lcn	WCGT		Waller Creek Greenbelt Trail	bicycle
+20801080	US:I:Future	2	west	Future I-2 (westbound)	road
+20801081	US:I:Future	2	east	Future I-2 (eastbound)	road
+20802736				Oaks Course	golf
+20802737				Creeks Course	golf
+20802738				Lakes Course	golf

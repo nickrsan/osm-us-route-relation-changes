@@ -765,7 +765,7 @@
 4480202	Pace	250	east	Bus 250: O'Hare MMF->Davis CTA Station	bus
 4480234	Pace	270	north	Bus 270: Jeff Park Transit Center -> Glenbrook Hospital	bus
 4480264	Pace	272		Milwaukee Avenue North	bus
-4480377	Pace	290	west	290: Howard CTA Station -> Cumberland CTA Station	bus
+4480377	Pace	290	west	290: Howard CTA Station => Cumberland CTA Station	bus
 4499116	Pace	301		Roosevelt Road	bus
 4499412	Pace	302		Ogden-Stanley	bus
 4513501	Pace	303	north	Bus 303: Forest Park CTA Station -> Rosemont CTA Station	bus
@@ -2503,7 +2503,7 @@
 16703226				Pullman Branch	railway
 16703227				Western Avenue Industrial Track	railway
 16703228				Kenwood Line	railway
-16716894	Pace	290	east	Bus 290: Cumberland CTA Station -> Howard CTA Station	bus
+16716894	Pace	290	east	Bus 290: Cumberland CTA Station => Howard CTA Station	bus
 16799624	Metra	MD-N	south	Metra Milwaukee District North: Lake Forest => Chicago	train
 16799625	Metra	MD-N	south	Metra Milwaukee District North: Deerfield => Chicago	train
 16799626	Metra	MD-N	south	Metra Milwaukee District North: Grayslake => Chicago	train
@@ -2932,8 +2932,7 @@
 19607152	Pace	421		Bus 421: Northfield Plaza -> Linden CTA Station	bus
 19629967	Pace	530	west	Bus 530: Naperville Metra Station → Nelson & Constitution	bus
 19629984	Pace	530	east	Bus 530: Nelson & Constitution → Commons Drive → Naperville Metra Station	bus
-19630836	Pace	290	east	Bus 290: Touhy & Central -> Howard CTA Station F & T Trips	bus
-19630837	Pace	290	west	290: Howard CTA Station -> Touhy/Milwaukee	bus
+19630837	Pace	290	west	290: Howard CTA Station => Touhy/Milwaukee	bus
 19630838	Pace	530	west	Bus 530: Naperville Metra Station → Plum Street → Constitution House → Nelson & Constitution	bus
 19630839	Pace	530	west	Bus 530: Naperville Metra Station → Plum Street → Nelson & Constitution	bus
 19630840	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Plum Street → Constitution House → Nelson & Constitution	bus
@@ -2941,13 +2940,12 @@
 19630842	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Constitution House → Nelson & Constitution	bus
 19630843	Pace	530	west	Bus 530: Naperville Metra Station → Constitution House → Nelson & Constitution	bus
 19630844	Pace	530	west	Bus 530: Naperville Metra Station → Commons Drive → Nelson & Constitution	bus
-19638776	Pace	290	west	290: Howard CTA Station -> Touhy/Overhill	bus
-19638777	Pace	290	east	Bus 290: Touhy/Overhill -> Howard CTA Station	bus
-19638857	Pace	290	west	290: Howard CTA Station -> Park Ridge Metra Station	bus
-19638858	Pace	290	east	Bus 290: Park Ridge Metra Station -> Howard CTA Station	bus
-19639051	Pace	290	west	290: Howard CTA Station -> Touhy/Central F Trips	bus
-19639052	Pace	290	east	Bus 290: Touhy & Central -> Howard CTA Station F Trips	bus
-19639053	Pace	290	west	290: Howard CTA Station -> Touhy/Central F & T Trips	bus
+19638776	Pace	290	west	290: Howard CTA Station => Touhy/Overhill	bus
+19638777	Pace	290	east	Bus 290: Touhy/Overhill => Howard CTA Station	bus
+19638857	Pace	290	west	290: Howard CTA Station => Park Ridge Metra Station	bus
+19638858	Pace	290	east	Bus 290: Park Ridge Metra Station => Howard CTA Station	bus
+19639051	Pace	290	west	290: Howard CTA Station => Touhy/Central F Trips	bus
+19639052	Pace	290	east	Bus 290: Touhy & Central => Howard CTA Station F Trips	bus
 19645467	RVMMTD	12		Kennedy Drive/Christine Drive/Bourbonnais	bus
 19645468	RVMMTD	14		Mulberry/Eagle/Station /Kankakee High School	bus
 19656204				Fox Water Trail	canoe
@@ -3228,7 +3226,6 @@
 20641261				Kimes Road	road
 20657859	lcn			Kedzie	bicycle
 20657860	lcn			Logan	bicycle
-20663087					road
 20684343	Pace	626	south	Bus 626: Lincolnshire Business Center => Dempster-Skokie CTA Station	bus
 20684410	Pace	358	north	Bus 358: Pace Chicago Heights Terminal => Hegewisch South Shore Line Station	bus
 20684466	Pace	366	east	Bus 366: Downtown Park Forest => Pace Chicago Heights Terminal	bus
@@ -3256,3 +3253,7 @@
 20749780	NICTD	SSL	south	NICTD South Shore Line: Millennium Station => Munster/Dyer	train
 20775855				Whistling Point	mini_golf
 20775856				Thunder Falls	mini_golf
+20799924	US:IL:Cook	W18			road
+20800132	US:IL:Cook	B66			road
+20800133	US:IL:Cook	W39			road
+20800332	Pace	290	east	Bus 290: Touhy/Milwaukee => Howard CTA Station	bus

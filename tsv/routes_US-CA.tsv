@@ -5582,9 +5582,9 @@
 15601672	City of Lompoc Transit	1		Route 1	bus
 15607342	OC Bus	83		OC Bus 83: Fullerton - Laguna Hills	bus
 15607348	City of Lompoc Transit	Santa Barbara		Santa Barbara Service	bus
-15611106	Guadalupe Flyer	GuadalupeX		Guadalupe Express	bus
+15611106	Santa Maria Regional Transit	40		40 - Guadalupe Flyer	bus
 15611142	City of Lompoc Transit	2		Route 2	bus
-15614585	Guadalupe Flyer	Guadalupe		Guadalupe Local Route	bus
+15614585	Santa Maria Regional Transit	41		41 - Guadalupe Local	bus
 15614602	City of Lompoc Transit	3		Route 3	bus
 15617540	Santa Maria Regional Transit	20		20 - Santa Maria Transit Center/Los Alamos/Buellton/Solvang	bus
 15617759	OC Bus	453		OC Bus 453: St Joseph Hospital - Orange Transportation Center	bus
@@ -7633,3 +7633,7 @@
 20786632	US:CA:IM	4800			road
 20786633	US:CA:KH	4800			road
 20786634	US:CA:EM	4800			road
+20797633	Santa Maria Regional Transit	50		50- New Cuyama Shuttle	bus
+20799985	Sonoma County Transit	32		Sonoma County Transit 32: North loop	bus
+20799986	Sonoma County Transit	32		Sonoma County Transit 32: South Loop	bus
+20799987	Sonoma County Transit	32		Sonoma County Transit 32: South Loop via Temelec	bus

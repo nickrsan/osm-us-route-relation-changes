@@ -111,7 +111,7 @@
 1933536	US:I:Business:Loop	8		"I 8 Business (Gila Bend, AZ)"	road
 1933537	US:I:Business:Loop	8		"I 8 Business (Yuma, AZ)"	road
 1933538	US:US:Business	191			road
-1933539	US:US:Alternate	89A			road
+1933539	US:US	89A			road
 2306244	US:US	89			road
 2306246	US:US	89			road
 2306277	US:US	191			road
@@ -1720,3 +1720,8 @@
 20658043	US:BLM	7125F			road
 20658807	US:AZ	30		Tres Rios Freeway	road
 20712925	lcn			Dreamy Draw Bikeway	bicycle
+20800004	US:NFSR:Kaibab:FR	35			road
+20800005	US:NFSR:Kaibab:FR	796		Forest Road 796	road
+20800006	US:NFSR:Kaibab:FR	4		Forest Road 4	road
+20800007	US:NFSR:Kaibab:FR	3101		Forest Road 3101	road
+20800008	US:NFSR:Kaibab:FR	38		Forest Road 38	road

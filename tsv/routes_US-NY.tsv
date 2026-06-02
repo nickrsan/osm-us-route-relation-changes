@@ -1333,9 +1333,9 @@
 2666269	US:NY:Erie	524		Two Mile Creek Road	road
 2666278	US:NY:Erie	542		Ensminger Road	road
 2666318	US:NY:Erie	306		Knoche Road	road
-2667213	NYC Transit	Q101		NYCB - Q101 Steinway --> E60 Street	bus
-2667214	NYC Transit	Q103		NYCB - Q103 Long Island City --> Astoria 2 Av	bus
-2667215	NYC Transit	Q104		NYCB - Q104 Long Island City --> Sunnyside	bus
+2667213	NYC Transit	Q101		NYCB - Q101 Steinway --> Hunters Point	bus
+2667214	NYC Transit	Q103		NYCB - Q103 Hunters Point --> Astoria 2 Av	bus
+2667215	NYC Transit	Q104		NYCB - Q104 Sunnyside --> Long Island City	bus
 2667216	NYC Transit	Q18		NYCB - Q18 Astoria --> Maspeth	bus
 2667217	NYC Transit	Q19		NYCB - Q19 - Downtown Flushing --> Astoria 2 Av	bus
 2667218	NYC Transit	Q33		NYCB - Q33 LGA Marine Air Terminal --> Jackson Heights	bus
@@ -1392,7 +1392,7 @@
 2904677	NYC Transit	Q7		NYCB - Q7 East New York --> JFK	bus
 2904685	NYC Transit	Q8		NYCB - Q8 Jamaica Center --> Gateway Mall	bus
 2904711	NYC Transit	Q9		NYCB - Q9 Jamaica Bus Terminal --> South Ozone Park	bus
-2904721	NYC Transit	Q10		NYCB - Q10 Kew Gardens --> JFK	bus
+2904721	NYC Transit	Q10		NYCB - Q10 Kew Gardens --> Lefferts Blvd AirTrain	bus
 2904728	NYC Transit	Q21		NYCB - Q21 Queens Center Mall --> Howard Beach	bus
 2904729	NYC Transit	Q11		NYCB - Q11 Hamilton Beach --> Queens Center Mall	bus
 2904839	NYC Transit	Q12		NYCB - Q12 Downtown Flushing --> Little Neck	bus
@@ -5386,7 +5386,6 @@
 8275060	lwn			Fringed Gentian Trail	hiking
 8275061	lwn			Perimeter Trail	hiking
 8275064	lwn			Disappearing Brook Trail	hiking
-8277402	NYC Transit	Q10		NYCB - Q10 LTD Kew Gardens --> JFK	bus
 8279168	lcn			Park Row	bicycle
 8281741	lcn			60th Street	bicycle
 8281742	lcn			59th Street	bicycle
@@ -7129,8 +7128,7 @@
 12210845	NYC Transit	Q44 SBS		NYCB - Q44 SBS Jamaica Center --> Bronx Zoo	bus
 12213835	NYC Transit	Q70 SBS		NYCB - Q70 SBS Woodside LIRR --> LaGuardia Airport	bus
 12213973	NYC Transit	Q53 SBS		NYCB - Q53 SBS Woodside LIRR --> Rockaway Beach 116th Street	bus
-12215108	NYC Transit	Q101		"NYCB - Q101 East Midtown --> Ed Koch UPPER --> Steinway, Queens"	bus
-12215109	NYC Transit	Q101		"NYCB - Q101 East 60th Street --> Ed Koch LOWER --> Steinway, Queens"	bus
+12215108	NYC Transit	Q101		"NYCB - Q101 Hunters Point --> Steinway, Queens"	bus
 12225657	lwn				hiking
 12225703	lwn			Normans Kill Preserve - East Trail	hiking
 12225704	lwn			Normans Kill Preserve - West Trail	hiking
@@ -7229,7 +7227,7 @@
 12270689	NYC Transit	Q5		NYCB - Q5 Jamaica Center --> Green Acres Mall	bus
 12270690	NYC Transit	Q5		NYCB - Q5 Rosedale LIRR --> Jamaica Center	bus
 12270917	NYC Transit	Q85		NYCB - Q85 Rosedale 243 St --> Jamaica Center	bus
-12271093	NYC Transit	Q104		NYCB - Q104 Sunnyside --> Long Island City	bus
+12271093	NYC Transit	Q104		NYCB - Q104 Long Island City --> Sunnyside	bus
 12271143	NYC Transit	Q100 LTD		NYCB - Q100 LTD Rikers Island --> Long Island City	bus
 12271144	NYC Transit	Q69		NYCB - Q69 East Elmhurst --> Long Island City	bus
 12271287	NYC Transit	Q55		NYCB - Q55 Richmond Hill --> Ridgewood	bus
@@ -7310,7 +7308,7 @@
 12295218	NYC Transit	Q27		NYCB - Q27 Laurelton --> Downtown Flushing	bus
 12295219	NYC Transit	Q77		NYCB - Q77 Springfield Gardens --> Jamaica Bus Terminal	bus
 12295242	NYC Transit	Q84		NYCB - Q84 Cambria Heights --> Jamaica Center	bus
-12295292	NYC Transit	Q103		NYCB - Q103 Astoria 2 Av --> Long Island City	bus
+12295292	NYC Transit	Q103		NYCB - Q103 Astoria 2 Av --> Hunters Point	bus
 12295371	NYC Transit	Q17		NYCB - Q17 Downtown Flushing --> Jamaica Center	bus
 12295372	NYC Transit	Q88		NYCB - Q88 Queens Village --> Queens Center Mall	bus
 12295435	NYC Transit	Q12		NYCB - Q12 Little Neck --> Downtown Flushing	bus
@@ -7553,8 +7551,7 @@
 12382603	NYC Transit	M34 SBS		NYCB - M34 SBS Waterside Plaza --> Javits Center via 34th Street	bus
 12389754	NYC Transit	Q15A		NYCB - Q15A Beechhurst --> Downtown Flushing	bus
 12389755	NYC Transit	Q15		NYCB - Q15 Beechhurst --> Downtown Flushing	bus
-12389836	NYC Transit	Q10		NYCB - Q10 LTD JFK --> Kew Gardens	bus
-12389837	NYC Transit	Q10		NYCB - Q10 JFK --> Kew Gardens	bus
+12389837	NYC Transit	Q10		NYCB - Q10 Lefferts Blvd AirTrain --> Kew Gardens	bus
 12389853	NYC Transit	Q2		NYCB - Q2 UBS Arena --> Jamaica Bus Terminal	bus
 12389882	NYC Transit	Q18		NYCB - Q18 Maspeth --> Astoria	bus
 12441881	lwn			Red Loop	hiking
@@ -11597,3 +11594,12 @@
 20772621				White Trail	hiking
 20773090				Sylvan Glen Trail	hiking
 20773091				Ring Trail	hiking
+20799415	NYC Transit	Q80		NYCB - Q80 Lefferts Blvd AirTrain --> Kew Gardens	bus
+20799416	NYC Transit	Q80		NYCB - Q80 Kew Gardens --> Lefferts Blvd AirTrain	bus
+20799933	NYC Transit	Q82		NYCB - Q82 Belmont LIRR --> Jamaica Bus Terminal	bus
+20799934	NYC Transit	Q82		NYCB - Q82 Jamaica Center --> Belmont LIRR	bus
+20800178	NYC Transit	Q98		NYCB - Q98 Ridgewood --> Downtown Flushing	bus
+20800179	NYC Transit	Q98		NYCB - Q98 Downtown Flushing --> Ridgewood	bus
+20802378	lcn			Forest Avenue	bicycle
+20802490				Catbird Trail	hiking
+20802491				Cole Kettle Trail	hiking
