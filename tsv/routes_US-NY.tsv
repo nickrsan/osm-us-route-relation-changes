@@ -7286,8 +7286,6 @@
 12290092	NYC Transit	M1		NYCB - M1 East Village --> Harlem	bus
 12290178	NYC Transit	Q76		NYCB - Q76 College Point --> Jamaica Center	bus
 12290582	NYC Transit	Q28		NYCB - Q28 Bay Terrace --> Downtown Flushing	bus
-12290841	NYC Transit	Q16		NYCB - Q16 Downtown Flushing --> Francis Lewis Boulevard/Willets Point Boulevard --> Bay Terrace	bus
-12290842	NYC Transit	Q16		NYCB - Q16 Bay Terrace --> Francis Lewis Boulevard/Willets Point Boulevard --> Downtown Flushing	bus
 12290843	NYC Transit	Q16		NYCB - Q16 Bay Terrace --> Utopia Parkway --> Downtown Flushing	bus
 12292708	lwn	21		Powerline Trail	hiking
 12292709		21		Powerline Trail	piste
@@ -10946,7 +10944,7 @@
 19460273	lwn			Long Trail	hiking
 19463675	rhn			Wallkill Valley Rail Trail	horse
 19463681				Brookside Trail	hiking
-19463682	lwn			Spruce Hill Trail	hiking
+19463682				Spruce Hill Trail	hiking
 19463685	rhn			Erie Canalway Trail	horse
 19469367				Spruce Grove Spur	horse
 19469368				Bear Spring - Switchback Spur	horse
@@ -11616,3 +11614,8 @@
 20809894				Maple Loop	hiking;horse
 20809901				Pocantico Gate Trail	hiking;horse
 20809902				Hudson Pines Road	hiking;horse
+20813338	lwn			Helen's Way	hiking
+20814176				Laurel Trail	hiking
+20814177				Hemlock Trail	hiking
+20814295	NYC Transit	Q75		NYCB - Q75 Jamaica Center --> QCC	bus
+20814296	NYC Transit	Q75		NYCB - Q75 QCC --> Jamaica LIRR	bus
