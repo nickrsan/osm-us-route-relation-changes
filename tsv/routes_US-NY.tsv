@@ -1351,7 +1351,7 @@
 2671581	NYC Transit	Q32		NYCB - Q32 Jackson Heights --> Penn Station	bus
 2671582	NYC Transit	Q39		NYCB - Q39 Long Island City --> Ridgewood	bus
 2671583	NYC Transit	Q47		NYCB - Q47 - Glendale to East Elmhurst	bus
-2671584	NYC Transit	Q49		NYCB - Q49	bus
+2671584	NYC Transit	Q49		NYCB - Q49 Jackson Heights --> East Elmhurst	bus
 2671585	NYC Transit	Q55		NYCB - Q55 Ridgewood --> Richmond Hill	bus
 2671586	NYC Transit	Q59		NYCB - Q59 Rego Park --> Williamsburg	bus
 2671587	NYC Transit	Q60		NYCB - Q60 South Jamaica --> East Midtown	bus
@@ -1389,7 +1389,7 @@
 2904637	NYC Transit	Q4		NYCB - Q4 Jamaica Center --> Cambria Heights	bus
 2904661	NYC Transit	Q5		NYCB - Q5 Jamaica Center --> Rosedale LIRR	bus
 2904674	NYC Transit	Q6		NYCB - Q6 JFK Employee Parking --> Jamaica Bus Terminal	bus
-2904677	NYC Transit	Q7		NYCB - Q7 East New York --> JFK	bus
+2904677	NYC Transit	Q7		NYCB - Q7 Cypress Hills --> JFK Travel Plaza	bus
 2904685	NYC Transit	Q8		NYCB - Q8 Jamaica Center --> Gateway Mall	bus
 2904711	NYC Transit	Q9		NYCB - Q9 Jamaica Bus Terminal --> South Ozone Park	bus
 2904721	NYC Transit	Q10		NYCB - Q10 Kew Gardens --> Lefferts Blvd AirTrain	bus
@@ -7222,7 +7222,7 @@
 12268918	NYC Transit	Q66		NYCB - Q66 Downtown Flushing --> Long Island City	bus
 12270460	NYC Transit	Q9		NYCB - Q9 South Ozone Park --> Jamaica Bus Terminal	bus
 12270616	NYC Transit	Q41		NYCB - Q41 Howard Beach --> Jamaica Bus Terminal	bus
-12270643	NYC Transit	Q7		NYCB - Q7 JFK --> East New York	bus
+12270643	NYC Transit	Q7		NYCB - Q7 JFK Travel Plaza --> Cypress Hills	bus
 12270688	NYC Transit	Q5		NYCB - Q5 Green Acres Mall --> Jamaica Center	bus
 12270689	NYC Transit	Q5		NYCB - Q5 Jamaica Center --> Green Acres Mall	bus
 12270690	NYC Transit	Q5		NYCB - Q5 Rosedale LIRR --> Jamaica Center	bus
@@ -8005,7 +8005,7 @@
 14383917				Wren Trail	hiking
 14383918				Fox Trail	hiking
 14383919				Beaver Trail	hiking
-14390742	NYC Transit	Q49		NYCB - Q49	bus
+14390742	NYC Transit	Q49		NYCB - Q49 East Elmhurst --> Jackson Heights	bus
 14391996	NYC Transit	Q47		NYCB - Q47 - East Elmhurst to Glendale	bus
 14392345	RIOC Red Bus			RIOC Red Bus (Southbound)	bus
 14392346				RIOC Red Bus (Northbound)	bus
@@ -8505,7 +8505,7 @@
 16016698	lwn			Wiccopee Trail	hiking
 16016699	lwn			Trout Brook Trail	hiking
 16016700	lwn			Round Hill Bypass Trail	hiking
-16016701	lwn			Roaring Brook Trail	hiking
+16016701				Roaring Brook Trail	hiking
 16016702	lwn			Perkins Trail	hiking
 16016703	lwn			Perkins Access Trail (Red)	hiking
 16016704	lwn			Oscawana Ridge Trail	hiking
@@ -11619,3 +11619,15 @@
 20814177				Hemlock Trail	hiking
 20814295	NYC Transit	Q75		NYCB - Q75 Jamaica Center --> QCC	bus
 20814296	NYC Transit	Q75		NYCB - Q75 QCC --> Jamaica LIRR	bus
+20815893				Fox Run Trail	hiking
+20815894				Chickadee Trail	hiking
+20815923				Veery Trail	hiking
+20815924				Raptor Ridge Trail	hiking
+20815925				Wood Thrush Trail	hiking
+20815926				Sentry Ridge Trail	hiking
+20815941				Lost Pond Trail	hiking
+20815942				Easy Loop	hiking
+20816447	NYC Transit	Q45		NYCB - Q45 Kew Gardens --> Fresh Meadows	bus
+20816448	NYC Transit	Q45		NYCB - Q45 Fresh Meadows --> Kew Gardens	bus
+20816557	NYC Transit	Q51		NYCB - Q51 Cambria Heights --> Ozone Park	bus
+20816558	NYC Transit	Q51		NYCB - Q51 Ozone Park --> Cambria Heights	bus

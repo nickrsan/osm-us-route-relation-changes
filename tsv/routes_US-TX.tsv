@@ -11759,7 +11759,6 @@
 19017820	US:TX:Wood	3260		Wood County Road 3260	road
 19017821	US:TX:Wood	3266		Wood County Road 3266	road
 19019374	US:TX	104			road
-19019407	US:TX	104		Texas State Highway 104	road
 19020327	US:TX	365			road
 19020337	US:TX:Spur	29		Texas State Highway Spur 29	road
 19020350	US:TX:Loop	195		Texas State Highway Loop 195	road
@@ -11889,3 +11888,9 @@
 20807785	lcn			Guthrie Park Trail	bicycle
 20807786	lcn			Cargill Long Park Trail	bicycle
 20807787	lcn			Paul G Boorman Trail	bicycle
+20819323	Amtrak Thruway	6121			bus
+20819324	Amtrak Thruway	6021			bus
+20819403	Amtrak Thruway	6022			bus
+20819404	Amtrak Thruway	6122			bus
+20819405	Amtrak Thruway	6421			bus
+20819406	Amtrak Thruway	6422			bus
