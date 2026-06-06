@@ -749,6 +749,7 @@
 960423	US:NY	337			road
 960424	US:NY:Schenectady	87		Schenectady County Route 87	road
 960425	US:NY:Schenectady	89		Schenectady County Route 89	road
+1013410	US:PA	14			road
 1013853	US:PA	29			road
 1014442	lcn	Jon Dechau Memorial Time Trial Course		Jon Dechau Memorial Time Trial Course	bicycle
 1014615	US:PA	92			road
@@ -4966,8 +4967,6 @@
 7164708	lcn			222nd Street	bicycle
 7168873	lcn			York Street	bicycle
 7168874	lcn			Pearl Street	bicycle
-7168971	US:PA	14	north		road
-7168972	US:PA	14	south		road
 7171194	lwn			Lyon Mountain Trail	hiking
 7171850	lwn			Big Slide Trail	hiking
 7172255	lcn			124th Street	bicycle
@@ -10037,11 +10036,11 @@
 18098745		T4110-1		R-L #8 - Lehigh Tap	power
 18098746		T4110-1		R-L #8 - Camden Wire Tap	power
 18098747		T4110-3		R-L #8 - Voorhees Ave Tap	power
-18099986	lwn			Red Trail	hiking
-18099987	lwn			Yellow Trail	hiking
-18099988	lwn			Green Trail	hiking
+18099986				Red Trail	hiking
+18099987				Yellow Trail	hiking
+18099988				Green Trail	hiking
 18099989				Blue Trail	hiking
-18099990	lwn			White Trail	hiking
+18099990				White Trail	hiking
 18101843	lwn	19		Gibsonville Trail	hiking
 18101844	lwn	19B		Vanished Village Trail	hiking
 18102885	lwn			Yellow Brick Road	foot
@@ -11631,3 +11630,6 @@
 20816448	NYC Transit	Q45		NYCB - Q45 Fresh Meadows --> Kew Gardens	bus
 20816557	NYC Transit	Q51		NYCB - Q51 Cambria Heights --> Ozone Park	bus
 20816558	NYC Transit	Q51		NYCB - Q51 Ozone Park --> Cambria Heights	bus
+20822619				Yellow Trail	hiking
+20822643				White Trail	hiking
+20822644				Blue Trail	hiking
