@@ -1103,7 +1103,7 @@
 2386112	US:CA:CR	66			road
 2396185	US:I	10	east		road
 2396186	US:I	10	west		road
-2400284				Hollywood Walk of Fame	foot
+2400284	lwn	194		Hollywood Walk of Fame	foot
 2408039				Ramon Road	road
 2417874	lwn			Cabin Creek Trail	hiking
 2425280	US:I:Business:Loop	205		"I 205 Business (Tracy, CA)"	road
@@ -7641,3 +7641,5 @@
 20806295	Sonoma County Transit	34		Sonoma County Transit 34: Sonoma Plaza => Downtown Santa Rosa	bus
 20813080	Sonoma County Transit	40		Sonoma County Transit 40: Petaluma Transit Mall => Sonoma Plaza	bus
 20813081	Sonoma County Transit	40		Sonoma County Transit 40: Sonoma Plaza => Petaluma Transit Mall	bus
+20826792	lcn	CAB		Central Avenue Bikeway	bicycle
+20826793	lcn	SR 15		SR 15 Commuter Bikeway	bicycle

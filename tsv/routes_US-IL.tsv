@@ -3012,7 +3012,7 @@
 19981250	Pace	381	east	Bus 381: Moraine Valley Community College => 95th/Dan Ryan CTA Station (H Trips)	bus
 19981251	Pace	381	west	Bus 381: 95th/Dan Ryan CTA Station => Moraine Valley Community College (H Trips)	bus
 19984869	Pace	364	east	Bus 364: Herion/Wheeler => Hegewisch South Shore Line Station	bus
-19991802	Pace	364	east	Bus 364: Herion/Wheeler => Morton/Willow	bus
+19991802	Pace	364	east	Bus 364: Herion/Wheeler => Orland Sqaure Mall => Morton/Willow	bus
 19991803	Pace	364	west	Bus 364: Morton & Willow => Herion/Wheeler	bus
 20006756	lwn			Tan Unpaved Spur	hiking
 20006757	lwn			Red Unpaved Trail	hiking
@@ -3257,3 +3257,6 @@
 20800132	US:IL:Cook	B66			road
 20800133	US:IL:Cook	W39			road
 20800332	Pace	290	east	Bus 290: Touhy/Milwaukee => Howard CTA Station	bus
+20825712	Connect Transit	Mint		Mint Route	bus
+20826925	Pace	364	west	Bus 364: Morton & Willow => Orland Square Mall => Herion/Wheeler	bus
+20826926	Pace	364	east	Bus 364: Herion/Wheeler => Morton/Willow	bus

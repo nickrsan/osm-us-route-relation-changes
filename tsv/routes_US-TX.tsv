@@ -2401,7 +2401,6 @@
 2263643	US:TX	140		Texas State Highway 140	road
 2263644	US:TX:FM	868			road
 2307589	US:I	30			road
-2311672				Town Center Trolley	bus
 2319874					road
 2320025					road
 2320387					road
@@ -11894,3 +11893,4 @@
 20819404	Amtrak Thruway	6122			bus
 20819405	Amtrak Thruway	6421			bus
 20819406	Amtrak Thruway	6422			bus
+20826666				Town Center Trolley	trolleybus
