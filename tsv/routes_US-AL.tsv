@@ -7,7 +7,7 @@
 319705	US:US	278			road
 326341	rcn			Silver Comet Trail	bicycle
 326630	rcn			Chief Ladiga Trail	bicycle
-370732	US:MS	76	east		road
+370732	US:MS	76			road
 371156	US:US	98			road
 382496	US:US	90			road
 382641	US:FL	97			road
@@ -467,7 +467,6 @@
 2883785	US:US	43			road
 2955629	US:I	22	east		road
 2955630	US:I	22	west		road
-3134596	US:MS	76	west		road
 3300030	US:NPS:Natchez_Trace			Natchez Trace Parkway (Alabama)	road
 3300031	US:NPS:Natchez_Trace			Natchez Trace Parkway (Tennessee)	road
 3317163	ncn	90			bicycle

@@ -1942,21 +1942,20 @@
 12256749	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Gary	train
 12256750	NICTD	SSL	west	NICTD South Shore Line: Carroll Avenue => Millennium Station	train
 12256751	NICTD	SSL	east	NICTD South Shore Line: Millennium Station => Carroll Avenue	train
-12261422	Connect Transit	Aqua		Aqua Route	bus
-12261556	Connect Transit	Blue		Blue Route	bus
-12262275	Connect Transit	Brown		Brown Route	bus
-12262373	Connect Transit	Green		Green Route	bus
-12262534	Connect Transit	Gold		Gold Route	bus
-12262613	Connect Transit	Lime		Lime Route	bus
-12262808	Connect Transit	Orange		Orange Route	bus
-12264688	Connect Transit	Pink		Pink Route	bus
-12264703	Connect Transit	Purple		Purple Route	bus
-12264730	Connect Transit	Red Express		Red Express Route	bus
-12264756	Connect Transit	Red		Red Route	bus
-12265257	Connect Transit	Redbird		Redbird Express	bus
-12265280	Connect Transit	Silver		Silver Route	bus
-12265324	Connect Transit	Tan		Tan Route	bus
-12265384	Connect Transit	Yellow		Yellow Route	bus
+12261422	Connect Transit	Aqua	south	Bus Aqua: Downtown Bloomington -> Southgate & Greyhound	bus
+12261556	Connect Transit	Blue	north	Bus Blue: Downtown Bloomington -> Target	bus
+12262275	Connect Transit	Brown	west	Bus Brown: Uptown Station -> Bloomington Walmart	bus
+12262373	Connect Transit	Green		Bus Green: Uptown Station -> Uptown Station	bus
+12262534	Connect Transit	Gold		Bus Gold: Clockwise Downtown Bloomington -> Downtown Bloomington	bus
+12262613	Connect Transit	Lime	north	Bus Lime: Downtown Bloomington -> Uptown Station	bus
+12262808	Connect Transit	Orange	south	Bus Orange: Downtown Bloomington -> Hamilton & Merna	bus
+12264688	Connect Transit	Pink	north	Bus Pink: Uptown Station -> School & Northfield	bus
+12264703	Connect Transit	Purple	east	Bus Purple: Downtown Bloomington -> Target	bus
+12264756	Connect Transit	Red	south	Bus Red: Uptown Station -> Downtown Bloomington	bus
+12265257	Connect Transit	Redbird Express		Bus Redbird Express: Cardinal Court -> Cardinal Court	bus
+12265280	Connect Transit	Silver	west	Bus Silver: Downtown Bloomington -> Bloomington Walmart	bus
+12265324	Connect Transit	Tan	east	Bus Tan: Uptown Station -> Central Illinois Regional Airport	bus
+12265384	Connect Transit	Yellow	north	Bus Yellow: Uptown Station -> Heartland Community College	bus
 12283644	US:IL:DeKalb	6		DeKalb County Highway 6	road
 12283645	US:IL:DeKalb	24		DeKalb County Highway 24	road
 12283646	US:IL:DeKalb	16		DeKalb County Highway 16	road
@@ -3257,6 +3256,20 @@
 20800132	US:IL:Cook	B66			road
 20800133	US:IL:Cook	W39			road
 20800332	Pace	290	east	Bus 290: Touhy/Milwaukee => Howard CTA Station	bus
-20825712	Connect Transit	Mint		Mint Route	bus
+20825712	Connect Transit	Mint		Bus Mint Route: Normal Walmart -> Normal Walmart	bus
 20826925	Pace	364	west	Bus 364: Morton & Willow => Orland Square Mall => Herion/Wheeler	bus
 20826926	Pace	364	east	Bus 364: Herion/Wheeler => Morton/Willow	bus
+20829510	Connect Transit	Red	north	Bus Red: Downtown Bloomington -> Uptown Station	bus
+20829782	Connect Transit	Blue	south	Bus Blue: Target -> Downtown Bloomington	bus
+20829783	Connect Transit	Aqua	north	Bus Aqua: Southgate & Greyhound -> Downtown Bloomington	bus
+20829925	Connect Transit	Orange	north	Bus Orange: Hamilton & Merna -> Downtown Bloomington	bus
+20829926	Connect Transit	Lime	south	Bus Lime: Uptown Station -> Downtown Bloomington	bus
+20829927	Connect Transit	Brown	east	Bus Brown: Bloomington Walmart -> Uptown Station	bus
+20829987	Connect Transit	Purple	west	Bus Purple: Target -> Downtown Bloomington	bus
+20829988	Connect Transit	Pink	south	Bus Pink: School & Northfield -> Uptown Station	bus
+20830253	Connect Transit	Gold		Bus Gold: Counter-clockwise Downtown Bloomington -> Downtown Bloomington	bus
+20830432	US:IL:Coles County				road
+20830636	Connect Transit	Silver	east	Bus Silver: Bloomington Walmart -> Downtown Bloomington	bus
+20831036	lcn			Grace Street Neighborhood Greenway	bicycle
+20831402	Connect Transit	Tan	west	Bus Tan: Central Illinois Regional Airport -> Uptown Station	bus
+20831430	Connect Transit	Yellow	south	Bus Yellow: Heartland Community College -> Uptown Station	bus

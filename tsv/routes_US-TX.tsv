@@ -5816,8 +5816,8 @@
 9069248	US:US	71	north		road
 9110260	MetroBus	20	north	Capital Metro 20 Manor Road/Riverside (northbound)	bus
 9110261	MetroBus	20	south	Capital Metro 20 Manor Road/Riverside (southbound)	bus
-9110262	MetroBus	18	west	Capital Metro 18 Martin Luther King (westbound)	bus
-9110263	MetroBus	18	east	Capital Metro 18 Martin Luther King (eastbound)	bus
+9110262	MetroBus	18	west	Capital Metro 18 Martin Luther King (Westbound)	bus
+9110263	MetroBus	18	east	Capital Metro 18 Martin Luther King (Eastbound)	bus
 9110264	MetroBus	10	south	Capital Metro 10 South 1st/Red River (southbound)	bus
 9110265	MetroBus	10	north	Capital Metro 10 South 1st/Red River (northbound)	bus
 9112014	MetroBus	152	north	Capital Metro 152 Round Rock Tech Ridge Limited (northbound)	bus
@@ -9062,8 +9062,8 @@
 15411989	DART	103		Bus 103: Inwood/Love Field Station -> Downtown Dallas	bus
 15414635	DART	9		Bus 9: Lakewood -> Downtown Dallas -> Cockrell Hill TL	bus
 15414636	DART	9		Bus 9: Cockrell Hill TL -> Downtown Dallas -> Lakewood	bus
-15415180	DART	28		Bus 28: Downtown Dallas -> Singleton Boulevard	bus
-15415181	DART	28		Bus 28: Singleton Boulevard -> Downtown Dallas	bus
+15415180	DART	128		Bus 128: Downtown Dallas -> Singleton Boulevard	bus
+15415181	DART	128		Bus 128: Singleton Boulevard -> Downtown Dallas	bus
 15415619	DART	106		Bus 106: Downtown Dallas -> Bickers St	bus
 15415620	DART	106		Bus 106: Bickers St -> Downtown Dallas	bus
 15415928	DART	3		Bus 3: Downtown Dallas -> SMU/Mockingbird Station	bus
@@ -11713,8 +11713,6 @@
 18648031	MetroBus	333	west	"Capital Metro 333 William Cannon (westbound, to Brush Country)"	bus
 18648048	MetroBus	333	east	"Capital Metro 333 William Cannon (eastbound, Perez Elementary)"	bus
 18648068	MetroBus	333	west	"Capital Metro 333 William Cannon (westbound, Perez Elementary)"	bus
-18656005	MetroBus	337	east	"Capital Metro 337 Koenig/Colony Park (eastbound, LBJ HS)"	bus
-18656013	MetroBus	337	west	"Capital Metro 337 Koenig/Colony Park (westbound, LBJ HS)"	bus
 18687514	lcn			Lemmon Avenue Trail	bicycle
 18739447	MetroBus	640	outbound	Capital Metro 640 Forty Acres (outbound)	bus
 18786607	lcn			Owens Trail	bicycle
