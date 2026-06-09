@@ -2250,7 +2250,7 @@
 14642526				Cannonball Trail	bicycle
 14647901	US:IL:DuPage	2		DuPage County Highway 2	road
 14664899	rcn	NWBW		Northwest Bikeway	bicycle
-14671763	Connect Transit	Sapphire		Sapphire Route	bus
+14671763	Connect Transit	Sapphire		Bus Sapphire: Uptown Station -> Downtown Bloomington	bus
 14674539				3600E	road
 14681360	rcn			Evanston - Elgin Bikeway	bicycle
 14685310	lwn			Beckman Quad Walk	foot
@@ -3273,3 +3273,7 @@
 20831036	lcn			Grace Street Neighborhood Greenway	bicycle
 20831402	Connect Transit	Tan	west	Bus Tan: Central Illinois Regional Airport -> Uptown Station	bus
 20831430	Connect Transit	Yellow	south	Bus Yellow: Heartland Community College -> Uptown Station	bus
+20950010	Connect Transit	Sapphire		Bus Sapphire: Downtown Bloomington -> Uptown Station	bus
+20950554	Connect Transit	Sapphire		Bus Sapphire: Rivian -> Bloomington Walmart	bus
+20950555	Connect Transit	Sapphire		Bus Sapphire: Bloomington Walmart -> Rivian	bus
+20952727	US:IL:Coles County				road

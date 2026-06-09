@@ -6124,7 +6124,6 @@
 9321702	Broome County Transit	28		B.C. Transit 28 Robinson Street (inbound via Court Street)	bus
 9321703	Broome County Transit	28		B.C. Transit 28 Robinson Street (inbound via Robinson Street)	bus
 9321704	Broome County Transit	28		B.C. Transit 28 Robinson Street (outbound)	bus
-9323998	lcn			Ditmars Boulevard	bicycle
 9323999	lcn			87th Street	bicycle
 9324000	lcn			88th Street	bicycle
 9324001	lcn			91st Street	bicycle
@@ -7091,7 +7090,7 @@
 12036571	lwn;lcn	BRP		Bronx River Pathway	hiking;bicycle
 12037189	Amtrak	Cardinal		Amtrak Cardinal: New York => Chicago	train
 12041225	Amtrak	Crescent		Amtrak Crescent: New York => New Orleans	train
-12043340	rwn			NJ State Long Trail	hiking
+12043340				NJ State Long Trail	hiking
 12075143	lwn				hiking
 12075144	lwn				hiking
 12075145	lwn				hiking
@@ -11633,3 +11632,4 @@
 20822619				Yellow Trail	hiking
 20822643				White Trail	hiking
 20822644				Blue Trail	hiking
+20951652	lcn	QWG		Queens Waterfront Greenway	bicycle

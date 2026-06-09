@@ -336,7 +336,7 @@
 1015911	lcn	08A		Homestead / Hedding / Brokaw Corridor	bicycle
 1017450	lcn	07		Old Highway 9 Corridor	bicycle
 1022075	lcn	02		Alma Street / Caltrain Corridor	bicycle
-1023172	rcn	T02		San Tomas Aquino / Saratoga Creek Trail	bicycle
+1023172	rcn			San Tomas Aquino / Saratoga Creek Trail	bicycle
 1027213	lcn	05A		Shoreline-Miramonte Corridor	bicycle
 1101152	Santa Barbara MTD	2	East SB	East SB	bus
 1101153	Santa Barbara MTD	1	West SB	West SB	bus
@@ -7645,3 +7645,5 @@
 20826793	lcn	SR 15		SR 15 Commuter Bikeway	bicycle
 20947819				Westwood Boulevard	road
 20947830				Beverly Glen Boulevard	road
+20952370				Stadium Event Trail Detour	detour
+20952372				Stadium Event Trail Detour	detour

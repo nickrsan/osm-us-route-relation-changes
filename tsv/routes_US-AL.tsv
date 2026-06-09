@@ -62,7 +62,7 @@
 1311146	US:GA	20			road
 1311148	US:GA	22			road
 1319476	US:NHS High Priority Corridors			NHS High Priority Corridor 7	road
-1319492	US:NHS High Priority Corridors	US 78	east	NHS High Priority Corridor 45	road
+1319492	US:NHS High Priority Corridors		east	NHS High Priority Corridor 45	road
 1319495	US:NHS High Priority Corridors			NHS High Priority Corridor 6	road
 1441410				AGS North District	railway
 1441644				Memphis District West End	railway
@@ -328,7 +328,6 @@
 1582573	US:GA:Spur	39		39 Spur	road
 1595181	lcn			Noah Bike Trail	bicycle
 1613720	US:ADHS				road
-1613729	US:ADHS				road
 1629686	US:US	80			road
 1642836	rwn	PNRT		Pinhoti Trail	hiking
 1646641	US:GA	540			road
@@ -1188,3 +1187,6 @@
 20658921	US:AL:Geneva	57			road
 20658922	US:AL:Geneva	34			road
 20690709	US:AL	304			road
+20948299	US:MS			767 (unsigned)	road
+20953358	US:ADHS	V			road
+20953359	US:ADHS	X			road

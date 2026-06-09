@@ -49,10 +49,10 @@
 1578251	US:AR	112			road
 1628551	US:US	271			road
 1629635	US:US	79			road
-1629641	US:US	70		US 70 (AR)	road
+1629641	US:US	70			road
 1629650	US:US	79			road
 1629672	US:US	59			road
-1629675	US:US	79		US 79 (AR)	road
+1629675	US:US	79			road
 1629681	US:US	82			road
 1630663	US:US	65			road
 1669658	US:AR	1			road
@@ -577,13 +577,13 @@
 2210332				White Bluff Industrial Lead	railway
 2210333				White Bluff Subdivision	railway
 2210334				Wynne Subdivision	railway
-2304866	US:US	61		US 61 (AR)	road
+2304866	US:US	61			road
 2304869	US:US	61			road
 2304870	US:US	63			road
 2304877	US:US	67			road
 2307589	US:I	30			road
 2310342	US:US	62			road
-2310347	US:US	64		US 64 (AR)	road
+2310347	US:US	64			road
 2310384	US:US	270			road
 2310576	US:US	78			road
 2310731	US:US	82			road
@@ -859,7 +859,7 @@
 11518254	US:AR:Greene	433			road
 11518255	US:AR:Greene	803			road
 11518256	US:AR:Greene	812			road
-11518257	US:AR:Greene				road
+11518257	US:AR:Greene	421			road
 11518258	US:AR:Greene	801			road
 11518259	US:AR:Greene	854			road
 11518260	US:AR:Clay	506			road
@@ -1548,7 +1548,7 @@
 16658040				On Ya Left	mtb
 16658041				The Nest	mtb
 16658042				Trolls Trail Connector	mtb
-16856734	US:US	78		US 78 (AR)	road
+16856734	US:US	78			road
 16856927	US:US	412B			road
 16862232	US:AR	980			road
 16862233	US:AR	980			road
@@ -1562,7 +1562,7 @@
 16862399	US:AR	980			road
 16862400	US:AR	980			road
 16862401	US:AR	980			road
-16862402	US:AR			Arkansas Highway 980 (Cross County)	road
+16862402	US:AR			"980 (Cross County, unsigned)"	road
 16862447	US:AR	980			road
 16862448	US:AR	980			road
 16862449	US:AR	980			road
@@ -1574,7 +1574,7 @@
 16862477	US:AR	980			road
 16888956	US:AR	226S			road
 16888960	US:AR	226B			road
-17036062	US:AR	AR 18			road
+17036062	US:AR			135 (unsigned)	road
 17189475					road
 17327062	US:AR	23W			road
 17351999	US:AR	75S			road
@@ -1760,13 +1760,13 @@
 19857641	GOJO	RW1		Red Wolf 1	bus
 19858045	GOJO	17			bus
 19869689	GOJO	53			bus
-19988448	US:US			"US 64 (AR, unsigned)"	road
-19988449	US:US	64		"US 64 (AR, defacto)"	road
-19988460	US:US			"US 61 (AR, unsigned)"	road
-19988461	US:US			"US 70 (AR, unsigned)"	road
-19988477	US:US			"US 79 (AR, unsigned)"	road
-19988478	US:AR			AR 77 (unsigned)	road
-19992414	US:US			"US 67 (AR, unsigned)"	road
+19988448	US:US			"64 (AR, unsigned)"	road
+19988449	US:US	64		"64 (AR, defacto)"	road
+19988460	US:US			"61 (AR, unsigned)"	road
+19988461	US:US			"70 (AR, unsigned)"	road
+19988477	US:US			"79 (AR, unsigned)"	road
+19988478	US:AR			77 (unsigned)	road
+19992414	US:US			"67 (AR, unsigned)"	road
 20033627	lcn			Lor-Axe West Loop	mtb
 20033631	lcn			Lor-Axe South Loop	mtb
 20044747	lwn			Wildlife Trail	hiking
@@ -1791,3 +1791,4 @@
 20732946	US:AR:Washington	894			road
 20732948	US:AR:Washington	890			road
 20823594				It'll Bluff Out	bicycle
+20953716	US:AR			32Y (unsigned)	road

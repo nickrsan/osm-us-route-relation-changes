@@ -8474,7 +8474,7 @@
 13642672	lcn			Red Arroyo Trail	bicycle
 13652044	MetroBus	217		Capital Metro 217 Montopolis Feeder (southbound)	bus
 13652054	MetroBus	217		Capital Metro 217 Montopolis Feeder (northbound)	bus
-13691567		1518		CARTS 1518 Purple Route (Eastbound)	bus
+13691567	Capital Area Rural Transportation Service	1518	east	Interurban Purple Route	bus
 13730002	US:TX:Toll	288		Brazoria County Expressway	road
 13730003	US:TX:Toll	288		Texas State Highway 288 Toll	road
 13730019	US:TX:Toll	249		Texas State Highway 249 Toll	road
@@ -11885,10 +11885,12 @@
 20807785	lcn			Guthrie Park Trail	bicycle
 20807786	lcn			Cargill Long Park Trail	bicycle
 20807787	lcn			Paul G Boorman Trail	bicycle
-20819323	Amtrak Thruway	6121			bus
-20819324	Amtrak Thruway	6021			bus
-20819403	Amtrak Thruway	6022			bus
-20819404	Amtrak Thruway	6122			bus
-20819405	Amtrak Thruway	6421			bus
-20819406	Amtrak Thruway	6422			bus
+20819323	Amtrak Thruway	6121		Longview • Shreveport	bus
+20819324	Amtrak Thruway	6021		Longview • Houston • Galveston	bus
+20819403	Amtrak Thruway	6022		Galveston • Houston • Longview	bus
+20819404	Amtrak Thruway	6122		Shreveport • Longview	bus
+20819405	Amtrak Thruway	6421		Shreveport • Longview	bus
+20819406	Amtrak Thruway	6422		Longview • Shreveport	bus
 20826666				Town Center Trolley	trolleybus
+20951512	Capital Area Rural Transportation System	1516	east	Interurban Orange Route	bus
+20951513	Capital Area Rural Transportation System	1516	west	Interurban Orange Route	bus
