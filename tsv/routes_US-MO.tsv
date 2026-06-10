@@ -391,7 +391,6 @@
 1711721	US:US:Spur	169			road
 1711722	US:US:Spur	50			road
 1711723	US:US:Spur	69			road
-1713312	US:AR	265			road
 1713313	US:AR	279			road
 1713332	US:AR	143			road
 1713334	US:AR	21			road
@@ -529,6 +528,7 @@
 2304877	US:US	67			road
 2304881	US:US	67			road
 2304921	lwn				hiking
+2308446	US:US	412			road
 2308447	US:US	412			road
 2308450	US:US	412			road
 2308735	US:US	136			road
@@ -1015,8 +1015,6 @@
 8943147	US:MO:Supplemental	AA			road
 8943477	US:MO:Supplemental	P			road
 9037964	nwn	ADT J2		ADT - Illinois (South) - J - Seg 2	hiking
-9038960	US:US	412	east		road
-9038961	US:US	412	west		road
 9043011	nwn	ADT L1		ADT - Missouri - L - Seg 1	hiking
 9044015	nwn	ADT L2		ADT - Missouri - L - Seg 2	hiking
 9044050	nwn	ADT L3		ADT - Missouri - L - Seg 3	hiking

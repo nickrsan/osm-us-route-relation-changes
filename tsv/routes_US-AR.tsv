@@ -51,6 +51,7 @@
 1629635	US:US	79			road
 1629641	US:US	70			road
 1629650	US:US	79			road
+1629667	US:US	71			road
 1629672	US:US	59			road
 1629675	US:US	79			road
 1629681	US:US	82			road
@@ -94,7 +95,6 @@
 1713259	US:AR	177			road
 1713260	US:AR	178			road
 1713261	US:AR	201			road
-1713262	US:AR	201S			road
 1713263	US:AR	202			road
 1713264	US:AR	341			road
 1713265	US:AR	342			road
@@ -314,7 +314,7 @@
 1716363	US:AR	335			road
 1716364	US:AR	7B			road
 1716365	US:AR	7S			road
-1716848	US:AR	274			road
+1716848	US:AR	203			road
 1716849	US:AR	205			road
 1716850	US:AR	274			road
 1716851	US:AR	332			road
@@ -470,7 +470,6 @@
 1721675	US:AR	294			road
 1721676	US:AR	381			road
 1721677	US:AR	386			road
-1721678	US:AR	89S			road
 1721771	US:AR	100			road
 1721772	US:AR	176			road
 1721773	US:AR	176Y			road
@@ -582,6 +581,7 @@
 2304870	US:US	63			road
 2304877	US:US	67			road
 2307589	US:I	30			road
+2308446	US:US	412			road
 2310342	US:US	62			road
 2310347	US:US	64			road
 2310384	US:US	270			road
@@ -615,7 +615,6 @@
 5573426		21		Route 21	bus
 5573450		11		Route 11	bus
 5576482		33		Route 33	bus
-6186773	US:US:Bypass	412			road
 6195191	US:AR	980			road
 6605882	lcn			Harper's Loop	bicycle
 6650953					power
@@ -635,13 +634,9 @@
 7707321	US:US:Business	167B			road
 8318009	US:AR	612			road
 8415611					power
-9038960	US:US	412	east		road
-9038961	US:US	412	west		road
 9069150	US:US	62B			road
 9069225	US:I	49	south		road
 9069226	US:I	49	north		road
-9069246	US:US	71	south		road
-9069248	US:US	71	north		road
 9226751				Fort Smith Railroad	railway
 9226791					railway
 9226796					railway
@@ -1676,7 +1671,7 @@
 18219207	US:AR:Carroll	9062			road
 18219208	US:AR:Carroll	956			road
 18219209	US:AR:Carroll	906			road
-18320458	US:I	57	north	I 57 (AR)	road
+18320458	US:I	57	north		road
 18320459	US:I	57	south		road
 18345543	lwn			Caddo Bend Trail	hiking
 18346205	lwn			Sunset Trail	hiking
@@ -1792,3 +1787,12 @@
 20732948	US:AR:Washington	890			road
 20823594				It'll Bluff Out	bicycle
 20953716	US:AR			32Y (unsigned)	road
+20954562	US:US	82S			road
+20954563	US:I:Future	57			road
+20957688	US:I:Future	49			road
+20957990	US:AR			135Y (unsigned)	road
+20957991	US:US			65S (unsigned)	road
+20957992	US:AR			311 (unsigned)	road
+20957993	US:US			62Y (unsigned)	road
+20957994	US:US			65Y (unsigned)	road
+20957995	US:AR			281Y (unsigned)	road

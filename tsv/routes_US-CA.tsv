@@ -299,7 +299,7 @@
 355694	US:CA	271			road
 355713	US:CA	200			road
 355844	US:CA	166			road
-355845	US:CA	135			road
+355845	US:CA	135		Route 135	road
 355934	US:CA	246			road
 355952	US:CA	154			road
 356011	US:CA	192			road
@@ -5744,7 +5744,7 @@
 16096150	Santa Maria Regional Transit	6		6 - Orcutt - Crossroads Shopping Center - Oak Knolls Shopping Center	bus
 16099603	Madera Metro	Purple		Purple Line	bus
 16099868	Santa Maria Regional Transit	13X		13X - Transit Center - Broadway - Pioneer Valley High School	bus
-16102940	Santa Maria Regional Transit	8		8 - Tanglewood - Crossroad Shopping Center	bus
+16102940	Santa Maria Regional Transit	8		Tanglewood - Crossroad Shopping Center	bus
 16103162	La Campana	La Campana		La Campana	bus
 16107793	Cudahy Area Rapid Transit	Cudahy		Cudahy	bus
 16111663	Get Around Town Express	Westside		Westside Route	bus

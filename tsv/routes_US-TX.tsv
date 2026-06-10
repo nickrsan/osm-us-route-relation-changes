@@ -849,6 +849,7 @@
 1629646	US:US	77			road
 1629650	US:US	79			road
 1629664	US:US	82			road
+1629667	US:US	71			road
 1629673	US:US	70			road
 1629676	US:US	85			road
 1629677	US:US	84			road
@@ -5812,8 +5813,6 @@
 8831089	US:TX:FM	2385			road
 8831090	US:TX:FM	1719			road
 8831091	US:TX:FM	2176			road
-9069246	US:US	71	south		road
-9069248	US:US	71	north		road
 9110260	MetroBus	20	north	Capital Metro 20 Manor Road/Riverside (northbound)	bus
 9110261	MetroBus	20	south	Capital Metro 20 Manor Road/Riverside (southbound)	bus
 9110262	MetroBus	18	west	Capital Metro 18 Martin Luther King (Westbound)	bus
