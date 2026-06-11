@@ -35,7 +35,6 @@
 1537257	US:AR	303			road
 1537469	US:AR	252			road
 1537473	US:AR	253			road
-1538129	US:AR	10S			road
 1538209	US:AR	10			road
 1538449	US:AR	217			road
 1538455	US:AR	60			road
@@ -360,7 +359,7 @@
 1717077	US:AR	260			road
 1717078	US:AR	262			road
 1717079	US:AR	269			road
-1717080		339			road
+1717080	US:AR	339			road
 1717081	US:AR	33B			road
 1717623	US:AR	117			road
 1717624	US:AR	117S			road
@@ -404,14 +403,12 @@
 1718997	US:AR	287			road
 1718998	US:AR	319			road
 1718999	US:AR	365			road
-1719000	US:AR	60S			road
 1719001	US:AR	89			road
 1719008	US:AR	113			road
 1719009	US:AR	216			road
 1719010	US:AR	247			road
 1719011	US:AR	300			road
 1719012	US:AR	324			road
-1719013	US:AR	132			road
 1719014	US:AR	213			road
 1719015	US:AR	95			road
 1719016	US:AR	95S			road
@@ -505,9 +502,7 @@
 1930317	US:US	63B			road
 1930318	US:US	63B			road
 1930319	US:US	63B			road
-1930322	US:US	63B			road
 1930323	US:US	63B			road
-1930324	US:US	64B			road
 1930325	US:US	64B			road
 1930326	US:US	64B			road
 1930327	US:US	64B			road
@@ -1577,7 +1572,7 @@
 17368153	ncn	51		51 (Arkansas)	bicycle
 17381577	Rock Region Metro	08		Route 08 - Rdney Parham - Outbound	bus
 17381578	Rock Region Metro	08		Route 08 - Rodney Parham - Inbound	bus
-17411964	US:AR	242S			road
+17411964	US:AR			242S (unsigned)	road
 17415546	US:AR	270			road
 17422935	Rock Region Metro	02		Route 02 - South Main	bus
 17435786	US:AR	326			road
@@ -1725,8 +1720,7 @@
 18721005				Enders Fault South Loop	mtb
 18721006				Enders Fault	mtb
 18998593	ncn	251			bicycle
-19044056	US:I:Business:Loop	I 57 Business			road
-19051013	US:I:Business:Loop	I 57 Business			road
+19051013	US:US	67B			road
 19175357	US:AR:Washington	93			road
 19175358	US:AR:Washington	1132			road
 19175359	US:AR:Benton	609			road
@@ -1796,3 +1790,19 @@
 20957993	US:US			62Y (unsigned)	road
 20957994	US:US			65Y (unsigned)	road
 20957995	US:AR			281Y (unsigned)	road
+20961138	US:AR			318Y (unsigned)	road
+20961139	US:AR			123Y (unsigned)	road
+20961140	US:AR			31Y (unsigned)	road
+20961141	US:AR			14Y (unsigned)	road
+20961142	US:AR			58Y (unsigned)	road
+20961143	US:AR			51Y (unsigned)	road
+20961144	US:US	49Y			road
+20961145	US:AR			1Y (unsigned)	road
+20961146	US:AR			141 (unsigned)	road
+20962091	US:AR			36 (unsigned)	road
+20962092	US:AR			367Y (unsigned)	road
+20962093	US:US			412Y (unsigned)	road
+20962094	US:AR			22Y (unsigned)	road
+20962095	US:AR			5 (unsigned)	road
+20962096	US:AR			323Y (unsigned)	road
+20962097	US:AR			88Y (unsigned)	road
