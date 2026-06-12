@@ -475,7 +475,7 @@
 3480474		5		Ensley/Wylam	bus
 3480475		6		Pratt Ensley	bus
 3480476		8			bus
-3480477		12		Highland	bus
+3480477		12		Highland	
 3480478		14		Idlewild Palisades	bus
 3480479		17		Eastwood Mall	bus
 3480480		18		Fountain Heights	bus
@@ -491,7 +491,7 @@
 3488214		41		41 Fairfield	bus
 3488268		42		42 Brockwood	bus
 3488832		43		Birmingham Zoo	bus
-3488833		44			bus
+3488833		44			
 3488903		45		Bessemer	bus
 3497765		90		Blue Line North/South	bus
 4264377	ncn	90		90 (Florida)	bicycle
@@ -1190,3 +1190,6 @@
 20948299	US:MS			767 (unsigned)	road
 20953358	US:ADHS	V			road
 20953359	US:ADHS	X			road
+20968672	US:AL:Truck	10			road
+20968673	US:AL:Butler	45		County Road 45	road
+20968674	US:AL:Butler				road

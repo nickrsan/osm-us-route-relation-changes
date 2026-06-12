@@ -2401,7 +2401,7 @@
 2262739	lcn			Caprock Canyons Trailway	mtb
 2263643	US:TX	140		Texas State Highway 140	road
 2263644	US:TX:FM	868			road
-2307589	US:I	30			road
+2307589	US:I	30	west		road
 2319874					road
 2320025					road
 2320387					road
@@ -4977,7 +4977,7 @@
 6888638	US:I	20	east		road
 6888664	US:I	20	east		road
 6897085	US:I	30	east		road
-6897152	US:I	30			road
+6897152	US:I	30	east		road
 6905053	US:I	27	north		road
 6915692	US:I	14	east		road
 6915693	US:I	14	west		road

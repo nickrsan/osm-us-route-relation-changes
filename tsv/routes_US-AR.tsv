@@ -575,7 +575,7 @@
 2304869	US:US	61			road
 2304870	US:US	63			road
 2304877	US:US	67			road
-2307589	US:I	30			road
+2307589	US:I	30	west		road
 2308446	US:US	412			road
 2310342	US:US	62			road
 2310347	US:US	64			road
@@ -617,7 +617,7 @@
 6708224	lhn			Yellow Trail	horse
 6708372	lcn			Southeast Trail	bicycle
 6843700	US:I	40	east		road
-6897152	US:I	30			road
+6897152	US:I	30	east		road
 6908170	US:I	55			road
 6908171	US:I	55			road
 6915355	lwn			border of the park	foot
@@ -1307,7 +1307,6 @@
 13429950	lcn	AA-Phs3		All-American Heros Phase 3	mtb
 13429952	lcn	AA-C		All American Connector Crystal Bridges South	mtb
 13430411	lcn	TaMedW-C		Tatamagouche-Medusa West Connector	mtb
-13430504	lcn	ALSTata-Cut		Armadillo Tatamagouche Cutthrough	mtb
 13430585	lcn	FT-Drop		Free Time Drop Line	mtb
 13430599				Razorback Regional Greenway I-49 Temp	bicycle
 13430676	lcn	AAALS-C		All American Armadillo Connector	mtb
@@ -1317,7 +1316,6 @@
 13442422	lcn	BS-C-S-Alt		Blowing Springs Connector-South-Alt	mtb
 13442424	lcn	BSB40-E-C		Blowing Springs-Back 40 East Connector	mtb
 13442425	lcn	BSB40-N-C		Blowing Springs-Back 40 North Connector	mtb
-13442426	lcn	BSB40-N-Alt-C		Blowing Springs-Back 40 North Alternative Connector	mtb
 13446426	lcn	LF-Loop-C		Lake Fayetteville Loop Connector	bicycle
 13446427	lcn	Memorial-Loop		Memorial Park Loop	bicycle
 13446428	lcn	LF-Loop-NoRRG		Lake Fayetteville Loop Non-RRG	bicycle

@@ -2507,7 +2507,7 @@
 17949113	lcn			Centennial Greenway	bicycle
 17949114	lcn			Forsyth Boulevard	bicycle
 17956288	lwn			"Gist Ranch hiking, biking, and equestrian trail"	foot
-17969931	US:MO:Supplemental	W			road
+17969931	US:MO:Supplemental	W		Missouri Route W (Camden County)	road
 18021463	US:MO:McDonald	NE7689C			road
 18021931	US:MO:Supplemental	N			road
 18021932	US:MO:Supplemental	K			road
@@ -3200,3 +3200,10 @@
 20962118	US:MO:Supplemental	W			road
 20962119	US:MO:Supplemental	D			road
 20962120	US:MO:Supplemental	FF			road
+20969091	lcn			Bittersweet Trail	mtb
+20969092				Bittersweet Trail	hiking
+20969551	US:MO:Supplemental	J		Missouri Route J (Camden County)	road
+20969552	US:MO:Supplemental	U		Missouri Route U (Camden County)	road
+20969553	US:MO:Supplemental	AA		Missouri Route AA (Camden County)	road
+20969554	US:MO:Supplemental	N		Missouri Route N (Camden County)	road
+20969555	US:MO:Supplemental	O		Missouri Route O (Camden County)	road
