@@ -136,7 +136,6 @@
 1267358	US:I	64	west		road
 1271784	US:I	172			road
 1271825	US:I	280			road
-1316019	US:US:Business	51			road
 1316501				North Clinton Street	road
 1317326				Illinois Terminal Railroad	railway
 1317673				North Gebhart Court	road
@@ -338,93 +337,93 @@
 1622542	US:IL	94			road
 1622543	US:IL	92			road
 1622544	US:IL	93			road
-1622545	US:IL	82		IL 82	road
-1622546	US:IL	98		IL 98	road
-1622547	US:IL	75		IL 75	road
+1622545	US:IL	82			road
+1622546	US:IL	98			road
+1622547	US:IL	75			road
 1627579	rcn	JAT		Jane Addams Trail	bicycle
 1627581	rcn	Badger		Badger State Trail	bicycle
 1629678	US:US	54			road
 1638760	Amtrak	Hiawatha Service		Amtrak Hiawatha Service: Chicago => Milwaukee	train
 1640383	lcn				bicycle
-1656590	US:IL	100		IL 100	road
-1656591	US:IL	101		IL 101	road
-1656592	US:IL	102		IL 102	road
-1656593	US:IL	103		IL 103	road
-1656594	US:IL	104		IL 104	road
-1656595	US:IL	105		IL 105	road
-1656596	US:IL	106		IL 106	road
-1656597	US:IL	107		IL 107	road
-1656598	US:IL	108		IL 108	road
-1656599	US:IL	109		IL 109	road
-1656600	US:IL	111		IL 111	road
-1656601	US:IL	113		IL 113	road
-1656602	US:IL	114		IL 114	road
-1656603	US:IL	115		IL 115	road
-1656604	US:IL	117		IL 117	road
-1656605	US:IL	119		IL 119	road
-1656973	US:IL	120		IL 120	road
-1656974	US:IL	122		IL 122	road
-1656975	US:IL	123		IL 123	road
-1656976	US:IL	124		IL 124	road
-1656977	US:IL	125		IL 125	road
-1656978	US:IL	126		IL 126	road
-1656979	US:IL	127		IL 127	road
-1656980	US:IL	128		IL 128	road
-1656981	US:IL	129		IL 129	road
-1656982	US:IL	130		IL 130	road
-1656983	US:IL	131		IL 131	road
-1656984	US:IL	132		IL 132	road
-1656985	US:IL	133		IL 133	road
-1656986	US:IL	134		IL 134	road
-1656987	US:IL	135		IL 135	road
-1656988	US:IL	136		IL 136	road
-1656989	US:IL	137		IL 137	road
-1656990	US:IL	138		IL 138	road
-1656991	US:IL	140		IL 140	road
-1656992	US:IL	141		IL 141	road
-1656993	US:IL	142		IL 142	road
-1656994	US:IL	143		IL 143	road
-1656995	US:IL	145		IL 145	road
-1656996	US:IL	146		IL 146	road
-1656997	US:IL	147		IL 147	road
-1656998	US:IL	148		IL 148	road
-1656999	US:IL	149		IL 149	road
-1657622	US:IL	150		IL 150	road
-1657623	US:IL	151		IL 151	road
-1657624	US:IL	152		IL 152	road
-1657625	US:IL	153		IL 153	road
-1657626	US:IL	154		IL 154	road
-1657627	US:IL	155		IL 155	road
-1657628	US:IL	156		IL 156	road
-1657629	US:IL	157		IL 157	road
-1657630	US:IL	158		IL 158	road
-1657631	US:IL	159		IL 159	road
-1657632	US:IL	160		IL 160	road
-1657633	US:IL	161		IL 161	road
-1657634	US:IL	162		IL 162	road
-1657635	US:IL	163		IL 163	road
-1657636	US:IL	164		IL 164	road
-1657637	US:IL	165		IL 165	road
-1657638	US:IL	166		IL 166	road
-1657639	US:IL	167		IL 167	road
-1657640	US:IL	169		IL 169	road
-1657641	US:IL	170		IL 170	road
-1657642	US:IL	172		IL 172	road
-1657643	US:IL	176		IL 176	road
-1657644	US:IL	177		IL 177	road
-1657645	US:IL	178		IL 178	road
-1657646	US:IL	180		IL 180	road
-1657647	US:IL	184		IL 184	road
-1657648	US:IL	185		IL 185	road
-1657649	US:IL	192		IL 192	road
-1657650	US:IL	203		IL 203	road
-1657651	US:IL	242		IL 242	road
-1657652	US:IL	250		IL 250	road
-1657653	US:IL	251		IL 251	road
-1657654	US:IL	255		IL 255	road
-1657655	US:IL	267		IL 267	road
-1657656	US:IL	336		IL 336	road
-1657657	US:IL	351		IL 351	road
+1656590	US:IL	100			road
+1656591	US:IL	101			road
+1656592	US:IL	102			road
+1656593	US:IL	103			road
+1656594	US:IL	104			road
+1656595	US:IL	105			road
+1656596	US:IL	106			road
+1656597	US:IL	107			road
+1656598	US:IL	108			road
+1656599	US:IL	109			road
+1656600	US:IL	111			road
+1656601	US:IL	113			road
+1656602	US:IL	114			road
+1656603	US:IL	115			road
+1656604	US:IL	117			road
+1656605	US:IL	119			road
+1656973	US:IL	120			road
+1656974	US:IL	122			road
+1656975	US:IL	123			road
+1656976	US:IL	124			road
+1656977	US:IL	125			road
+1656978	US:IL	126			road
+1656979	US:IL	127			road
+1656980	US:IL	128			road
+1656981	US:IL	129			road
+1656982	US:IL	130			road
+1656983	US:IL	131			road
+1656984	US:IL	132			road
+1656985	US:IL	133			road
+1656986	US:IL	134			road
+1656987	US:IL	135			road
+1656988	US:IL	136			road
+1656989	US:IL	137			road
+1656990	US:IL	138			road
+1656991	US:IL	140			road
+1656992	US:IL	141			road
+1656993	US:IL	142			road
+1656994	US:IL	143			road
+1656995	US:IL	145			road
+1656996	US:IL	146			road
+1656997	US:IL	147			road
+1656998	US:IL	148			road
+1656999	US:IL	149			road
+1657622	US:IL	150			road
+1657623	US:IL	151			road
+1657624	US:IL	152			road
+1657625	US:IL	153			road
+1657626	US:IL	154			road
+1657627	US:IL	155			road
+1657628	US:IL	156			road
+1657629	US:IL	157			road
+1657630	US:IL	158			road
+1657631	US:IL	159			road
+1657632	US:IL	160			road
+1657633	US:IL	161			road
+1657634	US:IL	162			road
+1657635	US:IL	163			road
+1657636	US:IL	164			road
+1657637	US:IL	165			road
+1657638	US:IL	166			road
+1657639	US:IL	167			road
+1657640	US:IL	169			road
+1657641	US:IL	170			road
+1657642	US:IL	172			road
+1657643	US:IL	176			road
+1657644	US:IL	177			road
+1657645	US:IL	178			road
+1657646	US:IL	180			road
+1657647	US:IL	184			road
+1657648	US:IL	185			road
+1657649	US:IL	192			road
+1657650	US:IL	203			road
+1657651	US:IL	242			road
+1657652	US:IL	250			road
+1657653	US:IL	251			road
+1657654	US:IL	255			road
+1657655	US:IL	267			road
+1657656	US:IL	336			road
+1657657	US:IL	351			road
 1657658	US:IL	394			road
 1662269	lcn			DeKalb-Sycamore Trail	bicycle
 1662297	lcn			DeKalb Kiwanis Pathway	bicycle
@@ -462,7 +461,6 @@
 1931960	US:US:Business	51			road
 1931961	US:US:Business	51			road
 1931962	US:US:Business	67			road
-1933422	US:I:Business:Loop	55		"I 55 Business (Bloomington-Normal, IL) (North)"	road
 1933423	US:I:Business:Loop	55		"I 55 Business (Lincoln, IL)"	road
 1933424	US:I:Business:Loop	55		"I 55 Business (Springfield, IL)"	road
 1933427	US:I:Business:Loop	72		"I 72 Business (Jacksonville, IL)"	road
@@ -814,7 +812,7 @@
 5459488	Pace	359	south	Bus 359: 95th Dan/Ryan CTA Station -> Homewood Metra Station	bus
 5461486	Pace	364	west	Bus 364: Hegewisch South Shore Line Station => Herion/Wheeler	bus
 5461886	Pace	366	west	Bus 366: Pace Chicago Heights Terminal => Downtown Park Forest	bus
-5487235	US:NR			National Road (IN)	road
+5487235				National Road (IN)	road
 5501426	US:IL:Will	6			road
 5501427	US:IL:Lake	W32			road
 5501428	US:IL:Lake	A7			road
@@ -833,7 +831,7 @@
 5632790	CTA	148	north	Bus 148: State/Harrison -> Foster/Marine	bus
 5633631	CTA	143	south	Bus 143: Sheridan/Briar -> Congress Plaza	bus
 5634511	Pace	384		Narragansett - Ridgeland	bus
-5637654	US:IL	390		IL 390	road
+5637654	US:IL	390			road
 5650358	Pace	385		87th-111th-127th Streets	bus
 5650401	Pace	386		South Harlem	bus
 5678044	Pace	390		Midway CTA - UPS Hodgkins	bus
@@ -1261,7 +1259,7 @@
 9773370	lcn			Willow Creek Trail	bicycle
 9773371	lcn			Perryville Path	bicycle
 9773423	lcn			Lost Bridge Trail	bicycle
-9845739	US:I:Business:Loop	55		"I 55 Business (Bloomington-Normal, IL) (South)"	road
+9845740	US:I:Business:Loop	55		"I 55 Business (Bloomington-Normal, IL)"	road
 9907896	Pace	Pulse Milwaukee Line	north	Pulse Milwaukee Line: Jeff Park Transit Center ->Golf Mill Mall	bus
 9907897	Pace	Pulse Milwaukee Line	south	Pulse Milwaukee Line: Golf Mill Mall->Jeff Park Transit Center	bus
 9911796				East Monroe Street	road
@@ -2343,7 +2341,7 @@
 15411816	Pace	834	north	Bus 834: Joliet Metra → Branding/Finley	bus
 15411817	Pace	834	south	Bus 834: Branding/Finley → Lewis University → Joliet Metra	bus
 15428816	Pace	540		Bus 540: Walmart East => Rush-Copley Medical Center	bus
-15432199	US:IL			County Road 23 East	road
+15432199	US:IL:CR	23		County Road 23 East	road
 15505082	Pace	348	south	Bus 348: Gregory & York => Pace Harvey Transportation Center	bus
 15507433	Pace	352	north	Bus 352: Pace Chicago Heights Terminal => 95th/Dan Ryan CTA Station	bus
 15508055	Pace	360	north	Bus 360: Amazon Building MDW7 => Pace Harvey Transportation Center	bus
@@ -2414,7 +2412,7 @@
 15787867	lcn			Warrenville Bike Paths	bicycle
 15848548				County Road 11	road
 15848549				North County Road 3100 East	road
-15854241	US:IL	967		IL 967	road
+15854241	US:IL	967			road
 15854331				East Market Street	road
 15854612				Commercial Street	road
 15854613				North Street	road
@@ -3220,7 +3218,7 @@
 20604317	US:IL:Will	51		Will County Highway 51	road
 20604318	US:IL:Will	5		Will County Highway 5	road
 20604319	US:IL:Will	49		Will County Highway 49	road
-20605172	US:IL			County Road 200 North	road
+20605172	US:IL:CR			County Road 200 North	road
 20609282					detour
 20641261				Kimes Road	road
 20657859	lcn			Kedzie	bicycle

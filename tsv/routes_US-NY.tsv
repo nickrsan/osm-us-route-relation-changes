@@ -736,7 +736,7 @@
 919272	lcn	Tour de Syracuse Road Race		Tour de Syracuse Road Race	bicycle
 919343	lcn	Tour de Syracuse Time Trial Course		Tour de Syracuse Time Trial Course	bicycle
 919588	US:NY:Columbia	7A		Columbia County Route 7A	road
-919642	rwn	LP		Long Path	hiking
+919642	rwn			Long Path	hiking
 934120				Ballston Terminal Railroad	railway
 938124	US:NY:Schenectady	25		Schenectady County Route 25	road
 946435	US:US	1			road
@@ -4208,7 +4208,7 @@
 4261370				"Fonda, Gloversville & Johnstown Electric Railway"	railway
 4266618				Red Cross	hiking
 4266619	lwn			1779 Trail	hiking
-4266620	lwn			Menomine Trail	hiking
+4266620				Menomine Trail	hiking
 4266621	lwn			Suffern - Bear Mountain Trail	hiking
 4266622	lwn			Timp Torne Trail	hiking
 4274039	City of Poughkeepsie Bus Service	Shopper's Special		Shopper's Special	bus
@@ -4422,7 +4422,7 @@
 5586622	US:NY:Saint_Lawrence	49-1		County Road 49-1	road
 5586623	US:NY:Saint_Lawrence	55-1		County Road 55-1	road
 5612608				Corkscrew Rail Trail	bicycle
-5620443	lwn	A-SB		Arden - Surebridge Trail	hiking
+5620443		A-SB		Arden - Surebridge Trail	hiking
 5620843		BC		Bottlecap Trail	hiking
 5621353				Hurst Trail	hiking
 5621532				Lichen Trail	hiking
@@ -6645,12 +6645,11 @@
 10098146	lcn			86th Street	bicycle
 10117839	lwn			Kaplan's Pond Trail	hiking
 10117840	lwn			Pond Loop	hiking
-10117841	lwn			Turkey Trail	hiking
+10117841				Turkey Trail	hiking
 10117842	lwn			Highland Trail	hiking
 10117843	lwn			Laurel Rock Trail	hiking
 10117844	lwn			Hemlock Spring Trail	hiking
-10117845	lwn			Coyote Trail	hiking
-10117846	lwn			Old Farm Road	hiking
+10117845				Coyote Trail	hiking
 10121340				Tulip Tree Trail	hiking
 10121341				River View Trail	hiking
 10121342				Jack-in-the-Pulpit Trail	hiking
@@ -11633,3 +11632,7 @@
 20822643				White Trail	hiking
 20822644				Blue Trail	hiking
 20951652	lcn	QWG		Queens Waterfront Greenway	bicycle
+20970921				Long Path - Section 6	hiking
+20970941				Long Path - Section 7	hiking
+20972764	NYC Transit	Q63		NYCB - Q63 Long Island City --> Downtown Flushing	bus
+20972765	NYC Transit	Q63		NYCB - Q63 Downtown Flushing --> Long Island City	bus
