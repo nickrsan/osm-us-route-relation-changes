@@ -2412,7 +2412,7 @@
 15787867	lcn			Warrenville Bike Paths	bicycle
 15848548				County Road 11	road
 15848549				North County Road 3100 East	road
-15854241	US:IL	967			road
+15854241	US:IL			967 (unsigned)	road
 15854331				East Market Street	road
 15854612				Commercial Street	road
 15854613				North Street	road
@@ -3275,3 +3275,4 @@
 20950554	Connect Transit	Sapphire		Bus Sapphire: Rivian -> Bloomington Walmart	bus
 20950555	Connect Transit	Sapphire		Bus Sapphire: Bloomington Walmart -> Rivian	bus
 20952727	US:IL:Coles County				road
+20973981	US:IL			161 (unsigned)	road
