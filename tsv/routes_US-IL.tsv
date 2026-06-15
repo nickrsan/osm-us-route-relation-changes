@@ -830,10 +830,10 @@
 5627658					piste
 5632790	CTA	148	north	Bus 148: State/Harrison -> Foster/Marine	bus
 5633631	CTA	143	south	Bus 143: Sheridan/Briar -> Congress Plaza	bus
-5634511	Pace	384		Narragansett - Ridgeland	bus
+5634511	Pace	384		Bus 384: Midway CTA Orange Line Station => 111th/Nashville	bus
 5637654	US:IL	390			road
 5650358	Pace	385		87th-111th-127th Streets	bus
-5650401	Pace	386		South Harlem	bus
+5650401	Pace	386		Bus 386: Midway CTA Orange Line Station => DeVry University	bus
 5678044	Pace	390		Midway CTA - UPS Hodgkins	bus
 5680736	Pace	392		Little Village - UPS Hodgkins	bus
 5680743	Pace	395	west	Bus 395: 95th/Dan Ryan CTA Station -> UPS Hodgkins	bus
@@ -3276,3 +3276,5 @@
 20950555	Connect Transit	Sapphire		Bus Sapphire: Bloomington Walmart -> Rivian	bus
 20952727	US:IL:Coles County				road
 20973981	US:IL			161 (unsigned)	road
+20980944	Pace	384		Bus 384: 111th/Nashville => Midway CTA Orange Line Station	bus
+20981015	Pace	386		Bus 386: DeVry University => Midway CTA Orange Line Station	bus

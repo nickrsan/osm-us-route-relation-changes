@@ -40,7 +40,7 @@
 77502	US:MO	265			road
 77516	US:MO	173			road
 77520	US:MO	376			road
-77747	US:I:Business:Loop	49		"Interstate 49 Business (Neosho, MO)"	road
+77747	US:I:Business:Loop	49			road
 77748	US:MO	175			road
 77770	US:MO	150			road
 77773	US:MO	245			road
@@ -112,7 +112,7 @@
 273277	US:MO	139			road
 273279	US:MO	130			road
 273637	US:MO	752			road
-274015	US:I:Business:Loop	29		"I 29 Business (St. Joseph, MO)"	road
+274015	US:I:Business:Loop	29			road
 274042	US:MO	759			road
 274091	US:MO	371			road
 276210	US:KS	171		KS 171 (East)	road
@@ -382,7 +382,7 @@
 1711652	US:MO	10			road
 1711653	US:MO	176			road
 1711654	US:MO	179			road
-1711655	US:MO				road
+1711655					road
 1711656	US:MO	92			road
 1711717	US:MO:Spur	15			road
 1711718	US:MO:Alternate	240			road
@@ -421,7 +421,6 @@
 1796822	US:US:Historic	66		Historic US 66 (KS)	road
 1932004	US:US:Business	50			road
 1932005	US:US:Business	50			road
-1932006	US:US:Business	54			road
 1932007	US:US:Business	54			road
 1932008	US:US:Business	61			road
 1932009	US:US:Business	65			road
@@ -432,7 +431,6 @@
 1932039	US:US:Business	36			road
 1932040	US:US:Business	36			road
 1932041	US:US:Business	36			road
-1932042	US:US:Business	36			road
 1932043	US:US:Business	36			road
 1932044	US:US:Business	36			road
 1932045	US:US:Business	36			road
@@ -451,12 +449,11 @@
 1933222	US:I:Business:Loop	35			road
 1933223	US:I:Business:Spur	44			road
 1933224	US:I:Business:Loop	44			road
-1933225	US:I:Business:Loop	44		"I 44 Business (Pacific, MO)"	road
+1933225	US:I:Business:Loop	44			road
 1933226	US:I:Business:Loop	44			road
 1933227	US:I:Business:Loop	44			road
 1933228	US:I:Business:Loop	55			road
-1933229	US:I:Business:Loop	55		"I 55 Business (Festus-Crystal City, MO)"	road
-1933230	US:I:Business:Loop	55		"I 55 Business (New Madrid, MO)"	road
+1933230	US:I:Business:Loop	55			road
 1933231	US:I:Business:Loop	57			road
 1933232	US:I:Business:Loop	70			road
 1933233	US:I:Business:Loop	70			road
@@ -474,7 +471,7 @@
 1933245	US:I:Business:Loop	49			road
 1933246	US:US:Business	71			road
 1933247	US:I:Business:Loop	49			road
-1933248	US:US:Business	71		"US 71 Business (Pineville-Anderson, MO)"	road
+1933248	US:US:Business	71			road
 1939023	US:US:Business	24			road
 2062865	lwn	Clearwater Lake		Army Corp of Engineers	hiking
 2124738	US:IA	148		IA 148	road
@@ -534,6 +531,7 @@
 2308735	US:US	136			road
 2308738	US:US	136			road
 2308739	US:US	136			road
+2309301	US:US	50			road
 2309418	US:US	56			road
 2310321	US:US	160			road
 2310322	US:US	160			road
@@ -753,14 +751,14 @@
 7397610	US:MO	765			road
 7398703	US:MO:Supplemental	BB			road
 7400493				CPKC Mexico Subdivision	railway
-7401791	US:MO:Spur	45			road
+7401791	US:MO:Spur			45 Spur (unsigned)	road
 7409019	US:MO	210			road
 7419475	US:MO	64A			road
 7419625	US:MO:Supplemental	OO			road
 7432066	lcn	FF		Fee Fee Greenway	bicycle
 7453127	US:MO	1			road
 7453992	US:MO:Spur	45			road
-7453993	US:MO:Spur	9			road
+7453993	US:MO:Spur			9 Spur (unsigned)	road
 7456277				Laredo Subdivision	railway
 7456287				Kansas City Subdivision	railway
 7456922	US:MO:Supplemental	AC			road
@@ -771,7 +769,7 @@
 7488543	US:MO:Supplemental	UU			road
 7489588	US:MO:Business	13			road
 7492979	US:MO:Supplemental	RA			road
-7496066	US:MO:Spur	10			road
+7496066	US:MO:Spur			10 Spur (unsigned)	road
 7512700	rcn	MIS		St. Louis Riverfront Trail	bicycle
 7518859	US:US:Spur	71			road
 7529956	US:I	49	south		road
@@ -797,7 +795,7 @@
 7770009	US:MO:Supplemental	F			road
 7773636	US:US:Connector	63			road
 7785848	US:MO:Business	13			road
-7785857	US:MO:Spur	13			road
+7785857	US:MO:Spur			13 Spur (unsigned)	road
 7785931	US:MO:Business	13			road
 7787389	US:MO:Business	10			road
 7824363	rcn	FHT		Frisco Highline Trail	bicycle
@@ -1052,7 +1050,6 @@
 9327627	US:MO:Supplemental	Y			road
 9346807	US:MO:Supplemental	K			road
 9354835	US:MO:Supplemental	Z			road
-9360173	US:MO:Spur	34			road
 9361308	RideKC	18		Route 18: Southeastbound	bus
 9361309	RideKC	18		Indiana	bus
 9363790	RideKC	25		Route 25: Southbound	bus
@@ -1072,8 +1069,6 @@
 9525008				Mattis Road	road
 9601270	US:US	65	south		road
 9601271	US:US	65	north		road
-9601869	US:US	50	west		road
-9601870	US:US	50	east		road
 9696217	US:US	69	north		road
 9696218	US:US	69	south		road
 9725143	lcn			Interurban Trail	bicycle
@@ -1291,12 +1286,12 @@
 11650296	US:MO:Spur	28			road
 11652007	US:MO:Supplemental	W			road
 11653741	US:MO:Spur	100			road
-11700353	US:MO:Spur	58			road
+11700353	US:MO:Spur			58 Spur (unsigned)	road
 11701260	US:MO:Supplemental	B			road
 11701343	US:MO:Supplemental	EE			road
 11704330	US:MO	78			road
 11704443	US:US:Spur	136			road
-11704472	US:US:Spur			"US 136 Spur (Wayland, MO)"	road
+11704472	US:US:Spur			136 Spur (unsigned)	road
 11719560	US:MO:Spur	84			road
 11730492	US:MO:Supplemental:Spur	J			road
 11730493	US:MO:Supplemental	J			road
@@ -3207,3 +3202,6 @@
 20969553	US:MO:Supplemental	AA		Missouri Route AA (Camden County)	road
 20969554	US:MO:Supplemental	N		Missouri Route N (Camden County)	road
 20969555	US:MO:Supplemental	O		Missouri Route O (Camden County)	road
+20978404	US:MO:Spur			5 Spur (unsigned)	road
+20979066	US:MO:Spur			41 Spur (unsigned)	road
+20979067	US:US:Business			36 Business (unsigned)	road
