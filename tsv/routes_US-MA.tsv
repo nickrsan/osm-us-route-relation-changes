@@ -327,8 +327,8 @@
 3262843				Andover Community Paths	hiking
 3309123	BRTA	1		"1 Pittsfield, North Adams"	bus
 3312202	BRTA	2		"2 Pittsfield, Lee"	bus
-3324490	US:I	93			road
-3324491	US:I	93			road
+3324490	US:I	93	south		road
+3324491	US:I	93	north		road
 3392247				Ligne d'interconnexion à courant continu Radisson Qc - Sandy Pond Ma - 450 kV	power
 3572900	US:I	91			road
 3572901	US:I	91			road
@@ -610,7 +610,6 @@
 8335900	MBTA	211		211 - Quincy Center Station - Squantum	bus
 8335901	MBTA	210		210 - Quincy Center Station - Fields Corner Station	bus
 8335902	MBTA	202		202 Outbound: Fields Corner Loop => Adams Street => Keystone Apartments	bus
-8335903	MBTA	201		201 - Fields Corner Loop via Neponset Ave	bus
 8335904	MBTA	137		137 - Reading Depot - Malden Center Station via North Avenue	bus
 8335906	MBTA	134		134 - North Woburn - Wellington Station	bus
 8335908	MBTA	131		131 Outbound: Malden Center => East Side & Oak Grove => Melrose Highlands	bus

@@ -3511,7 +3511,7 @@
 2808454	US:TX:FM	901			road
 2808856				GHORBA	
 2818730	US:TX:FM	1200			road
-2818731	US:TX:FM	1200			road
+2818731	US:TX:FM	1201			road
 2818733	US:TX:FM	1202			road
 2818745	US:TX:FM	1199			road
 2818752	US:TX:FM	2383			road
@@ -5813,8 +5813,8 @@
 8831089	US:TX:FM	2385			road
 8831090	US:TX:FM	1719			road
 8831091	US:TX:FM	2176			road
-9110260	MetroBus	20	north	Capital Metro 20 Manor Road/Riverside (northbound)	bus
-9110261	MetroBus	20	south	Capital Metro 20 Manor Road/Riverside (southbound)	bus
+9110260	MetroBus	20	north	Capital Metro 20 Riverside (northbound)	bus
+9110261	MetroBus	20	south	Capital Metro 20 Riverside (southbound)	bus
 9110262	MetroBus	18	west	Capital Metro 18 Martin Luther King (Westbound)	bus
 9110263	MetroBus	18	east	Capital Metro 18 Martin Luther King (Eastbound)	bus
 9110264	MetroBus	10	south	Capital Metro 10 South 1st/Red River (southbound)	bus
@@ -5841,8 +5841,6 @@
 9113353	MetroBus	271	east	Capital Metro 271 Del Valle Feeder (eastbound)	bus
 9113354	MetroBus	243	west	Capital Metro 243 Wells Branch (westbound)	bus
 9113355	MetroBus	243	east	Capital Metro 243 Wells Branch (eastbound)	bus
-9113356	MetroBus	237	east	Capital Metro 237 Northeast Feeder (eastbound)	bus
-9113357	MetroBus	237	west	Capital Metro 237 Northeast Feeder (westbound)	bus
 9113358	MetroBus	233	west	Capital Metro 233 Decker/Daffan (westbound)	bus
 9113359	MetroBus	233	east	Capital Metro 233 Decker/Daffan (eastbound)	bus
 9113360	MetroBus	228	west	Capital Metro 228 VA Clinic (westbound)	bus
@@ -5871,8 +5869,6 @@
 9114009	MetroBus	325	south	Capital Metro 325 Metric/Rundberg (southbound)	bus
 9114010	MetroBus	324	east	Capital Metro 324 Georgian/Ohlen (eastbound)	bus
 9114011	MetroBus	324	west	Capital Metro 324 Georgian/Ohlen (westbound)	bus
-9114012	MetroBus	323	west	Capital Metro 323 Anderson (westbound)	bus
-9114013	MetroBus	323	east	Capital Metro 323 Anderson (eastbound)	bus
 9114014	MetroBus	322	south	Capital Metro 322 Chicon/Cherrywood (southbound)	bus
 9114015	MetroBus	322	north	Capital Metro 322 Chicon/Cherrywood (northbound)	bus
 9114016	MetroBus	318	east	Capital Metro 318 Westgate/Slaughter (eastbound)	bus
@@ -9355,6 +9351,7 @@
 16120828	AggieSpirit	47-48		RELLIS	bus
 16120829	AggieSpirit	48		RELLIS Circulator	bus
 16122589				Texas Wildflower Trail	road
+16124402				Energy Transfer Crude Oil Pipeline	pipeline
 16125153	AggieSpirit	07		Airport	bus
 16137374	lcn	VCT		Violet Crown Trail	mtb
 16142336				Reveille	bus
@@ -9364,6 +9361,7 @@
 16159751				ETC Tiger Pipeline	pipeline
 16160502	lwn	ARBT		Ann & Roy Butler Hike and Bike Trail	foot
 16165036				Mississippi River Transmission	pipeline
+16175094				Centennial Pipeline	pipeline
 16177659				Aegis Pipeline	pipeline
 16177660				Lou-Tex Pipeline	pipeline
 16177661				Texas-Louisiana Ethylene Pipeline	pipeline
@@ -11889,3 +11887,5 @@
 20826666				Town Center Trolley	trolleybus
 20951512	Capital Area Rural Transportation System	1516	east	Interurban Orange Route	bus
 20951513	Capital Area Rural Transportation System	1516	west	Interurban Orange Route	bus
+20987100	MetroBus	320	south	Capital Metro 320 Manor Road/Dean Keaton (southbound)	bus
+20987101	MetroBus	320	north	Capital Metro 320 Manor Road/Dean Keaton (northbound)	bus
