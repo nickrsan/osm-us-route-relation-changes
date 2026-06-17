@@ -441,7 +441,6 @@
 1932051	US:US:Business	54			road
 1932157	US:US:Business	61			road
 1932158	US:US:Business	61			road
-1932159	US:US:Business	61			road
 1932160	US:US:Business	61			road
 1932161	US:US:Business	61			road
 1932162	US:US:Business	63			road
@@ -462,10 +461,8 @@
 1933236	US:US:Business	136			road
 1933237	US:US:Business	136			road
 1933238	US:US:Business	160			road
-1933239	US:US:Business	65			road
 1933240	US:US:Business	65			road
 1933241	US:US:Business	65			road
-1933242	US:US:Business	65			road
 1933243	US:US:Business	67			road
 1933244	US:US:Business	67			road
 1933245	US:I:Business:Loop	49			road
@@ -771,7 +768,7 @@
 7492979	US:MO:Supplemental	RA			road
 7496066	US:MO:Spur			10 Spur (unsigned)	road
 7512700	rcn	MIS		St. Louis Riverfront Trail	bicycle
-7518859	US:US:Spur	71			road
+7518859	US:US:Spur			71 Spur (unsigned)	road
 7529956	US:I	49	south		road
 7529957	US:I	49	north		road
 7580854	US:MO:Business	7			road
@@ -793,7 +790,7 @@
 7687871	US:MO:Supplemental	AC			road
 7755652	inland waterways			Middle Mississippi River	boat
 7770009	US:MO:Supplemental	F			road
-7773636	US:US:Connector	63			road
+7773636	US:US			63C (unsigned)	road
 7785848	US:MO:Business	13			road
 7785857	US:MO:Spur			13 Spur (unsigned)	road
 7785931	US:MO:Business	13			road
@@ -1067,8 +1064,6 @@
 9525003				Fiji Drive	road
 9525006				Tonga Drive	road
 9525008				Mattis Road	road
-9601270	US:US	65	south		road
-9601271	US:US	65	north		road
 9696217	US:US	69	north		road
 9696218	US:US	69	south		road
 9725143	lcn			Interurban Trail	bicycle
@@ -3205,3 +3200,9 @@
 20978404	US:MO:Spur			5 Spur (unsigned)	road
 20979066	US:MO:Spur			41 Spur (unsigned)	road
 20979067	US:US:Business			36 Business (unsigned)	road
+20993329	US:US:Spur			69 Spur (unsigned)	road
+20993330	US:US:Business	67			road
+20993331	US:US:Business	67			road
+20993332	US:US:Spur			61 Spur (unsigned)	road
+20993333	US:I:Future	57			road
+20993334	US:US:Business			60 Business (unsigned)	road

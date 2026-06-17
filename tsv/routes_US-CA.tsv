@@ -105,7 +105,7 @@
 151622	US:CA	57	south		road
 151628	US:CA	91	west		road
 151632	US:CA	91	east		road
-151658	US:CA	22	east		road
+151658	US:CA	22	east	Garden Grove	road
 151665	US:CA	22	west		road
 151671	US:CA	55	N	55 (northbound)	road
 151673	US:CA	55	S	55 (southbound)	road
@@ -7652,3 +7652,4 @@
 20972189	US:I:Express	10	west		road
 20972190	US:I:Express	10	east		road
 20972618	Tuolumne County Transit	2		2 - Sierra Village - Sonora - Columbia	bus
+20993444	lwn			Tar Gap Trail	hiking
