@@ -1014,7 +1014,7 @@
 9044015	nwn	ADT L2		ADT - Missouri - L - Seg 2	hiking
 9044050	nwn	ADT L3		ADT - Missouri - L - Seg 3	hiking
 9051959	nwn	ADT N1		ADT - Kansas - N - Seg 1	hiking
-9072046	US:MO:Spur	138			road
+9072046	US:MO:Spur			138 Spur (unsigned)	road
 9079128	US:MO:Supplemental	DD			road
 9079129	US:MO:Business	37			road
 9079297	US:MO:Supplemental	KK			road
@@ -1280,14 +1280,13 @@
 11645263	US:MO:Supplemental	RA			road
 11650296	US:MO:Spur	28			road
 11652007	US:MO:Supplemental	W			road
-11653741	US:MO:Spur	100			road
+11653741	US:MO:Spur			100 Spur (unsigned)	road
 11700353	US:MO:Spur			58 Spur (unsigned)	road
 11701260	US:MO:Supplemental	B			road
 11701343	US:MO:Supplemental	EE			road
 11704330	US:MO	78			road
-11704443	US:US:Spur	136			road
 11704472	US:US:Spur			136 Spur (unsigned)	road
-11719560	US:MO:Spur	84			road
+11719560	US:MO:Spur			84 Spur (unsigned)	road
 11730492	US:MO:Supplemental:Spur	J			road
 11730493	US:MO:Supplemental	J			road
 11730747	US:MO:Supplemental	PP			road
@@ -1526,7 +1525,7 @@
 14603698	US:MO:Supplemental	E			road
 14603776	US:MO:Supplemental	JJ			road
 14603777	US:MO:Supplemental	U			road
-14603814	US:MO:Spur	76			road
+14603814	US:MO:Spur			76 Spur (unsigned)	road
 14607242	US:MO:Supplemental	V			road
 14607244	US:MO:Supplemental	JJ			road
 14655074	US:MO:Supplemental	F			road
@@ -3206,3 +3205,4 @@
 20993332	US:US:Spur			61 Spur (unsigned)	road
 20993333	US:I:Future	57			road
 20993334	US:US:Business			60 Business (unsigned)	road
+20995090	US:MO:Spur			77 Spur (unsigned)	road
