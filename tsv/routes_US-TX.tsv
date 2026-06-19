@@ -9351,6 +9351,7 @@
 16120828	AggieSpirit	47-48		RELLIS	bus
 16120829	AggieSpirit	48		RELLIS Circulator	bus
 16122589				Texas Wildflower Trail	road
+16124402				Energy Transfer Crude Oil Pipeline	pipeline
 16125153	AggieSpirit	07		Airport	bus
 16137374	lcn	VCT		Violet Crown Trail	mtb
 16142336				Reveille	bus
@@ -9360,6 +9361,7 @@
 16159751				ETC Tiger Pipeline	pipeline
 16160502	lwn	ARBT		Ann & Roy Butler Hike and Bike Trail	foot
 16165036				Mississippi River Transmission	pipeline
+16175094				Centennial Pipeline	pipeline
 16177659				Aegis Pipeline	pipeline
 16177660				Lou-Tex Pipeline	pipeline
 16177661				Texas-Louisiana Ethylene Pipeline	pipeline
@@ -11876,12 +11878,12 @@
 20807785	lcn			Guthrie Park Trail	bicycle
 20807786	lcn			Cargill Long Park Trail	bicycle
 20807787	lcn			Paul G Boorman Trail	bicycle
-20819323	Amtrak Thruway	6121		Longview • Shreveport	bus
-20819324	Amtrak Thruway	6021		Longview • Houston • Galveston	bus
-20819403	Amtrak Thruway	6022		Galveston • Houston • Longview	bus
-20819404	Amtrak Thruway	6122		Shreveport • Longview	bus
-20819405	Amtrak Thruway	6421		Shreveport • Longview	bus
-20819406	Amtrak Thruway	6422		Longview • Shreveport	bus
+20819323	Amtrak Thruway			Longview • Shreveport	bus
+20819324	Amtrak Thruway			Longview • Houston • Galveston	bus
+20819403	Amtrak Thruway			Galveston • Houston • Longview	bus
+20819404	Amtrak Thruway			Shreveport • Longview	bus
+20819405	Amtrak Thruway			Shreveport • Longview	bus
+20819406	Amtrak Thruway			Longview • Shreveport	bus
 20826666				Town Center Trolley	trolleybus
 20951512	Capital Area Rural Transportation System	1516	east	Interurban Orange Route	bus
 20951513	Capital Area Rural Transportation System	1516	west	Interurban Orange Route	bus
@@ -11893,3 +11895,5 @@
 20994326	US:TX:Wood	3288		Wood County Road 3288	road
 20994327	US:TX:Wood	3289		Wood County Road 3289	road
 20997477	US:TX:FM:Spur	655			road
+21002563	Longview Transit	6		Martin Luther King/South Eastman	bus
+21002564	Longview Transit	5		Loop 281/Silver Falls	bus

@@ -1107,8 +1107,8 @@
 8682158	CTA	X9	north	Bus X9: 74th/Ashland -> Irving Park/Sheridan	bus
 8682175	CTA	X9	south	Bus X9: Irving Park/Sheridan ->74th/Ashland	bus
 8682176	CTA	X9	south	Bus X9: Irving Park/Sheridan -> 95th/Ashland	bus
-8682304	CTA	10	north	Bus 10: Museum of Science & Industry -> Mies Van der Rohe/Chestnut	bus
-8682305	CTA	10	south	Bus 10: Chestnut/MVDR -> Museum of Science & Industry	bus
+8682304	CTA	10	north	Bus 10: Obama Presidential Center -> Museum of Science & Industry -> Water Tower Place	bus
+8682305	CTA	10	south	Bus 10: Water Tower Place -> Museum of Science & Industry -> Obama Presidential Center	bus
 8694618	CTA	11	south	Bus 11: Howard/McCormick -> Western Brown Line Station	bus
 8694619	CTA	11	north	Bus 11: Western Brown Line Station -> Howard/McCormick	bus
 8711492	lcn	Damen		Damen Avenue	bicycle
