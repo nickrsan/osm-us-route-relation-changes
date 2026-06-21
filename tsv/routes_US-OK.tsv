@@ -294,7 +294,7 @@
 3445472	US:OK	10			road
 3445473	US:OK	28			road
 3495746	US:OK	127			road
-3496474	lcn			Enid Trail System	bicycle
+3496474	lcn	3		Railroad Pass Trail	bicycle
 3504711	US:OK	412B			road
 3504712	US:OK	412A			road
 3504716	US:OK	281A			road
@@ -4257,3 +4257,5 @@
 20979829	US:OK:Noble	140			road
 20979830	US:OK:Noble	160			road
 20979831	US:OK:Noble	150			road
+21011156	lcn	14		Southside Thruway Trail	bicycle
+21011157	lcn	9		Channel Fairway Trail	bicycle
