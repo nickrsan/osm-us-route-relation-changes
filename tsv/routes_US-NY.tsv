@@ -6644,10 +6644,10 @@
 10082941				Briarcliff-Peekskill Trailway	hiking
 10098146	lcn			86th Street	bicycle
 10117839	lwn			Kaplan's Pond Trail	hiking
-10117840	lwn			Pond Loop	hiking
+10117840				Pond Loop	hiking
 10117841				Turkey Trail	hiking
-10117842	lwn			Highland Trail	hiking
-10117843	lwn			Laurel Rock Trail	hiking
+10117842				Highland Trail	hiking
+10117843				Laurel Rock Trail	hiking
 10117844				Split Rock Trail	hiking
 10117845				Coyote Trail	hiking
 10121340				Tulip Tree Trail	hiking
@@ -11638,3 +11638,6 @@
 20972765	NYC Transit	Q63		NYCB - Q63 Downtown Flushing --> Long Island City	bus
 20977688				Long Path - Section 4	hiking
 21006205	lcn			31st Street (proposed)	bicycle
+21014432				Yellow Trail	hiking
+21014543				Red Trail	hiking
+21015158				White Trail	hiking

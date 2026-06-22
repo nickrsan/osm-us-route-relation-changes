@@ -83,7 +83,7 @@
 1502487	US:AZ	377		AZ 377	road
 1502488	US:AZ	286		AZ 286	road
 1502489	US:AZ	386		AZ 386	road
-1502490	US:AZ:Truck	95		"AZ 95 Truck (Parker, AZ)"	road
+1502490	US:AZ:Truck	95		State Route 95 Truck	road
 1502491	US:AZ	210		AZ 210	road
 1502492	US:AZ:Spur	95S		"AZ 95S Spur (Parker, AZ)"	road
 1502493	US:AZ:Spur	266		AZ 266 Spur	road
@@ -530,13 +530,6 @@
 5755157					power
 5755610					power
 5755611					power
-5756394					power
-5756395					power
-5756409					power
-5756410					power
-5756411					power
-5756412					power
-5756429					power
 5756430					power
 5756431					power
 5756475					power
@@ -777,21 +770,10 @@
 8137580				North 27th Place	road
 8137581				East Cheryl Drive	road
 8137582				North 28th Street	road
-8137583				East Cheryl Drive	road
-8137652				North 26th Street	road
-8137653				East Beryl Avenue	road
-8138120				North 25th Street	road
-8138121				East Cheryl Drive	road
-8138122				North 25th Place	road
-8138124				North 26th Street	road
 8138125				East Brown Street	road
-8138126				North 25th Street	road
 8138366				North 27th Street	road
 8140321				North 24th Street	road
 8140322				East Brown Street	road
-8140540				North 24th Street	road
-8140541				East Beryl Avenue	road
-8140909				East Cinnabar Avenue	road
 8140910				East Cinnabar Avenue	road
 8141156				East Turquoise Drive	road
 8141157				North 24th Place	road
@@ -799,7 +781,6 @@
 8141221				North 25th Street	road
 8149313				North 26th Street	road
 8152769				North 23rd Street	road
-8156669				North 26th Place	road
 8194115	lwn			Tiyo Point Trail	hiking
 8194116	lwn			Point Sublime Trail	hiking
 8238036		7			bus
