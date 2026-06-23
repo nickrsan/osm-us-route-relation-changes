@@ -1325,7 +1325,7 @@
 2852275	Muni	88		Muni 88 inbound: Lake Merced => Balboa Park (mornings)	bus:suspended
 2856078	US:CA:CR	J26			road
 2856112				Bakersfield Subdivision	railway
-2856113	Amtrak	San Joaquins	north	Amtrak San Joaquins: Bakersfield => Sacramento	train
+2856113	Amtrak	Gold Runner	north	Amtrak Gold Runner: Bakersfield => Sacramento	train
 2862585				1926-1934 US 66/US 99 concurrency (Pasadena Avenue)	road
 2862613				1926-1934 US 66/US 99 concurrency (Mission Street)	road
 2862619				1926-1934 US 66/US 99 concurrency	road
@@ -1778,13 +1778,13 @@
 4614689				Richmond Industrial Lead	railway
 4637796	lwn			Moses Spring Trail	hiking
 4659185				Riverbank Subdivision	railway
-4668742	Amtrak	San Joaquins	north	Amtrak San Joaquins: Bakersfield => Oakland	train
-4668743	Amtrak	San Joaquins	south	Amtrak San Joaquins: Oakland => Bakersfield	train
+4668742	Amtrak	Gold Runner	north	Amtrak Gold Runner: Bakersfield => Oakland	train
+4668743	Amtrak	Gold Runner	south	Amtrak Gold Runner: Oakland => Bakersfield	train
 4710692				Santa Cruz Branch	railway
 4710708				"Santa Cruz, Big Trees & Pacific Railway"	railway
 4710758				California Western Railroad	railway
 4710759				Skunk Train	train
-4713797	Amtrak	San Joaquins	south	Amtrak San Joaquins: Sacramento => Bakersfield	train
+4713797	Amtrak	Gold Runner	south	Amtrak Gold Runner: Sacramento => Bakersfield	train
 4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
 4727062				NCTD San Diego Subdivision	railway
 4729047	SDMTS	Silver		Silver Line	tram
@@ -6343,7 +6343,7 @@
 18296982	lwn			Bitter Cherry Trail	hiking
 18296983	lwn			Grand View Loop	hiking
 18299259				Sunset Loop Trail	hiking
-18303500	The Bus	T		T - Turlock Commuter	bus
+18303500	The Bus	T	north	Turlock Commuter	bus
 18306612	The Bus	W1		W1 - Winton Commuter	bus
 18312729	rwn			Boiling Springs Lake Trail	hiking
 18312730	lwn			Terminal Geyser Trail	hiking
@@ -7201,8 +7201,8 @@
 19930073	lcn			Pershing Drive	bicycle
 19932226	US:I:Alternate	405	north		road
 19932227	US:I:Alternate	405	south		road
-19932229	US:I:Express	405	south	I-405 EXPR (south)	road
-19932230	US:I:Express	405	north	I-405 EXPR (north)	road
+19932229		405	south	I-405 HOV South	road
+19932230		405	north	I-405 HOV North	road
 19932583	US:I:Express	10	east	I-10 Metro ExpressLanes	road
 19932584	US:I:Express	10	west	I-10 Metro ExpressLanes	road
 19932586	US:CA		west	San Bernardino Freeway	road

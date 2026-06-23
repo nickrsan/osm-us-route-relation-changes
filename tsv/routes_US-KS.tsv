@@ -307,7 +307,7 @@
 2724860				Senator Bill Morris Memorial Highway	road
 2799197	rcn			Gary L. Haller Trail	bicycle
 2883454				Lawrence Bicycle Route N 1800 and Lakeview	bicycle
-2890792	US:KS	104		KS 104	road
+2890792	US:KS	104			road
 2896082				Lawrence Bicycle Shared 33rd Ousdahl	bicycle
 2896087				Lawrence Bicycle North 1800 Road Lakeview Bike Route	bicycle
 2896094				Lawrence Bicycle Lane Bob Billings Parkway	bicycle
@@ -1370,3 +1370,5 @@
 20780291	US:KS:Alternate	4			road
 20780294	US:KS:Spur	23			road
 20806216	US:KS:Truck	14			road
+21019044	US:KS:Leavenworth	18			road
+21019045	US:KS:Leavenworth	14			road
