@@ -766,12 +766,7 @@
 8106946	lwn			Walhalla Glades Trail	hiking
 8109385	lwn			Cottonwood Creek Trail	hiking
 8109386	lwn			Hance Creek Trail	hiking
-8136987				East Beryl Road	road
-8137580				North 27th Place	road
-8137581				East Cheryl Drive	road
-8137582				North 28th Street	road
 8138125				East Brown Street	road
-8138366				North 27th Street	road
 8140321				North 24th Street	road
 8140322				East Brown Street	road
 8140910				East Cinnabar Avenue	road
@@ -1458,7 +1453,7 @@
 16251491	US:AZ:Scenic	San Francisco Peaks Scenic Road		San Francisco Peaks Scenic Road	road
 16251505	US:AZ:Scenic	White Mountain Scenic Road		White Mountain Scenic Road	road
 16251536	US:AZ:Scenic	White River Scenic Road		White River Scenic Road	road
-16251569	US:AZ:Scenic	"Diné Tah ""Among The People"" Scenic Road"		"Diné Tah ""Among The People"" Scenic Road"	road
+16251569	US:AZ:Scenic			"Diné Tah ""Among The People"" Scenic Road"	road
 16251660	US:AZ:Scenic	Kayenta – Monument Valley Scenic Road		Kayenta – Monument Valley Scenic Road	road
 16251673	US:AZ:Scenic	Tse'nikani – Flat Mesa Scenic Road		Tse'nikani – Flat Mesa Scenic Road	road
 16251685	US:AZ:Scenic	Naat’tis’aan “Navajo Mountain” Scenic Road		Naat’tis’aan “Navajo Mountain” Scenic Road	road
@@ -1696,3 +1691,5 @@
 20800007	US:NFSR:Kaibab:FR	3101		Forest Road 3101	road
 20800008	US:NFSR:Kaibab:FR	38		Forest Road 38	road
 20992312	nwn			Eagle National Recreation Trail	hiking
+21023127	US:BIA	35		Navajo Route 35	road
+21023324	US:BIA	59		Navajo Route 59	road
