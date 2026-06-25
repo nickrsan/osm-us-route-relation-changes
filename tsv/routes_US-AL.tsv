@@ -283,7 +283,7 @@
 1535729	US:AL	289			road
 1535730	US:AL	277			road
 1535731	US:AL	211			road
-1535733	US:AL	285			road
+1535733	US:AL	285		State Route 285	road
 1535734	US:AL	216			road
 1535735	US:AL	227			road
 1535736	US:AL	54			road
@@ -1242,3 +1242,5 @@
 21018152	US:AL:Coffee	511		County Road 511	road
 21018153	US:AL:Coffee	514		County Road 514	road
 21018868	US:AL:Clarke	18		County Road 18	road
+21026742	US:AL:Cherokee	22		County Road 22	road
+21026858	US:AL:Cherokee	148		County Road 148	road
