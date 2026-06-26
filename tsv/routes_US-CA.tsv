@@ -7658,7 +7658,7 @@
 20997916	lwn			Franklin Lakes Trail	hiking
 21006382	lwn			Lunch Meadow Trail	hiking
 21006383	lwn			Boundary Lake Trail	hiking
-21021495	network=US:US:Historic	40		Historic US Route 40	road
+21021495	US:US:Historic	40		Historic US Route 40	road
 21027481	Sonoma County Transit	42		Sonoma County Transit 42: Amarosa Academy => Downtown Santa Rosa	bus
 21027482	Sonoma County Transit	42		Sonoma County Transit 42:Downtown Santa Rosa => Amarosa Academy	bus
 21027483	Sonoma County Transit	42		Sonoma County Transit 42: Industry West Park => Downtown Santa Rosa	bus

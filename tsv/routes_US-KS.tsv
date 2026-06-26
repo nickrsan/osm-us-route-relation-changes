@@ -162,7 +162,7 @@
 1807032	US:KS	236			road
 1807033	US:KS	71			road
 1807038	US:KS	178			road
-1807042	US:KS	187		KS 187	road
+1807042	US:KS	187			road
 1807070	US:KS	62			road
 1807089	US:KS	79			road
 1807225	US:KS	276		KS 276	road
@@ -405,7 +405,6 @@
 3869984	US:NE	14			road
 3886813	US:KS	185		KS 185	road
 3886814	US:KS	138			road
-3905607	US:NE	112		Nebraska Highway 112	road
 4057417				walking route indian hills 23rd street	foot
 4219623					power
 4219624					power
@@ -1309,11 +1308,9 @@
 17717456	US:KS:McPherson	450			road
 17717457	US:KS:McPherson	6103			road
 17717458	US:KS:McPherson	1067			road
-17782506	US:NHT			Oregon National Historic Trail Auto Tour Route	road
 17783569	US:NHT			Oregon National Historic Trail Auto Tour Route	road
 17787076	US:NHT			California National Historic Trail Auto Tour Route	road
 17787077	US:NHT			California National Historic Trail Auto Tour Route	road
-17787083	US:NHT			California National Historic Trail Auto Tour Route	road
 17802534	lwn			Elk River Hiking Trail	hiking
 17852624	US:KS:Scenic Byway			Smoky Valley Scenic Byway	road
 17863094				Decker Road	road
@@ -1322,7 +1319,6 @@
 18035407	US:US:Truck	77			road
 18177876	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
 18177980	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
-18178442	US:NHT			Pony Express National Historic Trail Auto Tour Route	road
 18178841	US:NHT			Lewis and Clark National Historic Trail Auto Tour Route	road
 18336139	ncn	50		50 (Kansas)	bicycle
 18336140	ncn	55			bicycle

@@ -834,7 +834,7 @@
 5637654	US:IL	390			road
 5650358	Pace	385		87th-111th-127th Streets	bus
 5650401	Pace	386	south	Bus 386: Midway CTA Orange Line Station => DeVry University	bus
-5678044	Pace	390		Midway CTA - UPS Hodgkins	bus
+5678044	Pace	390	west	Bus 390: 47th/Cicero => UPS Hodgkins	bus
 5680736	Pace	392		Little Village - UPS Hodgkins	bus
 5680743	Pace	395	west	Bus 395: 95th/Dan Ryan CTA Station -> UPS Hodgkins	bus
 5683330	Pace	421		Bus 421: Linden CTA Station -> Northfield Plaza	bus
@@ -3285,3 +3285,4 @@
 21006435	Pace	331	north	Bus 331: La Grange Metra Station -> Cumberland CTA Station	bus
 21006436	Pace	331	north	Bus 331: Brookfield Village Hall -> Cumberland CTA Station	bus
 21011939				Rock River Trail	road
+21032768	Pace	390	east	Bus 390: UPS Hodgkins => 47th/Cicero	bus

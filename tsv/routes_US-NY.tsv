@@ -4384,8 +4384,8 @@
 5463771	lwn			Willow Trail	hiking
 5463772	lwn			Pecoy Notch Trail	hiking
 5463773	lwn			Warner Creek Trail	hiking
-5463774	lwn			Jimmy Dolan Notch Trail	hiking
-5463775	lwn			Mink Hollow Trail	hiking
+5463774				Jimmy Dolan Notch Trail	hiking
+5463775				Mink Hollow Trail	hiking
 5463779	lwn			Hunter Mountain Trail	hiking
 5463780	lwn			Diamond Notch Trail	hiking
 5463781	lwn			Becker Hollow Trail	hiking
@@ -11641,3 +11641,4 @@
 21014432				Yellow Trail	hiking
 21014543				Red Trail	hiking
 21015158				White Trail	hiking
+21032507	lcn			Carroll Street	bicycle
