@@ -51,7 +51,7 @@
 1331057	US:KS	28		KS 28	road
 1331059	US:KS	14			road
 1333225	US:KS	9			road
-1333226	US:KS	22		KS 22	road
+1333226	US:KS	22			road
 1421728				Limon Subdivision	railway
 1431035				Salina Subdivision	railway
 1431036				Sharon Springs Subdivision	railway
@@ -127,7 +127,6 @@
 1629639	US:US	83			road
 1629665	US:US	83			road
 1629666	US:US	54			road
-1629689	US:US	81			road
 1629691	US:US	77	south		road
 1629705	US:US	83			road
 1700905	US:KS	39		KS 39	road
@@ -155,7 +154,7 @@
 1781626	US:KS	266			road
 1781627	US:KS	60		KS 60	road
 1781629	US:KS	248		KS 248	road
-1783147	US:KS	139		KS 139	road
+1783147	US:KS	139			road
 1796821	US:KS	66		KS 66	road
 1796822	US:US:Historic	66		Historic US 66 (KS)	road
 1805307	US:KS	115		KS 115	road
@@ -402,7 +401,6 @@
 3812187				TBW 17 - 33rd Street Bikeway Phase 1a Lane	bicycle
 3812188				TBW 17 - 33rd Street Bikeway Phase 1b Sharrows	bicycle
 3838941				"Chicago, Rock Island and Pacific Railroad"	railway
-3869984	US:NE	14			road
 3886813	US:KS	185		KS 185	road
 3886814	US:KS	138			road
 4057417				walking route indian hills 23rd street	foot
@@ -432,6 +430,7 @@
 6898835	US:I	435			road
 6898836	US:I	435			road
 6909811	lcn				bicycle
+6994841	rcn			Chief Standing Bear Trail	bicycle
 7191408					road
 7191409					road
 7267990	RideKC	39		39th Street	bus
