@@ -95,8 +95,8 @@
 1575424	US:KS	2		KS 2	road
 1575627	US:KS	3		KS 3	road
 1575841	US:KS	4			road
-1578058	US:KS	8S		KS 8 (South)	road
-1578059	US:KS	8N		KS 8 (North)	road
+1578058	US:KS	8			road
+1578059	US:KS	8			road
 1578308	US:KS	173		KS 173	road
 1582255	US:KS			KS 171 (West) (Old)	
 1582257	US:KS	13			road
@@ -127,6 +127,7 @@
 1629639	US:US	83			road
 1629665	US:US	83			road
 1629666	US:US	54			road
+1629689	US:US	81			road
 1629691	US:US	77	south		road
 1629705	US:US	83			road
 1700905	US:KS	39		KS 39	road
@@ -150,7 +151,7 @@
 1781622	US:KS	121		KS 121	road
 1781623	US:KS	182		KS 182	road
 1781624	US:KS	199			road
-1781625	US:KS	204		KS 204	road
+1781625	US:KS	204			road
 1781626	US:KS	266			road
 1781627	US:KS	60		KS 60	road
 1781629	US:KS	248		KS 248	road
@@ -169,12 +170,12 @@
 1807322	US:KS	101		KS 101	road
 1807346	US:KS			KS 134 (old)	
 1847152	US:KS	201		KS 201	road
-1903564	US:KS	181		KS 181	road
+1903564	US:KS	181			road
 1903565	US:KS	191		KS 191	road
 1904083	US:KS	82		KS 82	road
 1939021	US:US:Business	24			road
 1941308	US:US:Business	40			road
-1941309	US:US:Business	40		Wichita Ave	road
+1941309	US:US:Business	40			road
 1941310	US:US:Business	40			road
 1941512	US:US:Business	50			road
 1941520	US:US:Business	56			road
@@ -430,7 +431,6 @@
 6898835	US:I	435			road
 6898836	US:I	435			road
 6909811	lcn				bicycle
-6994841	rcn			Chief Standing Bear Trail	bicycle
 7191408					road
 7191409					road
 7267990	RideKC	39		39th Street	bus
@@ -1272,7 +1272,7 @@
 16345263	US:KS	170		KS 170	road
 16345545	US:KS	179		KS 179	road
 16345936	US:KS	196		KS 196	road
-16346171	US:KS	232		KS 232	road
+16346171	US:KS	232			road
 16346274	US:KS	239		KS 239	road
 16346366	US:KS:Spur	244			road
 16346367	US:KS	244		KS 244	road
@@ -1367,3 +1367,4 @@
 20806216	US:KS:Truck	14			road
 21019044	US:KS:Leavenworth	18			road
 21019045	US:KS:Leavenworth	14			road
+21045793	US:KS	182			road
