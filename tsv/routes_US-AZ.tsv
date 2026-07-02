@@ -210,8 +210,8 @@
 3332620	US:I	10	east		road
 3332621	US:I	10	west		road
 3354988				Clifton Subdivision	railway
-3389896	Sun Tran	37 NB		Sun Tran Route 37 Pantano (northbound)	bus
-3389897	Sun Tran	37 SB		Sun Tran Route 37 Pantano (southbound)	bus
+3389896	Sun Tran	37	north		bus
+3389897	Sun Tran	37	south		bus
 3421285				County Road 11	road
 3421286				Indian Route 8	road
 3545805	lcn			Santa Cruz River Park	bicycle
