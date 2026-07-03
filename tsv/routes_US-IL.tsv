@@ -1031,7 +1031,7 @@
 8543155	CTA	3	south	Bus 3: Ontario/Fairbanks -> 95th/Dan Ryan Red Line Station	bus
 8543177	CTA	3	south	Bus 3: 25th/Michigan -> 95th/Dan Ryan Red Line Station	bus
 8548456	CTA	3	north	Bus 3: 95th/Dan Ryan Red Line Station -> Ontario/Fairbanks	bus
-8548473	CTA	3	north	Bus 3: 79th/King Drive to Ontario/Fairbanks	bus
+8548473	CTA	3	north	Bus 3: 79th/King Drive -> Ontario/Fairbanks	bus
 8602344	CTA	N4	north	Bus N4: 95th/Dan Ryan Red Line Station -> Washington/State	bus
 8602419	CTA	N4	south	Bus N4: Washington/State -> 95th/Dan Ryan Red Line Station	bus
 8602887	CTA	4	north	Bus 4: 95th/Dan Ryan Red Line Station -> Columbus/Randolph	bus
@@ -1344,7 +1344,7 @@
 10529856	Pace	507		Plainfield	bus
 10552335	CTA	26	north	Bus 26: 103rd/Stony Island -> Chicago/Fairbanks	bus
 10552336	CTA	26	south	Bus 26: Chicago/MVDR ->103rd/Stony Island	bus
-10572824	CTA	192	south	Bus 192: Clinton/Madison - 57th/Cottage Grove	bus
+10572824	CTA	192	south	Bus 192: Clinton/Madison -> 57th/Cottage Grove	bus
 10572825	CTA	192	north	Bus 192: 59th/Drexel -> Madison/Clinton	bus
 10573147	CTA	100	east	Bus 100: 95th/Dan Ryan Red Line Station -> 112th/Avenue B	bus
 10573163	CTA	100	west	Bus 100: 112th/Avenue B -> 95th/Dan Ryan Red Line Station	bus
@@ -3288,3 +3288,4 @@
 21032768	Pace	390	east	Bus 390: UPS Hodgkins => 47th/Cicero	bus
 21042755					power
 21047606	MetroLINK				ferry
+21058928	US:IL:Cumberland			County Road 900	road
