@@ -7845,7 +7845,7 @@
 13548422				Peak Trial	piste
 13562709					hiking
 13572751	NYC Transit	Q39		NYCB - Q39 Ridgewood --> Long Island City	bus
-13594342	ncn	9-11		9-11 Trail (New York Manhattan)	bicycle
+13594342	ncn	9-11		9/11 National Memorial Trail (New York Manhattan)	bicycle
 13599210				Climb Blue MB Trail	bicycle
 13603865	US:NY			NY 907W	road
 13603866	US:NY			NY 987D	road
@@ -7853,7 +7853,7 @@
 13603868	US:NY			NY 987F	road
 13603904	US:NY			NY 987G	road
 13613552	US:NY			NY 987E	road
-13631687	ncn	9-11		9-11 Trail (New Jersey Newark Spur)	bicycle
+13631687	ncn	9-11		9/11 National Memorial Trail (New Jersey Newark Spur)	bicycle
 13647827				Inner Sanctum Trail	foot
 13647828				Caves and Falls Hike Trail	foot
 13658730				Rim Walk Trail	foot
@@ -11643,3 +11643,5 @@
 21015158				White Trail	hiking
 21032507	lcn			Carroll Street	bicycle
 21034692				Poet's Ledge Trail	hiking
+21060711	NYC Transit	Q61		NYCB - Q61 Beechhurst --> Downtown Flushing	bus
+21060712	NYC Transit	Q61		NYCB - Q61 Downtown Flushing --> Beechhurst	bus

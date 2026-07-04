@@ -764,7 +764,7 @@
 4480234	Pace	270	north	Bus 270: Jeff Park Transit Center -> Glenbrook Hospital	bus
 4480264	Pace	272		Milwaukee Avenue North	bus
 4480377	Pace	290	west	290: Howard CTA Station => Cumberland CTA Station	bus
-4499116	Pace	301		Roosevelt Road	bus
+4499116	Pace	301		Bus 301: Forest Park CTA Station -> DuPage County Judicial Center	bus
 4499412	Pace	302		Ogden-Stanley	bus
 4513501	Pace	303	north	Bus 303: Forest Park CTA Station -> Rosemont CTA Station	bus
 4515846	Pace	307	south	Bus 307: Grand/Nordica -> Bridgeview Transit Center	bus
@@ -3289,3 +3289,7 @@
 21042755					power
 21047606	MetroLINK				ferry
 21058928	US:IL:Cumberland			County Road 900	road
+21062440	Pace	301		Bus 301: DuPage County Judicial Center => Forest Park CTA Station	bus
+21062448	Pace	390	west	Bus 390: Midway CTA Orange Line Station => UPS Hodgkins	bus
+21062449	Pace	390	east	Bus 390: UPS Hodgkins => Midway CTA Orange Line Station	bus
+21062450	Pace	390	west	Bus 390: Midway CTA Orange Line Station =>Daley Colelge => UPS Hodgkins	bus

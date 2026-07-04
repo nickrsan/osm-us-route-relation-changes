@@ -105,7 +105,7 @@
 151622	US:CA	57	south		road
 151628	US:CA	91	west		road
 151632	US:CA	91	east		road
-151658	US:CA	22	east	Garden Grove	road
+151658	US:CA	22	east	Garden Grove Freeway	road
 151665	US:CA	22	west		road
 151671	US:CA	55	N	55 (northbound)	road
 151673	US:CA	55	S	55 (southbound)	road
@@ -7200,7 +7200,7 @@
 19932226	US:I:Alternate	405	north		road
 19932227	US:I:Alternate	405	south		road
 19932229		405	south	I-405 HOV South	road
-19932230		405	north	I-405 HOV North	road
+19932230	US:I:Express	405	north		road
 19932583	US:I:Express	10	east	I-10 Metro ExpressLanes	road
 19932584	US:I:Express	10	west	I-10 Metro ExpressLanes	road
 19932586	US:CA		west	San Bernardino Freeway	road

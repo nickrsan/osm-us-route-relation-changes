@@ -194,10 +194,10 @@
 3185375	Sun Tran	34		Sun Tran Route 34 Craycroft/Fort Lowell (northbound)	bus
 3186360	Sun Tran	15 SB		Sun Tran Route 15 Campbell (southbound to Banner UMC South campus )	bus
 3186361	Sun Tran	15 NB		Sun Tran Route 15 Campbell (northbound from Tucson Marketplace)	bus
-3186490	Sun Tran	17		Sun Tran Route 17(County Club/Golf Links to Broadway houghton Park and Ride	bus
-3186491	Sun Tran	17		Sun Tran Route 17 (County Club/Golf Links to Tohono Tadai Transit Center	bus
-3188174	Sun Tran	3 EB		Route 3 6th St./Wilmot {Eastbound)	bus
-3188198	Sun Tran	3 WB		Route 3 6th St./Wilmot (westbound)	bus
+3186490	Sun Tran	17			bus
+3186491	Sun Tran	17			bus
+3188174	Sun Tran	3	east		bus
+3188198	Sun Tran	3	west		bus
 3193517	Sun Tran	5		Sun Tran Route 5 Pima/West Speedway (westbound)	bus
 3193520	Sun Tran	5		Sun Tran Route 5 Pima/West Speedway (east bound)	bus
 3193551	Sun Tran	7 EB		Sun Tran Route 7 22nd Street (eastbound)	bus
@@ -1691,3 +1691,4 @@
 20992312	nwn			Eagle National Recreation Trail	hiking
 21023127	US:BIA	35		Navajo Route 35	road
 21023324	US:BIA	59		Navajo Route 59	road
+21061891	lwn			Massai Nature Trail	hiking
