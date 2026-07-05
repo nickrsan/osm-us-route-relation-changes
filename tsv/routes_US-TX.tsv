@@ -2408,7 +2408,7 @@
 2320389					road
 2320390					road
 2320391					road
-2320392					road
+2320392	US:NHS:STRAHNET				road
 2320395				STRAHNET route: Brownsville - Del Rio	road
 2320396					road
 2320397				STRAHNET Lubbock - Sweetwater	road
@@ -9352,7 +9352,6 @@
 16120828	AggieSpirit	47-48		RELLIS	bus
 16120829	AggieSpirit	48		RELLIS Circulator	bus
 16122589				Texas Wildflower Trail	road
-16124402				Energy Transfer Crude Oil Pipeline	pipeline
 16125153	AggieSpirit	07		Airport	bus
 16137374	lcn	VCT		Violet Crown Trail	mtb
 16142336				Reveille	bus
@@ -9362,7 +9361,6 @@
 16159751				ETC Tiger Pipeline	pipeline
 16160502	lwn	ARBT		Ann & Roy Butler Hike and Bike Trail	foot
 16165036				Mississippi River Transmission	pipeline
-16175094				Centennial Pipeline	pipeline
 16177659				Aegis Pipeline	pipeline
 16177660				Lou-Tex Pipeline	pipeline
 16177661				Texas-Louisiana Ethylene Pipeline	pipeline

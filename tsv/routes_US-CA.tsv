@@ -2843,7 +2843,6 @@
 8477988	RTA	74		74 - Hemet - Winchester - Menifee - Sun City	bus
 8479677	RTA	208		RTA 208	bus
 8479678	RTA	206			bus
-8479679	RTA	205			bus
 8479680	RTA	204		204 - UCR - Downtown Riverside - Ontario Mills Mall - Montclair Transcenter	bus
 8480249	Omnitrans	10		10 - Fontana - Baseline - San Bernardino	bus
 8480250	Omnitrans	8		8 - San Bernardino - Mentone - Crafton Hills College	bus
@@ -7663,3 +7662,8 @@
 21027484	Sonoma County Transit	42		Sonoma County Transit 42: Downtown Santa Rosa => Industry West Park	bus
 21045169	Sonoma County Transit	44		Sonoma County Transit 44: Petaluma Transit Mall => Coddingtown via SSU	bus
 21045171	Sonoma County Transit	44		Sonoma County Transit 44: Coddingtown => Petaluma Transit Mall via SSU	bus
+21065268				Santa Clara River Horse Trail	horse
+21065858	Sonoma County Transit	48		Sonoma County Transit 48: Petaluma Transit Mall => Coddingtown via Cotati	bus
+21065859	Sonoma County Transit	48		Sonoma County Transit 48: Coddingtown => Petaluma Transit Mall via Cotati	bus
+21065861	Sonoma County Transit	48X		Sonoma County Transit 48X: Petaluma Transit Mall => Coddingtown via Cotati	bus
+21065862	Sonoma County Transit	48X		Sonoma County Transit 48X: Coddingtown => Petaluma Transit Mall via Cotati	bus
