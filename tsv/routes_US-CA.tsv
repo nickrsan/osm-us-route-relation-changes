@@ -944,6 +944,7 @@
 2306490	US:US	95			road
 2306491	US:US	95		Route 95	road
 2306494	US:US	97			road
+2306495	US:US	97			road
 2306823	US:US	101			road
 2308402	US:US	6		Route 6	road
 2313084	US:I	5	north		road
@@ -4327,26 +4328,26 @@
 11630010	lcn			Cross-Alameda Trail	bicycle
 11654262	lcn				bicycle
 11701376		R		Bus R: P704 -> Central Campus Station	bus
-11702902	MAX	21		Route 21	bus
-11702956	MAX	22		Route 22	bus
-11702999	MAX	23		Route 23	bus
+11702902	StanRTA	21		Route 21	bus
+11702956	StanRTA	22		Route 22	bus
+11702999	StanRTA	23		Route 23	bus
 11707198		R		Bus R: Central Campus Station -> P704	bus
-11718381	MAX	24		Route 24	bus
-11719602	MAX	25		Route 25	bus
-11719629	MAX	26		Route 26	bus
+11718381	StanRTA	24		Route 24	bus
+11719602	StanRTA	25		Route 25	bus
+11719629	StanRTA	26		Route 26	bus
 11719807	MAX	29		Route 29	bus
-11719876	MAX	30		Route 30	bus
-11720036	MAX	31		Route 31	bus
-11720059	MAX	32		Route 32	bus
+11719876	StanRTA	30		Route 30	bus
+11720036	StanRTA	31		Route 31	bus
+11720059	StanRTA	32		Route 32	bus
 11720104	StanRTA	33		Route 33	bus
 11720416	StanRTA	37		Route 37	bus
 11720469	MAX	38		Route 38	bus
-11720575	MAX	42		Route 42	bus
+11720575	StanRTA	42		Route 42	bus
 11721528	StanRTA	70		Route 70 - Ace Commuter	bus
 11721986	MAX	35		Route 35 - Escalon Transit (eTrans)	bus
-11722306	MAX			MAX to BART	bus
-11722435	MAX			MAX to Amtrak	bus
-11722570	MAX			Stockton Commuter Express	bus
+11722306	StanRTA	90		90 - BART Commuter	bus
+11722435	StanRTA	25		25 - Orangeburg - Claus - Mall - Downtown Modesto  - Amtrak Station	bus
+11722570	StanRTA	80		80 - Stockton Commuter	bus
 11766696	Big Blue Bus	17		Big Blue Bus 17 Northbound: Palms => VA Medical Center => UCLA	bus
 11766697	Big Blue Bus	17		Big Blue Bus 17 Southbound: UCLA => VA Medical Center => Palms	bus
 11769353	Big Blue Bus	8		"Big Blue Bus 8 Westbound: UCLA => Downtown Santa Monica (evenings, weekends)"	bus
@@ -4536,6 +4537,7 @@
 12126814	Metro Local	258		Metro 258 Northbound (late-night): Cal State LA → Highland Park	bus
 12126815	Metro Local	258		Metro 258 Southbound (late-night): Highland Park → Cal State LA	bus
 12126816	Metro Local	258		Metro 258 Northbound: Paramount Town Center → Highland Park	bus
+12140059	US:OR:Named			The Dalles-California Highway	road
 12149115	lwn			Mount Wilson Toll Road	hiking
 12166768	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (Sunday mornings)	bus
 12166769	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (Sunday mornings)	bus
@@ -7028,6 +7030,7 @@
 19573447	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Cordelia Library	bus
 19573448	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Solano Town Center	bus
 19596379	lwn	15E17		Hell Hole Trail	hiking
+19609531	US:OR:Scenic			Volcanic Legacy Scenic Byway	road
 19624589				Singh Walkway	foot
 19630493	US:CA:Business	99		California 99 Business (Bakersfield)	road
 19630520	US:CA:Business	99		California 99 Business (Merced)	road
@@ -7667,3 +7670,4 @@
 21065859	Sonoma County Transit	48		Sonoma County Transit 48: Coddingtown => Petaluma Transit Mall via Cotati	bus
 21065861	Sonoma County Transit	48X		Sonoma County Transit 48X: Petaluma Transit Mall => Coddingtown via Cotati	bus
 21065862	Sonoma County Transit	48X		Sonoma County Transit 48X: Coddingtown => Petaluma Transit Mall via Cotati	bus
+21069213	Tuolumne County Transit	3		3 - Sonora - Jamestown	bus
