@@ -944,7 +944,6 @@
 2306490	US:US	95			road
 2306491	US:US	95		Route 95	road
 2306494	US:US	97			road
-2306495	US:US	97			road
 2306823	US:US	101			road
 2308402	US:US	6		Route 6	road
 2313084	US:I	5	north		road
@@ -2370,7 +2369,6 @@
 8210399	Metro Rapid	J		Metro J Line: El Monte → Harbor Gateway	bus
 8210550	Metro Rapid	J		Metro J Line: El Monte → San Pedro	bus
 8212915	Marguerite	SLAC		Marguerite SLAC: SLAC => Memorial Auditorium	bus:suspended
-8221599				Alhambra to Pasadena	railway
 8221943				Pacific Imperial Railroad	railway
 8222054				West Oakland Pacific Railroad	railway
 8227602				Gates - Diablo Canyon	power
@@ -4537,7 +4535,6 @@
 12126814	Metro Local	258		Metro 258 Northbound (late-night): Cal State LA → Highland Park	bus
 12126815	Metro Local	258		Metro 258 Southbound (late-night): Highland Park → Cal State LA	bus
 12126816	Metro Local	258		Metro 258 Northbound: Paramount Town Center → Highland Park	bus
-12140059	US:OR:Named			The Dalles-California Highway	road
 12149115	lwn			Mount Wilson Toll Road	hiking
 12166768	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (Sunday mornings)	bus
 12166769	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (Sunday mornings)	bus
@@ -5179,7 +5176,6 @@
 14012021	lwn			Lost Empire Trail	hiking
 14012022	lwn			Pine Flat Trail	hiking
 14012023	lwn			Old Alba Grade	hiking
-14012024	lwn				hiking
 14012025	lwn			Sunlit Trail	hiking
 14012026	lwn			Big Ben Trail	hiking
 14012586	Gold Coast Transit	11		11 - PACIFIC VIEW MALL - TELEPHONE - WELLS CENTER	bus
@@ -7030,7 +7026,6 @@
 19573447	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Cordelia Library	bus
 19573448	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Solano Town Center	bus
 19596379	lwn	15E17		Hell Hole Trail	hiking
-19609531	US:OR:Scenic			Volcanic Legacy Scenic Byway	road
 19624589				Singh Walkway	foot
 19630493	US:CA:Business	99		California 99 Business (Bakersfield)	road
 19630520	US:CA:Business	99		California 99 Business (Merced)	road

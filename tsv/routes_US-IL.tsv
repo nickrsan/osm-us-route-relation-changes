@@ -1967,7 +1967,7 @@
 12294940		31		W. Grand – Ravina Park	bus
 12295059		41		E. Grand – Richland Community College	bus
 12297114		51		Jasper – Park 101	bus
-12297137		52		W. Main – Wyckles Rd.	bus
+12297137	Decatur Public Transit System	52		W. Main – Wyckles Rd.	bus
 12297155		53		Enterprise – Taylor Rd.	bus
 12297485		61		Water – Hickory Point Mall	bus
 12299034		62		Oakland – Fairview Plaza	bus
@@ -3294,3 +3294,15 @@
 21062449	Pace	390	east	Bus 390: UPS Hodgkins => Midway CTA Orange Line Station	bus
 21062450	Pace	390	west	Bus 390: Midway CTA Orange Line Station =>Daley Colelge => UPS Hodgkins	bus
 21065104				Decatur Junction Railway	railway
+21071168	Pace	301	west	Bus 301: Forest Park CTA Station -> Roosevelt/Ardmore	bus
+21071169	Pace	301	east	Bus 301: Roosevelt/Ardmore => Forest Park CTA Station	bus
+21071170	Pace	301	east	Bus 301: Harrison/Wolf => Forest Park CTA Station	bus
+21071171	Pace	301	west	Bus 301: Forest Park CTA Station -> Harrison/Wolf	bus
+21071172	Pace	301	east	Bus 301: Oakbrook Center => Forest Park CTA Station	bus
+21071173	Pace	301	west	Bus 301: Forest Park CTA Station -> Oakbrook Center	bus
+21071174	Pace	301	west	Bus 301: Forest Park CTA Station -> Wheaton Metra Station	bus
+21071175	Pace	301	east	Bus 301: Wheaton Metra Station => Forest Park CTA Station	bus
+21071745	lwn				foot
+21071746	lwn				foot
+21071747	lwn				foot
+21071748	lwn				foot
