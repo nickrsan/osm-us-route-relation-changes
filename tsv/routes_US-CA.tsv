@@ -944,6 +944,7 @@
 2306490	US:US	95			road
 2306491	US:US	95		Route 95	road
 2306494	US:US	97			road
+2306495	US:US	97			road
 2306823	US:US	101			road
 2308402	US:US	6		Route 6	road
 2313084	US:I	5	north		road
@@ -4535,6 +4536,7 @@
 12126814	Metro Local	258		Metro 258 Northbound (late-night): Cal State LA → Highland Park	bus
 12126815	Metro Local	258		Metro 258 Southbound (late-night): Highland Park → Cal State LA	bus
 12126816	Metro Local	258		Metro 258 Northbound: Paramount Town Center → Highland Park	bus
+12140059	US:OR:Named			The Dalles-California Highway	road
 12149115	lwn			Mount Wilson Toll Road	hiking
 12166768	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (Sunday mornings)	bus
 12166769	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (Sunday mornings)	bus
@@ -7026,6 +7028,7 @@
 19573447	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Cordelia Library	bus
 19573448	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Solano Town Center	bus
 19596379	lwn	15E17		Hell Hole Trail	hiking
+19609531	US:OR:Scenic			Volcanic Legacy Scenic Byway	road
 19624589				Singh Walkway	foot
 19630493	US:CA:Business	99		California 99 Business (Bakersfield)	road
 19630520	US:CA:Business	99		California 99 Business (Merced)	road

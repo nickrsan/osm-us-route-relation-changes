@@ -201,7 +201,7 @@
 1353694	MBTA	CR-Providence		MBTA Providence/Stoughton Line: Boston South <=> Wickford Junction	train
 1353695	MBTA	CR-Greenbush		Train CR-Greenbush: South Station => Greenbush	train
 1353696	MBTA	CR-Franklin		CR-Franklin Inbound: Foxboro => Forest Hills => South Station	train
-1353697	MBTA	CR-Middleborough		Train CR-Fall River/New Bedford Outbound: South Station => Fall River/New Bedford	train
+1353697	MBTA	CR-NewBedford		Train CR-NewBedford Outbound: South Station => Fall River/New Bedford	train
 1354954	MBTA	CR-Worcester		Train CR-Worcester Outbound: South Station => Aburndale => Worcester	train
 1354955	MBTA	CR-Newburyport		MBTA Newburyport/Rockport Line: Boston North <=> Newburyport	train
 1354956	MBTA	CR-Lowell		Train CR-Lowell Outbound: North Station => Lowell	train
@@ -1463,7 +1463,7 @@
 16316556	MBTA	CR-Lowell		Train CR-Lowell Inbound: Lowell => North Station	train
 16319054	MBTA	SL5		Bus SL5 Outbound: Downtown => Nubian	bus
 16319131	MBTA	CR-Worcester		Train CR-Worcester Inbound: Worcester => Aburndale => South Station	train
-16319282	MBTA	CR-Middleborough		Train CR-Fall River/New Bedford Inbound: New Bedford => South Station	train
+16319282	MBTA	CR-NewBedford		Train CR-NewBedford Inbound: New Bedford => South Station	train
 16320640	MBTA	428		428 Inbound: Oaklandvale => Haymarket	bus
 16327302	MBTA	111		111 Outbound: Haymarket Station => Woodlawn	bus
 16327362	MBTA	114		114 Outbound: Maverick Station => Market Basket	bus
@@ -1756,7 +1756,7 @@
 19860249	MBTA	39		39 Outbound: Back Bay Station => Forest Hills Station	bus
 19874918	lwn			Rollstone Hill Rock Walk Trail	foot
 19885353				Fall River Subdivision	railway
-19984588	MBTA	CR-Middleborough		Train CR-Fall River/New Bedford Inbound: Fall River => South Station	train
+19984588	MBTA	CR-NewBedford		Train CR-NewBedford Inbound: Fall River => South Station	train
 20018646	US:MA:Scenic			Jacob's Ladder Trail Scenic Byway	road
 20018679	US:MA:Scenic			Route 116 Scenic Byway	road
 20018682	US:MA:Scenic			Mount Greylock Scenic Byway	road
@@ -1787,7 +1787,7 @@
 20266883	lcn			Sandwich Service Road Trail	bicycle
 20277144	MBTA	77		77 Outbound: Harvard Station => Arlington Heights	bus
 20293226	MBTA	83		83 Outbound: Central Square => Rindge Ave	bus
-20300474	MBTA			64 Outbound: Kendall/MIT => Oak Square	bus
+20300474	MBTA	64		64 Outbound: Kendall/MIT => Oak Square	bus
 20303498	MBTA	87		87 Outbound: Lechmere => Arlington Center	bus
 20305052	MBTA	70		70 Outbound: University Park => Market Place Dr	bus
 20316035				World War II Veterans Memorial Trail	bicycle
@@ -1821,10 +1821,10 @@
 20732854	MBTA	F4		F4 Inbound: Charlestorn Navy Yard -> Long Wharf (South)	ferry
 20732900		F10		F10: Harbor Loop (Weekday Mornings)	ferry
 20732901		F10		F10: Harbor Loop (Weekday Evening)	ferry
-20733001	MBTA	F3		F3 Inbound: Lewis Mall Wharf -> Long Wharf (North)	ferry
-20733002	MBTA	F3		F3 Outbound: Long Wharf (North) -> Lewis Mall Wharf	ferry
-20733062		F5		F5 Inbound: Blossom Street Pier -> Long Wharf (North)	ferry
-20733063		F5		F5 Outbound: Long Wharf (North) -> Blossom Street Pier	ferry
+20733001	MBTA	EastBoston		F3 Inbound: Lewis Mall Wharf -> Long Wharf (North)	ferry
+20733002	MBTA	EastBoston		F3 Outbound: Long Wharf (North) -> Lewis Mall Wharf	ferry
+20733062		Lynn		F5 Inbound: Blossom Street Pier -> Long Wharf (North)	ferry
+20733063		Lynn		F5 Outbound: Long Wharf (North) -> Blossom Street Pier	ferry
 20733154	MBTA	F8		F8: Winthrop/Quincy Ferry (Weekend)	ferry
 20733184	MBTA	F6		F6: Winthrop Ferry (Weekday Morning)	ferry
 20733185	MBTA	F6		F6: Winthrop Ferry (Weekday Afternoon)	ferry
@@ -1837,3 +1837,6 @@
 21036256				"Concord, Maynard and Hudson Street Railway"	railway
 21057885				F. Gilbert Hills Off-Highway Vehicle Loop	motorcycle
 21071925	lwn			Acorn Trail	hiking
+21074843	lwn			Healthy Heart Loop	hiking
+21075325	lwn			Bridle Loop	hiking
+21075537				Blimp Door Rails	railway
