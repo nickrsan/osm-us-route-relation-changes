@@ -439,7 +439,6 @@
 1745365	lcn	WSD		MCT Watershed Trail	bicycle
 1756583	lcn	SCH		Schoolhouse Trail	bicycle
 1763398	lcn			Arlington Heights Bikeways	bicycle
-1781616	ncn	76		76 (Kentucky)	bicycle
 1782082	ncn	MRT		Mississippi River Trail (Missouri)	bicycle
 1783090	US:GRR			Great River Road (Illinois - National Route)	road
 1783092	US:GRR			Great River Road (Kentucky)	road
@@ -1959,22 +1958,22 @@
 12283646	US:IL:DeKalb	16		DeKalb County Highway 16	road
 12283647	US:IL:DeKalb	10		DeKalb County Highway 10	road
 12283648	US:IL:DeKalb	11		DeKalb County Highway 11	road
-12292938		11		MLK Drive – Meadowlark	bus
-12294310		12		Airport – WalMart East	bus
-12294503		21		Monroe – Aldi’s – WalMart North	bus
-12294783		21C		Monroe – West Mound – Target	bus
-12294899		22		St. Mary’s Circulator	bus
-12294940		31		W. Grand – Ravina Park	bus
-12295059		41		E. Grand – Richland Community College	bus
-12297114		51		Jasper – Park 101	bus
+12292938	Decatur Public Transit System	11		MLK Drive – Meadowlark	bus
+12294310	Decatur Public Transit System	12		Airport – WalMart East	bus
+12294503	Decatur Public Transit System	21		Monroe – Aldi’s – WalMart North	bus
+12294783	Decatur Public Transit System	21C		Monroe – West Mound – Target	bus
+12294899	Decatur Public Transit System	22		St. Mary’s Circulator	bus
+12294940	Decatur Public Transit System	31		W. Grand – Ravina Park	bus
+12295059	Decatur Public Transit System	41		E. Grand – Richland Community College	bus
+12297114	Decatur Public Transit System	51		Jasper – Park 101	bus
 12297137	Decatur Public Transit System	52		W. Main – Wyckles Rd.	bus
-12297155		53		Enterprise – Taylor Rd.	bus
-12297485		61		Water – Hickory Point Mall	bus
-12299034		62		Oakland – Fairview Plaza	bus
-12299092		63		Decatur – Fairview Plaza	bus
-12299234		71		Lost Bridge – WalMart East	bus
-12303315	Salida Del Transit Center	32		South Shores	bus
-12303371		Decatur Trolley		Downtown Decatur Trolley	bus
+12297155	Decatur Public Transit System	53		Enterprise – Taylor Rd.	bus
+12297485	Decatur Public Transit System	61		Water – Hickory Point Mall	bus
+12299034	Decatur Public Transit System	62		Oakland – Fairview Plaza	bus
+12299092	Decatur Public Transit System	63		Decatur – Fairview Plaza	bus
+12299234	Decatur Public Transit System	71		Lost Bridge – WalMart East	bus
+12303315	Decatur Public Transit System	32		South Shores	bus
+12303371	Decatur Public Transit System	Decatur Trolley		Downtown Decatur Trolley	bus
 12384991	RVMMTD	1		Meadowview	bus
 12385396	RVMMTD	2		Bradley/Meijer/Target	bus
 12385415	RVMMTD	3		Schuyler/Meijer/Walmart	bus
@@ -3140,7 +3139,6 @@
 20457190				Algonquin Dam Portage	portage
 20458406					foot
 20498692	US:NHT			Trail of Tears National Historic Trail Auto Tour Route	road
-20498693	US:NHT			Trail of Tears National Historic Trail Auto Route	road
 20498701	Pace	303	north	Bus 303: Winston Plaza -> Forest Park CTA Blue Line Station	bus
 20498702	Pace	303	north	Bus 303: Forest Park CTA Station -> Winston Plaza	bus
 20498703	Pace	303	south	Bus 303: Rosemont CTA Station -> Forest Park CTA Station	bus
@@ -3306,3 +3304,4 @@
 21071746	lwn				foot
 21071747	lwn				foot
 21071748	lwn				foot
+21083017				Chicago Portage	portage

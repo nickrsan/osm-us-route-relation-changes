@@ -1356,7 +1356,7 @@
 2671585	NYC Transit	Q55		NYCB - Q55 Ridgewood --> Richmond Hill	bus
 2671586	NYC Transit	Q59		NYCB - Q59 Rego Park --> Williamsburg	bus
 2671587	NYC Transit	Q60		NYCB - Q60 South Jamaica --> East Midtown	bus
-2671588	NYC Transit	Q67		NYCB - Q67 Qns Plz S --> Metropolitan Av / Fresh Pond Rd	bus
+2671588	NYC Transit	Q67		NYCB - Q67 Court Square --> Metropolitan Av / Fresh Pond Rd	bus
 2715254				Corning Secondary	railway
 2732049	LIRR			Central Branch	railway
 2745702	Capital District Transportation Authority	763		CDTA 763 Albany/Schenectady via Route 20	bus
@@ -1398,7 +1398,6 @@
 2904729	NYC Transit	Q11		NYCB - Q11 Hamilton Beach --> Queens Center Mall	bus
 2904839	NYC Transit	Q12		NYCB - Q12 Downtown Flushing --> Little Neck	bus
 2904848	NYC Transit	Q13		NYCB - Q13 Downtown Flushing --> Bay Terrace	bus
-2908077	NYC Transit	Q15A		NYCB - Q15A Downtown Flushing --> Beechhurst	bus
 2908078	NYC Transit	Q15		NYCB - Q15 Downtown Flushing --> Beechhurst	bus
 2908102	NYC Transit	Q16		NYCB - Q16 Downtown Flushing --> Utopia Parkway --> Bay Terrace	bus
 2908103				Port Byron-Auburn Trolley	railway
@@ -1438,7 +1437,7 @@
 2916965	NYC Transit	Q110		NYCB - Q110 Jamaica Center --> Queens Village	bus
 2917006	NYC Transit	Q113 LTD		NYCB - Q113 LTD Jamaica Center --> Far Rockaway	bus
 2917008	NYC Transit	Q114 LTD		NYCB - Q114 LTD Far Rockaway --> Jamaica Center	bus
-2917563	NYC Transit	Q112		NYCB - Q112	bus
+2917563	NYC Transit	Q112		NYCB - Q112 East New York --> Jamaica Center	bus
 2918435				"Bradford, Eldred and Cuba Railroad"	
 2927890	NYC Transit	B7		NYCB - B7 Bedford-Stuyvesant --> Midwood	bus
 2928058	NYC Transit	B8		NYCB - B8 Bay Bridge --> Brownsville	bus
@@ -7178,7 +7177,7 @@
 12253455	NYC Transit	Q102		"NYCB - Q102 Roosevelt Island --> Astora, Queens"	bus
 12253808	NYC Transit	Q32		NYCB - Q32 Penn Station --> Jackson Heights	bus
 12253853	NYC Transit	B62		NYCB - B62 Downtown Brooklyn --> Queens Plaza	bus
-12253854	NYC Transit	Q67		NYCB - Q67 Metropolitan Av / Fresh Pond Rd --> Qns Plz S	bus
+12253854	NYC Transit	Q67		NYCB - Q67 Metropolitan Av / Fresh Pond Rd --> Court Square	bus
 12255839					road
 12255840					road
 12256764	NYC Transit	Q23		NYCB - Q23 Forest Hills --> East Elmhurst	bus
@@ -7544,7 +7543,6 @@
 12382567	NYC Transit	M14D SBS		NYCB - M14D SBS Williamsburg Bridge --> Chelsea	bus
 12382602	NYC Transit	M34A SBS		NYCB - M34A SBS Port Authority Bus Terminal --> Waterside Plaza via 34th Street	bus
 12382603	NYC Transit	M34 SBS		NYCB - M34 SBS Waterside Plaza --> Javits Center via 34th Street	bus
-12389754	NYC Transit	Q15A		NYCB - Q15A Beechhurst --> Downtown Flushing	bus
 12389755	NYC Transit	Q15		NYCB - Q15 Beechhurst --> Downtown Flushing	bus
 12389837	NYC Transit	Q10		NYCB - Q10 Lefferts Blvd AirTrain --> Kew Gardens	bus
 12389853	NYC Transit	Q2		NYCB - Q2 UBS Arena --> Jamaica Bus Terminal	bus
@@ -8179,7 +8177,6 @@
 14725994				Bailey's	hiking
 14725995				Rambler	hiking
 14726030				Croton Gorge Trail	hiking
-14726114				Croton Riverwalk	hiking
 14726586				Beech Trail	hiking
 14726587				Rubin's Trail	hiking
 14746321		NYS		Northeast Corridor (New York to New Rochelle)	railway
@@ -11647,3 +11644,11 @@
 21060712	NYC Transit	Q61		NYCB - Q61 Downtown Flushing --> Beechhurst	bus
 21068781				Kazimiroff Nature Trail	foot
 21075337	lcn			Front Street	bicycle
+21078910	NYC Transit	Q89		NYCB - Q89 Green Acres Mall --> Jamaica Center	bus
+21078911	NYC Transit	Q89		NYCB - Q89 Jamaica Center --> Green Acres Mall	bus
+21078986	NYC Transit	Q112		NYCB - Q112 Jamaica Center --> East New York	bus
+21082529	lcn			Gateway Trail	bicycle
+21082754					bicycle
+21082772	lcn			Oxley Trail	bicycle
+21082773	lcn			Judd Falls Trail	bicycle
+21083502					bicycle

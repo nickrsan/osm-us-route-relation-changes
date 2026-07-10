@@ -628,12 +628,12 @@
 8338575	MBTA	430		430 - Saugus Center - Malden Center Station	bus
 8338576	MBTA	429		"429 - Northgate Shopping Center - Central Square, Lynn"	bus
 8338577	MBTA	428		428 Outbound: Haymarket => Oaklandvale	bus
-8338578	MBTA	426W		MBTA 426W	bus
+8338578	MBTA	426		MBTA 426W	bus
 8338579	MBTA	426		"426 - Central Square, Lynn - Haymarket or Wonderland Station"	bus
 8338580	MBTA	424W		MBTA 424W	bus
 8338581	MBTA	424		424 Inbound: Eastern Avenue & Essex Street => Wonderland	bus
 8338582	MBTA	411		411 - Kennedy Drive or Jack Satter House - Malden Center Station	bus
-8338992	MBTA	450W		MBTA 450W	bus
+8338992	MBTA	450		MBTA 450W	bus
 8338993	MBTA	450		450 - Salem Depot - Wonderland or Haymarket Station	bus
 8338996	MBTA	442		442 Inbound (skipping Point of Pines): Marblehead => Wonderland Station	bus
 8338997	MBTA	441		441 - Marblehead - Wonderland Station via Paradise Road	bus
@@ -1142,7 +1142,7 @@
 12004839	Merrimack Valley Transit	14		Bradford/Ward Hill	bus
 12005027	Merrimack Valley Transit	15		Hilldale Avenue/Haverhill Commons	bus
 12005299	Merrimack Valley Transit	16		Washington Street/Westgate Plaza	bus
-12006994	MVRTA	18		Riverside	bus
+12006994	Merrimack Valley Transit	18		Riverside	bus
 12007038	Merrimack Valley Transit	17		Haverhill-Amesbury	bus
 12015551	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Chicago => Boston	train
 12103760		H2O		H2O Hyannis-Orleans	bus
@@ -1840,3 +1840,6 @@
 21074843	lwn			Healthy Heart Loop	hiking
 21075325	lwn			Bridle Loop	hiking
 21075537				Blimp Door Rails	railway
+21079270				Commonwealth Avenue Street Railway	railway
+21082557	lcn			Mountain Bike Route	bicycle
+21083452				Washington-Rochambeau Revolutionary Route National Historic Trail	foot
