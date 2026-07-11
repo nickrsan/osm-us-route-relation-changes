@@ -19,7 +19,7 @@
 1023625	lcn			Treat	bicycle
 1023652	lcn			Tucson	bicycle
 1023653	lcn			Columbus Boulevard	bicycle
-1320650	US:NHS High Priority Corridors				road
+1320650	US:NHS:HPC			High-Priority Corridor 26	road
 1453756				Seligman Subdivision	railway
 1453757				Gallup Subdivision	railway
 1453787				Phoenix Subdivision	railway
@@ -116,7 +116,6 @@
 2306246	US:US	89			road
 2306277	US:US	191			road
 2306490	US:US	95			road
-2310324	US:US	60			road
 2319876	US:STRAHNET				road
 2319897	US:NHS:STRAHNET				road
 2334045	US:I	15	north		road
@@ -188,8 +187,8 @@
 3112982		50Yr		50 Year Trail	mtb
 3112983		Chutes		The Chutes	mtb
 3113036	rcn	Loop		The Loop	bicycle
-3184949	Sun Tran	1		Sun Tran Route 1 Glenn/Swan (eastbound)	bus
-3184990	Sun Tran	1		Sun Tran Route 1 Glenn/Swan (westbound)	bus
+3184949	Sun Tran	1	east		bus
+3184990	Sun Tran	1	west		bus
 3185366	Sun Tran	34		Sun Tran Route 34 Craycroft/Fort Lowell (southbound)	bus
 3185375	Sun Tran	34		Sun Tran Route 34 Craycroft/Fort Lowell (northbound)	bus
 3186360	Sun Tran	15 SB		Sun Tran Route 15 Campbell (southbound to Banner UMC South campus )	bus
@@ -200,13 +199,13 @@
 3188198	Sun Tran	3	west		bus
 3193517	Sun Tran	5		Sun Tran Route 5 Pima/West Speedway (westbound)	bus
 3193520	Sun Tran	5		Sun Tran Route 5 Pima/West Speedway (east bound)	bus
-3193551	Sun Tran	7 EB		Sun Tran Route 7 22nd Street (eastbound)	bus
-3193566	Sun Tran	7 WB		Sun Tran Route 7 22nd Street (westbound)	bus
+3193551	Sun Tran	7	east		bus
+3193566	Sun Tran	7	west		bus
 3296063	rwn	SKIT		Sky Islands Traverse	hiking
-3311172	Sun Tran	6		Sun Tran Route 6 Euclid/North 1st Avenue (southbound)	bus
-3311173	Sun Tran	25 SB		Sun Tran Route 25 South Park Avenue (southbound)	bus
-3311182	Sun Tran	6		Sun Tran Route 6 Euclid/North 1st Avenue (northbound)	bus
-3311183	Sun Tran	25 NB		Sun Tran Route 25 South Park Avenue (northbound)	bus
+3311172	Sun Tran	6	south		bus
+3311173	Sun Tran	25	south		bus
+3311182	Sun Tran	6	north		bus
+3311183	Sun Tran	25	north		bus
 3332620	US:I	10	east		road
 3332621	US:I	10	west		road
 3354988				Clifton Subdivision	railway
@@ -385,12 +384,12 @@
 4499553	Valley Metro	PST		PHX Sky Train WB	tram
 4499554	Valley Metro	PST		PHX Sky Train EB	tram
 4512960				Arizona & California Railroad	railway
-4538094	Valley Metro	562 IB		bus 562 Express IB	bus
-4538095	Valley Metro	562 OB		bus 562 Express OB	bus
-4538105	Valley Metro	563 IB		bus 563 Express IB	bus
-4538106	Valley Metro	563 OB		bus 563 Express OB	bus
-4538136	Valley Metro	573 IB		bus 573 Express IB	bus
-4538137	Valley Metro	573 OB		bus 573 Express OB	bus
+4538094	Valley Metro	562	inbound		bus
+4538095	Valley Metro	562	outbound		bus
+4538105	Valley Metro	563	inbound		bus
+4538106	Valley Metro	563	outbound		bus
+4538136	Valley Metro	573	inbound		bus
+4538137	Valley Metro	573	outbound		bus
 4547782	Valley Metro	SR 51 IB		bus SR 51 Rapid IB	bus
 4547783	Valley Metro	SR 51 OB		bus SR 51 Rapid OB	bus
 4548046	Valley Metro	GAL EB		bus GAL EB	bus
@@ -570,16 +569,16 @@
 5955757				Tusayan Route (South-bound)	bus
 5955758				Village Route (East-bound)	bus
 5955759				Village Route (West-bound)	bus
-6068155	Valley Metro	571 IB		bus 571 Express IB	bus
-6068156	Valley Metro	571 OB		bus 571 Express OB	bus
+6068155	Valley Metro	571	inbound		bus
+6068156	Valley Metro	571	outbound		bus
 6068157	Valley Metro	575 IB		bus 575 Express IB	bus
 6068158	Valley Metro	575 OB		bus 575 Express OB	bus
 6068159	Valley Metro	SMER IB		bus SME Rapid IB	bus
 6068160	Valley Metro	SMER OB		bus SME Rapid OB	bus
 6068161	Valley Metro	I-10 E IB		bus I-10 East Rapid IB	bus
 6068162	Valley Metro	I-10 E OB		bus I-10 East Rapid OB	bus
-6068163	Valley Metro	I-10 W IB		bus I-10 West Rapid IB	bus
-6068164	Valley Metro	I-10 W OB		bus I-10 West Rapid OB	bus
+6068163	Valley Metro	594	inbound		bus
+6068164	Valley Metro	594	outbound		bus
 6068165	Valley Metro	I-17 IB		bus I-17 Rapid IB	bus
 6068166	Valley Metro	I-17 OB		bus I-17 Rapid OB	bus
 6133848	lcn	EP&SW Greenway		El Paso and Southwestern Greenway	bicycle
@@ -955,7 +954,7 @@
 9623317	Sun Tran	201X		Sun Tran Route 201X Eastside-Aero Park Express	bus
 9623318	Sun Tran	110X			bus
 9623319	Sun Tran	109X		Sun Tran Route 109X Catalina Highway-Downtown Express	bus
-9623320	Sun Tran	108X		Sun Tran Route 108X Broadway-Downtown Express	bus
+9623320	Sun Tran	108X		Broadway–Downtown Express	bus
 9623321	Sun Tran	107X		Sun Tran Route 107X Oro Valley-Downtown Express	bus
 9623415	Sun Tran	413		Sun Tran Route 413 Marana/I-10	bus
 9623416	Sun Tran	412		Sun Tran Route 412 Thornydale/Orange Grove	bus
@@ -1223,7 +1222,6 @@
 11769723				Former US 70 (AZ 1931)	road
 11785068				Former US 180 (AZ 1935)	road
 11797891				Former AZ 789 (1965)	road
-11797908				Former US 70 (AZ 1969)	road
 11798072	US:BIA	170		BIA 170 (AZ)	road
 11798073	US:BIA	3		BIA 3 (AZ)	road
 11896573	Sun Tran	25 NB		Sun Tran Route 25 South Park Avenue (Northbound)	bus
@@ -1429,7 +1427,7 @@
 16077630	US:AZ:Apache	2180		Apache County Road 2180	road
 16079925	lcn			Red Mesa Rim Trail	mtb
 16121896	US:US				road
-16161287				Future SR 210	road
+16161287	US:AZ:Future	210			road
 16176435	US:NFSR:Coronado:FR	39		Forest Route 39 (Arizona)	road
 16188712	Camel Express	Gold		Gold Route - Quartzsite to Blythe	bus
 16188831	Camel Express	Orange		Orange Route - Quartzsite  to Parker	bus
