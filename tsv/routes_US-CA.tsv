@@ -7612,7 +7612,7 @@
 20701146	US:US:Business	101	north		road
 20701147	US:US:Business	101	south		road
 20738727	mtb	SVMB		San Vicente Mountain Biking	mtb
-20738728	lwn	SVH		San Vicente Hiking	foot
+20738728	lwn	hu-m		hu' - mǐs (Great Horned Owl Trail)	foot
 20742932				Moonlight Beach Trail	foot
 20769442	Sonoma County Transit	30		Sonoma County Transit 30: Coddingtown => Sonoma Plaza	bus
 20769443	Sonoma County Transit	30		Sonoma County Transit 30: Sonoma Plaza => Coddingtown	bus
@@ -7667,3 +7667,8 @@
 21069213	Tuolumne County Transit	3		3 - Sonora - Jamestown	bus
 21079574	Calaveras Connect	CCS		Columbia College Shuttle	bus
 21080154		45		45 - Turlock - Patterson - Newman	bus
+21087207	Calaveras Connect	Red		Red Line	bus
+21089785	lwn	m-r		ma - rŭs (Panther Trail)	foot
+21089786	lwn	ha-m		hai - mǐn' (Lizard Trail)	foot
+21089787	lwn	r-m		rŭm - me' (Canyon Trail)	foot
+21089788	lwn	y-k		yu'- kǐs (Live Oak Trail)	foot
