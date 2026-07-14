@@ -944,7 +944,6 @@
 2306490	US:US	95			road
 2306491	US:US	95		Route 95	road
 2306494	US:US	97			road
-2306495	US:US	97			road
 2306823	US:US	101			road
 2308402	US:US	6		Route 6	road
 2313084	US:I	5	north		road
@@ -4343,7 +4342,7 @@
 11720469	MAX	38		Route 38	bus
 11720575	StanRTA	42		Route 42	bus
 11721528	StanRTA	70		Route 70 - Ace Commuter	bus
-11721986	MAX	35		Route 35 - Escalon Transit (eTrans)	bus
+11721986	eTrans	35		Route 35 - Escalon Transit (eTrans)	bus
 11722306	StanRTA	90		90 - BART Commuter	bus
 11722435	StanRTA	25		25 - Orangeburg - Claus - Mall - Downtown Modesto  - Amtrak Station	bus
 11722570	StanRTA	80		80 - Stockton Commuter	bus
@@ -4535,7 +4534,6 @@
 12126814	Metro Local	258		Metro 258 Northbound (late-night): Cal State LA → Highland Park	bus
 12126815	Metro Local	258		Metro 258 Southbound (late-night): Highland Park → Cal State LA	bus
 12126816	Metro Local	258		Metro 258 Northbound: Paramount Town Center → Highland Park	bus
-12140059	US:OR:Named			The Dalles-California Highway	road
 12149115	lwn			Mount Wilson Toll Road	hiking
 12166768	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (Sunday mornings)	bus
 12166769	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (Sunday mornings)	bus
@@ -7027,7 +7025,6 @@
 19573447	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Cordelia Library	bus
 19573448	FAST	8T		Fairfield and Suisun Transit 8T: Oakbrook & Lopes => Solano Town Center	bus
 19596379	lwn	15E17		Hell Hole Trail	hiking
-19609531	US:OR:Scenic			Volcanic Legacy Scenic Byway	road
 19624589				Singh Walkway	foot
 19630493	US:CA:Business	99		California 99 Business (Bakersfield)	road
 19630520	US:CA:Business	99		California 99 Business (Merced)	road
@@ -7676,4 +7673,7 @@
 21089787	lwn	r-m		rŭm - me' (Canyon Trail)	foot
 21089788	lwn	y-k		yu'- kǐs (Live Oak Trail)	foot
 21092761	lcn			Bubb Road Bikeway	bicycle
-21093326	StanRTA	100		100 - Bart commuter	bus
+21093326	StanRTA	100		100 - Turlock/Patterson BART Commuter	bus
+21096874	StanRTA	90		90 - Modesto BART Commuter	bus
+21097132	lcn			Lawson Middle School Cycletrack	bicycle
+21097586	Blossom Express	BlossomX		Blossom Express	bus
