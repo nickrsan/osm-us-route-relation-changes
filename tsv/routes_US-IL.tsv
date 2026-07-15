@@ -766,7 +766,7 @@
 4499116	Pace	301	west	Bus 301: Forest Park CTA Station -> DuPage County Judicial Center	bus
 4499412	Pace	302		Ogden-Stanley	bus
 4513501	Pace	303	north	Bus 303: Forest Park CTA Station -> Rosemont CTA Station	bus
-4515846	Pace	307	south	Bus 307: Grand/Nordica -> Bridgeview Transit Center	bus
+4515846	Pace	307	south	Bus 307: Grand/Nordica => Bridgeview Transit Center	bus
 4551459	Pace	308	west	Bus 308: Forest Park CTA Station -> Medical Center	bus
 4555753	rcn	US 30 Bikeway			bicycle
 4583608	Pace	808		Crystal Lake-Harvard	bus
@@ -791,7 +791,7 @@
 4744150	Amtrak	Carl Sandburg/Illinois Zephyr		Amtrak Carl Sandburg/Illinois Zephyr: Chicago => Quincy	train
 4764509	Pace	317	west	Bus 317: Forest Park CTA Station -> Canterbury/Balmoral	bus
 4764516	Pace	318	west	Bus 318: Forest Park CTA Station -> Northlake Commons	bus
-4764580	Pace	319		Grand Avenue	bus
+4764580	Pace	319	west	Bus 319: Grand/Nordica => North/Wolf	bus
 5199610	Pace	322	west	Bus 322: 54th/Cermak Pink Line Station => Yorktown Mall	bus
 5199812	Pace	330	north	Bus 330: Archer/Harlem -> O'Hare MMF	bus
 5200006	Pace	331	south	Bus 331: Cumberland CTA Station -> Brookfield Village Hall	bus
@@ -2594,7 +2594,7 @@
 17380981	lwn			Kettle View Trail	hiking
 17380982	lwn			VA Sterne's Woods Trail	hiking
 17408347	Pace	349	south	Bus 349: 79th/Western -> Harvey Transportation Center	bus
-17411095	Pace	307	north	Bus 307: Bridgeview Transit Center -> Grand/Nordica	bus
+17411095	Pace	307	north	Bus 307: Bridgeview Transit Center => Grand/Nordica	bus
 17411109	CTA	67	east	Bus 67: Ford City -> 67th/South Shore	bus
 17429711	lcn			Orange Loop	mtb
 17429712	lcn			Yellow East Trail	mtb
@@ -3305,3 +3305,6 @@
 21071747	lwn				foot
 21071748	lwn				foot
 21083017				Chicago Portage	portage
+21100939	Pace	319	west	Bus 319: Grand/Nordica => Bensenville Metra Station	bus
+21100940	Pace	319	east	Bus 319: Bensenville Metra Station => Grand/Nordica	bus
+21100941	Pace	319	east	Bus 319: North/Wolf => Grand/Nordica	bus

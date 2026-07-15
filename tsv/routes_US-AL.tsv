@@ -942,7 +942,7 @@
 17868565				Indian Loop	mtb
 17959729	US:AL:Dale	25			road
 18004044	US:AL:Dale	10			road
-18004143	US:AL:Dale	87			road
+18004143	US:AL:Dale	CR 87		County Road 87	road
 18009207	US:AL:Dale	112			road
 18209782	US:AL:Lee	661			road
 18209783	US:AL:Lee	662			road
@@ -1264,3 +1264,4 @@
 21078042	US:AL:Henry	CR 30		County Road 30	road
 21078043	US:AL:Henry	CR 77		County Road 77	road
 21078220	US:AL:Henry	CR 12		County Road 12	road
+21099611	US:AL:Dale	CR 79		County Road 79	road
