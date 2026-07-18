@@ -971,7 +971,7 @@
 8671769	US:MO:Supplemental	D			road
 8671864	MetroBus	59	east	59 Oakland: Highland Terrace & Richmond Ctr → Central West End Transit Center	bus
 8671866	MetroBus	58	east	58 Chesterfield Valley: St. Louis Premium Outlets → Clayton Transit Center	bus
-8671867	MetroBus	57		Manchester	bus
+8671867	MetroBus	57	east	57 Manchester: Wildwood Shopping Center → Maplewood Transit Center	bus
 8671868	MetroBus	56	east	56 Kirkwood-Webster: STLCC Meramec → Shrewsbury-Lansdowne I-44 Transit Center	bus
 8671903	MetroBus	70	north	70 Grand: Loughborough Commons → North Broadway Transit Center	bus
 8671904	MetroBus	68		MetroBus 68 Big Bend	bus
@@ -3247,3 +3247,6 @@
 21039913	lwn			Thousand Hills Trail - Full Route	hiking
 21039914	lcn			Thousand Hills Trail - South Route	mtb
 21039915	lcn			Thousand Hills Trail - Full Route	mtb
+21112256	MetroBus	13	north	13 Union: Central West End Transit Center → Union & West Florissant	bus
+21113097	lwn			Forest City Glade Runner Trail	hiking
+21113098				Forest City Glade Runner Trail	mtb

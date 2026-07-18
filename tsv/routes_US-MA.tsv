@@ -184,6 +184,7 @@
 1346952	US:MA	137			road
 1346953	US:MA	136			road
 1346957	US:MA	138			road
+1347915	US:RI	24		Route 24	road
 1347943	US:RI	81			road
 1347953	US:RI	98			road
 1347954	US:RI	96			road
@@ -1273,7 +1274,7 @@
 14573803	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Washington	train
 14573804	Amtrak	Northeast Regional		Amtrak Northeast Regional: Boston => Richmond	train
 14573807	Amtrak	Northeast Regional		Amtrak Northeast Regional: Norfolk => Boston	train
-14603325				North Brookfield Railroad	railway
+14603325	lwn			North Brookfield Rail Trail	foot
 14615832				Hampden Railroad	railway
 14638629				Union Freight Railroad	railway
 14672600	lwn			Indian Lake Pathway	foot
