@@ -235,7 +235,7 @@
 1412947				East Village Branch	railway
 1412948				Newton Lower Falls Branch	railway
 1412949				Saxonville Branch	railway
-1590059	MBTA	85		85 Inbound: Assembly => Ruggles (Weekdays)	bus
+1590059	MBTA	85		85 Inbound: Assembly Row => Ruggles Station (Weekdays)	bus
 1600269	MBTA	Blue		MBTA Blue Line: Bowdoin → Wonderland	subway
 1600276	MBTA	Orange		MBTA Orange Line: Oak Grove → Forest Hills	subway
 1600292	MBTA	Red		MBTA Red Line: Alewife → Ashmont	subway
@@ -699,7 +699,7 @@
 9201993	WRTA	24/24A		Union Station Hub – UMass Medical Center via Belmont St.	bus
 9201994	WRTA	24		WRTA 24	bus
 9201995	WRTA	23		Union Station Hub – Mountain Village via Lincoln St.	bus
-9201996	WRTA	19		Union Station Hub – Goddard Memorial Drive/ Leicester WalMart via Main St.	bus
+9201996	WRTA	19		Union Station Hub – Goddard Memorial Drive via Main St.	bus
 9201997	WRTA	16		Union Station Hub – Lincoln Plaza via Hamilton St. & Lake Ave.	bus
 9201998	WRTA	15		Union Station Hub – Shrewsbury Center via Shrewsbury St. & Route 9	bus
 9204000	PVTA	B17		Eastfield Mall via Worthington St/Wilbraham Rd	bus
@@ -1408,7 +1408,7 @@
 16172998	MBTA	501		501 Outbound: Federal Street & Franklin Street => Cambridge Street => Brighton Center	bus
 16173354	MBTA	501		501 Inbound: Brighton Center => Cambridge Street => Federal Street & Franklin Street	bus
 16173406	MBTA	501		501 Outbound: Federal Street & Franklin Street => Brighton Center	bus
-16177269	MBTA	85		85 Outbound: Ruggles => Assembly (Weekdays)	bus
+16177269	MBTA	85		85 Outbound: Ruggles Station => Assembly Row (Weekdays)	bus
 16187276	MBTA	558		558 Outbound: Newton Corner => Riverside	bus
 16190922	MBTA	CT3		CT3 Outbound: Andrew Station => Ave Louis Pasteur (Weekdays)	bus
 16190923	MBTA	CT3		CT3 Outbound: Andrew Station => Beth Israel Deaconess Hospital (Weekdays)	bus
