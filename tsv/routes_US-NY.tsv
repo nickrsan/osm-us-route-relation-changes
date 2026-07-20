@@ -4705,7 +4705,7 @@
 6342928	NYC Subway	S		NYCS - S Franklin Avenue Shuttle: Franklin Avenue → Prospect Park	subway
 6343079	lwn			Giant Ledge - Panther - Fox Hollow Trail	hiking
 6344042				"Penn Yan, Keuka Lake, & Southern"	railway
-6362938	lwn;lcn;lhn	OCA		Old Croton Aqueduct Trail	hiking;mtb;horse
+6362938		OCA		Old Croton Aqueduct Trail	hiking;mtb;horse
 6380472	lcn			Black Diamond Trail	bicycle
 6384099	US:NY:Jefferson	178		Jefferson County Route 178	road
 6384107				Bobolink Trail	hiking
@@ -11174,7 +11174,6 @@
 20127894				Lakeside Overlook Trail	hiking
 20138402				Cornish Connector Trail	hiking
 20138487				Approach Road to Cornish Mansion	road
-20141381	rcn	OCA		Old Croton Aqueduct Trail	bicycle
 20183971	Kiryas Joel Area Transit	A		Route A	bus
 20183972	Kiryas Joel Area Transit	A		Route A	bus
 20183973	Kiryas Joel Area Transit	A		Route A	bus
@@ -11653,3 +11652,8 @@
 21082773	lcn			Judd Falls Trail	bicycle
 21083502	lcn				bicycle
 21099456	lcn			Northeast Ithaca Recreation Way	bicycle
+21119729				Pocantico River Trail	hiking;horse
+21119730				Douglass Hill Loop	hiking;horse
+21119731				Gory Brook Road	hiking;horse
+21119738				13 Bridges Loop	hiking;horse
+21119741				Witch's Spring Trail	hiking;horse
