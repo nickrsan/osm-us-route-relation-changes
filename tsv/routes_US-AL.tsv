@@ -329,7 +329,6 @@
 1595181	lcn			Noah Bike Trail	bicycle
 1613720	US:ADHS				road
 1629686	US:US	80			road
-1642836	rwn	PNRT		Pinhoti Trail	hiking
 1646641	US:GA	540			road
 1666806	lhn	RMT		Richard Martin Trail (horse)	horse
 1668257	lwn	SCG		Swan Creek Greenway Trail	hiking
@@ -699,7 +698,7 @@
 13831363	lwn	BNRT		Bartram National Recreational Trail	hiking
 13835046	lwn	CBRT		Lowline Railroad Trail	hiking
 13835047	lwn	JBST		John B Scott Forever Wild Trail	hiking
-13961168				Pinhoti Trail - GET Portion	hiking
+13961168	rwn	PNRT		Pinhoti Trail - GET Portion	hiking
 13991542				Southern Natural Gas - North Main System	pipeline
 14079414	lcn			"Yoholo Micco, The Creek Indian Trail"	bicycle
 14084370	lwn			Alabama Reunion Trail	hiking

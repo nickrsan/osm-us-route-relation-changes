@@ -2810,7 +2810,7 @@
 8472120	RTA	Gold		RTA RapidLink Gold Line	bus
 8472234	RTA	11		RTA 11	bus
 8472235	RTA	10		RTA 10	bus
-8472236	RTA	8		RTA 8	bus
+8472236	RTA	8		8 - Lake Elsinore - Wildomar	bus
 8472908	Amtrak	Capitol Corridor		Amtrak Capitol Corridor: Auburn => San José	train
 8472909	Amtrak	Capitol Corridor		Amtrak Capitol Corridor: San José => Auburn	train
 8474614	RTA	23		RTA 23	bus
@@ -4343,7 +4343,6 @@
 11720575	StanRTA	42		Route 42	bus
 11721528	StanRTA	70		Route 70 - Ace Commuter	bus
 11721986	eTrans	35		Route 35 - Escalon Transit (eTrans)	bus
-11722306	StanRTA	90		90 - BART Commuter	bus
 11722435	StanRTA	25		25 - Orangeburg - Claus - Mall - Downtown Modesto  - Amtrak Station	bus
 11722570	StanRTA	80		80 - Stockton Commuter	bus
 11766696	Big Blue Bus	17		Big Blue Bus 17 Northbound: Palms => VA Medical Center => UCLA	bus
@@ -4495,7 +4494,7 @@
 11930929		520		Local 520	bus
 11936485		525		Local 525	bus
 11936610		545		Local 545	bus
-11936694		555		Local 555	bus
+11936694	San Joaquin RTD	555		555 - Carolyn Weston-Manthey -Downtown Transit Center	bus
 11936856		566		Local 566	bus
 11936911		576		Local 576	bus
 11937377		578		Local 578	bus
@@ -7682,3 +7681,6 @@
 21123100				Blacksmith Creek Trail	hiking
 21124453	Sonoma County Transit	60		Sonoma County Transit 60: Downtown Santa Rosa => Cloverdale	bus
 21124454	Sonoma County Transit	60		Sonoma County Transit 60: Cloverdale => Downtown Santa Rosa	bus
+21127696	Amtrak Thruway	6		6- Stockton - San Jose	bus
+21127942	Sonoma County Transit	60X		Sonoma County Transit 60X: Downtown Santa Rosa => Cloverdale	bus
+21127943	Sonoma County Transit	60X		Sonoma County Transit 60X: Cloverdale => Downtown Santa Rosa	bus
