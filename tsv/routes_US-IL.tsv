@@ -845,7 +845,7 @@
 5688241	Pace	423		Linden CTA-The Glen-Harlem CTA	bus
 5856852					power
 5856872					power
-5977773	Pace	606	west	Bus 606: Rosemont CTA Station => Pace Northwest Transportation Center	bus
+5977773	Pace	606	west	Bus 606: Rosemont CTA Station → Pace Northwest Transportation Center	bus
 5977776	Pace	811		Rosemont Entertainment Circulator	bus
 6024721					power
 6024723					power
@@ -860,7 +860,7 @@
 6403700	Pace	471		Highland Park-Northbrook Court	bus
 6403777	Pace	472		Highland Park - Highwood	bus
 6445457	CTA	130	east	Bus 130: Ogilvie Transit Center -> Museum Campus	bus
-6498187	Pace	905	north	Bus 905: Pace Northwest Transportation Center => Renaissance Schaumburg Hotel and Convention Center	bus
+6498187	Pace	905	north	Bus 905: Pace Northwest Transportation Center → Renaissance Schaumburg Hotel and Convention Center	bus
 6518827	Pace	626	north	Bus 626: Dempster-Skokie CTA Station => Lincolnshire Business Center	bus
 6573646	lcn	RC		Richland Creek Bikeway	bicycle
 6580415	rcn	RRT		Ramblin' River Bike Tour	bicycle
@@ -880,10 +880,10 @@
 6792038	Pace	563	north	Bus 563: Rosalind Franklin University Clinics → Sheridan & Washington	bus
 6797130				Barr Subdivision	railway
 6802262	Pace	554		Elgin - Woodfield	bus
-6802378	Pace	603	west	Bus 603: Rosemont CTA Station => Pace Elgin Transportation Center	bus
+6802378	Pace	603	west	Bus 603: Rosemont CTA Station → Pace Elgin Transportation Center	bus
 6802379	Pace	605	west	Bus 605: Rosemont CTA Station => Pace I-90 & Randall Road Park-n-Ride	bus
 6802403	Pace	604		Wheeling - Schaumburg	bus
-6802408	Pace	607	west	Bus 607: Pace Northwest Transportation Center => Pace I-90 & Randall Road Park-n-Ride	bus
+6802408	Pace	607	west	Bus 607: Pace Northwest Transportation Center → Pace I-90 & Randall Road Park-n-Ride	bus
 6830114	lcn	BB		Belleville Bikeway	bicycle
 6841506	rcn	RIT		Rock Island Trail	bicycle
 6894937	US:I	70	east		road
@@ -1186,7 +1186,7 @@
 9041016	nwn	ADT J3		ADT - Illinois (South) - J - Seg 3	hiking
 9043011	nwn	ADT L1		ADT - Missouri - L - Seg 1	hiking
 9087108	Pace	802		Bus 802: Geneva Metra Station => Aurora Transportation Center	bus
-9087172	Pace	801	north	Bus 801: Geneva Metra Station => Pace Elgin Transportation Center	bus
+9087172	Pace	801	north	Bus 801: Geneva Metra Station → Pace Elgin Transportation Center	bus
 9100585					power
 9100586					power
 9100587		11902			power
@@ -1374,8 +1374,8 @@
 10736766	lwn	MPn		Mississippi Palisades State Park Trails north	hiking
 10741242	CTA	30	north	Bus 30: Hegewisch Station ->79th/South Chicago	bus
 10741243	CTA	30	south	Bus 30: 79th/South Chicago -> Hegewisch Station	bus
-10753173	Pace	600	west	Bus 600: Rosemont CTA Station => Pace Northwest Transportation Center	bus
-10753205	Pace	600	east	Bus 600: Pace Northwest Transportation Center => Rosemont CTA Station	bus
+10753173	Pace	600	west	Bus 600: Rosemont CTA Station → Pace Northwest Transportation Center	bus
+10753205	Pace	600	east	Bus 600: Pace Northwest Transportation Center → Rosemont CTA Station	bus
 10754746	CTA	31	east	Bus 31: Ashland Orange Line Station -> 33rd/King Drive	bus
 10754747	CTA	31	west	Bus 31: 33rd/King Drive -> Ashland Orange Line Station	bus
 10763071	CTA	34	north	Bus 34: 131st/Ellis -> 95th/Dan Ryan Red Line Station	bus
@@ -2208,7 +2208,7 @@
 14438665				Techny Basin	bicycle
 14444513	CTA	151	north	Bus 151: Union Station -> Belmont/Halsted	bus
 14444514	CTA	151	south	Bus 151: Belmont/Halsted -> Union Station	bus
-14444632	Pace	697	north	Bus 697: Pace Northwest Transportation Center => Harper College	bus
+14444632	Pace	697	north	Bus 697: Pace Northwest Transportation Center → Harper College	bus
 14451296	CTA	54B	south	Bus 54B: 54th/Cermak Pink Line Station -> Ford City Mall	bus
 14451297	CTA	54B	north	Bus 54B: Ford City Mall -> 54th/Cermak Pink Line Station	bus
 14456883	CTA	54B	south	Bus 54B: 54th/Cermak Pink Line Station -> Solo Cup	bus
@@ -2364,7 +2364,7 @@
 15550284	CTA	53	south	Bus 53: Pulaski/Erie -> 31st/Kostner	bus
 15550453	CTA	34	north	Bus 34: Carver HS -> 95th/Dan Ryan Red Line Station	bus
 15550454	CTA	34	south	Bus 34: 95th/Dan Ryan Red Line Station -> Carver HS	bus
-15554576	Pace	801	south	Bus 801: Pace Elgin Transportation Center => Geneva Metra Station	bus
+15554576	Pace	801	south	Bus 801: Pace Elgin Transportation Center → Geneva Metra Station	bus
 15554669	lpn			African American Heritage Water Trail	canoe
 15557469	CTA	59	west	Bus 59: 60th Street & Stony Island -> Midway Orange Line Station	bus
 15570143	US:IL:Christian	1200E		County Road 1200 East	road
@@ -2374,15 +2374,15 @@
 15575906				Southwest Sub District	railway
 15575907				Beverly Sub District	railway
 15575908				Joliet Sub District	railway
-15577595	Pace	905	south	Bus 905: Renaissance Schaumburg Hotel and Convention Center => Pace Northwest Transportation Center	bus
+15577595	Pace	905	south	Bus 905: Renaissance Schaumburg Hotel and Convention Center → Pace Northwest Transportation Center	bus
 15582814	lcn			Lakefront - California Avenue	bicycle
 15584970	lcn			Wilson Avenue - DePaul University	bicycle
 15585244	lcn			33rd Street - UIC	bicycle
 15585245	lcn			UIC - DuPaul University	bicycle
 15593260	lcn			Odgen Avenue - Lakefront	bicycle
-15594165	Pace	603	east	Bus 603: Pace Elgin Transportation Center => Rosemont CTA Station	bus
+15594165	Pace	603	east	Bus 603: Pace Elgin Transportation Center → Rosemont CTA Station	bus
 15594166	Pace	605	east	Bus 605: Pace I-90 & Randall Road Park-n-Ride => Rosemont CTA Station	bus
-15594202	Pace	607	east	Bus 607: Pace I-90 & Randall Road Park-n-Ride => Pace Northwest Transportation Center	bus
+15594202	Pace	607	east	Bus 607: Pace I-90 & Randall Road Park-n-Ride → Pace Northwest Transportation Center	bus
 15595268	lcn			Elmwood Park - Lakefront	bicycle
 15608589	lcn			Medical Center - United Center	bicycle
 15608643	lcn			United Center - CTA Blue Line	bicycle
@@ -2858,11 +2858,11 @@
 18976998	MTD	5W		MTD 5W Greenhopper Weekday - Daytime	bus
 18982224	MTD	22N		MTD 22N Illini Limited Weekday - Daytime	bus
 18995585	MTD	5E		MTD 5E Green Hopper Weekday - Daytime	bus
-19051497	Pace	606	east	Bus 606: Pace Northwest Transportation Center => Rosemont CTA Station	bus
+19051497	Pace	606	east	Bus 606: Pace Northwest Transportation Center → Rosemont CTA Station	bus
 19075876				National Road (IL)	road
 19087219				Volo Bog Interpretive Trail	foot
 19087220				Tamarack View Trail	foot
-19143672	Pace	697	south	Bus 697: Harper College => Pace Northwest Transportation Center	bus
+19143672	Pace	697	south	Bus 697: Harper College → Pace Northwest Transportation Center	bus
 19161752	US:IL:LaSalle	1			road
 19161753	US:IL:LaSalle	41			road
 19170917	Pace	208	east	Bus 208: Pace Northwest Transportation Center => Davis CTA Station	bus
@@ -2963,9 +2963,9 @@
 19784211	Pace	353	north	Bus 353: River Oaks -> 95th Dan/Ryan CTA Station	bus
 19784212	Pace	353	north	Bus 353: Pace Homewood Park & Ride -> 95th Dan/Ryan CTA Station	bus
 19795377				300N	road
-19810782	Pace	208	west	Bus 208: Davis CTA Station => Pace Northwest Transportation Center	bus
-19810783	Pace	208	east	Bus 208: Pace Northwest Transportation Center => Davis CTA Station	bus
-19810784	Pace	208	east	Bus 208: Pace Northwest Transportation Center => Davis CTA Station	bus
+19810782	Pace	208	west	Bus 208: Davis CTA Station → Pace Northwest Transportation Center	bus
+19810783	Pace	208	east	Bus 208: Pace Northwest Transportation Center → Davis CTA Station	bus
+19810784	Pace	208	east	Bus 208: Pace Northwest Transportation Center → Davis CTA Station	bus
 19812878	Pace	209	south	Bus 209: Des Plaines Metra Station -> Cumberland CTA Station	bus
 19815261	Pace	209	north	Bus 209: Cumberland CTA Station -> Des Plaines Metra Station B Trips	bus
 19815262	Pace	209	south	Bus 209: Des Plaines Metra Station -> Cumberland CTA Station B Trips	bus
@@ -3307,3 +3307,5 @@
 21100939	Pace	319	west	Bus 319: Grand/Nordica => Bensenville Metra Station	bus
 21100940	Pace	319	east	Bus 319: Bensenville Metra Station => Grand/Nordica	bus
 21100941	Pace	319	east	Bus 319: North/Wolf => Grand/Nordica	bus
+21132138	Pace	554	east	Bus 554: Pace Elgin Transportation Center → Meacham Road → Pace Northwest Transportation Center	bus
+21132139	Pace	554	east	Bus 554: Pace Elgin Transportation Center → Pace Northwest Transportation Center	bus

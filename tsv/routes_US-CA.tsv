@@ -2810,15 +2810,14 @@
 8472120	RTA	Gold		RTA RapidLink Gold Line	bus
 8472234	RTA	11		RTA 11	bus
 8472235	RTA	10		RTA 10	bus
-8472236	RTA	8		8 - Lake Elsinore - Wildomar	bus
+8472236	RTA	8		8 - Lake Elsinore - Wildomar Loop	bus
 8472908	Amtrak	Capitol Corridor		Amtrak Capitol Corridor: Auburn => San José	train
 8472909	Amtrak	Capitol Corridor		Amtrak Capitol Corridor: San José => Auburn	train
-8474614	RTA	23		RTA 23	bus
-8474615	RTA	22		RTA 22	bus
+8474614	RTA	23		23 - Temecula - Murrieta -Wildomar	bus
+8474615	RTA	22		22 - Downtown Riverside - Perris Station Transit Center	bus
 8474616	RTA	21		21 - Galleria - Pedley	bus
 8474617	RTA	20		RTA 20	bus
-8474618	RTA	19F		RTA 19F	bus
-8474619	RTA	19		RTA 19	bus
+8474619	RTA	19		19 - Moreno Valley Mall - Perris Station Transit Center	bus
 8474620	RTA	18		RTA 18	bus
 8474621	RTA	16		RTA 16	bus
 8474622	RTA	14		RTA 14	bus
@@ -2830,17 +2829,14 @@
 8474990	SUPERIOR COURT OF CALIFORNIA COUNTY OF RIVERSIDE	50		50 - Jury Trolley	bus
 8474991	RTA	49		RTA 49	bus
 8474993	RTA	41		RTA 41	bus
-8474994	RTA	40		RTA 40	bus
 8474997	RTA	31		31 - San Jacinto - Beaumont - Banning - Moreno Valley	bus
-8474998	RTA	30		RTA 30	bus
+8474998	RTA	30		30 - Perris Station Transit Center - May Ranch	bus
 8474999	RTA	29		29 - Riverside - Eastvale	bus
 8475000	RTA	27		27 - Galleria at Tyler - Perris Station Transit Center	bus
 8475002	RTA	26		RTA 26	bus
-8477985	RTA	202		RTA 202	bus
 8477986	RTA	200		RTA 200	bus
 8477987	RTA	79		79 - Hemet - Winchester - Temecula	bus
 8477988	RTA	74		74 - Hemet - Winchester - Menifee - Sun City	bus
-8479677	RTA	208		RTA 208	bus
 8479678	RTA	206			bus
 8479680	RTA	204		204 - UCR - Downtown Riverside - Ontario Mills Mall - Montclair Transcenter	bus
 8480249	Omnitrans	10		10 - Fontana - Baseline - San Bernardino	bus
@@ -5000,7 +4996,7 @@
 13648218	Delano Area Rapid Transit	1		Route 1	bus
 13648421	Corona Cruiser	Blue		Blue Route	bus
 13652638	Delano Area Rapid Transit	4		Route 4	bus
-13652876	Eastern Sierra Transit	Purple		MAMMOTH LAKES PURPLE LINE	bus
+13652876	Eastern Sierra Transit	Purple	west	Purple Line	bus
 13655794	Eastern Sierra Transit	395 North		Lone Pine to Reno	bus
 13659024	Delano Area Rapid transit	3		Route 3	bus
 13659094	Tulare County Area Transit	20		South County	bus
@@ -7379,7 +7375,7 @@
 20145563	US:CA			Kings Canyon Scenic Byway	road
 20147811			east	Alfred Harrell Highway	road
 20147812			west	Alfred Harrell Highway	road
-20151235	US:CA:Scenic	35			road
+20151235	US:CA:Scenic	2			road
 20151263	US:CA:Scenic	9 - Saratoga-Los Gatos Road			road
 20167360				Lake Loop Trail	hiking
 20173339					bicycle
@@ -7606,7 +7602,6 @@
 20670832	lwn			The Graveyard Loop	foot
 20674498	lwn;lcn			Infinity Hill	hiking;mtb
 20674499	lwn			Etna High School Cross Country Course	foot
-20674632	VTA				bus
 20684514	lcn			Johnny Cash Trail	bicycle
 20701146	US:US:Business	101	north		road
 20701147	US:US:Business	101	south		road
@@ -7684,3 +7679,9 @@
 21127696	Amtrak Thruway	6		6- Stockton - San Jose	bus
 21127942	Sonoma County Transit	60X		Sonoma County Transit 60X: Downtown Santa Rosa => Cloverdale	bus
 21127943	Sonoma County Transit	60X		Sonoma County Transit 60X: Cloverdale => Downtown Santa Rosa	bus
+21130795	US:CA:Scenic	7			road
+21131069	RTA	9		9 - Perris Station Transit Center - Highway 74 & Cambern	bus
+21132036	Eastern Sierra Transit		north	Lakes Basin Trolley	bus
+21132037	Eastern Sierra Transit		south	Lakes Basin Trolley	bus
+21132098				Mission Inn Avenue	road
+21132351	Eastern Sierra Transit	Purple	east	Purple Line	bus
