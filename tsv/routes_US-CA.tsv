@@ -4996,7 +4996,7 @@
 13648218	Delano Area Rapid Transit	1		Route 1	bus
 13648421	Corona Cruiser	Blue		Blue Route	bus
 13652638	Delano Area Rapid Transit	4		Route 4	bus
-13652876	Eastern Sierra Transit	Purple	west	Purple Line	bus
+13652876	Eastern Sierra Transit		west	Purple Line	bus
 13655794	Eastern Sierra Transit	395 North		Lone Pine to Reno	bus
 13659024	Delano Area Rapid transit	3		Route 3	bus
 13659094	Tulare County Area Transit	20		South County	bus
@@ -7684,4 +7684,8 @@
 21132036	Eastern Sierra Transit		north	Lakes Basin Trolley	bus
 21132037	Eastern Sierra Transit		south	Lakes Basin Trolley	bus
 21132098				Mission Inn Avenue	road
-21132351	Eastern Sierra Transit	Purple	east	Purple Line	bus
+21132351	Eastern Sierra Transit		east	Purple Line	bus
+21135943	Sonoma County Transit	62		Sonoma County Transit 62: Windsor Depot => Downtown Santa Rosa via Sonoma County Airport	bus
+21135944	Sonoma County Transit	62		Sonoma County Transit 62: Downtown Santa Rosa => Windsor Depot via Sonoma County Airport	bus
+21136287	Eastern Sierra Transit		south	Teal Line	bus
+21136288	Eastern Sierra Transit		north	Teal Line	bus

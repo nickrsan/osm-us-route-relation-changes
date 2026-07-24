@@ -11195,7 +11195,7 @@
 20234527	lcn			158th Street	bicycle
 20234528	lcn			Park Avenue	bicycle
 20234529	lcn			Morris Avenue	bicycle
-20235671				Iron Mountain Road	horse
+20235671				Iron Mountain Trail	hiking;horse;bicycle
 20236477	NYC Subway	F		"NYCS - F Train (late nights, weekends): Jamaica–179th Street → Coney Island–Stillwell Avenue"	subway
 20236478	NYC Subway	F		"NYCS - F Train (late nights, weekends): Coney Island–Stillwell Avenue → Jamaica–179th Street"	subway
 20246170	lcn			Madison Square	bicycle
@@ -11660,3 +11660,5 @@
 21122316	lwn			Blue Trail	foot
 21122317	lwn			Yellow Trail	foot
 21122318	lwn			Orange Trail	foot
+21133858	NJ Transit	167		NJTB - 167 - New Milford to New York	bus
+21133859	NJ Transit	167		NJTB - 167Q - New York to New Milford via Queen Anne Road	bus
