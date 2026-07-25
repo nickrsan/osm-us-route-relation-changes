@@ -4939,7 +4939,7 @@
 7111523	US:NY:Saratoga	77		Saratoga County Route 77	road
 7111524	US:NY:Saratoga	78		Saratoga County Route 78	road
 7112168	lwn			McKeags Meadow Connector	hiking
-7112178	lwn			Sterling Lake Loop	hiking;mtb;ski
+7112178				Sterling Lake Loop	hiking;mtb;ski
 7114073	lcn	Westchester		Westchester Avenue	bicycle
 7114791	lcn			Vandalia Avenue	bicycle
 7115787	lcn			2nd Street	bicycle
@@ -5092,13 +5092,13 @@
 7297528	lcn			West Houston Street	bicycle
 7301312	lwn			Bare Rock Vista Trail	hiking
 7301313	lwn			West Valley Trail	hiking
-7301314	lwn			Bare Rock Trail	hiking
+7301314				Bare Rock Trail	hiking
 7301459	lcn			Mill/Garnet	bicycle
 7301460	lcn			Court Street	bicycle
 7301461	lcn			Creamer Street	bicycle
 7301462	lcn			Lorraine Street	bicycle
 7303935	lwn			Sterling Ridge Trail	hiking
-7303998	lwn	FTC		Fire Tower Connector Trail	hiking
+7303998				Fire Tower Connector Trail	hiking
 7303999	lwn			Fire Tower Trail	hiking
 7304192	lwn			Lakeville Ironworks Trail	hiking
 7312777	lwn			Hopkins Direct Trail	hiking
@@ -11195,7 +11195,6 @@
 20234527	lcn			158th Street	bicycle
 20234528	lcn			Park Avenue	bicycle
 20234529	lcn			Morris Avenue	bicycle
-20235671				Iron Mountain Trail	hiking;horse;bicycle
 20236477	NYC Subway	F		"NYCS - F Train (late nights, weekends): Jamaica–179th Street → Coney Island–Stillwell Avenue"	subway
 20236478	NYC Subway	F		"NYCS - F Train (late nights, weekends): Coney Island–Stillwell Avenue → Jamaica–179th Street"	subway
 20246170	lcn			Madison Square	bicycle
@@ -11662,3 +11661,12 @@
 21122318	lwn			Orange Trail	foot
 21133858	NJ Transit	167		NJTB - 167 - New Milford to New York	bus
 21133859	NJ Transit	167		NJTB - 167Q - New York to New Milford via Queen Anne Road	bus
+21139351				Orange Trail	hiking
+21139451				Brown Trail	hiking
+21139452				Red Trail	hiking
+21141087				Purple Trail	hiking
+21141093				Green Trail	hiking
+21141232				Yellow Trail	hiking
+21141233				Bird Trail	hiking
+21141238				Blue Trail	hiking
+21141302				Dragonfly Trail	hiking
