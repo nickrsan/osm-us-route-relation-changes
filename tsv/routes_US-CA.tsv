@@ -2822,7 +2822,7 @@
 8474620	RTA	18		RTA 18	bus
 8474621	RTA	16		RTA 16	bus
 8474622	RTA	14		RTA 14	bus
-8474985	RTA	61		RTA 61	bus
+8474985	RTA	61		61 - Perris Station transit Center - Menifee - Temecula	bus
 8474986	RTA	55		RTA 55 Temecula Trolley	bus
 8474987	RTA	54		RTA 54	bus
 8474988	RTA	52		RTA 52	bus
@@ -7692,3 +7692,9 @@
 21135944	Sonoma County Transit	62		Sonoma County Transit 62: Downtown Santa Rosa => Windsor Depot via Sonoma County Airport	bus
 21136287	Eastern Sierra Transit		south	Teal Line	bus
 21136288	Eastern Sierra Transit		north	Teal Line	bus
+21143788	Sonoma County Transit	66		Sonoma County Transit 66: Shiloh Center/Wal-Mart => Windsor Depot	bus
+21143789	Sonoma County Transit	66		Sonoma County Transit 66: Windsor Depot => Windsor Depot	bus
+21143790	Sonoma County Transit	66		Sonoma County Transit 66: Windsor Depot => Windsor Depot via Windsor Veterans Village	bus
+21145698	Sonoma County Transit	67		Sonoma County Transit 67: North Loop => North Loop	bus
+21145699	Sonoma County Transit	67		Sonoma County Transit 67: South Loop => South Loop via Senior Center	bus
+21145700	Sonoma County Transit	67		Sonoma County Transit 67: South Loop => South Loop	bus
