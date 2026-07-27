@@ -5097,10 +5097,10 @@
 7301460	lcn			Court Street	bicycle
 7301461	lcn			Creamer Street	bicycle
 7301462	lcn			Lorraine Street	bicycle
-7303935	lwn			Sterling Ridge Trail	hiking
+7303935				Sterling Ridge Trail	hiking
 7303998				Fire Tower Connector Trail	hiking
-7303999	lwn			Fire Tower Trail	hiking
-7304192	lwn			Lakeville Ironworks Trail	hiking
+7303999				Fire Tower Trail	hiking
+7304192				Lakeville Ironworks Trail	hiking
 7312777	lwn			Hopkins Direct Trail	hiking
 7312778	lwn			Hopkins via Spread Eagle Trail	hiking
 7312779	lwn			Mossy Cascade Trail	hiking
@@ -7011,9 +7011,9 @@
 11961676	Amtrak	Acela		Amtrak Acela: Boston => New York	train
 11963158	lcn;lwn			Graham Hills Park Trails	mtb;hiking
 11970370	lwn			Tarrytown Lakes Trail System	hiking
-11970428	lwn			Green Trail	hiking
-11970429	lwn			Blue Trail	hiking
-11970430	lwn			Yellow Trail	hiking
+11970428				Green Trail	hiking
+11970429				Blue Trail	hiking
+11970430				Yellow Trail	hiking
 11970431	lwn			Old Sib Preserve Loop	hiking
 11970432	lwn			Old Sib Trail	hiking
 11972904				Mohawk Ski Trail	piste
@@ -7073,10 +7073,10 @@
 11981357	lwn			Connector Trail	foot
 11981358	lwn			Blue Connector	hiking
 11981359				North Salem Trail	hiking
-11981360	lwn			White Trail	hiking
-11981361	lwn			Spruce Lake Trail	hiking
-11981362	lwn			Hemlock Lake Trail	hiking
-11981363	lwn			Red Trail	hiking
+11981360				White Trail	hiking
+11981361				Spruce Lake Trail	hiking
+11981362				Hemlock Lake Trail	hiking
+11981363				Red Trail	hiking
 11981364	lwn			Orange Trail	hiking
 11990846	lcn			ALCO Heritage Trail	bicycle
 11996020	Amtrak	Carolinian		Amtrak Carolinian: Charlotte => New York	train
@@ -11053,7 +11053,7 @@
 19787184	lwn			Corner Trail	hiking
 19787193	lwn			White Trail	hiking
 19787198	lwn			Yellow Trail	hiking
-19794446	lwn			White Trail	hiking
+19794446				White Trail	hiking
 19797767	lcn			Albany Avenue	bicycle
 19801158	US:NHT			Washington–Rochambeau Revolutionary Route National Historic Trail Auto Tour Route	road
 19807577	Seastreak				ferry
@@ -11669,5 +11669,5 @@
 21141232				Yellow Trail	hiking
 21141233				Bird Trail	hiking
 21141238				Blue Trail	hiking
-21141302				Dragonfly Trail	hiking
+21141302				Dragon Fly Trail	hiking
 21143150				Turtle Trail	hiking
