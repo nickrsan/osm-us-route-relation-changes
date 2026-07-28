@@ -1647,7 +1647,7 @@
 3718946	lcn	28			bicycle
 3719946	MST	94		94 Sand City	bus
 3759510				Norco Horse Trail	horse
-3768787	RTA	24		RTA 24	bus
+3768787	RTA	24		24 -  Promenade Mall - Pechanga - Temecula Valley Hospital	bus
 3773934				Crafton Hill Trails	hiking
 3784752					mtb
 3784753					mtb
@@ -4609,7 +4609,6 @@
 12409759	lhn	WBT		West Brook Trail	horse
 12409760	lhn	WCT		Waterwheel Creek Trail	horse
 12409761	lhn	UWC		Upper Wildcat Canyon Trail	horse
-12409762	rhn	WR		Ward Road	horse
 12409763	lhn	UWO		Upper White Oak Trail	horse
 12409764	lhn	URV		Upper Rogue Valley Trail	horse
 12409765	lhn	UHM		Upper High Meadow Trail	horse
@@ -7697,3 +7696,4 @@
 21145700	Sonoma County Transit	67		Sonoma County Transit 67: South Loop => South Loop	bus
 21150729	Sonoma County Transit	68		Sonoma County Transit 68: Furber Ranch Plaza => Furber Ranch Plaza via Senior Center	bus
 21150730	Sonoma County Transit	68		Sonoma County Transit 68: Furber Ranch Plaza => Furber Ranch Plaza	bus
+21154409				Buena Vista Avenue	road
