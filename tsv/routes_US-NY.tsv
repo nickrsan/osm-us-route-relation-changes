@@ -5466,7 +5466,7 @@
 8314690	LIRR	Ronkonkoma		LIRR Ronkonkoma Branch: Ronkonkoma <=> Greenport	train
 8317162	NY Waterway			Newburgh-Beacon Ferry	ferry
 8318507	lcn			Lewis Street	bicycle
-8325874	LIRR	Ronkonkoma		LIRR Ronkonkoma Branch: New York Penn <=> Jamaica <=> Ronkonkoma	train
+8325874	LIRR	Ronkonkoma		LIRR Ronkonkoma Branch: Ronkonkoma <=> Jamaica <=> New York Penn	train
 8338565				Reeves Brook Trail	hiking
 8340625				Raccoon Brook Hills Trail	hiking
 8340626				Poached Egg Trail	hiking
@@ -11195,7 +11195,6 @@
 20234527	lcn			158th Street	bicycle
 20234528	lcn			Park Avenue	bicycle
 20234529	lcn			Morris Avenue	bicycle
-20235671				Iron Mountain Trail	hiking;horse;bicycle
 20236477	NYC Subway	F		"NYCS - F Train (late nights, weekends): Jamaica–179th Street → Coney Island–Stillwell Avenue"	subway
 20236478	NYC Subway	F		"NYCS - F Train (late nights, weekends): Coney Island–Stillwell Avenue → Jamaica–179th Street"	subway
 20246170	lcn			Madison Square	bicycle
@@ -11678,3 +11677,19 @@
 21154276	NYC Transit	QM15		NYCB - QM15	bus
 21154278	NYC Transit	QM15		NYCB - QM15	bus
 21154928				Ridgetop Trail	hiking
+21156455	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Far Rockaway => Jamaica => Atlantic Terminal	train
+21156456	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Far Rockaway => Jamaica => Atlantic Terminal	train
+21156457	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Far Rockaway => Jamaica => Atlantic Terminal	train
+21156458	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Far Rockaway => Jamaica => Atlantic Terminal	train
+21156459	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Far Rockaway => Jamaica => Atlantic Terminal	train
+21156460	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Atlantic Terminal => Jamaica => Far Rockaway	train
+21156461	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Atlantic Terminal => Jamaica => Far Rockaway	train
+21156462	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Atlantic Terminal => Jamaica => Far Rockaway	train
+21156463	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Atlantic Terminal => Jamaica => Far Rockaway	train
+21156464	LIRR	Far Rockaway		LIRR Far Rockaway Branch: Atlantic Terminal => Jamaica => Far Rockaway	train
+21156674	Nassau Inter-County Express	n15		NICE n15	bus
+21156675	Nassau Inter-County Express	n15		NICE n15	bus
+21156676	Nassau Inter-County Express	n15		NICE n15	bus
+21158270	LIRR	Ronkonkoma		LIRR Ronkonkoma Branch: New York Penn <=> Jamaica <=> Ronkonkoma	train
+21159302	Nassau Inter-County Express	n16		NICE n16 Nassau Community College --> Rockville Centre LIRR	bus
+21159303	Nassau Inter-County Express	n16		NICE n16 Rockville Centre --> Nassau Community College	bus

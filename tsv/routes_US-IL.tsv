@@ -1482,7 +1482,7 @@
 11637382	lcn	72nd		72nd Street	bicycle
 11637383	lcn	67th		67th Street	bicycle
 11637384	lcn	Dunham		Dunham Road	bicycle
-11637482	Pace	361	west	Bus 361: Pace Harvey Transportation Center => Amazon MDW2	bus
+11637482	Pace	361	west	Bus 361: Pace Harvey Transportation Center => Amazon MDW4	bus
 11639009	lcn	Saratoga		Saratoga Avenue	bicycle
 11639011	lcn	Grant		Grant Street	bicycle
 11639015	lcn	Bolson		Bolson Drive	bicycle
@@ -3309,3 +3309,4 @@
 21100941	Pace	319	east	Bus 319: North/Wolf => Grand/Nordica	bus
 21132138	Pace	554	east	Bus 554: Pace Elgin Transportation Center → Meacham Road → Pace Northwest Transportation Center	bus
 21132139	Pace	554	east	Bus 554: Pace Elgin Transportation Center → Pace Northwest Transportation Center	bus
+21159547	US:IL:Woodford	13			road
