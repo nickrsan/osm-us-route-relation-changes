@@ -71,7 +71,7 @@
 1502475	US:AZ	373			road
 1502476	US:AZ	389		State Route 389	road
 1502477	US:AZ	180A		AZ 180A	road
-1502478	US:AZ	MT-104		AZ 288	road
+1502478	US:AZ	288		AZ 288	road
 1502479	US:AZ	264		AZ 264	road
 1502480	US:AZ	564		AZ 564	road
 1502481	US:AZ	266		AZ 266	road
@@ -228,15 +228,15 @@
 4020970	rcn	SCT		Sun Circle Trail	bicycle
 4188405	rwn	31		Highline Trail #31	hiking
 4191942	rwn	PCT 26		Pine Canyon Trail #26	hiking
-4195832	lwn	MT-104		Derrick Trail #33	hiking
-4195833	lwn	MT-104		Horton Creek Trail #285	hiking
-4195884	lwn	MT-104		Babe Haught Trail #143	hiking
-4195885	lwn	MT-104		Horton Springs Trail #292	hiking
-4195890	lwn	MT-104		Drew Trail #291	hiking
-4195891	lwn	MT-104		Meadow Trail 505	hiking
-4195935	lwn	MT-104		Rim Lakes Vista Trail #622	hiking
-4195936	lwn	MT-104		See Canyon Trail #184	hiking
-4195937	lwn	MT-104		See Spring Trail #185	hiking
+4195832	lwn	33		Derrick Trail #33	hiking
+4195833	lwn	HCT 285		Horton Creek Trail #285	hiking
+4195884	lwn	BHT 143		Babe Haught Trail #143	hiking
+4195885	lwn	292		Horton Springs Trail #292	hiking
+4195890	lwn	291		Drew Trail #291	hiking
+4195891	lwn	505		Meadow Trail 505	hiking
+4195935	lwn	622		Rim Lakes Vista Trail #622	hiking
+4195936	lwn	184		See Canyon Trail #184	hiking
+4195937	lwn	SST 185		See Spring Trail #185	hiking
 4199035	lwn	HST151		Humphreys Summit Trail #151	hiking
 4199036	lwn	KT 150		Kachina Trail #150	hiking
 4199037	lwn	WT 102		Weatherford Trail #102	hiking
@@ -1276,9 +1276,9 @@
 13599456	Kingman Area Regional Transit	Yellow		Yellow Route	bus
 13599684	Hualapai Transit	Seligman Tripper		Seligman Tripper Route	bus
 13599960	Hualapai Transit	Grand Canyon West Commuter		Grand Canyon West Commuter Route	bus
-13613320	rwn	MT-104		Aspen Trail 411	hiking
+13613320	rwn	411		Aspen Trail 411	hiking
 13616675	rwn			General Crook 140	hiking
-13616676	rwn	MT-104		Carr Lake Trail 412	hiking
+13616676	rwn	412		Carr Lake Trail 412	hiking
 13628522	Bullhead Area Transit System	Blue		Blue Line	bus
 13632207	Kingman Area Regional Transit	Red		Red Route	bus
 13632263	Kingman Area Regional Transit	Green		Green Route	bus
@@ -1383,7 +1383,7 @@
 14395609	US:US	60	west		road
 14415007	lcn	GC		Grand Canalscape	bicycle
 14428669		FR 300		Rim Road	road
-14438515	rwn	MT-104		Military Sinkhole Trail #179	hiking
+14438515	rwn	179		Military Sinkhole Trail #179	hiking
 14467986				The Turqoise Trail	foot
 14511116	US:US	64			road
 14700309					power
@@ -1437,7 +1437,7 @@
 16246444	lwn	615		Overland Trail #615	hiking
 16247503	US:AZ:Scenic			Joshua Forest Scenic Byway	road
 16247519	US:AZ:Scenic	Apache Trail Historic Road		Apache Trail Historic Road	road
-16247554	US:AZ:Scenic	MT-104		Desert to Tall Pines Scenic Road	road
+16247554	US:AZ:Scenic	288		Desert to Tall Pines Scenic Road	road
 16249074	US:AZ:Scenic	Gila Pinal Scenic Road		Gila Pinal Scenic Road	road
 16249261	US:AZ:Scenic	Copper Corridor Scenic Road		Copper Corridor Scenic Road (SR 177)	road
 16249308	US:AZ:Scenic	Copper Corridor Scenic Road		Copper Corridor Scenic Road (SR 77)	road
@@ -1612,7 +1612,7 @@
 19639190				Sky Harbor Boulevard	road
 19699374	Needles Area Transit	Bullhead		Fort Mohave/Bullhead Shuttle	bus
 19787432		893		The Buttes FR 893	road
-19787433		MT-104		Hellsgate Trail #37	hiking
+19787433		37		Hellsgate Trail #37	hiking
 19857000		PC		Pipeline Canyon Trail	hiking
 19857197		YV		Yavapai Point Trail	hiking
 19857198		CD		Cottonwood	hiking

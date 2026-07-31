@@ -9082,7 +9082,7 @@
 17759778	Regional Transit Service	6	north	"RTS 6 North Goodman (seasonal, N1)"	bus
 17759779	Regional Transit Service	5	south	"RTS 5 Portland (seasonal, S1)"	bus
 17761445	Regional Transit Service	8	west	RTS 8 East Main (W)	bus
-17761446	Regional Transit Service	8	east	RTS 8 East Main (E)	bus
+17761446	Regional Transit Service	8	east	East Main	bus
 17766623	lcn			Greenwich Avenue	bicycle
 17774183	lcn			Seaview Avenue	bicycle
 17778042	lcn			Flatbush Greenway Connection	bicycle
@@ -11195,6 +11195,7 @@
 20234527	lcn			158th Street	bicycle
 20234528	lcn			Park Avenue	bicycle
 20234529	lcn			Morris Avenue	bicycle
+20235671				Iron Mountain Trail	hiking;horse;bicycle
 20236477	NYC Subway	F		"NYCS - F Train (late nights, weekends): Jamaica–179th Street → Coney Island–Stillwell Avenue"	subway
 20236478	NYC Subway	F		"NYCS - F Train (late nights, weekends): Coney Island–Stillwell Avenue → Jamaica–179th Street"	subway
 20246170	lcn			Madison Square	bicycle
@@ -11694,3 +11695,4 @@
 21159302	Nassau Inter-County Express	n16		NICE n16 Nassau Community College --> Rockville Centre LIRR	bus
 21159303	Nassau Inter-County Express	n16		NICE n16 Rockville Centre --> Nassau Community College	bus
 21163456				Jack Harrington Greenway	hiking
+21167346	lwn			Highland Crossing Trail	foot
