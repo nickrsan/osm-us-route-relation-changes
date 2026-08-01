@@ -736,7 +736,7 @@
 919272	lcn	Tour de Syracuse Road Race		Tour de Syracuse Road Race	bicycle
 919343	lcn	Tour de Syracuse Time Trial Course		Tour de Syracuse Time Trial Course	bicycle
 919588	US:NY:Columbia	7A		Columbia County Route 7A	road
-919642	rwn			Long Path	hiking
+919642				Long Path	hiking
 934120				Ballston Terminal Railroad	railway
 938124	US:NY:Schenectady	25		Schenectady County Route 25	road
 946435	US:US	1			road
@@ -6252,7 +6252,6 @@
 9352357	Regional Transit Service	15	south	RTS 15 Plymouth (S)	bus
 9352482	Regional Transit Service	14	south	RTS 14 Marketplace (S)	bus
 9367418	Regional Transit Service	5	north	RTS 5 Portland (N)	bus
-9367421	Regional Transit Service	8	east	"RTS 8 East Main (seasonal, E)"	bus
 9367423	Regional Transit Service	2	north	RTS 2 North Clinton (N)	bus
 9367424	Regional Transit Service	7	east	RTS 7 Clifford/Empire (E)	bus
 9367425	Regional Transit Service	1	north	RTS 1 St. Paul (N)	bus
@@ -8925,11 +8924,9 @@
 17612970	Regional Transit Service	5	south	"RTS 5 Portland (seasonal, S2)"	bus
 17612971	Regional Transit Service	6	south	RTS 6 North Goodman (S)	bus
 17612972	Regional Transit Service	6	north	"RTS 6 North Goodman (seasonal, N2)"	bus
-17612973	Regional Transit Service	8	west	"RTS 8 East Main (seasonal, W1)"	bus
 17612974	Regional Transit Service	9	west	RTS 9 University (W)	bus
 17612975	Regional Transit Service	9	east	"RTS 9 University (seasonal, W1)"	bus
 17612976	Regional Transit Service	9	west	"RTS 9 University (seasonal, E2)"	bus
-17612977	Regional Transit Service	8	west	"RTS 8 East Main (seasonal, W2)"	bus
 17612978	Regional Transit Service	7	west	RTS 7 Clifford/Empire (W)	bus
 17612979	Regional Transit Service	6	south	"RTS 6 North Goodman (seasonal, S1)"	bus
 17612981	Regional Transit Service	4	south	RTS 4 Hudson (S)	bus
@@ -9081,8 +9078,8 @@
 17759777	Regional Transit Service	6	south	"RTS 6 North Goodman (seasonal, S2)"	bus
 17759778	Regional Transit Service	6	north	"RTS 6 North Goodman (seasonal, N1)"	bus
 17759779	Regional Transit Service	5	south	"RTS 5 Portland (seasonal, S1)"	bus
-17761445	Regional Transit Service	8	west	RTS 8 East Main (W)	bus
-17761446	Regional Transit Service	8	east	East Main	bus
+17761445	Regional Transit Service	8	west	Bus 8: Landing Heights => Transit Center	bus
+17761446	Regional Transit Service	8	east	Bus 8: Transit Center => Landing Heights	bus
 17766623	lcn			Greenwich Avenue	bicycle
 17774183	lcn			Seaview Avenue	bicycle
 17778042	lcn			Flatbush Greenway Connection	bicycle
@@ -11696,3 +11693,4 @@
 21159303	Nassau Inter-County Express	n16		NICE n16 Rockville Centre --> Nassau Community College	bus
 21163456				Jack Harrington Greenway	hiking
 21167346	lwn			Highland Crossing Trail	foot
+21172472				Long Path - Section 1	hiking
