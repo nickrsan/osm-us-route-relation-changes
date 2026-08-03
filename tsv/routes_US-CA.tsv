@@ -2195,7 +2195,6 @@
 7047217				28. Indian Rock	piste
 7047218				14. Sledding Trail	piste
 7063452	lcn	PCB		Pacific Coast Bike Route (North)	bicycle
-7076265				Hot Springs Trail	hiking
 7085211	Marguerite	Y		Marguerite Y: Clockwise	bus
 7085212	Marguerite	X		Marguerite X: Counter-Clockwise	bus
 7129386	BREEZE	444		NCTD 444 (southbound)	bus
@@ -7702,3 +7701,5 @@
 21173069	lcn			Town Loop	bicycle
 21176446	Petaluma Transit	2		Petaluma Transit 2: Old Redwood Hwy & McDowell Blvd => Eastside Transit Center	bus
 21176447	Petaluma Transit	2		Petaluma Transit 2: Eastside Transit Center => Old Redwood Hwy & McDowell Blvd	bus
+21180147	Petaluma Transit	3		Petaluma Transit 3: Eastside Transit Center => Eastside Transit Center clockwise	bus
+21180149	Petaluma Transit	33		Petaluma Transit 33: Eastside Transit Center => Eastside Transit Center counterclockwise	bus
