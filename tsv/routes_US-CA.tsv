@@ -3807,8 +3807,6 @@
 9710865	lcn			Sacramento Northern Bike Trail	bicycle
 9712072	Bear Transit	S		Bear Transit S: Hearst Mining Circle => Downtown Berkeley => Hearst Mining Circle	bus
 9712120	Bear Transit	N		Bear Transit N: Downtown Berkeley BART => Hearst Mining Circle => Downtown Berkeley BART	bus
-9712288	Bear Transit	RFS		Bear Transit RFS: El Cerrito => Regatta Facility => Hearst Mining Circle => Regatta Facility	
-9712292	Bear Transit	RFS		Bear Transit RFS: Regatta Facility => Hearst Mining Circle => Regatta Facility	
 9712655	US:US:Historic	80			road
 9716110	lcn			Miner's Ravine Trail	bicycle
 9718177	CSUEB	CV		CSU East Bay Castro Valley Shuttle: Castro Valley BART => CSU East Bay (Fridays)	bus
@@ -7377,7 +7375,6 @@
 20173339					bicycle
 20173544				Red Route	bus
 20173680			east	Willow Creek Route	bus
-20178474					bus
 20195345	US:CA:Old	111			road
 20229409	lcn	ALB		Albertson Parkway	bicycle
 20229410	lcn	237		Highway 237 Bikeway	bicycle
@@ -7703,3 +7700,8 @@
 21176447	Petaluma Transit	2		Petaluma Transit 2: Eastside Transit Center => Old Redwood Hwy & McDowell Blvd	bus
 21180147	Petaluma Transit	3		Petaluma Transit 3: Eastside Transit Center => Eastside Transit Center clockwise	bus
 21180149	Petaluma Transit	33		Petaluma Transit 33: Eastside Transit Center => Eastside Transit Center counterclockwise	bus
+21183347	Petaluma Transit	10		Petaluma Transit 10: Petaluma Transit Mall => Park & Ride	bus
+21183348	Petaluma Transit	10		Petaluma Transit 10: Park & Ride => Petaluma Transit Mall	bus
+21183349	Petaluma Transit	10		Petaluma Transit 10: Park & Ride => Petaluma Transit Mall via Magnolia St	bus
+21184038	Petaluma Transit	11		Petaluma Transit 11: Eastside Transit Center => Petaluma Transit Mall	bus
+21184039	Petaluma Transit	11		Petaluma Transit 11: Petaluma Transit Mall => Eastside Transit Center	bus

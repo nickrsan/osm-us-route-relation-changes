@@ -8503,13 +8503,13 @@
 16016703	lwn			Perkins Access Trail (Red)	hiking
 16016704	lwn			Oscawana Ridge Trail	hiking
 16016705	lwn			Old Mine Railroad Trail	hiking
-16016706	lwn			Moneyhole Mountain Trail	hiking
+16016706				Moneyhole Mountain Trail	hiking
 16016707				Hubbard Loop	hiking
 16016708				Fahnestock Trail	hiking
 16016709	lwn			Clove Creek Trail	hiking
 16016710	lwn			Chimney Top Trail	hiking
 16016711	lwn			Charcoal Burners Trail	hiking
-16016712	lwn			Catfish Loop	hiking
+16016712				Catfish Loop	hiking
 16016713	lwn			Candlewood Hill Trail	hiking
 16062570				Middle Neck Road	road
 16062582	US:NY:Nassau	CR E64		Nassau County Route E64	road
@@ -11033,23 +11033,23 @@
 19778106					road
 19778895	lwn			Nature Trail	hiking
 19779723	lhn			Hutchinson River Pathway	horse;foot
-19779795	lwn			White Trail	hiking
+19779795				White Trail	hiking
 19779808	lwn			Blue Trail	hiking
 19779809	lwn			White Trail	hiking
-19779810	lwn			Blue Trail	hiking
+19779810				Blue Trail	hiking
 19779811	lwn			White Trail	hiking
-19779812	lwn			Yellow Trail	hiking
-19779819	lwn			Green Trail	hiking
+19779812				Yellow Trail	hiking
+19779819				Green Trail	hiking
 19779834	lwn			Red Trail	
 19781522	Seastreak				ferry
 19786777	lwn			Yellow Trail	hiking
 19787164	lwn			Orange Trail	hiking
 19787171	lwn			White Trail	hiking
-19787172	lwn			Green Trail	hiking
+19787172				Green Trail	hiking
 19787183	lwn			Corner Trail	hiking
 19787184	lwn			Corner Trail	hiking
 19787193	lwn			White Trail	hiking
-19787198	lwn			Yellow Trail	hiking
+19787198				Yellow Trail	hiking
 19794446				White Trail	hiking
 19797767	lcn			Albany Avenue	bicycle
 19801158	US:NHT			Washington–Rochambeau Revolutionary Route National Historic Trail Auto Tour Route	road
@@ -11693,3 +11693,5 @@
 21163456				Jack Harrington Greenway	hiking
 21167346	lwn			Highland Crossing Trail	foot
 21172472				Long Path - Section 1	hiking
+21185431				Kate Kennard Trail	hiking;bicycle
+21185617				Cabot Trail	hiking
