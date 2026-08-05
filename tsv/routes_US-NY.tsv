@@ -3966,7 +3966,7 @@
 3959782	US:NY:Wayne	134		Wayne County Route 134	road
 3971051		BMT 10		BMT 10	railway
 3971059				BMT Myrtle Avenue Line	railway
-3971080	lwn			Escarpment Trail	hiking
+3971080				Escarpment Trail	hiking
 3974030				Batavia Kill Trail	hiking
 3974031				Blackhead Trail	hiking
 3974032	lwn			Black Dome Range Trail	hiking
@@ -8499,8 +8499,7 @@
 16016699	lwn			Trout Brook Trail	hiking
 16016700				Round Hill Bypass Trail	hiking
 16016701				Roaring Brook Trail	hiking
-16016702	lwn			Perkins Trail	hiking
-16016703	lwn			Perkins Access Trail (Red)	hiking
+16016702				Perkins Trail	hiking
 16016704	lwn			Oscawana Ridge Trail	hiking
 16016705	lwn			Old Mine Railroad Trail	hiking
 16016706				Moneyhole Mountain Trail	hiking
@@ -11695,3 +11694,4 @@
 21172472				Long Path - Section 1	hiking
 21185431				Kate Kennard Trail	hiking;bicycle
 21185617				Cabot Trail	hiking
+21188552				Long Path - Section 25	hiking

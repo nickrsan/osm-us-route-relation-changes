@@ -32,7 +32,6 @@
 1379674	US:I		east	I 444 (eastbound)	road
 1379699	US:I	244	west	"Martin Luther King, Junior Memorial Expressway"	road
 1379700	US:I	244	east	"Martin Luther King, Junior Memorial Expressway"	road
-1391290	US:TX	91			road
 1394448	US:AR	43			road
 1414913	US:TX	79			road
 1414956	lcn			Main Street Linkage	bicycle
@@ -368,8 +367,8 @@
 3546873	US:OK	64D			road
 3548660	US:OK	63A			road
 3552640	lcn	Kameoka		Kameoka Trail	bicycle
-3552641		Red Trail		Lake McMurtry Red Trail	mtb
-3552643		Yellow		Lake McMurtry Yellow Trail	mtb
+3552641		Red Trail		Lake McMurtry Red Trail	hiking;mtb
+3552643		Yellow Trail		Lake McMurtry Yellow Trail	hiking;mtb
 3552648				Lake McMurtry Blue Route	mtb
 3552657	lwn				hiking
 3561445	US:OK	59			road
@@ -4239,3 +4238,4 @@
 21011157	lcn	9		Channel Fairway Trail	bicycle
 21067365	US:OK:Mayes	N445			road
 21105169	US:OK:LeFlore	E1715			road
+21189100		Purple		Lake McMurtry Purple Trail	hiking;mtb
