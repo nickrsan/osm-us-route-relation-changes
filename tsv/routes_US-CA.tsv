@@ -7190,7 +7190,6 @@
 19930073	lcn			Pershing Drive	bicycle
 19932226	US:I:Alternate	405	north		road
 19932227	US:I:Alternate	405	south		road
-19932229		405	south	I-405 HOV South	road
 19932583	US:I:Express	10	east	I-10 Metro ExpressLanes	road
 19932584	US:I:Express	10	west	I-10 Metro ExpressLanes	road
 19932586	US:CA		west	San Bernardino Freeway	road
@@ -7306,7 +7305,6 @@
 20018818	US:I:Express	605	south		road
 20019045	US:CA:Express	134			road
 20019046	US:I:Express	210	east		road
-20019047	US:I:Express	210	west		road
 20019836	County Connection	97X			bus
 20019837	County Connection	96X			bus
 20022543	County Connection	98X			bus
@@ -7711,3 +7709,5 @@
 21184039	Petaluma Transit	11		Petaluma Transit 11: Petaluma Transit Mall => Eastside Transit Center	bus
 21186792	US:CA:Old	74			road
 21186793	US:CA:Old	42			road
+21194591	Petaluma Transit	24		Petaluma Transit 24: Petaluma Transit Mall => Kaiser Hospital	bus
+21194592	Petaluma Transit Mall	24		Petaluma Transit 24: Kaiser Hospital => Petaluma Transit Mall	bus
