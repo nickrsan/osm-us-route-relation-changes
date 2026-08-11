@@ -156,8 +156,8 @@
 157973	US:I	210	east		road
 157985	US:CA	134	west		road
 157986	US:CA	134	east		road
-157987	US:CA	118	W	118 (westbound)	road
-157988	US:CA	118	E	118 (eastbound)	road
+157987	US:CA	118	west		road
+157988	US:CA	118	east		road
 157989	US:CA	14	south		road
 157990	US:CA	14	north		road
 157999	US:CA	23	south		road
@@ -1298,7 +1298,7 @@
 2810819	Metro Rail	D		Metro D Line: Wilshire/La Cienega → Union Station	subway
 2812898	Amtrak	Pacific Surfliner		Amtrak Pacific Surfliner: San Diego => San Luis Obispo	train
 2812899	Metrolink	Orange County		Metrolink Orange County Line: Los Angeles => Oceanside	train
-2812900	Amtrak	Coast Starlight		Amtrak Coast Starlight: Seattle => Los Angeles	train
+2812900	Amtrak	Coast Starlight			train
 2812902	Metrolink	91/Perris Valley		Metrolink 91/Perris Valley Line: Los Angeles => South Perris	train
 2821816				Former TTX CalPro Facility	railway
 2827683	BART	Yellow		BART Yellow Line: Antioch => SFO Airport	subway
@@ -1964,7 +1964,6 @@
 6208109				Hollister Industrial Lead	railway
 6237244	rwn			San Francisco Bay Trail	hiking
 6255381				Batteries to Bluffs Trail	hiking
-6256034				Metro G Line	bus
 6270902				Stockton Terminal & Eastern Railroad	railway
 6271605				Mare Island Railroad	railway
 6274173				Irvine Industrial Park	railway
@@ -2367,7 +2366,7 @@
 8192150	lcn			Santa Clara River Trail	bicycle
 8192151	lcn	CPT		Chuck Pontius Commuter Rail Trail	bicycle
 8210399	Metro Rapid	J		Metro J Line: El Monte → Harbor Gateway	bus
-8210550	Metro Rapid	J		Metro J Line: El Monte → San Pedro	bus
+8210550	Metro Rapid	J	south		bus
 8212915	Marguerite	SLAC		Marguerite SLAC: SLAC => Memorial Auditorium	bus:suspended
 8221943				Pacific Imperial Railroad	railway
 8222054				West Oakland Pacific Railroad	railway
@@ -4516,7 +4515,7 @@
 11982468		Yellow Loop			mtb
 12022765	lcn				bicycle
 12038978	US:CA	78			road
-12074397	Amtrak	Coast Starlight		Amtrak Coast Starlight: Los Angeles => Seattle	train
+12074397	Amtrak	Coast Starlight			train
 12092635	Metrolink	91/Perris Valley		Metrolink 91/Perris Valley Line: South Perris => Los Angeles	train
 12092988	Metrolink	Antelope Valley		Metrolink Antelope Valley Line: Lancaster => Los Angeles	train
 12093019	Metrolink	Inland Empire-Orange County		Metrolink Inland Empire-Orange County Line: Oceanside => San Bernardino	train
@@ -4701,7 +4700,7 @@
 12415669		55		55 - SOUTH SHORE DAILY	bus
 12417806	NCTD	399		SPRINTER: Escondido => Oceanside	light_rail
 12422723	Metro Rapid	J		Metro J Line: Harbor Gateway → El Monte	bus
-12422724	Metro Rapid	J		Metro J Line: San Pedro → El Monte	bus
+12422724	Metro Rapid	J	north		bus
 12471816				Yosemite Valley Railroad	railway
 12484795	US:I:Business:Loop	8			road
 12484901	US:I:Business:Loop	8		"I 8 Business (El Cajon, CA)"	road
@@ -5284,7 +5283,7 @@
 14084425	lcn			Car-Free JFK	bicycle
 14084623	Metro Rapid	720		Metro 720 Eastbound (short turn)	bus
 14084625	Metro Rapid	720		Metro 720 Westbound (short turn)	bus
-14084626	Metro Rapid	720		Metro 720 Eastbound	bus
+14084626	Metro Rapid	720	east		bus
 14084627	Metro Rapid	720		Metro 720 Westbound	bus
 14084628	Metro Local	20		Metro 20 Eastbound (daytime)	bus
 14084629	Metro Local	20		Metro 20 Westbound (daytime)	bus
@@ -7191,7 +7190,6 @@
 19932226	US:I:Alternate	405	north		road
 19932227	US:I:Alternate	405	south		road
 19932583	US:I:Express	10	east	I-10 Metro ExpressLanes	road
-19932584	US:I:Express	10	west	I-10 Metro ExpressLanes	road
 19932586	US:CA		west	San Bernardino Freeway	road
 19932588	US:I		west	Route 10S	road
 19932590	US:CA	10S			road
@@ -7303,7 +7301,6 @@
 20018766	US:CA:Express	91	east		road
 20018817	US:I:Express	605	north		road
 20018818	US:I:Express	605	south		road
-20019045	US:CA:Express	134			road
 20019046	US:I:Express	210	east		road
 20019836	County Connection	97X			bus
 20019837	County Connection	96X			bus
@@ -7713,3 +7710,6 @@
 21194592	Petaluma Transit Mall	24		Petaluma Transit 24: Kaiser Hospital => Petaluma Transit Mall	bus
 21195763				WeatherTech Raceway Laguna Seca	road
 21197593	lwn			Grouse Lake Trail	hiking
+21210145	US:CA:Express	118	west		road
+21210146	US:CA:Express	118	east		road
+21213566	rcn			The Great Redwood Trail	bicycle
