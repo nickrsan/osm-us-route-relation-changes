@@ -2723,7 +2723,7 @@
 18071233				Kenwood Branch	historic
 18071636				Chicago Junction Railway	historic
 18117018	lcn				bicycle
-18129481	lcn	Logan		Logan Boulavard	bicycle
+18129481	lcn	Logan		Logan Boulevard	bicycle
 18129482	lcn			Rockwell Street	bicycle
 18137078	lcn			The Garden Dirt Jumps	mtb
 18139768	lcn			Roscoe	bicycle
@@ -3314,3 +3314,5 @@
 21209571				550E	road
 21210162	US:IL:Lawrence County			County Road 8	road
 21213995				1100N	road
+21217992	MTD	17E		17 Cherry East: Weekday - Day	bus
+21217993	MTD	17W		17 Cherry West: Weekday - Day	bus

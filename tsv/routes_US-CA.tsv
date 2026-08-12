@@ -1761,7 +1761,7 @@
 4547213				Shortway Subdivision	railway
 4553158				Riverside Industrial Lead	railway
 4562006				UP San Pedro Subdivision	railway
-4564360				Harbor Subdivision	railway
+4564360				old Harbor Subdivision	railway
 4565054				Santa Ana Industrial Lead	railway
 4565055				Stanton Industrial Lead	railway
 4565126				Alameda Corridor Subdivision	railway
@@ -5188,7 +5188,7 @@
 14039506	lwn				hiking
 14039507	lwn			Redwood Grove Loop Trail	hiking
 14039508	lwn				hiking
-14039872	BLFX			Brightline West	train
+14039872	BLFX			Brightline West	railway
 14040474	lwn			Pipeline Road	hiking
 14040997	Amtrak Thruway	39		39 - Fullerton - Palm Springs - Coachella Valley	bus
 14049553				Palm Canyon Epic	bicycle
@@ -7189,7 +7189,6 @@
 19930073	lcn			Pershing Drive	bicycle
 19932226	US:I:Alternate	405	north		road
 19932227	US:I:Alternate	405	south		road
-19932583	US:I:Express	10	east	I-10 Metro ExpressLanes	road
 19932586	US:CA		west	San Bernardino Freeway	road
 19932588	US:I		west	Route 10S	road
 19932590	US:CA	10S			road
@@ -7300,7 +7299,6 @@
 20018765	US:CA:Express	91	west		road
 20018766	US:CA:Express	91	east		road
 20018817	US:I:Express	605	north		road
-20018818	US:I:Express	605	south		road
 20019046	US:I:Express	210	east		road
 20019836	County Connection	97X			bus
 20019837	County Connection	96X			bus
@@ -7711,5 +7709,5 @@
 21195763				WeatherTech Raceway Laguna Seca	road
 21197593	lwn			Grouse Lake Trail	hiking
 21210145	US:CA:Express	118	west		road
-21210146	US:CA:Express	118	east		road
 21213566	rcn			The Great Redwood Trail	bicycle
+21216992				Victoria Avenue	road
