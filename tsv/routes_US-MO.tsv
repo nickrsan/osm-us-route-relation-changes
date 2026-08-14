@@ -408,8 +408,8 @@
 1715277	US:AR	151			road
 1715280	US:AR	181			road
 1723650				Hamburg Trail	hiking
-1737996	MetroLink	B	east	MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
-1737997	MetroLink	Red		MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
+1737996	MetroLink	Blue	east	MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
+1737997	MetroLink	Red	east	MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
 1782082	ncn	MRT		Mississippi River Trail (Missouri)	bicycle
 1783090	US:GRR			Great River Road (Illinois - National Route)	road
 1783091	US:GRR			Great River Road (Iowa - all routes)	road
@@ -947,7 +947,6 @@
 8665141	MetroBus	11	east	11 Chippewa: Shrewsbury-Lansdowne I-44 Transit Center → Civic Center Transit Center	bus
 8665142	MetroBus	8	north	8 Shaw-Cherokee: Catalan Loop Transit Center → Central West End Transit Center	bus
 8665143	MetroBus	4	east	4 Natural Bridge: North Hanley Transit Center → Civic Center Transit Center	bus
-8665144	MetroBus	5	clockwise	5 Green: Mallinckrodt Center → Mallinckrodt Center	bus
 8669551	MetroBus	21	east	21 Watson Road: SSM Health St. Clare Hospital → Shrewsbury-Lansdowne I-44 Transit Center	bus
 8669553	MetroBus	19	east	19 St. Louis Ave: Rock Road Transit Center → Civic Center Transit Center	bus
 8669554	MetroBus	18	north	18 Taylor: Central West End Transit Center → Pope & West Florissant	bus
@@ -1218,8 +1217,8 @@
 11162190				Kearney Spur	railway
 11175705					
 11250806	lcn			KCI Corridor Trail	bicycle
-11366426	MetroLink	Red		MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
-11366427	MetroLink	B	west	MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
+11366426	MetroLink	Red	west	MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
+11366427	MetroLink	Blue	west	MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
 11494318					railway
 11525813	The Bus	35		Industrial Express - Purple	bus
 11525948	The Bus	14		Atlantic - Brown	bus

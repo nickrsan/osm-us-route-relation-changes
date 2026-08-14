@@ -430,8 +430,8 @@
 1665342	Amtrak	Wolverine		Amtrak Wolverine: Chicago => Pontiac	train
 1687374	Amtrak	Blue Water		Amtrak Blue Water: Chicago => Port Huron	train
 1690525	US:I	474			road
-1737996	MetroLink	B	east	MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
-1737997	MetroLink	Red		MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
+1737996	MetroLink	Blue	east	MetroLink Blue Line: Shrewsbury-Lansdowne I-44 → Fairview Heights	light_rail
+1737997	MetroLink	Red	east	MetroLink Red Line: Lambert Airport → Shiloh-Scott	light_rail
 1744233	lcn	NAT		Nature Trail	bicycle
 1745358	lcn	DM		Delyte W. Morris Trail	bicycle
 1745359	lcn	GOS		MCT Goshen Trail	bicycle
@@ -656,8 +656,7 @@
 3157242	lwn			Pedway	foot
 3177959	US:WI	31		State Trunk Highway 31	road
 3201529	MTD	5E	E	MTD 5E Green Weekday - Daytime AM	bus
-3203226	MTD	12E	east	MTD 12E Teal Weekday - Daytime	bus
-3203245	MTD	5XW	W	MTD 5W Green Express Weekday	bus
+3203226	MTD	12E	east	12 Teal East: Weekday - Day	bus
 3318923	ncn	50		50 (Indiana)	bicycle
 3406468	lcn			Morrison-Rockwood Trail	bicycle
 3419375	lcn	606		Bloomingdale Trail	bicycle
@@ -1072,7 +1071,7 @@
 8635358	lcn			Adams Street - 18th Street	bicycle
 8635518	lcn	ST		Shiloh Trail	bicycle
 8636143	MTD	22N		MTD 22N Illini Weekday - Daytime	bus
-8641904	MTD	13N		MTD 13N Silver Weekday - Daytime	bus
+8641904	MTD	13N	north	13 Silver North: Weekday - Day	bus
 8649352	CTA	8	north	Bus 8: 79th/Halsted -> Waveland/Broadway	bus
 8649499	CTA	8	south	Bus 8: Waveland/Broadway -> 79th/Halsted	bus
 8649661	CTA	8	north	Bus 8: 42nd/Halsted -> Waveland/Broadway	bus
@@ -1292,42 +1291,41 @@
 10004288	US:IL:Kendall	3		Kendall County Highway 3	road
 10004289	US:IL:Kendall	2		Kendall County Highway 2	road
 10004290	US:IL:Kendall	1		Kendall County Highway 1	road
-10087645	MTD	1N	north	MTD 1N Yellow Weekday - Day	bus
-10088160	MTD	1S	south	MTD 1S Yellow Weekday - Day	bus
-10088405	MTD	2U	east	MTD 2U Red Weekday - Daytime	bus
-10136252	MTD	2C	west	MTD 2C Red Weekday - Daytime	bus
-10137572	MTD	3N		MTD 3N Lavender Weekday - Daytime	bus
-10142445	MTD	3S		MTD 3S Lavender Weekday - Daytime	bus
+10087645	MTD	1N	north	1 Yellow North: Weekday - Day	bus
+10088160	MTD	1S	south	1 Yellow South: Weekday - Day	bus
+10088405	MTD	2U	east	2 Red Urbana: Weekday - Day	bus
+10136252	MTD	2C	west	2 Red Champaign: Weekday - Day	bus
+10137572	MTD	3N		3 Lavender North: Weekday - Day	bus
+10142445	MTD	3S		3 Lavender South: Weekday - Day	bus
 10142522	Pace	501		West Jefferson	bus
 10150988	lcn			Lincoln Prairie Trail	bicycle
-10155680	MTD	4W		MTD 4W Blue Weekday - Daytime	bus
-10156220	MTD	4E		MTD 4E Blue - Weekday Daytime	bus
+10155680	MTD	4W		4 Blue West: Weekday - Day	bus
+10156220	MTD	4E		4 Blue East: Weekday - Day	bus
 10183915	lcn	UPT		Union Pacific Trail	bicycle
 10185128	MTD	5E		MTD 5E Green Weekday - Daytime PM	bus
 10185443	MTD	5W		MTD 5W Green Weekday - Daytime PM	bus
 10185661	MTD	5W		MTD 5W Green Weekday - Daytime AM	bus
-10188504	MTD	6E		MTD 6E Orange Weekday - Daytime	bus
-10192032	MTD	6W		MTD 6W Orange Weekday - Daytime	bus
+10188504	MTD	6E		6 Orange East: Weekday - Day	bus
+10192032	MTD	6W		6 Orange West: Weekday - Day	bus
 10216088	MTD	7E		MTD 7E Grey Weekday - Daytime	bus
 10217498	MTD	7W		MTD 7W Grey Weekday - Daytime	bus
 10220355	CTA	22	south	Bus 22: Howard Red Line Station -> Harrison/Clark	bus
 10220356	CTA	N22	south	Bus N22: Howard Red Line Line Station -> Harrison/Clark	bus
 10220357	CTA	22	north	Bus 22: Harrison/Clark -> Howard Red Line Station	bus
 10220358	CTA	N22	north	Bus N22: Harrison/Clark -> Howard Red Line Station	bus
-10222978	MTD	8E		MTD 8E Bronze Weekday - Daytime	bus
-10225613	MTD	8W		MTD 8W Bronze Weekday - Daytime	bus
-10226325	MTD	9A		MTD 9A Brown Weekday - Daytime	bus
-10229570	MTD	9B		MTD 9B Brown Weekday - Daytime	bus
+10222978	MTD	8E	east	8 Bronze East: Weekday - Day	bus
+10225613	MTD	8W	west	8 Bronze West: Weekday - Day	bus
+10226325	MTD	9A	clockwise	9A Brown: Weekday - Day	bus
+10229570	MTD	9B	anticlockwise	9B Brown: Weekday - Day	bus
 10230365	MTD	10E		MTD 10E Gold Weekday - Daytime	bus
 10257355	MTD	10W		MTD 10W Gold Weekday - Daytime	bus
-10263618	MTD	5XE		MTD 5E Green Express Weekday	bus
-10267737	MTD	12W		MTD 12W Teal Weekday - Daytime	bus
-10271780	MTD	13S		MTD 13S Silver Weekday - Daytime	bus
-10290098	MTD	14W		MTD 14W Navy Weekday - Daytime	bus
-10290112	MTD	14E		MTD 14E Navy Weekday - Daytime	bus
+10267737	MTD	12W	west	12 Teal West: Weekday - Day	bus
+10271780	MTD	13S	south	13 Silver South: Weekday - Day	bus
+10290098	MTD	14W	west	14 Navy West: Weekday - Daytime	bus
+10290112	MTD	14E	east	14 Navy East: Weekday - Day	bus
 10290350	lcn	312 RiverRun		312 RiverRun	bicycle
-10290633	MTD	16A		MTD 16A Pink Weekday - Daytime	bus
-10294794	MTD	16B		MTD 16B Pink Weekday - Daytime	bus
+10290633	MTD	16A	clockwise	16A Pink: Weekday - Day	bus
+10294794	MTD	16B	anticlockwise	16B Pink: Weekday - Day	bus
 10297947	MTD	21		MTD 21 Raven Weekday - Daytime	bus
 10298436	MTD	22S		MTD 22S Illini Weekday - Daytime	bus
 10309577	CTA	95	east	Bus 95: 87th/Damen -> 92nd/Buffalo	bus
@@ -1445,8 +1443,8 @@
 11351327	lcn			Glenn Ellyn Bike Route	bicycle
 11360024	CTA	106	east	Bus 106: 95th/Dan Ryan Red Line Station -> 103rd/Stony Island	bus
 11360025	CTA	106	west	Bus 106: 103rd/Stony Island -> 95th/Dan Ryan Red Line Station	bus
-11366426	MetroLink	Red		MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
-11366427	MetroLink	B	west	MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
+11366426	MetroLink	Red	west	MetroLink Red Line: Shiloh-Scott → Lambert Airport	light_rail
+11366427	MetroLink	Blue	west	MetroLink Blue Line: Fairview Heights → Shrewsbury-Lansdowne I-44	light_rail
 11371574	lcn			Lombard Bike Routes	bicycle
 11373819	Pace	834	north	Bus 834: Joliet Metra → Lewis University → Branding/Finley	bus
 11375628	CTA	47	west	Bus 47: 47th/Lake Park -> Midway Orange Line Station	bus
@@ -2851,10 +2849,10 @@
 18942166	lwn	IRBT		Illinois River Bluff Trail	hiking
 18943799	MTD	24N		MTD 24N Link Weekday - Daytime	bus
 18954415	lwn			Pimiteoui Trail	hiking
-18963677	MTD	180A		MTD 180A Lime Weekday - Night	bus
+18963677	MTD	180A	clockwise	180A Lime: Weekday - Night	bus
 18970794	MTD	110N	north	MTD 110N Ruby Weekday - Evening	bus
 18974068	MTD	110S		MTD 110S Ruby Weekday - Evening	bus
-18974355	MTD	180B	anticlockwise	MTD 180B Lime Weekday - Night	bus
+18974355	MTD	180B	anticlockwise	180B Lime: Weekday - Night	bus
 18976998	MTD	5W		MTD 5W Greenhopper Weekday - Daytime	bus
 18982224	MTD	22N		MTD 22N Illini Limited Weekday - Daytime	bus
 18995585	MTD	5E		MTD 5E Green Hopper Weekday - Daytime	bus
@@ -2923,7 +2921,7 @@
 19542433	TTB	T5-T3G		Terminal Transfer Bus	bus
 19542434	TTB	T3K-T5		Terminal Transfer Bus	bus
 19542435	TTB	T5-T3K		Terminal Transfer Bus	bus
-19563120	MTD	20C		MTD 20C Red Saturday - Day	bus
+19563120	MTD	20C		20 Red Champaign: Saturday - Day	bus
 19573971	Pace	270	south	Bus 270: Glenbrook Hospital -> Jeff Park Transit Center	bus
 19607152	Pace	421		Bus 421: Northfield Plaza -> Linden CTA Station	bus
 19629967	Pace	530	west	Bus 530: Naperville Metra Station → Nelson & Constitution	bus
@@ -3314,5 +3312,9 @@
 21209571				550E	road
 21210162	US:IL:Lawrence County			County Road 8	road
 21213995				1100N	road
-21217992	MTD	17E		17 Cherry East: Weekday - Day	bus
-21217993	MTD	17W		17 Cherry West: Weekday - Day	bus
+21217992	MTD	17E	east	17 Cherry East: Weekday - Day	bus
+21217993	MTD	17W	west	17 Cherry West: Weekday - Day	bus
+21227160				North 615 East Road	road
+21227161				North 600 East Road	road
+21227244				East 400 North Road	road
+21227245				North 500 East Road	road
