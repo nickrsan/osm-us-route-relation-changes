@@ -7197,8 +7197,6 @@
 19936136			east	La Jolla Parkway	road
 19936291	US:I:Bypass	5	south		road
 19936292	US:I:Bypass	5	north		road
-19936493	US:I:Express	5	north		road
-19936494	US:I:Express	5	south		road
 19936537				Osborn Street	road
 19947294					bicycle
 19951425	Sonoma County Transit	10		Sonoma County Transit 10: Rohnert Park/Cotati	bus
@@ -7297,7 +7295,6 @@
 20010714	US:NFSR:Shasta-Trinity:NF	25		Whalen Road	road
 20012080	lwn			San Gabriel River Trail	hiking
 20018765	US:CA:Express	91	west		road
-20018817	US:I:Express	605	north		road
 20019836	County Connection	97X			bus
 20019837	County Connection	96X			bus
 20022543	County Connection	98X			bus
@@ -7706,6 +7703,6 @@
 21194592	Petaluma Transit Mall	24		Petaluma Transit 24: Kaiser Hospital => Petaluma Transit Mall	bus
 21195763				WeatherTech Raceway Laguna Seca	road
 21197593	lwn			Grouse Lake Trail	hiking
-21210145	US:CA:Express	118	west		road
 21213566	rcn			The Great Redwood Trail	bicycle
 21216992				Victoria Avenue	road
+21229726	US:USFS:byway			Bigfoot Scenic Byway	road

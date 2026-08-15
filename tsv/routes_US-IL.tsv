@@ -1070,7 +1070,7 @@
 8626064	CTA	7	west	Bus 7: Kedzie/Harrison -> Central/Harrison	bus
 8635358	lcn			Adams Street - 18th Street	bicycle
 8635518	lcn	ST		Shiloh Trail	bicycle
-8636143	MTD	22N		MTD 22N Illini Weekday - Daytime	bus
+8636143	MTD	22N		22 Illini North: Weekday - Day	bus
 8641904	MTD	13N	north	13 Silver North: Weekday - Day	bus
 8649352	CTA	8	north	Bus 8: 79th/Halsted -> Waveland/Broadway	bus
 8649499	CTA	8	south	Bus 8: Waveland/Broadway -> 79th/Halsted	bus
@@ -1299,16 +1299,16 @@
 10142445	MTD	3S		3 Lavender South: Weekday - Day	bus
 10142522	Pace	501		West Jefferson	bus
 10150988	lcn			Lincoln Prairie Trail	bicycle
-10155680	MTD	4W		4 Blue West: Weekday - Day	bus
-10156220	MTD	4E		4 Blue East: Weekday - Day	bus
+10155680	MTD	4W	west	4 Blue West: Weekday - Day	bus
+10156220	MTD	4E	east	4 Blue East: Weekday - Day	bus
 10183915	lcn	UPT		Union Pacific Trail	bicycle
 10185128	MTD	5E		MTD 5E Green Weekday - Daytime PM	bus
 10185443	MTD	5W		MTD 5W Green Weekday - Daytime PM	bus
 10185661	MTD	5W		MTD 5W Green Weekday - Daytime AM	bus
 10188504	MTD	6E		6 Orange East: Weekday - Day	bus
 10192032	MTD	6W		6 Orange West: Weekday - Day	bus
-10216088	MTD	7E		MTD 7E Grey Weekday - Daytime	bus
-10217498	MTD	7W		MTD 7W Grey Weekday - Daytime	bus
+10216088	MTD	7E	east	7 Grey East: Weekday - Day	bus
+10217498	MTD	7W	west	7 Grey West: Weekday - Day	bus
 10220355	CTA	22	south	Bus 22: Howard Red Line Station -> Harrison/Clark	bus
 10220356	CTA	N22	south	Bus N22: Howard Red Line Line Station -> Harrison/Clark	bus
 10220357	CTA	22	north	Bus 22: Harrison/Clark -> Howard Red Line Station	bus
@@ -1317,8 +1317,8 @@
 10225613	MTD	8W	west	8 Bronze West: Weekday - Day	bus
 10226325	MTD	9A	clockwise	9A Brown: Weekday - Day	bus
 10229570	MTD	9B	anticlockwise	9B Brown: Weekday - Day	bus
-10230365	MTD	10E		MTD 10E Gold Weekday - Daytime	bus
-10257355	MTD	10W		MTD 10W Gold Weekday - Daytime	bus
+10230365	MTD	10E	east	10 Gold East: Weekday - Day	bus
+10257355	MTD	10W	west	10 Gold West: Weekday - Day	bus
 10267737	MTD	12W	west	12 Teal West: Weekday - Day	bus
 10271780	MTD	13S	south	13 Silver South: Weekday - Day	bus
 10290098	MTD	14W	west	14 Navy West: Weekday - Daytime	bus
@@ -1326,8 +1326,8 @@
 10290350	lcn	312 RiverRun		312 RiverRun	bicycle
 10290633	MTD	16A	clockwise	16A Pink: Weekday - Day	bus
 10294794	MTD	16B	anticlockwise	16B Pink: Weekday - Day	bus
-10297947	MTD	21		MTD 21 Raven Weekday - Daytime	bus
-10298436	MTD	22S		MTD 22S Illini Weekday - Daytime	bus
+10297947	MTD	21		21 Raven: Weekday - Day	bus
+10298436	MTD	22S		22 Illini South: Weekday - Day	bus
 10309577	CTA	95	east	Bus 95: 87th/Damen -> 92nd/Buffalo	bus
 10309578	CTA	95	west	Bus 95: 92nd/Buffalo -> 87th/Damen	bus
 10411210	CTA	24	north	Bus 24: 87th/Racine -> Clark/Lake	bus
@@ -2845,9 +2845,9 @@
 18846886	Motor Safari			Motor Safari - South Gate	tram
 18846887	Motor Safari			Motor Safari - West	tram
 18846888	Motor Safari			Motor Safari - North Gate	tram
-18938085	MTD	24S		MTD 24S Link Weekday - Daytime	bus
+18938085	MTD	24S		24 Link South: Weekday - Day	bus
 18942166	lwn	IRBT		Illinois River Bluff Trail	hiking
-18943799	MTD	24N		MTD 24N Link Weekday - Daytime	bus
+18943799	MTD	24N	north	24 Link North: Weekday - Day	bus
 18954415	lwn			Pimiteoui Trail	hiking
 18963677	MTD	180A	clockwise	180A Lime: Weekday - Night	bus
 18970794	MTD	110N	north	MTD 110N Ruby Weekday - Evening	bus
