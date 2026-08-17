@@ -6263,7 +6263,7 @@
 9368441	Regional Transit Service	9	east	RTS 9 University (E)	bus
 9368442	Regional Transit Service	11L	east	RTS 11L Monroe (E)	bus
 9368443	Regional Transit Service	13	south	RTS 13 South Avenue (S1)	bus
-9368445	Regional Transit Service	41	south	RTS 41 Culver/Goodman Crosstown (S)	bus
+9368445	Regional Transit Service	41	south	Bus 41: Skyview Connection Hub => Walmart - Henrietta	bus
 9368446	Regional Transit Service	3	north	RTS 3 Joseph (N1)	bus
 9368615	Regional Transit Service	50	east	RTS 50 Fairport/Penfield (E)	bus
 9369806	Regional Transit Service	92	west	RTS 92 Hilton/Hamlin Commuter (W2)	bus
@@ -6660,7 +6660,7 @@
 10125416				Three Lakes Loop	hiking
 10125417				Vernay Lakeside Connector	hiking
 10125418				Hidden Valley Loop	hiking
-10125419	lwn			Overlook Loop	hiking
+10125419				Overlook Loop	hiking
 10131632	Staten Island Railway	SIR		NYCS - Staten Island Railway: St. George → Tottenville	subway
 10131633	Staten Island Railway	SIR		NYCS - Staten Island Railway (am rush): Tottenville → St. George	subway
 10137127	lcn			125th Street	bicycle
@@ -8166,9 +8166,7 @@
 14720328				Boundary Trail	hiking
 14723458				Stinger	hiking
 14723459				Limbo	hiking
-14724917				Upper Highland Trail	hiking
-14724918				CCNS Trail	hiking
-14724919	lwn			Croton Trails System	hiking
+14724918				Upper Village Loop	hiking
 14725991				Hip Hop	hiking
 14725992				Switchback	hiking
 14725993				Lost Bridge	hiking
@@ -8936,7 +8934,7 @@
 17615548				West Tremont Avenue	road
 17616144	Regional Transit Service	70	south	RTS 70 Seabreeze (S)	bus
 17616145	Regional Transit Service	42	west	RTS 42 Lyell/Upper Falls Crosstown (W)	bus
-17616146	Regional Transit Service	41	north	RTS 41 Culver/Goodman Crosstown (N)	bus
+17616146	Regional Transit Service	41	north	Bus 41: Walmart - Henrietta => Skyview Connection Hub	bus
 17616147	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E2)	bus
 17616148	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E1)	bus
 17616649	Regional Transit Service	97	east	RTS 97 Elmwood Commuter (E)	bus
