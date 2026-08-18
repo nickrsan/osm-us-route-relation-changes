@@ -6641,7 +6641,7 @@
 10061282	lcn			W MOSHOLU PKWY S bicycle	bicycle
 10082941				Briarcliff-Peekskill Trailway	hiking
 10098146	lcn			86th Street	bicycle
-10117839	lwn			Kaplan's Pond Trail	hiking
+10117839				Kaplan's Pond Trail	hiking
 10117840				Pond Loop	hiking
 10117841				Turkey Trail	hiking
 10117842				Highland Trail	hiking
@@ -8166,7 +8166,7 @@
 14720328				Boundary Trail	hiking
 14723458				Stinger	hiking
 14723459				Limbo	hiking
-14724918				Upper Village Loop	hiking
+14724918				Upper Village Trail Loop	hiking
 14725991				Hip Hop	hiking
 14725992				Switchback	hiking
 14725993				Lost Bridge	hiking
@@ -8493,7 +8493,7 @@
 15967604	lcn			East 13th Street	bicycle
 15967605	lcn			East 12th Street	bicycle
 16016698	lwn			Wiccopee Trail	hiking
-16016699	lwn			Trout Brook Trail	hiking
+16016699				Trout Brook Trail	hiking
 16016700				Round Hill Bypass Trail	hiking
 16016701				Roaring Brook Trail	hiking
 16016702				Perkins Trail	hiking
@@ -11697,3 +11697,5 @@
 21227105	Nassau Inter-County Express	n27		NICE n27	bus
 21227154	Nassau Inter-County Express	n23		NICE n23	bus
 21227171	Nassau Inter-County Express	n57		NICE n57	bus
+21239622				Green Trail	hiking
+21239770				Breakneck Bypass Trail	hiking

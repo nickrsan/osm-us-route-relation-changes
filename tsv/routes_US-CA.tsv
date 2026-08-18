@@ -1308,7 +1308,7 @@
 2845552	ACE	ACE		Altamont Corridor Express: Stockton => San José (mornings)	train
 2846108	US:CA:CR	J32			road
 2846984	SDMTS	520		Orange Line: Courthouse => El Cajon Transit Center	light_rail
-2847013	SDMTS	530		Green Line: El Cajon Transit Center => 12th & Imperial Transit Center	light_rail
+2847013	SDMTS	530			light_rail
 2847573	US:CA:CR	J46			road
 2851509	BART	Red		BART Red Line: Richmond => Daly City	
 2851510	BART	Orange		BART Orange Line: Richmond => Berryessa/North San José	subway
@@ -3391,8 +3391,8 @@
 9374082	Flixbus	2009	west		bus
 9374083	Flixbus	2009	east		bus
 9374084	Flixbus	2009	east		bus
-9374252	Flixbus	2016		Flixbus 2016: Las Vegas => San Diego	bus
-9374253	Flixbus	2016		Flixbus 2016: San Diego => Las Vegas	bus
+9374252	Flixbus	2016	west		bus
+9374253	Flixbus	2016	east		bus
 9377390	Chaminade			Blue Trail	foot
 9377391	Chaminade			Red Trail	foot
 9384595				Middle Ridge	mtb
@@ -3679,13 +3679,13 @@
 9640185	VVTA	53		VVTA 53 Mall of Victor Valley => Victor Valley College	bus
 9640186	VVTA	52		52 - Victor Valley Transportation Center - Mall of Victor Valley	bus
 9640189	VVTA	50		50 - Victorville - Hesperia	bus
-9640190	VVTA	22		22 - Victorville - Helendale	bus
+9640190	VVTA	22		Helendale	bus
 9640191	VVTA	21		21 - Hesperia Super Target - Wrightwood	bus
 9640192	VVTA	20		20 - Hesperia Super Target - Pinon Hills	bus
 9640193	VVTA	15		Barstow - Victorville - San Bernardino	bus
 9640194	VVTA	111		NTC Commuter - Fort Irwin - Barstow	bus
 9640195	VVTA	115		NTC Commuter - Fort Irwin - Helendale	bus
-9640199	VVTA	114		NTC Commuter - Fort Irwin - Hesperia	bus
+9640199	VVTA	114		Hesperia - Fort Irwin	bus
 9640430	SolTrans	R		SolanoExpress Red Line: El Cerrito del Norte BART => Vallejo Transit Center => Solano Town Center	bus
 9640431	SolTrans	R		SolanoExpress Red Line: Solano Town Center => Vallejo Transit Center => El Cerrito del Norte BART	bus
 9642349	SolTrans	5		SolTrans 5: Vallejo Transit Center => Fairgrounds	bus
@@ -4051,7 +4051,7 @@
 9946442	VTA	89		VTA 89: California Avenue Caltrain => VA Hospital Palo Alto	bus
 9946445	VTA	288		VTA 288: VA Hospital Palo Alto => Middlefield & Colorado	bus
 9946499	SDMTS	520		Orange Line: El Cajon Transit Center => Courthouse	light_rail
-9946500	SDMTS	530		Green Line: 12th & Imperial Transit Center => El Cajon Transit Center	light_rail
+9946500	SDMTS	530			light_rail
 9947938	County Connection	335		County Connection 335: San Ramon Transit Center => Dublin/Pleasanton BART	bus
 9947939	County Connection	335		County Connection 335: Dublin/Pleasanton BART => San Ramon Transit Center	bus
 9960504	SRPGO	CAFX		Stanford Research Park California Avenue Foothill Express Shuttle: California Avenue Caltrain => 3475 Deer Creek (mornings)	bus
@@ -7294,7 +7294,6 @@
 20010713	US:NFSR:Shasta-Trinity:NF	26		South Fork Road	road
 20010714	US:NFSR:Shasta-Trinity:NF	25		Whalen Road	road
 20012080	lwn			San Gabriel River Trail	hiking
-20018765	US:CA:Express	91	west		road
 20019836	County Connection	97X			bus
 20019837	County Connection	96X			bus
 20022543	County Connection	98X			bus
@@ -7308,7 +7307,6 @@
 20033876	lhn			San Gabriel River Trail - Eastern Bank	horse
 20033877	lcn			San Gabriel River Trail - Eastern Bank	mtb
 20033878	lwn			San Gabriel River Trail - Eastern Bank	hiking
-20033893	US:CA:Express	14	north		road
 20033894	US:CA:Express	14	south		road
 20034054	County Connection	99X			bus
 20034055	County Connection	99X			bus
@@ -7346,7 +7344,6 @@
 20085637	US:US:Historic	395			road
 20086281	US:CA			El Camino Real	road
 20086438	US:US:Old	80		Old U.S. Route 80	road
-20104192	US:CA:Express	170	north		road
 20104193	US:CA:Express	170	south		road
 20107250	Sonoma County Transit	28		Sonoma County Transit 28: Guerneville => Occidental	bus
 20107251	Sonoma County Transit	28		"Sonoma County Transit 28: Occidental => Occidental via Guerneville, Monte Rio"	bus
@@ -7357,7 +7354,6 @@
 20125432	US:I:Old	15	south		road
 20125433	US:I:Alternate	15	south		road
 20125434	US:I:Truck	15	south		road
-20145468	US:CA:Express	60	east		road
 20145469	US:CA:Express	60	west		road
 20145563	US:CA			Kings Canyon Scenic Byway	road
 20147811			east	Alfred Harrell Highway	road
@@ -7390,7 +7386,6 @@
 20232196	rwn	CMT11		California Mission Trail - Mission San Miguel Arcangel to Mission San Antonio de Padua	hiking
 20232391	rwn	CMT12		Cailfornia Mission Trail - 12 - Mission San Antonio de Padua to Mission Nuestra Senora de la Soledad	hiking
 20232935	lcn	COY		Coyote Creek Trail	bicycle
-20237536	US:CA:Express	210	east		road
 20246014	US:NFSR:Mendocino:FR	18N34		Forest Road 18N34	road
 20255603	lcn			Willow Creek Trail	bicycle
 20255604	lcn			Humbug Trail	bicycle
@@ -7519,7 +7514,6 @@
 20459487				Broadway	
 20498567	US:CA:Express	57	south		road
 20498568	US:CA:Alternate	60	west		road
-20498569	US:CA:Express	57	north		road
 20504259	US:I:Business:Loop	15			road
 20520127	lwn			Baker Summit Trail	hiking
 20520128	lwn			Logging Flat Trail	hiking
@@ -7559,7 +7553,6 @@
 20582269	US:CA:Scenic			Scenic Route 168	road
 20582273	US:CA:CR:Scenic			Scenic County Road G20	road
 20586728	US:I:Express	105	east		road
-20586914	US:I:Express	105	west		road
 20597032				Blackstone Avenue	road
 20597033				Stanislaus Street	road
 20600090				Sawtelle Boulevard	road
@@ -7706,3 +7699,6 @@
 21213566	rcn			The Great Redwood Trail	bicycle
 21216992				Victoria Avenue	road
 21229726	US:USFS:byway			Bigfoot Scenic Byway	road
+21240549	SDMTS		east		light_rail
+21240550	SDMTS		west		light_rail
+21240551	SDMTS				light_rail
