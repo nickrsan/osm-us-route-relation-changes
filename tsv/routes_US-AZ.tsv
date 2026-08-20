@@ -53,7 +53,7 @@
 1501935	US:AZ	95		AZ 95	road
 1501955	US:AZ	96		AZ 96	road
 1501956	US:AZ	97			road
-1501988	US:AZ	98		AZ 98	road
+1501988	US:AZ	98		Page–Junction US 160 Highway	road
 1501989	US:AZ	99		AZ 99	road
 1502005	US:AZ	169		AZ 169	road
 1502009	US:AZ	177		AZ 177	road
@@ -1414,12 +1414,11 @@
 15867409	US:AZ:Apache	5020		Apache County 5020	road
 15867410	US:AZ:Apache	5270		Apache County 5270	road
 15867430	US:BIA	20		N20	road
-15867975	US:BIA	21		N21	road
+15867975	US:BIA	21		Navajo Route 21	road
 15936819	US:BIA	171		BIA Route 171 (AZ)	road
 16031166	US:BIA	6331		Navajo Route 6331	road
-16031167					road
-16031169	US:BIA	213		Navajo Route N213	road
-16031170	US:BIA	215		Navajo Route N215	road
+16031169	US:BIA	213		Navajo Route 213	road
+16031170	US:BIA	215		Navajo Route 215	road
 16031171	US:BIA	212		Navajo Route N212	road
 16053188	US:AZ:Apache	6040		Apache County Road 6040	road
 16056809	Valley Metro	DPH 3rd		Downtown Phoenix Hub	light_rail
@@ -1690,3 +1689,17 @@
 21212883	US:NFSR:Coconino:FR	9224X		Forest Service Road 9224X	road
 21212884	US:NFSR:Coconino:FR	9012L		Forest Service Road 9012L	road
 21222682	US:AZ:Future	404			road
+21254240	US:BIA	161		Navajo Route 161	road
+21254243	US:BIA	6310		Navajo Route 6310	road
+21254246	US:UT:San_Juan	434		County Road 434	road
+21254247	US:BIA	6964		Indian Route 6964	road
+21254248	US:BIA	6320		Navajo Route 6320	road
+21254249	US:BIA	6270		Navajo Route 6270	road
+21254250	US:BIA	16		Navajo Route 16	road
+21254251	US:BIA	6260		Navajo Route 6260	road
+21254252	US:BIA	6261		Navajo Route 6261	road
+21254253	US:BIA	6262		Navajo Route 6262	road
+21254254	US:BIA	6011		Navajo Route 6011	road
+21254255	US:BIA	214		Navajo Route 214	road
+21254256	US:BIA	6250		Navajo Route 6250	road
+21254257	US:BIA	H7		Hopi Route 7	road

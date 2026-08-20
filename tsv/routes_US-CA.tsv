@@ -339,46 +339,46 @@
 1027213	lcn	05A		Shoreline-Miramonte Corridor	bicycle
 1101152	Santa Barbara MTD	2	East SB	East SB	bus
 1101153	Santa Barbara MTD	1	West SB	West SB	bus
-1101154	Santa Barbara MTD	2	Downtown SB	East SB	bus
-1101155	Santa Barbara MTD	1	Downtown SB	West SB	bus
-1101160	Santa Barbara MTD	3	Downtown SB	Oak Park	bus
+1101154	Santa Barbara MTD	2		East SB	bus
+1101155	Santa Barbara MTD	1		West SB	bus
+1101160	Santa Barbara MTD	3		Oak Park	bus
 1101161	Santa Barbara MTD	3	La Cumbre	Oak Park	bus
 1101167	Santa Barbara MTD	4	Mesa	Mesa/SBCC	bus
-1101168	Santa Barbara MTD	4	Downtown SB	Mesa/SBCC	bus
-1101189	Santa Barbara MTD	5	Downtown SB	Mesa/La Cumbre	bus
+1101168	Santa Barbara MTD	4		Mesa/SBCC	bus
+1101189	Santa Barbara MTD	5		Mesa/La Cumbre	bus
 1101190	Santa Barbara MTD	5	Mesa & La Cumbre	Mesa/La Cumbre	bus
 1101221	Santa Barbara MTD	6	Goleta	Goleta	bus
-1101224	Santa Barbara MTD	6	Downtown SB	Goleta	bus
+1101224	Santa Barbara MTD	6		Goleta	bus
 1101228	Santa Barbara MTD	11	UCSB	UCSB	bus
-1101229	Santa Barbara MTD	11	Downtown SB	UCSB	bus
-1101266	Santa Barbara MTD	8	Downtown SB	County Health	bus
+1101229	Santa Barbara MTD	11		UCSB	bus
+1101266	Santa Barbara MTD	8		County Health	bus
 1101267	Santa Barbara MTD	7	Fairview	County Health/Fairview	bus
 1101269	Santa Barbara MTD	8	County Health	County Health	bus
-1101270	Santa Barbara MTD	7	Downtown SB	County Health/Fairview	bus
+1101270	Santa Barbara MTD	7		County Health/Fairview	bus
 1101284	Santa Barbara MTD	9		Calle Real/Old Town Shuttle	bus
 1101288	Santa Barbara MTD	10	Camino Real Marketplace	Cathedral Oaks	bus
 1101289	Santa Barbara MTD	10	La Cumbre	Cathedral Oaks	bus
 1101543	Santa Barbara MTD	12x	Santa Barbara	Goleta Express	bus
 1101544	Santa Barbara MTD	12x	Goleta	Goleta Express	bus
 1101546	Santa Barbara MTD	14	Montecito	Montecito	bus
-1101547	Santa Barbara MTD	14	Downtown SB	Montecito	bus
+1101547	Santa Barbara MTD	14		Montecito	bus
 1101564	Santa Barbara MTD	15x	Afternoon/Evening	SBCC/UCSB Express	bus
 1101565	Santa Barbara MTD	15x	Morning	SBCC/UCSB Express	bus
 1101583	Santa Barbara MTD	16	SBCC	City College Shuttle	bus
-1101584	Santa Barbara MTD	16	Downtown SB	City College Shuttle	bus
-1101596	Santa Barbara MTD	17	Downtown SB	Lower Westside/SBCC	bus
+1101584	Santa Barbara MTD	16		City College Shuttle	bus
+1101596	Santa Barbara MTD	17		Lower Westside/SBCC	bus
 1101597	Santa Barbara MTD	17	SBCC	Lower Westside/SBCC	bus
 1105760	Santa Barbara MTD	20	Carpinteria	Carpinteria	bus
 1105761	Santa Barbara MTD	21x	Santa Barbara	Carpinteria Express	bus
 1105762	Santa Barbara MTD	21x	Carpinteria	Carpinteria Express	bus
 1105763	Santa Barbara MTD	20	Santa Barbara	Carpinteria	bus
-1105765	Santa Barbara MTD	22	Downtown SB	Old Mission	bus
+1105765	Santa Barbara MTD	22		Old Mission	bus
 1105766	Santa Barbara MTD	22	Old Mission	Old Mission	bus
 1105798	Santa Barbara MTD	25	Ellwood	Ellwood	bus
 1105799	Santa Barbara MTD	23	UCSB	Winchester Canyon	bus
 1105800	Santa Barbara MTD	23	Winchester Canyon	Winchester Canyon	bus
 1105801	Santa Barbara MTD	25	UCSB	Ellwood	bus
-1105824	Santa Barbara MTD	24x	Downtown SB	UCSB Express	bus
+1105824	Santa Barbara MTD	24x		UCSB Express	bus
 1105825	Santa Barbara MTD	24x	Camino Real Marketplace	UCSB Express	bus
 1105827	Santa Barbara MTD	27	Camino Real Marketplace	Isla Vista Shuttle	bus
 1105829	Santa Barbara MTD	36		Seaside Shuttle	bus
@@ -2304,7 +2304,7 @@
 7714228	US:CA	140	west	140 (westbound)	road
 7717108				Riverview Spur	railway
 7723958	lwn			Mount Whitney Mountaineer's Route	hiking
-7739486				Sierra Subdivision	
+7739486				Sierra Subdivision	railway
 7739743					foot
 7739744					foot
 7751714		MB-TS		Matterhorn Bobsleds (Tomorrowland Side)	railway
@@ -3379,8 +3379,6 @@
 9357092				Holland Industrial Lead	railway
 9367397	Flixbus	2000		Flixbus 2000: Los Angeles (University of Southern California) => El Cerrito del Norte BART	bus
 9368834	Flixbus	2000		Flixbus 2000: El Cerrito del Norte BART => Los Angeles (University of Southern California)	bus
-9368964	Flixbus	N2006		Flixbus N2006: Reno => Los Angeles	
-9368965	Flixbus	N2006		Flixbus N2006: Los Angeles => Reno	
 9371293	AC Transit	79		AC Transit 79: Rockridge BART => El Cerrito Plaza BART	
 9372586	Torrance Transit	1		Torrance Transit 1 →Harbor Freeway	bus
 9372944	Flixbus	2062		Flixbus 2062: Sacramento => San Francisco	bus
@@ -4715,7 +4713,7 @@
 12561996	FAX	1		FAX Q	bus
 12562036	FAX	3		HERNDON	bus
 12562052	FAX	9		SHAW	bus
-12562101	FAX	12		BRAWLEY / INSPIRATION PARK	bus
+12562101	FAX	12		Brawley / Inspiration Park	bus
 12569116	FAX	20		HUGHES/MCKINLEY	bus
 12569252	FAX	22		WEST AVE/TULARE	bus
 12569416	FAX	26		PALM/BUTLER	bus
