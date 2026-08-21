@@ -9731,8 +9731,8 @@
 17938610	US:NY:Broome	56			road
 17938827	US:NY:Broome	92			road
 17938828	US:NY:Broome	49			road
-17942477	University Shuttles		south	UR Blue Line (S)	bus
-17942478	University Shuttles		north	UR Blue Line (N)	bus
+17942477	University Shuttles	Blue	south	Bus Blue: Rush Rhees Library => Whipple Park Apartments	bus
+17942478	University Shuttles	Blue	north	Bus Blue: Whipple Park Apartments => Rush Rhees Library	bus
 17942480	University Shuttles		north	UR Gold Line Riverview Direct (P2)	bus
 17942481	University Shuttles		south	UR Gold Line Riverview Direct (P3)	bus
 17942482	University Shuttles		north	UR Gold Line Riverview Direct (P1)	bus
@@ -9744,7 +9744,7 @@
 17943111	University Shuttles		south	UR Green Line Marketplace (S1)	bus
 17943112	University Shuttles		south	UR Green Line Marketplace (S2)	bus
 17943113	University Shuttles		south	UR Green Line Marketplace (S3)	bus
-17943114	University Shuttles		north	UR Green Line Marketplace (N)	bus
+17943114	University Shuttles		north	UR Green Line Marketplace	bus
 17943869	University Shuttles		north	UR Green Line Public Market (N)	bus
 17943870	University Shuttles		south	UR Green Line Public Market (S)	bus
 17943871	University Shuttles		east	UR Green Line Pittsford Plaza (E1)	bus
@@ -11701,3 +11701,5 @@
 21239770				Breakneck Bypass Trail	hiking
 21253751	lcn			Louisiana Avenue	bicycle
 21253752	lcn			Stanley Avenue	bicycle
+21256831		ADA		Bus ADA	bus
+21256832	Univerity of Rochester	ADA		Bus ADA	bus
