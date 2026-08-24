@@ -384,7 +384,7 @@
 1105829	Santa Barbara MTD	36		Seaside Shuttle	bus
 1105831	Santa Barbara MTD	37	Eastside	Crosstown Shuttle	bus
 1105832	Santa Barbara MTD	37	Westside	Crosstown Shuttle	bus
-1105843	Santa Barbara MTD	W	Harbor	Waterfront Shuttle	bus:suspended
+1105843	Santa Barbara MTD	W		Waterfront Shuttle	bus:suspended
 1105844	Santa Barbara MTD	D	Beach	Downtown Shuttle	bus:suspended
 1105845	Santa Barbara MTD	D	Sola Street	Downtown Shuttle	bus:suspended
 1105846	Santa Barbara MTD	W	Zoo	Waterfront Shuttle	bus:suspended
@@ -7695,7 +7695,7 @@
 21194592	Petaluma Transit Mall	24		Petaluma Transit 24: Kaiser Hospital => Petaluma Transit Mall	bus
 21195763				WeatherTech Raceway Laguna Seca	road
 21197593	lwn			Grouse Lake Trail	hiking
-21213566	rcn			The Great Redwood Trail	bicycle
+21213566	rcn	GRT		The Great Redwood Trail	bicycle
 21216992				Victoria Avenue	road
 21229726	US:USFS:byway			Bigfoot Scenic Byway	road
 21240549	SDMTS		east		light_rail

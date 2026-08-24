@@ -1413,7 +1413,7 @@
 15867127	US:BIA	6		BIA Route 6	road
 15867409	US:AZ:Apache	5020		Apache County 5020	road
 15867410	US:AZ:Apache	5270		Apache County 5270	road
-15867430	US:BIA	20		N20	road
+15867430	US:Navajo	20			road
 15867975	US:BIA	21		Navajo Route 21	road
 15936819	US:BIA	171		BIA Route 171 (AZ)	road
 16031166	US:BIA	6331		Navajo Route 6331	road
@@ -1703,4 +1703,4 @@
 21254255	US:BIA	214		Navajo Route 214	road
 21254256	US:BIA	6250		Navajo Route 6250	road
 21254257	US:BIA	H7		Hopi Route 7	road
-21260388	US:BIA:AZ	2		Indian Route 2	road
+21260388	US:AZ:Indian	2		Indian Route 2	road
