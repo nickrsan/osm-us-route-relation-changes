@@ -1360,7 +1360,6 @@
 2996737	Muni	24		Muni 24 outbound: Pacific Heights => Bayview	trolleybus
 2996793	Muni	12		Muni 12-Folsom/Pacific inbound: The Mission => Russian Hill	bus
 2996794	Muni	12		Muni 12-Folsom/Pacific outbound: Russian Hill => Cesar Chavez St & Mission St	bus
-2998305	US:I			San Gabriel Freeway Spur	road
 2998587				Clovis Branch	railway
 3000713	Muni	14		Muni 14 inbound: Daly City => Downtown	trolleybus
 3000714	Muni	14		Muni 14 outbound: Downtown => Daly City	trolleybus
@@ -4336,24 +4335,18 @@
 11721986	eTrans	35		Route 35 - Escalon Transit (eTrans)	bus
 11722435	StanRTA	25		25 - Orangeburg - Claus - Mall - Downtown Modesto  - Amtrak Station	bus
 11722570	StanRTA	80		80 - Stockton Commuter	bus
-11766696	Big Blue Bus	17		Big Blue Bus 17 Northbound: Palms => VA Medical Center => UCLA	bus
-11766697	Big Blue Bus	17		Big Blue Bus 17 Southbound: UCLA => VA Medical Center => Palms	bus
-11769353	Big Blue Bus	8		"Big Blue Bus 8 Westbound: UCLA => Downtown Santa Monica (evenings, weekends)"	bus
-11769354	Big Blue Bus	8		Big Blue Bus 8 Westbound: UCLA => Downtown Santa Monica (weekdays)	bus
-11769355	Big Blue Bus	8		"Big Blue Bus 8 Eastbound: Downtown Santa Monica => UCLA (evenings, weekends)"	bus
-11769356	Big Blue Bus	8		Big Blue Bus 8 Eastbound: Downtown Santa Monica => UCLA (weekdays)	bus
-11770074	Big Blue Bus	1		"Big Blue Bus 1 Westbound: UCLA => Venice (evenings, weekends)"	bus
-11770075	Big Blue Bus	1		Big Blue Bus 1 Westbound: UCLA => Venice (weekdays)	bus
-11770076	Big Blue Bus	1		"Big Blue Bus 1 Eastbound: Venice => UCLA (evenings, weekends)"	bus
-11770077	Big Blue Bus	1		Big Blue Bus 1 Eastbound: Venice => UCLA (weekdays)	bus
+11766696	Big Blue Bus	17		Big Blue Bus 17 Northbound	bus
+11766697	Big Blue Bus	17		Big Blue Bus 17 Southbound	bus
+11769354	Big Blue Bus	8		Big Blue Bus 8 Westbound	bus
+11769356	Big Blue Bus	8		Big Blue Bus 8 Eastbound	bus
+11770074	Big Blue Bus	1		Big Blue Bus 1 Westbound	bus
+11770076	Big Blue Bus	1		Big Blue Bus 1 Eastbound	bus
 11772207	Metro Local	4		Metro 4 Westbound (short turn)	bus
 11772208	Metro Local	4		Metro 4 Eastbound	bus
-11772978	Big Blue Bus	2		"Big Blue Bus 2 Westbound: UCLA => Downtown Santa Monica (evenings, weekends)"	bus
-11772979	Big Blue Bus	2		Big Blue Bus 2 Westbound: UCLA => Downtown Santa Monica (weekdays)	bus
-11772980	Big Blue Bus	2		"Big Blue Bus 2 Eastbound: Downtown Santa Monica => UCLA (evenings, weekends)"	bus
-11772981	Big Blue Bus	2		Big Blue Bus 2 Eastbound: Downtown Santa Monica => UCLA (weekdays)	bus
-11773671	Big Blue Bus	18		Big Blue Bus 18 Southbound: UCLA => Marina del Rey	bus
-11773672	Big Blue Bus	18		Big Blue Bus 18 Northbound: Marina del Rey => UCLA	bus
+11772978	Big Blue Bus	2		Big Blue Bus 2 Westbound	bus
+11772980	Big Blue Bus	2		Big Blue Bus 2 Eastbound	bus
+11773671	Big Blue Bus	18		Big Blue Bus 18 Southbound	bus
+11773672	Big Blue Bus	18		Big Blue Bus 18 Northbound	bus
 11773988	Big Blue Bus	5		Big Blue Bus 5 Eastbound	bus
 11773989	Big Blue Bus	5		Big Blue Bus 5 Westbound	bus
 11777423	Big Blue Bus	15		Big Blue Bus 15 Southbound: Brentwood => Expo/Bundy Station	bus
