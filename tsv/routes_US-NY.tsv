@@ -6248,7 +6248,7 @@
 9351907	Regional Transit Service	21L	north	RTS 21L Dewey (N)	bus
 9351910	Regional Transit Service	19	west	RTS 19 Buffalo Road (W)	bus
 9351911	Regional Transit Service	18	west	RTS 18 Chili (W)	bus
-9352356	Regional Transit Service	97	west	RTS 97 Elmwood Commuter (W)	bus
+9352356	Regional Transit Service	97	west	Elmwood Commuter	bus
 9352357	Regional Transit Service	15	south	RTS 15 Plymouth (S)	bus
 9352482	Regional Transit Service	14	south	RTS 14 Marketplace (S)	bus
 9367418	Regional Transit Service	5	north	RTS 5 Portland (N)	bus
@@ -6267,7 +6267,7 @@
 9368446	Regional Transit Service	3	north	RTS 3 Joseph (N1)	bus
 9368615	Regional Transit Service	50	east	RTS 50 Fairport/Penfield (E)	bus
 9369806	Regional Transit Service	92	west	RTS 92 Hilton/Hamlin Commuter (W2)	bus
-9369809	Regional Transit Service	91	east	RTS 91 Newark/Lyons Commuter (E1)	bus
+9369809	Regional Transit Service	91	east	Bus 91: RTS Transit Center => Lyons	bus
 9370021	Regional Transit Service	42	east	RTS 42 Lyell/Upper Falls Crosstown (E)	bus
 9370022	Regional Transit Service	21S	north	RTS 21S Dewey (N)	bus
 9370661	Centro Syracuse	410X		Centro 410X Nedrow Express	bus
@@ -8894,8 +8894,6 @@
 17608156	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W3)	bus
 17608157	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W2)	bus
 17608158	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W4)	bus
-17608159	Regional Transit Service	91	east	RTS 91 Newark/Lyons Commuter (E3)	bus
-17608160	Regional Transit Service	91	east	RTS 91 Newark/Lyons Commuter (E2)	bus
 17608161	Regional Transit Service	23	west	RTS 23 West Avenue/Airport (W2)	bus
 17608162	Regional Transit Service	2	south	"RTS 2 North Clinton (seasonal, S2)"	bus
 17608163	Regional Transit Service	2	north	"RTS 2 North Clinton (seasonal, N2)"	bus
@@ -8937,7 +8935,7 @@
 17616146	Regional Transit Service	41	north	Bus 41: Walmart - Henrietta => Skyview Connection Hub	bus
 17616147	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E2)	bus
 17616148	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E1)	bus
-17616649	Regional Transit Service	97	east	RTS 97 Elmwood Commuter (E)	bus
+17616649	Regional Transit Service	97	east	Elmwood Commuter	bus
 17616650	Regional Transit Service	92	east	RTS 92 Hilton/Hamlin Commuter (E1)	bus
 17616651	Regional Transit Service	92	west	RTS 92 Hilton/Hamlin Commuter (W3)	bus
 17616652	Regional Transit Service	92	west	RTS 92 Hilton/Hamlin Commuter (W1)	bus
@@ -9731,8 +9729,8 @@
 17938610	US:NY:Broome	56			road
 17938827	US:NY:Broome	92			road
 17938828	US:NY:Broome	49			road
-17942477	University Shuttles	Blue	south	Bus Blue: Rush Rhees Library => Whipple Park Apartments	bus
-17942478	University Shuttles	Blue	north	Bus Blue: Whipple Park Apartments => Rush Rhees Library	bus
+17942477	University Shuttles	Blue	south	Blue Line	bus
+17942478	University Shuttles	Blue	north	Blue Line	bus
 17942480	University Shuttles		north	UR Gold Line Riverview Direct (P2)	bus
 17942481	University Shuttles		south	UR Gold Line Riverview Direct (P3)	bus
 17942482	University Shuttles		north	UR Gold Line Riverview Direct (P1)	bus
@@ -9752,11 +9750,7 @@
 17943873	University Shuttles		west	UR Green Line Pittsford Plaza (W)	bus
 17944700	University Shuttles		north	UR Red Line (N)	bus
 17944701	University Shuttles		south	UR Red Line (S)	bus
-17944703	University Shuttles	Orange		Bus Orange	bus
-17944704	University Shuttles		north	UR Orange Line (N1A)	bus
-17944705	University Shuttles		north	UR Orange Line (N2 R2)	bus
-17944706	University Shuttles		south	UR Orange Line (S)	bus
-17944708	University Shuttles		north	UR Orange Line (N2 R1)	bus
+17944703	University Shuttles	OL		Orange Line	bus
 17944709	University Shuttles		north	UR Silver Line (N)	bus
 17944710	University Shuttles		south	UR Silver Line (S)	bus
 17946087	University Shuttles		south	"UR Green Line Marketplace (summer, S1)"	bus
@@ -11703,3 +11697,4 @@
 21253752	lcn			Stanley Avenue	bicycle
 21256831		ADA		Bus ADA	bus
 21256832	Univerity of Rochester	ADA		Bus ADA	bus
+21291007					bus
