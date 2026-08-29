@@ -883,8 +883,6 @@
 2164378	US:CA	265			road
 2165994	lcn			Bikeway 99	bicycle
 2174699	lcn			Bike Path	bicycle
-2178603	lcn			Brookside	bicycle
-2178604	lcn			Olive Avenue	bicycle
 2191217	Stageline	50		Route 50	bus
 2195201	lcn				bicycle
 2195202	lcn				bicycle
@@ -7694,3 +7692,7 @@
 21240549	SDMTS		east		light_rail
 21240550	SDMTS		west		light_rail
 21240551	SDMTS				light_rail
+21293800	lwn			Dardanelle Creek Trail	hiking
+21293801	lwn			Burgson Lake Trail	hiking
+21293802	lwn			Wheats Meadow Trail	hiking
+21293803	lwn			Sword Lake Trail	hiking

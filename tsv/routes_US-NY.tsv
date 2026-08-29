@@ -6263,7 +6263,7 @@
 9368441	Regional Transit Service	9	east	RTS 9 University (E)	bus
 9368442	Regional Transit Service	11L	east	RTS 11L Monroe (E)	bus
 9368443	Regional Transit Service	13	south	RTS 13 South Avenue (S1)	bus
-9368445	Regional Transit Service	41	south	Bus 41: Skyview Connection Hub => Walmart - Henrietta	bus
+9368445	Regional Transit Service	41	south	Culver / Goodman Crosstown	bus
 9368446	Regional Transit Service	3	north	RTS 3 Joseph (N1)	bus
 9368615	Regional Transit Service	50	east	RTS 50 Fairport/Penfield (E)	bus
 9369806	Regional Transit Service	92	west	RTS 92 Hilton/Hamlin Commuter (W2)	bus
@@ -7713,7 +7713,7 @@
 12900097	rwn	PP		Paumanok Path	hiking
 12904240	rwn	LIGT		Long Island Greenbelt Trail	hiking
 12906971	lcn	NRT		Northport Rail Trail	bicycle
-12907124	Regional Transit Service	70	north	RTS 70 Seabreeze (N)	bus
+12907124	Regional Transit Service	70	north	Seabreeze Seasonal	bus
 12911313				Old NY 148;NY 54	road
 12911382	US:NY			NY 920J	road
 12911384				Lincoln Street	road
@@ -8930,9 +8930,9 @@
 17612985	Regional Transit Service	18	east	RTS 18 Chili (E2)	bus
 17615541				East Tremont Avenue	road
 17615548				West Tremont Avenue	road
-17616144	Regional Transit Service	70	south	RTS 70 Seabreeze (S)	bus
+17616144	Regional Transit Service	70	south	Seabreeze Seasonal	bus
 17616145	Regional Transit Service	42	west	RTS 42 Lyell/Upper Falls Crosstown (W)	bus
-17616146	Regional Transit Service	41	north	Bus 41: Walmart - Henrietta => Skyview Connection Hub	bus
+17616146	Regional Transit Service	41	north	Culver / Goodman Crosstown	bus
 17616147	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E2)	bus
 17616148	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E1)	bus
 17616649	Regional Transit Service	97	east	Elmwood Commuter	bus
