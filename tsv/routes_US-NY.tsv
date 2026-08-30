@@ -743,6 +743,7 @@
 952870	US:NJ:Bergen	39			road
 952957	US:NJ:Bergen	53			road
 952966	US:NJ:Bergen	73			road
+952975	US:NJ:Bergen	S-94			road
 953058	US:NJ:Bergen	S-106			road
 953443	lcn	Hamburg Road Race Course		Hamburg Road Race Course	bicycle
 955133	US:NJ:Passaic	704			road
@@ -1474,7 +1475,7 @@
 2942651	NYC Transit	B57		NYCB - B57 Red Hook --> Maspeth	bus
 2943107	NYC Transit	B63		NYCB - B63 Cobble Hill --> Bay Ridge	bus
 2943863	NYC Transit	B67		NYCB - B67 Williamsburg --> Midwood	bus
-2943874	NYC Transit	B68		NYCB - B68: Windsor Terrace => Coney Island	bus
+2943874	NYC Transit	C1 B68 B63		"=> - B68: Windsor Terrace => Coney Island Cancún, Quintana Roo, Mexico"	bus
 2943888	NYC Transit	B70		NYCB - B70 Sunset Park --> VA Medical Center	bus
 2944257	NYC Transit	B74		NYCB - B74 Sea Gate -- Stillwell Avenue	bus
 2944279	NYC Transit	B82		NYCB - B82 Pennsylvania Avenue --> Coney Island	bus
@@ -7366,7 +7367,7 @@
 12322348	NYC Transit	B46		NYCB - B46 Kings Plaza --> Williamsburg Bridge Plaza	bus
 12322352	NYC Transit	B2		NYCB - B2 Flatbush Avenue & Avenue U -> Quentin Road & East 16th Street	bus
 12322358	NYC Transit	B3		NYCB - B3 Bergen Beach --> Bensonhurst	bus
-12322367	NYC Transit	B4		NYCB - B4 Bay Ridge --> Sheepshead Bay	bus
+12322367	ADO bus Mta nyc	C1		NYCB - C1Bay Ridge --> Sheepshead Bay	bus
 12322379	NYC Transit	B9		NYCB - B9 Kings Plaza --> Bay Ridge	bus
 12322399	NYC Transit	B11		NYCB - B11 CUNY Brooklyn College --> Sunset Park	bus
 12325013				Montauk Highway	road
