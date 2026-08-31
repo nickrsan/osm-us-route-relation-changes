@@ -830,7 +830,7 @@
 5633631	CTA	143	south	Bus 143: Sheridan/Briar -> Congress Plaza	bus
 5634511	Pace	384	south	Bus 384: Midway CTA Orange Line Station => 111th/Nashville	bus
 5637654	US:IL	390			road
-5650358	Pace	385		87th-111th-127th Streets	bus
+5650358	Pace	385	south	Bus 385: Midway CTA Orange Line Station => Rivercrest Shopping Center	bus
 5650401	Pace	386	south	Bus 386: Midway CTA Orange Line Station => DeVry University	bus
 5678044	Pace	390	west	Bus 390: 47th/Cicero => UPS Hodgkins	bus
 5680736	Pace	392		Little Village - UPS Hodgkins	bus
@@ -3320,3 +3320,4 @@
 21227245				North 500 East Road	road
 21250860				East 100 North Road	road
 21254394				County Road 900 East	road
+21300762	Pace	385	north	Bus 385: Rivercrest Shopping Center => Midway CTA Orange Line Station	bus

@@ -651,7 +651,6 @@
 10535569	US:AR	917			road
 10535603	US:AR	980			road
 10664643	US:AR:Yell	49			road
-10718127	lcn			Warthog	mtb
 10719266	lcn	LBV		Lake Bella Vista Trail	bicycle
 10721600	lcn	Gold		Bentonville Gold Route	bicycle
 10722532	lcn	WST		Wishing Springs Trail	bicycle
@@ -738,7 +737,6 @@
 10775970	lcn	R-SP		Razorback Sidepath Trail	bicycle
 10775971	lcn	G-SP		Garland Sidepath	bicycle
 10775972	lcn	Rupple		Rupple Road Sidepath	bicycle
-10790329	lcn	GreenN-C		Greenway Slaughter Pen North Connector	mtb
 10790330	lcn	DhC		Downhill Connector	mtb
 10790331	lcn	Med		Medusa	mtb
 10790332	lcn	Tata		Tatamagouche	mtb
@@ -1271,16 +1269,11 @@
 13418693	lcn	Cata		Catapult	mtb
 13418694	lcn	Medi		Medieval	mtb
 13418997	lcn	Uwa		Uwabami	mtb
-13422431	lcn	SPAR-C		Slaughter Pen Access Road Connector	mtb
 13422735	lcn	JLS		Jesse's Last Stand	mtb
 13422736	lcn	Tata-Cut		Tatamagouche Cut-through	mtb
 13422737	lcn	ALSTata-C		Armadillo-Tatamagouche Connector	mtb
 13422747	lcn	Med-Alt		Medusa Alternate	mtb
-13422748	lcn	TaMed-C		Tatamagouche-Medusa Connector	mtb
-13422749	lcn	TaMedP-C		Tatamagouche-Medusa Powerline Connector	mtb
-13423145	lcn	AA-Skill		All-American Skill Line	mtb
 13423146	lcn	SP-C-A		Slaughter Pen Phase 1 Access Central	mtb
-13423147	lcn	Tata-Skill		Tatamagouche Skill Route	mtb
 13423149	lcn	NW_A-C		NW A Connector	mtb
 13423150	lcn	BY-Ditch		Boneyard Ditch	mtb
 13423430	lcn	Skid		Skid Marks	mtb
@@ -1291,12 +1284,7 @@
 13426735	lcn	BAC		Black Apple Creek Trail-Slaughter Pen	mtb
 13426737	lcn	BY-Ridge		The Bone Yard Ridge	mtb
 13426738	lcn	BY-Sent		The Boneyard Sent	mtb
-13426827	lcn	JA-Access		Jesse's Armadillo Access	mtb
-13426828	lcn	JA-C		Jesse's Armadillo Connector	mtb
-13426829	lcn	ALS-C		Armadillo's Last Stand Connector	mtb
 13427318	lcn	GreenS-C		Greenway Connector Phase 1 South	mtb
-13427440	lcn	AR-C		Access Road Connector	mtb
-13429144	lcn	AA-Phs1		All-American Heros Phase 1	mtb
 13429145	lcn	AA-Phs2		All-American Heros Phase 2	mtb
 13429311	lcn	BP-C		Bush Push Connector	mtb
 13429312	lcn	Oak-C		Oaklawn Connector	mtb
@@ -1304,9 +1292,7 @@
 13429587	lcn	ACG		Angus Chute Gully	mtb
 13429950	lcn	AA-Phs3		All-American Heros Phase 3	mtb
 13429952	lcn	AA-C		All American Connector Crystal Bridges South	mtb
-13430411	lcn	TaMedW-C		Tatamagouche-Medusa West Connector	mtb
 13430585	lcn	FT-Drop		Free Time Drop Line	mtb
-13430599				Razorback Regional Greenway I-49 Temp	bicycle
 13430676	lcn	AAALS-C		All American Armadillo Connector	mtb
 13432494	US:AR:NW:Greenway	RRG		Razorback Regional Greenway-Impacted South	bicycle
 13442420	lcn	BS-Loop-SU		Blowing Springs Loop-South Upper	mtb
