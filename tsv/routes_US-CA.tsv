@@ -1192,7 +1192,6 @@
 2523537	RTA	13		RTA 13	bus
 2523538	RTA	15		RTA 15	bus
 2523539	RTA	12		RTA 12	bus
-2527322	lcn			Sand Canyon Wash Trail	bicycle
 2528045				Porter wheelchair accessibility	hiking
 2557223				Cobal Canyon Loop	mtb
 2602922	AC Transit	67		AC Transit 67: Downtown Berkeley => Spruce Street & Grizzly Peak Boulevard (weekdays)	bus
@@ -7696,3 +7695,13 @@
 21293801	lwn			Burgson Lake Trail	hiking
 21293802	lwn			Wheats Meadow Trail	hiking
 21293803	lwn			Sword Lake Trail	hiking
+21304542	US:CA:Business	41			road
+21304656	lwn			Sawmill Pass Trail	hiking
+21304817				Jeffrey Open Space Trail shared use path	
+21304833				Jeffrey Open Space Trail shared use path	bicycle
+21304846				Jeffrey Open Space Trail shared use path	
+21304867				Cypress Village Trail shared use path	
+21304911	rcn			Jeffrey Trail	bicycle
+21304916	lcn			Venta Spur Trail	bicycle
+21305060	Santa Rosa CityBus	2		Santa Rosa CityBus 2: Santa Rosa Transit Mall => Corp. Ctr. Pkwy at Mercury Way	bus
+21305061	Santa Rosa CityBus	2		Santa Rosa CityBus 2: Corp. Ctr. Pkwy at Mercury Way => Santa Rosa Transit Mall	bus

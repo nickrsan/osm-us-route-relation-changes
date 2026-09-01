@@ -381,8 +381,8 @@
 4499250	Valley Metro	10 WB		bus 10 WB	bus
 4499251	Valley Metro	60 EB	east	bus 60 EB	bus
 4499252	Valley Metro	60 WB	west	bus 60 WB	bus
-4499553	Valley Metro	PST		PHX Sky Train WB	tram
-4499554	Valley Metro	PST		PHX Sky Train EB	tram
+4499553	Valley Metro	PST	west		tram
+4499554	Valley Metro	PST	east		tram
 4512960				Arizona & California Railroad	railway
 4538094	Valley Metro	562	inbound		bus
 4538095	Valley Metro	562	outbound		bus
@@ -971,7 +971,7 @@
 9728165	lcn			Sinclair Wash Trail	bicycle
 9728171	lcn			Ponderosa Trail	bicycle
 9737057	lcn			Crosscut Canal Multi-Use Path	bicycle
-9737058	rcn	GC		Grand Canal Path	bicycle
+9737058	rcn	GC		Grand Canalscape	bicycle
 9737236	lcn			Western Canal Path	bicycle
 9740204	lcn			Eastern Canal Path	bicycle
 9740222	lcn			New River Trail	bicycle
