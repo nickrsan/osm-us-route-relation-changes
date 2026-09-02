@@ -278,6 +278,7 @@
 364716	US:NY	27		New York State Route 27	road
 366763	NYC Subway	L		NYCS - L Train: 8th Avenue → Canarsie–Rockaway Parkway	subway
 366767	NYC Subway	M		NYCS - M Train: Forest Hills–71st Avenue → Middle Village–Metropolitan Avenue	subway
+366770	NYC Subway	B		NYCS - B Train (am/pm rush): Brighton Beach → Bedford Park Boulevard	subway
 366771	NYC Subway	D		NYCS - D Train: Coney Island–Stillwell Avenue → Norwood–205th Street	subway
 366772	NYC Subway	F		NYCS - F Train: Coney Island–Stillwell Avenue → Jamaica–179th Street	subway
 366773	NYC Subway	Z		NYCS - Z Train (pm rush): Broad Street → Jamaica Center–Parsons/Archer	subway
@@ -1375,6 +1376,7 @@
 2806979	NYC Transit	B1		NYCB - B1 Manhattan Beach Kingsboro CC --> Bayridge 4th Avenue	bus
 2806987	NYC Transit	B2		NYCB - B2 East 16th Street & Quentin Road -> Flatbush Avenue & Avenue U	bus
 2806988	NYC Transit	B3		NYCB - B3 Bensonhurst -> Bergen Beach	bus
+2807092	NYC Transit	B4		NYCB - B4 Sheepshead Bay --> Bay Ridge	bus
 2807121	Amtrak	Cardinal		Amtrak Cardinal: Chicago => New York	train
 2833093					railway
 2872641	NYC Transit	Q100 LTD		NYCB - Q100 LTD Long Island City --> Rikers Island	bus
@@ -6240,7 +6242,6 @@
 9349074	Metro Bus	79		NFTA 79 Tonawanda	bus
 9349236	Regional Transit Service	22L	north	RTS 22L Lake (N)	bus
 9350581	Regional Transit Service	17	south	RTS 17 Jefferson/19th Ward (S)	bus
-9350583	Regional Transit Service	16	south	"RTS 16 Genesee (seasonal, S)"	bus
 9350584	Regional Transit Service	20	north	RTS 20 Lyell (N)	bus
 9350760	lcn			Lexington Avenue	bicycle
 9351905	Regional Transit Service	40	west	RTS 40 Ridge Crosstown (W)	bus
@@ -6267,7 +6268,6 @@
 9368615	Regional Transit Service	50	east	RTS 50 Fairport/Penfield (E)	bus
 9369806	Regional Transit Service	92	west	RTS 92 Hilton/Hamlin Commuter (W2)	bus
 9369809	Regional Transit Service	91	east	Bus 91: RTS Transit Center => Lyons	bus
-9370021	Regional Transit Service	42	east	RTS 42 Lyell/Upper Falls Crosstown (E)	bus
 9370022	Regional Transit Service	21S	north	RTS 21S Dewey (N)	bus
 9370661	Centro Syracuse	410X		Centro 410X Nedrow Express	bus
 9370662	Centro Syracuse	410		Centro 410 South Salina Street-Nedrow	bus
@@ -6752,7 +6752,7 @@
 11038758				BMT West End Line	railway
 11038759				BMT Franklin Avenue Line	railway
 11038760				Chrystie Street Connection	railway
-11038761	"Cancún, Quintana Roo, Mexico"	C1 B35 B1 b8 B9 b4 B64 R3 Belén bus tik tok coach bus Dima school bus company Dawn Transit LLCC		"Cancún, Quintana Roo, Mexico Brighton BMT Line"	bus
+11038761				BMT Brighton Line	railway
 11038762				BMT Fourth Avenue Line	railway
 11038763				BMT Nassau Street Line	railway
 11038764				BMT Broadway Line	railway
@@ -6833,7 +6833,8 @@
 11256100	NYC Subway	N		NYCS - N Train (weekends): Astoria–Ditmars Boulevard → Coney Island–Stillwell Avenue	subway
 11256101	NYC Subway	N		NYCS - N Train (weekends): Coney Island–Stillwell Avenue → Astoria–Ditmars Boulevard	subway
 11256102	NYC Subway	N		NYCS - N Train (late nights): Astoria–Ditmars Boulevard → Coney Island–Stillwell Avenue	subway
-11256103	NYC Subway	R Q B D N R F 1 2 3 4 5 6 7		NYCS - QTrain-N (late nights): Coney Island–Stillwell Avenue → 96th Street	subway
+11256103	NYC Subway	Q		NYCS - Q Train (late nights): Coney Island–Stillwell Avenue → 96th Street	subway
+11256104	NYC Subway	Q		NYCS - Q Train (late nights): 96th Street → Coney Island–Stillwell Avenue	subway
 11262661	Staten Island Railway	SIR		NYCS - Staten Island Railway (am rush): Great Kills → St. George	subway
 11262662	Staten Island Railway	SIR		NYCS - Staten Island Railway (am/pm rush): St. George → Great Kills	subway
 11280770				BMT 63rd Street Line	railway
@@ -7364,6 +7365,7 @@
 12322348	NYC Transit	B46		NYCB - B46 Kings Plaza --> Williamsburg Bridge Plaza	bus
 12322352	NYC Transit	B2		NYCB - B2 Flatbush Avenue & Avenue U -> Quentin Road & East 16th Street	bus
 12322358	NYC Transit	B3		NYCB - B3 Bergen Beach --> Bensonhurst	bus
+12322367	NYC Transit	B4		NYCB - B4 Bay Ridge --> Sheepshead Bay	bus
 12322379	NYC Transit	B9		NYCB - B9 Kings Plaza --> Bay Ridge	bus
 12322399	NYC Transit	B11		NYCB - B11 CUNY Brooklyn College --> Sunset Park	bus
 12325013				Montauk Highway	road
@@ -7954,6 +7956,7 @@
 14263146				Siwanoy Trail	foot
 14264133	LIRR	Montauk		LIRR Montauk Branch: New York Penn <=> Jamaica <=> Montauk	train
 14266207	Nassau Inter-County Express	n33	east		bus
+14268493	NYC Transit	B68		NYCB - B68: Coney Island => Windsor Terrace	bus
 14304922	US:NY:Dutchess	50		Dutchess County Route 50	road
 14304956	US:NY:Dutchess	114		Dutchess County Route 114	road
 14305607	NYC Transit	BM4		Bus BM4: Midtown Manhattan -> Gerritsen Beach	bus
@@ -8875,10 +8878,10 @@
 17597453	lcn			Erskine Street	bicycle
 17601461	lcn			Kew Gardens Interchange	bicycle
 17603810	Regional Transit Service	23	west	RTS 23 West Avenue/Airport (W1)	bus
-17603811	Regional Transit Service	24	north	RTS 24 Bay Street (N)	bus
+17603811	Regional Transit Service	24	north	Bay Street	bus
 17606310	Regional Transit Service	50	west	RTS 50 Fairport/Penfield (W1)	bus
 17606637	Regional Transit Service	23	east	RTS 23 West Avenue/Airport (E)	bus
-17606638	Regional Transit Service	24	south	RTS 24 Bay Street (S)	bus
+17606638	Regional Transit Service	24	south	Bay Street	bus
 17606639	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W1)	bus
 17607627	Regional Transit Service	20	south	RTS 20 Lyell (S)	bus
 17607628	Regional Transit Service	2	south	RTS 2 North Clinton (S)	bus
@@ -8903,8 +8906,6 @@
 17609321	Regional Transit Service	11L	west	RTS 11L Monroe (W)	bus
 17609322	Regional Transit Service	10	west	RTS 10 Park (W)	bus
 17611106	Regional Transit Service	17	north	RTS 17 Jefferson/19th Ward (N)	bus
-17611107	Regional Transit Service	16	north	"RTS 16 Genesee (seasonal, N1)"	bus
-17611108	Regional Transit Service	16	north	"RTS 16 Genesee (seasonal, N2)"	bus
 17611109	Regional Transit Service	15	north	RTS 15 Plymouth (N)	bus
 17611110	Regional Transit Service	14	north	RTS 14 Marketplace (N2)	bus
 17611111	Regional Transit Service	14	north	RTS 14 Marketplace (N1)	bus
@@ -8927,7 +8928,6 @@
 17615541				East Tremont Avenue	road
 17615548				West Tremont Avenue	road
 17616144	Regional Transit Service	70	south	Seabreeze Seasonal	bus
-17616145	Regional Transit Service	42	west	RTS 42 Lyell/Upper Falls Crosstown (W)	bus
 17616146	Regional Transit Service	41	north	Culver / Goodman Crosstown	bus
 17616147	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E2)	bus
 17616148	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E1)	bus
@@ -9046,8 +9046,8 @@
 17733917		32			power
 17738110		39			power
 17738111		38			power
-17739660	Regional Transit Service	16	south	RTS 16 Genesee (S)	bus
-17739661	Regional Transit Service	16	north	RTS 16 Genesee (N)	bus
+17739660	Regional Transit Service	16	south	Genesee	bus
+17739661	Regional Transit Service	16	north	Genesee	bus
 17739662	Regional Transit Service	2	south	"RTS 2 North Clinton (seasonal, S1)"	bus
 17739663	Regional Transit Service	2	north	"RTS 2 North Clinton (seasonal, N1)"	bus
 17744325	lcn			Cypress Avenue	bicycle
@@ -9068,8 +9068,8 @@
 17759777	Regional Transit Service	6	south	"RTS 6 North Goodman (seasonal, S2)"	bus
 17759778	Regional Transit Service	6	north	"RTS 6 North Goodman (seasonal, N1)"	bus
 17759779	Regional Transit Service	5	south	"RTS 5 Portland (seasonal, S1)"	bus
-17761445	Regional Transit Service	8	west	Bus 8: Landing Heights => Transit Center	bus
-17761446	Regional Transit Service	8	east	Bus 8: Transit Center => Landing Heights	bus
+17761445	Regional Transit Service	8	west	East Main	bus
+17761446	Regional Transit Service	8	east	East Main	bus
 17766623	lcn			Greenwich Avenue	bicycle
 17774183	lcn			Seaview Avenue	bicycle
 17778042	lcn			Flatbush Greenway Connection	bicycle
@@ -11693,6 +11693,7 @@
 21253752	lcn			Stanley Avenue	bicycle
 21256831		ADA		Bus ADA	bus
 21256832	Univerity of Rochester	ADA		Bus ADA	bus
-21291007					bus
-21300227	lwn	C1			bus
 21304000				Dennings Point Trail	hiking
+21311386				Green Trail	hiking
+21311387				Blue Trail	hiking
+21311388				Yellow Trail	hiking

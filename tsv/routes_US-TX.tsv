@@ -2984,6 +2984,7 @@
 2683932	US:TX:FM	2093			road
 2683949	US:TX:FM	1340			road
 2683951	US:TX:FM	1338			road
+2684670	US:US:Business	54			road
 2688571	rcn	TFT		Trinity Forest Trail	bicycle
 2688573	rwn			Trinity Forest Trail	hiking
 2688897	US:US:Business	181			road
@@ -11904,3 +11905,6 @@
 21193391	US:TX:Cooke	321			road
 21253030	US:TX:Montague	249			
 21296353					foot
+21311249	US:US:Truck	77			road
+21311250	US:US:Truck	83			road
+21311251	US:I:Truck	69E			road

@@ -5176,7 +5176,7 @@
 14039506	lwn				hiking
 14039507	lwn			Redwood Grove Loop Trail	hiking
 14039508	lwn				hiking
-14039872	BLFX			Brightline West	railway
+14039872	BLFX			Brightline West	train
 14040474	lwn			Pipeline Road	hiking
 14040997	Amtrak Thruway	39		39 - Fullerton - Palm Springs - Coachella Valley	bus
 14049553				Palm Canyon Epic	bicycle
@@ -7705,3 +7705,6 @@
 21304916	lcn			Venta Spur Trail	bicycle
 21305060	Santa Rosa CityBus	2		Santa Rosa CityBus 2: Santa Rosa Transit Mall => Corp. Ctr. Pkwy at Mercury Way	bus
 21305061	Santa Rosa CityBus	2		Santa Rosa CityBus 2: Corp. Ctr. Pkwy at Mercury Way => Santa Rosa Transit Mall	bus
+21310079	Santa Rosa CityBus	2B		Santa Rosa CityBus 2B: Santa Rosa Transit Mall => Wright Rd at SRJC SW Campus	bus
+21310080	Santa Rosa CityBus	2B		Santa Rosa CityBus 2B: Wright Rd at SRJC SW Campus => Santa Rosa Transit Mall	bus
+21311551				Brightline West	railway
