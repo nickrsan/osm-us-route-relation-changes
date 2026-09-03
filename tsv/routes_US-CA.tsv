@@ -5942,11 +5942,11 @@
 16742576	Metro Local	48		Metro 48 Northbound	bus
 16742577	Metro Local	48		Metro 48 Southbound (short turn)	bus
 16742578	Metro Local	48		Metro 48 Southbound	bus
-16759152	SRCB	3		Bus 3: Downtown Transit Mall => Elsa Dr at Santa Rosa Ave	bus
+16759152	Santa Rosa CityBus	3		Bus 3: Downtown Transit Mall => Elsa Dr at Santa Rosa Ave	bus
 16759394	lwn			Clouds Rest Trail	hiking
 16759395	lwn			Sunrise Lakes Trail	hiking
 16759396	lwn			Ten Lakes Trail	hiking
-16761404	SRCB	3		Bus 3: Elsa Dr at Santa Rosa Ave => Downtown Transit Mall	bus
+16761404	Santa Rosa CityBus	3		Bus 3: Elsa Dr at Santa Rosa Ave => Downtown Transit Mall	bus
 16782841	US:CA:Business	58		State Route 58 Business	road
 16795000	lwn			Harding Nature Trail	hiking
 16800533	lcn				bicycle
@@ -6272,8 +6272,8 @@
 18050163	Tehama Rural Area Express	3B		3B - Gerber - Los Molinos - Red Bluff	bus
 18052024				Long Beach Grand Prix Course	road
 18056384	El Dorado Transit	30		30 - Diamond Springs	bus
-18057702	SRCB	1		Bus 1: Downtown Transit Mall => Coddingtown Mall	bus
-18057704	SRCB	1		Bus 1: Coddingtown Mall => Downtown Transit Mall	bus
+18057702	Santa Rosa CityBus	1		Bus 1: Downtown Transit Mall => Coddingtown Mall	bus
+18057704	Santa Rosa CityBus	1		Bus 1: Coddingtown Mall => Downtown Transit Mall	bus
 18064820	El Dorado Transit	40		40 - Cameron Park	bus
 18068988	El Dorado Transit	50X		50X - 50 Express	bus
 18077298	Tehama Rural Area Express	RTR		Rancho Tehama Express	bus
@@ -7708,3 +7708,6 @@
 21310079	Santa Rosa CityBus	2B		Santa Rosa CityBus 2B: Santa Rosa Transit Mall => Wright Rd at SRJC SW Campus	bus
 21310080	Santa Rosa CityBus	2B		Santa Rosa CityBus 2B: Wright Rd at SRJC SW Campus => Santa Rosa Transit Mall	bus
 21311551				Brightline West	railway
+21319143				Mine Okubo Drive	road
+21320102	Santa Rosa CityBus	4		"Santa Rosa CityBus 4: Santa Rosa Transit Mall => Santa Rosa Transit Mall via Montecito Center, Maria Carillo High School"	bus
+21320104	Santa Rosa CityBus	4B		"Santa Rosa CityBus 4B: Santa Rosa Transit Mall => Santa Rosa Transit Mall via Maria Carillo High School, Montecito Center"	bus
