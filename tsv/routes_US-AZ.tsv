@@ -1458,7 +1458,7 @@
 16252912	US:AZ:Scenic	Fredonia – Vermillion Cliffs Scenic Road		Fredonia – Vermillion Cliffs Scenic Road	road
 16252962	US:AZ:Scenic	Kaibab Plateau – North Rim Parkway		Kaibab Plateau – North Rim Parkway (AZ Scenic)	road
 16252976	US:AZ:Scenic	Dry Creek Scenic Road		Dry Creek Scenic Road	road
-16286053	US:BIA	15		Navajo Route 15	road
+16286053	US:Navajo	15		Navajo Route 15	road
 16286054	US:AZ:Coconino	505		Coconino County Road 505	road
 16331318				Línea TC	tracks
 16389010	US:AZ:Mohave	131		County Road 131	road
@@ -1704,3 +1704,6 @@
 21254256	US:BIA	6250		Navajo Route 6250	road
 21254257	US:BIA	H7		Hopi Route 7	road
 21260388	US:AZ:Indian	2		Indian Route 2	road
+21322685	US:Navajo	2			road
+21323063	US:Navajo	6812			road
+21323064	US:AZ:Indian	58			road

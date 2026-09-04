@@ -294,7 +294,7 @@
 1614060	rcn	ETT		Elgin Township Trail	bicycle
 1614091	rcn	RBT		River Bend Trail	bicycle
 1614092	rcn	RRT		Randall Road Trail	bicycle
-1614101	rcn	KFT		Kirk-Fabyan Regional trail	bicycle
+1614101	rcn	KFT		Kirk-Fabyan Regional Trail	bicycle
 1617619	US:IL	1			road
 1617806	US:IL	2			road
 1617808	US:IL	4			road
@@ -856,8 +856,8 @@
 6370348				NIU Bicycle Network	bicycle
 6370354	lcn			DeKalb Sycamore Bicycle Network	bicycle
 6391383	Pace	223-X	west	Bus 223-X: Rosemont CTA Station => Tower/Mark	bus
-6403700	Pace	471		Highland Park-Northbrook Court	bus
-6403777	Pace	472		Highland Park - Highwood	bus
+6403700	Pace	471	south	Bus 471: Highland Park Metra Station -> Northbrook Court	bus
+6403777	Pace	472	north	Bus 472: Route 41/Park -> Fort Sheridan Metra Station	bus
 6445457	CTA	130	east	Bus 130: Ogilvie Transit Center -> Museum Campus	bus
 6498187	Pace	905	north	Bus 905: Pace Northwest Transportation Center → Renaissance Schaumburg Hotel and Convention Center	bus
 6518827	Pace	626	north	Bus 626: Dempster-Skokie CTA Station => Lincolnshire Business Center	bus
@@ -2107,8 +2107,6 @@
 13767433	lwn			Constitution Trail Southtown Branch	foot
 13780994	Pace	533		Bus 533: Lily/Molitor => Aurora Transportation Center	bus
 13780995	Pace	533		Bus 533: Aurora Transportation Center => Marshall/Farnsworth	bus
-13780996	Pace	533		Bus 533: Simmons Middle School => Aurora Transportation Center	bus
-13780997	Pace	533		Bus 533: Aurora Transportation Center => Simmons Middle School	bus
 13781002	Pace	533		Bus 533: Walmart East Side of Parking Lot => Aurora Transportation Center	bus
 13800892	CTA	206	south	Bus 206: Central/Crawford -> Howard Red Line Station AM	bus
 13800893	CTA	206	south	Bus 206: Central/Crawford -> Howard Red Line Station PM	bus
@@ -3322,3 +3320,7 @@
 21254394				County Road 900 East	road
 21300762	Pace	385	north	Bus 385: Rivercrest Shopping Center => Midway CTA Orange Line Station	bus
 21304260				East Lake Edward Lane	road
+21323642	Pace	471	north	Bus 471: Northbrook Court -> Highland Park Metra Station	bus
+21323674	Pace	472	south	Bus 472: Fort Sheridan Metra Station -> US 41/Park	bus
+21323692	Pace	471	south	Bus 471: Highland Park Metra Station -> Crossroads Shopping Center	bus
+21323693	Pace	471	north	Bus 471: Crossroads Shopping Center -> Highland Park Metra Station	bus
