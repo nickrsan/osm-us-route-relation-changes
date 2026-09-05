@@ -32,7 +32,7 @@
 557365	lcn			Linear Trail	bicycle
 576384	lcn			Manhattan River Trails	bicycle
 899040	lcn			Arkansas River Bicycle Path	bicycle
-904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+904839	Amtrak		east		train
 908972	lhn			Konza Prairie Nature Trail	hiking
 1029438	US:KS	113			road
 1076513	US:KS	18		KS 114	road
@@ -407,8 +407,7 @@
 4219625					power
 4219626					power
 4510855	US:KS	209		KS 209	road
-4673773				Southern Transcon	railway
-4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4720713	Amtrak		west		train
 4775973	US:KS	168		KS 168	road
 4782777	lwn			Western Heritage Trail	hiking
 5259092		1		Downtown to Prairie Park	bus

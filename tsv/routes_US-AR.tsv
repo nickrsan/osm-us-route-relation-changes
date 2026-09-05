@@ -628,7 +628,6 @@
 7524690				Wagoner Subdivision	railway
 7593080	lcn			Hoxie to Walport Trail	bicycle
 7707321	US:US:Business	167B			road
-8318009	US:AR	612			road
 8415611					power
 9069150	US:US	62B			road
 9069225	US:I	49	south		road
@@ -1788,5 +1787,6 @@
 20993670	lcn	Take-Off		Cleared for Take-Off	mtb
 21199394					bicycle
 21199498					bicycle
-21322895	US:I	42	west		road
-21322896	US:I	42	east		road
+21322895	US:I	42	west	Interstate 42 Westbound	road
+21322896	US:I	42	east	Interstate 42 Eastbound	road
+21356501	US:AR	642		Arkansas Highway 642	road

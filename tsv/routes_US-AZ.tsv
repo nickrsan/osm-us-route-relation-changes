@@ -8,7 +8,7 @@
 271767	US:US	70			road
 297142	Amtrak	Sunset Limited		Amtrak Sunset Limited: New Orleans => Los Angeles	train
 337352	US:I	40	west		road
-904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+904839	Amtrak		east		train
 1023471	lcn	MT		Mountain Avenue	bicycle
 1023472	lcn	Rillito		Rillito River Path	bicycle
 1023510	lcn			Bear Down Bikeway	bicycle
@@ -20,7 +20,7 @@
 1023652	lcn			Tucson	bicycle
 1023653	lcn			Columbus Boulevard	bicycle
 1320650	US:NHS:HPC			High-Priority Corridor 26	road
-1453756				Seligman Subdivision	railway
+1453756		BNSF		Seligman Subdivision	railway
 1453757				Gallup Subdivision	railway
 1453787				Phoenix Subdivision	railway
 1483097	US:NM	53			road
@@ -411,7 +411,6 @@
 4670720	lwn			Bug Springs Trail	hiking
 4670721	lwn			Italian Spring Trail #95	hiking
 4670732	lwn			Bellota Trail #15	hiking
-4673773				Southern Transcon	railway
 4681197	US:AZ:Business			AZ 40 Business	road
 4681221	US:I:Business:Spur	40		"I 40 Business Spur (Winslow, AZ)"	road
 4681322	US:AZ:Business			State Business Route 8	road
@@ -420,7 +419,7 @@
 4683731	US:US	163			road
 4683741	US:US	160		Navajo Trail	road
 4717133	rwn			Prescott Circle Trail	hiking
-4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4720713	Amtrak		west		train
 4740475				Apache Railway (Snowflake - McNary - Maverick section)	railway
 4848173	lwn			Bear Flat Trail #178	hiking
 4848941	lwn	270B		Crest Trail #270B	hiking

@@ -325,7 +325,7 @@
 553280				West Balboa Boulevard	road
 571791	lcn	17		Long Beach Bicycle Route 17	bicycle
 576264	lcn	10		Long Beach Bicycle Route 10	bicycle
-904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+904839	Amtrak		east		train
 915719	lcn			Burlingame Bicycle Routes	bicycle
 937090	US:CA:CR	N4			road
 937190	Long Beach Transit	91		Long Beach Transit 91	bus
@@ -440,7 +440,7 @@
 1355091	lcn	80			bicycle
 1371791	NCTD	399		SPRINTER: Oceanside => Escondido	light_rail
 1373347	US:CA:CR	S6			road
-1453756				Seligman Subdivision	railway
+1453756		BNSF		Seligman Subdivision	railway
 1476971				Cajon Subdivision	railway
 1477496				Needles Subdivision	railway
 1477499				San Bernardino Subdivision	railway
@@ -1781,7 +1781,7 @@
 4710758				California Western Railroad	railway
 4710759				Skunk Train	train
 4713797	Amtrak	Gold Runner	south	Amtrak Gold Runner: Sacramento => Bakersfield	train
-4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4720713	Amtrak		west		train
 4727062				NCTD San Diego Subdivision	railway
 4729047	SDMTS	Silver		Silver Line	tram
 4740795	BART	OAK		BART Oakland Airport Connector: Coliseum => OAK Airport	monorail

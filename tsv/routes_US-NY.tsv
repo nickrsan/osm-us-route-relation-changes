@@ -6257,7 +6257,7 @@
 9367427	Regional Transit Service	4	north	RTS 4 Hudson (N)	bus
 9367428	Regional Transit Service	6	north	RTS 6 North Goodman (N)	bus
 9367429	Regional Transit Service	11S	east	RTS 11S Monroe (E)	bus
-9367430	Regional Transit Service	10	east	RTS 10 Park (E)	bus
+9367430	Regional Transit Service	10	outbound	Park	bus
 9368439	Regional Transit Service	12	south	RTS 12 South Clinton (S1)	bus
 9368441	Regional Transit Service	9	outbound	University	bus
 9368442	Regional Transit Service	11L	east	RTS 11L Monroe (E)	bus
@@ -8006,7 +8006,7 @@
 14396565	NYC Ferry	RWS	northbound	Rockaway-Soundview	ferry
 14396566	NYC Ferry	SBK	northbound	South Brooklyn	ferry
 14396567	NYC Ferry	ER	northbound	East River Local	ferry
-14397507	NYC Ferry	AST	northbound	Astoria	ferry
+14397507	NYC Ferry	AST	north		ferry
 14429181	NYC Transit	SIM2		NYCB - SIM2 Downtown --> Tottenville	bus
 14442624	US:NY				road
 14444613				Main Slope	piste
@@ -8902,7 +8902,7 @@
 17609319	Regional Transit Service	12	north	RTS 12 South Clinton (N2)	bus
 17609320	Regional Transit Service	11S	west	RTS 11S Monroe (W)	bus
 17609321	Regional Transit Service	11L	west	RTS 11L Monroe (W)	bus
-17609322	Regional Transit Service	10	west	RTS 10 Park (W)	bus
+17609322	Regional Transit Service	10	inbound	Park	bus
 17611106	Regional Transit Service	17	north	RTS 17 Jefferson/19th Ward (N)	bus
 17611109	Regional Transit Service	15	north	RTS 15 Plymouth (N)	bus
 17611110	Regional Transit Service	14	north	RTS 14 Marketplace (N2)	bus
@@ -11175,7 +11175,7 @@
 20249419	lwn			Darning Needle Pond Trail	hiking
 20252284	NYC Ferry	ERB	southbound	East River B	ferry
 20252285	NYC Ferry	ERA	southbound	East River A	ferry
-20252286	NYC Ferry	AST	southbound	Astoria	ferry
+20252286	NYC Ferry	AST	south		ferry
 20252287	NYC Ferry	ER	southbound	East River Local	ferry
 20252288	NYC Ferry	SBK	southbound	South Brooklyn	ferry
 20252289	NYC Ferry	RWS	southbound	Rockaway-Soundview	ferry

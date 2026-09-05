@@ -109,7 +109,7 @@
 448197	US:US	45			road
 448495	US:US	51			road
 530401	US:GRR			Great River Road (Illinois - other routes)	road
-904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+904839	Amtrak		east		train
 932961	Metra	UP-W	west	Metra Union Pacific West: Ogilvie Transportation Center => Elburn	train
 932962	Metra	UP-N	south	Metra Union Pacific North: Kenosha => Ogilvie Transportation Center	train
 932963	Metra	UP-NW	north	Metra Union Pacific Northwest: Ogilvie Transportation Center => Harvard	train
@@ -718,7 +718,7 @@
 4235193	CTA	75	west	Bus 75: 75th/Lakefront -> 79th/Western	bus
 4235248	CTA	79	east	Bus 79: Ford City -> 79th/South Shore	bus
 4235358	CTA	87	west	Bus 87: 91st/Commercial -> 87th/Cicero	bus
-4237062	CTA	56	south	Bus 56: Jeff Park Transit Center -> Washignton/Michigan	bus
+4237062	CTA	56	south	Bus 56: Jefferson Park Transit Center -> Washington/Wabash	bus
 4243502	CTA	112	west	Bus 112: 95th/Dan Ryan Red Line Station -> 111th/Pulaski	bus
 4243504	CTA	115	north	Bus 115: 117th/Marshfield -> 95th/Dan Ryan Red Line Station	bus
 4243506	CTA	103	east	Bus 103: 104th/Pulaski -> 95th/Dan Ryan Red Line Station	bus
@@ -784,7 +784,7 @@
 4683450	Pace	310	west	Bus 310: Forest Park CTA Station -> Harrison/Wolf	bus
 4683493	Pace	311	south	Bus 311: North/Narragansett -> 47th/Lawndale	bus
 4683612	Pace	313		St. Charles Road	bus
-4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4720713	Amtrak		west		train
 4732506	US:IL:Macon	28			road
 4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
 4744150	Amtrak	Carl Sandburg/Illinois Zephyr		Amtrak Carl Sandburg/Illinois Zephyr: Chicago => Quincy	train
@@ -1757,7 +1757,7 @@
 11848428	lcn	Dodge		Dodge Avenue	bicycle
 11851451	Amtrak	Pere Marquette		Amtrak Pere Marquette: Grand Rapids => Chicago	train
 11852931	lcn			Downtown - United Center	bicycle
-11853252	lcn			Downtown - Damer Avenue - Humboldt Park	bicycle
+11853252	lcn			Downtown - Damen Avenue - Humboldt Park	bicycle
 11853255	lcn				bicycle
 11867165	lcn	Central Park		Central Park Avenue	bicycle
 11867166	lcn	Northeast		Northeast Parkway	bicycle

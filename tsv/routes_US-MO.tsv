@@ -279,7 +279,7 @@
 531907	US:MO	2			road
 549983	US:MO:Supplemental	JJ			road
 549987	US:MO:Supplemental	Z			road
-904839	Amtrak	Southwest Chief	east	Amtrak Southwest Chief: Los Angeles => Chicago	train
+904839	Amtrak		east		train
 1024803	US:MO	350			road
 1059604	US:MO:Supplemental	V			road
 1059606	US:MO:Supplemental	C			road
@@ -576,7 +576,7 @@
 4466004	Tiger Line	401		Hearnes Loop	bus
 4652182	rwn	R2R		River to River Segment 7 - Alto Pass to Devil's Backbone	hiking
 4681285				"Kansas City, Clay County & St Joseph Railroad"	railway
-4720713	Amtrak	Southwest Chief	west	Amtrak Southwest Chief: Chicago => Los Angeles	train
+4720713	Amtrak		west		train
 4743862	Amtrak	Missouri River Runner		Amtrak Missouri River Runner: Saint Louis => Kansas City	train
 4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
 5011764				Blue route	bus
@@ -689,6 +689,7 @@
 6993791					power
 6993792					power
 6993793					power
+7022309	US:MO:Supplemental	F			road
 7138073				Ozark Valley Railroad	railway
 7138096				Central Belt Sub	railway
 7140943				Columbia Terminal Railroad	railway
@@ -1380,7 +1381,7 @@
 12544231	RideKC	569		South OP Express	bus
 12544404	RideKC	595		Gardner-OP Express	bus
 12555642	RideKC	29		Blue Ridge Limited	bus
-12635921		MM		"State Highway MM (Etterville, MO)"	US:MO:Supplemental
+12635921	US:MO:Supplemental	MM			road
 12686710		TRRA			railway
 12703591	lcn			Big Shoal Creek Trail	bicycle
 12804906	Greyhound	US0185		"Greyhound US0185 - Nashville, TN-Evansville, IN, Saint Louis, MO"	bus
@@ -1646,7 +1647,7 @@
 16122355	US:MO:Supplemental	PP			road
 16122356	US:MO:Supplemental	TT			road
 16122357	US:MO:Supplemental	K			road
-16122471	US:MO:Supplemental	B		Missouri Route B (Pemiscot County)	road
+16122471	US:MO:Supplemental	B		Missouri Route B (Pemiscot/New Madrid County)	road
 16122472	US:MO:Supplemental	J		Missouri Route J (Pemiscot County)	road
 16122473	US:MO:Supplemental	BB			road
 16122542	US:MO:Supplemental	E		Missouri Route E (Pemiscot County)	road
@@ -2392,7 +2393,6 @@
 17762516	US:MO:Supplemental	EE			road
 17763325	US:MO:Supplemental	M		MIssouri Route M (Pemiscot County)	road
 17763399	US:MO:Supplemental	F		Missouri Route F (Pemiscot County)	road
-17763416	US:MO:Supplemental			Missouri Route B (New Madrid County)	road
 17763483	US:MO:Supplemental	PP		Missouri Route PP (New Madrid County)	road
 17763484	US:MO:Supplemental	YY		Missouri Route YY (New Madrid County)	road
 17763485	US:MO:Supplemental	YY		Missouri Route YY (Pemiscot County)	road
@@ -2487,7 +2487,7 @@
 17937507	US:MO:Supplemental	OO			road
 17937508	US:MO:Supplemental	DD			road
 17938074	US:MO:Supplemental	J			road
-17940767	US:MO:Supplemental			Missouri Route RA (Texas County)	
+17940767	US:MO:Supplemental	RA			road
 17940867	US:MO:Supplemental	M		Missouri Route M (Texas County)	road
 17940868	US:MO:Supplemental	YY		Missouri Route YY (Texas County)	road
 17940869	US:MO:Supplemental	Z		Missouri Route Z (Texas County)	road
@@ -2873,7 +2873,7 @@
 18962433	US:MO:Supplemental	Z			road
 18962434	US:MO:Supplemental	W			road
 18962435	US:MO:Supplemental	CC			road
-18962436	US:MO:Supplemental				road
+18962436	US:MO:Supplemental	V			road
 18962437	US:MO:Supplemental	A			road
 18981212	lwn			Multi-Use Trail B	hiking
 18981213	lwn			Multi-Use Trail A	hiking
@@ -3047,7 +3047,6 @@
 19888729	US:MO:Supplemental	M			road
 19888730	US:MO:Supplemental	WW			road
 19888731	US:MO:Supplemental	OO			road
-19916198	US:MO:Supplemental	MO AA			road
 19916199	US:MO:Supplemental	MO AA			road
 19916200	US:MO:Supplemental	MO U			road
 19916201	US:MO:Supplemental	MO Z			road
@@ -3115,7 +3114,7 @@
 20679849	US:MO:Supplemental	M			road
 20679850	US:MO:Supplemental	H			road
 20679851	US:MO:Supplemental	YY			road
-20679852	US:MO:Supplemental				road
+20679852	US:MO:Supplemental	TT			road
 20679853	US:MO:Supplemental	MM			road
 20679854	US:MO:Supplemental	UU			road
 20679855	US:MO:Supplemental	PP			road
@@ -3298,5 +3297,109 @@
 21257652	US:MO:Supplemental	EE		"Missouri Route EE (Vernon, St. Clair, Cedar County)"	road
 21257653	US:MO:Supplemental	OO		Missouri Route OO (Vernon County)	road
 21257879	US:MO:Supplemental	C		Missouri Route C (Vernon County)	road
-21257880	US:MO:Supplemental			Missouri Route AA (Vernon County)	road
+21257880	US:MO:Supplemental	AA		Missouri Route AA (Vernon County)	road
 21270074	lcn			I-270 North Multiuse Path	bicycle
+21355917	US:MO:Supplemental	P			road
+21355918	US:MO:Supplemental	FF			road
+21355919	US:MO:Supplemental	Z			road
+21355920	US:MO:Supplemental	V			road
+21355921	US:MO:Supplemental	D			road
+21355922	US:MO:Supplemental	HH			road
+21355923	US:MO:Supplemental	F			road
+21355924	US:MO:Supplemental	H			road
+21355925	US:MO:Supplemental	E			road
+21355926	US:MO:Supplemental	PP			road
+21355927	US:MO:Supplemental	A			road
+21355928	US:MO:Supplemental	TT			road
+21355929	US:MO:Supplemental	BB			road
+21355930	US:MO:Supplemental	K			road
+21355931	US:MO:Supplemental	EE			road
+21355932	US:MO:Supplemental	C			road
+21355933	US:MO:Supplemental	KK			road
+21355934	US:MO:Supplemental	U			road
+21355988	US:MO:Supplemental	D			road
+21355989	US:MO:Supplemental	E			road
+21355990	US:MO:Supplemental	H			road
+21355991	US:MO:Supplemental	BB			road
+21355992	US:MO:Supplemental	CC			road
+21356059	US:MO:Supplemental	AA			road
+21356060	US:MO:Supplemental	JJ			road
+21356061	US:MO:Supplemental	V			road
+21356062	US:MO:Supplemental	N			road
+21356063	US:MO:Supplemental	Y			road
+21356064	US:MO:Supplemental	E			road
+21356065	US:MO:Supplemental	W			road
+21356066	US:MO:Supplemental	HH			road
+21356067	US:MO:Supplemental	DD			road
+21356068	US:MO:Supplemental	EE			road
+21356069	US:MO:Supplemental	Z			road
+21356070	US:MO:Supplemental	H			road
+21356071	US:MO:Supplemental	P			road
+21356171	US:MO:Supplemental	Z			road
+21356172	US:MO:Supplemental	DD			road
+21356173	US:MO:Supplemental	NN			road
+21356174	US:MO:Supplemental	EE			road
+21356175	US:MO:Supplemental	A			road
+21356176	US:MO:Supplemental	E			road
+21356177	US:MO:Supplemental	BB			road
+21356178	US:MO:Supplemental	H			road
+21356179	US:MO:Supplemental	JJ			road
+21357153	US:MO:Supplemental	J			road
+21357154	US:MO:Supplemental	HH			road
+21357155	US:MO:Supplemental	NN			road
+21357156	US:MO:Supplemental	O			road
+21357157	US:MO:Supplemental	A			road
+21357158	US:MO:Supplemental	YY			road
+21357159	US:MO:Supplemental	JJ			road
+21357160	US:MO:Supplemental	K			road
+21357161	US:MO:Supplemental	EE			road
+21357162	US:MO:Supplemental	WW			road
+21357163	US:MO:Supplemental	KK			road
+21357164	US:MO:Supplemental	B			road
+21357165	US:MO:Supplemental	M			road
+21357166	US:MO:Supplemental	VV			road
+21357167	US:MO:Supplemental	UU			road
+21357168	US:MO:Supplemental	CC			road
+21357169	US:MO:Supplemental	OO			road
+21357170	US:MO:Supplemental	ZZ			road
+21357171	US:MO:Supplemental	DD			road
+21357172	US:MO:Supplemental	U			road
+21357173	US:MO:Supplemental	N			road
+21357174	US:MO:Supplemental	F			road
+21357175	US:MO:Supplemental	T			road
+21357176	US:MO:Supplemental	AB			road
+21357177	US:MO:Supplemental	W			road
+21357178	US:MO:Supplemental	FF			road
+21357179	US:MO:Supplemental	PP			road
+21357180	US:MO:Supplemental	H			road
+21357181	US:MO:Supplemental	MM			road
+21357182	US:MO:Supplemental	Y			road
+21357183	US:MO:Supplemental	E			road
+21357184	US:MO:Supplemental	TT			road
+21357185	US:MO:Supplemental	P			road
+21357186	US:MO:Supplemental	C			road
+21357187	US:MO:Supplemental	V			road
+21357188	US:MO:Supplemental	BB			road
+21357411	US:MO:Supplemental	F			road
+21357412	US:MO:Supplemental	EE			road
+21357413	US:MO:Supplemental	T			road
+21357414	US:MO:Supplemental	P			road
+21357415	US:MO:Supplemental	VV			road
+21357416	US:MO:Supplemental	MM			road
+21357417	US:MO:Supplemental	Y			road
+21357418	US:MO:Supplemental	O			road
+21357419	US:MO:Supplemental	AA			road
+21357420	US:MO:Supplemental	FF			road
+21357421	US:MO:Supplemental	DD			road
+21357422	US:MO:Supplemental	M			road
+21357423	US:MO:Supplemental	KK			road
+21357424	US:MO:Supplemental	OO			road
+21357425	US:MO:Supplemental	U			road
+21357426	US:MO:Supplemental	W			road
+21357427	US:MO:Supplemental	H			road
+21357644	lwn			Lake Wappapello Trail	hiking
+21357645	lcn			Lake Wappapello Trail	mtb
+21357646	lwn			Ozark Trail - Wappapello Section	hiking
+21357647	lcn			Ozark Trail - Wappapello Section	mtb
+21357648	lhn			Ozark Trail - Wappapello Section	horse
+21357649	lhn			Lake Wappapello Trail	horse
