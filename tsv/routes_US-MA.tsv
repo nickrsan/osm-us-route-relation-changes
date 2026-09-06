@@ -543,7 +543,7 @@
 8330631	MBTA	26		26 Inbound: Ashmont Station => Norfolk Street => Gallivan Boulevard	bus
 8330632	MBTA	24		24 Inbound: Wakefield Avenue & Truman Parkway => Ashmont Station	bus
 8330825	MBTA	66		66 Inbound: Harvard Square => Allston => Nubian Station	bus
-8330826	MBTA	65		65 Inbound: Brighton Center => Kenmore Station	bus
+8330826	MBTA	65		65 Inbound: Brighton Center => Ruggles Station	bus
 8330827	MBTA	64		64 Inbound: Oak Square => Kendall/MIT	bus
 8330828	MBTA	62		62 Inbound: Bedford VA Hospital=> Alewife Station	bus
 8330829	MBTA	60		60 - Chestnut Hill - Kenmore Station	bus
@@ -1511,7 +1511,7 @@
 16686092	MBTA	52		52 Outbound: Watertown Yard => Dedham Mall	bus
 16686653	MBTA	52		52 Outbound: Watertown Yard => Charles River Loop	bus
 16686654	MBTA	52		52 Inbound: Charles River Loop => Watertown Yard	bus
-16703295	MBTA	65		65 Outbound: Kenmore Station => Brighton Center	bus
+16703295	MBTA	65		65 Outbound: Ruggles Station => Brighton Center	bus
 16711684	lwn			Edmund Hill Trail	hiking
 16719261				Great River Race	canoe
 16719262				Bridle Trail	horse

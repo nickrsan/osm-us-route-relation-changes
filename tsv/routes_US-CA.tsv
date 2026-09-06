@@ -1905,7 +1905,7 @@
 6142388				Museum Railway	train
 6143925	MTS	992		MTS 992	bus
 6153823				Lucerne Valley Subdivision	railway
-6159026				Blue	railway
+6159026				Blue Line	railway
 6159028				Orange	railway
 6159081				Green	railway
 6159489				Coronado	railway
@@ -3657,7 +3657,7 @@
 9638971	VVTA	29		29 - Barstow - Newberry Springs	bus
 9638972	VVTA	28		28 - Barstow - Helendale	bus
 9638973	VVTA	6		6 - Barstow City Hall - Rimrock + N Street	bus
-9638974	VVTA	3		3 - Barstow City Hall - Lenwood	bus
+9638974	VVTA	3			bus
 9638975	VVTA	2		2 - Barstow City Hall - Barstow College	bus
 9638976	VVTA	1		1 - Barstow City Hall - Walmart	bus
 9638977	VVTA	47		47 - Apple Valley Post Office - Bear Valley + Navajo	bus
@@ -4903,8 +4903,8 @@
 13462741	SunLine Transit Agency	9		North Shore-mecca-oasis	bus
 13463135				San Diego Flyer: Terminals 1 and 2 => Old Town	bus
 13463136				San Diego Flyer: Old Town => Terminal 1 and 2	bus
-13466482	SDMTS	510		UC San Diego Blue Line: UTC => San Ysidro Transit Center	light_rail
-13466483	SDMTS	510		UC San Diego Blue Line: San Ysidro Transit Center => UTC	light_rail
+13466482	SDMTS	510	south		light_rail
+13466483	SDMTS	510	north		light_rail
 13466734	MTS	8		Bus 8: Balboa Avenue Transit Center => Old Town Transit Center	bus
 13467055	MTS	27		Bus 27: Kearny Mesa => Pacific Beach	bus
 13467365	MBTA	1		Yucca Valley-Twentynine Palms	bus
@@ -4932,8 +4932,8 @@
 13498101	SunLine Transit Agency	7		Bermuda Dunes - Indian Wells - La Quinta	bus
 13498841				Colusa National Wildlife Refuge Auto Tour Route	road
 13505000	MTS	120		Bus 120: Sharp Hospital => Downtown	bus
-13505001	MTS	120		Bus 120: Downtown => Sharp Hospital	bus
-13505002	MTS	120		Bus 120: Downtown => Kearny Mesa Transit Center	bus
+13505001	MTS	120			bus
+13505002	MTS	120			bus
 13505003	MTS	120		Bus 120: Kearny Mesa Transit Center => Downtown	bus
 13505037	MTS	140		Bus 140: Balboa Avenue Transit Center => La Jolla	bus
 13506047	Flixbus	N2002		Flixbus N2002: Palm Springs Downtown =>Richmond BART	bus
@@ -5042,7 +5042,7 @@
 13832392	Tulare County Regional Transit Agency	D1		D1 Dollar Tree- Tropicana Market- Viscaya Gardens	bus
 13836907	Kings Area Regional Transit	12		Route 12 – Avenal	bus
 13837444	Eastern Sierra Transit	Bridgeport		Bridgeport to Carson City	bus
-13841603	Amtrak Thruway	1A		Route 1 - Fresno/Bakersfield • Los Angeles • Santa Ana • Oceanside • San Diego	bus
+13841603	Amtrak Thruway	1A		Route 1	bus
 13842853	Tulare County Regional Transit Agency	D2		D2 Senior Center- Northpark Apts- Mercantile Row	bus
 13843125	Tulare County Regional Transit Agency	D3		D3 Jefferson School– Rancho Vista– DPW	bus
 13843187	Tulare County Regional Transit Agency	D4		D4 Walmart- Housing Authority- Delgado Park	bus
@@ -7341,7 +7341,6 @@
 20107254	Sonoma County Transit	28		Sonoma County Transit 28: Occidental => Guerneville via Duncans Mills	bus
 20113011				Fleish Diversion Dam Portage	portage
 20125432	US:I:Old	15	south		road
-20125433	US:I:Alternate	15	south		road
 20125434	US:I:Truck	15	south		road
 20145469	US:CA:Express	60	west		road
 20145563	US:CA			Kings Canyon Scenic Byway	road
@@ -7711,3 +7710,6 @@
 21319143				Mine Okubo Drive	road
 21320102	Santa Rosa CityBus	4		"Santa Rosa CityBus 4: Santa Rosa Transit Mall => Santa Rosa Transit Mall via Montecito Center, Maria Carillo High School"	bus
 21320104	Santa Rosa CityBus	4B		"Santa Rosa CityBus 4B: Santa Rosa Transit Mall => Santa Rosa Transit Mall via Maria Carillo High School, Montecito Center"	bus
+21359522				Ernie's Walk	foot
+21360817	lcn			Ice House Mountain Bike Trail	mtb
+21360822	lcn			Union Valley South Shore Mountain Bike Trail	mtb

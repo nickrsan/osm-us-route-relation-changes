@@ -1376,7 +1376,7 @@
 2806979	NYC Transit	B1		NYCB - B1 Manhattan Beach Kingsboro CC --> Bayridge 4th Avenue	bus
 2806987	NYC Transit	B2		NYCB - B2 East 16th Street & Quentin Road -> Flatbush Avenue & Avenue U	bus
 2806988	NYC Transit	B3		NYCB - B3 Bensonhurst -> Bergen Beach	bus
-2807092	NYC Transit	B4		NYCB - B4 Sheepshead Bay --> Bay Ridge	bus
+2807092	Nassau Inter-County Express	B4		NYCB - B4 Sheepshead Bay --> Bay Ridge	bus
 2807121	Amtrak	Cardinal		Amtrak Cardinal: Chicago => New York	train
 2833093					railway
 2872641	NYC Transit	Q100 LTD		NYCB - Q100 LTD Long Island City --> Rikers Island	bus
@@ -6255,7 +6255,7 @@
 9367424	Regional Transit Service	7	east	RTS 7 Clifford/Empire (E)	bus
 9367425	Regional Transit Service	1	north	RTS 1 St. Paul (N)	bus
 9367427	Regional Transit Service	4	north	RTS 4 Hudson (N)	bus
-9367428	Regional Transit Service	6	north	RTS 6 North Goodman (N)	bus
+9367428	Regional Transit Service	6	outbound	North Goodman	bus
 9367429	Regional Transit Service	11S	east	RTS 11S Monroe (E)	bus
 9367430	Regional Transit Service	10	outbound	Park	bus
 9368439	Regional Transit Service	12	south	RTS 12 South Clinton (S1)	bus
@@ -8910,12 +8910,9 @@
 17612967	Regional Transit Service	3	south	RTS 3 Joseph (S2)	bus
 17612968	Regional Transit Service	3	north	RTS 3 Joseph (N2)	bus
 17612969	Regional Transit Service	5	south	RTS 5 Portland (S)	bus
-17612970	Regional Transit Service	5	south	"RTS 5 Portland (seasonal, S2)"	bus
-17612971	Regional Transit Service	6	south	RTS 6 North Goodman (S)	bus
-17612972	Regional Transit Service	6	north	"RTS 6 North Goodman (seasonal, N2)"	bus
+17612971	Regional Transit Service	6	inbound	North Goodman	bus
 17612974	Regional Transit Service	9	inbound	University	bus
 17612978	Regional Transit Service	7	west	RTS 7 Clifford/Empire (W)	bus
-17612979	Regional Transit Service	6	south	"RTS 6 North Goodman (seasonal, S1)"	bus
 17612981	Regional Transit Service	4	south	RTS 4 Hudson (S)	bus
 17612982	Regional Transit Service	3	south	RTS 3 Joseph (S1)	bus
 17612983	Regional Transit Service	19	east	RTS 19 Buffalo Road (E)	bus
@@ -9053,9 +9050,6 @@
 17754386		34			power
 17754749		37			power
 17754750		36			power
-17759777	Regional Transit Service	6	south	"RTS 6 North Goodman (seasonal, S2)"	bus
-17759778	Regional Transit Service	6	north	"RTS 6 North Goodman (seasonal, N1)"	bus
-17759779	Regional Transit Service	5	south	"RTS 5 Portland (seasonal, S1)"	bus
 17761445	Regional Transit Service	8	inbound	East Main	bus
 17761446	Regional Transit Service	8	outbound	East Main	bus
 17766623	lcn			Greenwich Avenue	bicycle
@@ -11685,3 +11679,4 @@
 21311386				Green Trail	hiking
 21311387				Blue Trail	hiking
 21311388				Yellow Trail	hiking
+21360914					bus
