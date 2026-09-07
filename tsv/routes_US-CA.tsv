@@ -1304,8 +1304,8 @@
 2827686	BART	Yellow		BART Yellow Line: Antioch => SFO Airport => Millbrae	subway
 2845552	ACE	ACE		Altamont Corridor Express: Stockton => San José (mornings)	train
 2846108	US:CA:CR	J32			road
-2846984	SDMTS	520		Orange Line: Courthouse => El Cajon Transit Center	light_rail
-2847013	SDMTS	530			light_rail
+2846984	SDMTS	520	east		light_rail
+2847013	SDMTS	530	west		light_rail
 2847573	US:CA:CR	J46			road
 2851509	BART	Red		BART Red Line: Richmond => Daly City	
 2851510	BART	Orange		BART Orange Line: Richmond => Berryessa/North San José	subway
@@ -1782,8 +1782,8 @@
 4710759				Skunk Train	train
 4713797	Amtrak	Gold Runner	south	Amtrak Gold Runner: Sacramento => Bakersfield	train
 4720713	Amtrak		west		train
-4727062				NCTD San Diego Subdivision	railway
-4729047	SDMTS	Silver		Silver Line	tram
+4727062				San Diego Subdivision	railway
+4729047	SDMTS	Silver	clockwise	Silver Line	tram
 4740795	BART	OAK		BART Oakland Airport Connector: Coliseum => OAK Airport	monorail
 4783703				3N16	road
 4785430				2N08Y	road
@@ -1897,7 +1897,7 @@
 6090093	SMART	SMART		Sonoma-Marin Area Rail Transit: Windsor => Larkspur	train
 6125620	rwn			Lost Coast Trail	hiking
 6133755				Vasona Industrial Lead	railway
-6138890				BNSF San Diego Subdivision	railway
+6138890		BNSF		San Diego Subdivision	railway
 6139041				California Trolley and Railroad Corporation	railway
 6142178		NCR		Niles Canyon Railway	train
 6142319				Sacramento River Train	train
@@ -1906,8 +1906,8 @@
 6143925	MTS	992		MTS 992	bus
 6153823				Lucerne Valley Subdivision	railway
 6159026				Blue Line	railway
-6159028				Orange	railway
-6159081				Green	railway
+6159028	SDTI;SDIY			Orange Line	railway
+6159081	SDTI			Green Line	railway
 6159489				Coronado	railway
 6161003				Escondido Subdivision	railway
 6161047				Miramar	railway
@@ -4044,8 +4044,8 @@
 9946441	VTA	89		VTA 89: VA Hospital Palo Alto => California Avenue Caltrain	bus
 9946442	VTA	89		VTA 89: California Avenue Caltrain => VA Hospital Palo Alto	bus
 9946445	VTA	288		VTA 288: VA Hospital Palo Alto => Middlefield & Colorado	bus
-9946499	SDMTS	520		Orange Line: El Cajon Transit Center => Courthouse	light_rail
-9946500	SDMTS	530			light_rail
+9946499	SDMTS	520	west		light_rail
+9946500	SDMTS	530	east		light_rail
 9947938	County Connection	335		County Connection 335: San Ramon Transit Center => Dublin/Pleasanton BART	bus
 9947939	County Connection	335		County Connection 335: Dublin/Pleasanton BART => San Ramon Transit Center	bus
 9960504	SRPGO	CAFX		Stanford Research Park California Avenue Foothill Express Shuttle: California Avenue Caltrain => 3475 Deer Creek (mornings)	bus
@@ -4803,7 +4803,7 @@
 12905964	MTS	41		Bus 41: Fashion Valley => UTC	bus
 12905965	MTS	41		Bus 41: UTC => Fashion Valley	bus
 12907804	UCSD Shuttles	GC		Bus GC: Grocery Shuttle – Convoy	bus
-12907992	UCSD Shuttles	S		Bus S: SIO Shuttle	bus
+12907992	UCSD Shuttles	S		SIO Shuttle	bus
 12908133	UCSD Shuttles	OL		Bus OL: Outside Loop	bus
 12908134	UCSD Shuttles	IL		Bus IL: Inside Loop	bus
 12908933	MTS	921A		Bus 921A: Mira Mesa => University City	bus
@@ -4942,8 +4942,8 @@
 13506866	Flixbus	2000		Flixbus 2000: Berkeley (University of California) => Downey (Stonewood Center)	bus
 13507223	Flixbus	2034	west		bus
 13507228	Flixbus	2034	east		bus
-13509742	Flixbus	2017		Flixbus 2017: Los Angeles (Hollywood / Highland) => San Ysidro Bus Terminal (USA-Mexico Border)	bus
-13509744	Flixbus	2017		Flixbus 2017: San Ysidro Bus Terminal (USA-Mexico Border) => Los Angeles (Hollywood / Highland)	bus
+13509742	Flixbus	2017	south		bus
+13509744	Flixbus	2017	north		bus
 13512303	MTS	985		Bus 985	bus
 13512304	MTS	974		Bus 974: UC San Diego => Sorrento Valley	bus
 13512306	MTS	979		Bus 979: University City => Sorrento Valley	bus
@@ -7713,3 +7713,6 @@
 21359522				Ernie's Walk	foot
 21360817	lcn			Ice House Mountain Bike Trail	mtb
 21360822	lcn			Union Valley South Shore Mountain Bike Trail	mtb
+21361907		10990	south	Scott Valley/Hornbrook	bus
+21362633	Santa Rosa CityBus	5		Santa Rosa CityBus 5: Santa Rosa Transit Mall => Yolanda Ave at Santa Rosa Ave	bus
+21362634	Santa Rosa CityBus	5		Santa Rosa CityBus 5: Yolanda Ave at Santa Rosa Ave => Santa Rosa Transit Mall	bus

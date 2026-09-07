@@ -6243,17 +6243,17 @@
 9350581	Regional Transit Service	17	south	RTS 17 Jefferson/19th Ward (S)	bus
 9350584	Regional Transit Service	20	north	RTS 20 Lyell (N)	bus
 9350760	lcn			Lexington Avenue	bicycle
-9351905	Regional Transit Service	40	west	RTS 40 Ridge Crosstown (W)	bus
+9351905	Regional Transit Service	40	west	Ridge Crosstown	bus
 9351907	Regional Transit Service	21L	north	RTS 21L Dewey (N)	bus
 9351910	Regional Transit Service	19	west	RTS 19 Buffalo Road (W)	bus
 9351911	Regional Transit Service	18	west	RTS 18 Chili (W)	bus
 9352356	Regional Transit Service	97	west	Elmwood Commuter	bus
 9352357	Regional Transit Service	15	south	RTS 15 Plymouth (S)	bus
 9352482	Regional Transit Service	14	south	RTS 14 Marketplace (S)	bus
-9367418	Regional Transit Service	5	north	RTS 5 Portland (N)	bus
+9367418	Regional Transit Service	5	outbound	Portland	bus
 9367423	Regional Transit Service	2	north	RTS 2 North Clinton (N)	bus
 9367424	Regional Transit Service	7	east	RTS 7 Clifford/Empire (E)	bus
-9367425	Regional Transit Service	1	north	RTS 1 St. Paul (N)	bus
+9367425	Regional Transit Service	1	outbound	St. Paul	bus
 9367427	Regional Transit Service	4	north	RTS 4 Hudson (N)	bus
 9367428	Regional Transit Service	6	outbound	North Goodman	bus
 9367429	Regional Transit Service	11S	east	RTS 11S Monroe (E)	bus
@@ -8884,7 +8884,7 @@
 17607627	Regional Transit Service	20	south	RTS 20 Lyell (S)	bus
 17607628	Regional Transit Service	2	south	RTS 2 North Clinton (S)	bus
 17607629	Regional Transit Service	21L	south	RTS 21L Dewey (S)	bus
-17607630	Regional Transit Service	1	south	RTS 1 St. Paul (S)	bus
+17607630	Regional Transit Service	1	inbound	St. Paul	bus
 17607631	Regional Transit Service	21S	south	RTS 21S Dewey (S)	bus
 17607632	Regional Transit Service	22L	south	RTS 22L Lake (S)	bus
 17608155	Regional Transit Service	50	west	RTS 50 Fairport/Penfield (W2)	bus
@@ -8909,7 +8909,7 @@
 17611111	Regional Transit Service	14	north	RTS 14 Marketplace (N1)	bus
 17612967	Regional Transit Service	3	south	RTS 3 Joseph (S2)	bus
 17612968	Regional Transit Service	3	north	RTS 3 Joseph (N2)	bus
-17612969	Regional Transit Service	5	south	RTS 5 Portland (S)	bus
+17612969	Regional Transit Service	5	inbound	Portland	bus
 17612971	Regional Transit Service	6	inbound	North Goodman	bus
 17612974	Regional Transit Service	9	inbound	University	bus
 17612978	Regional Transit Service	7	west	RTS 7 Clifford/Empire (W)	bus
@@ -8922,8 +8922,7 @@
 17615548				West Tremont Avenue	road
 17616144	Regional Transit Service	70	south	Seabreeze Seasonal	bus
 17616146	Regional Transit Service	41	north	Culver / Goodman Crosstown	bus
-17616147	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E2)	bus
-17616148	Regional Transit Service	40	east	RTS 40 Ridge Crosstown (E1)	bus
+17616147	Regional Transit Service	40	east	Ridge Crosstown	bus
 17616649	Regional Transit Service	97	east	Elmwood Commuter	bus
 17630323				Red Trail	hiking
 17630324				Blue Trail	hiking
