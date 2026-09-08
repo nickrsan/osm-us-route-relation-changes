@@ -2024,8 +2024,6 @@
 1974160	US:TX:FM	647			road
 1975130	VIA	620		Northwest Vista College/Ingram	bus
 1975131	VIA	620		Northwest Vista College/Ingram	bus
-1978072		660		Northwest Vista College/University P & R	bus
-1978073		660		Northwest Vista College/University P & R	bus
 1978346		613		Heritage Northwest/Kel-Lac	bus
 1978347		613		Heritage Northwest/Kel-Lac	bus
 1978354		618		Ingram/Westlakes	bus
@@ -2052,10 +2050,6 @@
 2001301		615		Kel-Lac/Heritage Park	bus
 2002924		607		Medical Center/Ingram	bus
 2002925		607		Medical Center/Ingram	bus
-2002944		606		Medical Center/Alamo Ranch	bus
-2002947		606		Medical Center/Alamo Ranch	bus
-2003214		605		UTSA/Mainland	bus
-2003215		605		UTSA/Mainland	bus
 2003227		604		Medical Center/University Park	bus
 2003228		604		Medical Center/University Park	bus
 2003413		603		Medical Center/UTSA	bus
@@ -4805,8 +4799,8 @@
 4069018	US:I	44	west		road
 4208856	MetroBus	1	north	Capital Metro 1 North Lamar/South Congress (northbound)	bus
 4209224	MetroBus	1	south	Capital Metro 1 North Lamar/South Congress (southbound)	bus
-4228323	MetroBus	2	north	Capital Metro 2 Rosewood / Cesar Chavez (northbound)	bus
-4228324	MetroBus	2	south	Capital Metro 2 Rosewood / Cesar Chavez (southbound)	bus
+4228323	MetroBus	2	north	Capital Metro 2 Rosewood / Cesar Chavez (clockwise)	bus
+4228324	MetroBus	2	anticlockwise	Capital Metro 2 Rosewood / Cesar Chavez (counter-clockwise)	bus
 4249452	MetroBus	4	east	Capital Metro 4 7th Street (eastbound)	bus
 4250627	MetroBus	4	west	Capital Metro 4 7th Street (westbound)	bus
 4268191	MetroBus	5	west	Capital Metro 5 Woodrow/Lamar (westbound)	bus
@@ -8464,7 +8458,6 @@
 13617342				Houston Subdivision	railway
 13635101					bicycle
 13642672	lcn			Red Arroyo Trail	bicycle
-13652044	MetroBus	217		Capital Metro 217 Montopolis Feeder (southbound)	bus
 13652054	MetroBus	217		Capital Metro 217 Montopolis Feeder (northbound)	bus
 13691567	Capital Area Rural Transportation Service	1518	east	Interurban Purple Route	bus
 13730002	US:TX:Toll	288		Brazoria County Expressway	road
@@ -11920,3 +11913,7 @@
 21361180	US:TX:Reeves	128			road
 21361181	US:TX:Reeves	128			road
 21363656	US:TX:Reeves	312			road
+21365475	US:TX:Reeves	304			road
+21366028	US:TX:Reeves	309			road
+21366029	US:TX:Reeves	305			road
+21366106	US:TX:Reeves	340			road

@@ -5475,6 +5475,7 @@
 8356246	lcn			Bath Avenue	bicycle
 8373694	lcn			Bronxdale Avenue	bicycle
 8377284					foot
+8377748	Central Park West local/6 Avenue express)	Central Park West local/6 Avenue express)			train
 8379351	lcn			Berry/Nassau	bicycle
 8408162	lcn			Clermont Avenue	bicycle
 8408164	lcn			10th Avenue	bicycle
@@ -6492,7 +6493,7 @@
 9712342	NYC Subway	M		NYCS - M Train: Middle Village–Metropolitan Avenue → Forest Hills–71st Avenue	subway
 9712343	NYC Subway	R		NYCS - R Train: Forest Hills–71st Avenue → Bay Ridge–95th Street	subway
 9712344	NYC Subway	R		NYCS - R Train: Bay Ridge–95th Street → Forest Hills–71st Avenue	subway
-9712345	NYC Subway	Q		NYCS - Q Train: 96th Street → Coney Island–Stillwell Avenue	subway
+9712345	Nassau Inter-County Express	Q		NYCS - Q Train: 96th Street → Coney Island–Stillwell Avenue	bus
 9712346	NYC Subway	Q		NYCS - Q Train: Coney Island–Stillwell Avenue → 96th Street	subway
 9712347	NYC Subway	N		NYCS - N Train: Astoria–Ditmars Boulevard → Coney Island–Stillwell Avenue	subway
 9712348	NYC Subway	N		NYCS - N Train (late nights): Coney Island–Stillwell Avenue → Astoria–Ditmars Boulevard	subway
@@ -6750,7 +6751,7 @@
 11038758				BMT West End Line	railway
 11038759				BMT Franklin Avenue Line	railway
 11038760				Chrystie Street Connection	railway
-11038761				BMT Brighton Line	railway
+11038761	B train to 96 street 2 ave			BMT Brighton Line	railway
 11038762				BMT Fourth Avenue Line	railway
 11038763				BMT Nassau Street Line	railway
 11038764				BMT Broadway Line	railway
