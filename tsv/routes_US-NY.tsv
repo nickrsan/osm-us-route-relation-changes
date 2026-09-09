@@ -1383,7 +1383,7 @@
 2872708	NYC Transit	Q53 SBS		NYCB - Q53 SBS Rockaway Beach 116th Street --> Woodside LIRR	bus
 2872776	NYC Transit	Q52 SBS		NYCB - Q52 SBS Queens Center Mall --> Arverne	bus
 2872856	NYC Transit	Q58		NYCB - Q58 Bushwick --> Downtown Flushing	bus
-2881379				Richfield Springs Branch	
+2881379				Richfield Springs Branch	railway
 2896665	US:NY	495		New York 495	road
 2904539	NYC Transit	Q1		NYCB - Q1 Jamaica Center --> Bellerose	bus
 2904543	NYC Transit	Q2		NYCB - Q2 Jamaica Bus Terminal --> UBS Arena	bus
@@ -6253,7 +6253,7 @@
 9352482	Regional Transit Service	14	south	RTS 14 Marketplace (S)	bus
 9367418	Regional Transit Service	5	outbound	Portland	bus
 9367423	Regional Transit Service	2	north	RTS 2 North Clinton (N)	bus
-9367424	Regional Transit Service	7	east	RTS 7 Clifford/Empire (E)	bus
+9367424	Regional Transit Service	7	outbound	Clifford/Empire	bus
 9367425	Regional Transit Service	1	outbound	St. Paul	bus
 9367427	Regional Transit Service	4	north	RTS 4 Hudson (N)	bus
 9367428	Regional Transit Service	6	outbound	North Goodman	bus
@@ -8913,7 +8913,7 @@
 17612969	Regional Transit Service	5	inbound	Portland	bus
 17612971	Regional Transit Service	6	inbound	North Goodman	bus
 17612974	Regional Transit Service	9	inbound	University	bus
-17612978	Regional Transit Service	7	west	RTS 7 Clifford/Empire (W)	bus
+17612978	Regional Transit Service	7	inbound	Clifford/Empire	bus
 17612981	Regional Transit Service	4	south	RTS 4 Hudson (S)	bus
 17612982	Regional Transit Service	3	south	RTS 3 Joseph (S1)	bus
 17612983	Regional Transit Service	19	east	RTS 19 Buffalo Road (E)	bus
@@ -11680,3 +11680,5 @@
 21311387				Blue Trail	hiking
 21311388				Yellow Trail	hiking
 21360914					bus
+21369282	lwn			Cobleskill Creek Trail	foot
+21371252				Long Path - Section 2	hiking

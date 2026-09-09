@@ -635,7 +635,7 @@
 14734860	US:ME:ITS	115		Snowmobile ITS 115 Connector	snowmobile
 14877316	US:NH	236			road
 14877322	US:NH	153			road
-14939625	lwn			Notch Trail	hiking
+14939625	lwn			Notch	hiking
 14962226	lwn			Great Marsh Trail	foot
 14965917	US:ME:Turnpike			Maine Turnpike	road
 14995028	lwn			White Trail	hiking
@@ -889,19 +889,22 @@
 21366544	lwn			Vulture's View	hiking
 21366545	lwn			Porcupine Trail	hiking
 21366546	lwn			Hairpin Trail	hiking
-21366547	lwn			Ring trail	hiking
+21366547	lwn			Ring Trail	hiking
 21366548	lwn			Chestnut Oak	hiking
 21366549	lwn			Goose Foot	hiking
-21366550	lwn			Ridge Trail	hiking
+21366550	lwn			Ridge	hiking
 21366551	lwn			Short Line Trail	hiking
-21366552	lwn			Hidden Trail	hiking
+21366552	lwn			Hidden	hiking
 21366553	lwn			Incline	hiking
 21366554	lwn				hiking
 21366555	lwn			Third Hioll Trail	hiking
-21366556	lwn			Ledge Trail	hiking
-21366557	lwn			Bobcat Trail	hiking
-21366558	lwn			Stone Fence Trail	hiking
+21366556	lwn			Ledge	hiking
+21366557	lwn			Bobcat	hiking
+21366558	lwn			Stone Fence	hiking
 21366559	lwn			Cedar Trail	hiking
 21366560	lwn			Norman Mill Trail	hiking
 21366561	lwn			Wintergreen Trail	hiking
 21366562	lwn			Blueberry Bluff	hiking
+21367832	lwn			Fischer	hiking
+21367833	lwn			Beaver	hiking
+21367888	lwn			Second Hill	hiking

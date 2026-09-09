@@ -1786,6 +1786,6 @@
 20993670	lcn	Take-Off		Cleared for Take-Off	mtb
 21199394					bicycle
 21199498					bicycle
-21322895	US:I	42	west	Interstate 42 Westbound	road
-21322896	US:I	42	east	Interstate 42 Eastbound	road
-21356501	US:AR	642		Arkansas Highway 642	road
+21322895	US:I	42	west		road
+21322896	US:I	42	east		road
+21356501	US:AR	642			road
