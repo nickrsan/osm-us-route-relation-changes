@@ -1115,8 +1115,8 @@
 2444877	US:I	405 Truck	north		road
 2444878	US:I	405 Truck	south		road
 2453566	US:CA	1			road
-2453569	US:CA	1		1 (Las Cruces - San Francisco)	road
-2453570	US:CA	1		1 (Sausalito - Leggett)	road
+2453569	US:CA	1			road
+2453570	US:CA	1			road
 2453571	US:CA	1		1 (State Beaches - Seacliff)	road
 2457594				U-Con	mtb
 2462121	US:CA	65			road
@@ -2452,8 +2452,8 @@
 8440127				Hollywood Boulevard	road
 8440129	Metro Local	215		Metro 215	bus
 8440130	Metro Local	211		Metro 211	bus
-8440301	Amtrak	California Zephyr		Amtrak California Zephyr: Emeryville => Chicago	train
-8440320	Amtrak	California Zephyr		Amtrak California Zephyr: Chicago => Emeryville	train
+8440301	Amtrak	CZ	east		train
+8440320	Amtrak	CZ	west		train
 8440397	Metro Local	237		Metro 237	bus
 8440398	Metro Local	236		Metro 236	bus
 8440400	Metro Local	234		Metro 234	bus
@@ -4983,7 +4983,7 @@
 13648421	Corona Cruiser	Blue		Blue Route	bus
 13652638	Delano Area Rapid Transit	4		Route 4	bus
 13652876	Eastern Sierra Transit		west	Purple Line	bus
-13655794	Eastern Sierra Transit	395 North		Lone Pine to Reno	bus
+13655794	Eastern Sierra Transit	395	north	Lone Pine to Reno	bus
 13659024	Delano Area Rapid transit	3		Route 3	bus
 13659094	Tulare County Area Transit	20		South County	bus
 13664266	Delano Area Rapid Transit	5		Route 5	bus
@@ -6111,7 +6111,7 @@
 17600541	OC Bus	54		OC Bus 54: Chapman and Rancho Santiago - Garden Grove (Sunday)	bus
 17600542	OC Bus	54		OC Bus 54: Garden Grove - Chapman and Rancho Santiago (Sunday)	bus
 17600543	OC Bus	54		OC Bus 54: Garden Grove - Orange	bus
-17603669	Amtrak Thruway	20		20 - Sacramento - Roseville - Colfax - Reno	bus
+17603669	Amtrak Thruway	20		Sacramento - Roseville - Colfax - Reno	bus
 17613090	MTS	227		227 - Otay Mesa Transit Center - Imperial Beach Pier	bus
 17626981	FlyAway	FlyAway Union Station		LAX FlyAway Union Station: Union Station => LAX	bus
 17626982	FlyAway	FlyAway Union Station		LAX FlyAway Union Station: LAX => Union Station	bus

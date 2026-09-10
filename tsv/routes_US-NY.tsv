@@ -5475,7 +5475,6 @@
 8356246	lcn			Bath Avenue	bicycle
 8373694	lcn			Bronxdale Avenue	bicycle
 8377284					foot
-8377748	Central Park West local/6 Avenue express)	Central Park West local/6 Avenue express)			train
 8379351	lcn			Berry/Nassau	bicycle
 8408162	lcn			Clermont Avenue	bicycle
 8408164	lcn			10th Avenue	bicycle
@@ -6255,7 +6254,7 @@
 9367423	Regional Transit Service	2	north	RTS 2 North Clinton (N)	bus
 9367424	Regional Transit Service	7	outbound	Clifford/Empire	bus
 9367425	Regional Transit Service	1	outbound	St. Paul	bus
-9367427	Regional Transit Service	4	north	RTS 4 Hudson (N)	bus
+9367427	Regional Transit Service	4	outbound	Hudson	bus
 9367428	Regional Transit Service	6	outbound	North Goodman	bus
 9367429	Regional Transit Service	11S	east	RTS 11S Monroe (E)	bus
 9367430	Regional Transit Service	10	outbound	Park	bus
@@ -6264,7 +6263,7 @@
 9368442	Regional Transit Service	11L	east	RTS 11L Monroe (E)	bus
 9368443	Regional Transit Service	13	south	RTS 13 South Avenue (S1)	bus
 9368445	Regional Transit Service	41	south	Culver / Goodman Crosstown	bus
-9368446	Regional Transit Service	3	north	RTS 3 Joseph (N1)	bus
+9368446	Regional Transit Service	3	outbound	Joseph	bus
 9368615	Regional Transit Service	50	east	RTS 50 Fairport/Penfield (E)	bus
 9369809	Regional Transit Service	91	east	Bus 91: RTS Transit Center => Lyons	bus
 9370022	Regional Transit Service	21S	north	RTS 21S Dewey (N)	bus
@@ -6751,7 +6750,7 @@
 11038758				BMT West End Line	railway
 11038759				BMT Franklin Avenue Line	railway
 11038760				Chrystie Street Connection	railway
-11038761	B train to 96 street 2 ave			BMT Brighton Line	railway
+11038761				BMT Brighton Line	railway
 11038762				BMT Fourth Avenue Line	railway
 11038763				BMT Nassau Street Line	railway
 11038764				BMT Broadway Line	railway
@@ -8908,14 +8907,12 @@
 17611109	Regional Transit Service	15	north	RTS 15 Plymouth (N)	bus
 17611110	Regional Transit Service	14	north	RTS 14 Marketplace (N2)	bus
 17611111	Regional Transit Service	14	north	RTS 14 Marketplace (N1)	bus
-17612967	Regional Transit Service	3	south	RTS 3 Joseph (S2)	bus
-17612968	Regional Transit Service	3	north	RTS 3 Joseph (N2)	bus
+17612967	Regional Transit Service	3	inbound	Joseph	bus
 17612969	Regional Transit Service	5	inbound	Portland	bus
 17612971	Regional Transit Service	6	inbound	North Goodman	bus
 17612974	Regional Transit Service	9	inbound	University	bus
 17612978	Regional Transit Service	7	inbound	Clifford/Empire	bus
-17612981	Regional Transit Service	4	south	RTS 4 Hudson (S)	bus
-17612982	Regional Transit Service	3	south	RTS 3 Joseph (S1)	bus
+17612981	Regional Transit Service	4	south	Hudson	bus
 17612983	Regional Transit Service	19	east	RTS 19 Buffalo Road (E)	bus
 17612984	Regional Transit Service	18	east	RTS 18 Chili (E1)	bus
 17612985	Regional Transit Service	18	east	RTS 18 Chili (E2)	bus

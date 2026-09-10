@@ -1015,8 +1015,8 @@
 8436202	Amtrak	City of New Orleans		Amtrak City of New Orleans: Chicago => New Orleans	train
 8438427	Amtrak	Illini/Saluki		Amtrak Saluki: Carbondale => Chicago	train
 8438428	Amtrak	Illini/Saluki		Amtrak Illini: Chicago => Carbondale	train
-8440301	Amtrak	California Zephyr		Amtrak California Zephyr: Emeryville => Chicago	train
-8440320	Amtrak	California Zephyr		Amtrak California Zephyr: Chicago => Emeryville	train
+8440301	Amtrak	CZ	east		train
+8440320	Amtrak	CZ	west		train
 8521065	CTA	1	south	Bus 1: Union Station -> Michigan/34th Street	bus
 8521473	CTA	1	north	Bus 1: 35th/Indiana -> Union Station (Adams/Canal)	bus
 8521474	CTA	1	north	Bus 1: Indiana/35th Street -> Union Station (Jackson/Canal)	bus

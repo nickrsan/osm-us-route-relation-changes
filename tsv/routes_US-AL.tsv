@@ -1412,7 +1412,7 @@
 21280356	US:AL:Marion	25		Marion County Road 25	road
 21280357	US:AL:Marion	325		Marion County Road 325	road
 21282274	US:AL:Marion	75		Marion County Road 75	road
-21282347	Tiger Transit			Haley West	bus
+21282347	Tiger Transit	Haley West		Haley West	bus
 21282348	Tiger Transit			Health Sciences Sector	bus
 21282349	Tiger Transit			Old Row-West Parking	bus
 21282407	Tiger Transit			Park & Ride	bus
@@ -1440,3 +1440,4 @@
 21321996	US:AL:Marion	326		Marion County Road 326	road
 21321997	US:AL:Marion	117		Marion County Road 117	road
 21321998	US:AL:Marion	18		Marion County Road 18	road
+21373440	Tiger Transit			North Ross	bus
