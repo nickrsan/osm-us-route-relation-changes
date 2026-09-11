@@ -6476,6 +6476,7 @@
 9682648	NYC Subway	5		NYCS - 5 Train: Flatbush Avenue–Brooklyn College → Eastchester–Dyre Avenue	subway
 9682649	NYC Subway	5		NYCS - 5 Train: Eastchester–Dyre Avenue → Flatbush Avenue–Brooklyn College	subway
 9682650	NYC Subway	5		NYCS - 5 Train (pm rush): Flatbush Avenue–Brooklyn College → Nereid Avenue	subway
+9691750		Bay Ridge Narrows Av-Cancún-Quintana-Mexico-City		Brooklyn	trolleybus
 9699093	NYC Subway	S		NYCS - S 42nd Street Shuttle: Times Square → Grand Central	subway
 9699094	NYC Subway	S		NYCS - S 42nd Street Shuttle: Grand Central → Times Square	subway
 9699110	NYC Subway	G		NYCS - G Train: Church Avenue → Court Square	subway
@@ -8549,7 +8550,6 @@
 16299583	US:NY			NY 990H	road
 16311914	US:NY:Truck	14		NY 14 Truck (Elmira)	road
 16312150	US:NY			NY 951V	road
-16315433	lcn				bicycle
 16330799	US:NY			NY 911V	road
 16336391	Nassau Inter-County Express	ELFX		NICE Elmont Flexi	bus
 16338148	US:NY			NY 900P	road
@@ -8599,7 +8599,6 @@
 16463502	US:NY			NY 912C	road
 16470342	npn	HRGWT		Hudson River Greenway Water Trail	canoe
 16476319	rpn	DRWT		Delaware River Water Trail	canoe
-16476504	lcn				bicycle
 16481525	rpn	LCBT		Lake Champlain Blueway Trail	canoe
 16491503	US:NY			NY 971L	road
 16491685	US:NY:Clinton	23			road
@@ -8607,7 +8606,6 @@
 16496156	US:NY			NY 990D	road
 16496157	US:NY			NY 990E	road
 16496647	US:NY			NY 980B	road
-16501407	lcn				bicycle
 16505004	rpn	SSB		South Shore Blueway	canoe
 16505081	lpn			Buffalo Blueway	canoe
 16505086	rpn			Oswego Canal Water Trail	canoe
@@ -8622,10 +8620,6 @@
 16528274	US:NY			NY 943C	road
 16528526	US:NY			NY 980D	road
 16529803	US:NY			NY 982M	road
-16531937	lcn				bicycle
-16531988	lcn				bicycle
-16532021	lcn				bicycle
-16532085	lcn				bicycle
 16536343	US:NY			NY 931F	road
 16536396	US:NY			NY 931E	road
 16536645	US:NY:Tompkins	115M		CR 115M	road
@@ -8636,11 +8630,9 @@
 16543234	US:NY			NY 983T	road
 16550580	US:NY			NY 952B	road
 16550681	US:NY			NY 950A	road
-16554001	lcn				bicycle
 16562074		917			power
 16562160	US:NY			NY 922C	road
 16562369	US:NY				road
-16565369	lcn				bicycle
 16568070	lcn			Oceania St (proposed)	bicycle
 16568716	US:NY			NY 970B	road
 16568763	US:NY			NY 961B	road
@@ -8912,7 +8904,7 @@
 17612971	Regional Transit Service	6	inbound	North Goodman	bus
 17612974	Regional Transit Service	9	inbound	University	bus
 17612978	Regional Transit Service	7	inbound	Clifford/Empire	bus
-17612981	Regional Transit Service	4	south	Hudson	bus
+17612981	Regional Transit Service	4	inbound	Hudson	bus
 17612983	Regional Transit Service	19	east	RTS 19 Buffalo Road (E)	bus
 17612984	Regional Transit Service	18	east	RTS 18 Chili (E1)	bus
 17612985	Regional Transit Service	18	east	RTS 18 Chili (E2)	bus
@@ -11679,3 +11671,4 @@
 21360914					bus
 21369282	lwn			Cobleskill Creek Trail	foot
 21371252				Long Path - Section 2	hiking
+21379030				Bridle Path	horse

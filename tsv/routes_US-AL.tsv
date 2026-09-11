@@ -1413,9 +1413,9 @@
 21280357	US:AL:Marion	325		Marion County Road 325	road
 21282274	US:AL:Marion	75		Marion County Road 75	road
 21282347	Tiger Transit	Haley West		Haley West	bus
-21282348	Tiger Transit			Health Sciences Sector	bus
+21282348	Tiger Transit	Health Sciences Sector		Health Sciences Sector	bus
 21282349	Tiger Transit			Old Row-West Parking	bus
-21282407	Tiger Transit			Park & Ride	bus
+21282407	Tiger Transit	Park & Ride		Park & Ride	bus
 21291222	Tiger Transit			West Campus	bus
 21291223	Tiger Transit			College Loop	bus
 21291224	Tiger Transit			East Glenn	bus
