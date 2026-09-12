@@ -758,7 +758,7 @@
 1017180	US:US	219			road
 1018578	US:PA	167			road
 1018615	US:PA	191			road
-1019651	rcn	517		New York Bike Route 517	bicycle
+1019651	rcn	517		State Bicycle Route 517	bicycle
 1020976	US:PA	267			road
 1021488	US:NY:Schenectady	79		Schenectady County Route 79	road
 1021489	US:NY:Schenectady	161		Schenectady County Route 161	road
@@ -777,7 +777,7 @@
 1071197	US:NY	27A			road
 1071204	US:NY	25A			road
 1073714	US:NY:Truck	19		NY 19 Truck	road
-1073984	rcn	5			bicycle
+1073984	rcn	5		State Bicycle Route 5	bicycle
 1073985	rcn	32		NY Bike Route 32	bicycle
 1073986	rcn	11		NY Bike Route 11	bicycle
 1073989	rcn	17		NY Bike Route 17	bicycle
@@ -1105,7 +1105,6 @@
 1738631	rcn	GVG		Genesee Valley Greenway	bicycle
 1777150	ncn	ECG		East Coast Greenway (CT)	bicycle
 1780459	ncn	11		11 (New York)	bicycle
-1780460	rcn				bicycle
 1808473	US:NY:Thruway			New York State Thruway	road
 1809808	Amtrak	Crescent		Amtrak Crescent: New Orleans => New York	train
 1813106	US:NY:Thruway			Berkshire Connector	road
@@ -6476,7 +6475,6 @@
 9682648	NYC Subway	5		NYCS - 5 Train: Flatbush Avenue–Brooklyn College → Eastchester–Dyre Avenue	subway
 9682649	NYC Subway	5		NYCS - 5 Train: Eastchester–Dyre Avenue → Flatbush Avenue–Brooklyn College	subway
 9682650	NYC Subway	5		NYCS - 5 Train (pm rush): Flatbush Avenue–Brooklyn College → Nereid Avenue	subway
-9691750		Bay Ridge Narrows Av-Cancún-Quintana-Mexico-City		Brooklyn	trolleybus
 9699093	NYC Subway	S		NYCS - S 42nd Street Shuttle: Times Square → Grand Central	subway
 9699094	NYC Subway	S		NYCS - S 42nd Street Shuttle: Grand Central → Times Square	subway
 9699110	NYC Subway	G		NYCS - G Train: Church Avenue → Court Square	subway
@@ -11648,7 +11646,7 @@
 21159302	Nassau Inter-County Express	n16		NICE n16 Nassau Community College --> Rockville Centre LIRR	bus
 21159303	Nassau Inter-County Express	n16		NICE n16 Rockville Centre --> Nassau Community College	bus
 21163456				Jack Harrington Greenway	hiking
-21167346	lwn			Highland Crossing Trail	foot
+21167346	lwn	HXT		Highland Crossing Trail	foot
 21172472				Long Path - Section 1	hiking
 21185431				Kate Kennard Trail	hiking;bicycle
 21185617				Cabot Trail	hiking
@@ -11672,3 +11670,4 @@
 21369282	lwn			Cobleskill Creek Trail	foot
 21371252				Long Path - Section 2	hiking
 21379030				Bridle Path	horse
+21383396	lcn	HXT		Highland Crossing Trail	bicycle
