@@ -3679,7 +3679,7 @@
 9640194	VVTA	111		NTC Commuter - Fort Irwin - Barstow	bus
 9640195	VVTA	115		NTC Commuter - Fort Irwin - Helendale	bus
 9640199	VVTA	114		Hesperia - Fort Irwin	bus
-9640430	SolTrans	R		SolanoExpress Red Line: El Cerrito del Norte BART => Vallejo Transit Center => Solano Town Center	bus
+9640430	SolTrans	60		SolanoExpress 60: El Cerrito del Norte BART => Vallejo Transit Center => Solano Town Center	bus
 9640431	SolTrans	R		SolanoExpress Red Line: Solano Town Center => Vallejo Transit Center => El Cerrito del Norte BART	bus
 9642349	SolTrans	5		SolTrans 5: Vallejo Transit Center => Fairgrounds	bus
 9642350	SolTrans	5		SolTrans 5: Fairgrounds => Vallejo Transit Center	bus
