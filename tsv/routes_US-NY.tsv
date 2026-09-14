@@ -290,7 +290,6 @@
 366784	NYC Subway	3		NYCS - 3 Train: New Lots Avenue → Harlem–148th Street	subway
 366785	NYC Subway	4		NYCS - 4 Train: Crown Heights–Utica Avenue → Woodlawn	subway
 366809	NYC Subway	S		NYCS - S Franklin Avenue Shuttle: Prospect Park → Franklin Avenue	subway
-369518		b4 bayridge-narrows ave		Kings County	trolleybus
 369579				Bennington and Hoosick Valley Trolley	railway
 369585				Binghamton Railway Company	railway
 372471	rcn	9		NY Bike Route 9	bicycle
@@ -1376,7 +1375,7 @@
 2806979	NYC Transit	B1		NYCB - B1 Manhattan Beach Kingsboro CC --> Bayridge 4th Avenue	bus
 2806987	NYC Transit	B2		NYCB - B2 East 16th Street & Quentin Road -> Flatbush Avenue & Avenue U	bus
 2806988	NYC Transit	B3		NYCB - B3 Bensonhurst -> Bergen Beach	bus
-2807092	Nassau Inter-County Express	B4		NYCB - B4 Sheepshead Bay --> Bay Ridge	bus
+2807092	NYC Transit	B4		NYCB - B4 Sheepshead Bay --> Bay Ridge	bus
 2807121	Amtrak	Cardinal		Amtrak Cardinal: Chicago => New York	train
 2833093					railway
 2872641	NYC Transit	Q100 LTD		NYCB - Q100 LTD Long Island City --> Rikers Island	bus
@@ -6492,7 +6491,7 @@
 9712342	NYC Subway	M		NYCS - M Train: Middle Village–Metropolitan Avenue → Forest Hills–71st Avenue	subway
 9712343	NYC Subway	R		NYCS - R Train: Forest Hills–71st Avenue → Bay Ridge–95th Street	subway
 9712344	NYC Subway	R		NYCS - R Train: Bay Ridge–95th Street → Forest Hills–71st Avenue	subway
-9712345	Nassau Inter-County Express	Q		NYCS - Q Train: 96th Street → Coney Island–Stillwell Avenue	bus
+9712345	NYC Subway	Q		NYCS - Q Train: 96th Street → Coney Island–Stillwell Avenue	subway
 9712346	NYC Subway	Q		NYCS - Q Train: Coney Island–Stillwell Avenue → 96th Street	subway
 9712347	NYC Subway	N		NYCS - N Train: Astoria–Ditmars Boulevard → Coney Island–Stillwell Avenue	subway
 9712348	NYC Subway	N		NYCS - N Train (late nights): Coney Island–Stillwell Avenue → Astoria–Ditmars Boulevard	subway
@@ -6510,7 +6509,7 @@
 9728518	lcn			D&H Rail Trail	bicycle
 9734424	lcn			Setauket-Port Jefferson Station Greenway	bicycle
 9747969	NYC Subway	J		NYCS - J Train: Jamaica Center–Parsons/Archer → Broad Street	subway
-9748434	NYC Subway	B	96_street_2_ave	NYCS - B Train (am/pm rush): Bedford Park Boulevard → Brighton Beach	subway
+9748434	NYC Subway	B		NYCS - B Train (am/pm rush): Bedford Park Boulevard → Brighton Beach	subway
 9753683	NYC Subway	F		NYCS - F Train: Jamaica–179th Street → Coney Island–Stillwell Avenue	subway
 9766277	lcn			Jesse Kregel Pathway	bicycle
 9766278	lcn			Shoreline Trail	bicycle
@@ -8034,7 +8033,7 @@
 14489615	NYC Transit	QM3		NYCB - QM3	bus
 14507812	Local	CVT		Champlain Valley Trail (Albany to Waterford)	hiking
 14507861	NYC Transit	BM3		NYCB - BM3: Midtown -> Brooklyn	bus
-14507862	NYC Transit	BM3		NYCB - BM3: Brooklyn -> Midtown	trolleybus
+14507862	NYC Transit	BM3		NYCB - BM3: Brooklyn -> Midtown	bus
 14507867	Local	CVT		Champlain Valley Trail (Halfmoon to Schuylerville)	hiking
 14507868	Local	CVT		Champlain Valley Trail (Peebles Island State Park to Halfmoon)	hiking
 14507904	Local	CVT		Champlain Valley Trail (Schuylerville to Fort Miller)	hiking
@@ -11667,9 +11666,11 @@
 21311386				Green Trail	hiking
 21311387				Blue Trail	hiking
 21311388				Yellow Trail	hiking
-21360914					bus
 21369282	lwn			Cobleskill Creek Trail	foot
 21371252				Long Path - Section 2	hiking
 21379030				Bridle Path	horse
 21383396	lcn	HXT		Highland Crossing Trail	bicycle
 21386014		201			power
+21389585		219			power
+21389862		227			power
+21389863		200			power

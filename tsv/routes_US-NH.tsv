@@ -428,7 +428,7 @@
 11845926	lwn			Old Snowmobile Road	foot
 11845927	lwn			Ledges Loop	foot
 11845928	lwn			Boulder Loop	foot
-11874092	lwn			Belknap Range Trail	hiking
+11874092	rwn			Belknap Range Trail	hiking
 11874093	lwn			Brook Trail	hiking
 11874094	lwn			Boulder Loop Trail	hiking
 11874095	lwn			Jesus Valley - Beaver Pond Trail	hiking
@@ -671,7 +671,7 @@
 14178591	US:I	95	north		road
 14179499				Mount Washington Auto Road	road
 14361437				Upper Coos Recreational Rail Trail	hiking
-14392754	lwn			Mt. Rowe Trail	hiking
+14392754	lwn			Mount Rowe Trail	hiking
 14392755	lwn			Benjamin Weeks Trail	hiking
 14392756	lwn			North Spur Trail	hiking
 14395358	US:US	4			road
@@ -1079,3 +1079,8 @@
 21363475	lwn			Reed Road Trail	hiking
 21363476	lwn			Marsh Crossing	hiking
 21363477	lwn			Klem-Mack Loop	hiking
+21388008	lwn			Boulder Trail	hiking
+21388009				Mount Mack Trail	snowmobile
+21388010	US:NH	22		NH Corridor 22	snowmobile
+21388011	lwn			Yellow Trail	hiking
+21389331	lwn			Red Trail	hiking

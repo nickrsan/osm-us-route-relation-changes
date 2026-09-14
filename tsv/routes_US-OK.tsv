@@ -1663,7 +1663,7 @@
 12287466	US:OK:Woods	N2440			road
 12287467	US:OK:Woods	N2450			road
 12288294	MetroLink Tulsa	110		MLK/Hartford	bus
-12288329	Metropolitan Tulsa Transit Authority	110		MLK/Hartford	bus
+12288329	MetroLink Tulsa	110		MLK/Hartford	bus
 12288603	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
 12288614	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
 12292968	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
@@ -4238,4 +4238,5 @@
 21105169	US:OK:LeFlore	E1715			road
 21189100		Purple		Lake McMurtry Purple Trail	hiking;mtb
 21239480	US:OK:LeFlore	1250			road
-21385215	Metropolitan Tulsa Transit Authority	110		MLK/Hartford	bus
+21385215	MetroLink Tulsa	110		MLK/Hartford	bus
+21388771	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
