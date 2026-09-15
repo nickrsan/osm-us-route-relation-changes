@@ -571,7 +571,7 @@
 6068155	Valley Metro	571	inbound		bus
 6068156	Valley Metro	571	outbound		bus
 6068157	Valley Metro	575	inbound		bus
-6068158	Valley Metro	575 OB		bus 575 Express OB	bus
+6068158	Valley Metro	575	outbound	bus 575 Express OB	bus
 6068159	Valley Metro	583	inbound		bus
 6068160	Valley Metro	583	outbound		bus
 6068161	Valley Metro	593	inbound		bus
@@ -696,7 +696,7 @@
 7655460	US:US	60	east		road
 7726661	Valley Metro	140 WB	west	bus 140 WB	bus
 7726662	Valley Metro	140 EB	east	bus 140 EB	bus
-7728595	Valley Metro	A		Light Rail A Line Eastbound	light_rail
+7728595	Valley Metro	A	east		light_rail
 7743567	Valley Metro	60 WB		bus 60 WB montebello loop	bus
 7743568	Valley Metro	60 EB	east	bus 60 EB montebello loop	bus
 8061307	lwn	123		Pat Scott Trail #123	hiking

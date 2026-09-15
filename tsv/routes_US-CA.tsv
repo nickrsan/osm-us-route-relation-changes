@@ -4767,7 +4767,7 @@
 12630201	Visalia Transit	16		Route 16	bus
 12637903	DASH	Hollywood/Wilshire		DASH Hollywood/Wilshire Southbound: Hollywood/Vine => Wilshire/Western	bus
 12637904	DASH	Hollywood/Wilshire		DASH Hollywood/Wilshire Northbound: Wilshire/Western => Hollywood/Vine	bus
-12644150				Creeks to Peaks	hiking
+12644150	lwn			Creeks to Peaks	hiking
 12647790					road
 12691891				Sawpit	mtb
 12691892		174M			mtb
@@ -7721,3 +7721,4 @@
 21390045	lwn	DC		Double Cross Trail - Section 1	hiking
 21390076	Santa Rosa CityBus	6		Santa Rosa CityBus 6: Santa Rosa Transit Mall => Coddingtown via Fulton Rd	bus
 21390077	Santa Rosa CityBus	6		Santa Rosa CityBus 6: Coddingtown => Santa Rosa Transit Mall via Fulton Rd	bus
+21394745	lwn	DC		Double Cross Trail - Section 2	hiking
