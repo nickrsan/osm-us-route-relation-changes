@@ -933,7 +933,7 @@
 6989706					power
 6989864	MetroBus	17X	Northbound	MetroBus 17X Lebanon-Mascoutah (northbound)	bus
 6989865	MetroBus	17X	Southbound	MetroBus 17X Lebanon-Mascoutah (southbound)	bus
-6991266	MetroBus	4	Clockwisebound	MetroBus 4 19th Street & Central-ML King (clockwise)	bus
+6991266	MetroBus	4	clockwise	MetroBus 4 19th Street & Central-ML King (clockwise)	bus
 7127467	US:IL:McDonough			County Road 15	road
 7140613	rcn	TH		Tunnel Hill State Trail	bicycle
 7147883	lcn			Rolling Meadows Bikeways	bicycle
@@ -984,7 +984,7 @@
 7665785	lwn			Marsh Trails	hiking
 7669959	lcn	SH		Signal Hill Bike Trail	bicycle
 7692314	lcn			Barrington Bike Routes	bicycle
-7707259	MetroBus	4	Counterclockwisebound	MetroBus 4 19th Street & Central-ML King (counterclockwise)	bus
+7707259	MetroBus	4	anticlockwise	MetroBus 4 19th Street & Central-ML King (counterclockwise)	bus
 7755608	inland waterways			Ohio River	boat
 7755652	inland waterways			Middle Mississippi River	boat
 7768646	lcn			Bloomingdale Bikeways	bicycle

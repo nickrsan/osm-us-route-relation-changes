@@ -1880,8 +1880,6 @@
 5927779		RFST		Redwood Forest Steam Train	train
 5953000	Muni	E		Muni Streetcar E inbound: Caltrain => Fisherman's Wharf	tram:suspended
 5953001	Muni	E		Muni Streetcar E outbound: Fisherman's Wharf => Caltrain	tram:suspended
-5959506			west	El Monte Busway	road
-5959593			east	El Monte Busway	road
 5959711	US:I	5			road
 5963487	US:I	5	north		road
 6033701				Truck route	road
