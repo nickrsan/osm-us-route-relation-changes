@@ -5818,12 +5818,12 @@
 16330727	lcn			OC Loop	bicycle
 16331099				North Fork Coyote Creek Bikeway	bicycle
 16331713	Lynwood Breeze	C		Route C - Purple	bus
-16335528	lwn			San Francisco Crosstown Trail - Hiking - Section 1	hiking
-16336092	lwn			San Francisco Crosstown Trail - Hiking - Section 2	hiking
-16336159	lwn			San Francisco Crosstown Trail - Hiking - Section 3	hiking
+16335528	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 1	hiking
+16336092	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 2	hiking
+16336159	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 3	hiking
 16336373	lcn			San Francisco Crosstown Trail - Cycling - Section 3	bicycle
-16336407	lwn			San Francisco Crosstown Trail - Hiking - Section 4	hiking
-16336450	lwn			San Francisco Crosstown Trail - Hiking - Section 5	hiking
+16336407	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 4	hiking
+16336450	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 5	hiking
 16339142	Lynwood Breeze	D		Route D - Blue	bus
 16339561	I Line	I Line		I Line Shuttle	bus
 16348022	Cityline	Local		Cityline Local - East to La Brea	bus
@@ -7720,3 +7720,6 @@
 21390076	Santa Rosa CityBus	6		Santa Rosa CityBus 6: Santa Rosa Transit Mall => Coddingtown via Fulton Rd	bus
 21390077	Santa Rosa CityBus	6		Santa Rosa CityBus 6: Coddingtown => Santa Rosa Transit Mall via Fulton Rd	bus
 21394745	lwn	DC		Double Cross Trail - Section 2	hiking
+21403978	Santa Rosa CityBus	8		Santa Rosa CityBus 8: Santa Rosa Transit Mall => Bethards Dr at Yulupa Ave	bus
+21403979	Santa Rosa CityBus	8		Santa Rosa CityBus 8: Bethards Dr at Yulupa Ave => Santa Rosa Transit Mall	bus
+21404676	lwn	DC		Double Cross Trail - Section 3	hiking
