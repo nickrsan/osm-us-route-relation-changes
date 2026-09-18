@@ -3366,7 +3366,7 @@
 9330457	lcn	ACR		Arriba-Cargill Bike Route	bicycle
 9330458	lcn	NBR		Nobel Bike Route	bicycle
 9330459	lcn	LJC		La Jolla Colony Bike Route	bicycle
-9331232	Flixbus	2201		Flixbus 2201: Los Angeles => Tucson	bus
+9331232	Flixbus	2201			bus
 9334494				Richmond Belt Line	railway
 9334513				Hensley Line	railway
 9357092				Holland Industrial Lead	railway
@@ -6326,7 +6326,6 @@
 18352084	The Bus	UC		UC - UC Merced	bus
 18353789	rwn			Kelsey National Recreation Trail	hiking
 18353929	rwn			Boundary National Recreation Trail	hiking
-18357212	SRCB	9		Bus 9: Transit Mall loop	bus
 18364990	The Bus	A2		A2 - Winton Way	bus
 18367988				Old Southern Pacific Altamont Line	railway
 18373006	The Bus	A1		A1 - Atwater Loop	bus
@@ -7723,3 +7722,5 @@
 21403978	Santa Rosa CityBus	8		Santa Rosa CityBus 8: Santa Rosa Transit Mall => Bethards Dr at Yulupa Ave	bus
 21403979	Santa Rosa CityBus	8		Santa Rosa CityBus 8: Bethards Dr at Yulupa Ave => Santa Rosa Transit Mall	bus
 21404676	lwn	DC		Double Cross Trail - Section 3	hiking
+21408558	Santa Rosa CityBus	9		Santa Rosa CityBus 9: Santa Rosa Transit Mall => Westside Transit Center	bus
+21408559	Santa Rosa CityBus	9		Santa Rosa CityBus 9: Westside Transfer Center => Santa Rosa Transit Mall	bus

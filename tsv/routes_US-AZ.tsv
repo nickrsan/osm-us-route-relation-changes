@@ -24,8 +24,7 @@
 1453757				Gallup Subdivision	railway
 1453787				Phoenix Subdivision	railway
 1483097	US:NM	53			road
-1492992	US:AZ	101			road
-1492993	US:AZ	303			road
+1492992	US:AZ:Loop	101	clockwise		road
 1493241	US:AZ	64		Williams–Grand Canyon–Cameron Highway	road
 1493242	US:AZ	61		AZ 61	road
 1493243	US:AZ	68		Bullhead City–Kingman Highway	road
@@ -252,10 +251,10 @@
 4478482	lwn			Peralta Trail #102	hiking
 4483366	lwn			Bluff Spring Trail #235	hiking
 4483373	lwn			Four Peaks Trail #130	hiking
-4483570	lwn			Siphon Draw Trail #53	hiking
+4483570	lwn	53		Siphon Draw Trail	hiking
 4483593	lwn	58		Jacob's Crosscut	hiking
 4483601	lwn			Hieroglyphics Trail #101	hiking
-4483608	lwn			Prospectors Trail #57	hiking
+4483608	lwn	57		Prospectors Trail	hiking
 4483609	lwn	56		Treasure Loop	hiking
 4483838	lwn			Cave Trail #233	hiking
 4483853	lwn			Terrapin Trail #234	hiking
@@ -265,122 +264,122 @@
 4492465	lwn			Spencer Trail	hiking
 4498657	Valley Metro	0	north		bus
 4498658	Valley Metro	0	south		bus
-4498930	Valley Metro	39 NB	north	bus 39 NB	bus
-4498931	Valley Metro	39 SB	south	bus 39 SB	bus
-4498932	Valley Metro	70 WB	west	bus 70 WB	bus
-4498933	Valley Metro	70 EB	east	bus 70 EB	bus
+4498930	Valley Metro	39	north		bus
+4498931	Valley Metro	39	south		bus
+4498932	Valley Metro	70	west		bus
+4498933	Valley Metro	70	east		bus
 4499137	Valley Metro	1	east		bus
 4499138	Valley Metro	1	west		bus
 4499139	Valley Metro	10	east		bus
-4499140	Valley Metro	104 NB	north	Bus 104 NB	bus
-4499141	Valley Metro	104 SB	south	Bus 104 SB	bus
-4499142	Valley Metro	106 EB		bus 106 EB	bus
-4499143	Valley Metro	106 WB		bus 106 WB	bus
-4499144	Valley Metro	108 EB	east	bus 108 EB	bus
-4499145	Valley Metro	108 WB	west	bus 108 WB	bus
-4499146	Valley Metro	112 NB	north	bus 112 NB	bus
-4499147	Valley Metro	112 SB	south	bus 112 SB	bus
-4499148	Valley Metro	12 NB		bus 12 NB	bus
-4499149	Valley Metro	12 SB		bus 12 SB	bus
-4499150	Valley Metro	120 NB	north	bus 120 NB	bus
-4499151	Valley Metro	120 SB	south	bus 120 SB	bus
-4499152	Valley Metro	122 EB		bus 122 EB	bus
-4499153	Valley Metro	122 WB		bus 122 WB	bus
-4499154	Valley Metro	128 NB	north	bus 128 NB	bus
-4499155	Valley Metro	128 SB	south	bus 128 SB	bus
+4499140	Valley Metro	104	north		bus
+4499141	Valley Metro	104	south		bus
+4499142	Valley Metro	106	east		bus
+4499143	Valley Metro	106	west		bus
+4499144	Valley Metro	108	east		bus
+4499145	Valley Metro	108	west		bus
+4499146	Valley Metro	112	north		bus
+4499147	Valley Metro	112	south		bus
+4499148	Valley Metro	12			bus
+4499149	Valley Metro	12			bus
+4499150	Valley Metro	120	north		bus
+4499151	Valley Metro	120	south		bus
+4499152	Valley Metro	122	east		bus
+4499153	Valley Metro	122	west		bus
+4499154	Valley Metro	128	north		bus
+4499155	Valley Metro	128	south		bus
 4499156	Valley Metro	13	east		bus
 4499157	Valley Metro	13	west		bus
-4499158	Valley Metro	136 NB	north	bus 136 NB	bus
-4499159	Valley Metro	136 SB	south	bus 136 SB	bus
-4499160	Valley Metro	138 EB	east	bus 138 EB	bus
-4499161	Valley Metro	138 WB	west	bus 138 WB	bus
+4499158	Valley Metro	136	north		bus
+4499159	Valley Metro	136	south		bus
+4499160	Valley Metro	138	east		bus
+4499161	Valley Metro	138	west		bus
 4499162	Valley Metro	15	north		bus
 4499163	Valley Metro	15	south		bus
-4499164	Valley Metro	154 EB	east	bus 154 EB	bus
-4499165	Valley Metro	154 WB	west	bus 154 WB	bus
-4499166	Valley Metro	156 EB	east	bus 156 EB	bus
-4499167	Valley Metro	156 WB	west	bus 156 WB	bus
-4499168	Valley Metro	16 NB	north	bus 16 NB	bus
-4499169	Valley Metro	16 SB	south	bus 16 SB	bus
-4499170	Valley Metro	17 EB	east	bus 17 EB	bus
-4499171	Valley Metro	17 WB	west	bus 17 WB	bus
-4499172	Valley Metro	170 EB		bus 170 EB	bus
-4499173	Valley Metro	170 WB		bus 170 WB	bus
-4499174	Valley Metro	184 NB	north	bus 184 NB	bus
-4499175	Valley Metro	184 SB	south	bus 184 SB	bus
-4499176	Valley Metro	186 EB	east	bus 186 EB	bus
-4499177	Valley Metro	186 WB	west	bus 186 WB	bus
+4499164	Valley Metro	154	east		bus
+4499165	Valley Metro	154	west		bus
+4499166	Valley Metro	156	east		bus
+4499167	Valley Metro	156	west		bus
+4499168	Valley Metro	16	north		bus
+4499169	Valley Metro	16	south		bus
+4499170	Valley Metro	17	east		bus
+4499171	Valley Metro	17	west		bus
+4499172	Valley Metro	170	east		bus
+4499173	Valley Metro	170	west		bus
+4499174	Valley Metro	184	north		bus
+4499175	Valley Metro	184	south		bus
+4499176	Valley Metro	186	east		bus
+4499177	Valley Metro	186	west		bus
 4499178	Valley Metro	19	north		bus
 4499179	Valley Metro	19	south		bus
 4499180	Valley Metro	451	inbound		bus
 4499181	Valley Metro	451	outbound		bus
 4499182	Valley Metro	27	north		bus
 4499183	Valley Metro	27	south		bus
-4499184	Valley Metro	28 EB	east	bus 28 EB	bus
-4499185	Valley Metro	28 WB	west	bus 28 WB	bus
+4499184	Valley Metro	28	east		bus
+4499185	Valley Metro	28	west		bus
 4499186	Valley Metro	29	east		bus
 4499187	Valley Metro	29	west		bus
 4499188	Valley Metro	3	east		bus
 4499189	Valley Metro	3	west		bus
-4499190	Valley Metro	30 WB	west	bus 30 WB	bus
-4499191	Valley Metro	30 EB	east	bus 30 EB	bus
-4499192	Valley Metro	35 NB	north	bus 35 NB	bus
-4499193	Valley Metro	35 SB	south	bus 35 SB	bus
-4499194	Valley Metro	40 EB	east	bus 40 EB	bus
-4499195	Valley Metro	40 WB	west	bus 40 WB	bus
-4499196	Valley Metro	41 EB	east	bus 41 EB	bus
-4499197	Valley Metro	41 WB	west	bus 41 WB	bus
-4499198	Valley Metro	43 NB	north	bus 43 NB	bus
-4499199	Valley Metro	43 SB	south	bus 43 SB	bus
-4499200	Valley Metro	44 NB	north	bus 44 NB	bus
-4499201	Valley Metro	44 SB	south	bus 44 SB	bus
-4499202	Valley Metro	45 EB	east	bus 45 EB	bus
-4499203	Valley Metro	45 WB	west	bus 45 WB	bus
-4499204	Valley Metro	48 NB		bus 48 NB	bus
-4499205	Valley Metro	48 SB		bus 48 SB	bus
+4499190	Valley Metro	30	west		bus
+4499191	Valley Metro	30	east		bus
+4499192	Valley Metro	35	north		bus
+4499193	Valley Metro	35	south		bus
+4499194	Valley Metro	40	east		bus
+4499195	Valley Metro	40	west		bus
+4499196	Valley Metro	41	east		bus
+4499197	Valley Metro	41	west		bus
+4499198	Valley Metro	43	north		bus
+4499199	Valley Metro	43	south		bus
+4499200	Valley Metro	44	north		bus
+4499201	Valley Metro	44	south		bus
+4499202	Valley Metro	45	east		bus
+4499203	Valley Metro	45	west		bus
+4499204	Valley Metro	48			bus
+4499205	Valley Metro	48			bus
 4499206	Valley Metro	50	east		bus
 4499207	Valley Metro	50	west		bus
-4499208	Valley Metro	51 NB	north	bus 51 NB	bus
-4499209	Valley Metro	51 SB	south	bus 51 SB	bus
-4499210	Valley Metro	52 EB		bus 52 EB	bus
-4499211	Valley Metro	52 WB		bus 52 WB	bus
-4499213	Valley Metro	56 NB		bus 56 NB	bus
-4499215	Valley Metro	56 SB		bus 56 SB	bus
-4499218	Valley Metro	59 NB	north	bus 59 NB	bus
-4499219	Valley Metro	59 SB	south	bus 59 SB	bus
-4499220	Valley Metro	61 EB	east	bus 61 EB	bus
-4499221	Valley Metro	61 WB	west	bus 61 WB	bus
-4499222	Valley Metro	62 NB	north	bus 62 NB	bus
-4499223	Valley Metro	62 SB	south	bus 62 SB	bus
-4499224	Valley Metro	65 NB		bus 65 NB	bus
-4499225	Valley Metro	65 SB		bus 65 SB	bus
-4499226	Valley Metro	66 NB		bus 66 NB	bus
-4499227	Valley Metro	66 SB		bus 66 SB	bus
-4499228	Valley Metro	67 NB		bus 67 NB	bus
-4499229	Valley Metro	67 SB	south	bus 67 SB	bus
+4499208	Valley Metro	51	north		bus
+4499209	Valley Metro	51	south		bus
+4499210	Valley Metro	52			bus
+4499211	Valley Metro	52			bus
+4499213	Valley Metro	56			bus
+4499215	Valley Metro	56			bus
+4499218	Valley Metro	59	north		bus
+4499219	Valley Metro	59	south		bus
+4499220	Valley Metro	61	east		bus
+4499221	Valley Metro	61	west		bus
+4499222	Valley Metro	62	north		bus
+4499223	Valley Metro	62	south		bus
+4499224	Valley Metro	65	north		bus
+4499225	Valley Metro	65	south		bus
+4499226	Valley Metro	66	north		bus
+4499227	Valley Metro	66	south		bus
+4499228	Valley Metro	67	north		bus
+4499229	Valley Metro	67	south		bus
 4499230	Valley Metro	7	south		bus
 4499231	Valley Metro	7	north		bus
-4499232	Valley Metro	72 NB	north	bus 72 NB	bus
-4499233	Valley Metro	72 SB	south	bus 72 SB	bus
-4499234	Valley Metro	75 NB	north	bus 75 NB	bus
-4499235	Valley Metro	75 SB	south	bus 75 SB	bus
-4499236	Valley Metro	77 EB	east	bus 77 EB	bus
-4499237	Valley Metro	77 WB	west	bus 77 WB	bus
+4499232	Valley Metro	72	north		bus
+4499233	Valley Metro	72	south		bus
+4499234	Valley Metro	75	north		bus
+4499235	Valley Metro	75	south		bus
+4499236	Valley Metro	77	east		bus
+4499237	Valley Metro	77	west		bus
 4499238	Valley Metro	8	north		bus
 4499239	Valley Metro	8	south		bus
-4499240	Valley Metro	80 EB		bus 80 EB	bus
-4499241	Valley Metro	80 WB	west	bus 80 WB	bus
-4499242	Valley Metro	81 NB	north	bus 81 NB	bus
-4499243	Valley Metro	81 SB	south	bus 81 SB	bus
-4499244	Valley Metro	83 NB		bus 83 NB	bus
-4499245	Valley Metro	83 SB		bus 83 SB	bus
-4499246	Valley Metro	90 EB	east	bus 90 EB	bus
-4499247	Valley Metro	90 WB	west	bus 90 WB	bus
-4499248	Valley Metro	96 NB	north	bus 96 NB	bus
-4499249	Valley Metro	96 SB	south	bus 96 SB	bus
+4499240	Valley Metro	80	east		bus
+4499241	Valley Metro	80	west		bus
+4499242	Valley Metro	81	north		bus
+4499243	Valley Metro	81	south		bus
+4499244	Valley Metro	83	north		bus
+4499245	Valley Metro	83	south		bus
+4499246	Valley Metro	90	east		bus
+4499247	Valley Metro	90	west		bus
+4499248	Valley Metro	96	north		bus
+4499249	Valley Metro	96	south		bus
 4499250	Valley Metro	10	west		bus
-4499251	Valley Metro	60 EB	east	bus 60 EB	bus
-4499252	Valley Metro	60 WB	west	bus 60 WB	bus
+4499251	Valley Metro	60	east		bus
+4499252	Valley Metro	60	west		bus
 4499553	Valley Metro	PST	west		tram
 4499554	Valley Metro	PST	east		tram
 4512960				Arizona & California Railroad	railway
@@ -393,7 +392,7 @@
 4547782	Valley Metro	608	inbound		bus
 4547783	Valley Metro	608	outbound		bus
 4548046	Valley Metro	GAL	east		bus
-4548047	Valley Metro	GAL WB		bus GAL WB	bus
+4548047	Valley Metro	GAL	west		bus
 4554043	Valley Metro	514	inbound		bus
 4554044	Valley Metro	514	outbound		bus
 4554047	Valley Metro	521	inbound		bus
@@ -439,46 +438,18 @@
 4849007	lwn	246		Snowshed Trail #246	hiking
 4849012	lwn	240		Burro Trail #240	hiking
 5509062	ncn	90			bicycle
-5519054	lcn	MS 3		Mesa Route 3	bicycle
-5541148	lcn	MS 1		Mesa Route 1	bicycle
-5541149	lcn	MS 2		Mesa Route 2	bicycle
-5541150	lcn	MS 4		Mesa Route 4	bicycle
-5541151	lcn	MS 5		Mesa Route 5	bicycle
-5541152	lcn	MS 6		Mesa Route 6	bicycle
+5519054	lcn	3		Mesa Route 3	bicycle
+5541148	lcn	1		Mesa Route 1	bicycle
+5541149	lcn	2		Mesa Route 2	bicycle
+5541150	lcn	4		Mesa Route 4	bicycle
+5541151	lcn	5		Mesa Route 5	bicycle
+5541152	lcn	6		Mesa Route 6	bicycle
 5748291					power
 5748294					power
 5749444				Navajo Sub APSC to Moenkopi Sub APSC 500KV	power
-5749445					power
-5749446					power
 5749447				Moenkopi Sub APSC to Four Corners Sub APSC 500KV	power
-5749448				Navajo Sub APSC to Morgan Sub APSC 500KV	power
-5749449					power
-5749451					power
-5749453					power
-5749454					power
-5749456					power
-5749457					power
-5749458					power
 5749459					power
-5749460					power
 5749461				Moenkopi Sub APSC to Eldorado Sub SCE 500KV	power
-5749462					power
-5749532					power
-5749533					power
-5749751					power
-5749752					power
-5749753					power
-5749754					power
-5749755					power
-5749756					power
-5749757					power
-5749758					power
-5749805					power
-5749806					power
-5749807					power
-5749808					power
-5749840					power
-5749841					power
 5753918					power
 5753919					power
 5753920					power
@@ -497,9 +468,6 @@
 5754135					power
 5754136					power
 5754208					power
-5754209					power
-5754368					power
-5754369					power
 5754480					power
 5754481					power
 5754482					power
@@ -520,38 +488,22 @@
 5754716					power
 5754743					power
 5754744					power
-5755122					power
 5755124					power
 5755133					power
-5755156					power
-5755157					power
 5755610					power
 5755611					power
 5756430					power
 5756431					power
-5756475					power
 5756509					power
 5756510					power
 5756511					power
 5756512					power
-5756513					power
-5756525					power
-5756526					power
-5757000					power
-5757001					power
-5757002					power
-5757003					power
-5757004					power
-5757063					power
-5757064					power
-5757114					power
 5914476	lwn			Summit Trail 300	hiking
-5914477	lwn			Freedom Trail 302	hiking
-5914478	lwn			Nature Trail 304	hiking
-5914479	lwn			Trail 200	hiking
+5914477	lwn	302		Freedom Trail 302	hiking
+5914478	lwn	304		Nature Trail 304	hiking
+5914479	lwn	200			hiking
 5936717					power
 5936718					power
-5936719					power
 5936720					power
 5936721					power
 5936722					power
@@ -571,7 +523,7 @@
 6068155	Valley Metro	571	inbound		bus
 6068156	Valley Metro	571	outbound		bus
 6068157	Valley Metro	575	inbound		bus
-6068158	Valley Metro	575	outbound	bus 575 Express OB	bus
+6068158	Valley Metro	575	outbound		bus
 6068159	Valley Metro	583	inbound		bus
 6068160	Valley Metro	583	outbound		bus
 6068161	Valley Metro	593	inbound		bus
@@ -592,14 +544,13 @@
 6145777	lwn			Murry Basin Trail	hiking
 6145778	lwn			Robiinson Hollow Trail	hiking
 6168034	lcn			Cochise Vista Trail	bicycle
-6184370					power
 6196110					road
 6211034				PHX Service Roads	road
 6282228	lcn			Grand Canal Trail	bicycle
 6319026	Valley Metro	32	north		bus
-6319027	Valley Metro	32 SB	south	bus 32 SB	bus
-6371049	Valley Metro	685		bus Ajo/Gila Bend to Phoenix IB	bus
-6371050	Valley Metro	685		bus Ajo/Gila Bend to Phoenix OB	bus
+6319027	Valley Metro	32	south		bus
+6371049	Valley Metro	685			bus
+6371050	Valley Metro	685			bus
 6383158	lwn	107		Carr Peak Trail #107	hiking
 6383159	lwn			Coronado Peak Trail	hiking
 6383160	rwn	103		Crest Trail #103	hiking
@@ -617,14 +568,14 @@
 6475533	lwn	100		Charles M. Christiansen Trail 100	hiking
 6475534	lwn			Dixie Peak Trail	hiking
 6475535	lwn			Dreamy Draw Nature Trail 220	hiking
-6475536	lwn			L.V. Yates Trail 8	hiking
-6475537	lwn			Perl Charles Trail 1A	hiking
-6475538	lwn			Quartz Ridge Trail 8A	hiking
-6475539	lwn			Ruth Hamilton Trail 8B	hiking
-6475540	lwn			Trail 100B	hiking
-6475541	lwn			Trail 306	hiking
-6475542	lwn			Trail 60	hiking
-6475543	lwn			VOAZ Trail #1B	hiking
+6475536	lwn	8		L.V. Yates Trail	hiking
+6475537	lwn	1A		Perl Charles Trail	hiking
+6475538	lwn	8A		Quartz Ridge Trail	hiking
+6475539	lwn	8B		Ruth Hamilton Trail	hiking
+6475540	lwn	100B			hiking
+6475541	lwn	306			hiking
+6475542	lwn	60			hiking
+6475543	lwn	1B		VOAZ Trail	hiking
 6476187	lwn			Rimview Trail	hiking
 6623604	lwn	120		Devils Bridge #120	hiking
 6623605	lwn	122		Long Canyon #122	hiking
@@ -641,7 +592,6 @@
 6645297	Sun Tran	16 SB		Sun Tran Route 16 Oracle/Ina (southbound)	bus
 6645692				El Paso and Southwestern Railroad (Tucson Remnants)	railroad
 6645717				Old Tucson Mainline	railway
-6725963				Agua Fria Generating Station 2	power
 6730478		GCR		Grand Canyon Railway	train
 6741017	lwn			Desert View Trail	hiking
 6741042	lwn			Palo Verde Trail	hiking
@@ -655,7 +605,7 @@
 6769828				Marty Robbins Boulevard	road
 6770048		59		County Highway 59	road
 6775680		259		Forest Road 259	road
-6783819	Valley Metro	DASH WB		bus DASH WB	bus
+6783819	Valley Metro	DASH	west		bus
 6785046	US:US:Old	66			road
 6785930			east	Northern Parkway	road
 6785931			west	Northern Parkway	road
@@ -666,7 +616,7 @@
 6791956	US:I	40	east		road
 6830177	US:AZ:Yavapai	72		County Road 72	road
 6830178	US:AZ:Yavapai	70		County Route 70	road
-6910620		MLK Blvd		Dr. Martin Luther King Jr. Boulevard	road
+6910620		MLK		Doctor Martin Luther King Junior Boulevard	road
 6989801	lwn				foot
 7012094	lwn	108		West Fork #108	hiking
 7012095	lwn			Thomas Point Trail #142	hiking
@@ -694,11 +644,11 @@
 7618907				Ski Valley	ski
 7644002	lwn			Trail 261	hiking
 7655460	US:US	60	east		road
-7726661	Valley Metro	140 WB	west	bus 140 WB	bus
-7726662	Valley Metro	140 EB	east	bus 140 EB	bus
+7726661	Valley Metro	140	west		bus
+7726662	Valley Metro	140	east		bus
 7728595	Valley Metro	A	east		light_rail
-7743567	Valley Metro	60 WB		bus 60 WB montebello loop	bus
-7743568	Valley Metro	60 EB	east	bus 60 EB montebello loop	bus
+7743567	Valley Metro	60	west		bus
+7743568	Valley Metro	60	east		bus
 8061307	lwn	123		Pat Scott Trail #123	hiking
 8068437	lwn			Mica Mountain Trail	hiking
 8068817	rwn	AZT #1		Arizona Trail #1 Huachuca Mountains	hiking
@@ -764,15 +714,10 @@
 8109385	lwn			Cottonwood Creek Trail	hiking
 8109386	lwn			Hance Creek Trail	hiking
 8138125				East Brown Street	road
-8140321				North 24th Street	road
 8140322				East Brown Street	road
 8140910				East Cinnabar Avenue	road
 8141156				East Turquoise Drive	road
-8141157				North 24th Place	road
 8141158				East Mountain View Road	road
-8141221				North 25th Street	road
-8149313				North 26th Street	road
-8152769				North 23rd Street	road
 8194115	lwn			Tiyo Point Trail	hiking
 8194116	lwn			Point Sublime Trail	hiking
 8238036		7			bus
@@ -855,9 +800,8 @@
 8696948	lwn	80		Connector Trail #80	hiking
 8696949	lwn	40		Bull Basin Trail #40	hiking
 8697772	rwn	61		Beale Wagon Road Historic Trail #61	hiking
-8728081				Dr Martin Luther King Jr Boulevard	road
-8729958	Valley Metro	S		Tempe Streetcar EB	tram
-8729959	Valley Metro	S		Tempe Streetcar WB	tram
+8729958	Valley Metro	S	east		tram
+8729959	Valley Metro	S	west		tram
 8803549					railway
 8803552					railway
 9090208	US:AZ:Loop	303	south		road
@@ -902,7 +846,7 @@
 9230611	US:US:Historic	80			road
 9277951	Sun Tran	10 NB		Sun Tran Route 10 Ruthrauff (northbound)	bus
 9277952	Sun Tran	10 SB		Sun Tran Route 10 Ruthrauff (southbound)	bus
-9331232	Flixbus	2201		Flixbus 2201: Los Angeles => Tucson	bus
+9331232	Flixbus	2201			bus
 9338492	nwn			Black Canyon Trail	hiking
 9380233				West Cardinals Way	road
 9426707	rcn			Safford-Morenci Trail	hiking
@@ -925,10 +869,9 @@
 9471477	lwn			Pima East Loop	hiking
 9471478	lwn			Pima Wash Trail	hiking
 9471479	lwn			Tondum Wihom Trail	hiking
-9471480					hiking
+9471480	lwn			Holbert Trail	hiking
 9471481	lwn			Ma Ha Tuak Trail	hiking
-9480082	US:AZ:Loop	101		AZ 101 Loop (Clockwise)	road
-9483332	US:AZ:Loop	101		AZ 101 Loop (Counterclockwise)	road
+9483332	US:AZ:Loop	101	counterclockwise		road
 9620151	Sun Tran	2 SB		Sun Tran Route 2 Pueblo Gardens (Southbound)	bus
 9620451	Sun Tran	12		Sun Tran Route 12 10th/12th Avenue	bus
 9620452	Sun Tran	11		Sun Tran Route 11 Alvernon	bus
@@ -976,40 +919,40 @@
 9740222	lcn			New River Trail	bicycle
 9740374	lcn			Queen Creek Wash Trail	bicycle
 9740385	lcn			Route 66 Trail	bicycle
-9993215	Valley Metro	MARY CC		bus MARY Counter Clockwise	bus
-9993216	Valley Metro	MARY C		bus MARY Clockwise	bus
-9993336	Valley Metro	SMART WB		bus SMART WB	bus
-9993337	Valley Metro	SMART EB		bus SMART EB	bus
-10014590	Valley Metro	BUZZ WB		bus BUZZ WB	bus
-10014591	Valley Metro	BUZZ EB		bus BUZZ EB	bus
-10014592	Valley Metro	ALEX WB		bus ALEX WB	bus
-10014593	Valley Metro	ALEX EB		bus ALEX EB	bus
-10014594	Valley Metro	OV WB		bus OV WB	bus
-10014595	Valley Metro	OV EB		bus OV EB	bus
-10014596	Valley Metro	OS WB		bus OS WB	bus
-10014597	Valley Metro	OS EB		bus OS EB	bus
-10014598	Valley Metro	OM WB		bus OM WB	bus
-10014599	Valley Metro	OM EB		bus OM EB	bus
-10014600	Valley Metro	OMA NB		bus OMA NB	bus
-10014601	Valley Metro	OMA SB		bus OMA SB	bus
-10014602	Valley Metro	OJ SB		bus OJ SB	bus
-10014603	Valley Metro	OJ NB		bus OJ NB	bus
-10014604	Valley Metro	OE EB		bus OE EB	bus
-10014605	Valley Metro	OE WB		bus OE WB	bus
-10014606	Valley Metro	FLSH EB		bus FLASH EB	bus
-10014607	Valley Metro	FLSH WB		bus FLASH WB	bus
-10047465	Valley Metro	POGO C		bus POGO Clockwise	bus
-10047466	Valley Metro	POGO CC		bus POGO Counter Clockwise	bus
-10078354	Valley Metro	OLDT		bus OLDT	bus
-10078355	Valley Metro	MLHD NB		bus MLHD NB	bus
-10078356	Valley Metro	MLHD SB		bus MLHD SB	bus
-10078489	Valley Metro	68CM SB		bus 68CM SB	bus
-10078490	Valley Metro	68CM NB		bus 68CM NB	bus
-10078552	Valley Metro	MSTG SB	south	bus MSTG SB	bus
-10078553	Valley Metro	MSTG NB	north	bus MSTG NB	bus
-10121858	Valley Metro	GUS2 C		bus GUS2 C	bus
-10121859	Valley Metro	GUS3 CC		bus GUS3 CC	bus
-10121860	Valley Metro	GUS1 CC		bus GUS1 CC	bus
+9993215	Valley Metro	MARY	counterclockwise		bus
+9993216	Valley Metro	MARY	clockwise		bus
+9993336	Valley Metro	SMART	west		bus
+9993337	Valley Metro	SMART	east		bus
+10014590	Valley Metro	BUZZ	west		bus
+10014591	Valley Metro	BUZZ	east		bus
+10014592	Valley Metro	ALEX	west		bus
+10014593	Valley Metro	ALEX	east		bus
+10014594	Valley Metro	OV	west		bus
+10014595	Valley Metro	OV	east		bus
+10014596	Valley Metro	OS	west		bus
+10014597	Valley Metro	OS	east		bus
+10014598	Valley Metro	OM	west		bus
+10014599	Valley Metro	OM	east		bus
+10014600	Valley Metro	OMA	north		bus
+10014601	Valley Metro	OMA	south		bus
+10014602	Valley Metro	OJ	south		bus
+10014603	Valley Metro	OJ	north		bus
+10014604	Valley Metro	OE	east		bus
+10014605	Valley Metro	OE	west		bus
+10014606	Valley Metro	FLSH	east		bus
+10014607	Valley Metro	FLSH	west		bus
+10047465	Valley Metro	POGO	clockwise		bus
+10047466	Valley Metro	POGO	counterclockwise		bus
+10078354	Valley Metro	OLDT			trolleybus
+10078355	Valley Metro	MLHD	north		trolleybus
+10078356	Valley Metro	MLHD	south		trolleybus
+10078489	Valley Metro	68CM	south		trolleybus
+10078490	Valley Metro	68CM	north		trolleybus
+10078552	Valley Metro	MSTG	south		trolleybus
+10078553	Valley Metro	MSTG	north		trolleybus
+10121858	Valley Metro	GUS 2	clockwise		bus
+10121859	Valley Metro	GUS 3	counterclockwise		bus
+10121860	Valley Metro	GUS 1	counterclockwise		bus
 10166306	US:US:Temporary	191			road
 10302684	US:AZ	82		AZ 82	road
 10302694	US:AZ:Business	19			road
@@ -1132,8 +1075,8 @@
 10949117	lwn	78B		Cow Pies #78B	hiking
 10949118	lwn	78		Munds Wagon #78	hiking
 10949119	lwn	78C		Hangover #78C	hiking
-10967533	Valley Metro	ZOOM WB		bus ZOOM WB	bus
-10967534	Valley Metro	ZOOM EB		bus ZOOM EB	bus
+10967533	Valley Metro	ZOOM	west		bus
+10967534	Valley Metro	ZOOM	east		bus
 11139675	lwn	EN		Eagle's Nest Trail	hiking
 11139757	lwn	CL		Slide Rock Trail	foot
 11139758	lwn	CL		Clifftop Trail	foot
@@ -1261,8 +1204,6 @@
 13053074					bus
 13055438	Sun Tran	23 X		Sun Tran Route 23X - Cholla Charger Expreaa	bus
 13124382	lcn			Sun Circle Trail	bicycle
-13200892				Browning Sub APSC to Silverking Sub APSC 500KV	power
-13200893					power
 13200894				Aps Delaney Sub APSC to Hassayampa Tap Sub APSC 500KV	power
 13298869	US:AZ:Spur			State Route 202 Spur	road
 13298959	US:AZ:Spur			Fain Road	road
@@ -1347,7 +1288,7 @@
 14245567	rwn	631		Los Burros Trail	hiking
 14245712				Gand Canyon Railway Route	train
 14251451	rwn			Osprey Connector Trail	hiking
-14256779				Dr. Art Mollen Fitness Path	fitness_trail
+14256779				Doctor Art Mollen Fitness Path	fitness_trail
 14279439	US:AZ:Spur	95S		"AZ 95S (Mohave County, AZ)"	road
 14357035	lcn	MVR 1		Mountain Vista Route	bicycle
 14360818					bus
@@ -1391,10 +1332,10 @@
 14735837	rcn	250		Coconino Loop	mtb
 14865111				Original Southern Pacific Railroad Phoenix Subdivision Alignment	railway
 14865112				Arizona Eastern Railroad Phoenix Division	railway
-14933899	lcn	a		a	bicycle
-14933900	lcn	b		b	bicycle
-14933936	lcn	d		d	bicycle
-14933937	lcn	c		c	bicycle
+14933899	lwn	A			foot
+14933900	lwn	B			foot
+14933936	lwn	D			foot
+14933937	lwn	C			foot
 14946395	MX:MX	8			road
 15055447	US:BIA	106			road
 15055448	US:BIA	591		N591	road
@@ -1467,7 +1408,6 @@
 17053689				ARZC Trackage Rights in BNSF Phoenix Subdivision	railway
 17302032	lcn			Liberty Avenue Bicycle Boulevard	bicycle
 17352454	lwn			DFLT Seitts	hiking
-17408085				North Beardsley Canal Road	road
 17733408				Pima West Loop Trail	hiking
 17750993		559		Campus Trail	hiking
 17866241	lcn			Highly Falkner shared-use path	bicycle
@@ -1631,7 +1571,6 @@
 20085037	lcn	PvBr2	both	Town of Prescott Valley Bicycle Route 2 {ToPVBR2}	bicycle
 20086484	US:BIA	5113		Navajo Route 5113	road
 20086498	US:BIA	6			road
-20115040					road
 20124868	US:Hopi	18		Hopi Route 18	road
 20124869	US:Hopi	17		Hopi Route 17	road
 20124870	US:BIA	4		Navajo Route 4	road
@@ -1687,7 +1626,7 @@
 21079223	US:BIA	105		Indian Route 105	road
 21212883	US:NFSR:Coconino:FR	9224X		Forest Service Road 9224X	road
 21212884	US:NFSR:Coconino:FR	9012L		Forest Service Road 9012L	road
-21222682	US:AZ:Future	404			road
+21222682	US:AZ:Future	404		White Tank Freeway	road
 21254240	US:BIA	161		Navajo Route 161	road
 21254243	US:BIA	6310		Navajo Route 6310	road
 21254246	US:UT:San_Juan	434		County Road 434	road

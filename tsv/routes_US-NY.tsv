@@ -8764,18 +8764,10 @@
 17398309	lwn			Yellow Trail	hiking
 17398310	lwn			White Trail	hiking
 17398311	lwn			Red Trail	hiking
-17399422		218			power
-17405071		224			power
-17405072		216			power
-17405073		217			power
-17405074		226			power
 17405187				White Trail	hiking
 17406264		T1320			power
-17406770		S2870			power
 17407394		T1580			power
 17407395		T1890			power
-17407771		213			power
-17407772		203			power
 17410961	lwn			Seneca Trail	hiking
 17417390	NYC Transit	SIM22		NYCB - SIM22 Midtown --> Eltingville	bus
 17418629	lwn			Yellow Loop	hiking
@@ -11678,3 +11670,4 @@
 21402929	lcn			Adams Street	bicycle
 21402944	lcn			Livingston Street	bicycle
 21402952	lcn			Lafayette Avenue	bicycle
+21406536	lcn			Park Avenue	bicycle
