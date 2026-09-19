@@ -19,7 +19,7 @@
 1023625	lcn			Treat	bicycle
 1023652	lcn			Tucson	bicycle
 1023653	lcn			Columbus Boulevard	bicycle
-1320650	US:NHS:HPC			High-Priority Corridor 26	road
+1320650	US:NHS:HPC			CANAMEX Corridor	road
 1453756		BNSF		Seligman Subdivision	railway
 1453757				Gallup Subdivision	railway
 1453787				Phoenix Subdivision	railway
@@ -32,7 +32,7 @@
 1493245	US:AZ	67		AZ 67	road
 1501139	US:AZ	73		AZ 73	road
 1501140	US:AZ	71		AZ 71	road
-1501141	US:AZ	74		AZ 74	road
+1501141	US:AZ	74		Carefree Highway	road
 1501142	US:AZ	72		Junction State Route 95–Hope Highway	road
 1501143	US:AZ	69		Cordes Junction–Prescott Highway	road
 1501157	US:AZ	77		AZ 77	road
@@ -1646,3 +1646,4 @@
 21323063	US:Navajo	6812			road
 21323064	US:AZ:Indian	58			road
 21360828	US:BIA	607			road
+21411418	US:AZ:Mohave	159		Cholla Canyon Ranch Road	road
