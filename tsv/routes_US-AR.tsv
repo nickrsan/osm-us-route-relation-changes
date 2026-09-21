@@ -739,7 +739,6 @@
 10790330	lcn	DhC		Downhill Connector	mtb
 10790331	lcn	Med		Medusa	mtb
 10790332	lcn	Tata		Tatamagouche	mtb
-10790333	lcn	ALS		Armadillo's Last Stand	mtb
 10790449				Urban Trail	mtb
 10790450				Razorback Ridge	mtb
 10790451		AC		Angus Chute	mtb
@@ -793,7 +792,7 @@
 10848080	lcn	BB		Barn Burner	mtb
 10848081	lcn	BA-Loop		Burns Arboretum Loop Trail	mtb
 10848084	lcn	OC		Oak Connector	mtb
-10848085	lcn	BAC		Black Apple Creek Trail	mtb
+10848085	lcn	BAC		Black Apple Creek	mtb
 10848167	lcn	RttC		Rotten to the Core	mtb
 10851139	lcn	BY-Drop		The Boneyard Drop	mtb
 10851140	lcn	BY-Return		Boneyard Return	mtb
@@ -1279,12 +1278,11 @@
 13423432	lcn	BY-Ds+		The Bone Yard Drops Bonus Line	mtb
 13423433	lcn	Creek		Creekside	mtb
 13423541		MP-N		Master Plan South	mtb
-13426735	lcn	BAC		Black Apple Creek Trail-Slaughter Pen	mtb
+13426735	lcn	BAC		Black Apple Creek	mtb
 13426737	lcn	BY-Ridge		The Bone Yard Ridge	mtb
 13426738	lcn	BY-Sent		The Boneyard Sent	mtb
 13427318	lcn	GreenS-C		Greenway Connector Phase 1 South	mtb
 13429145	lcn	AA-Phs2		All-American Heros Phase 2	mtb
-13429311	lcn	BP-C		Bush Push Connector	mtb
 13429312	lcn	Oak-C		Oaklawn Connector	mtb
 13429586		BC		Berm Creek	mtb
 13429587	lcn	ACG		Angus Chute Gully	mtb
