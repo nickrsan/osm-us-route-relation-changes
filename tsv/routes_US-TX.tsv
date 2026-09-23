@@ -53,7 +53,7 @@
 90283	MetroRail	550		Capital Metro Red Line: Downtown Austin → Leander	train
 93623		OST			road
 104429	US:I:Business:Loop	35		"I 35 Business (B - Encinal, TX)"	road
-112066	US:I	610			road
+112066	US:I	610		Interstate 610	road
 112073	US:I	635			road
 112095	US:I	820			road
 114165	US:TX	48			road
@@ -727,7 +727,7 @@
 1464549	US:TX	61			road
 1464570	US:TX	60			road
 1464582	US:TX	59			road
-1469027	US:TX:Beltway	8		Texas State Highway Beltway 8	road
+1469027	US:TX:Beltway	8		Sam Houston Parkway	road
 1470439	US:TX	57			road
 1472737	US:TX	55			road
 1472747	US:TX	54			road
@@ -4780,14 +4780,14 @@
 3838941				"Chicago, Rock Island and Pacific Railroad"	railway
 3844731					railway
 3913479	lcn	37		On-Street Route 37	bicycle
-3958285	Metro	58		Metro 58 Hammerly	bus
+3958285	Metro	58		Hammerly	bus
 3958286	Metro	98		Metro 98 Briargate	bus
-3958288	Metro	49		Metro 49 Chimney Rock / South Post Oak	bus
-3958495	Metro	46		Metro 46 Gessner	bus
-3958527	Metro	36		Metro 36 Kempwood	bus
+3958288	Metro	49		Chimney Rock / South Post Oak	bus
+3958495	Metro	46		Gessner	bus
+3958527	Metro	36		Kempwood	bus
 3961061	Metro	20		Metro 20 Canal / Memorial	bus
 3962395	Metro	45		Metro 45 Tidwell	bus
-3963015	Metro	85		Metro 85 Antoine / Washington	bus
+3963015	Metro	85		Antoine / Washington	bus
 3969349	Metro	44		Metro 44 Acres Homes	bus
 3990799	US:TX:FM	1015			road
 3990801	US:TX:FM	732			road
@@ -5411,15 +5411,15 @@
 8379513	Metro	5		Metro 5 Southmore	bus
 8379749	Metro	60		Metro 60 Cambridge	bus
 8379750	Metro	27		Metro 27 Shepherd	bus
-8379751	Metro	70		Metro 70 Memorial	bus
+8379751	Metro	70		Memorial	bus
 8379752	Metro	25		Metro 25 Richmond	bus
-8379754	Metro	26		Metro 26 Long Point / Cavalcade	bus
+8379754	Metro	26		Long Point / Cavalcade	bus
 8379755	Metro	11		Metro 11 Almeda / Lyons	bus
 8380309	Metro	78		Metro 78 Wayside	bus
 8380310	Metro	102		Metro 102 Bush IAH Express (inbound)	bus
 8380311	Metro	50		Metro 50 Broadway	bus
 8380312	Metro	40		Metro 40 Telephone / Heights	bus
-8380313	Metro	39		Metro 39 Katy Freeway	bus
+8380313	Metro	39		Katy Freeway	bus
 8380314	Metro	76		Metro 76 Evergreen	bus
 8380315	Metro	38		Metro 38 Manchester - Lawndale	bus
 8380317	Metro	32		Metro 32 Renwick / San Felipe	bus
@@ -5429,9 +5429,9 @@
 8382278	Metro	52		Metro 52 Hardy - Ley	bus
 8382279	Metro	51		Metro 51 Hardy - Kelley	bus
 8382280	Metro	48		Metro 48 Market	bus
-8382281	Metro	47		Metro 47 Hillcroft	bus
+8382281	Metro	47		Hillcroft	bus
 8385107	Metro	73		Metro 73 Bellfort	bus
-8385108	Metro	72		Metro 72 Westview	bus
+8385108	Metro	72		Westview	bus
 8385109	Metro	71		Metro 71 Cottage Grove	bus
 8385111	Metro	4		Metro 4 Beechnut	bus
 8385112	Metro	67		Metro 67 Dairy Ashford	bus
@@ -5441,7 +5441,7 @@
 8385116	Metro	59		Metro 59 Aldine Mail	bus
 8385117	Metro	66		Metro 66 Quitman	bus
 8385118	Metro	56		Metro 56 Airline / Montrose	bus
-8385318	Metro	84		Metro 84 Buffalo Speedway	bus
+8385318	Metro	84		Buffalo Speedway	bus
 8385319	Metro	83		Metro 83 Lee Road - JFK	bus
 8385320	Metro	82		Metro 82 Westheimer	bus
 8385321	Metro	80		Metro 80 MLK / Lockwood	bus
@@ -5450,7 +5450,7 @@
 8385324	Metro	75		Metro 75 Eldridge	bus
 8386939	Metro	99		Metro 99 Ella - FM 1960	bus
 8386940	Metro	97		Metro 97 Settegast	bus
-8386941	Metro	89		Metro 89 Dacoma	bus
+8386941	Metro	89		Dacoma	bus
 8386942	Metro	88		Metro 88 Sagemont	bus
 8386943	Metro	87		Metro 87 Sunnyside	bus
 8386944	Metro	86		Metro 86 FM 1960 / Imperial Valley	bus
@@ -5466,22 +5466,22 @@
 8389433	Metro	360		Metro 360 Peerless Shuttle	bus
 8389434	Metro	311		Metro 311 Bayou Event Shuttle	bus
 8389435	Metro	170		Metro 170 Missouri City Express	bus
-8389436	Metro	162		Metro 162 Memorial Express	bus
-8389437	Metro	161		Metro 161 Wilcrest Express	bus
-8389438	Metro	160		Metro 160 Memorial City Express	bus
+8389436	Metro	162		Memorial Express	bus
+8389437	Metro	161		Wilcrest Express	bus
+8389438	Metro	160		Memorial City Express	bus
 8389444	Metro	418		Metro 418 Harris County Jury Shuttle	bus
-8390060	Metro	217		Metro 217 Cypress	bus
-8390061	Metro	219		Metro 219 West Little York / Northwest Station / Cypress	bus
-8390062	Metro	216		Metro 216 West Little York	bus
-8390063	Metro	214		Metro 214 Northwest Station	bus
+8390060	Metro	217		Cypress	bus
+8390061	Metro	219		West Little York / Northwest Station / Cypress	bus
+8390062	Metro	216		West Little York	bus
+8390063	Metro	214		Northwest Station	bus
 8390064	Metro	212		Metro 212 Seton Lake	bus
 8390065	Metro	209		Metro 209 Kuykendahl / Spring	bus
 8390066	Metro	204		Metro 204 Spring	bus
 8390067	Metro	202		Metro 202 Kuykendahl	bus
-8391589	Metro	229		Metro 229 Addicks / Kingsland / Grand Parkway	bus
-8391590	Metro	228		Metro 228 Addicks	bus
-8391591	Metro	222		Metro 222 Grand Parkway	bus
-8391592	Metro	221		Metro 221 Kingsland	bus
+8391589	Metro	229		Addicks / Kingsland / Grand Parkway	bus
+8391590	Metro	228		Addicks	bus
+8391591	Metro	222		Grand Parkway	bus
+8391592	Metro	221		Kingsland	bus
 8392755	Metro	249		Metro 249 Monroe / Fuqua / El Dorado / Bay Area	bus
 8392756	Metro	248		Metro 248 El Dorado	bus
 8392757	Metro	247		Metro 247 Fuqua	bus
@@ -5493,11 +5493,11 @@
 8393427	Metro	257		Metro 257 Townsen	bus
 8393432	Metro	256		Metro 256 Eastex	bus
 8393433	Metro	255		Metro 255 Kingwood	bus
-8395381	Metro	298		Metro 298 NWTC / Addicks / Kingsland / TMC	bus
+8395381	Metro	298		Northwest Transit Center / Addicks / Kingsland / Texas Medical Center	bus
 8395382	Metro	297		Metro 297 South Point / Monroe / TMC	bus
 8395383	Metro	28		Metro 28 OST - Wayside	bus
 8395384	Metro	262		Metro 292 West Bellfort / Westwood / TMC	bus
-8395385	Metro	283		Metro 283 Kuykendahl / Greenway / Uptown	bus
+8395385	Metro	283		Kuykendahl / Greenway / Uptown	bus
 8395386	Metro	262		Metro 265 West Bellfort	bus
 8395387	Metro	269		Metro 269 Westwood / West Bellfort / Hillcroft	bus
 8395388	Metro	262		Metro 262 Westwood	bus
@@ -6028,12 +6028,12 @@
 9456726				Outer Mountain Loop	
 9460745	Flixbus	2231		Flixbus 2231: San Antonio => Dallas	bus
 9460746	Flixbus	2231		Flixbus 2231: Dallas => San Antonio	bus
-9460881	Flixbus	2271		Flixbus 2271: Houston => Austin	bus
-9460882	Flixbus	2271		Flixbus 2271: Austin => Houston	bus
+9460881	Flixbus	2271	west		bus
+9460882	Flixbus	2271	east		bus
 9461242	Flixbus	2240		Flixbus 2240: Dallas/Fort Worth => Houston	bus
 9461243	Flixbus	2240		Flixbus 2240: Houston => Dallas/Fort Worth	bus
-9469721	Flixbus	2210		Flixbus 2210: Biloxi => San Antonio	bus
-9469722	Flixbus	2210		Flixbus 2210: San Antonio => Biloxi	bus
+9469721	Flixbus	2210	west		bus
+9469722	Flixbus	2210	east		bus
 9474517	Flixbus	2211		Flixbus 2211: Houston => New Orleans	bus
 9474518	Flixbus	2211		Flixbus 2211: New Orleans => Houston	bus
 9474519	Flixbus	2221		Flixbus 2221: Dallas/Fort Worth => Biloxi	bus
@@ -9403,8 +9403,8 @@
 16681520				Old Army	bus
 16714574	US:US:Spur	83			road
 16842387	US:TX:Knox	2631			road
-16886151	METRORapid	433		Silver Line	bus
-16886152	METRORapid	433		Silver Line	bus
+16886151	METRORapid	433	south		bus
+16886152	METRORapid	433	north		bus
 16894396				Pat O'Rourke Memorial Hike and Bike Trail	bicycle
 16894397				Elizabeth F. Hernandez Memorial Hike and Bike Trail	bicycle
 17003535				Green Loop	mtb
@@ -11916,11 +11916,14 @@
 21366029	US:TX:Reeves	305			road
 21366106	US:TX:Reeves	340			road
 21369662					road
+21370130	US:TX:Cooke	336			road
+21370133	US:TX:Cooke	207			road
 21371344	US:TX:Reeves	121			road
 21371345	US:TX:Reeves	124			road
 21371346	US:TX:Reeves	122			road
 21371347	US:TX:Reeves	120			road
 21371471	US:TX:Reeves	127			road
+21373368	US:TX:Cooke	302			road
 21375425	US:TX:Reeves	119			road
 21375535	US:TX:Reeves	126			road
 21375536	US:TX:Reeves	118			road
@@ -11941,3 +11944,24 @@
 21385638	US:TX:Reeves	327			road
 21386164	US:TX:Pecos	1759			road
 21396634				North Cummings Drive	road
+21400094	US:TX:Cooke	424			road
+21408475	US:TX:Cooke	318			road
+21408476	US:TX:Cooke	340			road
+21408477	US:TX:Cooke	337			road
+21408479	US:TX:Cooke	331			road
+21408480	US:TX:Cooke	325			road
+21408481	US:TX:Cooke	320			road
+21408482	US:TX:Cooke	323			road
+21408485	US:TX:Cooke	307			road
+21408486	US:TX:Cooke	312			road
+21408487	US:TX:Cooke	385			road
+21408488	US:TX:Cooke	387			road
+21408582	US:TX:Cooke	310			road
+21408583	US:TX:Cooke	327			road
+21408584	US:TX:Cooke	438			road
+21411297	US:TX:Cooke	314			road
+21424522	US:US:Express	290		US 290 Express Lane	road
+21424678	US:TX:Cooke	445			road
+21424679	US:TX:Cooke	409			road
+21424683	US:TX:Cooke	447			road
+21427620	US:TX:Cooke	304			road

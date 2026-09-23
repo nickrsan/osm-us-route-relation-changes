@@ -1677,7 +1677,6 @@
 18640290	ORT	53		Route 53 (Northbound)	bus
 18640291	ORT	54		Route 54	bus
 18642390	ORT	12		Route 12 (Westbound)	bus
-18642391	ORT	12		Route 12 (Eastbound)	bus
 18644295	ORT	61		Route 61 (Southbound)	bus
 18687188	lcn;lwn			Craighead Forest Main Loop	bicycle;foot
 18702942	lwn			Habitats Trail	hiking
