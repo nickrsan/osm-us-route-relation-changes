@@ -51,8 +51,6 @@
 190215	lcn	East Aurora Bicycle Race (FKA Toyfest)		East Aurora Bicycle Race (FKA Toyfest)	bicycle
 207401	NJ Transit	North Jersey Coast		NJ Transit North Jersey Coast Line: New York <=> Bay Head	train
 229716	US:I	90	west		road
-233149	US:I	481	north		road
-233150	US:I	481	south		road
 239992	lcn	BBC East Arcade Road Race Course		BBC East Arcade Road Race Course	bicycle
 275643	lcn	GVCC Mendon Road Race		GVCC Mendon Road Race	bicycle
 302287	US:I	81	south		road
@@ -5204,8 +5202,8 @@
 7726836	lwn			Pine Meadown Trail	hiking
 7727586	lwn			Long Meadow Extension	hiking
 7727587				Townsend Trail	hiking
-7727621	lwn			Wildcat Mountain Trail	hiking
-7727635	lwn			Sapphire Trail	hiking
+7727621				Wildcat Mountain Trail	hiking
+7727635				Sapphire Trail	hiking
 7727766	lwn			Indian Hill Loop	hiking
 7727769	lwn			Warbler Trail	hiking
 7727779	lwn			Appalachian Trail Connector	hiking
@@ -6239,7 +6237,7 @@
 9349073	NFTA Metro	81A		NFTA 81A Eastside	bus
 9349074	Metro Bus	79		NFTA 79 Tonawanda	bus
 9349236	Regional Transit Service	22L	north	RTS 22L Lake (N)	bus
-9350581	Regional Transit Service	17	south	RTS 17 Jefferson/19th Ward (S)	bus
+9350581	Regional Transit Service	17	outbound	Jefferson/19th Ward	bus
 9350584	Regional Transit Service	20	north	RTS 20 Lyell (N)	bus
 9350760	lcn			Lexington Avenue	bicycle
 9351905	Regional Transit Service	40	west	Ridge Crosstown	bus
@@ -6247,10 +6245,10 @@
 9351910	Regional Transit Service	19	west	RTS 19 Buffalo Road (W)	bus
 9351911	Regional Transit Service	18	west	RTS 18 Chili (W)	bus
 9352356	Regional Transit Service	97	west	Elmwood Commuter	bus
-9352357	Regional Transit Service	15	south	RTS 15 Plymouth (S)	bus
+9352357	Regional Transit Service	15	outbound	Plymouth	bus
 9352482	Regional Transit Service	14	south	RTS 14 Marketplace (S)	bus
 9367418	Regional Transit Service	5	outbound	Portland	bus
-9367423	Regional Transit Service	2	north	RTS 2 North Clinton (N)	bus
+9367423	Regional Transit Service	2	outbound	North Clinton	bus
 9367424	Regional Transit Service	7	outbound	Clifford/Empire	bus
 9367425	Regional Transit Service	1	outbound	St. Paul	bus
 9367427	Regional Transit Service	4	outbound	Hudson	bus
@@ -6321,7 +6319,7 @@
 9379498	Centro Oswego	346		Centro 346 Oswego-Fulton	bus
 9379499	Centro Oswego	246		Centro 246 Oswego-Syracuse via Fulton/Phoenix	bus
 9379500	Centro Syracuse	46		Centro 46 Liverpool-Route 57-Great Northern Mall	bus
-9380044	Centro Syracuse	262X		Centro 262X Manlius Express via I-481	bus
+9380044	Centro Syracuse	262X		Centro 262X Manlius Express via I-81	bus
 9380045	Centro Syracuse	462		Centro 462 Manlius	bus
 9380046	Centro Syracuse	362		Centro 362 DeWitt-Widewaters Parkway	bus
 9380047	Centro Syracuse	162		Centro 162 Manlius via I-690-Widewaters Parkway	bus
@@ -8864,7 +8862,6 @@
 17606638	Regional Transit Service	24	inbound	Bay Street	bus
 17606639	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W1)	bus
 17607627	Regional Transit Service	20	south	RTS 20 Lyell (S)	bus
-17607628	Regional Transit Service	2	south	RTS 2 North Clinton (S)	bus
 17607629	Regional Transit Service	21L	south	RTS 21L Dewey (S)	bus
 17607630	Regional Transit Service	1	inbound	St. Paul	bus
 17607631	Regional Transit Service	21S	south	RTS 21S Dewey (S)	bus
@@ -8874,8 +8871,6 @@
 17608157	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W2)	bus
 17608158	Regional Transit Service	91	west	RTS 91 Newark/Lyons Commuter (W4)	bus
 17608161	Regional Transit Service	23	west	RTS 23 West Avenue/Airport (W2)	bus
-17608162	Regional Transit Service	2	south	"RTS 2 North Clinton (seasonal, S2)"	bus
-17608163	Regional Transit Service	2	north	"RTS 2 North Clinton (seasonal, N2)"	bus
 17609314	Regional Transit Service	13	north	RTS 13 South Avenue (N1)	bus
 17609315	Regional Transit Service	13	north	RTS 13 South Avenue (N2)	bus
 17609316	Regional Transit Service	13	south	RTS 13 South Avenue (S2)	bus
@@ -8885,8 +8880,8 @@
 17609320	Regional Transit Service	11S	west	RTS 11S Monroe (W)	bus
 17609321	Regional Transit Service	11L	west	RTS 11L Monroe (W)	bus
 17609322	Regional Transit Service	10	inbound	Park	bus
-17611106	Regional Transit Service	17	north	RTS 17 Jefferson/19th Ward (N)	bus
-17611109	Regional Transit Service	15	north	RTS 15 Plymouth (N)	bus
+17611106	Regional Transit Service	17	inbound	Jefferson/19th Ward	bus
+17611109	Regional Transit Service	15	inbound	Plymouth	bus
 17611110	Regional Transit Service	14	north	RTS 14 Marketplace (N2)	bus
 17611111	Regional Transit Service	14	north	RTS 14 Marketplace (N1)	bus
 17612967	Regional Transit Service	3	inbound	Joseph	bus
@@ -9014,8 +9009,6 @@
 17738111		38			power
 17739660	Regional Transit Service	16	outbound	Genesee	bus
 17739661	Regional Transit Service	16	inbound	Genesee	bus
-17739662	Regional Transit Service	2	south	"RTS 2 North Clinton (seasonal, S1)"	bus
-17739663	Regional Transit Service	2	north	"RTS 2 North Clinton (seasonal, N1)"	bus
 17744325	lcn			Cypress Avenue	bicycle
 17744326	lcn			Vermont Place	bicycle
 17745610		38			power
@@ -11678,3 +11671,7 @@
 21424437				White Trail	hiking
 21424486				Orange Trail	hiking
 21424487				Orange Trail	hiking
+21427424	Regional Transit Service	2	inbound	North Clinton	bus
+21431874	lwn			Heritage Trail	foot
+21434952	US:I:Business:Loop	81	south		road
+21434953	US:I:Business:Loop	81	north		road
