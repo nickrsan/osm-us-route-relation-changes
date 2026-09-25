@@ -4392,7 +4392,7 @@
 5476564				Hillburn-Torne Sebago Trail	hiking
 5480736	lwn			White Bar Trail	hiking
 5482644	lwn			Mary's Glen Trail	hiking
-5485397	lwn			Ramapo Dunderberg Trail	hiking
+5485397				Ramapo Dunderberg Trail	hiking
 5487811	lwn			Dunning Trail	hiking
 5491206				Buck Trail	hiking
 5517419				Terry Gordon Recreation Path	bicycle
@@ -4689,7 +4689,7 @@
 6303166	lwn			Anthony Wayne Trail	hiking
 6303182	lwn			Fawn Trail	hiking
 6303199				Jones Trail	hiking
-6303223	lwn			Beech Trail	hiking
+6303223				Beech Trail	hiking
 6303947		NT		Nurian Trail	hiking
 6303986				Red Trail	hiking
 6309611				White Cross Trail	hiking
@@ -7819,7 +7819,6 @@
 13430484	ncn	ECG		East Coast Greenway (NY Staten Island)	bicycle
 13430516	ncn	ECG		East Coast Greenway (NY complementary East River route)	bicycle
 13460543				Lincoln Tunnel Expressway	road
-13470038	lwn			Lake Askoti Loop	hiking
 13498016	lcn			Merry Mount Street	bicycle
 13498044	lcn			Travis Avenue	bicycle
 13498045	lcn			Kelly Boulevard	bicycle
@@ -11675,3 +11674,5 @@
 21431874	lwn			Heritage Trail	foot
 21434952	US:I:Business:Loop	81	south		road
 21434953	US:I:Business:Loop	81	north		road
+21436726	lcn			38th Avenue	bicycle
+21436727	lcn			Roosevelt Avenue Bridge	bicycle
