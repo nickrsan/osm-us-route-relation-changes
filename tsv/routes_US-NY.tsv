@@ -5204,9 +5204,9 @@
 7727587				Townsend Trail	hiking
 7727621				Wildcat Mountain Trail	hiking
 7727635				Sapphire Trail	hiking
-7727766	lwn			Indian Hill Loop	hiking
+7727766				Indian Hill Loop	hiking
 7727769	lwn			Warbler Trail	hiking
-7727779	lwn			Appalachian Trail Connector	hiking
+7727779				Appalachian Trail Connector	hiking
 7727781	lwn			Furnace Loop	hiking
 7737431	lwn	ML		Mike Love Trail	hiking
 7737432	lwn	W		White Trail	hiking
@@ -11676,3 +11676,6 @@
 21434953	US:I:Business:Loop	81	north		road
 21436726	lcn			38th Avenue	bicycle
 21436727	lcn			Roosevelt Avenue Bridge	bicycle
+21451734	Discover Niagara Shuttle	Falls to Fort		Discover Niagara Shuttle Falls to Fort: Old Fort Niagara → Niagara Falls	bus
+21451735	Discover Niagara Shuttle	Falls to Fort		Discover Niagara Shuttle Falls to Fort: Niagara Falls → Old Fort Niagara	bus
+21451754	lwn			Boulders Loop	hiking

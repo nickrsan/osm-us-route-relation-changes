@@ -2273,8 +2273,6 @@
 7663007	US:NFSR:Tahoe:NFR	0006-028-04-04		Valley View Spur	road
 7663008	US:NFSR:Tahoe:NFR	0006-028-04-03		Valley View Spur	road
 7663009	US:NFSR:Tahoe:NFR	0006-028-04		Valley View	road
-7663010	US:NFSR:Tahoe:NFR	0006-028-04-02-01		Cinder Cone Spur	road
-7663011	US:NFSR:Tahoe:NFR	0006-028-04-02		Cinder Cone	road
 7663012	US:NFSR:Lake Tahoe Basin Management Unit:NFR	16N53		Deer Creek Road	road
 7667078	US:NFSR:Lake Tahoe Basin Management Unit:NFR	16N93		Regency Extension	road
 7667079	US:NFSR:Lake Tahoe Basin Management Unit:NFR	16N63		Carnelian Road	road
@@ -6167,7 +6165,7 @@
 17827422	Unitrans	L		L Line E 8th/Pole Line/Moore/Loyola	bus
 17827423	Unitrans	M		M Line B St/Cowell/Drew	bus
 17827424	Unitrans	O		O Line Amtrak/5th/Alhambra/Target	bus
-17827425	Unitrans	P		P Line Davis Perimeter Counterclockwise	bus
+17827425	Unitrans	P	counterclockwise	Davis Perimeter	bus
 17827426	Unitrans	Q	clockwise	Q Line Davis Perimeter Clockwise	bus
 17827427	Unitrans	U		U Line West Village Via MU Terminal	bus
 17827428	Unitrans	V		V Line West Village - All Stops	bus
