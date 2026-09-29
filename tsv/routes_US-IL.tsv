@@ -1863,7 +1863,7 @@
 12015551	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Chicago => Boston	train
 12022605	Amtrak	Capitol Limited		Amtrak Capitol Limited: Chicago => Washington	train
 12024139	MetroLINK	10		Red	bus
-12024270	MetroLINK	20		Blue	bus
+12024270	MetroLINK	20	south	Blue	bus
 12024621	MetroLINK	30		Green	bus
 12024673	MetroLINK	40		Orange	bus
 12026430	MetroLINK	50		Olive	bus
@@ -3327,3 +3327,4 @@
 21366804	US:IL:Henry	14			road
 21366893	US:IL:Henry	5			road
 21382775		1	north	Veterans Home	bus
+21457063	MetroLINK	20	north	Blue	bus
