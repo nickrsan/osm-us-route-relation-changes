@@ -1420,7 +1420,7 @@
 21291222	Tiger Transit			West Campus	bus
 21291223	Tiger Transit			College Loop	bus
 21291224	Tiger Transit			East Glenn	bus
-21291225	Tiger Transit			Magnolia	bus
+21291225	Tiger Transit	MN		Magnolia	bus
 21291226	Tiger Transit			North Auburn	bus
 21293751	Tiger Transit			North College	bus
 21293752	Tiger Transit			North Donahue	bus
@@ -1442,3 +1442,7 @@
 21321997	US:AL:Marion	117		Marion County Road 117	road
 21321998	US:AL:Marion	18		Marion County Road 18	road
 21373440	Tiger Transit			North Ross	bus
+21461275	US:ADHS	X-1			road
+21461276	US:AL	959			road
+21461277	US:AL				road
+21461278	US:AL				road

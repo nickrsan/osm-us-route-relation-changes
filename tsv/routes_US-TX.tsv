@@ -2439,7 +2439,7 @@
 2423142	US:TX:FM	869			road
 2423143	US:TX:Park	30		Texas Park Road 30	road
 2425867	US:TX:FM	2637			road
-2427129	US:I	635			road
+2427129	US:I:Express:Toll	635		Interstate 635 East TEXPress	road
 2431180	US:TX:FM	1901			road
 2431181	US:TX:RM	2400		Ranch to Market Road 2400	road
 2431182	US:TX:RM	2593		Ranch to Market Road 2593	road
@@ -4794,7 +4794,7 @@
 3992301	US:I	69W	north		road
 3999349	Metro	23		Metro 23 Clay - West 43rd	bus
 3999657	Metro	79		Metro 79 Irvington	bus
-4043073	US:I:Express:Toll	635		635 TEXpress	road
+4043073	US:I:Express:Toll	635		LBJ TEXpress	road
 4069017	US:I	44	east		road
 4069018	US:I	44	west		road
 4208856	MetroBus	1	north	Capital Metro 1 North Lamar/South Congress (northbound)	bus
@@ -4918,7 +4918,7 @@
 6286521	lcn			Apache Creek Greenway Trail	bicycle
 6294209	US:TX:NTTA	AATT		Addison Airport Toll Tunnel	road
 6421038	lcn	51		On-Street Route 51	bicycle
-6504060	US:I:Express:Toll	35E		35Express	road
+6504060	US:I:Express:Toll	35E			road
 6529087	lcn			JJ & Noah Bike Route	bicycle
 6549195	US:US	75	north		road
 6549197	US:US	75	south		road
@@ -9021,7 +9021,7 @@
 15342546				Union Park East Loop	bicycle
 15342547				Union Park Loop	bicycle
 15403118	rcn	NT		Northaven Trail	bicycle;hiking
-15408424	DART	233		Bus 233: Josey -> Farmers Branch -> Royal Lane -> Bachman Station	bus
+15408424		233		Bus 233: Josey -> Farmers Branch -> Royal Lane -> Bachman Station	bus
 15408425	DART	233		Bus 233: Bachman Station -> Royal Lane -> Farmers Branch -> Josey	bus
 15408790	DART	20		Bus 20: Bachman Station -> Park Lane -> White Rock -> South Garland TC	bus
 15408918	DART	225		Bus 225: Downtown Irving/Heritage Crossing Station -> University of Dallas Station	bus
@@ -9031,8 +9031,8 @@
 15410829	DART	229		Bus 229: Downtown Irving/Heritage Crossing -> Dallas College North Lake -> Downtown Carrollton -> Addison Transit Center	bus
 15411347	DART	227		Bus 227: Addison Transit Center -> Farmers Branch -> Irving Convention Center -> Downtown Irving/Heritage Crossing	bus
 15411348	DART	227		Bus 227: Downtown Irving/Heritage Crossing -> Irving Convention Center -> Farmers Branch -> Addison Transit Center	bus
-15411652	DART	22		Bus 22: Addison Transit Center -> Forest Lane Station -> Forest/Jupiter Station -> Downtown Garland Station	bus
-15411654	DART	22		Bus 22: Downtown Garland Station -> Forest/Jupiter Station -> Forest Lane Station -> Addison Transit Center	bus
+15411652		22		Bus 22: Addison Transit Center -> Forest Lane Station -> Forest/Jupiter Station -> Downtown Garland Station	bus
+15411654		22		Bus 22: Downtown Garland Station -> Forest/Jupiter Station -> Forest Lane Station -> Addison Transit Center	bus
 15411741	DART	27		Ridgecrest	bus
 15411742	DART	27		Ridgecrest	bus
 15411870	DART	213		Bus 213: Bachman Station -> SW Med Dist/Parkland Station	bus
@@ -9053,8 +9053,8 @@
 15415929	DART	3		Bus 3: SMU/Mockingbird Station -> Downtown Dallas	bus
 15416082	DART	105		Bus 105: Downtown Dallas -> SMU/Mockingbird Station	bus
 15416083	DART	105		Bus 105: SMU/Mockingbird Station -> Downtown Dallas	bus
-15416388	DART	17		Bus 17: SMU/Mockingbird Station -> Lake Highlands Station -> LBJ/Skillman Station -> LBJ/Central Station	bus
-15416389	DART	17		Bus 17: LBJ/Central Station -> LBJ/Skillman Station -> Lake Highlands Station -> SMU/Mockingbird Station	bus
+15416388		17		Bus 17: SMU/Mockingbird Station -> Lake Highlands Station -> LBJ/Skillman Station -> LBJ/Central Station	bus
+15416389		17		Bus 17: LBJ/Central Station -> LBJ/Skillman Station -> Lake Highlands Station -> SMU/Mockingbird Station	bus
 15419587	DART	45		Bus 45: Downtown Dallas -> Camp Wisdom Station	bus
 15419588	DART	45		Bus 45: Camp Wisdom Station -> Downtown Dallas	bus
 15420259	DART	109		Bus 109: Downtown Dallas -> Pentagon Pkwy	bus
@@ -9164,8 +9164,8 @@
 15527207	DART	224		Bus 224: Downtown Garland Station -> Lake Ray Hubbard TC -> Downtown Dallas	bus
 15527909	DART	383		Bus 383: Convention Center Station -> Lake Ray Hubbard TC	bus
 15527910	DART	383		Bus 383: Lake Ray Hubbard TC -> Convention Center Station	bus
-15530941	DART	204		Miller	bus
-15530942	DART	204		Miller	bus
+15530941		204		Miller	bus
+15530942		204		Miller	bus
 15530993	DART	203		Bus 203: Downtown Garland Station -> South Garland TC	bus
 15530994	DART	203		Bus 203: South Garland TC -> Downtown Garland Station	bus
 15531226	DART	114		Bus 114: South Oak Cliff Counter-Clockwise	bus
@@ -11969,3 +11969,4 @@
 21451023	US:TX:Spur				road
 21455358	US:TX:Cooke	200			road
 21455361	US:TX:Cooke	248			road
+21459243	US:TX:Cooke	202			road
