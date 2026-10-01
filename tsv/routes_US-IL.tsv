@@ -760,7 +760,7 @@
 4480176	Pace	240	south	Bus 240: Golf Mill Mall -> Cumberland CTA Station	bus
 4480202	Pace	250	east	Bus 250: O'Hare MMF->Davis CTA Station	bus
 4480234	Pace	270	north	Bus 270: Jeff Park Transit Center -> Glenbrook Hospital	bus
-4480264	Pace	272		Milwaukee Avenue North	bus
+4480264	Pace	272	north	Bus 272: Golf Mill Mall -> Barclay -> Hawthorn Mall	bus
 4480377	Pace	290	west	290: Howard CTA Station => Cumberland CTA Station	bus
 4499116	Pace	301	west	Bus 301: Forest Park CTA Station -> DuPage County Judicial Center	bus
 4499412	Pace	302		Ogden-Stanley	bus
@@ -3328,3 +3328,8 @@
 21366893	US:IL:Henry	5			road
 21382775		1	north	Veterans Home	bus
 21457063	MetroLINK	20	north	Blue	bus
+21465663	Pace	272	south	Bus 272: Hawthorn Mall -> Milwaukee -> Golf Mill Mall	bus
+21465664	Pace	272	north	Bus 272: Golf Mill Mall -> Milwaukee -> Hawthorn Mall	bus
+21465665	Pace	272	south	Bus 272: Hawthorn Mall -> Buffalo Grove Metra Station -> Golf Mill Mall	bus
+21465666	Pace	272	north	Bus 272: Golf Mill Mall -> Buffalo Grove Metra Station -> Hawthorn Mall	bus
+21465667	Pace	272	south	Bus 272: Hawthorn Mall -> Barclay -> Golf Mill Mall	bus

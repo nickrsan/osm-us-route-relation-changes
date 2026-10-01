@@ -4956,14 +4956,10 @@
 13566784	SunLine Transit Agency	1		Coachella Via Hwy 111 Palm Springs	bus
 13571185	Eastern Sierra Transit	395 SOUTH		Mammoth Lakes to Lancaster Route (395 SOUTH)	bus
 13571748	Ridgerunner Transit	L4		Inyokern/Joshua Tree L4	bus
-13579725	Ridgerunner Transit			Mid-Day Express	bus
-13592133	Ridgerunner Transit	L3		Rattlesnake L3	bus
-13592238	Ridgerunner Transit	L1		Coyote L1	bus
 13603753	Mountain Transit	Red		Big Bear Red Line	bus
 13613880	Amtrak Thruway	19		Route 19 - Bakersfield • Pasadena • Riverside • San Bernadino	bus
 13618498	Eastern Sierra Transit	MMX		Mammoth Express	bus
 13625154	Eastern Sierra Transit	Reds Meadow Shuttle		REDS MEADOW - DEVILS POSTPILE  SHUTTLE	bus
-13625348	Ridgerunner Transit	L2			bus
 13631763		Yellow (Winter)			bus
 13643533	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Bristol & Centinela (weekday evenings)	bus
 13643534	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (weekdays)	bus
@@ -5930,7 +5926,7 @@
 16711687	Metro Local	45		Metro 45 Southbound	bus
 16711688	Metro Local	45		Metro 45 Northbound	bus
 16739120	lwn			Convict Creek Trail	hiking
-16740269	VTA	500	south	Bus VTA Rapid 500: Berryessa BART => San Jose Diridon Station	bus
+16740269	VTA	500	south	Rapid 500	bus
 16742575	Metro Local	48		Metro 48 Northbound (short turn)	bus
 16742576	Metro Local	48		Metro 48 Northbound	bus
 16742577	Metro Local	48		Metro 48 Southbound (short turn)	bus
@@ -7723,3 +7719,4 @@
 21408559	Santa Rosa CityBus	9		Santa Rosa CityBus 9: Westside Transfer Center => Santa Rosa Transit Mall	bus
 21438705				Scott Valley Schools' Turkey Trot 3 Mile Route	running
 21455117				Venta Spur Trail	bicycle
+21465962	VTA	500	north	Rapid 500	bus

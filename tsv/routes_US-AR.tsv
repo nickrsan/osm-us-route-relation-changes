@@ -1647,8 +1647,7 @@
 18346207	lwn			Oertel Trail	hiking
 18346208	lwn			Hot Springs Mountain Trail	hiking
 18346209	lwn			Goat Rock Trail	hiking
-18380214	lcn;lwn			Turtle Creek Track	bicycle;foot
-18380215	lcn;lwn			Craighead Forest Path	bicycle;foot
+18380214	lcn;lwn			MLK Trail	bicycle;foot
 18380216	lcn;lwn			AState Link	bicycle;foot
 18467561	lwn			Craighead Forest Lake Loop	foot
 18471508	US:AR:heritage_trail			Southwest Trail	road
@@ -1785,3 +1784,5 @@
 21322895	US:I	42	west		road
 21322896	US:I	42	east		road
 21356501	US:AR	642			road
+21463826	lcn;lwn			City Hall–JBR Plaza	bicycle;foot
+21463827	lcn;lwn			Southwest Link	bicycle;foot
