@@ -9053,8 +9053,8 @@
 15415929	DART	3		Bus 3: SMU/Mockingbird Station -> Downtown Dallas	bus
 15416082	DART	105		Bus 105: Downtown Dallas -> SMU/Mockingbird Station	bus
 15416083	DART	105		Bus 105: SMU/Mockingbird Station -> Downtown Dallas	bus
-15416388		17		Bus 17: SMU/Mockingbird Station -> Lake Highlands Station -> LBJ/Skillman Station -> LBJ/Central Station	bus
-15416389		17		Bus 17: LBJ/Central Station -> LBJ/Skillman Station -> Lake Highlands Station -> SMU/Mockingbird Station	bus
+15416388	DART	17		Bus 17: SMU/Mockingbird Station -> Lake Highlands Station -> LBJ/Skillman Station -> LBJ/Central Station	bus
+15416389	DART	17		Bus 17: LBJ/Central Station -> LBJ/Skillman Station -> Lake Highlands Station -> SMU/Mockingbird Station	bus
 15419587	DART	45		Bus 45: Downtown Dallas -> Camp Wisdom Station	bus
 15419588	DART	45		Bus 45: Camp Wisdom Station -> Downtown Dallas	bus
 15420259	DART	109		Bus 109: Downtown Dallas -> Pentagon Pkwy	bus
@@ -11970,3 +11970,6 @@
 21455358	US:TX:Cooke	200			road
 21455361	US:TX:Cooke	248			road
 21459243	US:TX:Cooke	202			road
+21470097	US:TX:Ward	389			road
+21470303	US:TX:Ward	390			road
+21470304	US:TX:Ward	385			road
