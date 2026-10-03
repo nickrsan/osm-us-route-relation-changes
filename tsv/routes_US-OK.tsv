@@ -1663,7 +1663,6 @@
 12288294	MetroLink Tulsa	110		MLK/Hartford	bus
 12288329	MetroLink Tulsa	110		MLK/Hartford	bus
 12288603	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
-12288614	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
 12292968	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
 12292975	MetroLink Tulsa	117		Union/Southwest Boulevard	bus
 12293101	MetroLink Tulsa	130		Admiral	bus
@@ -1844,7 +1843,6 @@
 12931528	US:OK:Logan	71			road
 12931660	US:OK:Payne	N3480			road
 12931661	US:OK:Payne	E0690			road
-12991751					bus
 12994327	US:OK:Kingfisher	E0880			road
 12998745	US:OK:Kingfisher	N2820			road
 12998746	US:OK:Kingfisher	E0830			road
@@ -3113,8 +3111,8 @@
 15848601	US:OK:Noble	140			road
 15848602	US:OK:Noble	130			road
 15848603	US:OK:Noble	120			road
-15896097	Tulsa Transit	410		Lewis	bus
-15896098	Tulsa Transit	410		Lewis	bus
+15896097	MetroLink Tulsa	410		Lewis	bus
+15896098	MetroLink Tulsa	410		Lewis	bus
 16018964	rcn	344			bicycle
 16035580	US:OK:Lincoln	N3480			road
 16059473	US:OK:Ottawa	E060			road
@@ -4239,3 +4237,6 @@
 21425247	lcn			36th Street North	bicycle
 21431509	US:OK:Grady	N2980			road
 21440107	US:OK:Lincoln	E1000			road
+21474439	MetroLink Tulsa	110		MLK/Hartford	bus
+21474459	MetroLink Tulsa	114		Charles Page/Sand Springs	bus
+21474460	MetroLink Tulsa	114		Charles Page/Sand Springs	bus

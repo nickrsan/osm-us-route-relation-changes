@@ -5200,7 +5200,7 @@
 7726822	lwn			Pine Meadow Connector	hiking
 7726824	lwn			Hogback Mountain Trail	hiking;mtb;skii
 7726836	lwn			Pine Meadown Trail	hiking
-7727586	lwn			Long Meadow Extension	hiking
+7727586				Long Meadow Extension	hiking
 7727587				Townsend Trail	hiking
 7727621				Wildcat Mountain Trail	hiking
 7727635				Sapphire Trail	hiking
@@ -7540,11 +7540,11 @@
 12389837	NYC Transit	Q10		NYCB - Q10 Lefferts Blvd AirTrain --> Kew Gardens	bus
 12389853	NYC Transit	Q2		NYCB - Q2 UBS Arena --> Jamaica Bus Terminal	bus
 12389882	NYC Transit	Q18		NYCB - Q18 Maspeth --> Astoria	bus
-12441881	lwn			Red Loop	hiking
+12441881				Red Loop	hiking
 12441882	lwn			Yellow Loop	hiking
 12441883	lwn			Blue Loop	hiking
-12441884	lwn			History Loop	hiking
-12441885	lwn			White Connectors	hiking
+12441884				History Loop	hiking
+12441885				White Trail	hiking
 12441886				Orange Connectors	hiking
 12471117		LLT		Liberty Loop Trail	hiking
 12472897	lwn	WWT		Winding Waters Trail	hiking
@@ -11685,3 +11685,4 @@
 21460980	Discover Niagara Shuttle	Lockport		Discover Niagara Shuttle Lockport Loop	bus
 21465606				Blue Trail	hiking
 21465624				Red Trail	hiking
+21472778				Yellow Trail	hiking
