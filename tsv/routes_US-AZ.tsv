@@ -913,7 +913,7 @@
 9728165	lcn			Sinclair Wash Trail	bicycle
 9728171	lcn			Ponderosa Trail	bicycle
 9737057	lcn			Crosscut Canal Multi-Use Path	bicycle
-9737058	rcn	GC		Grand Canalscape	bicycle
+9737058	rcn	GC	southeast		bicycle
 9737236	lcn			Western Canal Path	bicycle
 9740204	lcn			Eastern Canal Path	bicycle
 9740222	lcn			New River Trail	bicycle
@@ -1321,7 +1321,7 @@
 14392604	rwn	140		General George Crook National Recreation Trail	hiking
 14392660	rcn	535		Willow Springs Bike Loop #535	bicycle
 14395609	US:US	60	west		road
-14415007	lcn	GC		Grand Canalscape	bicycle
+14415007	rcn	GC	northwest		bicycle
 14428669		FR 300		Rim Road	road
 14438515	rwn	179		Military Sinkhole Trail #179	hiking
 14467986				The Turqoise Trail	foot
@@ -1649,3 +1649,5 @@
 21411418	US:AZ:Mohave	159		Cholla Canyon Ranch Road	road
 21456279	lcn			Tucson Diversion Channel Greenway	bicycle
 21456315	lcn			Julian Wash Greenway	bicycle
+21482237	lcn			Arizona Diversion Trail	bicycle
+21482238	lcn			Skunk Creek Trail	bicycle

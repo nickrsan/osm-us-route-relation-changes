@@ -25,7 +25,7 @@
 112360	US:NY:Parkway:NYC	HRD		Harlem River Drive	road
 116192	lcn	Bristol Road Race		Bristol Road Race	bicycle
 122338				Lake Trail	hiking
-128214	US:I	190			road
+128214	US:I	190		Interstate 190	road
 149800	lcn	BBC Hamburg TT Race Course		BBC Hamburg TT Race Course	bicycle
 149807	lcn	Hamburg Criterium Race Course		Hamburg Criterium Race Course	bicycle
 157589	US:NY	32			road
@@ -4243,8 +4243,8 @@
 4446211				Sunk Mine Railroad	railway
 4452779	Amtrak	Empire Service	east	Amtrak Empire Service: Albany => New York	train
 4460561	NYC Transit	M86		NYCB - M86	bus
-4467189	Amtrak	Maple Leaf	north	Amtrak Maple Leaf: New York => Niagara Falls	train
-4467190	Amtrak	Maple Leaf	south	Amtrak Maple Leaf: Niagara Falls => New York	train
+4467189	Amtrak	Maple Leaf	north		train
+4467190	Amtrak	Maple Leaf	south		train
 4480116				Buffalo and Susquehanna Railway	railway
 4500657				Main Trail	hiking
 4500658				Nature Trail	hiking
@@ -5795,8 +5795,8 @@
 9136269	CTtransit	311B		CTtransit 311B Port Chester (via Hamilton Avenue)	bus
 9136270	CTtransit	311		CTtransit 311 Port Chester (via West Putnam Avenue)	bus
 9152579	MTA New York City Bus	M15-SBS		Bus M15-SBS: East Harlem → South Ferry	bus
-9155838	Amtrak	Empire Service	east	Amtrak Empire Service: Niagara Falls => New York	train
-9155839	Amtrak	Empire Service	west	Amtrak Empire Service: New York => Niagara Falls	train
+9155838	Amtrak	Empire Service	east		train
+9155839	Amtrak	Empire Service	west		train
 9165986	CTtransit	971		CTtransit 971 I-Bus Express - Stamford/White Plains	bus
 9174529				Binghamton Railway Co.	railway
 9175056	lcn			58th Street	bicycle
@@ -6215,9 +6215,9 @@
 9347116	NFTA Metro	67A		NFTA 67A Cleveland Hill	bus
 9347117	NFTA Metro	66B		NFTA 66B Williamsville	bus
 9347118	NFTA Metro	66A		NFTA 66A Williamsville	bus
-9347119	NFTA Metro	64A		NFTA 64A Lockport	bus
-9347120	Metro Bus	61		NFTA 61 Tonawanda	bus
-9347121	NFTA Metro	60A		NFTA 60A Niagara Falls	bus
+9347119	NFTA	64A		Lockport	bus
+9347120	NFTA	61		Tonawanda	bus
+9347121	NFTA	60A		Niagara Falls	bus
 9347122	NFTA Metro	Niagara Falls Trolley		NFTA 155 Niagara Falls Trolley	bus
 9347124	NFTA Metro	55F		NFTA 55F Pine Avenue	bus
 9347126	NFTA Metro	55B		NFTA 55B Pine Avenue	bus
@@ -6235,7 +6235,7 @@
 9347243	NFTA Metro	72A		NFTA 72A Orchard Park	bus
 9349072	NFTA Metro	204A		NFTA 204A Airport-Downtown Express	bus
 9349073	NFTA Metro	81A		NFTA 81A Eastside	bus
-9349074	Metro Bus	79		NFTA 79 Tonawanda	bus
+9349074	NFTA	79		Tonawanda	bus
 9349236	Regional Transit Service	22L	north	RTS 22L Lake (N)	bus
 9350581	Regional Transit Service	17	outbound	Jefferson/19th Ward	bus
 9350584	Regional Transit Service	20	north	RTS 20 Lyell (N)	bus
@@ -6670,10 +6670,10 @@
 10225027				Broadway	road
 10316578	rcn			Ashokan Rail Trail	bicycle
 10322899	Amtrak	Empire Service	west	Amtrak Empire Service: New York => Albany	train
-10322900	Amtrak	Empire Service	west	Amtrak Empire Service: New York => Niagara Falls	train
+10322900	Amtrak	Empire Service	west		train
 10322902	Amtrak	Empire Service	east	Amtrak Empire Service: Albany => New York	train
 10322903	Amtrak	Empire Service	east	Amtrak Empire Service: Albany => New York	train
-10322904	Amtrak	Empire Service	east	Amtrak Empire Service: Niagara Falls => New York	train
+10322904	Amtrak	Empire Service	east		train
 10359068	NJ Transit	137		NJTB - 137 - New York to Toms River	bus
 10359152	NJ Transit	137		NJTB - 137 - Toms River to New York Express	bus
 10359153	NJ Transit	137		NJTB - 137 - New York to Toms River Express	bus
@@ -6704,8 +6704,8 @@
 10710343	lcn			Crescent Street	bicycle
 10710345	lcn			36th Avenue	bicycle
 10710346	lcn			22nd Street	bicycle
-10755213	Flixbus	2686		Flixbus 2686: Niagara Falls => New York City	bus
-10755214	Flixbus	2686		Flixbus 2686: New York City => Niagara Falls	bus
+10755213	Flixbus	2686			bus
+10755214	Flixbus	2686			bus
 10778896	Flixbus	2601		Flixbus 2601: New York City => Rosslyn	bus
 10778897	Flixbus	2601		Flixbus 2601: Rosslyn => New York City	bus
 10792460	Flixbus	2683		Flixbus 2683: Ithaca => New York City	bus
