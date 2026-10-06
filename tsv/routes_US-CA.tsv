@@ -2726,7 +2726,7 @@
 8456038	Santa Clarita Transit	3		SCT 3	bus
 8456040	Santa Clarita Transit	2		SCT 2	bus
 8456041	Santa Clarita Transit	1		SCT 1	bus
-8456185	Santa Clarita Transit	794		SCT 794	bus
+8456185	Santa Clarita Transit	794			bus
 8456186	Santa Clarita Transit	799		SCT 799	bus
 8456193	Santa Clarita Transit	792		SCT 792	bus
 8456194	Santa Clarita Transit	797		SCT 797	bus
@@ -5268,10 +5268,10 @@
 14084631	Metro Local	20		Metro 20 Eastbound (evening/overnight)	bus
 14091535				Mason Connector	bicycle
 14099436					foot
-14115278	Metro Local	28		Metro 28 Eastbound (short turn)	bus
-14115279	Metro Local	28		Metro 28 Eastbound	bus
-14115280	Metro Local	28		Metro 28 Westbound (short turn)	bus
-14115281	Metro Local	28		Metro 28 Westbound	bus
+14115278	Metro Local	28	east		bus
+14115279	Metro Local	28	east		bus
+14115280	Metro Local	28	west		bus
+14115281	Metro Local	28	west		bus
 14117052	Metro Local	35		Metro 35 Eastbound (late night)	bus
 14117053	Metro Local	35		Metro 35 Eastbound (daytime)	bus
 14117054	Metro Local	35		Metro 35 Westbound (late night)	bus
@@ -5503,8 +5503,8 @@
 15457606	Metro Local	102		Metro 102 Westbound (evenings)	bus
 15457607	Metro Local	102		Metro 102 Westbound (daytime)	bus
 15465790	Go West Shuttle	Blue		Blue Line	bus
-15486715	DASH	Lincoln Heights/Chinatown		DASH Lincoln Heights/Chinatown Counterclockwise	bus
-15486716	DASH	Lincoln Heights/Chinatown		DASH Lincoln Heights/Chinatown Clockwise	bus
+15486715	DASH		counterclockwise		bus
+15486716	DASH		clockwise		bus
 15486742	VCTC Intercity	80		80 - Coastal Express	bus
 15486911	Amtrak Thruway	17		17 - Santa Barbara - San Luis Obispo - Oakland	bus
 15514870	El Monte Transit	Red		Red Route	bus
@@ -7166,6 +7166,8 @@
 19930073	lcn			Pershing Drive	bicycle
 19932226	US:I:Alternate	405	north		road
 19932227	US:I:Alternate	405	south		road
+19932583	US:I:Express	10	east	I-10 Metro ExpressLanes	road
+19932584	US:I:Express	10	west	I-10 Metro ExpressLanes	road
 19932586	US:CA		west	San Bernardino Freeway	road
 19932588	US:I		west	Route 10S	road
 19932590	US:CA	10S			road
@@ -7174,6 +7176,8 @@
 19936136			east	La Jolla Parkway	road
 19936291	US:I:Bypass	5	south		road
 19936292	US:I:Bypass	5	north		road
+19936493	US:I:Express	5	north		road
+19936494	US:I:Express	5	south		road
 19936537				Osborn Street	road
 19947294					bicycle
 19951425	Sonoma County Transit	10		Sonoma County Transit 10: Rohnert Park/Cotati	bus
@@ -7286,6 +7290,7 @@
 20033876	lhn			San Gabriel River Trail - Eastern Bank	horse
 20033877	lcn			San Gabriel River Trail - Eastern Bank	mtb
 20033878	lwn			San Gabriel River Trail - Eastern Bank	hiking
+20033893	US:CA:Express	14	north		road
 20033894	US:CA:Express	14	south		road
 20034054	County Connection	99X			bus
 20034055	County Connection	99X			bus
@@ -7323,6 +7328,7 @@
 20085637	US:US:Historic	395			road
 20086281	US:CA			El Camino Real	road
 20086438	US:US:Old	80		Old U.S. Route 80	road
+20104192	US:CA:Express	170	north		road
 20104193	US:CA:Express	170	south		road
 20107250	Sonoma County Transit	28		Sonoma County Transit 28: Guerneville => Occidental	bus
 20107251	Sonoma County Transit	28		"Sonoma County Transit 28: Occidental => Occidental via Guerneville, Monte Rio"	bus
@@ -7721,3 +7727,5 @@
 21455117				Venta Spur Trail	bicycle
 21465962	VTA	500	north	Rapid 500	bus
 21467803				Planet Walk	foot
+21501036	Flixbus		west		bus
+21501039	Flixbus		east		bus

@@ -1350,7 +1350,7 @@
 15648537	US:BIA	18		Indian Route 18	road
 15675317	Sun Tran	414			bus
 15710505				Arizona State Route 76	road
-15867127	US:BIA	6		BIA Route 6	road
+15867127	US:BIA	6		Navajo Route 6	road
 15867409	US:AZ:Apache	5020		Apache County 5020	road
 15867410	US:AZ:Apache	5270		Apache County 5270	road
 15867430	US:Navajo	20			road
@@ -1580,7 +1580,6 @@
 20124989	US:BIA	42		Indian Route 42	road
 20127066	US:US:Old	95			road
 20128546				Central Boulevard	road
-20137090	US:AZ	77		Arizona State Route 77	road
 20180090	US:AZ	24	east	Gateway Freeway	road
 20180091	US:AZ	24	west	Gateway Freeway	road
 20206649	US:I	17			road

@@ -6235,7 +6235,7 @@
 9347243	NFTA Metro	72A		NFTA 72A Orchard Park	bus
 9349072	NFTA Metro	204A		NFTA 204A Airport-Downtown Express	bus
 9349073	NFTA Metro	81A		NFTA 81A Eastside	bus
-9349074	NFTA	79		Tonawanda	bus
+9349074	NFTA Metro	79		Tonawanda	bus
 9349236	Regional Transit Service	22L	north	RTS 22L Lake (N)	bus
 9350581	Regional Transit Service	17	outbound	Jefferson/19th Ward	bus
 9350584	Regional Transit Service	20	north	RTS 20 Lyell (N)	bus
@@ -7541,8 +7541,8 @@
 12389853	NYC Transit	Q2		NYCB - Q2 UBS Arena --> Jamaica Bus Terminal	bus
 12389882	NYC Transit	Q18		NYCB - Q18 Maspeth --> Astoria	bus
 12441881				Red Loop	hiking
-12441882	lwn			Yellow Loop	hiking
-12441883	lwn			Blue Loop	hiking
+12441882				Yellow Loop	hiking
+12441883				Blue Loop	hiking
 12441884				History Loop	hiking
 12441885				White Trail	hiking
 12441886				Orange Connectors	hiking
