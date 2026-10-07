@@ -218,7 +218,7 @@
 3547811				Ina/Skyline/Sunrise	bicycle
 3547813				Sabino Canyon	bicycle
 3547830				Craycroft	bicycle
-3725161	US:BIA	12		Navajo Route 12	road
+3725161	US:Navajo	12		Navajo Route 12	road
 3726635				Apache Pass Road	road
 3888618		1		Westside	bus
 3920972	Sun Tran	Sun Link		Sun Link: Helen & Warren → Convento & Congress	tram
@@ -1517,7 +1517,7 @@
 19034648	US:I:Future	11	south		road
 19100780	US:AZ				road
 19119454	US:BIA	64		Navajo Route 64	road
-19119495	US:BIA	7		Navajo Route 7	road
+19119495	US:Navajo	7		Navajo Route 7	road
 19119540	US:BIA	27		Navajo Route 27	road
 19136129	US:US:Old	93		Old US 93 (AZ)	road
 19173922				Canyon Coaster	railway
@@ -1650,3 +1650,4 @@
 21456315	lcn			Julian Wash Greenway	bicycle
 21482237	lcn			Arizona Diversion Trail	bicycle
 21482238	lcn			Skunk Creek Trail	bicycle
+21528929	US:AZ:Apache	320			road

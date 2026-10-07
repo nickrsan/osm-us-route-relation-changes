@@ -4202,6 +4202,7 @@
 4245967	City of Poughkeepsie Bus Service	Main Street		Main Street: Vassar College => Main & Market	bus
 4246002		41A		Beacon RailLink 41A: Intermodal Center => Beacon Train Station	bus
 4261370				"Fonda, Gloversville & Johnstown Electric Railway"	railway
+4264243	CA:ON:Niagara	420		Niagara Regional Road 420	road
 4266618				Red Cross	hiking
 4266619	lwn			1779 Trail	hiking
 4266620				Menomine Trail	hiking
@@ -8640,7 +8641,7 @@
 16615146	US:NY				road
 16615147	US:NY			NY 913T	road
 16622873	US:NY			NY 948A	road
-16629200	US:NY			NY 958A	road
+16629200	US:NY			Niagara Scenic Parkway Spur	road
 16629256	US:NY			NY 908H	road
 16639218	US:NY			NY 981G	road
 16639570	US:NY:Westchester			Playland Parkway	road
@@ -11686,3 +11687,5 @@
 21465606				Blue Trail	hiking
 21465624				Red Trail	hiking
 21472778				Yellow Trail	hiking
+21522672				Mount Defiance Road Walk	hiking
+21522759	lcn			Irondequoit Lakeside Trail	bicycle
