@@ -1356,7 +1356,7 @@
 15867430	US:Navajo	20			road
 15867975	US:Navajo	21		Navajo Route 21	road
 15936819	US:BIA	171		BIA Route 171 (AZ)	road
-16031166	US:BIA	6331		Navajo Route 6331	road
+16031166	US:Navajo	6331		Navajo Route 6331	road
 16031169	US:Navajo	213		Navajo Route 213	road
 16031170	US:BIA	215		Navajo Route 215	road
 16031171	US:BIA	212		Navajo Route N212	road
@@ -1619,7 +1619,7 @@
 20800007	US:NFSR:Kaibab:FR	3101		Forest Road 3101	road
 20800008	US:NFSR:Kaibab:FR	38		Forest Road 38	road
 20992312	nwn			Eagle National Recreation Trail	hiking
-21023127	US:BIA	35		Navajo Route 35	road
+21023127	US:Navajo	35		Navajo Route 35	road
 21023324	US:BIA	59		Navajo Route 59	road
 21061891	lwn			Massai Nature Trail	hiking
 21079223	US:BIA	105		Indian Route 105	road
@@ -1651,3 +1651,10 @@
 21482237	lcn			Arizona Diversion Trail	bicycle
 21482238	lcn			Skunk Creek Trail	bicycle
 21528929	US:AZ:Apache	320			road
+21568769	US:Navajo	112			road
+21568770	US:BIA	123			road
+21568771	US:Navajo	54			road
+21568907	US:Navajo	5047			road
+21568908	US:Navajo	351			road
+21570031	US:BLM:BCB			Parker Dam Road Back Country Byway	road
+21570039	US:Navajo	6732			road

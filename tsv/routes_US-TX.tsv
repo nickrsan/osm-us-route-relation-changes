@@ -3443,8 +3443,8 @@
 2788921	US:TX:Park	47		Texas Park Road 47	road
 2788954	US:TX:Park	7		Texas Park Road 7	road
 2790159	MetroBus	3	north	Capital Metro 3 Burnet/Manchaca (northbound)	bus
-2790160	MetroBus	3	south	Capital Metro 3 Burnet/Manchaca (southbound)	bus
-2790193	MetroBus	7	south	Capital Metro 7 Duval/Dove Springs (southbound)	bus
+2790160	MetroBus	3	south		bus
+2790193	MetroBus	7	south		bus
 2790194	MetroBus	7	north	Capital Metro 7 Duval/Dove Springs (northbound)	bus
 2790313	US:TX:Park	52		Texas Park Road 52	road
 2790319	US:TX:Park	49		Texas Park Road 49	road
@@ -4798,9 +4798,9 @@
 4069017	US:I	44	east		road
 4069018	US:I	44	west		road
 4208856	MetroBus	1	north	Capital Metro 1 North Lamar/South Congress (northbound)	bus
-4209224	MetroBus	1	south	Capital Metro 1 North Lamar/South Congress (southbound)	bus
+4209224	MetroBus	1	south		bus
 4228323	MetroBus	2	north	Capital Metro 2 Rosewood / Cesar Chavez (clockwise)	bus
-4228324	MetroBus	2	anticlockwise	Capital Metro 2 Rosewood / Cesar Chavez (counter-clockwise)	bus
+4228324	MetroBus	2	anticlockwise		bus
 4249452	MetroBus	4	east	Capital Metro 4 7th Street (eastbound)	bus
 4250627	MetroBus	4	west	Capital Metro 4 7th Street (westbound)	bus
 4268191	MetroBus	5	west	Capital Metro 5 Woodrow/Lamar (westbound)	bus
@@ -5810,26 +5810,26 @@
 8831090	US:TX:FM	1719			road
 8831091	US:TX:FM	2176			road
 9110260	MetroBus	20	north	Capital Metro 20 Riverside (northbound)	bus
-9110261	MetroBus	20	south	Capital Metro 20 Riverside (southbound)	bus
+9110261	MetroBus	20	south		bus
 9110262	MetroBus	18	west	Capital Metro 18 Martin Luther King (Westbound)	bus
 9110263	MetroBus	18	east	Capital Metro 18 Martin Luther King (Eastbound)	bus
-9110264	MetroBus	10	south	Capital Metro 10 South 1st/Red River (southbound)	bus
+9110264	MetroBus	10	south		bus
 9110265	MetroBus	10	north	Capital Metro 10 South 1st/Red River (northbound)	bus
 9112014	MetroBus	152	north	Capital Metro 152 Round Rock Tech Ridge Limited (northbound)	bus
 9112015	MetroBus	152	south	Capital Metro 152 Round Rock Tech Ridge Limited (southbound)	bus
 9112018	MetroBus	50	north	Capital Metro 50 Round Rock Techridge (northbound)	bus
 9112019	MetroBus	50	south	Capital Metro 50 Round Rock Techridge (southbound)	bus
 9112020	MetroBus	30	north	Capital Metro 30 Barton Creek / Bull Creek (northbound)	bus
-9112021	MetroBus	30	south	Capital Metro 30 Barton Creek / Bull Creek (southbound)	bus
-9113106	MetroBus	171	south	Capital Metro 171 Oak Hill Flyer (southbound)	bus
+9112021	MetroBus	30	south		bus
+9113106	MetroBus	171	south		bus
 9113107	MetroBus	171	north	Capital Metro 171 Oak Hill Flyer (northbound)	bus
 9113108	MetroBus	142	north	Capital Metro 142 Metric Flyer (northbound)	bus
-9113109	MetroBus	142	south	Capital Metro 142 Metric Flyer (southbound)	bus
+9113109	MetroBus	142	south		bus
 9113110	MetroBus	135	south	Capital Metro 135 Dell Limited (southbound)	bus
 9113111	MetroBus	135	north	Capital Metro 135 Dell Limited (northbound)	bus
-9113112	MetroBus	111	south	Capital Metro 111 South MoPac Flyer (southbound)	bus
+9113112	MetroBus	111	south		bus
 9113113	MetroBus	111	north	Capital Metro 111 South MoPac Flyer (northbound)	bus
-9113114	MetroBus	105	south	Capital Metro 105 South 5th Flyer (southbound)	bus
+9113114	MetroBus	105	south		bus
 9113115	MetroBus	105	north	Capital Metro 105 South 5th Flyer (northbound)	bus
 9113116	MetroBus	103	south	Capital Metro 103 Manchaca Flyer (southbound)	bus
 9113117	MetroBus	103	north	Capital Metro 103 Manchaca Flyer (northbound)	bus
@@ -5888,21 +5888,21 @@
 9114323	MetroBus	490	inbound	Capital Metro 490 HEB Shuttle (Wednesday inbound)	bus
 9114324	MetroBus	490	outbound	Capital Metro 490 HEB Shuttle (Wednesday outbound)	bus
 9114325	MetroBus	486	north	Capital Metro 486 Night Owl South Congress (northbound)	bus
-9114326	MetroBus	486	south	Capital Metro 486 Night Owl South Congress (southbound)	bus
+9114326	MetroBus	486	south		bus
 9114327	MetroBus	485	south	Capital Metro 485 Night Owl Cameron (southbound)	bus
 9114328	MetroBus	485	north	Capital Metro 485 Night Owl Cameron (northbound)	bus
 9114329	MetroBus	484	north	Capital Metro 484 Night Owl South Lamar (northbound)	bus
 9114330	MetroBus	484	south	Capital Metro 484 Night Owl South Lamar (southbound)	bus
 9114331	MetroBus	483	north	Capital Metro 483 Night Owl Riverside (northbound)	bus
-9114332	MetroBus	483	south	Capital Metro 483 Night Owl Riverside (southbound)	bus
+9114332	MetroBus	483	south		bus
 9114333	MetroBus	481	south	Capital Metro 481 Night Owl North Lamar (southbound)	bus
 9114334	MetroBus	481	north	Capital Metro 481 Night Owl North Lamar (northbound)	bus
 9114337	MetroBus	465	east	Capital Metro 465 MLK/University of Texas (eastbound)	bus
 9114338	MetroBus	465	west	Capital Metro 465 MLK/University of Texas (westbound)	bus
-9122667	MetroRapid	Rapid 803	north	Capital Metro 803 MetroRapid Burnet/South Lamar (northbound)	bus
-9122668	MetroRapid	Rapid 803	south	Capital Metro 803 MetroRapid Burnet/South Lamar (southbound)	bus
-9122669	MetroRapid	Rapid 801	south	Capital Metro 801 MetroRapid North Lamar/South Congress (southbound)	bus
-9122670	MetroRapid	Rapid 801	north	Capital Metro 801 MetroRapid North Lamar/South Congress (northbound)	bus
+9122667	MetroRapid	803	north		bus
+9122668	MetroRapid	803	south		bus
+9122669	MetroRapid	801	south		bus
+9122670	MetroRapid	801	north		bus
 9122676	MetroBus	672	inbound	Capital Metro 672 Lakeshore (inbound)	bus
 9122677	MetroBus	672	outbound	Capital Metro 672 Lakeshore (outbound)	bus
 9122680	MetroBus	670	inbound	Capital Metro 670 North Riverside (inbound)	bus
@@ -5916,13 +5916,13 @@
 9123971	MetroBus	990	west	Capital Metro 990 Manor/Elgin Express (westbound)	bus
 9123972	MetroBus	990	east	Capital Metro 990 Manor/Elgin Express (eastbound)	bus
 9123975	MetroBus	985	south	Capital Metro 985 Leander/Lakeline Direct (southbound)	bus
-9123976	MetroBus	985	north	Capital Metro 985 Leander/Lakeline Direct (northbound)	bus
+9123976	MetroBus	985	north		bus
 9123977	MetroBus	982	north	Capital Metro 982 Pavilion Express (northbound)	bus
-9123978	MetroBus	982	south	Capital Metro 982 Pavilion Express (southbound)	bus
+9123978	MetroBus	982	south		bus
 9123981	MetroBus	980	south	Capital Metro 980 North Mopac Express (southbound)	bus
-9123982	MetroBus	980	north	Capital Metro 980 North Mopac Express (northbound)	bus
+9123982	MetroBus	980	north		bus
 9123983	MetroBus	935	south	Capital Metro 935 Tech Ridge Express (southbound)	bus
-9123984	MetroBus	935	north	Capital Metro 935 Tech Ridge Express (northbound)	bus
+9123984	MetroBus	935	north		bus
 9129723				Former US 80 (TX 1991)	road
 9161443	Amtrak	Heartland Flyer		Amtrak Heartland Flyer: Oklahoma City => Fort Worth	train
 9161444	Amtrak	Heartland Flyer		Amtrak Heartland Flyer: Fort Worth => Oklahoma City	train
@@ -11974,3 +11974,4 @@
 21470303	US:TX:Ward	390			road
 21470304	US:TX:Ward	385			road
 21520386	US:TX:Cooke	303			road
+21554137	US:TX:Cooke	276			road
