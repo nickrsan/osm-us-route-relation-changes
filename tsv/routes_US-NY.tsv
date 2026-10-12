@@ -1313,7 +1313,7 @@
 2632939	NYC Transit	M66		NYCB - M66 Upper West Side --> Upper East Side via 66th Street	bus
 2632940	NYC Transit	M72		NYCB - M72 Upper West Side --> Upper East Side via 72nd Street	bus
 2632941	NYC Transit	M79 SBS		NYCB - M79 SBS Upper West Side --> Upper East Side via 79th Street	bus
-2632942					
+2632942	NYC Transit			NYCB - M8: West Village → East Village	bus
 2632957	NYC Transit	M103		NYCB - M103 East Harlem --> City Hall	bus
 2632958	NYC Transit	M9		NYCB - M9 Battery Park City --> Kips Bay	bus
 2636365	NYC Transit	M1		NYCB - M1 Harlem --> East Village	bus
@@ -7402,7 +7402,7 @@
 12330101	NYC Transit	M98		NYCB - M98 Washington Heights --> Upper East Side	bus
 12330165	NYC Transit	M5		NYCB - M5 Midtown --> Washington Heights	bus
 12330220	NYC Transit	M7		NYCB - M7 Chelsea --> Harlem	bus
-12330233	NYC Transit	M8		NYCB - M8 East Village --> West Village	bus
+12330233	NYC Transit	M8		NYCB - M8: East Village --> West Village	bus
 12330246	NYC Transit	M10		NYCB - M10 Harlem --> Columbus Circle via Central Park West/Frederick Douglas Boulevard	bus
 12330296	NYC Transit	M21		NYCB - M21 West Village --> Lower East Side	bus
 12330341	NYC Transit	M31		NYCB - M31 Clinton --> Yorkville	bus
@@ -7545,7 +7545,7 @@
 12441883				Blue Loop	hiking
 12441884				History Loop	hiking
 12441885				White Trail	hiking
-12441886				Orange Connectors	hiking
+12441886				Orange Trail	hiking
 12471117		LLT		Liberty Loop Trail	hiking
 12472897	lwn	WWT		Winding Waters Trail	hiking
 12486960	lwn			Red Trail	hiking
@@ -10294,7 +10294,6 @@
 18804943	rcn			Long Island Greenway—Phase IV	bicycle
 18804978	rcn			Long Island Greenway—Shelter Island Connector	bicycle
 18819080	lcn			51st Street	bicycle
-18870166	NYC Transit			M8: West Village → East Village	bus
 18895567				The LYne (teal blazes)	mtb
 18896417				Walt Whitman Trail	hiking
 18896418				Kissenge Trail	hiking
@@ -11688,3 +11687,4 @@
 21472778				Yellow Trail	hiking
 21522672				Mount Defiance Road Walk	hiking
 21522759	lcn			Irondequoit Lakeside Trail	bicycle
+21615952				Orange Trail	hiking

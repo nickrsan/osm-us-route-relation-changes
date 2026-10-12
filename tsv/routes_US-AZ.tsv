@@ -906,7 +906,7 @@
 9626389	Sun Tran	450		Sun Tran Route 450 Southeast Tucson/Rita Ranch	bus
 9626390	Sun Tran	440		Sun Tran Route 440 San Xavier	bus
 9626391	Sun Tran	430		Sun Tran Route 430 Tucson Estates	bus
-9626392	Sun Tran	421		Sun Tran Route 421 Green Valley/Sahuarita	bus
+9626392	Sun Tran	421		Green Valley/Sahuarita	bus
 9727775	lcn			Grand Canyon East Rim Drive Path	bicycle
 9727776	lcn			Grand Canyon Village Greenway	bicycle
 9728113	lcn			Cañada del Oro	bicycle
@@ -1325,7 +1325,7 @@
 14428669		FR 300		Rim Road	road
 14438515	rwn	179		Military Sinkhole Trail #179	hiking
 14467986				The Turqoise Trail	foot
-14511116	US:US	64			road
+14511116	US:US	64		Teec Nos Pos–State Line Highway	road
 14700309					power
 14700310					power
 14700311					power
@@ -1522,7 +1522,6 @@
 19136129	US:US:Old	93		Old US 93 (AZ)	road
 19173922				Canyon Coaster	railway
 19174298	US:US:Future	93			road
-19175278	US:US:Historic	89A		Old US 89A	road
 19198179	US:AZ:Mohave	259		Mohave County Highway 259	road
 19198183	US:AZ:Mohave	157		Mohave County Route 157	road
 19236098	Valley Metro	A	west		light_rail
@@ -1559,6 +1558,7 @@
 19972845	US:AZ:Mohave	135		Cottonwood Road	road
 20012137	lcn	PvBr1	both	Town of Prescott Valley Bicycle Route 1 {ToPVBR1}	bicycle
 20020393		MP-2		Prescott Valley Multiuse Pathway MP-2	bicycle
+20039964				Grand Canyon National Park River Permit	canoe
 20043274	lcn	PBr1		City of Prescott Bicycle Route 1 {CoPBr1}	bicycle
 20043723					
 20046544	lwn	PP1		Montezuma Promenade	foot
@@ -1658,3 +1658,4 @@
 21568908	US:Navajo	351			road
 21570031	US:BLM:BCB			Parker Dam Road Back Country Byway	road
 21570039	US:Navajo	6732			road
+21585579	US:BLM:BCB			Black Hills Back Country Byway	road

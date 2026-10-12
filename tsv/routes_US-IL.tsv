@@ -544,7 +544,7 @@
 2223282				Gilman Subdivision	railway
 2223284				Heyworth Spur	railway
 2223285				JSW Industrial Lead	railway
-2223286				Joliet Subdivision	railway
+2223286				UP Joliet Subdivision	railway
 2223287				Marion Subdivision	railway
 2223288				Monterey Subdivision	railway
 2223289				Mt. Vernon Subdivision	railway
@@ -1149,7 +1149,7 @@
 8798951				Elsdon Subdivision	railway
 8798953				Indiana Harbor Belt Mainline	railway
 8798975					railway
-8798981					railway
+8798981				Rockwell Subdivision	railway
 8798982				Kenton Line Subdivision	railway
 8812538				Sioux City IA to Dubuque IA	railway
 8812539				IAISRR	railway
@@ -2078,7 +2078,6 @@
 13487227	CTA	N53	north	Bus N53: Pulaski Orange Line Station -> Irving Park Blue Line Station	bus
 13490283	CTA	53A	north	Bus 53A: 115th/Springfield -> Pulaski Orange Line Station	bus
 13490284	CTA	53A	south	Bus 53A: Pulaski Orange Line Station -> 115th/Springfield	bus
-13505082				C&M Subdivision	railway
 13559347					tracks
 13565796					tracks
 13565797					tracks
@@ -3334,3 +3333,13 @@
 21465666	Pace	272	north	Bus 272: Golf Mill Mall -> Buffalo Grove Metra Station -> Hawthorn Mall	bus
 21465667	Pace	272	south	Bus 272: Hawthorn Mall -> Barclay -> Golf Mill Mall	bus
 21479661				Grand Tower - Wittenberg	
+21597498				CR&I Industrial Track	railway
+21599773				CN Joliet Subdivision	railway
+21599774				Elsdon Industrial Lead	railway
+21599775				CR&I Industrial Track 2	railway
+21599815				Canal Street Lead	railway
+21607337				59th Street Subdivision	railway
+21607338				South Chicago District Industrial Lead	railway
+21607339				Chicago Rail Link	railway
+21607371				Canadian National (CN) Railway	railway
+21607610	lcn			Clark Bridge	bicycle

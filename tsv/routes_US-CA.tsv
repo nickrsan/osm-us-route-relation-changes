@@ -7710,7 +7710,7 @@
 21359522				Ernie's Walk	foot
 21360817	lcn			Ice House Mountain Bike Trail	mtb
 21360822	lcn			Union Valley South Shore Mountain Bike Trail	mtb
-21361907		10990	south	Scott Valley/Hornbrook	bus
+21361907		10990	south	Bus 10990: N. Main/Across from Dollar General → Greenview Post Office → Across from Etna Ray's Market	bus
 21362633	Santa Rosa CityBus	5		Santa Rosa CityBus 5: Santa Rosa Transit Mall => Yolanda Ave at Santa Rosa Ave	bus
 21362634	Santa Rosa CityBus	5		Santa Rosa CityBus 5: Yolanda Ave at Santa Rosa Ave => Santa Rosa Transit Mall	bus
 21378920					road
@@ -7723,7 +7723,7 @@
 21404676	lwn	DC		Double Cross Trail - Section 3	hiking
 21408558	Santa Rosa CityBus	9		Santa Rosa CityBus 9: Santa Rosa Transit Mall => Westside Transit Center	bus
 21408559	Santa Rosa CityBus	9		Santa Rosa CityBus 9: Westside Transfer Center => Santa Rosa Transit Mall	bus
-21438705				Scott Valley Schools' Turkey Trot 3 Mile Route	running
+21438705	lwn			Scott Valley Schools' Turkey Trot 3 Mile Route	foot
 21455117				Venta Spur Trail	bicycle
 21465962	VTA	500	north	Rapid 500	bus
 21467803				Planet Walk	foot
@@ -7732,3 +7732,5 @@
 21570031	US:BLM:BCB			Parker Dam Road Back Country Byway	road
 21570373	MSJWPA	PS	southwest		aerialway
 21570374	MSJWPA	PS	northeast		aerialway
+21607617	US:BLM:BCB			Buckhorn Back Country Byway	road
+21619652		10990	south	Bus 10990: N. Main/Across from Dollar General → Across from Etna Ray's Market	bus

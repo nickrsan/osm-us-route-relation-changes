@@ -50,7 +50,7 @@
 86088	US:TX:Spur	486		Texas State Highway Spur 486	road
 89928	lcn	BSP		Bastrop & Buescher State Parks	bicycle
 90005	US:TX:CTRMA	183A		183A Toll Road	road
-90283	MetroRail	550		Capital Metro Red Line: Downtown Austin → Leander	train
+90283	MetroRail	550	north		train
 93623		OST			road
 104429	US:I:Business:Loop	35		"I 35 Business (B - Encinal, TX)"	road
 112066	US:I	610		Interstate 610	road
@@ -948,8 +948,8 @@
 1723753				North Travis Tunnel	foot
 1724840	US:TX:FM	1784			road
 1730277	US:TX:FM	1068			road
-1732084	MetroBus	640	inbound	Capital Metro 640 Forty Acres (inbound)	bus
-1732634	MetroBus	642	anticlockwise	Capital Metro 642 West Campus	bus
+1732084	MetroBus	640	inbound		bus
+1732634	MetroBus	642	anticlockwise	West Campus	bus
 1733544	US:TX:FM	469			road
 1739948	lcn	49			bicycle
 1739965	lcn	57			bicycle
@@ -3056,7 +3056,7 @@
 2708901	US:TX:FM	3337			road
 2708943	US:TX:FM	1225			road
 2708999	US:TX:FM	2134			road
-2709043	MetroBus	466	anticlockwise	Capital Metro 466 Kramer/Domain	bus
+2709043	MetroBus	466	anticlockwise	Kramer/Domain	bus
 2710266	US:TX:FM	692			road
 2710271	US:TX:FM	1415			road
 2710295	US:TX:FM	2991			road
@@ -3442,10 +3442,10 @@
 2788919	US:TX:Park	60		Texas Park Road 60	road
 2788921	US:TX:Park	47		Texas Park Road 47	road
 2788954	US:TX:Park	7		Texas Park Road 7	road
-2790159	MetroBus	3	north	Capital Metro 3 Burnet/Manchaca (northbound)	bus
+2790159	MetroBus	3	north		bus
 2790160	MetroBus	3	south		bus
 2790193	MetroBus	7	south		bus
-2790194	MetroBus	7	north	Capital Metro 7 Duval/Dove Springs (northbound)	bus
+2790194	MetroBus	7	north		bus
 2790313	US:TX:Park	52		Texas Park Road 52	road
 2790319	US:TX:Park	49		Texas Park Road 49	road
 2790322	US:TX:Park	31		Texas Park Road 31	road
@@ -4797,14 +4797,14 @@
 4043073	US:I:Express:Toll	635		LBJ TEXpress	road
 4069017	US:I	44	east		road
 4069018	US:I	44	west		road
-4208856	MetroBus	1	north	Capital Metro 1 North Lamar/South Congress (northbound)	bus
+4208856	MetroBus	1	north		bus
 4209224	MetroBus	1	south		bus
-4228323	MetroBus	2	north	Capital Metro 2 Rosewood / Cesar Chavez (clockwise)	bus
+4228323	MetroBus	2	north		bus
 4228324	MetroBus	2	anticlockwise		bus
-4249452	MetroBus	4	east	Capital Metro 4 7th Street (eastbound)	bus
-4250627	MetroBus	4	west	Capital Metro 4 7th Street (westbound)	bus
-4268191	MetroBus	5	west	Capital Metro 5 Woodrow/Lamar (westbound)	bus
-4271365	MetroBus	5	east	Capital Metro 5 Woodrow/Lamar (eastbound)	bus
+4249452	MetroBus	4	east		bus
+4250627	MetroBus	4	west		bus
+4268191	MetroBus	5	west		bus
+4271365	MetroBus	5	east		bus
 4462567	US:TX:RM	2166		Ranch to Market Road 2166	road
 4462854	US:TX:RM	1675		Ranch to Market Road 1675	road
 4462855	US:TX:RM	1555		Ranch to Market Road 1555	road
@@ -5809,119 +5809,119 @@
 8831089	US:TX:FM	2385			road
 8831090	US:TX:FM	1719			road
 8831091	US:TX:FM	2176			road
-9110260	MetroBus	20	north	Capital Metro 20 Riverside (northbound)	bus
+9110260	MetroBus	20	north		bus
 9110261	MetroBus	20	south		bus
-9110262	MetroBus	18	west	Capital Metro 18 Martin Luther King (Westbound)	bus
-9110263	MetroBus	18	east	Capital Metro 18 Martin Luther King (Eastbound)	bus
+9110262	MetroBus	18	west		bus
+9110263	MetroBus	18	east		bus
 9110264	MetroBus	10	south		bus
-9110265	MetroBus	10	north	Capital Metro 10 South 1st/Red River (northbound)	bus
-9112014	MetroBus	152	north	Capital Metro 152 Round Rock Tech Ridge Limited (northbound)	bus
-9112015	MetroBus	152	south	Capital Metro 152 Round Rock Tech Ridge Limited (southbound)	bus
-9112018	MetroBus	50	north	Capital Metro 50 Round Rock Techridge (northbound)	bus
-9112019	MetroBus	50	south	Capital Metro 50 Round Rock Techridge (southbound)	bus
-9112020	MetroBus	30	north	Capital Metro 30 Barton Creek / Bull Creek (northbound)	bus
+9110265	MetroBus	10	north		bus
+9112014	MetroBus	152	north		bus
+9112015	MetroBus	152	south		bus
+9112018	MetroBus	50	north		bus
+9112019	MetroBus	50	south		bus
+9112020	MetroBus	30	north		bus
 9112021	MetroBus	30	south		bus
 9113106	MetroBus	171	south		bus
-9113107	MetroBus	171	north	Capital Metro 171 Oak Hill Flyer (northbound)	bus
-9113108	MetroBus	142	north	Capital Metro 142 Metric Flyer (northbound)	bus
+9113107	MetroBus	171	north		bus
+9113108	MetroBus	142	north		bus
 9113109	MetroBus	142	south		bus
-9113110	MetroBus	135	south	Capital Metro 135 Dell Limited (southbound)	bus
-9113111	MetroBus	135	north	Capital Metro 135 Dell Limited (northbound)	bus
+9113110	MetroBus	135	south		bus
+9113111	MetroBus	135	north		bus
 9113112	MetroBus	111	south		bus
-9113113	MetroBus	111	north	Capital Metro 111 South MoPac Flyer (northbound)	bus
+9113113	MetroBus	111	north		bus
 9113114	MetroBus	105	south		bus
-9113115	MetroBus	105	north	Capital Metro 105 South 5th Flyer (northbound)	bus
-9113116	MetroBus	103	south	Capital Metro 103 Manchaca Flyer (southbound)	bus
-9113117	MetroBus	103	north	Capital Metro 103 Manchaca Flyer (northbound)	bus
-9113352	MetroBus	271	west	Capital Metro 271 Del Valle Feeder (westbound)	bus
-9113353	MetroBus	271	east	Capital Metro 271 Del Valle Feeder (eastbound)	bus
-9113354	MetroBus	243	west	Capital Metro 243 Wells Branch (westbound)	bus
-9113355	MetroBus	243	east	Capital Metro 243 Wells Branch (eastbound)	bus
-9113358	MetroBus	233	west	Capital Metro 233 Decker/Daffan (westbound)	bus
-9113359	MetroBus	233	east	Capital Metro 233 Decker/Daffan (eastbound)	bus
-9113360	MetroBus	228	west	Capital Metro 228 VA Clinic (westbound)	bus
-9113361	MetroBus	228	east	Capital Metro 228 VA Clinic (eastbound)	bus
-9113362	MetroBus	214	east	Capital Metro 214 Northwest Feeder (eastbound)	bus
-9113363	MetroBus	214	west	Capital Metro 214 Northwest Feeder (westbound)	bus
-9113364	MetroBus	201	north	Capital Metro 201 Southpark Meadows (northbound)	bus
-9113365	MetroBus	201	south	Capital Metro 201 Southpark Meadows (southbound)	bus
-9113985	MetroBus	392	east	Capital Metro 392 Braker (eastbound)	bus
-9113986	MetroBus	392	west	Capital Metro 392 Braker (westbound)	bus
-9113987	MetroBus	383	north	Capital Metro 383 Research (northbound)	bus
-9113988	MetroBus	383	south	Capital Metro 383 Research (southbound)	bus
-9113989	MetroBus	350	south	Capital Metro 350 Airport Boulevard (southbound)	bus
-9113990	MetroBus	350	north	Capital Metro 350 Airport Boulevard (northbound)	bus
-9113996	MetroBus	345	east	Capital Metro 345 45th Street (eastbound)	bus
-9113999	MetroBus	345	west	Capital Metro 345 45th Street (westbound)	bus
-9114000	MetroBus	339	east	Capital Metro 339 Tuscany (eastbound)	bus
-9114001	MetroBus	339	west	Capital Metro 339 Tuscany (westbound)	bus
-9114002	MetroBus	337	west	Capital Metro 337 Koenig/Colony Park (westbound)	bus
-9114003	MetroBus	337	east	Capital Metro 337 Koenig/Colony Park (eastbound)	bus
-9114004	MetroBus	335	west	Capital Metro 335 35th/38th Street (westbound)	bus
-9114005	MetroBus	335	east	Capital Metro 335 35th/38th Street (eastbound)	bus
-9114006	MetroBus	333	east	"Capital Metro 333 William Cannon (eastbound, from Oak Hill)"	bus
-9114007	MetroBus	333	west	"Capital Metro 333 William Cannon (westbound, to Oak Hill)"	bus
-9114008	MetroBus	325	north	Capital Metro 325 Metric/Rundberg (northbound)	bus
-9114009	MetroBus	325	south	Capital Metro 325 Metric/Rundberg (southbound)	bus
-9114010	MetroBus	324	east	Capital Metro 324 Georgian/Ohlen (eastbound)	bus
-9114011	MetroBus	324	west	Capital Metro 324 Georgian/Ohlen (westbound)	bus
-9114014	MetroBus	322	south	Capital Metro 322 Chicon/Cherrywood (southbound)	bus
-9114015	MetroBus	322	north	Capital Metro 322 Chicon/Cherrywood (northbound)	bus
-9114016	MetroBus	318	east	Capital Metro 318 Westgate/Slaughter (eastbound)	bus
-9114017	MetroBus	318	west	Capital Metro 318 Westgate/Slaughter (westbound)	bus
-9114018	MetroBus	315	east	Capital Metro 315 Ben White (eastbound)	bus
-9114019	MetroBus	315	west	Capital Metro 315 Ben White (westbound)	bus
-9114020	MetroBus	311	west	Capital Metro 311 Stassney (westbound)	bus
-9114021	MetroBus	311	east	Capital Metro 311 Stassney (eastbound)	bus
-9114022	MetroBus	310	east	Capital Metro 310 Parker/Wickersham (eastbound)	bus
-9114023	MetroBus	310	west	Capital Metro 310 Parker/Wickersham (westbound)	bus
-9114024	MetroBus	300	south	Capital Metro 300 Springdale/Oltorf (southbound)	bus
-9114025	MetroBus	300	north	Capital Metro 300 Springdale/Oltorf (northbound)	bus
-9114315	MetroBus	493	inbound	Capital Metro 493 Eastview (inbound)	bus
-9114316	MetroBus	493	outbound	Capital Metro 493 Eastview (outbound)	bus
-9114317	MetroBus	492	south	Capital Metro 492 Delwood (southbound)	bus
-9114318	MetroBus	492	north	Capital Metro 492 Delwood (northbound)	bus
-9114319	MetroBus	491	south	Capital Metro 491 Allandale (southbound)	bus
-9114320	MetroBus	491	north	Capital Metro 491 Allandale (northbound)	bus
-9114321	MetroBus	490	inbound	Capital Metro 490 HEB Shuttle (Thursday inbound)	bus
-9114322	MetroBus	490	outbound	Capital Metro 490 HEB Shuttle (Thursday outbound)	bus
-9114323	MetroBus	490	inbound	Capital Metro 490 HEB Shuttle (Wednesday inbound)	bus
-9114324	MetroBus	490	outbound	Capital Metro 490 HEB Shuttle (Wednesday outbound)	bus
-9114325	MetroBus	486	north	Capital Metro 486 Night Owl South Congress (northbound)	bus
+9113115	MetroBus	105	north		bus
+9113116	MetroBus	103	south		bus
+9113117	MetroBus	103	north		bus
+9113352	MetroBus	271	west		bus
+9113353	MetroBus	271	east		bus
+9113354	MetroBus	243	west		bus
+9113355	MetroBus	243	east		bus
+9113358	MetroBus	233	west		bus
+9113359	MetroBus	233	east		bus
+9113360	MetroBus	228	west		bus
+9113361	MetroBus	228	east		bus
+9113362	MetroBus	214	east		bus
+9113363	MetroBus	214	west		bus
+9113364	MetroBus	201	north		bus
+9113365	MetroBus	201	south		bus
+9113985	MetroBus	392	east		bus
+9113986	MetroBus	392	west		bus
+9113987	MetroBus	383	north		bus
+9113988	MetroBus	383	south		bus
+9113989	MetroBus	350	south		bus
+9113990	MetroBus	350	north		bus
+9113996	MetroBus	345	east		bus
+9113999	MetroBus	345	west		bus
+9114000	MetroBus	339	east		bus
+9114001	MetroBus	339	west		bus
+9114002	MetroBus	337	west		bus
+9114003	MetroBus	337	east		bus
+9114004	MetroBus	335	west		bus
+9114005	MetroBus	335	east		bus
+9114006	MetroBus	333	east		bus
+9114007	MetroBus	333	west		bus
+9114008	MetroBus	325	north		bus
+9114009	MetroBus	325	south		bus
+9114010	MetroBus	324	east		bus
+9114011	MetroBus	324	west		bus
+9114014	MetroBus	322	south		bus
+9114015	MetroBus	322	north		bus
+9114016	MetroBus	318	east		bus
+9114017	MetroBus	318	west		bus
+9114018	MetroBus	315	east		bus
+9114019	MetroBus	315	west		bus
+9114020	MetroBus	311	west		bus
+9114021	MetroBus	311	east		bus
+9114022	MetroBus	310	east		bus
+9114023	MetroBus	310	west		bus
+9114024	MetroBus	300	south		bus
+9114025	MetroBus	300	north		bus
+9114315	MetroBus	493	inbound		bus
+9114316	MetroBus	493	outbound		bus
+9114317	MetroBus	492	south		bus
+9114318	MetroBus	492	north		bus
+9114319	MetroBus	491	south		bus
+9114320	MetroBus	491	north		bus
+9114321	MetroBus	490	inbound		bus
+9114322	MetroBus	490	outbound		bus
+9114323	MetroBus	490	inbound		bus
+9114324	MetroBus	490	outbound		bus
+9114325	MetroBus	486	north		bus
 9114326	MetroBus	486	south		bus
-9114327	MetroBus	485	south	Capital Metro 485 Night Owl Cameron (southbound)	bus
-9114328	MetroBus	485	north	Capital Metro 485 Night Owl Cameron (northbound)	bus
-9114329	MetroBus	484	north	Capital Metro 484 Night Owl South Lamar (northbound)	bus
-9114330	MetroBus	484	south	Capital Metro 484 Night Owl South Lamar (southbound)	bus
-9114331	MetroBus	483	north	Capital Metro 483 Night Owl Riverside (northbound)	bus
+9114327	MetroBus	485	south		bus
+9114328	MetroBus	485	north		bus
+9114329	MetroBus	484	north		bus
+9114330	MetroBus	484	south		bus
+9114331	MetroBus	483	north		bus
 9114332	MetroBus	483	south		bus
-9114333	MetroBus	481	south	Capital Metro 481 Night Owl North Lamar (southbound)	bus
-9114334	MetroBus	481	north	Capital Metro 481 Night Owl North Lamar (northbound)	bus
-9114337	MetroBus	465	east	Capital Metro 465 MLK/University of Texas (eastbound)	bus
-9114338	MetroBus	465	west	Capital Metro 465 MLK/University of Texas (westbound)	bus
+9114333	MetroBus	481	south		bus
+9114334	MetroBus	481	north		bus
+9114337	MetroBus	465	east		bus
+9114338	MetroBus	465	west		bus
 9122667	MetroRapid	803	north		bus
 9122668	MetroRapid	803	south		bus
 9122669	MetroRapid	801	south		bus
 9122670	MetroRapid	801	north		bus
-9122676	MetroBus	672	inbound	Capital Metro 672 Lakeshore (inbound)	bus
-9122677	MetroBus	672	outbound	Capital Metro 672 Lakeshore (outbound)	bus
-9122680	MetroBus	670	inbound	Capital Metro 670 North Riverside (inbound)	bus
-9122681	MetroBus	670	south	Capital Metro 670 North Riverside (outbound)	bus
-9122682	MetroBus	663	inbound	Capital Metro 663 Lake Austin/UT (inbound)	bus
-9122683	MetroBus	663	outbound	Capital Metro 663 Lake Austin/UT (outbound)	bus
-9122684	MetroBus	661	inbound	Capital Metro 661 Far West/UT (inbound)	bus
-9122685	MetroBus	661	outbound	Capital Metro 661 Far West/UT (outbound)	bus
-9122686	MetroBus	656	inbound	Capital Metro 656 Intramural Fields/UT (inbound)	bus
-9122687	MetroBus	656	outbound	Capital Metro 656 Intramural Fields/UT (outbound)	bus
-9123971	MetroBus	990	west	Capital Metro 990 Manor/Elgin Express (westbound)	bus
-9123972	MetroBus	990	east	Capital Metro 990 Manor/Elgin Express (eastbound)	bus
-9123975	MetroBus	985	south	Capital Metro 985 Leander/Lakeline Direct (southbound)	bus
+9122676	MetroBus	672	inbound		bus
+9122677	MetroBus	672	outbound		bus
+9122680	MetroBus	670	inbound		bus
+9122681	MetroBus	670	south		bus
+9122682	MetroBus	663	inbound		bus
+9122683	MetroBus	663	outbound		bus
+9122684	MetroBus	661	inbound		bus
+9122685	MetroBus	661	outbound		bus
+9122686	MetroBus	656	inbound		bus
+9122687	MetroBus	656	outbound		bus
+9123971	MetroBus	990	west		bus
+9123972	MetroBus	990	east		bus
+9123975	MetroBus	985	south		bus
 9123976	MetroBus	985	north		bus
-9123977	MetroBus	982	north	Capital Metro 982 Pavilion Express (northbound)	bus
+9123977	MetroBus	982	north		bus
 9123978	MetroBus	982	south		bus
-9123981	MetroBus	980	south	Capital Metro 980 North Mopac Express (southbound)	bus
+9123981	MetroBus	980	south		bus
 9123982	MetroBus	980	north		bus
-9123983	MetroBus	935	south	Capital Metro 935 Tech Ridge Express (southbound)	bus
+9123983	MetroBus	935	south		bus
 9123984	MetroBus	935	north		bus
 9129723				Former US 80 (TX 1991)	road
 9161443	Amtrak	Heartland Flyer		Amtrak Heartland Flyer: Oklahoma City => Fort Worth	train
@@ -7158,28 +7158,6 @@
 11527098					power
 11527099					power
 11527100					power
-11527101					power
-11527102					power
-11527103					power
-11527104					power
-11527105					power
-11527106					power
-11527125					power
-11527126					power
-11527127					power
-11527128					power
-11527129					power
-11527200					power
-11527201					power
-11527202					power
-11527203					power
-11527204					power
-11527205					power
-11527206					power
-11527207					power
-11527208					power
-11527209					power
-11527210					power
 11528197					power
 11528198					power
 11528199					power
@@ -7359,7 +7337,6 @@
 11539932					power
 11539933					power
 11539934					power
-11539935					power
 11539936					power
 11539937					power
 11539938					power
@@ -7449,7 +7426,6 @@
 11569059					power
 11569060					power
 11569061					power
-11569062					power
 11673639	US:TX:Wilbarger	107		Wilbarger County Road 107	road
 11673640	US:TX:Wilbarger	106		Wilbarger County Road 106	road
 11673641	US:TX:Wilbarger	109		Wilbarger County Road 109	road
@@ -7587,86 +7563,9 @@
 11755168					power
 11755680					power
 11755681					power
-11755682					power
-11755683					power
-11755684					power
-11755685					power
-11755686					power
-11755687					power
-11755688					power
-11755689					power
-11755690					power
-11755691					power
-11755692					power
-11755693					power
-11755694					power
-11755695					power
-11755696					power
-11758954					power
-11758955					power
-11758956					power
-11758957					power
-11758958					power
-11758959					power
-11758960					power
-11758961					power
-11758962					power
-11758963					power
-11758964					power
-11758965					power
 11758966					power
 11758967					power
 11758968					power
-11758997					power
-11758998					power
-11758999					power
-11759000					power
-11759001					power
-11759082					power
-11759083					power
-11759084					power
-11759085					power
-11759086					power
-11759087					power
-11759088					power
-11759089					power
-11759090					power
-11759091					power
-11759211					power
-11759212					power
-11759213					power
-11759214					power
-11759215					power
-11759267					power
-11759268					power
-11759269					power
-11759270					power
-11759271					power
-11759272					power
-11759273					power
-11759289					power
-11759290					power
-11759291					power
-11761943					power
-11761944					power
-11761945					power
-11761946					power
-11761947					power
-11761948					power
-11761949					power
-11761950					power
-11761951					power
-11761952					power
-11761953					power
-11762093					power
-11762094					power
-11762095					power
-11762096					power
-11762111					power
-11762112					power
-11762113					power
-11762114					power
-11762115					power
 11765501	US:OK:Beaver	E0350			road
 11773071	US:TX:Lamar	36160		Lamar County Road 36160	road
 11778464		1		Route 1	bus
@@ -7676,14 +7575,8 @@
 11779346		5		Route 5	bus
 11779384		6		Route 6	bus
 11779417		7		Route 7	bus
-11801373					power
-11801374					power
-11801375					power
 11801376					power
 11801377					power
-11801378					power
-11801379					power
-11801380					power
 11801381					power
 11801382					power
 11801404					power
@@ -7691,13 +7584,6 @@
 11801406					power
 11801407					power
 11801408					power
-11801446					power
-11801447					power
-11801469					power
-11801470					power
-11801471					power
-11801472					power
-11801473					power
 11820375	lcn			Egret Bay Blvd Cycle path	bicycle
 11833969	DART	826		TI Shuttle - North Campus North Route	bus
 11833978	DART	827		TI Shuttle - North Campus South Route	bus
@@ -7716,114 +7602,16 @@
 11914144	lcn			College Parkway	bicycle
 11914157	lcn			Hillcrest Road	bicycle
 11914158	lcn			Hillcrest Road	bicycle
-11954636					power
-11954637					power
-11954638					power
-11954639					power
-11954640					power
-11954641					power
-11954642					power
-11954643					power
-11954644					power
-11954645					power
-11954646					power
-11954647					power
-11954678					power
-11954679					power
-11954680					power
-11954681					power
-11954682					power
-11954773					power
-11954774					power
-11954775					power
-11954776					power
-11954777					power
-11954778					power
-11954779					power
-11954780					power
-11954781					power
-11954782					power
-11954783					power
-11954784					power
-11954785					power
-11954786					power
-11954787					power
-11954788					power
-11954789					power
-11954790					power
-11954878					power
-11954879					power
-11954880					power
-11954881					power
-11954882					power
-11954883					power
-11954884					power
-11954885					power
-11954886					power
-11954887					power
-11954888					power
-11954902					power
-11954903					power
-11954904					power
-11955812					power
-11955813		T-315			power
-11955814					power
-11955815					power
-11955816					power
-11955817					power
-11955818					power
-11955819					power
-11955820					power
-11955821					power
-11955822					power
 11955823					power
 11955824					power
-11955825					power
 11955826					power
 11955827					power
-11955828					power
-11955829					power
-11955830					power
-11955831		T-415			power
-11955832		T-450			power
-11955833		T-416			power
-11955834		T-360			power
-11955835		T-316			power
-11955836		T-358			power
-11955837		T-315			power
-11955852					power
-11955853					power
-11955926					power
-11955927					power
-11955928					power
-11955929					power
 11955930					power
 11955931					power
 11955932					power
 11955933					power
 11955934					power
-11955935		T-326			power
-11955936		T-469			power
-11955937		T-362			power
-11955938		T-354			power
-11955939		T-386			power
-11955940					power
-11955941		T-483			power
-11955942		T-961			power
-11955943					power
-11955944					power
-11955945					power
-11955946					power
-11955955		1012			power
-11955956		1012			power
-11955957					power
-11955958					power
-11955959					power
-11994399		T-380			power
-11994400					power
 11994406					power
-11994407					power
-11994408					power
 11994409					power
 11994580					power
 11994581					power
@@ -7837,32 +7625,12 @@
 11994589					power
 11994590					power
 11994591					power
-11994733					power
-11994734					power
-11994735					power
-11995141					power
-11995142					power
-11995143					power
-11995144					power
-11995145					power
-11995146					power
-11995147					power
-11995148					power
-11995149					power
-11995150					power
-11995151					power
-11995152					power
-11995323		T-378			power
-11995324		T-355			power
 11995325					power
 11995326					power
 11995350					power
 11995351					power
 11995352					power
 11995353					power
-11995354					power
-11995355					power
-11995454					power
 11995455					power
 11995456					power
 11995457					power
@@ -8162,11 +7930,6 @@
 12013247					power
 12013248					power
 12013249					power
-12013251					power
-12013354					power
-12013355					power
-12013356					power
-12013357					power
 12013358					power
 12013359					power
 12013360					power
@@ -8241,7 +8004,7 @@
 12219679		42		San Benito-Harlingen	bus
 12219790		44		La Feria/Santa Rosa/Primera	bus
 12230908	US:TX:Business	31		TX 31 Business (Hubbard)	road
-12249228	MetroRail	550		Capital Metro Red Line: Leander → Downtown Austin	train
+12249228	MetroRail	550	south		train
 12249421	Trinity Metro	TEX		TEXRail: DFW Airport => Fort Worth	train
 12249521	DCTA	A		DCTA A-Train: Trinity Mills => Denton	train
 12286534		1		Eastside	bus
@@ -8458,8 +8221,8 @@
 13617342				Houston Subdivision	railway
 13635101					bicycle
 13642672	lcn			Red Arroyo Trail	bicycle
-13652054	MetroBus	217		Capital Metro 217 Montopolis Feeder (northbound)	bus
-13691567	Capital Area Rural Transportation Service	1518	east	Interurban Purple Route	bus
+13652054	MetroBus	217	north		bus
+13691567	CARTS	1518	east		bus
 13730002	US:TX:Toll	288		Brazoria County Expressway	road
 13730003	US:TX:Toll	288		Texas State Highway 288 Toll	road
 13730019	US:TX:Toll	249		Texas State Highway 249 Toll	road
@@ -8467,7 +8230,7 @@
 13730282	US:TX:CTRMA	183		Bergstrom Expressway	road
 13730344	US:TX:NTTA	360		360 Tollway	road
 13730438	US:TX:Toll	375		Border West Expressway	road
-13736672	Capital Area Rural Transportation Service	1510		CARTS 1510 Yellow Route (Southbound)	bus
+13736672	CARTS	1510	south		bus
 13737359	US:TX:Business	31		Texas State Highway 31 Business (Corsicana)	road
 13741740				RELLIS	bus
 13744546	Denton County Transportation Authority	DP		Bus DP: UNT Union -> Discovery Park	bus
@@ -8839,8 +8602,8 @@
 14296675				Martinez Creek Greenway Trail	bicycle
 14316383	lcn			Austin Ranch Trail	bicycle
 14370067	lcn			West Rail Trail	bicycle
-14381218	MetroRail	Blue		Blue Line	light_rail
-14383317	MetroRail			Orange Line	light_rail
+14381218	MetroRail	Blue		Blue Line	railway
+14383317	MetroRail			Orange Line	railway
 14393423	US:TX:Fannin	2945			road
 14419758	US:TX:FM	3541			road
 14419841	US:TX:Spur	377		Texas State Highway Spur 377	road
@@ -8881,8 +8644,6 @@
 14568689				Gray Oak Pipeline	pipeline
 14580819				Seaway Crude Pipeline System	pipeline
 14612458	US:TX:THC:Texas Forest Trail			Texas Forest Trail	road
-14642527	Bobcat Shuttle	26		Wonder World	bus
-14642869	Bobcat Shuttle	12		Bobcat Village	bus
 14653827	lcn	ARBT		Ann & Roy Butler Hike and Bike Trail	bicycle
 14653911	lwn	BT		The Boardwalk at Lady Bird Lake	foot
 14675317				Cactus Pipeline	pipeline
@@ -9013,10 +8774,10 @@
 15093677	US:TX:Park	1C		Texas Park Road 1C	road
 15093678	US:TX:Park	1B		Texas Park Road 1B	road
 15093679	US:TX:Park	1A		Texas Park Road 1A	road
-15339415	MetroRapid	Rapid 800	south	Capital Metro 800 Pleasant Valley Line (southbound)	bus
-15339416	MetroRapid	Rapid 800	north	Capital Metro 800 Pleasant Valley Line (northbound)	bus
-15339419	MetroRapid	Rapid 837	south	Capital Metro 837 Expo Center Line (Southbound)	bus
-15339420	MetroRapid	Rapid 837	north	Capital Metro 837 Expo Center Line (Northbound)	bus
+15339415	MetroRapid	800	south		bus
+15339416	MetroRapid	800	north		bus
+15339419	MetroRapid	837	south		bus
+15339420	MetroRapid	837	north		bus
 15342545				Union Park West Loop	bicycle
 15342546				Union Park East Loop	bicycle
 15342547				Union Park Loop	bicycle
@@ -11685,20 +11446,20 @@
 18548904	US:TX:Brown	316			road
 18548905	US:TX:Brown	317			road
 18563056	rcn			Balcones Trail	bicycle
-18585783	MetroBus	4	west	"Capital Metro 4 7th Street (westbound, LASA)"	bus
-18585785	MetroBus	4	east	"Capital Metro 4 7th Street (eastbound, LASA)"	bus
-18585831	MetroBus	4	east	"Capital Metro 4 7th Street (eastbound, Austin High School)"	bus
-18585832	MetroBus	4	west	"Capital Metro 4 7th Street (westbound, Austin High School)"	bus
-18589312	MetroBus	7	north	Capital Metro 7 Duval/Dove Springs (northbound - ACC Highland)	bus
-18622948	MetroBus	217		"Capital Metro 217 Montopolis Feeder (southbound, Allison Elementary)"	bus
+18585783	MetroBus	4	west		bus
+18585785	MetroBus	4	east		bus
+18585831	MetroBus	4	east		bus
+18585832	MetroBus	4	west		bus
+18589312	MetroBus	7	north		bus
+18622948	MetroBus	217	south		bus
 18627112	lcn			Redding Trail	bicycle
 18627113	lcn	LL		Les Lacs Linear Park	bicycle
-18647986	MetroBus	333	east	"Capital Metro 333 William Cannon (eastbound, from Brush Country)"	bus
-18648031	MetroBus	333	west	"Capital Metro 333 William Cannon (westbound, to Brush Country)"	bus
-18648048	MetroBus	333	east	"Capital Metro 333 William Cannon (eastbound, Perez Elementary)"	bus
-18648068	MetroBus	333	west	"Capital Metro 333 William Cannon (westbound, Perez Elementary)"	bus
+18647986	MetroBus	333	east		bus
+18648031	MetroBus	333	west		bus
+18648048	MetroBus	333	east		bus
+18648068	MetroBus	333	west		bus
 18687514	lcn			Lemmon Avenue Trail	bicycle
-18739447	MetroBus	640	outbound	Capital Metro 640 Forty Acres (outbound)	bus
+18739447	MetroBus	640	outbound		bus
 18786607	lcn			Owens Trail	bicycle
 18794398	lcn			Glenville Trail	bicycle
 18798003	lcn			Huffines Park Trail	bicycle
@@ -11876,8 +11637,8 @@
 20826666				Town Center Trolley	trolleybus
 20951512	Capital Area Rural Transportation System	1516	east	Interurban Orange Route	bus
 20951513	Capital Area Rural Transportation System	1516	west	Interurban Orange Route	bus
-20987100	MetroBus	320	south	Capital Metro 320 Manor Road/Dean Keaton (southbound)	bus
-20987101	MetroBus	320	north	Capital Metro 320 Manor Road/Dean Keaton (northbound)	bus
+20987100	MetroBus	320	south		bus
+20987101	MetroBus	320	north		bus
 20994323	US:TX:Wood	3279		Wood County Road 3279	road
 20994324	US:TX:Wood	3286		Wood County Road 3286	road
 20994325	US:TX:Wood	3287		Wood County Road 3287	road
@@ -11975,3 +11736,11 @@
 21470304	US:TX:Ward	385			road
 21520386	US:TX:Cooke	303			road
 21554137	US:TX:Cooke	276			road
+21586663	Bobcat Shuttle	26	south		bus
+21586664	Bobcat Shuttle	26	north		bus
+21586667	Bobcat Shuttle	12	east		bus
+21586668	Bobcat Shuttle	12	west		bus
+21586671	CARTS	1510	north		bus
+21599694	US:TX:Cooke	257			road
+21599695	US:TX:Cooke	162			road
+21604457	US:TX:Ward	96			road
