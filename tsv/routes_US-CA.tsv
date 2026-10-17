@@ -325,7 +325,7 @@
 553280				West Balboa Boulevard	road
 571791	lcn	17		Long Beach Bicycle Route 17	bicycle
 576264	lcn	10		Long Beach Bicycle Route 10	bicycle
-904839	Amtrak		east		train
+904839	Amtrak		east	Amtrak Southwest Chief: Los Angeles => Chicago	train
 915719	lcn			Burlingame Bicycle Routes	bicycle
 937090	US:CA:CR	N4			road
 937190	Long Beach Transit	91		Long Beach Transit 91	bus
@@ -671,10 +671,10 @@
 1783279	Disney Guest Transportation Service	MFT		Mickey and Friends Tram Route	tram
 1783281	Anaheim Resort Transit	20		Toy Story Parking Lot Shuttles	bus
 1783317				Mickey and Friends Guest Shuttle	bus
-1784167				Horseless Carriage	bus
+1784167	Main Street Vehicles			Horseless Carriage	bus
 1784168				Omnibus	bus
-1784169				Fire Engine	bus
-1784170				Horse Drawn Streetcar	tram
+1784169	Main Street Vehicles			Fire Engine	bus
+1784170	Main Street Vehicles			Horse Drawn Streetcar	tram
 1786374	lcn	110			bicycle
 1792731	lcn	106			bicycle
 1792732	lcn	202			bicycle
@@ -956,8 +956,8 @@
 2326065	US:I	5	north		road
 2326066	US:I	5	south		road
 2350199				Keddie Wye	railway
-2351005	Metro Rail	A		Metro A Line: Downtown Long Beach → Pomona North	light_rail
-2351006	Metro Rail	E		Metro E Line: Atlantic → Downtown Santa Monica	light_rail
+2351005	Metro Rail	A	north		light_rail
+2351006	Metro Rail	E	west		light_rail
 2352701	SacRT	Gold		Gold Line: Sacramento Valley Station => Historic Folsom	light_rail
 2352702	SacRT	Gold		Gold Line: Historic Folsom => Sacramento Valley Station	light_rail
 2355642	Yuba-Sutter Transit	MD		Sacramento Midday Express	bus
@@ -1093,7 +1093,7 @@
 2377885	Yuba-Sutter Transit	99		"Sacramento Commuter Express (Route 99, 399)"	bus
 2377886	Yuba-Sutter Transit	99		"Sacramento Commuter Express (Route 99, 499)"	bus
 2377887	Yuba-Sutter Transit	99		"Sacramento Commuter Express (Route 99, 699)"	bus
-2377889	Metro Rail	C		Metro C Line: LAX/Metro Transit Center → Norwalk	light_rail
+2377889	Metro Rail	C	east		light_rail
 2378981	SacRT	Blue		Blue Line: Cosumnes River College => Watt/I-80	light_rail
 2378982	SacRT	Blue		Blue Line: Watt/I-80 => Cosumnes River College	light_rail
 2379220	SacRT	Green		Green Line: 13th Street => 7th & Richards / Township 9	light_rail
@@ -1283,7 +1283,7 @@
 2769714	lwn			Oak Glen Road Trail	hiking
 2770524				Oakmont Trail	hiking
 2770609				Oak Glen Creek Basins Trails	hiking
-2776835	GET	82		GET 82 Rosedale	bus
+2776835	GET	82		Rosedale	bus
 2781244					bicycle
 2790361	lcn	Omer Rains		Omer Rains Coastal Bikeway	bicycle
 2790362	rcn	OVB		Ojai - Ventura Bike Path	bicycle
@@ -1291,8 +1291,8 @@
 2808958	Metrolink	Inland Empire-Orange County		Metrolink Inland Empire-Orange County Line: San Bernardino => Oceanside	train
 2810528	US:US:Historic	6			road
 2810807	US:CA	14U			road
-2810818	Metro Rail	B		Metro B Line: North Hollywood → Union Station	subway
-2810819	Metro Rail	D		Metro D Line: Wilshire/La Cienega → Union Station	subway
+2810818	Metro Rail	B	south		subway
+2810819	Metro Rail	D	east		subway
 2812898	Amtrak	Pacific Surfliner		Amtrak Pacific Surfliner: San Diego => San Luis Obispo	train
 2812899	Metrolink	Orange County		Metrolink Orange County Line: Los Angeles => Oceanside	train
 2812900	Amtrak	Coast Starlight			train
@@ -1399,20 +1399,20 @@
 3240214	lcn			Lewis S. Eaton Bike Trail	bicycle
 3255880	rwn			San Joaquin River Trail	hiking
 3259897	AC Transit	217		AC Transit 217: Fremont BART => Milpitas BART	bus
-3271976	Anaheim Resort Transit	1		ART Route 1	bus
-3271980	Anaheim Resort Transit	2		ART Route 2	bus
-3271993	Anaheim Resort Transit	3		ART Route 3	bus
-3272004	Anaheim Resort Transit	4		ART Route 4	bus
-3272005	Anaheim Resort Transit	5		ART Route 5	bus
-3272008	Anaheim Resort Transit	6		ART Route 6	bus
+3271976	ART	1			bus
+3271980	ART	2			bus
+3271993	ART	3			bus
+3272004	ART	4			bus
+3272005	ART	5			bus
+3272008	ART	6			bus
 3272015	Anaheim Resort Transit	18		Buena Park Line	bus
-3273627	Anaheim Resort Transit	7		ART Route 7	bus
-3273628	Anaheim Resort Transit	8		ART Route 8	bus
-3273631	Anaheim Resort Transit	9		ART Route 9	bus
-3273650	Anaheim Resort Transit	10		ART Route 10	bus
-3273654	Anaheim Resort Transit	11		ART Route 11	bus
-3277608	Anaheim Resort Transit	12		ART Route 12	bus
-3279742	Anaheim Resort Transit	14		ART Route 14	bus
+3273627	ART	7			bus
+3273628	ART	8			bus
+3273631	ART	9			bus
+3273650	ART	10			bus
+3273654	ART	11			bus
+3277608	ART	12			bus
+3279742	ART	14			bus
 3281722	AC Transit	239		AC Transit 239: Milmont Drive & Kato Road => Fremont BART	bus:suspended
 3282316				Exeter Branch	railway
 3284834	lcn	SDR		San Diego River Trail	bicycle
@@ -1421,8 +1421,8 @@
 3285459				Coalinga Branch	railway
 3285460				Kerman Branch	railway
 3285463				Riverdale Branch	railway
-3286464	Anaheim Resort Transit	15		ART Route 15	bus
-3289037	Anaheim Resort Transit	16		ART Route 16	bus
+3286464	ART	15			bus
+3289037	ART	16			bus
 3289187	rwn			Mount Whitney Trail	hiking
 3295634	AC Transit	251		AC Transit 251: Fremont BART => Ohlone College Newark Campus (weekdays)	bus
 3309068	lcn	198			bicycle
@@ -1781,7 +1781,7 @@
 4710758				California Western Railroad	railway
 4710759				Skunk Train	train
 4713797	Amtrak	Gold Runner	south	Amtrak Gold Runner: Sacramento => Bakersfield	train
-4720713	Amtrak		west		train
+4720713	Amtrak		west	Amtrak Southwest Chief: Chicago → Los Angeles	train
 4727062				San Diego Subdivision	railway
 4729047	SDMTS	Silver	clockwise	Silver Line	tram
 4740795	BART	OAK		BART Oakland Airport Connector: Coliseum => OAK Airport	monorail
@@ -2010,8 +2010,8 @@
 6552375	lcn			Trabuco Creek Trail	bicycle
 6563170				White Hills Industrial Lead	railway
 6574713					foot
-6584633	Metro Rail	E		Metro E Line: Downtown Santa Monica → Atlantic	light_rail
-6585128	Metro Rail	A		Metro A Line: Pomona North → Downtown Long Beach	light_rail
+6584633	Metro Rail	E	east		light_rail
+6585128	Metro Rail	A	south		light_rail
 6622304	Wheels	1		Wheels 1: East Dublin/Pleasanton BART => Santa Rita Jail (weekends)	bus
 6622876	Wheels	2		Wheels 2: Positano & Valentano => East Dublin/Pleasanton BART	bus
 6622882	Wheels	3		Wheels 3: Stoneridge Mall => East Dublin/Pleasanton BART	bus
@@ -2308,10 +2308,10 @@
 7873796				BART Silicon Valley Phase II	
 7873797				BART Silicon Valley Phase I	railway
 7916804				Peninsula Subdivision	railway
-7935052	Metro Rail	C		Metro C Line: Norwalk → LAX/Metro Transit Center	light_rail
+7935052	Metro Rail	C	west		light_rail
 7935165	lwn			River Trail Pedestrian	hiking
-7935312	Metro Rail	D		Metro D Line: Union Station → Wilshire/La Cienega	subway
-7935321	Metro Rail	B		Metro B Line: Union Station → North Hollywood	subway
+7935312	Metro Rail	D	west		subway
+7935321	Metro Rail	B	north		subway
 7937987	lhn			Pogonip Equestrian	horse
 7953300	lcn	42Z			bicycle
 7953324	lcn	218L			bicycle
@@ -2354,7 +2354,7 @@
 8192149	lcn	SFR		South Fork River Trail	bicycle
 8192150	lcn			Santa Clara River Trail	bicycle
 8192151	lcn	CPT		Chuck Pontius Commuter Rail Trail	bicycle
-8210399	Metro Rapid	J		Metro J Line: El Monte → Harbor Gateway	bus
+8210399	Metro Rapid	J	southwest		bus
 8210550	Metro Rapid	J	south		bus
 8212915	Marguerite	SLAC		Marguerite SLAC: SLAC => Memorial Auditorium	bus:suspended
 8221943				Pacific Imperial Railroad	railway
@@ -2445,8 +2445,8 @@
 8440127				Hollywood Boulevard	road
 8440129	Metro Local	215		Metro 215	bus
 8440130	Metro Local	211		Metro 211	bus
-8440301	Amtrak	CZ	east		train
-8440320	Amtrak	CZ	west		train
+8440301	Amtrak	CZ	east	Amtrak California Zephyr: Emeryville => Chicago	train
+8440320	Amtrak	CZ	west	Amtrak California Zephyr: Chicago => Emeryville	train
 8440397	Metro Local	237		Metro 237	bus
 8440398	Metro Local	236		Metro 236	bus
 8440400	Metro Local	234		Metro 234	bus
@@ -2488,15 +2488,15 @@
 8444705				Santa Monica Boulevard	road
 8444706				Wilshire Boulevard	road
 8444707				Venice Boulevard	road
-8444711	Big Blue Bus	41		Big Blue Bus 41 Clockwise	bus
+8444711	Big Blue Bus	41	clockwise		bus
 8445276				Culver Boulevard	road
 8445294	Playa Vista	Daily		Daily Shuttle	bus
-8445483	DASH	Observatory/Los Feliz		DASH Observatory/Los Feliz Northbound: Vermont/Sunset => Los Feliz & Hillhurst (mornings)	bus
-8445484	DASH	Larchmont Shuttle		DASH Larchmont Shuttle	bus
-8445558	DASH	El Sereno/City Terrace		DASH El Sereno/City Terrace (706)	bus
-8445592	DASH	San Pedro		DASH San Pedro (711)	bus
-8445593	DASH	Wilmington		DASH Wilmington (708/710)	bus
-8445595	DASH	Van Nuys/Studio City		DASH Van Nuys/Studio City (799/800)	bus
+8445483	DASH		north		bus
+8445484	DASH			Larchmont Shuttle	bus
+8445558	DASH	706		El Sereno/City Terrace	bus
+8445592	DASH	711		San Pedro	bus
+8445593	DASH	708/710		Wilmington	bus
+8445595	DASH	799/800		Van Nuys/Studio City	bus
 8445596	DASH	Panorama City/Van Nuys		DASH Panorama City/Van Nuys (801/804)	bus
 8445597	DASH	Northridge		DASH Northridge (798)	bus
 8447142	Commuter Express	422		Commuter Express 422	bus
@@ -2505,7 +2505,7 @@
 8447147	Commuter Express	423		Commuter Express 423	bus
 8447148	Commuter Express	419		Commuter Express 419	bus
 8447149	Commuter Express	409		Commuter Express 409	bus
-8447294	Commuter Express	Union Station/Bunker Hill Shuttle		Commuter Express Union Station/Bunker Hill Shuttle	bus
+8447294	Commuter Express	Union Station/Bunker Hill Shuttle		Union Station/Bunker Hill Shuttle	bus
 8447295	Commuter Express	574		Commuter Express 574	bus
 8447296	Commuter Express	573		Commuter Express 573	bus
 8447297	Commuter Express	549		Commuter Express 549	bus
@@ -2516,7 +2516,7 @@
 8447553	Long Beach Transit	51		Long Beach Transit 51	bus
 8447554	Long Beach Transit	46		Long Beach Transit 46	bus
 8447555	Long Beach Transit	45		Long Beach Transit 45	bus
-8447556	Long Beach Transit	Passport		Long Beach Transit 37 (Passport)	bus
+8447556	Long Beach Transit	37		Passport	bus
 8447559				Long Beach Boulevard	road
 8447560				Santa Fe Avenue	road
 8447685	Long Beach Transit	151		Long Beach Transit 151	bus
@@ -2536,18 +2536,18 @@
 8447742	Long Beach Transit	174		Long Beach Transit 174	bus
 8447743	Long Beach Transit	173		Long Beach Transit 173	bus
 8447744	Long Beach Transit	172		Long Beach Transit 172	bus
-8448453		Shuttle		Baldwin Park Transit Shuttle	bus
+8448453				Baldwin Park Transit Shuttle	bus
 8448835				Del Amo Boulevard	road
 8448836				Carson Street	road
 8448837				El Segundo Boulevard	road
 8448838				Alondra Boulevard	road
 8448839				Rosecrans Avenue	road
-8448840	Beach Cities Transit	109	north	Beach Cities Transit 109 (northbound)	bus
+8448840	BCT	109	north		bus
 8448858				Glenoaks Boulevard	road
-8448859	Burbank Bus	Orange		Burbank Bus Orange NoHo-Airport	bus
+8448859	Burbank Bus	Orange		NoHo–Airport	bus
 8448860	Burbank Bus	Gold		Burbank Bus Golden State Circulator	bus
-8448861	Burbank Bus	Pink		Burbank Bus Pink Metrolink-Media District	bus
-8448862	Burbank Bus	Green		Burbank Bus Green NoHo-Media District	bus
+8448861	Burbank Bus	Pink		Metrolink–Media District	bus
+8448862	Burbank Bus	Green		NoHo–Media District	bus
 8448918				Compton Avenue	road
 8448919				Compton Boulevard	road
 8448924				Wilmington Avenue	road
@@ -2604,15 +2604,15 @@
 8450723	Sunshine Shuttle	B		Route B - Sunshine Shuttle	bus
 8450724	Sunshine Shuttle	A		Route A - Sunshine Shuttle	bus
 8450725	Sunshine Shuttle	C		Route C - Sunshine Shuttle	bus
-8450726	Los Angeles County Shuttles	El Sol		LA County El Sol East Los Angeles Shuttle City Terrace/ELAC	bus
+8450726	Los Angeles County Shuttles	ELAC		East Los Angeles Shuttle	bus
 8450727	El Sol	upsp		Union Pacific/Salazar Park	bus
 8450728	El Sol	wbsp		Whittier Boulevard/Saybrook Park	bus
-8450729	Los Angeles County Shuttles	Shuttle		LA County East Valinda Shuttle	bus
-8450730	Los Angeles County Shuttles	Shuttle		LA County Heights Hopper Shuttle	bus
-8450731	Los Angeles County Shuttles	Pellissier Shuttle		LA County Pellissier Shuttle	bus
-8450732	Los Angeles County Shuttles	Avocado Heights Shuttle		LA County Avocado Heights/Bassett/West Valinda Shuttle	bus
+8450729	Los Angeles County Shuttles			East Valinda Shuttle	bus
+8450730	Los Angeles County Shuttles			Heights Hopper Shuttle	bus
+8450731	Los Angeles County Shuttles			Pellissier Shuttle	bus
+8450732	Los Angeles County Shuttles			Avocado Heights/Bassett/West Valinda Shuttle	bus
 8450733	Los Angeles County Shuttles	Acton & Agua Dulce		LA County Acton & Agua Dulce Shuttle	bus
-8450734	Los Angeles County Shuttles	Beach		LA County Topanga Beach Bus	bus
+8450734	Los Angeles County Shuttles			Topanga Beach Bus	bus
 8450836	Montebello Bus Lines	90		MBL 90	bus
 8450837	Montebello Bus Lines	70		MBL 70	bus
 8450838	Montebello Bus Lines	60		MBL 60	bus
@@ -2685,7 +2685,7 @@
 8455078	Foothill Transit	690		Foothill Transit 690	bus
 8455079	Foothill Transit	499		Foothill Transit 499	bus
 8455080	Foothill Transit	498		Foothill Transit 498	bus
-8455081	Foothill Transit	497			bus
+8455081	Foothill Transit	497		Foothill Transit 497	bus
 8455082	Foothill Transit	495		Foothill Transit 495	bus
 8455083	Foothill Transit	493		Foothill Transit 493	bus
 8455084	Foothill Transit	492		Foothill Transit 492	bus
@@ -2695,9 +2695,9 @@
 8455088				Holt Boulevard	road
 8455089	Foothill Transit	480		Foothill Transit 480	bus
 8455846	Antelope Valley Transit Authority	790		AVTA 790	bus
-8455847	Antelope Valley Transit Authority	787		AVTA 787	bus
-8455848	Antelope Valley Transit Authority	786		AVTA 786	bus
-8455849	Antelope Valley Transit Authority	785		AVTA 785	bus
+8455847	AVTA	787			bus
+8455848	AVTA	786			bus
+8455849	AVTA	785			bus
 8455850	Antelope Valley Transit Authority	52		AVTA 52	bus
 8455851	Antelope Valley Transit Authority	51		AVTA 51	bus
 8455852	Antelope Valley Transit Authority	50		AVTA 50	bus
@@ -2791,8 +2791,8 @@
 8468275	OC Bus	453		OC Bus 453: Orange Transportation Center - St Joseph Hospital	bus
 8470332	OC Bus	560		OC Bus Rapid 560: Santa Ana - Long Beach	bus
 8470333	OC Bus	543		OC Bus Rapid 543: Fullerton - Santa Ana	bus
-8471864	Anaheim Resort Transit	22		ART Route 22	bus
-8471865	Anaheim Resort Transit	17		Canyon Line	bus
+8471864	ART	22			bus
+8471865	ART	17		Canyon Line	bus
 8472118	RTA	3		RTA 3	bus
 8472119	RTA	1		RTA 1	bus
 8472120	RTA	Gold		RTA RapidLink Gold Line	bus
@@ -3346,7 +3346,7 @@
 9237928	RABA	1			bus
 9248935				Patata Industrial Lead	railway
 9282711	US:NFSR:Tahoe:NFR	301-075		NFR 301-075	road
-9282718	Metro Rapid	G		Metro G Line: Canoga → North Hollywood	bus
+9282718	Metro Rapid	G	east		bus
 9295821				McHenry Industrial Lead	railway
 9295906				Lakewood Industrial Lead	railway
 9296132				Sonoma Valley Branch	railway
@@ -3392,9 +3392,9 @@
 9414280	lcn	401			bicycle
 9415994	Torrance Transit	6		Torrance Transit 6 →Artesia	bus
 9415996	Torrance Transit	9		Torrance Transit 9 →Sepulveda/Avalon	bus
-9426155	Long Beach Transit	171		Long Beach Transit 171 PCH to Seal Beach	bus
-9426157	Long Beach Transit	171		Long Beach Transit 171 PCH to Cabrillo	bus
-9426935	Long Beach Transit	23		Long Beach Transit 23 Southbound	bus
+9426155	Long Beach Transit	171	east		bus
+9426157	Long Beach Transit	171	west		bus
+9426935	Long Beach Transit	23	south		bus
 9427063	AC Transit	80		AC Transit 80: Claremont District => El Cerrito Plaza BART	bus:suspended
 9448962	AC Transit	72L		AC Transit 72L: Jack London Square => Contra Costa College	bus
 9463377	PresidiGo	DT		PresidiGo Downtown Shuttle: Main & Howard => Presidio Transit Center	bus
@@ -3420,13 +3420,13 @@
 9479723	AC Transit	M		AC Transit M: Hayward BART => Vintage Park => Hillsdale Shopping Center (mornings)	
 9479903	AC Transit	O		AC Transit O: Fruitvale BART => Salesforce Transit Center	bus
 9480045	AC Transit	840		AC Transit 840: Eastmont Transit Center => Downtown Oakland	bus
-9481032	Long Beach Transit	22		Long Beach Transit 22 Downey Ave to Downtown	bus
-9481034	Long Beach Transit	22		Long Beach Transit 22 Downey Ave to Lakewood Station	bus
-9481036	Long Beach Transit	21		Long Beach Transit 21 Southbound	bus
-9481037	Long Beach Transit	21		Long Beach Transit 21 Northbound	bus
-9481038	Long Beach Transit	23		Long Beach Transit 23 Northbound	bus
-9481041	Long Beach Transit	1		Long Beach Transit 1 eastbound to Del Amo Station	bus
-9481042	Long Beach Transit	1		Long Beach Transit 1 westbound to Cal State Dominguez Hills	bus
+9481032	Long Beach Transit	22	south		bus
+9481034	Long Beach Transit	22	north		bus
+9481036	Long Beach Transit	21	south		bus
+9481037	Long Beach Transit	21	north		bus
+9481038	Long Beach Transit	23	north		bus
+9481041	Long Beach Transit	1	east		bus
+9481042	Long Beach Transit	1	west		bus
 9483712	AC Transit	NX3		AC Transit NX3: Marlow Drive & Foothill Boulevard => Salesforce Transit Center (mornings)	bus
 9483713	AC Transit	NX4		AC Transit NX4: Castro Valley Park and Ride => Salesforce Transit Center (mornings)	bus:suspended
 9486446	AC Transit	OX		AC Transit OX: Bay Farm Island => Salesforce Transit Center (mornings)	
@@ -4009,9 +4009,9 @@
 9934843	VTA	85		VTA 85: Saint Louise Regional Hospital => Monte Bello & Santa Barbara => Gilroy Transit Center	bus
 9934849	VTA	84		VTA 84: Saint Louise Regional Hospital => Gilroy Transit Center	bus
 9934850	VTA	86		VTA 86: Gavilan College => Gilroy Transit Center	bus
-9934978	Metro Rapid	G		Metro G Line: North Hollywood → Chatsworth	bus
-9934979	Metro Rapid	G		Metro G Line: North Hollywood → Canoga	bus
-9934980	Metro Rapid	G		Metro G Line: Chatsworth → North Hollywood	bus
+9934978	Metro Rapid	G	west		bus
+9934979	Metro Rapid	G	west		bus
+9934980	Metro Rapid	G	east		bus
 9935037	VTA	37		VTA 37: Capitol => West Valley College	bus
 9935038	VTA	53		VTA 53: Sunnyvale Transit Center => Santa Clara Transit Center	bus
 9937345	VTA	40		VTA 40: Mountain View => Foothill College	bus
@@ -4279,8 +4279,8 @@
 11482946	lcn	CRT		Coastal Rail Trail	bicycle
 11483178	lcn	BDR			bicycle
 11483380	lcn	VVC			bicycle
-11508977	Big Blue Bus	Rapid 12		Big Blue Bus Rapid 12 Southbound: UCLA => Palms	bus
-11508978	Big Blue Bus	Rapid 12		Big Blue Bus Rapid 12 Northbound: Palms => UCLA	bus
+11508977	Big Blue Bus	Rapid 12	south		bus
+11508978	Big Blue Bus	Rapid 12	north		bus
 11518039				Eucalyptus Trail	hiking
 11518040				Batiquitos Lagoon Nature Trail	hiking
 11520635	VTA	101	north	VTA 101: Camden & Highway 85 => Stanford Research Park (mornings)	bus
@@ -4289,9 +4289,9 @@
 11524050	US:US:Historic	101		Historic U.S. Route 101	road
 11544169					bus
 11544170					bus
-11545847		South		Bellflower Bus South Route	bus
-11547114		North		Bellflower Bus North Route	bus
-11549746	Anaheim Resort Transit	19		Extension of Canyon Line	bus
+11545847	Bellflower	South		Bellflower Bus South Route	bus
+11547114	Bellflower	North		Bellflower Bus North Route	bus
+11549746	ART	19		Extension of Canyon Line	bus
 11593786					
 11593787					
 11601203					road
@@ -4325,47 +4325,47 @@
 11721986	eTrans	35		Route 35 - Escalon Transit (eTrans)	bus
 11722435	StanRTA	25		25 - Orangeburg - Claus - Mall - Downtown Modesto  - Amtrak Station	bus
 11722570	StanRTA	80		80 - Stockton Commuter	bus
-11766696	Big Blue Bus	17		Big Blue Bus 17 Northbound	bus
-11766697	Big Blue Bus	17		Big Blue Bus 17 Southbound	bus
-11769354	Big Blue Bus	8		Big Blue Bus 8 Westbound	bus
-11769356	Big Blue Bus	8		Big Blue Bus 8 Eastbound	bus
-11770074	Big Blue Bus	1		Big Blue Bus 1 Westbound	bus
-11770076	Big Blue Bus	1		Big Blue Bus 1 Eastbound	bus
+11766696	Big Blue Bus	17	north		bus
+11766697	Big Blue Bus	17	south		bus
+11769354	Big Blue Bus	8	west		bus
+11769356	Big Blue Bus	8	east		bus
+11770074	Big Blue Bus	1	west		bus
+11770076	Big Blue Bus	1	east		bus
 11772207	Metro Local	4		Metro 4 Westbound (short turn)	bus
 11772208	Metro Local	4		Metro 4 Eastbound	bus
-11772978	Big Blue Bus	2		Big Blue Bus 2 Westbound	bus
-11772980	Big Blue Bus	2		Big Blue Bus 2 Eastbound	bus
-11773671	Big Blue Bus	18		Big Blue Bus 18 Southbound	bus
-11773672	Big Blue Bus	18		Big Blue Bus 18 Northbound	bus
-11773988	Big Blue Bus	5		Big Blue Bus 5 Eastbound	bus
-11773989	Big Blue Bus	5		Big Blue Bus 5 Westbound	bus
-11777423	Big Blue Bus	15		Big Blue Bus 15 Southbound: Brentwood => Expo/Bundy Station	bus
-11777424	Big Blue Bus	15		Big Blue Bus 15 Northbound: Expo/Bundy Station => Brentwood	bus
-11781296	Big Blue Bus	9		Big Blue Bus 9 Northbound	bus
-11781297	Big Blue Bus	9		Big Blue Bus 9 Southbound	bus
-11781514	Big Blue Bus	44		Big Blue Bus 44 Southbound	bus
-11781515	Big Blue Bus	44		Big Blue Bus 44 Northbound	bus
-11784229	Big Blue Bus	43		Big Blue Bus 43 Eastbound	bus
-11784230	Big Blue Bus	43		Big Blue Bus 43 Westbound	bus
-11785116	Big Blue Bus	14		Big Blue Bus 14 Southbound (school trips)	bus
-11785117	Big Blue Bus	14		Big Blue Bus 14 Southbound	bus
-11785118	Big Blue Bus	14		Big Blue Bus 14 Northbound (school trips)	bus
-11785119	Big Blue Bus	14		Big Blue Bus 14 Northbound	bus
-11787244	Big Blue Bus	16		Big Blue Bus 16 Southbound: Wilshire & Bundy => Playa del Rey	bus
-11787245	Big Blue Bus	16		Big Blue Bus 16 Northbound: Playa del Rey => Wilshire & Bundy	bus
-11787883	Big Blue Bus	3		Big Blue Bus 3 Southbound	bus
-11787884	Big Blue Bus	3		Big Blue Bus 3 Northbound	bus
-11788401	Big Blue Bus	7		Big Blue Bus 7 Westbound: Wilshire/Western Station => Downtown Santa Monica	bus
-11788403	Big Blue Bus	7		Big Blue Bus 7 Eastbound: Downtown Santa Monica => Wilshire/Western Station	bus
+11772978	Big Blue Bus	2	west		bus
+11772980	Big Blue Bus	2	east		bus
+11773671	Big Blue Bus	18	south		bus
+11773672	Big Blue Bus	18	north		bus
+11773988	Big Blue Bus	5	east		bus
+11773989	Big Blue Bus	5	west		bus
+11777423	Big Blue Bus	15	south		bus
+11777424	Big Blue Bus	15	north		bus
+11781296	Big Blue Bus	9	north		bus
+11781297	Big Blue Bus	9	south		bus
+11781514	Big Blue Bus	44	south		bus
+11781515	Big Blue Bus	44	north		bus
+11784229	Big Blue Bus	43	east		bus
+11784230	Big Blue Bus	43	west		bus
+11785116	Big Blue Bus	14	south		bus
+11785117	Big Blue Bus	14	south		bus
+11785118	Big Blue Bus	14	north		bus
+11785119	Big Blue Bus	14	north		bus
+11787244	Big Blue Bus	16	south		bus
+11787245	Big Blue Bus	16	north		bus
+11787883	Big Blue Bus	3	south		bus
+11787884	Big Blue Bus	3	north		bus
+11788401	Big Blue Bus	7	west		bus
+11788403	Big Blue Bus	7	east		bus
 11797251	rwn			Pioneer Trail	hiking
-11798119	Culver CityBus	1		Culver CityBus 1 Westbound: West LA Transit Center => Venice Beach	bus
-11798120	Culver CityBus	1		Culver CityBus 1 Eastbound: Venice Beach => West LA Transit Center	bus
-11806285	Culver CityBus	2		Culver CityBus 2 Southbound: Venice High School => Fox Hills	bus
-11806286	Culver CityBus	2		Culver CityBus 2 Northbound: Fox Hills => Venice High School	bus
+11798119	Culver CityBus	1	west		bus
+11798120	Culver CityBus	1	east		bus
+11806285	Culver CityBus	2	south		bus
+11806286	Culver CityBus	2	north		bus
 11809198	Metro Local	602		Metro 602 Westbound	bus
 11809199	Metro Local	602		Metro 602 Eastbound	bus
-11810130	Culver CityBus	7		Culver CityBus 7 Eastbound: Marina del Rey => Culver City Station	bus
-11810131	Culver CityBus	7		Culver CityBus 7 Westbound: Culver City Station => Marina del Rey	bus
+11810130	Culver CityBus	7	east		bus
+11810131	Culver CityBus	7	west		bus
 11810226	lcn	191			bicycle
 11810227	lcn	173			bicycle
 11810228	lcn	460			bicycle
@@ -4376,16 +4376,16 @@
 11810233	lcn	41			bicycle
 11810234	lcn	213			bicycle
 11810235	lcn	217			bicycle
-11810515	Culver CityBus	4		Culver CityBus 4 Eastbound: Playa Vista => West LA College => West LA Transit Center	bus
-11810516	Culver CityBus	4		Culver CityBus 4 Westbound: West LA Transit Center => West LA College => Playa Vista	bus
-11810517	Culver CityBus	4		Culver CityBus 4 Eastbound: Playa Vista => West LA Transit Center	bus
-11810518	Culver CityBus	4		Culver CityBus 4 Westbound: West LA Transit Center => Playa Vista	bus
+11810515	Culver CityBus	4	east		bus
+11810516	Culver CityBus	4	west		bus
+11810517	Culver CityBus	4	east		bus
+11810518	Culver CityBus	4	west		bus
 11814175	lcn	441			bicycle
 11821776				Randsburg District	railway
-11827100	Culver CityBus	3		Culver CityBus 3 Northbound: Bristol & Centinela => Century City (weekend evenings)	bus
-11827101	Culver CityBus	3		"Culver CityBus 3 Southbound: Century City => Playa Vista (Saturdays, Sundays after 3pm)"	bus
-11827102	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => West LA College => Playa Vista (weekdays)	bus
-11827103	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => West LA College => Century City (weekdays)	bus
+11827100	Culver CityBus	3	north		bus
+11827101	Culver CityBus	3	south		bus
+11827102	Culver CityBus	3	south		bus
+11827103	Culver CityBus	3	north		bus
 11838403	SCT	28		"Grover Beach, Oceano, Arroyo Grande Counterclockwise"	bus
 11838410	SCT	27		"Grover Beach, Arroyo Grande, Oceano Clockwise"	bus
 11838443	SCT	24		Five Cities Loop Counterclockwise	bus
@@ -4402,17 +4402,17 @@
 11842416	SCT			Avila-Pismo Beach Trolley	bus
 11842422	RTA	9		Paso Robles to San Luis Obispo	bus
 11842494	RTA	10		10 - San Luis Obispo to Santa Maria	bus
-11842506	Culver CityBus	6		Culver CityBus 6 Southbound	bus
-11842507	Culver CityBus	6		Culver CityBus 6 Northbound	bus
+11842506	Culver CityBus	6	south		bus
+11842507	Culver CityBus	6	north		bus
 11842584		12		Los Osos-San Luis Obispo	bus
 11843406	RTA	14		San Luis Obispo to Cuesta College	bus
 11843492	RTA	15		"Morro Bay, Cayucos, Cambria, San Simeon. NEW! Cayucos-Morro Bay High School AM/PMTrip M-F"	bus
 11843702	RTA	B		Paso Express B Counter-Clockwise	bus
 11843747	RTA	A		Paso Express A Clockwise	bus
-11846206	Culver CityBus	Rapid 6		Culver CityBus Rapid 6 Southbound	bus
-11846207	Culver CityBus	Rapid 6		Culver CityBus Rapid 6 Northbound	bus
-11846249	Culver CityBus	5		Culver CityBus 5 Westbound: Blair Hills => Culver City Schools	bus
-11846250	Culver CityBus	5		Culver CityBus 5 Eastbound: Venice High School => Blair Hills	bus
+11846206	Culver CityBus	Rapid 6	south		bus
+11846207	Culver CityBus	Rapid 6	north		bus
+11846249	Culver CityBus	5	west		bus
+11846250	Culver CityBus	5	east		bus
 11847487	B-Line	2		2 - Mangrove	bus
 11847547	B-Line	3		3 - Nord / East	bus
 11847556	B-Line	4		4 - First / East	bus
@@ -4510,8 +4510,8 @@
 12140029	US:OR:Named			Pacific Highway	road
 12140059	US:OR:Named			The Dalles-California Highway	road
 12149115	lwn			Mount Wilson Toll Road	hiking
-12166768	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (Sunday mornings)	bus
-12166769	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (Sunday mornings)	bus
+12166768	Culver CityBus	3	north		bus
+12166769	Culver CityBus	3	south		bus
 12167378	RABA	1		Route 1	bus
 12167733	RABA	2E		Route 2 East	bus
 12167752	RABA	2W		Route 2 West	bus
@@ -4680,17 +4680,17 @@
 12415263		50		50 - SOUTH SHORE DAILY	bus
 12415669		55		55 - SOUTH SHORE DAILY	bus
 12417806	NCTD	399		SPRINTER: Escondido => Oceanside	light_rail
-12422723	Metro Rapid	J		Metro J Line: Harbor Gateway → El Monte	bus
+12422723	Metro Rapid	J	northeast		bus
 12422724	Metro Rapid	J	north		bus
 12471816				Yosemite Valley Railroad	railway
 12484795	US:I:Business:Loop	8			road
 12484901	US:I:Business:Loop	8		"I 8 Business (El Cajon, CA)"	road
-12493481	DASH	Crenshaw		DASH Crenshaw Counterclockwise	bus
-12493482	DASH	Crenshaw		DASH Crenshaw Clockwise	bus
-12497338	DASH	Fairfax		DASH Fairfax Westbound: Wilshire => Cedars-Sinai	bus
-12497339	DASH	Fairfax		DASH Fairfax Eastbound: Cedars-Sinai => Wilshire	bus
-12520387	DASH	Midtown		DASH Midtown Northbound: Crenshaw Mall => Midtown Crossing	bus
-12520388	DASH	Midtown		DASH Midtown Southbound: Midtown Crossing => Crenshaw Mall	bus
+12493481	DASH		counterclockwise		bus
+12493482	DASH		clockwise		bus
+12497338	DASH	563	west		bus
+12497339	DASH	563	east		bus
+12520387	DASH	576	north		bus
+12520388	DASH	576	south		bus
 12532275				Nacimiento-Fergusson Road	road
 12550621	lwn	TCT		Trans-Catalina Trail	hiking
 12561996	FAX	1		FAX Q	bus
@@ -4713,8 +4713,8 @@
 12573908	FAX	58		NE FRESNO/CHILDRENS HOSP	bus
 12574068	lwn			Yana Trail	hiking
 12595682				Communications Hill Trail	bicycle
-12604270	DASH	Hollywood		DASH Hollywood Counterclockwise	bus
-12604271	DASH	Hollywood		DASH Hollywood Clockwise	bus
+12604270	DASH		counterclockwise		bus
+12604271	DASH		clockwise		bus
 12606676	Santa Barbara MTD	1		West Santa Barbara	bus
 12606721	Santa Barbara MTD	2		East Santa Barbara	bus
 12606917	Santa Barbara MTD	3		Oak Park	bus
@@ -4759,14 +4759,14 @@
 12629992	Visalia Transit	11X		Route 11X	bus
 12630108	Visalia Transit	15		Route 15	bus
 12630201	Visalia Transit	16		Route 16	bus
-12637903	DASH	Hollywood/Wilshire		DASH Hollywood/Wilshire Southbound: Hollywood/Vine => Wilshire/Western	bus
-12637904	DASH	Hollywood/Wilshire		DASH Hollywood/Wilshire Northbound: Wilshire/Western => Hollywood/Vine	bus
+12637903	DASH	565	south		bus
+12637904	DASH	565	north		bus
 12644150	lwn			Creeks to Peaks	hiking
 12647790					road
 12691891				Sawpit	mtb
 12691892		174M			mtb
-12714235	DASH	Wilshire Center/Koreatown		DASH Wilshire Center/Koreatown Counterclockwise	bus
-12714236	DASH	Wilshire Center/Koreatown		DASH Wilshire Center/Koreatown Clockwise	bus
+12714235	DASH				bus
+12714236	DASH				bus
 12737850					bicycle
 12737994	Muni	43		Muni 43 outbound: Pacific Heights => The Excelsior	bus
 12737995	Muni	43		Muni 43 inbound: The Excelsior => Pacific Heights	bus
@@ -4839,7 +4839,6 @@
 13134449				Long Ridge	mtb
 13134469				West	mtb
 13134470				Red Hill	mtb
-13134577	ncn	95			bicycle
 13134592				East Ridge	mtb
 13134593				Hihn Hammond	mtb
 13134610				Skyline To The Sea Mountain Bike	mtb
@@ -4876,8 +4875,8 @@
 13381732	PVVTA	6		Wellness Express	bus
 13384919	MBTA	12		Yucca Valley - Palm Springs	bus
 13389498	SunLine Transit Agency	10		10 - Commuter Link	bus
-13396249	Long Beach Transit	104		Long Beach Transit 104 Spring Street (westbound)	bus
-13396250	Long Beach Transit	104		Long Beach Transit 104 Spring Street (eastbound)	bus
+13396249	Long Beach Transit	104	west		bus
+13396250	Long Beach Transit	104	east		bus
 13396337	Palo Verde Valley Transit Agency	2		Gold Route	bus
 13396504	PVVTA	4		Green Route	bus
 13399787	lcn			Addison Street Bicycle Boulevard	bicycle
@@ -4961,12 +4960,12 @@
 13618498	Eastern Sierra Transit	MMX		Mammoth Express	bus
 13625154	Eastern Sierra Transit	Reds Meadow Shuttle		REDS MEADOW - DEVILS POSTPILE  SHUTTLE	bus
 13631763		Yellow (Winter)			bus
-13643533	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Bristol & Centinela (weekday evenings)	bus
-13643534	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Playa Vista (weekdays)	bus
-13643535	Culver CityBus	3		"Culver CityBus 3 Northbound: Playa Vista => Century City (Saturdays, Sundays after 3pm)"	bus
-13643536	Culver CityBus	3		Culver CityBus 3 Southbound: Century City => Bristol & Centinela (weekend evenings)	bus
-13643537	Culver CityBus	3		Culver CityBus 3 Northbound: Bristol & Centinela => Century City (weekday evenings)	bus
-13643538	Culver CityBus	3		Culver CityBus 3 Northbound: Playa Vista => Century City (weekdays)	bus
+13643533	Culver CityBus	3	south		bus
+13643534	Culver CityBus	3	south		bus
+13643535	Culver CityBus	3	north		bus
+13643536	Culver CityBus	3	south		bus
+13643537	Culver CityBus	3	north		bus
+13643538	Culver CityBus	3	north		bus
 13643737	Eastern Sierra Transit	Blue		Blue Line Shuttle (Winter)	bus
 13648218	Delano Area Rapid Transit	1		Route 1	bus
 13648421	Corona Cruiser	Blue		Blue Route	bus
@@ -4994,8 +4993,8 @@
 13716664	Tulare County Regional Transit Agency	T1		Route 1 North Tulare	bus
 13726325	Tulare County Regional Transit Agency	T4		Route 4 Northeast Tulare	bus
 13726379	Tulare County Regional Transit Agency	T5		Route 5 Southwest Tulare	bus
-13726951	Long Beach Transit	141		Long Beach Transit 141 Eastbound: Artesia A Line Station -> Cerritos	bus
-13726952	Long Beach Transit	141		Long Beach Transit 141 Westbound: Cerritos -> Artesia A Line Station	bus
+13726951	Long Beach Transit	141	east		bus
+13726952	Long Beach Transit	141	west		bus
 13727095	Torrance Transit	13		Torrance Transit 13 Eastbound: Redondo Beach -> Artesia A Line Station	bus
 13727096	Torrance Transit	13		Torrance Transit 13 Westbound: Artesia A Line Station -> Redondo Beach	bus
 13757641	lcn				bicycle
@@ -5064,11 +5063,11 @@
 13885466	Treasure Island Ferry			Treasure Island Ferry: Treasure Island Ferry Terminal => San Francisco Ferry Building	ferry
 13885468	Treasure Island Ferry			Treasure Island Ferry: San Francisco Ferry Building => Treasure Island Ferry Terminal	ferry
 13887559	Amtrak Thruway	1C		Route 1C - Bakersfield • Burbank • Westwood-UCLA • Santa Monica	bus
-13887815	DASH	Beachwood Canyon		DASH Beachwood Canyon Southbound: Beachwood Canyon => Hollywood/Vine	bus
-13887816	DASH	Beachwood Canyon		DASH Beachwood Canyon Northbound: Hollywood/Vine => Beachwood Canyon	bus
-13891332	DASH	Observatory/Los Feliz		DASH Observatory/Los Feliz Southbound: Los Feliz & Hillhurst => Vermont/Sunset (mornings)	bus
-13891333	DASH	Observatory/Los Feliz		DASH Observatory/Los Feliz Northbound: Vermont/Sunset => Observatory	bus
-13891334	DASH	Observatory/Los Feliz		DASH Observatory/Los Feliz Southbound: Observatory => Vermont/Sunset	bus
+13887815	DASH	562	south		bus
+13887816	DASH	562	north		bus
+13891332	DASH		south		bus
+13891333	DASH		north		bus
+13891334	DASH		south		bus
 13894662	Metro Local	134		Metro 134 Westbound: Santa Monica → Malibu Trancas	bus
 13894663	Metro Local	134		Metro 134 Eastbound: Malibu Trancas → Santa Monica	bus
 13894866	VCTC Intercity	52X		Highway 101 - Route 55X	bus
@@ -5167,7 +5166,7 @@
 14039508	lwn				hiking
 14039872	BLFX			Brightline West	train
 14040474	lwn			Pipeline Road	hiking
-14040997	Amtrak Thruway	39		39 - Fullerton - Palm Springs - Coachella Valley	bus
+14040997	Amtrak Thruway	39			bus
 14049553				Palm Canyon Epic	bicycle
 14052972	US:US:Historic	40			road
 14060288	lwn			Rincon Fire Road	hiking
@@ -5253,15 +5252,15 @@
 14077908	Metro Local	37		Metro 37 Westbound	bus
 14077909	Metro Local	14		Metro 14 Eastbound	bus
 14077910	Metro Local	14		Metro 14 Westbound	bus
-14081003	Big Blue Bus	Rapid 10		Big Blue Bus Rapid 10 Westbound	bus
-14081004	Big Blue Bus	Rapid 10		Big Blue Bus Rapid 10 Eastbound	bus
+14081003	Big Blue Bus	Rapid 10	west		bus
+14081004	Big Blue Bus	Rapid 10	east		bus
 14081386	Metro Local	16		Metro 16 Westbound	bus
 14081387	Metro Local	16		Metro 16 Eastbound	bus
 14084425	lcn			Car-Free JFK	bicycle
-14084623	Metro Rapid	720		Metro 720 Eastbound (short turn)	bus
-14084625	Metro Rapid	720		Metro 720 Westbound (short turn)	bus
+14084623	Metro Rapid	720			bus
+14084625	Metro Rapid	720			bus
 14084626	Metro Rapid	720	east		bus
-14084627	Metro Rapid	720		Metro 720 Westbound	bus
+14084627	Metro Rapid	720			bus
 14084628	Metro Local	20		Metro 20 Eastbound (daytime)	bus
 14084629	Metro Local	20		Metro 20 Westbound (daytime)	bus
 14084630	Metro Local	20		Metro 20 Westbound (evening/overnight)	bus
@@ -5286,25 +5285,25 @@
 14119047	Metro Local	33		Metro 33 Westbound (short turn)	bus
 14119048	Metro Local	33		Metro 33 Eastbound	bus
 14119049	Metro Local	33		Metro 33 Westbound	bus
-14130324	DASH	Pico Union/Echo Park		DASH Pico Union/Echo Park Northbound	bus
-14130325	DASH	Pico Union/Echo Park		DASH Pico Union/Echo Park Southbound	bus
+14130324	DASH	705	north		bus
+14130325	DASH	705	south		bus
 14130339	lwn			Mountain Palm Springs Loop	hiking
-14130553	DASH	F		DASH Downtown Los Angeles Route F Northbound	bus
-14130554	DASH	F		DASH Downtown Los Angeles Route F Southbound	bus
-14133146	DASH	D		DASH Downtown Los Angeles Route D Northbound	bus
-14133147	DASH	D		DASH Downtown Los Angeles Route D Southbound	bus
+14130553	DASH	F	north		bus
+14130554	DASH	F	south		bus
+14133146	DASH	D	north		bus
+14133147	DASH	D	south		bus
 14133315				Great Southern Overland Stage Route	stagecoach
-14134108	Commuter Express	534		Commuter Express 534 Eastbound	bus
-14134109	Commuter Express	534		Commuter Express 534 Westbound	bus
+14134108	Commuter Express	534	east		bus
+14134109	Commuter Express	534	west		bus
 14136484	lwn			Wetlands Walk Trail	foot
-14136924	Commuter Express	431		Commuter Express 431 Eastbound via Loyola	bus
-14136925	Commuter Express	431		Commuter Express 431 Eastbound	bus
-14136926	Commuter Express	431		Commuter Express 431 Westbound via Loyola	bus
-14136927	Commuter Express	431		Commuter Express 431 Westbound	bus
-14137363	Commuter Express	437B		Commuter Express 437B Westbound	bus
-14137364	Commuter Express	437B		Commuter Express 437B Eastbound	bus
-14137365	Commuter Express	437A		Commuter Express 437A Eastbound	bus
-14137366	Commuter Express	437A		Commuter Express 437A Westbound	bus
+14136924	Commuter Express	431	east		bus
+14136925	Commuter Express	431	east		bus
+14136926	Commuter Express	431	west		bus
+14136927	Commuter Express	431	west		bus
+14137363	Commuter Express	437B	west		bus
+14137364	Commuter Express	437B	east		bus
+14137365	Commuter Express	437A	east		bus
+14137366	Commuter Express	437A	west		bus
 14156760	lcn	CTR		Cross Town Bicycle Route	bicycle
 14157044	lcn			Isabel Avenue Trail	bicycle
 14205573	lwn			Montgomery Trail	hiking
@@ -5354,12 +5353,12 @@
 14422284	US:CA:Mendocino	435		Briceland Road	road
 14425531	US:NFSR:secondary:low_maintenance	13E10		Fordyce Jeep Trail	road
 14427974	Omnitrans	87		87 - Chaffey College - Ontario - Eastvale	bus
-14431219	DASH	A		DASH Downtown Los Angeles Route A Westbound	bus
-14431220	DASH	A		DASH Downtown Los Angeles Route A Eastbound	bus
-14431231	DASH	E		DASH Downtown Los Angeles Route E Northbound	bus
-14431232	DASH	E		DASH Downtown Los Angeles Route E Southbound	bus
-14431255	DASH	B		DASH Downtown Los Angeles Route B Southbound	bus
-14431256	DASH	B		DASH Downtown Los Angeles Route B Northbound	bus
+14431219	DASH	A	west		bus
+14431220	DASH	A	east		bus
+14431231	DASH	E	north		bus
+14431232	DASH	E	south		bus
+14431255	DASH	B	south		bus
+14431256	DASH	B	north		bus
 14436097	Muni	58		Muni 58 inbound: Daly City => Stonestown	bus
 14439720	Muni	58		Muni 58 outbound: Stonestown => Daly City	bus
 14465160				Streets	road
@@ -5373,8 +5372,8 @@
 14508608	Omnitrans	380		380 - ONT Connect	bus
 14525476	US:US:Historic	99		Historic U.S. Route 99	road
 14526703	Omnitrans	300		SB Connect: Arrow Rail - Downtown San Bernardino	bus
-14531528	DASH	King-East		DASH King-East Clockwise	bus
-14531529	DASH	King-East		DASH King-East Counterclockwise	bus
+14531528	DASH		clockwise		bus
+14531529	DASH		counterclockwise		bus
 14540400	Metro Local	105		Metro 105 Eastbound (overnight)	bus
 14540401	Metro Local	105		Metro 105 Westbound (overnight)	bus
 14540402	Metro Local	105		Metro 105 Southbound/Eastbound	bus
@@ -5391,8 +5390,8 @@
 14607790	Metro Local	212		Metro 212 Northbound	bus
 14669499	Sequoia Shuttle	2		MORO ROCK / CRESCENT MEADOW	bus
 14669548	Sequoia Shuttle	1		THE GIANT FOREST ROUTE	bus
-14669755	Metro Rail	K		Metro K Line: Redondo Beach → Expo/Crenshaw	light_rail
-14669756	Metro Rail	K		Metro K Line: Expo/Crenshaw → Redondo Beach	light_rail
+14669755	Metro Rail	K	north		light_rail
+14669756	Metro Rail	K	south		light_rail
 14699975	Sequoia Shuttle	4		WOLVERTON ROUTE	bus
 14699985	Sequoia Shuttle	3		LODGEPOLE / WUKSACHI ROUTE	bus
 14700302					power
@@ -5436,8 +5435,8 @@
 15001845	lcn	Ueda		Walter S. Ueda Parkway Trail	bicycle
 15015482	DASH	Sylmar		DASH Sylmar Southbound	bus
 15015483	DASH	Sylmar		DASH Sylmar Northbound	bus
-15015504	DASH	North Hollywood		DASH North Hollywood Clockwise	bus
-15015505	DASH	North Hollywood		DASH North Hollywood Counterclockwise	bus
+15015504	DASH		clockwise		bus
+15015505	DASH		counterclockwise		bus
 15025623	OC Bus	46		OC Bus 46: Orange - Seal Beach (Weekend)	bus
 15031540	Metro Local	206		Metro 206 Southbound: Hollywood → Athens	bus
 15031541	Metro Local	206		Metro 206 Northbound: Athens → Hollywood	bus
@@ -5446,8 +5445,8 @@
 15035702	Metro Local	207		Metro 207 Northbound	bus
 15035703	Metro Local	207		Metro 207 Southbound	bus
 15063115	lcn			Jackrabbit Trail	bicycle
-15068409	DASH	Leimert/Slauson		DASH Leimert/Slauson Counterclockwise	bus
-15068410	DASH	Leimert/Slauson		DASH Leimert/Slauson Clockwise	bus
+15068409	DASH		counterclockwise		bus
+15068410	DASH		clockwise		bus
 15074962	Eastern Sierra Transit	Green		Green Line	bus
 15081056				Death Valley Scenic Byway	road
 15081204				Ebbetts Pass Scenic Byway	road
@@ -5460,8 +5459,8 @@
 15097730	Metro Local	210		Metro 210 Northbound	bus
 15100395	rwn;rcn			Arcata Ridge Trail	hiking;mtb
 15259918	Glendora Shuttle	Metrolink Shuttle		Metrolink Shuttle	bus
-15267926	Glendora Shuttle	North Route		Gold Line Shuttle - North Route	bus
-15267984	Glendora Shuttle	South Route		Gold Line Shuttle - South Route	bus
+15267926	Glendora Shuttle	N		North Route	bus
+15267984	Glendora Shuttle	SE		South Route	bus
 15268364	Metro Local	40		Metro 40 Southbound (overnight)	bus
 15268365	Metro Local	40		Metro 40 Northbound (overnight)	bus
 15268366	Metro Local	40		Metro 40 Northbound (early morning)	bus
@@ -5514,7 +5513,7 @@
 15530895	El Monte Transit	Yellow		Yellow Route	bus
 15531083	El Monte Transit	Blue		Blue Route	bus
 15534232	Rosemead Explorer	1		Route 1	bus
-15534612	Arcadia Transit	Green		Green Line -Huntington/ Baldwin (Weekday)	bus
+15534612	Arcadia Transit	Green		Green Line	bus
 15541767	Metro Local	93		Metro 93 Southbound	bus
 15541768	Metro Local	93		Metro 93 Northbound	bus
 15544824	VCTC Intercity	84		84 - Coastal Express	bus
@@ -5539,7 +5538,7 @@
 15580311	Bruin Bus	U3		U3 Weyburn Gateway Plaza	bus
 15584113	Bruin Bus	U4		U4 University Apartments	bus
 15584221	Bruin Bus	U5		U5 Evening/SafeRide Loop	bus
-15587386	Duarte eBus	860		Blue: Mountain Vista Plaza - Huntington Drive - Royal Oaks	bus
+15587386	Duarte eBus	860		Blue	bus
 15591038	Fresno County Rural Transit Agency	Southeast		Southeast Inter-City Transit	bus
 15594035	Fresno County Rural Transit Agency	Sanger		Sanger Express	bus
 15598105	City of Lompoc Transit	WineX		Wine Country Express	bus
@@ -5703,23 +5702,23 @@
 16086987		Orange		Orange Line	bus
 16087704		SBA		SBA Economy Lot Shuttle	share_taxi
 16090777	Madera Metro	Green		Green Line	bus
-16093531	DASH	Highland Park/Eagle Rock		DASH Highland Park/Eagle Rock Westbound	bus
-16093532	DASH	Highland Park/Eagle Rock		DASH Highland Park/Eagle Rock Eastbound	bus
+16093531	DASH	566	west		bus
+16093532	DASH	566	east		bus
 16096150	Santa Maria Regional Transit	6		6 - Orcutt - Crossroads Shopping Center - Oak Knolls Shopping Center	bus
 16099603	Madera Metro	Purple		Purple Line	bus
 16099868	Santa Maria Regional Transit	13X		13X - Transit Center - Broadway - Pioneer Valley High School	bus
 16102940	Santa Maria Regional Transit	8		Tanglewood - Crossroad Shopping Center	bus
-16103162	La Campana	La Campana		La Campana	bus
-16107793	Cudahy Area Rapid Transit	Cudahy		Cudahy	bus
+16103162	La Campana			La Campana	bus
+16107793	CART			Cudahy	bus
 16111663	Get Around Town Express	Westside		Westside Route	bus
 16114319	Santa Maria Regional Transit	4		4 -  Transit Center - Santa Maria High School	bus
 16114461	Get Around Town Express	Eastside		Eastside Route	bus
 16117466	Maywood Express	Maywood		Maywood Express	bus
 16128421	US:CA			Route 8U	road
-16129250	Bell Gardens Trolley	Trolley		Bell Gardens Trolley	bus
+16129250	Bell Gardens Trolley			Bell Gardens Trolley	trolleybus
 16132437	DowneyLink	Northwest		Northwest Route	bus
 16135352	DowneyLink	Northeast		Northeast Route	bus
-16135547	Duarte eBus	861		Green: Mountain Vista Plaza – Huntington Dr – Royal Oaks	bus
+16135547	Duarte eBus	861		Green	bus
 16150272				Bel Marin Keys Fitness Trail	fitness_trail
 16153516					bicycle
 16153517	rcn			Walnut Bikeway	bicycle
@@ -5779,7 +5778,7 @@
 16201534	US:I:Business:Loop	8		"I 8 Business (Winterhaven, CA)"	road
 16204921	Bronco Express Shuttle	M2		M2 - Main Campus/Village Shuttle	bus
 16205132	Gateway Coach	GC		Gateway Coach	bus
-16237102	City of Commerce Transit	100		100 - Commerce Center - Veterans Park	bus
+16237102	City of Commerce Transit	100			bus
 16237255	Metro Local	233		Metro 233 Northbound (overnight)	bus
 16237256	Metro Local	233		Metro 233 Northbound (daytime short turn)	bus
 16237257	Metro Local	233		Metro 233 Northbound (daytime)	bus
@@ -5789,10 +5788,10 @@
 16237261	Metro Rapid	761		Metro 761 Northbound	bus
 16237262	Metro Rapid	761		Metro 761 Southbound	bus
 16237666	DowneyLink	Southeast		Southeast Route	bus
-16240461	City of Commerce Transit	200		200 - Commerce Center - Cal State	bus
+16240461	City of Commerce Transit	200			bus
 16241014	Beaumont Transit	9		9 - Seneca Springs | Beaumont High School	bus
-16244162	City of Commerce Transit	400		400 - Commerce Center – Transit Center – Bandini	bus
-16247111	City of Commerce Transit	300		300 - Veterans Park - Civic Center	bus
+16244162	City of Commerce Transit	400			bus
+16247111	City of Commerce Transit	300			bus
 16249522	DowneyLink	Southwest		Southwest Route	bus
 16251638	Muni	714		"Muni 714 outbound: Salesforce Transit Center => Daly City BART (weekdays, early mornings)"	bus
 16252219	Muni	714		"Muni 714 inbound: Daly City BART => Salesforce Transit Center (weekdays, early mornings)"	bus
@@ -5802,9 +5801,9 @@
 16299879	US:CA:Siskiyou	1C01		Sawyers Bar Road	road
 16308324				Hayvenhurst Avenue	road
 16312148	Mission Bay	CCA		Mission Bay CCA/Adobe Shuttle (mornings)	bus
-16312590	City of Commerce Transit	500		500 - Neighborhood Parks - Libraries - Connection Points	bus
+16312590	City of Commerce Transit	500			bus
 16315186	rwn			Half Dome Trail	hiking
-16320643	City of Commerce Transit	600		600 - Transit Center – Citadel Outlets – Downtown LA	bus
+16320643	City of Commerce Transit	600			bus
 16321289	Lynwood Breeze	A		Route A - Red	bus
 16327278	Lynwood Breeze	B		Route B - Green	bus
 16330727	lcn			OC Loop	bicycle
@@ -5817,34 +5816,34 @@
 16336407	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 4	hiking
 16336450	lwn	CT		San Francisco Crosstown Trail - Hiking - Section 5	hiking
 16339142	Lynwood Breeze	D		Route D - Blue	bus
-16339561	I Line	I Line		I Line Shuttle	bus
-16348022	Cityline	Local		Cityline Local - East to La Brea	bus
-16351426	Cityline	Local		Cityline Local - West to Cedars-Sinai	bus
-16366902	Cityline	Commuter		Cityline Commuter - West to West Hollywood	bus
+16339561	I Line	I		I Line Shuttle	bus
+16348022	Cityline	Local	east		bus
+16351426	Cityline	Local	west		bus
+16366902	Cityline	Commuter	west		bus
 16371570	US:CA	19			road
-16377678	Artesia Transit	Artesia		Artesia Transit	bus
+16377678	Artesia Transit			Artesia	bus
 16379418	US:NFSR:Trinity:NF	4		Big Mountain Road	road
 16380762	Cerritos on Wheels	1A		Route 1A	bus
 16385082	Cerritos On Wheels	1B		Route 1B	bus
 16394220	lcn;lwn			Musser Homestead Loop Trail	foot;mtb
 16412659	Cerritos On Wheels	1C		Route 1C	bus
-16413205	Cityline	Commuter		Cityline Commuter - East to Hollywood/Highland	bus
+16413205	Cityline	Commuter	east		bus
 16419377	Cerritos On Wheels	2A		Route 2A	bus
 16435890				Dwight D. Eisenhower Highway	road
 16442066	Cerritos on Wheels	2B		Route 2B	bus
 16450749	Lake County Transit	1		Bus 1: Clearlake → Lakeport	bus
-16458758	Long Beach Transit	8		Long Beach Transit 8 Westbound	bus
-16458759	Long Beach Transit	8		Long Beach Transit 8 Eastbound	bus
-16458760	Long Beach Transit	4		Long Beach Transit 4 Eastbound	bus
-16458761	Long Beach Transit	4		Long Beach Transit 4 Westbound	bus
-16458762	Long Beach Transit	2		Long Beach Transit 2 Northbound	bus
-16458763	Long Beach Transit	2		Long Beach Transit 2 Southbound	bus
+16458758	Long Beach Transit	8	west		bus
+16458759	Long Beach Transit	8	east		bus
+16458760	Long Beach Transit	4	east		bus
+16458761	Long Beach Transit	4	west		bus
+16458762	Long Beach Transit	2	north		bus
+16458763	Long Beach Transit	2	south		bus
 16467852	Lake County Transit	1		Bus 1: Lakeport → Clearlake	bus
-16467981	Long Beach Transit	175		Long Beach Transit 175 PCH to Cal State Long Beach	bus
-16467982	Long Beach Transit	175		Long Beach Transit 175 PCH to Cabrillo	bus
+16467981	Long Beach Transit	175	east		bus
+16467982	Long Beach Transit	175	west		bus
 16467996	Long Beach Transit	41		Long Beach Transit 41	bus
-16468043	Long Beach Transit	405		Long Beach Transit 405 to Long Beach	bus
-16468044	Long Beach Transit	405		Long Beach Transit 405 to UCLA	bus
+16468043	Long Beach Transit	405	south		bus
+16468044	Long Beach Transit	405	north		bus
 16476987				Audubon Scenic Drive	road
 16490843	rwn			High Sierra Camp Loop	hiking
 16491364				Mark Twain River Boat	ferry
@@ -5943,10 +5942,10 @@
 16800764	Metro Local	55		Metro 55 Northbound (overnight)	bus
 16800765	Metro Local	55		Metro 55 Southbound (overnight)	bus
 16800766	Metro Local	55		Metro 55 Southbound	bus
-16805845	DASH	Pueblo del Rio		DASH Pueblo del Rio Northbound	bus
-16805846	DASH	Pueblo del Rio		DASH Pueblo del Rio Southbound	bus
-16809390	DASH	Southeast		DASH Southeast Counterclockwise	bus
-16809391	DASH	Southeast		DASH Southeast Clockwise	bus
+16805845	DASH	1756	north		bus
+16805846	DASH	1756	south		bus
+16809390	DASH	SE	counterclockwise		bus
+16809391	DASH	SE	clockwise		bus
 16811278	lcn				bicycle
 16822310	US:NFSR:Inyo:NF			Lee Vining Canyon National Forest Scenic Byway	road
 16824859				New Millenium Loop Trail	hiking;foot;bicycle
@@ -5968,22 +5967,22 @@
 17015417				Delaney-Colorado River	power
 17015536				Pushwalla Palms Loop	hiking
 17041465	rcn			East Bay Greenway	bicycle
-17058716	Beeline	1		Beeline 1 Southbound	bus
-17058717	Beeline	1		Beeline 1 Northbound	bus
-17062665	Beeline	11		Beeline 11 Southbound	bus
-17062666	Beeline	11		Beeline 11 Northbound	bus
+17058716	Beeline	1	south		bus
+17058717	Beeline	1	north		bus
+17062665	Beeline	11	south		bus
+17062666	Beeline	11	north		bus
 17068946				Pacific Electric El Prado Bridge	railway
 17068947	Pacific Electric Railway			San Pedro-Via Gardena Line	railway
-17077216	Beeline	6		Beeline 6 Westbound	bus
+17077216	Beeline	6	west		bus
 17077217	Beeline	6	east		bus
-17077505	Beeline	4		Beeline 4 Southbound	bus
-17077506	Beeline	4		Beeline 4 Northbound	bus
+17077505	Beeline	4	south		bus
+17077506	Beeline	4	north		bus
 17079589	lwn			Shadow Creek Trail	hiking
 17081578				Rancheria Cross Country Ski Trail	piste
-17086674	Beeline	5		Beeline 5 Northbound	bus
-17086675	Beeline	5		Beeline 5 Southbound	bus
-17086700	Beeline	8		Beeline 8 Northbound	bus
-17086701	Beeline	8		Beeline 8 Southbound	bus
+17086674	Beeline	5	north		bus
+17086675	Beeline	5	south		bus
+17086700	Beeline	8	north		bus
+17086701	Beeline	8	south		bus
 17090022				Raven	piste
 17090023					piste
 17090024					piste
@@ -6020,10 +6019,10 @@
 17131335	RoyalGorgeXC			Retour des Fatigues	piste
 17131336	RoyalGorgeXC			Kidd Lake	piste
 17134198	lwn			Rush Creek Trail	hiking
-17205103	Beeline	12		Beeline 12 Southbound	bus
-17205104	Beeline	12		Beeline 12 Northbound	bus
-17206554	Beeline	7		Beeline 7 Westbound	bus
-17206555	Beeline	7		Beeline 7 Eastbound	bus
+17205103	Beeline	12	south		bus
+17205104	Beeline	12	north		bus
+17206554	Beeline	7	west		bus
+17206555	Beeline	7	east		bus
 17212340	Metro Local	296		Metro 296 Southbound	bus
 17212341	Metro Local	296		Metro 296 Northbound	bus
 17215153	lwn			High Trail	hiking
@@ -6032,8 +6031,8 @@
 17275376				Pajaro Valley Consolidated Railroad	railway
 17286559	lcn			Trestle Glen Road	bicycle
 17299544				B+L Trail	hiking
-17300843	DASH	Chesterfield Square		DASH Chesterfield Square Eastbound	bus
-17300844	DASH	Chesterfield Square		DASH Chesterfield Square Westbound	bus
+17300843	DASH	712	east		bus
+17300844	DASH	712	west		bus
 17301585	VTA	Blue		Blue Line: Civic Center => Santa Teresa	light_rail
 17301586	VTA	Blue		Blue Line: Santa Teresa => Civic Center	light_rail
 17332192	Tri Delta Transit	200X			bus
@@ -6042,8 +6041,8 @@
 17337021	Tri Delta Transit	201X			bus
 17344784	The Link	Florence-Firestone/Walnut Park		The Link Florence-Firestone/Walnut Park Shuttle Clockwise	bus
 17344785	The Link	Florence-Firestone/Walnut Park		The Link Florence-Firestone/Walnut Park Shuttle Counterclockwise	bus
-17348141	DASH	Watts		DASH Watts Counterclockwise	bus
-17348142	DASH	Watts		DASH Watts Clockwise	bus
+17348141	DASH		counterclockwise		bus
+17348142	DASH		clockwise		bus
 17368186	ncn	85			bicycle
 17394131				Joe Gallison Pathway	foot
 17415666	lwn			Big Trees Loop Trail	hiking
@@ -6053,8 +6052,8 @@
 17415670	lwn			Perimeter Trail	hiking
 17434637	rcn	85			bicycle
 17434714	lcn	995			bicycle
-17457806	DASH	Vermont/Main		DASH Vermont/Main Counterclockwise	bus
-17457807	DASH	Vermont/Main		DASH Vermont/Main Clockwise	bus
+17457806	DASH		counterclockwise		bus
+17457807	DASH		clockwise		bus
 17463928	ncn	95	south		bicycle
 17470568	Metro Local	53		Metro 53 Southbound (short turn)	bus
 17470569	Metro Local	53		Metro 53 Southbound (late night)	bus
@@ -6079,12 +6078,12 @@
 17504178	Metro Local	251		Metro 251 Northbound: Long Beach Boulevard Station → Cypress Park	bus
 17504179	Metro Local	251		Metro 251 Northbound: Long Beach Boulevard Station → Eagle Rock	bus
 17512569				Pincushion Peak Trail	hiking
-17524410	iShuttle	400A		400A - Tustin Station	bus
-17524739	iShuttle	401B		401B - Tustin Station	bus
+17524410	iShuttle	400A			bus
+17524739	iShuttle	401B			bus
 17555542	Metro Local	605		Metro 605 Northbound	bus
 17555543	Metro Local	605		Metro 605 Southbound	bus
-17555698	DASH	Boyle Heights/East LA		DASH Boyle Heights/East LA Northbound	bus
-17555699	DASH	Boyle Heights/East LA		DASH Boyle Heights/East LA Southbound	bus
+17555698	DASH	707	north		bus
+17555699	DASH	707	south		bus
 17567982	Anteater Express	A		A Line	bus
 17568036	Anteater Express	E		E Line	bus
 17568044	Anteater Express	H		H Line	bus
@@ -6102,11 +6101,11 @@
 17600543	OC Bus	54		OC Bus 54: Garden Grove - Orange	bus
 17603669	Amtrak Thruway	20		Sacramento - Roseville - Colfax - Reno	bus
 17613090	MTS	227		227 - Otay Mesa Transit Center - Imperial Beach Pier	bus
-17626981	FlyAway	FlyAway Union Station		LAX FlyAway Union Station: Union Station => LAX	bus
-17626982	FlyAway	FlyAway Union Station		LAX FlyAway Union Station: LAX => Union Station	bus
+17626981	FlyAway		south		bus
+17626982	FlyAway		north		bus
 17634742				San Vicente Lumber Company Railroad	railway
-17636693	FlyAway	FlyAway Van Nuys		LAX FlyAway Van Nuys: Van Nuys => LAX	bus
-17636694	FlyAway	FlyAway Van Nuys		LAX FlyAway Van Nuys: LAX => Van Nuys	bus
+17636693	FlyAway		south		bus
+17636694	FlyAway		north		bus
 17651732	OC Bus	167		OC Bus 167: Orange - Irvine	bus
 17655159	lcn	PRB		Pendleton Recreational Bicycling	bicycle
 17655189	ncn	95	north		bicycle
@@ -6394,10 +6393,10 @@
 18798919	Tri Delta Transit	391			bus
 18798920	Tri Delta Transit	391			bus
 18798983	Tri Delta Transit	395			bus
-18803749	Beach Cities Transit	102	south	Beach Cities Transit 102 (southbound)	bus
-18803750	Beach Cities Transit	102	north	Beach Cities Transit 102 (northbound)	bus
+18803749	Beach Cities Transit	102	south		bus
+18803750	Beach Cities Transit	102	north		bus
 18808601	lwn			Bump and Grind Trail	hiking
-18814890	Beach Cities Transit	109	south	Beach Cities Transit 109 (southbound)	bus
+18814890	BCT	109	south		bus
 18858896	lcn	27MN			bicycle
 18864739	lcn	22			bicycle
 18956696	lwn			North Coast Ridge Trail	hiking
@@ -7734,3 +7733,4 @@
 21570374	MSJWPA	PS	northeast		aerialway
 21607617	US:BLM:BCB			Buckhorn Back Country Byway	road
 21619652		10990	south	Bus 10990: N. Main/Across from Dollar General → Across from Etna Ray's Market	bus
+21677687		10990	south	Bus 10990: Ager → Greenview Post Office → Etna City Yard/Howell/Church St.	bus

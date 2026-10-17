@@ -279,7 +279,7 @@
 531907	US:MO	2			road
 549983	US:MO:Supplemental	JJ			road
 549987	US:MO:Supplemental	Z			road
-904839	Amtrak		east		train
+904839	Amtrak		east	Amtrak Southwest Chief: Los Angeles => Chicago	train
 1024803	US:MO	350			road
 1059604	US:MO:Supplemental	V			road
 1059606	US:MO:Supplemental	C			road
@@ -576,7 +576,7 @@
 4466004	Tiger Line	401		Hearnes Loop	bus
 4652182	rwn	R2R		River to River Segment 7 - Alto Pass to Devil's Backbone	hiking
 4681285				"Kansas City, Clay County & St Joseph Railroad"	railway
-4720713	Amtrak		west		train
+4720713	Amtrak		west	Amtrak Southwest Chief: Chicago → Los Angeles	train
 4743862	Amtrak	Missouri River Runner		Amtrak Missouri River Runner: Saint Louis => Kansas City	train
 4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
 5011764				Blue route	bus

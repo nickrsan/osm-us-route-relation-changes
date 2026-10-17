@@ -8,7 +8,7 @@
 271767	US:US	70			road
 297142	Amtrak	Sunset Limited		Amtrak Sunset Limited: New Orleans => Los Angeles	train
 337352	US:I	40	west		road
-904839	Amtrak		east		train
+904839	Amtrak		east	Amtrak Southwest Chief: Los Angeles => Chicago	train
 1023471	lcn	MT		Mountain Avenue	bicycle
 1023472	lcn	Rillito		Rillito River Path	bicycle
 1023510	lcn			Bear Down Bikeway	bicycle
@@ -418,7 +418,7 @@
 4683731	US:US	163			road
 4683741	US:US	160		Navajo Trail	road
 4717133	rwn			Prescott Circle Trail	hiking
-4720713	Amtrak		west		train
+4720713	Amtrak		west	Amtrak Southwest Chief: Chicago → Los Angeles	train
 4740475				Apache Railway (Snowflake - McNary - Maverick section)	railway
 4848173	lwn			Bear Flat Trail #178	hiking
 4848941	lwn	270B		Crest Trail #270B	hiking

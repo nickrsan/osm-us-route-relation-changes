@@ -6563,7 +6563,7 @@
 9965555	lhn			Bumps Pond Trail	hiking
 9965810	lcn			Old Erie Path Rail-Trail	bicycle
 9965812				Old Erie Path Rail-Trail	hiking
-9965931				Raymond G. Esposito Trail	hiking
+9965931	lwn			Raymond G. Esposito Trail	hiking
 9965932	lcn			Raymond G. Esposito Trail	bicycle
 9967855	SBU Transit	OA		Outer Loop A	bus
 9968097	SBU Transit	I		Inner Loop	bus
@@ -6965,7 +6965,6 @@
 11895438	lwn			Bulldog Trail	hiking
 11895439	lwn			Frightful Falls Trail	hiking
 11895440	lwn			Gribley Trail	hiking
-11908081	lwn;lhn	RP		Rockefeller State Park Preserve Trails	hiking;horse
 11913832	Amtrak	Pennsylvanian		Amtrak Pennsylvanian: New York => Pittsburgh	train
 11914025	Amtrak	Keystone Service		Amtrak Keystone Service: New York => Harrisburg	train
 11914027	Amtrak	Keystone Service		Amtrak Keystone Service: New York => Harrisburg	train
@@ -11692,3 +11691,6 @@
 21635037				Blue Trail	hiking
 21635100				White Trail	hiking
 21635197				Yellow Trail	hiking
+21690484				Raven's Rock Trail	hiking;horse
+21693350				Round Lake Outlet Portage	portage
+21693351				name=Cascades Portage	portage

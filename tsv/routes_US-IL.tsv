@@ -109,7 +109,7 @@
 448197	US:US	45			road
 448495	US:US	51			road
 530401	US:GRR			Great River Road (Illinois - other routes)	road
-904839	Amtrak		east		train
+904839	Amtrak		east	Amtrak Southwest Chief: Los Angeles => Chicago	train
 932961	Metra	UP-W	west	Metra Union Pacific West: Ogilvie Transportation Center => Elburn	train
 932962	Metra	UP-N	south	Metra Union Pacific North: Kenosha => Ogilvie Transportation Center	train
 932963	Metra	UP-NW	north	Metra Union Pacific Northwest: Ogilvie Transportation Center => Harvard	train
@@ -784,7 +784,7 @@
 4683450	Pace	310	west	Bus 310: Forest Park CTA Station -> Harrison/Wolf	bus
 4683493	Pace	311	south	Bus 311: North/Narragansett -> 47th/Lawndale	bus
 4683612	Pace	313		St. Charles Road	bus
-4720713	Amtrak		west		train
+4720713	Amtrak		west	Amtrak Southwest Chief: Chicago → Los Angeles	train
 4732506	US:IL:Macon	28			road
 4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
 4744150	Amtrak	Carl Sandburg/Illinois Zephyr		Amtrak Carl Sandburg/Illinois Zephyr: Chicago => Quincy	train
@@ -1015,8 +1015,8 @@
 8436202	Amtrak	City of New Orleans		Amtrak City of New Orleans: Chicago => New Orleans	train
 8438427	Amtrak	Illini/Saluki		Amtrak Saluki: Carbondale => Chicago	train
 8438428	Amtrak	Illini/Saluki		Amtrak Illini: Chicago => Carbondale	train
-8440301	Amtrak	CZ	east		train
-8440320	Amtrak	CZ	west		train
+8440301	Amtrak	CZ	east	Amtrak California Zephyr: Emeryville => Chicago	train
+8440320	Amtrak	CZ	west	Amtrak California Zephyr: Chicago => Emeryville	train
 8521065	CTA	1	south	Bus 1: Union Station -> Michigan/34th Street	bus
 8521473	CTA	1	north	Bus 1: 35th/Indiana -> Union Station (Adams/Canal)	bus
 8521474	CTA	1	north	Bus 1: Indiana/35th Street -> Union Station (Jackson/Canal)	bus
@@ -1233,6 +1233,7 @@
 9538318				North 8th Street	road
 9575999				County Road 175 East	road
 9583683	lcn	OFB		O'Fallon Bikeway	bicycle
+9626368					railway
 9628291				Fox Lake Subdivision	railway
 9762984	lcn			Robert McClory Bike Path	bicycle
 9762985	lcn				bicycle
