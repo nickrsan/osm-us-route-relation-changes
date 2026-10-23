@@ -2695,9 +2695,9 @@
 8455088				Holt Boulevard	road
 8455089	Foothill Transit	480		Foothill Transit 480	bus
 8455846	Antelope Valley Transit Authority	790		AVTA 790	bus
-8455847	AVTA	787			bus
-8455848	AVTA	786			bus
-8455849	AVTA	785			bus
+8455847	Antelope Valley Transit Authority	787			bus
+8455848	Antelope Valley Transit Authority	786			bus
+8455849	Antelope Valley Transit Authority	785			bus
 8455850	Antelope Valley Transit Authority	52		AVTA 52	bus
 8455851	Antelope Valley Transit Authority	51		AVTA 51	bus
 8455852	Antelope Valley Transit Authority	50		AVTA 50	bus
@@ -7734,3 +7734,7 @@
 21607617	US:BLM:BCB			Buckhorn Back Country Byway	road
 21619652		10990	south	Bus 10990: N. Main/Across from Dollar General → Across from Etna Ray's Market	bus
 21677687		10990	south	Bus 10990: Ager → Greenview Post Office → Etna City Yard/Howell/Church St.	bus
+21724710				North Coast Rail Trail	hiking
+21726658	lwn			Etna Elementary School Cross Country Course	foot
+21726659	lwn			Fort Jones Junior High School Cross Country Course	foot
+21730859	lwn			Scott Valley Schools' Turkey Trot 6 Mile Route	foot

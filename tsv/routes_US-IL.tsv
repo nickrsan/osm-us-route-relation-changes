@@ -69,6 +69,7 @@
 183773	US:IL	68			road
 185409	US:I	88			road
 228605	US:I	70	west		road
+301517	US:US	12			road
 301529	US:US	12			road
 331089	US:US	24			road
 331495	US:US	24			road
@@ -581,6 +582,7 @@
 2248046	lcn			Riverside Ring Route	bicycle
 2293486				Iowa Interstate Railroad	railway
 2304381	US:US	41			road
+2304382	US:US	41			road
 2304407	US:US	45			road
 2304411	US:US	45			road
 2304445	US:US	51			road
@@ -590,6 +592,7 @@
 2308406	US:US	6			road
 2308512	US:US	14			road
 2308560	US:US	20			road
+2308561	US:US	20			road
 2308736	US:US	136			road
 2308741	US:US	30			road
 2308745	US:US	34			road
@@ -2313,6 +2316,7 @@
 14907680				East 2450 North Road	road
 14955786	lwn			Constance’s Story Trail	foot
 14957218	GLCT	LMCT		Lake Michigan Circle Tour	road
+14957298	GLCT	LMCT		Lake Michigan Circle Tour	road
 14976733	US:IL:Macon	27			road
 14976734	US:LHT		west	Lincoln Heritage Trail	road
 14976735	US:LHT		east	Lincoln Heritage Trail	road
@@ -2661,7 +2665,7 @@
 17853621				NICTD South Shore Line	railway
 17865961		CWT		Chicago Water Taxi - Michigan Avenue to Chinatown	ferry
 17881593	CTA	75	east	Bus 75: 79th/Western -> 75th/Lakefront	bus
-17890959				Frank Lloyd Wright Trail	road
+17890959	US:WI:FLWT			Frank Lloyd Wright Trail	road
 17905868	CTA	76	west	Bus 76: Nature Museum -> Diversey/Harlem	bus
 17910923		CWT		Chicago Water Taxi- Chinatown to Ogilvie/Union	ferry
 17910924		CWT		Chicago Water Taxi - Michigan Avenue to Ogilvie/Union	ferry
@@ -3346,3 +3350,4 @@
 21607610	lcn			Clark Bridge	bicycle
 21632225				Indiana Harbor Belt Railroad 3rd track	railway
 21632226				Connector	railway
+21748481	lcn			Liberty Heights Trail	bicycle

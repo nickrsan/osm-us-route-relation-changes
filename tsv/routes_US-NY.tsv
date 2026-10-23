@@ -857,7 +857,6 @@
 1346556	US:MA	71			road
 1358974	Amtrak	Lake Shore Limited		Amtrak Lake Shore Limited: Chicago => New York	train
 1359387	Amtrak	Vermonter		Amtrak Vermonter: Washington => Saint Albans	train
-1359680	US:MA:old_turnpike			Worthington Turnpike	road
 1359681	US:MA:old_turnpike			Williamstown Turnpike	road
 1361573	US:CT	35			road
 1361658	US:CT	41			road
@@ -910,7 +909,6 @@
 1376502				Charlotte Branch	railway
 1376503				Niagara Branch	railway
 1376504				Harlem Line	railway
-1376505				Rockland Lake Branch	railway
 1376506				Albany Branch	railway
 1376507				Port Morris Branch	railway
 1376508				Chenango Branch	railway
@@ -5909,8 +5907,8 @@
 9295634	Nassau Inter-County Express	n22X		NICE n22X	bus
 9295635	Nassau Inter-County Express	n22		NICE n22 Mineola Bus Terminall --> Jamaica Bus Terminal	bus
 9295636	Nassau Inter-County Express	n20G		NICE n20G	bus
-9295637	Nassau Inter-County Express	n16NCC		NICE n16NCC	bus
-9295638	Nassau Inter-County Express	n16X		NICE n16X	bus
+9295637	Nassau Inter-County Express	n16NCC		NICE n16NCC	
+9295638	Nassau Inter-County Express	n16X		NICE n16X	
 9296115	Nassau Inter-County Express	n43		NICE n43	bus
 9296116	Nassau Inter-County Express	n40/41		NICE n40/41 - Mineola LIRR --> Freeport	bus
 9296117	Nassau Inter-County Express	n35		NICE n35 Westbury --> Baldwin Harbor	bus
@@ -6527,7 +6525,7 @@
 9766970	lcn			Keuka Lake Outlet Trail	bicycle
 9766982	lcn			Niagara Scenic Parkway Trail	bicycle
 9766997	lcn			Cayuga-Seneca Canalway Trail	bicycle
-9767000	lcn			Nyack River Trail	bicycle;hiking;mtb;running
+9767000				Nyack River Trail	bicycle;hiking;mtb;running
 9767006	lcn			River-to-Ridge Trail	bicycle
 9767008	lcn			Black River Trail	bicycle
 9767020	lcn	JBC		Joseph B Clarke Rail Trail	bicycle
@@ -6562,7 +6560,7 @@
 9965554	lwn			Sleeping Beauty Trail	hiking
 9965555	lhn			Bumps Pond Trail	hiking
 9965810	lcn			Old Erie Path Rail-Trail	bicycle
-9965812				Old Erie Path Rail-Trail	hiking
+9965812	lwn			Old Erie Path Rail-Trail	hiking
 9965931	lwn			Raymond G. Esposito Trail	hiking
 9965932	lcn			Raymond G. Esposito Trail	bicycle
 9967855	SBU Transit	OA		Outer Loop A	bus
@@ -6763,7 +6761,7 @@
 11126038				Horn Hill Loop	mtb;hiking
 11126057				Red Back Trail Mountain Bike Section	mtb
 11126062				Munsee Eagle	mtb;hiking
-11134030	lwn			Haverstraw River Trail	hiking
+11134030				Haverstaw River Trail	hiking;bicycle
 11140000	nwn	NCT		North Country National Scenic Trail (NY)	hiking
 11149097	TCAT	30		TCAT 30 Inbound Ithaca Mall - Commons	bus
 11155352	lcn			Historic Vischer Ferry Hamlet Trail	bicycle
@@ -10371,7 +10369,7 @@
 19186713	lcn			East 168th Street	bicycle
 19191561	lcn			Foster Avenue	bicycle
 19209452	lcn	O&W		O&W Connector	bicycle
-19212754	lcn			181st/182nd St (proposed)	bicycle
+19212754	lcn			181st/182nd St	bicycle
 19215604	lhn			Brasher-Bombay State Forests	horse
 19215617	lhn			Lost Nation State Forest	horse
 19215638	lhn			Whiskey Flats State Forest	horse
@@ -11676,7 +11674,7 @@
 21436727	lcn			Roosevelt Avenue Bridge	bicycle
 21451734	Discover Niagara Shuttle	Falls to Fort		Discover Niagara Shuttle Falls to Fort: Old Fort Niagara → Niagara Falls	bus
 21451735	Discover Niagara Shuttle	Falls to Fort		Discover Niagara Shuttle Falls to Fort: Niagara Falls → Old Fort Niagara	bus
-21451754	lwn			Boulders Loop	hiking
+21451754				Boulders Loop	hiking
 21460977	Discover Niagara Shuttle	Four Mile		Discover Niagara Shuttle Four Mile Loop	bus
 21460978	Discover Niagara Shuttle	Lockport		Discover Niagara Shuttle Lockport: Lockport → Niagara Falls	bus
 21460979	Discover Niagara Shuttle	Lockport		Discover Niagara Shuttle Lockport: Niagara Falls → Lockport	bus
@@ -11694,3 +11692,6 @@
 21690484				Raven's Rock Trail	hiking;horse
 21693350				Round Lake Outlet Portage	portage
 21693351				name=Cascades Portage	portage
+21703841	rpn			Whitney Wilderness Canoe Loop	canoe
+21726156	lcn			Sedgwick Avenue	bicycle
+21739305				Overlook Trail	hiking
