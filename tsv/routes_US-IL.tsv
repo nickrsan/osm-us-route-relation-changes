@@ -786,7 +786,7 @@
 4683396	Pace	309	west	Bus 309: Lake/Austin -> Elmhurst Metra Station	bus
 4683450	Pace	310	west	Bus 310: Forest Park CTA Station -> Harrison/Wolf	bus
 4683493	Pace	311	south	Bus 311: North/Narragansett -> 47th/Lawndale	bus
-4683612	Pace	313		St. Charles Road	bus
+4683612	Pace	313	west	Bus 313: Lake/Austin -> Branding/Finley	bus
 4720713	Amtrak		west	Amtrak Southwest Chief: Chicago → Los Angeles	train
 4732506	US:IL:Macon	28			road
 4744138	Amtrak	Lincoln Service		Amtrak Lincoln Service: Saint Louis => Chicago	train
@@ -3351,3 +3351,4 @@
 21632225				Indiana Harbor Belt Railroad 3rd track	railway
 21632226				Connector	railway
 21748481	lcn			Liberty Heights Trail	bicycle
+21797629	Pace	313	east	Bus 313: Branding/Finley -> Lake/Austin	bus

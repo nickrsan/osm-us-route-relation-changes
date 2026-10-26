@@ -437,7 +437,7 @@
 4849000	lwn	365		Jones Ridge Trail #365	hiking
 4849007	lwn	246		Snowshed Trail #246	hiking
 4849012	lwn	240		Burro Trail #240	hiking
-5509062	ncn	90			bicycle
+5509062	ncn	90		90 (Arizona)	bicycle
 5519054	lcn	3		Mesa Route 3	bicycle
 5541148	lcn	1		Mesa Route 1	bicycle
 5541149	lcn	2		Mesa Route 2	bicycle
@@ -1659,3 +1659,5 @@
 21570031	US:BLM:BCB			Parker Dam Road Back Country Byway	road
 21570039	US:Navajo	6732			road
 21585579	US:BLM:BCB			Black Hills Back Country Byway	road
+21798350	US:UT:San_Juan	470		San Juan County Road 470	road
+21798351	US:Navajo	5060		Navajo Route 5060	road
